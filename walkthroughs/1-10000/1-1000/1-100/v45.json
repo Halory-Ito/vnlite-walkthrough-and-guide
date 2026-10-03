@@ -1,0 +1,762 @@
+{
+  "vid": "v45",
+  "name": {
+    "zh-cn": "Phantom INTEGRATION",
+    "en-us": "Phantom of Inferno",
+    "ja-Latn": "phantom"
+  },
+  "level": 2,
+  "updatedAt": "2026-05-08",
+  "routes": [
+    {
+      "id": "route_game",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_escape_sleep",
+          "name": "逃跑者的安眠",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_common_01",
+              "type": "choice",
+              "content": "寻求帮助"
+            },
+            {
+              "id": "step_common_02",
+              "type": "choice",
+              "content": "考虑名为Ein的少女的事情"
+            },
+            {
+              "id": "step_common_03",
+              "type": "choice",
+              "content": "出声叫住她"
+            },
+            {
+              "id": "step_common_04",
+              "type": "choice",
+              "content": "沉默地看着"
+            },
+            {
+              "id": "step_common_05",
+              "type": "choice",
+              "content": "询问她关于今天的事"
+            },
+            {
+              "id": "step_common_06",
+              "type": "choice",
+              "content": "小刀"
+            },
+            {
+              "id": "step_common_07",
+              "type": "choice",
+              "content": "弹数多的枪"
+            },
+            {
+              "id": "step_common_08",
+              "type": "choice",
+              "content": "COLT PYTHON 357 Magnum 4inch Model"
+            },
+            {
+              "id": "step_common_09",
+              "type": "choice",
+              "content": "克劳蒂娅",
+              "subfix": "选 Ein 回收CG"
+            },
+            {
+              "id": "step_common_10",
+              "type": "choice",
+              "content": "不知道"
+            },
+            {
+              "id": "step_common_11",
+              "type": "choice",
+              "content": "COLT PYTHON 357 Magnum 4inch Model"
+            },
+            {
+              "id": "step_common_12",
+              "type": "choice",
+              "content": "再想一想"
+            },
+            {
+              "id": "step_escape_sleep_01",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_escape_sleep_02",
+              "type": "choice",
+              "content": "逃跑"
+            }
+          ]
+        },
+        {
+          "id": "ending_endless_nightmare",
+          "name": "无尽噩梦",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_endless_nightmare_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_endless_nightmare_02",
+              "type": "choice",
+              "content": "开枪"
+            },
+            {
+              "id": "step_endless_nightmare_03",
+              "type": "choice",
+              "content": "试着驾驶"
+            },
+            {
+              "id": "step_endless_nightmare_04",
+              "type": "choice",
+              "content": "再试一次"
+            },
+            {
+              "id": "step_endless_nightmare_05",
+              "type": "choice",
+              "content": "COLT PYTHON 357 Magnum 4inch Model"
+            },
+            {
+              "id": "step_endless_nightmare_06",
+              "type": "choice",
+              "content": "能行"
+            },
+            {
+              "id": "step_endless_nightmare_07",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_endless_nightmare_08",
+              "type": "choice",
+              "content": "独自逃走"
+            }
+          ]
+        },
+        {
+          "id": "ending_dream_end",
+          "name": "梦的终焉",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_dream_end_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_dream_end_02",
+              "type": "choice",
+              "content": "无论如何也要救Ein"
+            },
+            {
+              "id": "step_dream_end_03",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_dream_end_04",
+              "type": "choice",
+              "content": "返回组织"
+            },
+            {
+              "id": "step_dream_end_05",
+              "type": "choice",
+              "content": "无视她"
+            },
+            {
+              "id": "step_dream_end_06",
+              "type": "choice",
+              "content": "COLT PYTHON 357 Magnum 4inch Model"
+            },
+            {
+              "id": "step_dream_end_07",
+              "type": "choice",
+              "content": "去克劳蒂娅的家"
+            },
+            {
+              "id": "step_dream_end_08",
+              "type": "choice",
+              "content": "阻止他"
+            },
+            {
+              "id": "step_dream_end_09",
+              "type": "choice",
+              "content": "MATEBA MODEL 2006M"
+            },
+            {
+              "id": "step_dream_end_10",
+              "type": "choice",
+              "content": "确认一下"
+            },
+            {
+              "id": "step_dream_end_11",
+              "type": "choice",
+              "content": "MATEBA MODEL 2006M"
+            },
+            {
+              "id": "step_dream_end_12",
+              "type": "choice",
+              "content": "任由事态发展"
+            }
+          ]
+        },
+        {
+          "id": "ending_ominous_ghost",
+          "name": "不详亡灵",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_ominous_ghost_01",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_ominous_ghost_02",
+              "type": "choice",
+              "content": "逃离组织"
+            },
+            {
+              "id": "step_ominous_ghost_03",
+              "type": "choice",
+              "content": "不让她去"
+            },
+            {
+              "id": "step_ominous_ghost_04",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_ominous_ghost_05",
+              "type": "choice",
+              "content": "放着不管"
+            },
+            {
+              "id": "step_ominous_ghost_06",
+              "type": "choice",
+              "content": "回答她"
+            },
+            {
+              "id": "step_ominous_ghost_07",
+              "type": "choice",
+              "content": "再陪她一会"
+            },
+            {
+              "id": "step_ominous_ghost_08",
+              "type": "choice",
+              "content": "COLT PYTHON 357 Magnum 4inch Model"
+            },
+            {
+              "id": "step_ominous_ghost_09",
+              "type": "choice",
+              "content": "一起去买东西"
+            },
+            {
+              "id": "step_ominous_ghost_10",
+              "type": "choice",
+              "content": "去克劳蒂娅那儿"
+            },
+            {
+              "id": "step_ominous_ghost_11",
+              "type": "choice",
+              "content": "沉默的看着"
+            },
+            {
+              "id": "step_ominous_ghost_12",
+              "type": "choice",
+              "content": "BERETTA M92FS"
+            },
+            {
+              "id": "step_ominous_ghost_13",
+              "type": "choice",
+              "content": "答应她"
+            },
+            {
+              "id": "step_ominous_ghost_14",
+              "type": "choice",
+              "content": "确认一下"
+            },
+            {
+              "id": "step_ominous_ghost_15",
+              "type": "choice",
+              "content": "接受她的感情"
+            },
+            {
+              "id": "step_ominous_ghost_16",
+              "type": "choice",
+              "content": "抱凯尔"
+            },
+            {
+              "id": "step_ominous_ghost_17",
+              "type": "choice",
+              "content": "BERETTA M92FS"
+            },
+            {
+              "id": "step_ominous_ghost_18",
+              "type": "save",
+              "content": "SAVE 5"
+            },
+            {
+              "id": "step_ominous_ghost_19",
+              "type": "choice",
+              "content": "把他们全杀了"
+            }
+          ]
+        },
+        {
+          "id": "ending_fugitives",
+          "name": "逃亡者们",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_fugitives_01",
+              "type": "load",
+              "content": "LOAD 5"
+            },
+            {
+              "id": "step_fugitives_02",
+              "type": "choice",
+              "content": "逃亡"
+            }
+          ]
+        },
+        {
+          "id": "ending_southward",
+          "name": "向南",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_southward_01",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_southward_02",
+              "type": "choice",
+              "content": "安慰她"
+            },
+            {
+              "id": "step_southward_03",
+              "type": "save",
+              "content": "SAVE 6"
+            },
+            {
+              "id": "step_southward_04",
+              "type": "choice",
+              "content": "无视她"
+            },
+            {
+              "id": "step_southward_05",
+              "type": "choice",
+              "content": "COLT PYTHON 357 Magnum 4inch Model"
+            },
+            {
+              "id": "step_southward_06",
+              "type": "choice",
+              "content": "去克劳蒂娅的家"
+            },
+            {
+              "id": "step_southward_07",
+              "type": "choice",
+              "content": "沉默地看着"
+            },
+            {
+              "id": "step_southward_08",
+              "type": "choice",
+              "content": "MATEBA MODEL 2006M"
+            },
+            {
+              "id": "step_southward_09",
+              "type": "choice",
+              "content": "确认一下"
+            },
+            {
+              "id": "step_southward_10",
+              "type": "choice",
+              "content": "MATEBA MODEL 2006M"
+            },
+            {
+              "id": "step_southward_11",
+              "type": "choice",
+              "content": "确认袭击者"
+            }
+          ]
+        },
+        {
+          "id": "ending_mountain_beginning",
+          "name": "山上的开始",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_mountain_beginning_01",
+              "type": "load",
+              "content": "LOAD 6"
+            },
+            {
+              "id": "step_mountain_beginning_02",
+              "type": "choice",
+              "content": "回答她"
+            },
+            {
+              "id": "step_mountain_beginning_03",
+              "type": "choice",
+              "content": "再陪她一会"
+            },
+            {
+              "id": "step_mountain_beginning_04",
+              "type": "choice",
+              "content": "COLT PYTHON 357 Magnum 4inch Model"
+            },
+            {
+              "id": "step_mountain_beginning_05",
+              "type": "choice",
+              "content": "一起去买东西"
+            },
+            {
+              "id": "step_mountain_beginning_06",
+              "type": "choice",
+              "content": "去克劳蒂娅那儿"
+            },
+            {
+              "id": "step_mountain_beginning_07",
+              "type": "save",
+              "content": "SAVE 7"
+            },
+            {
+              "id": "step_mountain_beginning_08",
+              "type": "choice",
+              "content": "阻止他"
+            },
+            {
+              "id": "step_mountain_beginning_09",
+              "type": "choice",
+              "content": "MATEBA MODEL 2006M"
+            },
+            {
+              "id": "step_mountain_beginning_10",
+              "type": "choice",
+              "content": "答应她"
+            },
+            {
+              "id": "step_mountain_beginning_11",
+              "type": "choice",
+              "content": "确认一下"
+            },
+            {
+              "id": "step_mountain_beginning_12",
+              "type": "choice",
+              "content": "MATEBA MODEL 2006M"
+            },
+            {
+              "id": "step_mountain_beginning_13",
+              "type": "choice",
+              "content": "确认袭击者"
+            },
+            {
+              "id": "step_mountain_beginning_14",
+              "type": "choice",
+              "content": "超莉兹开枪"
+            },
+            {
+              "id": "step_mountain_beginning_15",
+              "type": "save",
+              "content": "SAVE 8"
+            },
+            {
+              "id": "step_mountain_beginning_16",
+              "type": "choice",
+              "content": "击杀克劳蒂娅"
+            }
+          ]
+        },
+        {
+          "id": "ending_high_tower_queen",
+          "name": "高阁女王",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_high_tower_queen_01",
+              "type": "load",
+              "content": "LOAD 8"
+            },
+            {
+              "id": "step_high_tower_queen_02",
+              "type": "choice",
+              "content": "寻求解脱"
+            }
+          ]
+        },
+        {
+          "id": "ending_moonlight_solitude",
+          "name": "月夜孤影",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_moonlight_solitude_01",
+              "type": "load",
+              "content": "LOAD 7"
+            },
+            {
+              "id": "step_moonlight_solitude_02",
+              "type": "choice",
+              "content": "沉默得看着"
+            },
+            {
+              "id": "step_moonlight_solitude_03",
+              "type": "choice",
+              "content": "BERETTA M92FS"
+            },
+            {
+              "id": "step_moonlight_solitude_04",
+              "type": "choice",
+              "content": "答应她"
+            },
+            {
+              "id": "step_moonlight_solitude_05",
+              "type": "choice",
+              "content": "确认一下"
+            },
+            {
+              "id": "step_moonlight_solitude_06",
+              "type": "save",
+              "content": "SAVE 9"
+            },
+            {
+              "id": "step_moonlight_solitude_07",
+              "type": "choice",
+              "content": "接受她的感情"
+            },
+            {
+              "id": "step_moonlight_solitude_08",
+              "type": "choice",
+              "content": "抱凯尔"
+            },
+            {
+              "id": "step_moonlight_solitude_09",
+              "type": "choice",
+              "content": "BERETTA M92FS"
+            },
+            {
+              "id": "step_moonlight_solitude_10",
+              "type": "choice",
+              "content": "确认袭击者"
+            },
+            {
+              "id": "step_moonlight_solitude_11",
+              "type": "choice",
+              "content": "逃亡"
+            },
+            {
+              "id": "step_moonlight_solitude_12",
+              "type": "choice",
+              "content": "摆出战斗的架势"
+            },
+            {
+              "id": "step_moonlight_solitude_13",
+              "type": "save",
+              "content": "SAVE 10"
+            },
+            {
+              "id": "step_moonlight_solitude_14",
+              "type": "choice",
+              "content": "一个人静一静"
+            },
+            {
+              "id": "step_moonlight_solitude_15",
+              "type": "choice",
+              "content": "BERETTA M92FS"
+            },
+            {
+              "id": "step_moonlight_solitude_16",
+              "type": "choice",
+              "content": "反抗命运"
+            },
+            {
+              "id": "step_moonlight_solitude_17",
+              "type": "save",
+              "content": "SAVE 11"
+            },
+            {
+              "id": "step_moonlight_solitude_18",
+              "type": "choice",
+              "content": "寻找江涟"
+            }
+          ]
+        },
+        {
+          "id": "ending_wind_sand_road",
+          "name": "风沙之路",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_wind_sand_road_01",
+              "type": "load",
+              "content": "LOAD 11"
+            },
+            {
+              "id": "step_wind_sand_road_02",
+              "type": "choice",
+              "content": "寻找凯尔"
+            }
+          ]
+        },
+        {
+          "id": "ending_sakura_street",
+          "name": "樱花飞舞的街道",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_sakura_street_01",
+              "type": "load",
+              "content": "LOAD 10"
+            },
+            {
+              "id": "step_sakura_street_02",
+              "type": "choice",
+              "content": "去找美绪"
+            },
+            {
+              "id": "step_sakura_street_03",
+              "type": "choice",
+              "content": "答应她"
+            },
+            {
+              "id": "step_sakura_street_04",
+              "type": "choice",
+              "content": "BERETTA M92FS"
+            },
+            {
+              "id": "step_sakura_street_05",
+              "type": "choice",
+              "content": "再和美绪聊聊"
+            },
+            {
+              "id": "step_sakura_street_06",
+              "type": "choice",
+              "content": "反抗命运"
+            },
+            {
+              "id": "step_sakura_street_07",
+              "type": "choice",
+              "content": "不说明"
+            },
+            {
+              "id": "step_sakura_street_08",
+              "type": "choice",
+              "content": "要是美绪有个万一怎么办？"
+            }
+          ]
+        },
+        {
+          "id": "ending_transparent",
+          "name": "Transparent",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_transparent_01",
+              "type": "load",
+              "content": "LOAD 9"
+            },
+            {
+              "id": "step_transparent_02",
+              "type": "choice",
+              "content": "岔开话题"
+            },
+            {
+              "id": "step_transparent_03",
+              "type": "choice",
+              "content": "BERETTA M92FS"
+            },
+            {
+              "id": "step_transparent_04",
+              "type": "choice",
+              "content": "确认袭击者"
+            },
+            {
+              "id": "step_transparent_05",
+              "type": "choice",
+              "content": "摆出战斗的架势"
+            },
+            {
+              "id": "step_transparent_06",
+              "type": "choice",
+              "content": "留在这里"
+            },
+            {
+              "id": "step_transparent_07",
+              "type": "choice",
+              "content": "拒绝她"
+            },
+            {
+              "id": "step_transparent_08",
+              "type": "choice",
+              "content": "BERETTA M92FS"
+            },
+            {
+              "id": "step_transparent_09",
+              "type": "save",
+              "content": "SAVE 12"
+            },
+            {
+              "id": "step_transparent_10",
+              "type": "choice",
+              "content": "反抗命运"
+            },
+            {
+              "id": "step_transparent_11",
+              "type": "choice",
+              "content": "看着她"
+            }
+          ]
+        },
+        {
+          "id": "ending_blue_sky_road",
+          "name": "苍穹之路",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_blue_sky_road_01",
+              "type": "load",
+              "content": "LOAD 12"
+            },
+            {
+              "id": "step_blue_sky_road_02",
+              "type": "choice",
+              "content": "逃避命运"
+            },
+            {
+              "id": "step_blue_sky_road_03",
+              "type": "save",
+              "content": "SAVE 13"
+            },
+            {
+              "id": "step_blue_sky_road_04",
+              "type": "choice",
+              "content": "呼唤她"
+            }
+          ]
+        },
+        {
+          "id": "ending_toward_blue_sky_end",
+          "name": "向着苍穹的尽头",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_toward_blue_sky_end_01",
+              "type": "load",
+              "content": "LOAD 13"
+            },
+            {
+              "id": "step_toward_blue_sky_end_02",
+              "type": "choice",
+              "content": "看着她"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,625 @@
+{
+  "vid": "v3938",
+  "name": {
+    "zh-cn": "黄昏的禁忌之药",
+    "ja-jp": "黄昏のシンセミア",
+    "ja-Latn": "tasogare-no-sinsemilla"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-15",
+  "routes": [
+    {
+      "id": "route_gin",
+      "name": "银子",
+      "endings": [
+        {
+          "id": "ending_gin_bad",
+          "name": "银子 BAD END",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_gin_bad_01",
+              "type": "choice",
+              "content": "去湖边看看",
+              "group": "7月15日"
+            },
+            {
+              "id": "step_gin_bad_02",
+              "type": "choice",
+              "content": "去造访她家看看",
+              "group": "7月15日"
+            },
+            {
+              "id": "step_gin_bad_03",
+              "type": "choice",
+              "content": "问问看",
+              "group": "7月17日"
+            },
+            {
+              "id": "step_gin_bad_04",
+              "type": "choice",
+              "content": "那不是熊崽吧",
+              "group": "7月19日"
+            },
+            {
+              "id": "step_gin_bad_05",
+              "type": "choice",
+              "content": "还是去寻找银子",
+              "group": "7月24日"
+            },
+            {
+              "id": "step_gin_bad_06",
+              "type": "choice",
+              "content": "去神社",
+              "group": "7月25日"
+            },
+            {
+              "id": "step_gin_bad_07",
+              "type": "choice",
+              "content": "只想听银子说那是幻觉",
+              "group": "7月25日"
+            },
+            {
+              "id": "step_gin_bad_08",
+              "type": "choice",
+              "content": "告诉世人比较好",
+              "group": "7月25日"
+            },
+            {
+              "id": "step_gin_bad_09",
+              "type": "choice",
+              "content": "视内容而定",
+              "group": "7月25日"
+            }
+          ]
+        },
+        {
+          "id": "ending_gin_bad2",
+          "name": "银子 BAD END",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_gin_bad2_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_gin_bad2_02",
+              "type": "choice",
+              "content": "想知道那现实中不可能存在的怪物的理由",
+              "group": "7月25日"
+            },
+            {
+              "id": "step_gin_bad2_03",
+              "type": "choice",
+              "content": "全都交给银子吧",
+              "group": "7月25日"
+            },
+            {
+              "id": "step_gin_bad2_04",
+              "type": "choice",
+              "content": "相信",
+              "group": "7月25日"
+            },
+            {
+              "id": "step_gin_bad2_05",
+              "type": "choice",
+              "content": "上头白色的东西",
+              "group": "7月27日"
+            },
+            {
+              "id": "step_gin_bad2_06",
+              "type": "choice",
+              "content": "非常合身",
+              "group": "7月28日"
+            },
+            {
+              "id": "step_gin_bad2_07",
+              "type": "choice",
+              "content": "太棒了",
+              "group": "7月28日"
+            },
+            {
+              "id": "step_gin_bad2_08",
+              "type": "choice",
+              "content": "就是这样。非常可爱。",
+              "group": "7月28日"
+            },
+            {
+              "id": "step_gin_bad2_09",
+              "type": "choice",
+              "content": "反正合身就算了",
+              "group": "7月28日"
+            },
+            {
+              "id": "step_gin_bad2_10",
+              "type": "choice",
+              "content": "呆在房间里",
+              "group": "7月29日"
+            },
+            {
+              "id": "step_gin_bad2_11",
+              "type": "choice",
+              "content": "白",
+              "group": "7月31日"
+            },
+            {
+              "id": "step_gin_bad2_12",
+              "type": "choice",
+              "content": "现在无法判断",
+              "group": "8月2日"
+            }
+          ]
+        },
+        {
+          "id": "ending_gin_end",
+          "name": "银子 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_gin_end_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_gin_end_02",
+              "type": "choice",
+              "content": "相信银子",
+              "group": "8月2日"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_iroha",
+      "name": "伊吕波",
+      "endings": [
+        {
+          "id": "ending_iroha_01",
+          "name": "伊吕波 END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_iroha_01_01",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_iroha_01_02",
+              "type": "choice",
+              "content": "到神社去",
+              "group": "7月29日"
+            },
+            {
+              "id": "step_iroha_01_03",
+              "type": "choice",
+              "content": "回到大家身边去",
+              "group": "8月5日"
+            }
+          ]
+        },
+        {
+          "id": "ending_iroha_02",
+          "name": "伊吕波 END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_iroha_02_01",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_iroha_02_02",
+              "type": "choice",
+              "content": "追怪物",
+              "group": "8月5日"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_akane",
+      "name": "朱音",
+      "endings": [
+        {
+          "id": "ending_akane_end",
+          "name": "朱音 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_akane_end_01",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_akane_end_02",
+              "type": "choice",
+              "content": "到车站前去",
+              "group": "7月29日"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_shoko",
+      "name": "翔子",
+      "endings": [
+        {
+          "id": "ending_shoko_01",
+          "name": "翔子 END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_shoko_01_01",
+              "type": "load",
+              "content": "LOAD 5"
+            },
+            {
+              "id": "step_shoko_01_02",
+              "type": "choice",
+              "content": "自己尽力调查",
+              "group": "7月24日"
+            },
+            {
+              "id": "step_shoko_01_03",
+              "type": "choice",
+              "content": "沙久耶的事情",
+              "group": "7月24日"
+            },
+            {
+              "id": "step_shoko_01_04",
+              "type": "choice",
+              "content": "去翔子的房间看看",
+              "group": "7月26日"
+            },
+            {
+              "id": "step_shoko_01_05",
+              "type": "choice",
+              "content": "玩眼前的",
+              "group": "7月27日"
+            },
+            {
+              "id": "step_shoko_01_06",
+              "type": "choice",
+              "content": "叫住她",
+              "group": "7月27日"
+            },
+            {
+              "id": "step_shoko_01_07",
+              "type": "choice",
+              "content": "去上游",
+              "group": "7月28日"
+            },
+            {
+              "id": "step_shoko_01_08",
+              "type": "choice",
+              "content": "去沙智子那",
+              "group": "7月28日"
+            },
+            {
+              "id": "step_shoko_01_09",
+              "type": "choice",
+              "content": "不用拜托她",
+              "group": "7月29日"
+            },
+            {
+              "id": "step_shoko_01_10",
+              "type": "choice",
+              "content": "留在翔子身边",
+              "group": "8月8日"
+            },
+            {
+              "id": "step_shoko_01_11",
+              "type": "choice",
+              "content": "被翔子的脸迷住了",
+              "group": "8月8日"
+            }
+          ]
+        },
+        {
+          "id": "ending_shoko_02",
+          "name": "翔子 END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_shoko_02_01",
+              "type": "load",
+              "content": "LOAD 6"
+            },
+            {
+              "id": "step_shoko_02_02",
+              "type": "choice",
+              "content": "去找他们",
+              "group": "8月8日"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_sachiko",
+      "name": "沙智子",
+      "endings": [
+        {
+          "id": "ending_sachiko_end",
+          "name": "沙智子 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_sachiko_end_01",
+              "type": "load",
+              "content": "LOAD 7"
+            },
+            {
+              "id": "step_sachiko_end_02",
+              "type": "choice",
+              "content": "拜托沙智子",
+              "group": "7月29日"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_misato",
+      "name": "美里",
+      "endings": [
+        {
+          "id": "ending_misato_end",
+          "name": "美里 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_misato_end_01",
+              "type": "load",
+              "content": "LOAD 8"
+            },
+            {
+              "id": "step_misato_end_02",
+              "type": "choice",
+              "content": "下去",
+              "group": "7月28日"
+            },
+            {
+              "id": "step_misato_end_03",
+              "type": "choice",
+              "content": "挥之不去",
+              "group": "8月1日"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_sakuya",
+      "name": "沙久耶",
+      "endings": [
+        {
+          "id": "ending_sakuya_01",
+          "name": "沙久耶 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_sakuya_01_01",
+              "type": "load",
+              "content": "LOAD 9"
+            },
+            {
+              "id": "step_sakuya_01_02",
+              "type": "choice",
+              "content": "呆在下面",
+              "group": "7月28日"
+            },
+            {
+              "id": "step_sakuya_01_03",
+              "type": "choice",
+              "content": "果然还是妹妹",
+              "group": "8月3日"
+            }
+          ]
+        },
+        {
+          "id": "ending_sakuya_dead",
+          "name": "沙久耶 DEAD END",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_sakuya_dead_01",
+              "type": "load",
+              "content": "LOAD 10"
+            },
+            {
+              "id": "step_sakuya_dead_02",
+              "type": "choice",
+              "content": "很可爱",
+              "group": "8月3日"
+            },
+            {
+              "id": "step_sakuya_dead_03",
+              "type": "choice",
+              "content": "一口气下坡",
+              "group": "8月3日"
+            }
+          ]
+        },
+        {
+          "id": "ending_sakuya_02",
+          "name": "沙久耶 END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_sakuya_02_01",
+              "type": "load",
+              "content": "LOAD 11"
+            },
+            {
+              "id": "step_sakuya_02_02",
+              "type": "choice",
+              "content": "往吊桥方向走",
+              "group": "8月3日"
+            },
+            {
+              "id": "step_sakuya_02_03",
+              "type": "choice",
+              "content": "向皋月阿姨撒谎",
+              "group": "8月10日"
+            }
+          ]
+        },
+        {
+          "id": "ending_sakuya_03",
+          "name": "沙久耶 END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_sakuya_03_01",
+              "type": "load",
+              "content": "LOAD 12"
+            },
+            {
+              "id": "step_sakuya_03_02",
+              "type": "choice",
+              "content": "说出关系",
+              "group": "8月10日"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_forbidden_medicine",
+      "name": "禁忌之药",
+      "endings": [
+        {
+          "id": "ending_forbidden_true",
+          "name": "禁忌之药 END",
+          "type": "true",
+          "requirements": "以上END完成后，标题画面选择Eipisode（前往禁忌之药）开始",
+          "steps": [
+            {
+              "type": "choice",
+              "content": "（源站步骤均为空）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_collection",
+      "name": "回收",
+      "endings": [
+        {
+          "id": "ending_collection_end",
+          "name": "回收 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_collection_01",
+              "type": "load",
+              "content": "LOAD 13"
+            },
+            {
+              "id": "step_collection_02",
+              "type": "choice",
+              "content": "还是算了",
+              "group": "7月17日"
+            },
+            {
+              "id": "step_collection_03",
+              "type": "note",
+              "content": "回收后跳至e724L-1",
+              "prefix": "※"
+            },
+            {
+              "id": "step_collection_04",
+              "type": "choice",
+              "content": "我自己的事",
+              "group": "7月24日"
+            },
+            {
+              "id": "step_collection_05",
+              "type": "note",
+              "content": "回收后跳至e726L-2",
+              "prefix": "※"
+            },
+            {
+              "id": "step_collection_06",
+              "type": "choice",
+              "content": "回自己房间",
+              "group": "7月26日"
+            },
+            {
+              "id": "step_collection_07",
+              "type": "choice",
+              "content": "去里侧",
+              "group": "7月27日"
+            },
+            {
+              "id": "step_collection_08",
+              "type": "note",
+              "content": "回收后跳至e727L-2B",
+              "prefix": "※"
+            },
+            {
+              "id": "step_collection_09",
+              "type": "choice",
+              "content": "目送她离开",
+              "group": "7月27日"
+            },
+            {
+              "id": "step_collection_10",
+              "type": "note",
+              "content": "回收后跳至e725R-1",
+              "prefix": "※"
+            },
+            {
+              "id": "step_collection_11",
+              "type": "choice",
+              "content": "去商店街",
+              "group": "7月25日"
+            },
+            {
+              "id": "step_collection_12",
+              "type": "note",
+              "content": "回收后跳至e727R-3",
+              "prefix": "※"
+            },
+            {
+              "id": "step_collection_13",
+              "type": "choice",
+              "content": "下头蓝色的东西",
+              "group": "7月27日"
+            },
+            {
+              "id": "step_collection_14",
+              "type": "note",
+              "content": "回收后跳至e729R-2",
+              "prefix": "※"
+            },
+            {
+              "id": "step_collection_15",
+              "type": "choice",
+              "content": "到楼下去",
+              "group": "7月29日"
+            },
+            {
+              "id": "step_collection_16",
+              "type": "note",
+              "content": "回收后跳至e731R-1",
+              "prefix": "※"
+            },
+            {
+              "id": "step_collection_17",
+              "type": "choice",
+              "content": "青",
+              "group": "7月31日"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

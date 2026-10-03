@@ -1,0 +1,1105 @@
+{
+  "vid": "v16166",
+  "name": {
+    "zh-cn": "与你心相连",
+    "ja-jp": "ピュア×コネクト",
+    "ja-Latn": "pure-connect"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-12",
+  "tips": [
+    "每个chapter可以发一次短信加好感度（有时右下角会出现※可自由发送邮件的地方)",
+    "游戏右下角有个邮件的标志亮起来，这时可以点这个图标发短信互动,其实不用管这个（不影响进线，这东西估计也就是增加一些小趣味，不影响剧情，当然想玩玩的可以点下看看）",
+    "只要等到剧情推进，晚上睡前就会出现给谁发短信的选项，这时再选就行了）",
+    "进入个人线条件：在chapter6发送完信息后某单一角色好感度达到16以上，其中   告白条件：好感度达16至19    被告白条件：好感度20及以上",
+    "每晚发送信息后可根据男主的独白判断单次好感度获得量：  好感度+2  差不多就到这里吧   好感度+3  对方好像也挺享受的   好感度+4  喔喔，她好像很开心诶",
+    "chapter5发送信息后攻略中的女主打电话过来说明已满足告白条件，",
+    "chapter6发送信息后攻略中的女主打电话过来说明被告白条件达成",
+    "因此想要方便体验男主自己主动告白和被女主告白的两种情景，可以在chapter6之前刻意控制好感度，让其正好达到19（可以遵循4+4+4+4+3），然后到chapter6发邮件时存个档，继续给要攻略女主角发短信使好感度超过19达成被女主告白条件，给要攻略角色以外随便挑个角色发短信使被攻略女主好感度仍然保持19达成男主主动告白条件。"
+  ],
+  "routes": [
+    {
+      "id": "route_1756544485869",
+      "name": "一濑 空",
+      "endings": [
+        {
+          "id": "ending_1756544653025",
+          "name": "空 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756554295004",
+              "type": "choice",
+              "content": "20岁出头！",
+              "group": "序章"
+            },
+            {
+              "id": "step_1756544662461",
+              "type": "save",
+              "content": "SAVE 1",
+              "group": "chapter１"
+            },
+            {
+              "id": "step_1756544663020",
+              "type": "choice",
+              "content": "去事务所",
+              "group": "chapter１"
+            },
+            {
+              "id": "step_1756544663556",
+              "type": "save",
+              "content": "SAVE 2",
+              "group": "chapter１"
+            },
+            {
+              "id": "step_1756544664342",
+              "type": "choice",
+              "content": "给空发邮件",
+              "group": "chapter１"
+            },
+            {
+              "id": "step_1756544664520",
+              "type": "choice",
+              "content": "我没骗你，偶尔也害羞一下啊",
+              "group": "chapter１"
+            },
+            {
+              "id": "step_1756544668424",
+              "type": "choice",
+              "content": "有啊？虽然非常罕见就是了",
+              "group": "chapter１"
+            },
+            {
+              "id": "step_1756544668575",
+              "type": "choice",
+              "content": "空吧",
+              "group": "chapter2"
+            },
+            {
+              "id": "step_1756544668686",
+              "type": "choice",
+              "content": "主管!",
+              "group": "chapter2"
+            },
+            {
+              "id": "step_1756544668829",
+              "type": "choice",
+              "content": "我是萌美派!",
+              "group": "chapter2"
+            },
+            {
+              "id": "step_1756544698850",
+              "type": "choice",
+              "content": "绀野",
+              "group": "chapter2"
+            },
+            {
+              "id": "step_1756544699078",
+              "type": "choice",
+              "content": "步海",
+              "group": "chapter2"
+            },
+            {
+              "id": "step_1756544699414",
+              "type": "choice",
+              "content": "给空发邮件",
+              "group": "chapter2"
+            },
+            {
+              "id": "step_1756544711936",
+              "type": "choice",
+              "content": "你啊，喝多了马上就不舒服，注意点啊？",
+              "group": "chapter2"
+            },
+            {
+              "id": "step_1756544712368",
+              "type": "choice",
+              "content": "那当然会担心了",
+              "group": "chapter2"
+            },
+            {
+              "id": "step_1756544712762",
+              "type": "choice",
+              "content": "去游戏厅",
+              "group": "chapter2"
+            },
+            {
+              "id": "step_1756544733030",
+              "type": "choice",
+              "content": "给空发邮件",
+              "group": "chapter3"
+            },
+            {
+              "id": "step_1756544733199",
+              "type": "choice",
+              "content": "你从以前开始就受孩子欢迎，真好啊",
+              "group": "chapter3"
+            },
+            {
+              "id": "step_1756544733370",
+              "type": "choice",
+              "content": "感觉你和小学老师很合得来",
+              "group": "chapter3"
+            },
+            {
+              "id": "step_1756544733530",
+              "type": "choice",
+              "content": "去事务所",
+              "group": "chapter3"
+            },
+            {
+              "id": "step_1756544734488",
+              "type": "choice",
+              "content": "给空发邮件",
+              "group": "chapter4"
+            },
+            {
+              "id": "step_1756544736278",
+              "type": "choice",
+              "content": "或许呢。如果你不是我的邻居了的话或许会有些寂寞",
+              "group": "chapter4"
+            },
+            {
+              "id": "step_1756544736465",
+              "type": "choice",
+              "content": "我只是陈诉了事实，并没有说什么奇怪的话!",
+              "group": "chapter4"
+            },
+            {
+              "id": "step_1756544736593",
+              "type": "choice",
+              "content": "去厨房帮助绀野",
+              "group": "chapter4"
+            },
+            {
+              "id": "step_1756544736754",
+              "type": "choice",
+              "content": "去休息室",
+              "group": "chapter5"
+            },
+            {
+              "id": "step_1756544767159",
+              "type": "choice",
+              "content": "给空发邮件",
+              "group": "chapter5"
+            },
+            {
+              "id": "step_1756544767305",
+              "type": "choice",
+              "content": "好，现在就去你的房间",
+              "group": "chapter5"
+            },
+            {
+              "id": "step_1756544767438",
+              "type": "choice",
+              "content": "这样啊，你那么想和我一起睡啊",
+              "group": "chapter5"
+            },
+            {
+              "id": "step_1756544767577",
+              "type": "save",
+              "content": "SAVE 3",
+              "group": "chapter6"
+            },
+            {
+              "id": "step_1756544767696",
+              "type": "choice",
+              "content": "给空发邮件",
+              "group": "chapter6"
+            },
+            {
+              "id": "step_1756544767813",
+              "type": "choice",
+              "content": "现实一点，如果要送你礼物的话，兑换券肯定是最好的吧",
+              "group": "chapter6"
+            },
+            {
+              "id": "step_1756544767947",
+              "type": "choice",
+              "content": "作为谢礼，我从你那里获得了很多曲奇吧",
+              "group": "chapter6"
+            },
+            {
+              "id": "step_1756555213401",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1756555216261",
+              "type": "choice",
+              "content": "给萌美发邮件",
+              "group": "chapter６"
+            },
+            {
+              "id": "step_1756555217116",
+              "type": "choice",
+              "content": "⇒但是姫良梨好像最喜欢姐姐了哦",
+              "group": "chapter６"
+            },
+            {
+              "id": "step_1756555217633",
+              "type": "choice",
+              "content": "⇒就算不哭，我也觉得很可爱哦？",
+              "group": "chapter６"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756544501809",
+      "name": "道明寺 萌美",
+      "endings": [
+        {
+          "id": "ending_1756544798723",
+          "name": "萌美 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756544800843",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1756544802518",
+              "type": "choice",
+              "content": "去休息室"
+            },
+            {
+              "id": "step_1756554979491",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_1756555014017",
+              "type": "choice",
+              "content": "给萌美亲发邮件"
+            },
+            {
+              "id": "step_1756555025939",
+              "type": "choice",
+              "content": "很多事情都精力充沛是什么鬼？"
+            },
+            {
+              "id": "step_1756555026391",
+              "type": "choice",
+              "content": "开玩笑啦。我觉得很可爱啊"
+            },
+            {
+              "id": "step_1756555033562",
+              "type": "choice",
+              "content": "我是萌美派",
+              "group": "chapter２"
+            },
+            {
+              "id": "step_1756555033779",
+              "type": "choice",
+              "content": "空吧",
+              "group": "chapter２"
+            },
+            {
+              "id": "step_1756555033958",
+              "type": "choice",
+              "content": "主管！",
+              "group": "chapter２"
+            },
+            {
+              "id": "step_1756555477120",
+              "type": "choice",
+              "content": "绀野",
+              "group": "chapter２"
+            },
+            {
+              "id": "step_1756555477275",
+              "type": "choice",
+              "content": "步海",
+              "group": "chapter２"
+            },
+            {
+              "id": "step_1756555477425",
+              "type": "choice",
+              "content": "给萌美亲发邮件",
+              "group": "chapter２"
+            },
+            {
+              "id": "step_1756555477553",
+              "type": "choice",
+              "content": "那我以后叫你师父",
+              "group": "chapter２"
+            },
+            {
+              "id": "step_1756555477691",
+              "type": "choice",
+              "content": "但是我蛮喜欢萌美亲这个叫法",
+              "group": "chapter２"
+            },
+            {
+              "id": "step_1756555477849",
+              "type": "choice",
+              "content": "去公园",
+              "group": "chapter２"
+            },
+            {
+              "id": "step_1756555477972",
+              "type": "choice",
+              "content": "给萌美亲发邮件",
+              "group": "chapter３"
+            },
+            {
+              "id": "step_1756555478133",
+              "type": "choice",
+              "content": "好吧，我无法拒绝妹妹的请求，明天就去抱抱她吧！",
+              "group": "chapter３"
+            },
+            {
+              "id": "step_1756555478275",
+              "type": "choice",
+              "content": "萌美亲害羞时的反应一目了然呢",
+              "group": "chapter３"
+            },
+            {
+              "id": "step_1756555478426",
+              "type": "choice",
+              "content": "去休息室。",
+              "group": "chapter３"
+            },
+            {
+              "id": "step_1756555478562",
+              "type": "choice",
+              "content": "给萌美亲发邮件",
+              "group": "chapter４"
+            },
+            {
+              "id": "step_1756555478678",
+              "type": "choice",
+              "content": "⇒萌美的睡衣姿态啊，我想至少看一眼啊",
+              "group": "chapter４"
+            },
+            {
+              "id": "step_1756555478805",
+              "type": "choice",
+              "content": "⇒我只是单纯的觉得萌美的睡衣姿态会很可爱",
+              "group": "chapter４"
+            },
+            {
+              "id": "step_1756555825514",
+              "type": "choice",
+              "content": "去厨房帮助绀野",
+              "group": "chapter４"
+            },
+            {
+              "id": "step_1756555825668",
+              "type": "choice",
+              "content": "去休息室。",
+              "group": "chapter５"
+            },
+            {
+              "id": "step_1756555825840",
+              "type": "choice",
+              "content": "给萌美发邮件",
+              "group": "chapter５"
+            },
+            {
+              "id": "step_1756555825963",
+              "type": "choice",
+              "content": "屁股里流出了泪！？那也就是说屁股里长了眼睛！？",
+              "group": "chapter５"
+            },
+            {
+              "id": "step_1756555826101",
+              "type": "choice",
+              "content": "诶诶！？是那样的吗！？那么有四只眼睛吗！？",
+              "group": "chapter５"
+            },
+            {
+              "id": "step_1756556126778",
+              "type": "save",
+              "content": "SAVE 5",
+              "group": "chapter６"
+            },
+            {
+              "id": "step_1756556126948",
+              "type": "choice",
+              "content": "给萌美发邮件（第6次）"
+            },
+            {
+              "id": "step_1756556127072",
+              "type": "choice",
+              "content": "但是姫良梨好像很喜欢姐姐"
+            },
+            {
+              "id": "step_1756556127235",
+              "type": "choice",
+              "content": "就算不哭我也觉得很可爱哦？"
+            },
+            {
+              "id": "step_1756556127488",
+              "type": "load",
+              "content": "LOAD 5"
+            },
+            {
+              "id": "step_1756556127643",
+              "type": "choice",
+              "content": "给空发邮件",
+              "group": "chapter６"
+            },
+            {
+              "id": "step_1756556127771",
+              "type": "choice",
+              "content": "现实一点，如果要送你礼物的话，兑换券肯定是最好的吧"
+            },
+            {
+              "id": "step_1756556127899",
+              "type": "choice",
+              "content": "作为回礼，我从你那里得到了很多曲奇吧"
+            },
+            {
+              "id": "step_1756556128048",
+              "type": "choice",
+              "content": "向萌美告白"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756544531398",
+      "name": "牧原 志帆",
+      "endings": [
+        {
+          "id": "ending_1756556567245",
+          "name": "志帆 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756556572057",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_1756556584456",
+              "type": "choice",
+              "content": "给主管发邮件"
+            },
+            {
+              "id": "step_1756556584623",
+              "type": "choice",
+              "content": "不，没那回事！绝对很适合！"
+            },
+            {
+              "id": "step_1756556584842",
+              "type": "choice",
+              "content": "撤回前言！果然不想在其他男人面前裸露身体"
+            },
+            {
+              "id": "step_1756556636039",
+              "type": "choice",
+              "content": "主管！",
+              "group": "chapter２"
+            },
+            {
+              "id": "step_1756556636188",
+              "type": "choice",
+              "content": "空吧",
+              "group": "chapter２"
+            },
+            {
+              "id": "step_1756556636543",
+              "type": "choice",
+              "content": "我是萌美派",
+              "group": "chapter２"
+            },
+            {
+              "id": "step_1756556636795",
+              "type": "choice",
+              "content": "绀野",
+              "group": "chapter２"
+            },
+            {
+              "id": "step_1756556636967",
+              "type": "choice",
+              "content": "步海",
+              "group": "chapter２"
+            },
+            {
+              "id": "step_1756556637120",
+              "type": "choice",
+              "content": "给主管发邮件",
+              "group": "chapter２"
+            },
+            {
+              "id": "step_1756556637274",
+              "type": "choice",
+              "content": "能进入pivoine真是太好了！感动到流泪",
+              "group": "chapter２"
+            },
+            {
+              "id": "step_1756556637576",
+              "type": "choice",
+              "content": "我也想办个主管的欢迎会！",
+              "group": "chapter２"
+            },
+            {
+              "id": "step_1756556637786",
+              "type": "choice",
+              "content": "去游戏厅",
+              "group": "chapter２"
+            },
+            {
+              "id": "step_1756556637969",
+              "type": "choice",
+              "content": "给主管发邮件",
+              "group": "chapter３"
+            },
+            {
+              "id": "step_1756556638127",
+              "type": "choice",
+              "content": "冲澡！？想，想象一下就好兴奋啊……！",
+              "group": "chapter３"
+            },
+            {
+              "id": "step_1756556638304",
+              "type": "choice",
+              "content": "至今为止还对主管有点心动，把我的心动还给我！",
+              "group": "chapter３"
+            },
+            {
+              "id": "step_1756556638455",
+              "type": "choice",
+              "content": "去事务所",
+              "group": "chapter３"
+            },
+            {
+              "id": "step_1756556638610",
+              "type": "choice",
+              "content": "给主管发邮件",
+              "group": "chapter４"
+            },
+            {
+              "id": "step_1756556638781",
+              "type": "choice",
+              "content": "如果可以的话，我现在就去店里吧？我可以送你哦",
+              "group": "chapter４"
+            },
+            {
+              "id": "step_1756556638935",
+              "type": "choice",
+              "content": "那个，我没有开玩笑，我是真心挺担心的……",
+              "group": "chapter４"
+            },
+            {
+              "id": "step_1756556639089",
+              "type": "choice",
+              "content": "去收银台帮助步海",
+              "group": "chapter４"
+            },
+            {
+              "id": "step_1756556639257",
+              "type": "choice",
+              "content": "在事务所休息。",
+              "group": "chapter５"
+            },
+            {
+              "id": "step_1756556639406",
+              "type": "choice",
+              "content": "给主管发邮件",
+              "group": "chapter５"
+            },
+            {
+              "id": "step_1756556639592",
+              "type": "choice",
+              "content": "今晚要喝哪种咖啡？",
+              "group": "chapter５"
+            },
+            {
+              "id": "step_1756556639768",
+              "type": "choice",
+              "content": "我想到了“dried on tree”这种咖啡豆",
+              "group": "chapter５"
+            },
+            {
+              "id": "step_1756556639937",
+              "type": "save",
+              "content": "SAVE 6",
+              "group": "chapter６"
+            },
+            {
+              "id": "step_1756556640090",
+              "type": "choice",
+              "content": "给主管发邮件（第6次）",
+              "group": "chapter６"
+            },
+            {
+              "id": "step_1756556640268",
+              "type": "choice",
+              "content": "你才要是要好好注意哦？感冒或是流感什么的",
+              "group": "chapter６"
+            },
+            {
+              "id": "step_1756556640579",
+              "type": "choice",
+              "content": "那么如果太勉强的话我会提醒你的哦",
+              "group": "chapter６"
+            },
+            {
+              "id": "step_1756556641209",
+              "type": "load",
+              "content": "LOAD 6",
+              "group": "chapter６"
+            },
+            {
+              "id": "step_1756556641718",
+              "type": "choice",
+              "content": "给萌美发邮件",
+              "group": "chapter６"
+            },
+            {
+              "id": "step_1756557769982",
+              "type": "choice",
+              "content": "但是姫良梨好像最喜欢姐姐了",
+              "group": "chapter６"
+            },
+            {
+              "id": "step_1756557770159",
+              "type": "choice",
+              "content": "就算不哭，我也觉得很可爱哦？",
+              "group": "chapter６"
+            },
+            {
+              "id": "step_1756557770424",
+              "type": "choice",
+              "content": "向志帆告白",
+              "group": "chapter６"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756544566449",
+      "name": "绀野 彩里沙",
+      "endings": [
+        {
+          "id": "ending_1756558031951",
+          "name": "彩里沙 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756558036077",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1756558040843",
+              "type": "choice",
+              "content": "给绀野发邮件"
+            },
+            {
+              "id": "step_1756558041023",
+              "type": "choice",
+              "content": "我在绀野面前还挺很绅士的吧？"
+            },
+            {
+              "id": "step_1756558041186",
+              "type": "choice",
+              "content": "那是因为你太孩子气了，错不在我身上"
+            },
+            {
+              "id": "step_1756558041344",
+              "type": "choice",
+              "content": "绀野",
+              "group": "chapter２"
+            },
+            {
+              "id": "step_1756558041500",
+              "type": "choice",
+              "content": "空吧",
+              "group": "chapter２"
+            },
+            {
+              "id": "step_1756558041643",
+              "type": "choice",
+              "content": "主管！",
+              "group": "chapter２"
+            },
+            {
+              "id": "step_1756558041793",
+              "type": "choice",
+              "content": "我是萌美派",
+              "group": "chapter２"
+            },
+            {
+              "id": "step_1756558041946",
+              "type": "choice",
+              "content": "步海",
+              "group": "chapter２"
+            },
+            {
+              "id": "step_1756558042108",
+              "type": "choice",
+              "content": "给绀野发邮件",
+              "group": "chapter２"
+            },
+            {
+              "id": "step_1756558062390",
+              "type": "choice",
+              "content": "不，我只是单纯的想和绀野聊短信",
+              "group": "chapter２"
+            },
+            {
+              "id": "step_1756558062560",
+              "type": "choice",
+              "content": "绀野的这种地方真有意思啊",
+              "group": "chapter２"
+            },
+            {
+              "id": "step_1756558062720",
+              "type": "choice",
+              "content": "去公园",
+              "group": "chapter２"
+            },
+            {
+              "id": "step_1756558062891",
+              "type": "choice",
+              "content": "给绀野发邮件",
+              "group": "chapter３"
+            },
+            {
+              "id": "step_1756558063160",
+              "type": "choice",
+              "content": "我不发邮件的话，绀野会寂寞",
+              "group": "chapter３"
+            },
+            {
+              "id": "step_1756558063580",
+              "type": "choice",
+              "content": "喜欢恶心人的哥哥吗？",
+              "group": "chapter３"
+            },
+            {
+              "id": "step_1756558063746",
+              "type": "choice",
+              "content": "去事务所。",
+              "group": "chapter３"
+            },
+            {
+              "id": "step_1756558063910",
+              "type": "choice",
+              "content": "给绀野发邮件",
+              "group": "chapter４"
+            },
+            {
+              "id": "step_1756558064077",
+              "type": "choice",
+              "content": "不，捉弄绀野学妹绝对是最让我开心的",
+              "group": "chapter４"
+            },
+            {
+              "id": "step_1756558064246",
+              "type": "choice",
+              "content": "我是那样想的，绀野学妹身上有孩子气的地方",
+              "group": "chapter４"
+            },
+            {
+              "id": "step_1756558064410",
+              "type": "choice",
+              "content": "去厨房帮助绀野",
+              "group": "chapter４"
+            },
+            {
+              "id": "step_1756558064576",
+              "type": "choice",
+              "content": "在事务所休息。",
+              "group": "chapter５"
+            },
+            {
+              "id": "step_1756558064745",
+              "type": "choice",
+              "content": "给绀野发邮件",
+              "group": "chapter５"
+            },
+            {
+              "id": "step_1756558064904",
+              "type": "choice",
+              "content": "尽情的无视。作为代替，我会疯狂的给你发邮件的！",
+              "group": "chapter５"
+            },
+            {
+              "id": "step_1756558065074",
+              "type": "choice",
+              "content": "特地给可怜的人回信的人，也是可怜的人吧……？",
+              "group": "chapter５"
+            },
+            {
+              "id": "step_1756558065248",
+              "type": "save",
+              "content": "SAVE 7",
+              "group": "chapter６"
+            },
+            {
+              "id": "step_1756558065426",
+              "type": "choice",
+              "content": "给绀野发邮件（第6次）",
+              "group": "chapter６"
+            },
+            {
+              "id": "step_1756558065593",
+              "type": "choice",
+              "content": "好过分，真的好过分……哼哼哼……",
+              "group": "chapter６"
+            },
+            {
+              "id": "step_1756558066098",
+              "type": "choice",
+              "content": "你这个天真无邪的家伙！露出真面目了啊！？",
+              "group": "chapter６"
+            },
+            {
+              "id": "step_1756558066454",
+              "type": "load",
+              "content": "LOAD 7",
+              "group": "chapter６"
+            },
+            {
+              "id": "step_1756558066640",
+              "type": "choice",
+              "content": "给主管发邮件",
+              "group": "chapter６"
+            },
+            {
+              "id": "step_1756558066813",
+              "type": "choice",
+              "content": "你才是要好好注意哦？感冒或是流感什么的",
+              "group": "chapter６"
+            },
+            {
+              "id": "step_1756558067726",
+              "type": "choice",
+              "content": "那么如果太勉强的话我会提醒你的哦",
+              "group": "chapter６"
+            },
+            {
+              "id": "step_1756558067937",
+              "type": "choice",
+              "content": "向彩里沙告白",
+              "group": "chapter６"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756544581830",
+      "name": "篠崎 步海",
+      "endings": [
+        {
+          "id": "ending_1756559248654",
+          "name": "步海 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756559270049",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1756559286468",
+              "type": "choice",
+              "content": "给步海发邮件"
+            },
+            {
+              "id": "step_1756559286686",
+              "type": "choice",
+              "content": "是啊，但是觉得有点兴奋呢"
+            },
+            {
+              "id": "step_1756559286919",
+              "type": "choice",
+              "content": "步海给我发的信息，我随时都欢迎"
+            },
+            {
+              "id": "step_1756559287142",
+              "type": "choice",
+              "content": "步海",
+              "group": "chapter２"
+            },
+            {
+              "id": "step_1756559287438",
+              "type": "choice",
+              "content": "空吧",
+              "group": "chapter２"
+            },
+            {
+              "id": "step_1756559287724",
+              "type": "choice",
+              "content": "主管！",
+              "group": "chapter２"
+            },
+            {
+              "id": "step_1756559287956",
+              "type": "choice",
+              "content": "我是萌美派",
+              "group": "chapter２"
+            },
+            {
+              "id": "step_1756559289967",
+              "type": "choice",
+              "content": "绀野",
+              "group": "chapter２"
+            },
+            {
+              "id": "step_1756559290179",
+              "type": "choice",
+              "content": "给步海发邮件",
+              "group": "chapter２"
+            },
+            {
+              "id": "step_1756559290401",
+              "type": "choice",
+              "content": "对了，你都读什么书？",
+              "group": "chapter２"
+            },
+            {
+              "id": "step_1756559291256",
+              "type": "choice",
+              "content": "其实，我喜欢读一些难懂的书",
+              "group": "chapter２"
+            },
+            {
+              "id": "step_1756559291483",
+              "type": "choice",
+              "content": "去游戏厅",
+              "group": "chapter２"
+            },
+            {
+              "id": "step_1756559291715",
+              "type": "choice",
+              "content": "给步海发邮件",
+              "group": "chapter３"
+            },
+            {
+              "id": "step_1756559293097",
+              "type": "choice",
+              "content": "好吧，用手机写日记之类的？",
+              "group": "chapter３"
+            },
+            {
+              "id": "step_1756559293319",
+              "type": "choice",
+              "content": "没有那回事，不如说很成熟",
+              "group": "chapter３"
+            },
+            {
+              "id": "step_1756559293536",
+              "type": "choice",
+              "content": "去休息室。",
+              "group": "chapter３"
+            },
+            {
+              "id": "step_1756559293760",
+              "type": "choice",
+              "content": "给步海发邮件",
+              "group": "chapter４"
+            },
+            {
+              "id": "step_1756559293990",
+              "type": "choice",
+              "content": "嗯，不管怎么说，哥哥可是3天只睡一次的男人啊",
+              "group": "chapter４"
+            },
+            {
+              "id": "step_1756559294218",
+              "type": "choice",
+              "content": "好啊，如果对我恶作剧的话我可要加倍奉还的哦？",
+              "group": "chapter４"
+            },
+            {
+              "id": "step_1756559294442",
+              "type": "choice",
+              "content": "去收银台帮助步海",
+              "group": "chapter４"
+            },
+            {
+              "id": "step_1756559294671",
+              "type": "choice",
+              "content": "去休息室。",
+              "group": "chapter５"
+            },
+            {
+              "id": "step_1756559294903",
+              "type": "choice",
+              "content": "给步海发邮件",
+              "group": "chapter５"
+            },
+            {
+              "id": "step_1756559295137",
+              "type": "choice",
+              "content": "步海马上就会回答我，那样让我觉得挺开心的",
+              "group": "chapter５"
+            },
+            {
+              "id": "step_1756559295364",
+              "type": "choice",
+              "content": "步海，正好相反，好像挺不擅长无视别人的样子",
+              "group": "chapter５"
+            },
+            {
+              "id": "step_1756559295598",
+              "type": "save",
+              "content": "SAVE 8",
+              "group": "chapter６"
+            },
+            {
+              "id": "step_1756559295842",
+              "type": "choice",
+              "content": "给步海发邮件（第6次）",
+              "group": "chapter６"
+            },
+            {
+              "id": "step_1756559296077",
+              "type": "choice",
+              "content": "对不起，我果然还是希望步海能够维持原样……！",
+              "group": "chapter６"
+            },
+            {
+              "id": "step_1756559296315",
+              "type": "choice",
+              "content": "不，我才是会更加精神。比步海加倍的精神！",
+              "group": "chapter６"
+            },
+            {
+              "id": "step_1756559297411",
+              "type": "load",
+              "content": "LOAD 8",
+              "group": "chapter６"
+            },
+            {
+              "id": "step_1756559297656",
+              "type": "choice",
+              "content": "给绀野发邮件",
+              "group": "chapter６"
+            },
+            {
+              "id": "step_1756559298674",
+              "type": "choice",
+              "content": "好过分，真的好过分……哼哼哼……",
+              "group": "chapter６"
+            },
+            {
+              "id": "step_1756559298910",
+              "type": "choice",
+              "content": "你这个天真无邪的家伙！露出真面目了啊！？",
+              "group": "chapter６"
+            },
+            {
+              "id": "step_1756559299152",
+              "type": "choice",
+              "content": "向步海告白",
+              "group": "chapter６"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,297 @@
+{
+  "vid": "v6747",
+  "name": {
+    "zh-cn": "未来乡愁",
+    "ja-jp": "未来ノスタルジア",
+    "ja-Latn": "mirai-nostalgia"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-14",
+  "tips": [
+    "其他4人攻略完毕后才可攻略杏奈",
+    "()标记的选项为回收CG",
+    "★标记的选项为杏奈可攻略后才会出现的选项，不出现时无视即可"
+  ],
+  "routes": [
+    {
+      "id": "route_game",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_iori_end",
+          "name": "伊織 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_iori_01",
+              "type": "choice",
+              "content": "先试着跟她说话"
+            },
+            {
+              "id": "step_iori_02",
+              "type": "choice",
+              "content": "让她招待吧"
+            },
+            {
+              "id": "step_iori_03",
+              "type": "choice",
+              "content": "玩到赢为止"
+            },
+            {
+              "id": "step_iori_04",
+              "type": "choice",
+              "content": "一起散散步吧"
+            },
+            {
+              "id": "step_iori_05",
+              "type": "choice",
+              "content": "一起进去"
+            },
+            {
+              "id": "step_iori_06",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_iori_07",
+              "type": "choice",
+              "content": "想办法自己一个人搬"
+            },
+            {
+              "id": "step_iori_08",
+              "type": "choice",
+              "content": "回到ヒナ的房间"
+            },
+            {
+              "id": "step_iori_09",
+              "type": "choice",
+              "content": "（现在先不去在意）",
+              "prefix": "★"
+            },
+            {
+              "id": "step_iori_10",
+              "type": "choice",
+              "content": "（默默守望）",
+              "prefix": "★"
+            },
+            {
+              "id": "step_iori_11",
+              "type": "choice",
+              "content": "体谅ヒナ"
+            },
+            {
+              "id": "step_iori_12",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_iori_13",
+              "type": "choice",
+              "content": "帮助詩"
+            },
+            {
+              "id": "step_iori_14",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_iori_15",
+              "type": "choice",
+              "content": "去看看伊织的样子"
+            },
+            {
+              "id": "step_iori_16",
+              "type": "choice",
+              "content": "（现在就不管她了）",
+              "prefix": "★"
+            }
+          ]
+        },
+        {
+          "id": "ending_uta_end",
+          "name": "詩 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_uta_01",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_uta_02",
+              "type": "choice",
+              "content": "和ヒナ去散步之类的"
+            },
+            {
+              "id": "step_uta_03",
+              "type": "choice",
+              "content": "（现在就不管她了）",
+              "prefix": "★"
+            }
+          ]
+        },
+        {
+          "id": "ending_nono_end",
+          "name": "野乃 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_nono_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_nono_02",
+              "type": "choice",
+              "content": "帮助ノノ"
+            },
+            {
+              "id": "step_nono_03",
+              "type": "choice",
+              "content": "和ヒナ去散步之类的"
+            },
+            {
+              "id": "step_nono_04",
+              "type": "choice",
+              "content": "（现在就不管她了）",
+              "prefix": "★"
+            }
+          ]
+        },
+        {
+          "id": "ending_hinano_end",
+          "name": "日奈乃 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_hinano_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_hinano_02",
+              "type": "choice",
+              "content": "让ヒナ来帮忙"
+            },
+            {
+              "id": "step_hinano_03",
+              "type": "choice",
+              "content": "回到ヒナ的房间"
+            },
+            {
+              "id": "step_hinano_04",
+              "type": "choice",
+              "content": "体谅ヒナ"
+            },
+            {
+              "id": "step_hinano_05",
+              "type": "choice",
+              "content": "（现在就不管她了）",
+              "prefix": "★"
+            },
+            {
+              "id": "step_hinano_06",
+              "type": "choice",
+              "content": "（默默守望）",
+              "prefix": "★"
+            },
+            {
+              "id": "step_hinano_07",
+              "type": "choice",
+              "content": "帮助ノノ"
+            },
+            {
+              "id": "step_hinano_08",
+              "type": "choice",
+              "content": "和ヒナ去散步之类的"
+            },
+            {
+              "id": "step_hinano_09",
+              "type": "choice",
+              "content": "（现在先放着不管）",
+              "prefix": "★"
+            },
+            {
+              "id": "step_hinano_10",
+              "type": "choice",
+              "content": "没有反而更新鲜更好（我觉得没必要特地改）"
+            }
+          ]
+        },
+        {
+          "id": "ending_anna_end",
+          "name": "杏奈 END",
+          "type": "normal",
+          "requirements": "4人攻略后，从最初开始",
+          "steps": [
+            {
+              "id": "step_anna_02",
+              "type": "choice",
+              "content": "这里还是走为上策"
+            },
+            {
+              "id": "step_anna_03",
+              "type": "choice",
+              "content": "还是拒绝吧"
+            },
+            {
+              "id": "step_anna_04",
+              "type": "choice",
+              "content": "还是不玩了"
+            },
+            {
+              "id": "step_anna_05",
+              "type": "choice",
+              "content": "把她送回家吧"
+            },
+            {
+              "id": "step_anna_06",
+              "type": "choice",
+              "content": "还是先出去吧"
+            },
+            {
+              "id": "step_anna_07",
+              "type": "choice",
+              "content": "让ヒナ来帮忙"
+            },
+            {
+              "id": "step_anna_08",
+              "type": "choice",
+              "content": "先回短信"
+            },
+            {
+              "id": "step_anna_09",
+              "type": "choice",
+              "content": "劝她早点去休息"
+            },
+            {
+              "id": "step_anna_10",
+              "type": "choice",
+              "content": "询问与今早的梦相关的事情"
+            },
+            {
+              "id": "step_anna_11",
+              "type": "choice",
+              "content": "握住杏奈的手"
+            },
+            {
+              "id": "step_anna_12",
+              "type": "choice",
+              "content": "去帮诗"
+            },
+            {
+              "id": "step_anna_13",
+              "type": "choice",
+              "content": "去看看伊织的样子"
+            },
+            {
+              "id": "step_anna_14",
+              "type": "choice",
+              "content": "追上杏奈"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

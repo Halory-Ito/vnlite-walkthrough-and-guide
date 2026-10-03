@@ -1,0 +1,832 @@
+{
+  "vid": "v564",
+  "name": {
+    "zh-cn": "PP 提线木偶的轮舞",
+    "ja-jp": "PP -ピアニッシモ- 操リ人形ノ輪舞",
+    "ja-Latn": "pp-pianissimo"
+  },
+  "level": 2,
+  "updatedAt": "2026-05-07",
+  "tips": [
+    "☆指达成特定条件后才会出现的选项"
+  ],
+  "routes": [
+    {
+      "id": "route_bad1_2",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_bad1",
+          "name": "BAD END 1",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_bad1_01",
+              "type": "choice",
+              "content": "从头开始",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_bad1_02",
+              "type": "choice",
+              "content": "跳过片头",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_bad1_03",
+              "type": "choice",
+              "content": "试着搭话"
+            },
+            {
+              "id": "step_bad1_04",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_bad1_05",
+              "type": "choice",
+              "content": "接受"
+            },
+            {
+              "id": "step_bad1_06",
+              "type": "choice",
+              "content": "抱"
+            },
+            {
+              "id": "step_bad1_07",
+              "type": "choice",
+              "content": "接受下来"
+            },
+            {
+              "id": "step_bad1_08",
+              "type": "choice",
+              "content": "弹奏"
+            },
+            {
+              "id": "step_bad1_09",
+              "type": "choice",
+              "content": "踹门"
+            },
+            {
+              "id": "step_bad1_10",
+              "type": "choice",
+              "content": "让她别在意"
+            },
+            {
+              "id": "step_bad1_11",
+              "type": "choice",
+              "content": "那是当然的吧"
+            },
+            {
+              "id": "step_bad1_12",
+              "type": "choice",
+              "content": "收下"
+            },
+            {
+              "id": "step_bad1_13",
+              "type": "choice",
+              "content": "抱"
+            },
+            {
+              "id": "step_bad1_14",
+              "type": "choice",
+              "content": "阻止绫音"
+            },
+            {
+              "id": "step_bad1_15",
+              "type": "choice",
+              "content": "弹"
+            },
+            {
+              "id": "step_bad1_16",
+              "type": "choice",
+              "content": "拥有卓越能力的人"
+            },
+            {
+              "id": "step_bad1_17",
+              "type": "choice",
+              "content": "同意帮琢磨调查事件"
+            },
+            {
+              "id": "step_bad1_18",
+              "type": "choice",
+              "content": "喝些咖啡吧"
+            },
+            {
+              "id": "step_bad1_19",
+              "type": "choice",
+              "content": "乖乖过去"
+            },
+            {
+              "id": "step_bad1_20",
+              "type": "choice",
+              "content": "什么也不说"
+            },
+            {
+              "id": "step_bad1_21",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_bad1_22",
+              "type": "choice",
+              "content": "柚芭"
+            },
+            {
+              "id": "step_bad1_23",
+              "type": "choice",
+              "content": "好吧"
+            },
+            {
+              "id": "step_bad1_24",
+              "type": "choice",
+              "content": "大概就是这样吧"
+            },
+            {
+              "id": "step_bad1_25",
+              "type": "choice",
+              "content": "就当成什么都没看见"
+            },
+            {
+              "id": "step_bad1_26",
+              "type": "choice",
+              "content": "就像小说说的那样"
+            },
+            {
+              "id": "step_bad1_27",
+              "type": "choice",
+              "content": "保持沉默"
+            },
+            {
+              "id": "step_bad1_28",
+              "type": "choice",
+              "content": "道歉"
+            },
+            {
+              "id": "step_bad1_29",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_bad1_30",
+              "type": "choice",
+              "content": "没杀"
+            },
+            {
+              "id": "step_bad1_31",
+              "type": "choice",
+              "content": "不行"
+            },
+            {
+              "id": "step_bad1_33",
+              "type": "choice",
+              "content": "别开玩笑了"
+            },
+            {
+              "id": "step_bad1_34",
+              "type": "choice",
+              "content": "床单"
+            },
+            {
+              "id": "step_bad1_35",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_bad1_36",
+              "type": "choice",
+              "content": "我"
+            }
+          ]
+        },
+        {
+          "id": "ending_bad2",
+          "name": "BAD END 2",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_bad2_01",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_bad2_02",
+              "type": "choice",
+              "content": "绫音"
+            }
+          ]
+        },
+        {
+          "id": "ending_kuon_end1",
+          "name": "久远END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_kuon1_01",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_kuon1_02",
+              "type": "choice",
+              "content": "杀了"
+            },
+            {
+              "id": "step_kuon1_03",
+              "type": "choice",
+              "content": "我会考虑的"
+            },
+            {
+              "id": "step_kuon1_04",
+              "type": "choice",
+              "content": "那也不错"
+            },
+            {
+              "id": "step_kuon1_05",
+              "type": "save",
+              "content": "SAVE 5"
+            },
+            {
+              "id": "step_kuon1_06",
+              "type": "choice",
+              "content": "做"
+            },
+            {
+              "id": "step_kuon1_07",
+              "type": "choice",
+              "content": "别开玩笑了"
+            },
+            {
+              "id": "step_kuon1_08",
+              "type": "choice",
+              "content": "床单"
+            },
+            {
+              "id": "step_kuon1_09",
+              "type": "choice",
+              "content": "我"
+            },
+            {
+              "id": "step_kuon1_10",
+              "type": "choice",
+              "content": "搭话"
+            },
+            {
+              "id": "step_kuon1_11",
+              "type": "save",
+              "content": "SAVE 6"
+            },
+            {
+              "id": "step_kuon1_12",
+              "type": "choice",
+              "content": "不逃"
+            },
+            {
+              "id": "step_kuon1_13",
+              "type": "save",
+              "content": "SAVE 7"
+            },
+            {
+              "id": "step_kuon1_14",
+              "type": "choice",
+              "content": "想被原谅"
+            }
+          ]
+        },
+        {
+          "id": "ending_kuon_end2",
+          "name": "久远END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_kuon2_01",
+              "type": "load",
+              "content": "LOAD 7"
+            },
+            {
+              "id": "step_kuon2_02",
+              "type": "choice",
+              "content": "无法被原谅"
+            }
+          ]
+        },
+        {
+          "id": "ending_libao_end",
+          "name": "璃宝END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_libao_01",
+              "type": "load",
+              "content": "LOAD 6"
+            },
+            {
+              "id": "step_libao_02",
+              "type": "choice",
+              "content": "逃走"
+            }
+          ]
+        },
+        {
+          "id": "ending_yuuba_end1",
+          "name": "柚芭END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_yuuba1_01",
+              "type": "load",
+              "content": "LOAD 5"
+            },
+            {
+              "id": "step_yuuba1_02",
+              "type": "choice",
+              "content": "不做"
+            },
+            {
+              "id": "step_yuuba1_03",
+              "type": "choice",
+              "content": "可能是这样"
+            },
+            {
+              "id": "step_yuuba1_04",
+              "type": "choice",
+              "content": "床单"
+            },
+            {
+              "id": "step_yuuba1_05",
+              "type": "choice",
+              "content": "我"
+            },
+            {
+              "id": "step_yuuba1_06",
+              "type": "choice",
+              "content": "赶他走"
+            },
+            {
+              "id": "step_yuuba1_07",
+              "type": "choice",
+              "content": "无视"
+            },
+            {
+              "id": "step_yuuba1_08",
+              "type": "save",
+              "content": "SAVE 8"
+            },
+            {
+              "id": "step_yuuba1_09",
+              "type": "choice",
+              "content": "柚芭是重要的家人"
+            }
+          ]
+        },
+        {
+          "id": "ending_yuuba_end2",
+          "name": "柚芭END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_yuuba2_01",
+              "type": "load",
+              "content": "LOAD 8"
+            },
+            {
+              "id": "step_yuuba2_02",
+              "type": "choice",
+              "content": "接受了柚芭的感情"
+            }
+          ]
+        },
+        {
+          "id": "ending_meihuaxia_end1",
+          "name": "美华夏END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_meihuaxia1_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_meihuaxia1_02",
+              "type": "choice",
+              "content": "拒绝"
+            },
+            {
+              "id": "step_meihuaxia1_03",
+              "type": "choice",
+              "content": "算了吧"
+            },
+            {
+              "id": "step_meihuaxia1_04",
+              "type": "choice",
+              "content": "还是别干了"
+            },
+            {
+              "id": "step_meihuaxia1_05",
+              "type": "choice",
+              "content": "拒绝"
+            },
+            {
+              "id": "step_meihuaxia1_06",
+              "type": "choice",
+              "content": "放弃"
+            },
+            {
+              "id": "step_meihuaxia1_07",
+              "type": "choice",
+              "content": "沉默"
+            },
+            {
+              "id": "step_meihuaxia1_08",
+              "type": "choice",
+              "content": "…………"
+            },
+            {
+              "id": "step_meihuaxia1_09",
+              "type": "choice",
+              "content": "拒绝"
+            },
+            {
+              "id": "step_meihuaxia1_10",
+              "type": "choice",
+              "content": "不想这样做"
+            },
+            {
+              "id": "step_meihuaxia1_11",
+              "type": "save",
+              "content": "SAVE 9"
+            },
+            {
+              "id": "step_meihuaxia1_12",
+              "type": "choice",
+              "content": "阻止绫音"
+            },
+            {
+              "id": "step_meihuaxia1_13",
+              "type": "choice",
+              "content": "不弹"
+            },
+            {
+              "id": "step_meihuaxia1_14",
+              "type": "choice",
+              "content": "拥有各种知识的人"
+            },
+            {
+              "id": "step_meihuaxia1_15",
+              "type": "choice",
+              "content": "拒绝琢磨的提议"
+            },
+            {
+              "id": "step_meihuaxia1_16",
+              "type": "choice",
+              "content": "还是喝酒比较好"
+            },
+            {
+              "id": "step_meihuaxia1_17",
+              "type": "choice",
+              "content": "绝对不去"
+            },
+            {
+              "id": "step_meihuaxia1_18",
+              "type": "choice",
+              "content": "什么也不说"
+            },
+            {
+              "id": "step_meihuaxia1_19",
+              "type": "choice",
+              "content": "柚芭"
+            },
+            {
+              "id": "step_meihuaxia1_20",
+              "type": "choice",
+              "content": "不行啊"
+            },
+            {
+              "id": "step_meihuaxia1_21",
+              "type": "choice",
+              "content": "大概就是这样吧"
+            },
+            {
+              "id": "step_meihuaxia1_22",
+              "type": "choice",
+              "content": "买章鱼烧"
+            },
+            {
+              "id": "step_meihuaxia1_23",
+              "type": "choice",
+              "content": "就像小说说的那样"
+            },
+            {
+              "id": "step_meihuaxia1_24",
+              "type": "choice",
+              "content": "保持沉默"
+            },
+            {
+              "id": "step_meihuaxia1_25",
+              "type": "choice",
+              "content": "道歉"
+            },
+            {
+              "id": "step_meihuaxia1_26",
+              "type": "choice",
+              "content": "没杀"
+            },
+            {
+              "id": "step_meihuaxia1_27",
+              "type": "choice",
+              "content": "不行"
+            },
+            {
+              "id": "step_meihuaxia1_29",
+              "type": "choice",
+              "content": "可能是这样"
+            },
+            {
+              "id": "step_meihuaxia1_30",
+              "type": "choice",
+              "content": "床单"
+            },
+            {
+              "id": "step_meihuaxia1_31",
+              "type": "choice",
+              "content": "我"
+            },
+            {
+              "id": "step_meihuaxia1_32",
+              "type": "choice",
+              "content": "无视"
+            }
+          ]
+        },
+        {
+          "id": "ending_bad3",
+          "name": "BADEND 3",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_bad3_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_bad3_02",
+              "type": "choice",
+              "content": "千花"
+            },
+            {
+              "id": "step_bad3_03",
+              "type": "choice",
+              "content": "不行啊"
+            },
+            {
+              "id": "step_bad3_04",
+              "type": "choice",
+              "content": "大概就是这样吧"
+            },
+            {
+              "id": "step_bad3_05",
+              "type": "choice",
+              "content": "就当成什么都没看见"
+            },
+            {
+              "id": "step_bad3_06",
+              "type": "choice",
+              "content": "就像小说说的那样"
+            },
+            {
+              "id": "step_bad3_07",
+              "type": "choice",
+              "content": "保持沉默"
+            },
+            {
+              "id": "step_bad3_08",
+              "type": "choice",
+              "content": "道歉"
+            },
+            {
+              "id": "step_bad3_09",
+              "type": "choice",
+              "content": "没杀"
+            },
+            {
+              "id": "step_bad3_10",
+              "type": "choice",
+              "content": "不行"
+            },
+            {
+              "id": "step_bad3_12",
+              "type": "choice",
+              "content": "可能是这样"
+            },
+            {
+              "id": "step_bad3_13",
+              "type": "choice",
+              "content": "安慰她"
+            },
+            {
+              "id": "step_bad3_14",
+              "type": "choice",
+              "content": "床单"
+            },
+            {
+              "id": "step_bad3_15",
+              "type": "save",
+              "content": "SAVE 10"
+            },
+            {
+              "id": "step_bad3_16",
+              "type": "choice",
+              "content": "绫音"
+            },
+            {
+              "id": "step_bad3_17",
+              "type": "choice",
+              "content": "射到嘴里"
+            },
+            {
+              "id": "step_bad3_18",
+              "type": "choice",
+              "content": "不逃避"
+            }
+          ]
+        },
+        {
+          "id": "ending_meihuaxia_end2",
+          "name": "美华夏END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_meihuaxia2_01",
+              "type": "load",
+              "content": "LOAD 10"
+            },
+            {
+              "id": "step_meihuaxia2_02",
+              "type": "choice",
+              "content": "我"
+            },
+            {
+              "id": "step_meihuaxia2_03",
+              "type": "choice",
+              "content": "无视"
+            },
+            {
+              "id": "step_meihuaxia2_04",
+              "type": "choice",
+              "content": "射到外面"
+            },
+            {
+              "id": "step_meihuaxia2_05",
+              "type": "save",
+              "content": "SAVE 11"
+            },
+            {
+              "id": "step_meihuaxia2_06",
+              "type": "choice",
+              "content": "不逃避"
+            }
+          ]
+        },
+        {
+          "id": "ending_qianhua_end",
+          "name": "千花END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_qianhua_01",
+              "type": "load",
+              "content": "LOAD 11"
+            },
+            {
+              "id": "step_qianhua_02",
+              "type": "choice",
+              "content": "逃避"
+            }
+          ]
+        },
+        {
+          "id": "ending_conductor_end",
+          "name": "CONDUCTOR END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_conductor_01",
+              "type": "choice",
+              "content": "CONDUCTOR",
+              "prefix": "☆"
+            }
+          ]
+        },
+        {
+          "id": "ending_ayane_end",
+          "name": "绫音END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_ayane_01",
+              "type": "load",
+              "content": "LOAD 9"
+            },
+            {
+              "id": "step_ayane_02",
+              "type": "choice",
+              "content": "阻止美华夏"
+            },
+            {
+              "id": "step_ayane_03",
+              "type": "choice",
+              "content": "不弹"
+            },
+            {
+              "id": "step_ayane_04",
+              "type": "choice",
+              "content": "拥有各种知识的人"
+            },
+            {
+              "id": "step_ayane_05",
+              "type": "choice",
+              "content": "拒绝琢磨的提议"
+            },
+            {
+              "id": "step_ayane_06",
+              "type": "choice",
+              "content": "还是喝酒比较好"
+            },
+            {
+              "id": "step_ayane_07",
+              "type": "choice",
+              "content": "绝对不去"
+            },
+            {
+              "id": "step_ayane_08",
+              "type": "choice",
+              "content": "从小玩到大的朋友"
+            },
+            {
+              "id": "step_ayane_09",
+              "type": "choice",
+              "content": "柚芭"
+            },
+            {
+              "id": "step_ayane_10",
+              "type": "choice",
+              "content": "不行啊"
+            },
+            {
+              "id": "step_ayane_11",
+              "type": "choice",
+              "content": "大概就是这样吧"
+            },
+            {
+              "id": "step_ayane_12",
+              "type": "choice",
+              "content": "买章鱼烧"
+            },
+            {
+              "id": "step_ayane_13",
+              "type": "choice",
+              "content": "是被施加暗示了吗"
+            },
+            {
+              "id": "step_ayane_14",
+              "type": "choice",
+              "content": "好好道歉"
+            },
+            {
+              "id": "step_ayane_15",
+              "type": "save",
+              "content": "SAVE 12"
+            },
+            {
+              "id": "step_ayane_16",
+              "type": "choice",
+              "content": "拒绝"
+            }
+          ]
+        },
+        {
+          "id": "ending_ayane_extra",
+          "name": "回收CG",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_ayane_extra_01",
+              "type": "load",
+              "content": "LOAD 12"
+            },
+            {
+              "id": "step_ayane_extra_02",
+              "type": "choice",
+              "content": "跟她做"
+            },
+            {
+              "id": "step_ayane_extra_03",
+              "type": "note",
+              "content": "游玩至从章鱼烧老爹那里找到绫音，回收CG和场景"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

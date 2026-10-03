@@ -1,0 +1,1066 @@
+{
+  "vid": "v15281",
+  "name": {
+    "zh-cn": "命运线上的Φ",
+    "ja-jp": "運命線上のφ",
+    "ja-Latn": "unmei-senjou-no-phi"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-12",
+  "tips": [
+    "注：■为拔刀模式和调查模式。",
+    "拔刀模式图标闪烁时会发出效果音，如果怕会错过点击刀的图标的话，可以将鼠标置于刀图标上面来单击推进游戏，这样就不会错过拔刀模式（Ctrl党自重……）",
+    "如果发现出现的选项不对，或者拔刀模式的图标忘了按等，可以活用回看中的剧本跳跃功能。",
+    "剑豪篇的迷你游戏【割草游戏】打出高分后，会在Tips中追加ゲーム联动企画的『秘密口令』。同时也会附赠壁纸(没找到)，我自己是打到373分给的口令。，",
+    "执事篇的迷你游戏【打屁股时间】打出高分后，会在Tips中追加『迷之暗号』。同时也会附赠系统语音（我没找到）",
+    "我自己是在打出279分后结算出现的，按照节奏，左右两边至少间隔一秒，等待时间太长也会失败，如果一直打出金色的GREAT！说明成功掌握节奏了。",
+    "剑豪篇【美术和体育课】章节结尾会出现弹窗(存档退出)，打上另一份翻译，【出生在南岛，长大于乌克丽】结束退出(不要存档)，删掉打上的的补丁，读取弹窗前的存档，用剧情树跳转到[南岛出生的尤克里里成长记](可能会出现中间的剧情树空白一片，重新快进即可)",
+    "后宫路线BAD CG1阶段有弹窗bug，仅限于be剧情，BAD CG2后恢复正常（沟槽的后宫路线，不如不做）"
+  ],
+  "routes": [
+    {
+      "id": "route_1756375243865",
+      "name": "凪咲",
+      "endings": [
+        {
+          "id": "ending_1756375245334",
+          "name": "凪咲 END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756375246563",
+              "type": "choice",
+              "content": "点击信封"
+            },
+            {
+              "id": "step_1756375246722",
+              "type": "note",
+              "content": "调查模式【血迹、小刀】"
+            },
+            {
+              "id": "step_1756375246868",
+              "type": "save",
+              "content": "SAVE 1",
+              "subfix": "调查结束存档"
+            },
+            {
+              "id": "step_1756375247004",
+              "type": "choice",
+              "content": "食堂"
+            },
+            {
+              "id": "step_1756375247142",
+              "type": "choice",
+              "content": "厨房"
+            },
+            {
+              "id": "step_1756375247282",
+              "type": "choice",
+              "content": "书库"
+            },
+            {
+              "id": "step_1756375247422",
+              "type": "choice",
+              "content": "走廊"
+            },
+            {
+              "id": "step_1756375247565",
+              "type": "note",
+              "content": "调查模式【镜台的信】"
+            },
+            {
+              "id": "step_1756375247703",
+              "type": "choice",
+              "content": "果凜"
+            },
+            {
+              "id": "step_1756375247847",
+              "type": "note",
+              "content": "拔刀【切开西瓜】（左键双击目标，左键滑动去斩掉）"
+            },
+            {
+              "id": "step_1756375247993",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1756375248141",
+              "type": "choice",
+              "content": "怪盗是结子"
+            },
+            {
+              "id": "step_1756375248443",
+              "type": "note",
+              "content": "调查模式【小门、楼梯、地板舱口，大门】"
+            },
+            {
+              "id": "step_1756375248606",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_1756375248871",
+              "type": "note",
+              "content": "拔刀斩掉【八重霞是我的妹妹吗？】"
+            },
+            {
+              "id": "step_1756375249028",
+              "type": "choice",
+              "content": "凪咲也可能是妹妹"
+            },
+            {
+              "id": "step_1756375249186",
+              "type": "note",
+              "content": "拔刀斩掉【铁链】"
+            },
+            {
+              "id": "step_1756375249364",
+              "type": "choice",
+              "content": "没有与伊织相遇的记忆"
+            },
+            {
+              "id": "step_1756375249530",
+              "type": "choice",
+              "content": "妹妹的信"
+            },
+            {
+              "id": "step_1756375249695",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_1756375249841",
+              "type": "choice",
+              "content": "想快点插入"
+            }
+          ]
+        },
+        {
+          "id": "ending_1756375746175",
+          "name": "凪咲 END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756375756712",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_1756375758744",
+              "type": "note",
+              "content": "拔刀斩掉【无法斩断羁绊】"
+            },
+            {
+              "id": "step_1756375759757",
+              "type": "choice",
+              "content": "那就只能斩断家族的羁绊"
+            },
+            {
+              "id": "step_1756375759928",
+              "type": "choice",
+              "content": "想快点插入"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756375795148",
+      "name": "紫乃",
+      "endings": [
+        {
+          "id": "ending_1756375796490",
+          "name": "紫乃 END１(支线)",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756375806003",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1756375806734",
+              "type": "note",
+              "content": "拔刀【八重霞是妹妹吗？】"
+            },
+            {
+              "id": "step_1756375807633",
+              "type": "choice",
+              "content": "哥哥（随便选）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756375854646",
+      "name": "莉尼亚",
+      "endings": [
+        {
+          "id": "ending_1756375869708",
+          "name": "莉尼亚 END1(支线1)",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756375877905",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1756375880935",
+              "type": "choice",
+              "content": "怪盗是莉尼亚"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756375897461",
+      "name": "结子",
+      "endings": [
+        {
+          "id": "ending_1756375899118",
+          "name": "结子 END(主线)",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756375912582",
+              "type": "load",
+              "content": "LOAD 2",
+              "subfix": "凪咲end后"
+            },
+            {
+              "id": "step_1756375916301",
+              "type": "note",
+              "content": "拔刀斩掉【怪盗是结子】"
+            },
+            {
+              "id": "step_1756375917251",
+              "type": "choice",
+              "content": "怪盗是凪咲"
+            },
+            {
+              "id": "step_1756375917525",
+              "type": "choice",
+              "content": "现在就倾诉我所有的感情！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756375996319",
+      "name": "果凜",
+      "endings": [
+        {
+          "id": "ending_1756376001173",
+          "name": "果凜 BAD END",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_1756376007883",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1756376009070",
+              "type": "note",
+              "content": "拔刀斩掉【她在装死】"
+            },
+            {
+              "id": "step_1756376010198",
+              "type": "choice",
+              "content": "已经死了"
+            },
+            {
+              "id": "step_1756376012660",
+              "type": "save",
+              "content": "SAVE 5",
+              "subfix": "拔刀出现时存档"
+            }
+          ]
+        },
+        {
+          "id": "ending_1756376037524",
+          "name": "果凜 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756376052877",
+              "type": "note",
+              "content": "执事篇(果凜主线)"
+            },
+            {
+              "id": "step_1756376054374",
+              "type": "note",
+              "content": "从最初开始（点击信封后面的黑色背景，信会转过来）"
+            },
+            {
+              "id": "step_1756376059311",
+              "type": "save",
+              "content": "SAVE 6",
+              "subfix": "拔刀出现时存档"
+            },
+            {
+              "id": "step_1756376061251",
+              "type": "note",
+              "content": "调查模式(书架、床、花瓶、相框)"
+            },
+            {
+              "id": "step_1756376063437",
+              "type": "save",
+              "content": "SAVE 7"
+            },
+            {
+              "id": "step_1756376064874",
+              "type": "note",
+              "content": "拔刀斩掉【去散步】"
+            },
+            {
+              "id": "step_1756376065691",
+              "type": "choice",
+              "content": "借来的小姐的书"
+            },
+            {
+              "id": "step_1756376067547",
+              "type": "save",
+              "content": "SAVE 8",
+              "subfix": "拔刀出现时存档"
+            },
+            {
+              "id": "step_1756376068033",
+              "type": "save",
+              "content": "SAVE 9",
+              "subfix": "拔刀出现时存档"
+            },
+            {
+              "id": "step_1756376069126",
+              "type": "choice",
+              "content": "轻抚背部"
+            },
+            {
+              "id": "step_1756376069640",
+              "type": "choice",
+              "content": "只能活在夏天的事"
+            },
+            {
+              "id": "step_1756376070813",
+              "type": "note",
+              "content": "拔刀斩掉【莹山的身体】（斩锁链进be）"
+            },
+            {
+              "id": "step_1756385857902",
+              "type": "note",
+              "content": "※以上END后（果凜攻略完毕前有锁)"
+            },
+            {
+              "id": "step_1756385872406",
+              "type": "load",
+              "content": "LOAD 9"
+            },
+            {
+              "id": "step_1756385875417",
+              "type": "choice",
+              "content": "拔刀斩掉【拥抱】"
+            },
+            {
+              "id": "step_1756385876970",
+              "type": "choice",
+              "content": "喝尿"
+            },
+            {
+              "id": "step_1756385878969",
+              "type": "note",
+              "content": "图表回收后结束"
+            },
+            {
+              "id": "step_1756385880569",
+              "type": "load",
+              "content": "LOAD 6"
+            },
+            {
+              "id": "step_1756385882602",
+              "type": "choice",
+              "content": "拔刀斩掉【强压下触碰的冲动】"
+            },
+            {
+              "id": "step_1756385883507",
+              "type": "choice",
+              "content": "忍不住想打人"
+            },
+            {
+              "id": "step_1756385885931",
+              "type": "choice",
+              "content": "☆迷你游戏【打屁股游戏】"
+            },
+            {
+              "id": "step_1756385886898",
+              "type": "note",
+              "content": "图表回收后结束"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756386887525",
+      "name": "凪咲",
+      "endings": [
+        {
+          "id": "ending_1756386909297",
+          "name": "凪咲 END(支线4)",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756386918060",
+              "type": "load",
+              "content": "LOAD 7"
+            },
+            {
+              "id": "step_1756386947237",
+              "type": "note",
+              "content": "(大逃杀开始，选项和场景会随机出现，按照顺序选择)"
+            },
+            {
+              "id": "step_1756386947396",
+              "type": "note",
+              "content": "(选项乱码，按照括号内确认)(花了我半小时手动确认)"
+            },
+            {
+              "id": "step_1756387006730",
+              "type": "choice",
+              "content": "01书库(彂屔)"
+            },
+            {
+              "id": "step_1756387006953",
+              "type": "choice",
+              "content": "02工作室(岺辚幒)(2F示意图)"
+            },
+            {
+              "id": "step_1756387007198",
+              "type": "choice",
+              "content": "03莉尼亚的卧室(侪啕僯儍偺巹幒)(1F示意图)"
+            },
+            {
+              "id": "step_1756387007363",
+              "type": "choice",
+              "content": "04休息室(俦搂儞獬)(怪物打麻将)"
+            },
+            {
+              "id": "step_1756387007530",
+              "type": "choice",
+              "content": "05食堂(怘摪)"
+            },
+            {
+              "id": "step_1756387007696",
+              "type": "choice",
+              "content": "06书库(彂屔)(直到出现折断的日本刀)"
+            },
+            {
+              "id": "step_1756387007855",
+              "type": "choice",
+              "content": "07果凜的卧室(儋辏偺巹幒)(直到出现损坏的大锤)"
+            },
+            {
+              "id": "step_1756387008019",
+              "type": "choice",
+              "content": "08书库(彂屔)(怪物看书)"
+            },
+            {
+              "id": "step_1756387008165",
+              "type": "choice",
+              "content": "09客室(媞幒)"
+            },
+            {
+              "id": "step_1756387008297",
+              "type": "choice",
+              "content": "10厨房(戜强)(直到出现发卡为止)"
+            },
+            {
+              "id": "step_1756387008560",
+              "type": "choice",
+              "content": "11客室(媞幒)(怪物等候)"
+            },
+            {
+              "id": "step_1756387008766",
+              "type": "choice",
+              "content": "12食堂(怘摪)"
+            },
+            {
+              "id": "step_1756387008898",
+              "type": "choice",
+              "content": "13工作室(岺辚幒)"
+            },
+            {
+              "id": "step_1756387009050",
+              "type": "choice",
+              "content": "14厨房(戜强)(怪物煮锅)"
+            },
+            {
+              "id": "step_1756387009210",
+              "type": "choice",
+              "content": "15玄关大厅(尯娭哝啕恧)"
+            },
+            {
+              "id": "step_1756387009337",
+              "type": "choice",
+              "content": "拔刀斩掉【只能赶紧去厕所了！】"
+            },
+            {
+              "id": "step_1756387009487",
+              "type": "choice",
+              "content": "只能一口喝干！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756387160986",
+      "name": "莉尼亚",
+      "endings": [
+        {
+          "id": "ending_1756387187261",
+          "name": "莉尼亚 END(主线)",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756387189091",
+              "type": "note",
+              "content": "旅情篇(莉尼亚主线)"
+            },
+            {
+              "id": "step_1756387200891",
+              "type": "choice",
+              "content": "从最初开始（不对信封做任何操作5秒后）"
+            },
+            {
+              "id": "step_1756387215070",
+              "type": "save",
+              "content": "SAVE 10",
+              "subfix": "拔刀出现时存档"
+            },
+            {
+              "id": "step_1756387215662",
+              "type": "save",
+              "content": "SAVE 11",
+              "subfix": "拔刀出现时存档"
+            },
+            {
+              "id": "step_1756387217275",
+              "type": "choice",
+              "content": "拔刀斩掉【铁球】"
+            },
+            {
+              "id": "step_1756387217820",
+              "type": "choice",
+              "content": "过去痛苦的回忆"
+            },
+            {
+              "id": "step_1756387218444",
+              "type": "choice",
+              "content": "展示爱液"
+            }
+          ]
+        },
+        {
+          "id": "ending_1756387292107",
+          "name": "莉尼亚 END(支线2)",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756387307023",
+              "type": "load",
+              "content": "LOAD 8"
+            },
+            {
+              "id": "step_1756387313621",
+              "type": "choice",
+              "content": "拔刀斩掉【是小姐的反动】"
+            },
+            {
+              "id": "step_1756387313931",
+              "type": "choice",
+              "content": "莉尼亚的反动也……"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756387375684",
+      "name": "果凜",
+      "endings": [
+        {
+          "id": "ending_1756387433949",
+          "name": "果凜 END(支线1)",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756387437498",
+              "type": "load",
+              "content": "LOAD 10"
+            },
+            {
+              "id": "step_1756387442745",
+              "type": "choice",
+              "content": "■拔刀斩掉【希望能帮上点忙】"
+            },
+            {
+              "id": "step_1756387444156",
+              "type": "choice",
+              "content": "仔细听两人的对话"
+            },
+            {
+              "id": "step_1756387444869",
+              "type": "choice",
+              "content": "凪咲(凪咲SD CG有)"
+            },
+            {
+              "id": "step_1756387446537",
+              "type": "save",
+              "content": "SAVE 12",
+              "subfix": "拔刀出现时存档"
+            }
+          ]
+        },
+        {
+          "id": "ending_1756387570438",
+          "name": "果凜 END(支线2)",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756387573840",
+              "type": "load",
+              "content": "LOAD 12"
+            },
+            {
+              "id": "step_1756387582405",
+              "type": "choice",
+              "content": "拔刀斩掉【这种话怎么可能说得出口】"
+            },
+            {
+              "id": "step_1756387582572",
+              "type": "choice",
+              "content": "不如换个服务"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756387617938",
+      "name": "紫乃",
+      "endings": [
+        {
+          "id": "ending_1756387629501",
+          "name": "紫乃 END(主线)",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756387631350",
+              "type": "choice",
+              "content": "剑豪篇(紫乃主线)"
+            },
+            {
+              "id": "step_1756387647034",
+              "type": "choice",
+              "content": "从最初开始（拔刀斩掉信封）"
+            },
+            {
+              "id": "step_1756387649576",
+              "type": "save",
+              "content": "SAVE 13",
+              "subfix": "拔刀出现时存档"
+            },
+            {
+              "id": "step_1756387650034",
+              "type": "save",
+              "content": "SAVE 14",
+              "subfix": "拔刀出现时存档"
+            },
+            {
+              "id": "step_1756387650500",
+              "type": "save",
+              "content": "SAVE 15",
+              "subfix": "拔刀出现时存档"
+            },
+            {
+              "id": "step_1756387653159",
+              "type": "note",
+              "content": "（过几章会出现弹窗错误，请注意）"
+            },
+            {
+              "id": "step_1756387654955",
+              "type": "choice",
+              "content": "拔刀斩掉【只有八重霞一个人也没问题】"
+            },
+            {
+              "id": "step_1756387655723",
+              "type": "choice",
+              "content": "调查模式(画架、驱魔摆设、床、水箱、画、杯子)"
+            },
+            {
+              "id": "step_1756387656445",
+              "type": "choice",
+              "content": "拔刀斩掉【画】"
+            },
+            {
+              "id": "step_1756387656871",
+              "type": "choice",
+              "content": "拔刀斩掉【锁】"
+            },
+            {
+              "id": "step_1756387657457",
+              "type": "choice",
+              "content": "早点插入"
+            }
+          ]
+        },
+        {
+          "id": "ending_1756387813836",
+          "name": "紫乃 END(支线2)",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756387818938",
+              "type": "load",
+              "content": "LOAD 11"
+            },
+            {
+              "id": "step_1756387825925",
+              "type": "choice",
+              "content": "拔刀斩掉【一定是莉尼亚】"
+            },
+            {
+              "id": "step_1756387826301",
+              "type": "choice",
+              "content": "一定是紫乃"
+            },
+            {
+              "id": "step_1756387826801",
+              "type": "choice",
+              "content": "触摸模式(退出后结束)"
+            },
+            {
+              "id": "step_1756387913622",
+              "type": "load",
+              "content": "LOAD 13"
+            },
+            {
+              "id": "step_1756387926558",
+              "type": "choice",
+              "content": "■拔刀模式开始"
+            },
+            {
+              "id": "step_1756387926793",
+              "type": "choice",
+              "content": "开始割草游戏"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756388026701",
+      "name": "凪咲",
+      "endings": [
+        {
+          "id": "ending_1756388029221",
+          "name": "凪咲 END(支线1)",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756388031074",
+              "type": "load",
+              "content": "LOAD 14"
+            },
+            {
+              "id": "step_1756388039719",
+              "type": "choice",
+              "content": "拔刀斩掉【…而且，是朋友】"
+            },
+            {
+              "id": "step_1756388040034",
+              "type": "choice",
+              "content": "…是师徒关系"
+            },
+            {
+              "id": "step_1756388040454",
+              "type": "choice",
+              "content": "拔刀斩掉【迷】 或者【锁定凪咲并斩击衣服】（锁定莉尼亚斩击衣服会导致BAD END）"
+            },
+            {
+              "id": "step_1756388042501",
+              "type": "save",
+              "content": "SAVE 16",
+              "subfix": "拔刀出现时存档"
+            },
+            {
+              "id": "step_1756388043671",
+              "type": "choice",
+              "content": "触摸模式(退出后结束)"
+            }
+          ]
+        },
+        {
+          "id": "ending_1756388262110",
+          "name": "凪咲 END(支线2)",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756388268600",
+              "type": "load",
+              "content": "LOAD 16"
+            },
+            {
+              "id": "step_1756388285441",
+              "type": "choice",
+              "content": "拔刀斩掉【好，我们来恶作剧吧】"
+            },
+            {
+              "id": "step_1756388285728",
+              "type": "choice",
+              "content": "不能这么做"
+            },
+            {
+              "id": "step_1756388286677",
+              "type": "save",
+              "content": "SAVE 17",
+              "subfix": "拔刀出现时存档"
+            }
+          ]
+        },
+        {
+          "id": "ending_1756388371283",
+          "name": "凪咲 END(支线3)",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756388375095",
+              "type": "load",
+              "content": "LOAD 17"
+            },
+            {
+              "id": "step_1756388376380",
+              "type": "choice",
+              "content": "拔刀斩掉【让凪咲来做】"
+            },
+            {
+              "id": "step_1756388376578",
+              "type": "choice",
+              "content": "我也试着贴御礼"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756388415678",
+      "name": "莉尼亚",
+      "endings": [
+        {
+          "id": "ending_1756388417550",
+          "name": "莉尼亚 END(支线3)",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756388420111",
+              "type": "load",
+              "content": "LOAD 15"
+            },
+            {
+              "id": "step_1756388421208",
+              "type": "choice",
+              "content": "拔刀斩掉【你还在玩吗】"
+            },
+            {
+              "id": "step_1756388421373",
+              "type": "choice",
+              "content": "我也爱"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756388538926",
+      "name": "后宫",
+      "endings": [
+        {
+          "id": "ending_1756388542682",
+          "name": "后宫 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756388547070",
+              "type": "load",
+              "content": "LOAD 5"
+            },
+            {
+              "id": "step_1756388563208",
+              "type": "choice",
+              "content": "■拔刀斩掉【检查尸体】"
+            },
+            {
+              "id": "step_1756388563380",
+              "type": "choice",
+              "content": "集合嫌疑人"
+            },
+            {
+              "id": "step_1756388563546",
+              "type": "choice",
+              "content": "■拔刀斩掉<【等待】"
+            },
+            {
+              "id": "step_1756388563696",
+              "type": "note",
+              "content": "(跳过会进入BE，可回收BAD，CG1)"
+            },
+            {
+              "id": "step_1756388563829",
+              "type": "choice",
+              "content": "去寻找"
+            },
+            {
+              "id": "step_1756388563986",
+              "type": "choice",
+              "content": "■调查模式(左门前的玩具刀、右门、左门)(阶段BE)"
+            },
+            {
+              "id": "step_1756388564139",
+              "type": "choice",
+              "content": "■拔刀斩掉【峰击】"
+            },
+            {
+              "id": "step_1756388564280",
+              "type": "choice",
+              "content": "尝试刺击"
+            },
+            {
+              "id": "step_1756388564596",
+              "type": "choice",
+              "content": "■拔刀斩掉【果凛的房间】"
+            },
+            {
+              "id": "step_1756388564796",
+              "type": "choice",
+              "content": "首先收集情报"
+            },
+            {
+              "id": "step_1756388564942",
+              "type": "choice",
+              "content": "■调查模式(从左到右的书架一一点击)"
+            },
+            {
+              "id": "step_1756388565096",
+              "type": "choice",
+              "content": "某人的手记"
+            },
+            {
+              "id": "step_1756388565284",
+              "type": "choice",
+              "content": "■拔刀斩掉【拔出刀】"
+            },
+            {
+              "id": "step_1756388565446",
+              "type": "choice",
+              "content": "锤子"
+            },
+            {
+              "id": "step_1756388565619",
+              "type": "choice",
+              "content": "■拔刀模斩掉【吃冰箱里的青椒】"
+            },
+            {
+              "id": "step_1756388565805",
+              "type": "choice",
+              "content": "吃温室的青椒"
+            },
+            {
+              "id": "step_1756388565985",
+              "type": "choice",
+              "content": "射击(不选择会导致BE，BAD CG2)"
+            },
+            {
+              "id": "step_1756388566172",
+              "type": "choice",
+              "content": "敲打"
+            },
+            {
+              "id": "step_1756388566366",
+              "type": "choice",
+              "content": "斩杀"
+            },
+            {
+              "id": "step_1756388566561",
+              "type": "choice",
+              "content": "咒文"
+            },
+            {
+              "id": "step_1756388566744",
+              "type": "choice",
+              "content": "■拔刀斩掉【打开门】"
+            },
+            {
+              "id": "step_1756388566914",
+              "type": "choice",
+              "content": "去工作室"
+            },
+            {
+              "id": "step_1756388567087",
+              "type": "choice",
+              "content": "■拔刀斩掉【优雅的无视】"
+            },
+            {
+              "id": "step_1756388567310",
+              "type": "choice",
+              "content": "进行解咒仪式"
+            },
+            {
+              "id": "step_1756388567485",
+              "type": "choice",
+              "content": "克男的手记"
+            },
+            {
+              "id": "step_1756388567679",
+              "type": "choice",
+              "content": "触摸模式(点击克男的下半身部分)"
+            },
+            {
+              "id": "step_1756388567875",
+              "type": "note",
+              "content": "(点下半身部分以外会导致BAD END，可回收BAD CG3)"
+            },
+            {
+              "id": "step_1756388568038",
+              "type": "choice",
+              "content": "锤子"
+            },
+            {
+              "id": "step_1756388568229",
+              "type": "choice",
+              "content": "■拔刀斩掉▼大声喊叫"
+            },
+            {
+              "id": "step_1756388568406",
+              "type": "choice",
+              "content": "卫星电话"
+            },
+            {
+              "id": "step_1756388568566",
+              "type": "choice",
+              "content": "■拔刀斩掉【到底该怎么办】"
+            },
+            {
+              "id": "step_1756388568919",
+              "type": "choice",
+              "content": "都是我老婆"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

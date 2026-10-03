@@ -1,0 +1,749 @@
+{
+  "vid": "v10016",
+  "name": {
+    "zh-cn": "时钟机关的Ley-line -黄昏时的境界线-",
+    "en-us": "A Clockwork Ley-Line: The Borderline of Dusk",
+    "ja-jp": "時計仕掛けのレイライン －黄昏時の境界線－",
+    "ja-Latn": "tokeijikake-no-ley-line-tasogaredoki-no-kyoukaisen"
+  },
+  "level": 2,
+  "updatedAt": "2026-05-18",
+  "tips": [
+    "★选项为会影响推理Rank的选项"
+  ],
+  "routes": [
+    {
+      "id": "route_game_guide",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_common_start",
+          "name": "共通线 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_common_01",
+              "type": "choice",
+              "content": "初次见面"
+            },
+            {
+              "id": "step_common_02",
+              "type": "choice",
+              "content": "不用对乌丸君也这么做吗？"
+            },
+            {
+              "id": "step_common_03",
+              "type": "choice",
+              "content": "小静静？"
+            },
+            {
+              "id": "step_common_04",
+              "type": "choice",
+              "content": "工作请继续加油吧"
+            },
+            {
+              "id": "step_common_05",
+              "type": "choice",
+              "content": "知道啦给我冷静下来"
+            },
+            {
+              "id": "step_common_06",
+              "type": "choice",
+              "content": "很危险啊！"
+            },
+            {
+              "id": "step_common_07",
+              "type": "choice",
+              "content": "治疗伤口"
+            },
+            {
+              "id": "step_common_08",
+              "type": "choice",
+              "content": "打招呼"
+            },
+            {
+              "id": "step_common_09",
+              "type": "choice",
+              "content": "煽动真弥"
+            },
+            {
+              "id": "step_common_10",
+              "type": "choice",
+              "content": "不可能的吧"
+            },
+            {
+              "id": "step_common_11",
+              "type": "choice",
+              "content": "关于魔力"
+            },
+            {
+              "id": "step_common_12",
+              "type": "choice",
+              "content": "关于遗品"
+            },
+            {
+              "id": "step_common_13",
+              "type": "choice",
+              "content": "关于夜之世界"
+            },
+            {
+              "id": "step_common_14",
+              "type": "choice",
+              "content": "觉得目的是抢走钥匙",
+              "prefix": "★"
+            },
+            {
+              "id": "step_common_15",
+              "type": "choice",
+              "content": "无论什么钥匙都可以？",
+              "prefix": "★"
+            },
+            {
+              "id": "step_common_16",
+              "type": "choice",
+              "content": "最后见到钥匙是什么时候？"
+            },
+            {
+              "id": "step_common_17",
+              "type": "choice",
+              "content": "什么时候发现钥匙不见的？"
+            },
+            {
+              "id": "step_common_18",
+              "type": "choice",
+              "content": "妖精没来吗？"
+            },
+            {
+              "id": "step_common_19",
+              "type": "choice",
+              "content": "静春"
+            },
+            {
+              "id": "step_common_20",
+              "type": "choice",
+              "content": "锷姬"
+            },
+            {
+              "id": "step_common_21",
+              "type": "choice",
+              "content": "莉塔"
+            },
+            {
+              "id": "step_common_22",
+              "type": "choice",
+              "content": "夜之学生",
+              "prefix": "★"
+            },
+            {
+              "id": "step_common_23",
+              "type": "choice",
+              "content": "某个被锁起来的房间里",
+              "prefix": "★"
+            },
+            {
+              "id": "step_common_24",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_common_25",
+              "type": "choice",
+              "content": "礼拜堂",
+              "prefix": "★"
+            },
+            {
+              "id": "step_common_26",
+              "type": "choice",
+              "content": "再度确认是否要破坏"
+            }
+          ]
+        },
+        {
+          "id": "ending_nemuko",
+          "name": "眠子 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_nemuko_01",
+              "type": "choice",
+              "content": "果然妖精是犯人",
+              "prefix": "★"
+            },
+            {
+              "id": "step_nemuko_02",
+              "type": "choice",
+              "content": "问问忧绪怎么了"
+            },
+            {
+              "id": "step_nemuko_03",
+              "type": "choice",
+              "content": "学园长的钥匙"
+            },
+            {
+              "id": "step_nemuko_04",
+              "type": "choice",
+              "content": "眠子使用了的话会怎样？"
+            },
+            {
+              "id": "step_nemuko_05",
+              "type": "choice",
+              "content": "在不知道是什么钥匙的情况下使用了会怎样？"
+            },
+            {
+              "id": "step_nemuko_06",
+              "type": "choice",
+              "content": "就算不打算使用也会自己生效吗？"
+            },
+            {
+              "id": "step_nemuko_07",
+              "type": "choice",
+              "content": "能够连接到风吕屋的所在地吗？",
+              "prefix": "★"
+            },
+            {
+              "id": "step_nemuko_08",
+              "type": "choice",
+              "content": "那个，你的考虑是指什么？"
+            },
+            {
+              "id": "step_nemuko_09",
+              "type": "choice",
+              "content": "踢开那些奇怪的生物冲出一条路"
+            },
+            {
+              "id": "step_nemuko_10",
+              "type": "choice",
+              "content": "你还好吧？"
+            },
+            {
+              "id": "step_nemuko_11",
+              "type": "choice",
+              "content": "昏暗的那边"
+            },
+            {
+              "id": "step_nemuko_12",
+              "type": "choice",
+              "content": "目标是那座像塔一样的东西"
+            },
+            {
+              "id": "step_nemuko_13",
+              "type": "choice",
+              "content": "闪着光的那边"
+            },
+            {
+              "id": "step_nemuko_14",
+              "type": "choice",
+              "content": "发烧了吗？"
+            },
+            {
+              "id": "step_nemuko_15",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_nemuko_16",
+              "type": "choice",
+              "content": "再这样呆多一会……"
+            },
+            {
+              "id": "step_nemuko_17",
+              "type": "choice",
+              "content": "这里是，哪里……？"
+            }
+          ]
+        },
+        {
+          "id": "ending_tsubame",
+          "name": "锷姬 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_tsubame_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_tsubame_02",
+              "type": "choice",
+              "content": "已经没事了"
+            },
+            {
+              "id": "step_tsubame_03",
+              "type": "choice",
+              "content": "这里是，哪里……？"
+            },
+            {
+              "id": "step_tsubame_04",
+              "type": "choice",
+              "content": "难道是身体不舒服吗？"
+            },
+            {
+              "id": "step_tsubame_05",
+              "type": "choice",
+              "content": "去调查房间吧"
+            },
+            {
+              "id": "step_tsubame_06",
+              "type": "choice",
+              "content": "从阳台能进去吗"
+            },
+            {
+              "id": "step_tsubame_07",
+              "type": "choice",
+              "content": "没有那样的事"
+            },
+            {
+              "id": "step_tsubame_08",
+              "type": "choice",
+              "content": "会把朋友们带回来的话就埋伏在这儿吧",
+              "prefix": "★"
+            },
+            {
+              "id": "step_tsubame_09",
+              "type": "choice",
+              "content": "好的，我来"
+            },
+            {
+              "id": "step_tsubame_10",
+              "type": "choice",
+              "content": "按你喜欢的方式称呼就行了"
+            },
+            {
+              "id": "step_tsubame_11",
+              "type": "choice",
+              "content": "那就叫锷姬酱吧？"
+            },
+            {
+              "id": "step_tsubame_12",
+              "type": "choice",
+              "content": "和我结婚吧"
+            },
+            {
+              "id": "step_tsubame_13",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_tsubame_14",
+              "type": "choice",
+              "content": "那我就放心了"
+            }
+          ]
+        },
+        {
+          "id": "ending_yuu",
+          "name": "忧绪 END",
+          "type": "good",
+          "steps": [
+            {
+              "id": "step_yuu_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_yuu_02",
+              "type": "choice",
+              "content": "没什么别放在心上啦"
+            },
+            {
+              "id": "step_yuu_03",
+              "type": "choice",
+              "content": "遗品可能不知道我的房间在哪"
+            },
+            {
+              "id": "step_yuu_04",
+              "type": "choice",
+              "content": "我来当诱饵就好了吧"
+            },
+            {
+              "id": "step_yuu_05",
+              "type": "choice",
+              "content": "唔、脚好麻呀！"
+            },
+            {
+              "id": "step_yuu_06",
+              "type": "choice",
+              "content": "你已经有朋友了吧！"
+            },
+            {
+              "id": "step_yuu_07",
+              "type": "choice",
+              "content": "小霞说不定真的和遗品没有关系",
+              "prefix": "★"
+            },
+            {
+              "id": "step_yuu_08",
+              "type": "choice",
+              "content": "她到了晚上就要睡觉吧",
+              "prefix": "★"
+            },
+            {
+              "id": "step_yuu_09",
+              "type": "choice",
+              "content": "追赶白色披风"
+            },
+            {
+              "id": "step_yuu_10",
+              "type": "choice",
+              "content": "有捡了什么类似遗品的东西吗？"
+            },
+            {
+              "id": "step_yuu_11",
+              "type": "choice",
+              "content": "那时候有个白色披风站你旁边…"
+            },
+            {
+              "id": "step_yuu_12",
+              "type": "choice",
+              "content": "有在路上捡啥奇怪的东西吃吗？"
+            },
+            {
+              "id": "step_yuu_13",
+              "type": "choice",
+              "content": "昨天的事情你还记得吗？"
+            },
+            {
+              "id": "step_yuu_14",
+              "type": "choice",
+              "content": "记忆从哪里开始断开的？"
+            },
+            {
+              "id": "step_yuu_15",
+              "type": "choice",
+              "content": "关于白色披风的事情"
+            },
+            {
+              "id": "step_yuu_16",
+              "type": "choice",
+              "content": "或许夺取记忆正是犯人的目的"
+            },
+            {
+              "id": "step_yuu_17",
+              "type": "choice",
+              "content": "不见得",
+              "prefix": "★"
+            },
+            {
+              "id": "step_yuu_18",
+              "type": "choice",
+              "content": "有个东西可以大量消耗魔力",
+              "prefix": "★"
+            },
+            {
+              "id": "step_yuu_19",
+              "type": "choice",
+              "content": "钥匙 (雅努斯之匙)",
+              "prefix": "★"
+            },
+            {
+              "id": "step_yuu_20",
+              "type": "choice",
+              "content": "已经因为代偿倒下了？",
+              "prefix": "★"
+            },
+            {
+              "id": "step_yuu_21",
+              "type": "choice",
+              "content": "立刻前去救援"
+            },
+            {
+              "id": "step_yuu_22",
+              "type": "choice",
+              "content": "那是事故吧？",
+              "prefix": "★"
+            },
+            {
+              "id": "step_yuu_23",
+              "type": "choice",
+              "content": "这是在求婚？"
+            },
+            {
+              "id": "step_yuu_24",
+              "type": "choice",
+              "content": "不可能放着不管吧"
+            },
+            {
+              "id": "step_yuu_25",
+              "type": "choice",
+              "content": "想要和小绪接吻。"
+            },
+            {
+              "id": "step_yuu_26",
+              "type": "note",
+              "content": "忧绪 END (评价：SSS)"
+            }
+          ]
+        },
+        {
+          "id": "ending_normal",
+          "name": "NORMAL END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_normal_01",
+              "type": "load",
+              "content": "LOAD 0"
+            },
+            {
+              "id": "step_normal_02",
+              "type": "choice",
+              "content": "女厕所",
+              "prefix": "★"
+            },
+            {
+              "id": "step_normal_03",
+              "type": "choice",
+              "content": "再度确认是否要破坏"
+            },
+            {
+              "id": "step_normal_04",
+              "type": "choice",
+              "content": "犯人是妖精外的其他人",
+              "prefix": "★"
+            },
+            {
+              "id": "step_normal_05",
+              "type": "choice",
+              "content": "问问忧绪怎么了"
+            },
+            {
+              "id": "step_normal_06",
+              "type": "choice",
+              "content": "学园长的钥匙"
+            },
+            {
+              "id": "step_normal_07",
+              "type": "choice",
+              "content": "眠子使用了的话会怎样？"
+            },
+            {
+              "id": "step_normal_08",
+              "type": "choice",
+              "content": "在不知道是什么钥匙的情况下使用了会怎样？"
+            },
+            {
+              "id": "step_normal_09",
+              "type": "choice",
+              "content": "就算不打算使用也会自己生效吗？"
+            },
+            {
+              "id": "step_normal_10",
+              "type": "choice",
+              "content": "能够连接到这把钥匙最后所指定的地方吗？",
+              "prefix": "★"
+            },
+            {
+              "id": "step_normal_11",
+              "type": "choice",
+              "content": "那个，你的考虑是指什么？"
+            },
+            {
+              "id": "step_normal_12",
+              "type": "choice",
+              "content": "踢开那些奇怪的生物冲出一条路"
+            },
+            {
+              "id": "step_normal_13",
+              "type": "choice",
+              "content": "你还好吧？"
+            },
+            {
+              "id": "step_normal_14",
+              "type": "choice",
+              "content": "昏暗的那边"
+            },
+            {
+              "id": "step_normal_15",
+              "type": "choice",
+              "content": "目标是那座像塔一样的东西"
+            },
+            {
+              "id": "step_normal_16",
+              "type": "choice",
+              "content": "闪着光的那边"
+            },
+            {
+              "id": "step_normal_17",
+              "type": "choice",
+              "content": "发烧了吗？"
+            },
+            {
+              "id": "step_normal_18",
+              "type": "choice",
+              "content": "已经没事了"
+            },
+            {
+              "id": "step_normal_19",
+              "type": "choice",
+              "content": "这里是，哪里……？"
+            },
+            {
+              "id": "step_normal_20",
+              "type": "choice",
+              "content": "难道是身体不舒服吗？"
+            },
+            {
+              "id": "step_normal_21",
+              "type": "choice",
+              "content": "去调查房间吧"
+            },
+            {
+              "id": "step_normal_22",
+              "type": "choice",
+              "content": "从阳台能进去吗"
+            },
+            {
+              "id": "step_normal_23",
+              "type": "choice",
+              "content": "没有那样的事"
+            },
+            {
+              "id": "step_normal_24",
+              "type": "choice",
+              "content": "能不能使用学园长的钥匙呢",
+              "prefix": "★"
+            },
+            {
+              "id": "step_normal_25",
+              "type": "choice",
+              "content": "好的，我来"
+            },
+            {
+              "id": "step_normal_26",
+              "type": "choice",
+              "content": "按你喜欢的方式称呼就行了"
+            },
+            {
+              "id": "step_normal_27",
+              "type": "choice",
+              "content": "那就叫锷姬酱吧？"
+            },
+            {
+              "id": "step_normal_28",
+              "type": "choice",
+              "content": "和我结婚吧"
+            },
+            {
+              "id": "step_normal_29",
+              "type": "choice",
+              "content": "没什么别放在心上啦"
+            },
+            {
+              "id": "step_normal_30",
+              "type": "choice",
+              "content": "遗品可能不知道我的房间在哪"
+            },
+            {
+              "id": "step_normal_31",
+              "type": "choice",
+              "content": "我来当诱饵就好了吧"
+            },
+            {
+              "id": "step_normal_32",
+              "type": "choice",
+              "content": "唔、脚好麻呀！"
+            },
+            {
+              "id": "step_normal_33",
+              "type": "choice",
+              "content": "你已经有朋友了吧！"
+            },
+            {
+              "id": "step_normal_34",
+              "type": "choice",
+              "content": "遗品的本体说不定是小霞",
+              "prefix": "★"
+            },
+            {
+              "id": "step_normal_35",
+              "type": "choice",
+              "content": "她会指出人的缺点吧",
+              "prefix": "★"
+            },
+            {
+              "id": "step_normal_36",
+              "type": "choice",
+              "content": "追赶白色披风"
+            },
+            {
+              "id": "step_normal_37",
+              "type": "choice",
+              "content": "有捡了什么类似遗品的东西吗？"
+            },
+            {
+              "id": "step_normal_38",
+              "type": "choice",
+              "content": "那时候有个白色披风站你旁边…"
+            },
+            {
+              "id": "step_normal_39",
+              "type": "choice",
+              "content": "有在路上捡啥奇怪的东西吃吗？"
+            },
+            {
+              "id": "step_normal_40",
+              "type": "choice",
+              "content": "昨天的事情你还记得吗？"
+            },
+            {
+              "id": "step_normal_41",
+              "type": "choice",
+              "content": "记忆从哪里开始断开的？"
+            },
+            {
+              "id": "step_normal_42",
+              "type": "choice",
+              "content": "关于白色披风的事情"
+            },
+            {
+              "id": "step_normal_43",
+              "type": "choice",
+              "content": "或许夺取记忆正是犯人的目的"
+            },
+            {
+              "id": "step_normal_44",
+              "type": "choice",
+              "content": "会是那个白色披风吗",
+              "prefix": "★"
+            },
+            {
+              "id": "step_normal_45",
+              "type": "choice",
+              "content": "可能被存储到哪里了吧",
+              "prefix": "★"
+            },
+            {
+              "id": "step_normal_46",
+              "type": "choice",
+              "content": "人偶 (安利・谢布鲁)",
+              "prefix": "★"
+            },
+            {
+              "id": "step_normal_47",
+              "type": "choice",
+              "content": "故意让遗品暴走？",
+              "prefix": "★"
+            },
+            {
+              "id": "step_normal_48",
+              "type": "choice",
+              "content": "立刻前去救援",
+              "subfix": "观察情况→BAD END"
+            },
+            {
+              "id": "step_normal_49",
+              "type": "choice",
+              "content": "那是谎言吧？",
+              "prefix": "★"
+            },
+            {
+              "id": "step_normal_50",
+              "type": "choice",
+              "content": "上门女婿么"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

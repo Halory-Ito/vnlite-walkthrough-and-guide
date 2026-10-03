@@ -1,0 +1,84 @@
+{
+  "vid": "v1190",
+  "name": {
+    "zh-cn": "为了见到明天的七海",
+    "ja-jp": "明日の七海と逢うために〜明日の君と逢うために〜FAN DISC",
+    "ja-Latn": "ashita-no-nanami-to-au-tame-ni"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-14",
+  "routes": [
+    {
+      "id": "route_game",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_mina_end",
+          "name": "美菜 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_mina_01",
+              "type": "choice",
+              "content": "带着七海一起逃走",
+              "prefix": "◆",
+              "group": "7月9日"
+            }
+          ]
+        },
+        {
+          "id": "ending_manami_end",
+          "name": "真奈美 END",
+          "type": "normal",
+          "requirements": "美菜 END 后，从最初开始",
+          "steps": [
+            {
+              "id": "step_manami_02",
+              "type": "choice",
+              "content": "把之后的事交给七海，自己逃走",
+              "group": "7月9日"
+            }
+          ]
+        },
+        {
+          "id": "ending_other_end",
+          "name": "其他 END",
+          "type": "normal",
+          "requirements": "真奈美 END 后，选择「某个夏日」开始",
+          "steps": [
+            {
+              "id": "step_other_02",
+              "type": "save",
+              "content": "SAVE 1",
+              "group": "某月某日"
+            },
+            {
+              "id": "step_other_03",
+              "type": "choice",
+              "content": "我没有那种特别的兴趣",
+              "group": "某月某日"
+            }
+          ]
+        },
+        {
+          "id": "ending_cg_recovery",
+          "name": "CG回收",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_cg_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_cg_02",
+              "type": "choice",
+              "content": "还挺喜欢",
+              "group": "某月某日"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

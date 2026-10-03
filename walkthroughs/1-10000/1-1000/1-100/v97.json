@@ -1,0 +1,80 @@
+{
+  "vid": "v97",
+  "name": {
+    "zh-cn": "沙耶之歌",
+    "en-us": "Saya no Uta ~ The Song of Saya",
+    "ja-jp": "沙耶の唄",
+    "ja-Latn": "saya-no-uta"
+  },
+  "level": 2,
+  "updatedAt": "2026-02-27",
+  "routes": [
+    {
+      "id": "route_1754659693252",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1754659801194",
+          "name": "精神院中的爱",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1754659966777",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1754659954161",
+              "type": "choice",
+              "content": "想变回去"
+            }
+          ]
+        },
+        {
+          "id": "ending_1754659973828",
+          "name": "悲剧性的对决",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1754660026643",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1754660027160",
+              "type": "choice",
+              "content": "已经不需要了"
+            },
+            {
+              "id": "step_1754660042922",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1754660114026",
+              "type": "choice",
+              "content": "打给凉子"
+            }
+          ]
+        },
+        {
+          "id": "ending_1754659998183",
+          "name": "孢子的世界",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1754660133955",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1754660137677",
+              "type": "choice",
+              "content": "打给郁纪"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

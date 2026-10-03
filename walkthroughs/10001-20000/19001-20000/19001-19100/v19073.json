@@ -1,0 +1,322 @@
+{
+  "vid": "v19073",
+  "name": {
+    "zh-cn": "千恋万花",
+    "en-us": "Senren＊Banka",
+    "ja-jp": "千恋＊万花",
+    "ja-Latn": "senren-banka"
+  },
+  "level": 2,
+  "updatedAt": "2026-02-27",
+  "routes": [
+    {
+      "id": "route_1748960772321",
+      "name": "朝武 芳乃",
+      "endings": [
+        {
+          "id": "ending_1748960916105",
+          "name": "芳乃 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1748961219723",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1748961221850",
+              "type": "choice",
+              "content": "说实话/敷衍过去"
+            },
+            {
+              "id": "step_1748961306261",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1748961530974",
+              "type": "choice",
+              "content": "还是觉得城市好/不好说"
+            },
+            {
+              "id": "step_1748961557356",
+              "type": "choice",
+              "content": "我觉得很可爱/看着不奇怪"
+            },
+            {
+              "id": "step_1748961579752",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_1748961596922",
+              "type": "choice",
+              "content": "钓鱼"
+            },
+            {
+              "id": "step_1749015235601",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_1748961657051",
+              "type": "choice",
+              "content": "不行"
+            },
+            {
+              "id": "step_1749012966755",
+              "type": "choice",
+              "content": "用语音感谢/摸头"
+            },
+            {
+              "id": "step_1749012987704",
+              "type": "choice",
+              "content": "有点担心/相信小春"
+            },
+            {
+              "id": "step_1749013025184",
+              "type": "choice",
+              "content": "让她放心"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1749013037993",
+      "name": "常陆 茉子",
+      "endings": [
+        {
+          "id": "ending_1749013086904",
+          "name": "茉子 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1749013111040",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1749013132978",
+              "type": "choice",
+              "content": "不好说"
+            },
+            {
+              "id": "step_1749013141566",
+              "type": "choice",
+              "content": "我觉得很可爱/看着不奇怪"
+            },
+            {
+              "id": "step_1749013141750",
+              "type": "choice",
+              "content": "挖野菜"
+            },
+            {
+              "id": "step_1749013165446",
+              "type": "choice",
+              "content": "用语音感谢/摸头"
+            },
+            {
+              "id": "step_1749013165622",
+              "type": "choice",
+              "content": "有点担心/相信小春"
+            },
+            {
+              "id": "step_1749013166142",
+              "type": "choice",
+              "content": "少说两句/让她放心"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1749013244679",
+      "name": "丛雨",
+      "endings": [
+        {
+          "id": "ending_1749013278487",
+          "name": "丛雨 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1749013296597",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1749013331261",
+              "type": "choice",
+              "content": "单独行动"
+            },
+            {
+              "id": "step_1749013349357",
+              "type": "choice",
+              "content": "摸头"
+            },
+            {
+              "id": "step_1749013357844",
+              "type": "choice",
+              "content": "有点担心/相信小春"
+            },
+            {
+              "id": "step_1749013357988",
+              "type": "choice",
+              "content": "少说两句/让她放心"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1749013949009",
+      "name": "蕾娜 莉希特娜瓦",
+      "endings": [
+        {
+          "id": "ending_1749015247248",
+          "name": "蕾娜 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1749015265505",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_1749015268832",
+              "type": "choice",
+              "content": "好吧"
+            },
+            {
+              "id": "step_1749015275848",
+              "type": "choice",
+              "content": "用语音感谢/摸头"
+            },
+            {
+              "id": "step_1749015276056",
+              "type": "choice",
+              "content": "有点担心/相信小春"
+            },
+            {
+              "id": "step_1749015297855",
+              "type": "choice",
+              "content": "让她放心／少说两句"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1749015345103",
+      "name": "小春/芦花",
+      "endings": [
+        {
+          "id": "ending_1749015354270",
+          "name": "小春/芦花 END",
+          "type": "normal",
+          "requirements": "攻略前四位任意一位后解锁",
+          "steps": [
+            {
+              "id": "step_1749015373887",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1749015415182",
+              "type": "choice",
+              "content": "说实话"
+            },
+            {
+              "id": "step_1749015415315",
+              "type": "choice",
+              "content": "不好说/还是觉得城市好"
+            },
+            {
+              "id": "step_1749015415449",
+              "type": "choice",
+              "content": "看着不奇怪/我觉得很可爱"
+            },
+            {
+              "id": "step_1749015455430",
+              "type": "choice",
+              "content": "单独行动"
+            },
+            {
+              "id": "step_1749015455598",
+              "type": "choice",
+              "content": "用语音感谢/摸头"
+            },
+            {
+              "id": "step_1749015484766",
+              "type": "choice",
+              "content": "相信小春"
+            },
+            {
+              "id": "step_1749015494974",
+              "type": "choice",
+              "content": "少说两句/让她放心"
+            },
+            {
+              "id": "step_1749015527630",
+              "type": "choice",
+              "content": "小春的笑容／花姐的笑容"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1749015562894",
+      "name": "单身线",
+      "endings": [
+        {
+          "id": "ending_1749015570366",
+          "name": "单身结局",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_1749015678742",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1749015680485",
+              "type": "choice",
+              "content": "敷衍过去"
+            },
+            {
+              "id": "step_1749015680628",
+              "type": "choice",
+              "content": "还是觉得城市好"
+            },
+            {
+              "id": "step_1749015680868",
+              "type": "choice",
+              "content": "看着不奇怪"
+            },
+            {
+              "id": "step_1749015681053",
+              "type": "choice",
+              "content": "单独行动"
+            },
+            {
+              "id": "step_1749015728716",
+              "type": "choice",
+              "content": "用语音感谢"
+            },
+            {
+              "id": "step_1749015728860",
+              "type": "choice",
+              "content": "有点担心"
+            },
+            {
+              "id": "step_1749015748036",
+              "type": "choice",
+              "content": "少说两句"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

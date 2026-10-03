@@ -1,0 +1,195 @@
+{
+  "vid": "v36687",
+  "name": {
+    "zh-cn": "D.C.5 ～ダ・カーポ5～",
+    "ja-jp": "D.C.5 ～ダ・カーポ5～",
+    "ja-Latn": "dc5"
+  },
+  "level": 1,
+  "updatedAt": "2026-07-15",
+  "routes": [
+    {
+      "id": "route_game_guide",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_kako",
+          "name": "八坂 可子 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_kako_02",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_kako_04",
+              "type": "choice",
+              "content": "天文部│可子",
+              "prefix": "■"
+            },
+            {
+              "id": "step_kako_05",
+              "type": "choice",
+              "content": "常坂別邸│可子",
+              "prefix": "■"
+            },
+            {
+              "id": "step_kako_06",
+              "type": "choice",
+              "content": "可子的教室│可子",
+              "prefix": "■"
+            },
+            {
+              "id": "step_kako_08",
+              "type": "choice",
+              "content": "天文部│可子",
+              "prefix": "■"
+            }
+          ]
+        },
+        {
+          "id": "ending_akari",
+          "name": "白河 灯莉 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_akari_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_akari_03",
+              "type": "choice",
+              "content": "教室│灯莉",
+              "prefix": "■"
+            },
+            {
+              "id": "step_akari_04",
+              "type": "choice",
+              "content": "商店街│灯莉",
+              "prefix": "■"
+            },
+            {
+              "id": "step_akari_05",
+              "type": "choice",
+              "content": "教室│灯莉",
+              "prefix": "■"
+            },
+            {
+              "id": "step_akari_07",
+              "type": "choice",
+              "content": "校舎前│灯莉",
+              "prefix": "■"
+            }
+          ]
+        },
+        {
+          "id": "ending_ainoa",
+          "name": "八坂 愛乃亜 END",
+          "type": "normal",
+          "requirements": "可子或灯莉END后",
+          "steps": [
+            {
+              "id": "step_ainoa_02",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_ainoa_04",
+              "type": "choice",
+              "content": "屋上│愛乃亜",
+              "prefix": "■"
+            },
+            {
+              "id": "step_ainoa_05",
+              "type": "choice",
+              "content": "公園│愛乃亜",
+              "prefix": "■"
+            },
+            {
+              "id": "step_ainoa_06",
+              "type": "choice",
+              "content": "学食│愛乃亜",
+              "prefix": "■"
+            },
+            {
+              "id": "step_ainoa_08",
+              "type": "choice",
+              "content": "廊下│愛乃亜",
+              "prefix": "■"
+            }
+          ]
+        },
+        {
+          "id": "ending_setsuna",
+          "name": "常坂 雪那 END",
+          "type": "normal",
+          "requirements": "可子或灯莉END后",
+          "steps": [
+            {
+              "id": "step_setsuna_02",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_setsuna_04",
+              "type": "choice",
+              "content": "生徒会室│雪那",
+              "prefix": "■"
+            },
+            {
+              "id": "step_setsuna_05",
+              "type": "choice",
+              "content": "常坂本家│雪那",
+              "prefix": "■"
+            },
+            {
+              "id": "step_setsuna_06",
+              "type": "choice",
+              "content": "廊下│雪那",
+              "prefix": "■"
+            },
+            {
+              "id": "step_setsuna_08",
+              "type": "choice",
+              "content": "生徒会室│雪那",
+              "prefix": "■"
+            }
+          ]
+        },
+        {
+          "id": "ending_mizuka",
+          "name": "桜来 瑞花 END",
+          "type": "normal",
+          "requirements": "可子或灯莉END后",
+          "steps": [
+            {
+              "id": "step_mizuka_02",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_mizuka_04",
+              "type": "choice",
+              "content": "中庭│瑞花",
+              "prefix": "■"
+            },
+            {
+              "id": "step_mizuka_05",
+              "type": "choice",
+              "content": "常坂家書庫│瑞花",
+              "prefix": "■"
+            },
+            {
+              "id": "step_mizuka_06",
+              "type": "choice",
+              "content": "中庭│瑞花",
+              "prefix": "■"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

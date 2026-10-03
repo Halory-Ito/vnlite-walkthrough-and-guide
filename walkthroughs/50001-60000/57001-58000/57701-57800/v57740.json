@@ -1,0 +1,217 @@
+{
+  "vid": "v57740",
+  "name": {
+    "zh-cn": "CRACK≡TRICK!",
+    "ja-Latn": "crack-trick"
+  },
+  "level": 2,
+  "updatedAt": "2026-05-08",
+  "routes": [
+    {
+      "id": "route_game_guide",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_common",
+          "name": "共通 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_common_02",
+              "type": "choice",
+              "content": "……明白了。"
+            },
+            {
+              "id": "step_common_03",
+              "type": "choice",
+              "content": "⇒遗体状态"
+            },
+            {
+              "id": "step_common_04",
+              "type": "choice",
+              "content": "⇒凶器"
+            },
+            {
+              "id": "step_common_05",
+              "type": "choice",
+              "content": "⇒侵入路径"
+            },
+            {
+              "id": "step_common_06",
+              "type": "choice",
+              "content": "⇒嫌疑人"
+            },
+            {
+              "id": "step_common_07",
+              "type": "choice",
+              "content": "⇒以迪特琳德为目标的理由"
+            },
+            {
+              "id": "step_common_08",
+              "type": "choice",
+              "content": "⇒动机"
+            },
+            {
+              "id": "step_common_09",
+              "type": "choice",
+              "content": "那就一起调查吧"
+            },
+            {
+              "id": "step_common_10",
+              "type": "choice",
+              "content": "⇒书架"
+            },
+            {
+              "id": "step_common_11",
+              "type": "choice",
+              "content": "⇒桌子"
+            },
+            {
+              "id": "step_common_12",
+              "type": "choice",
+              "content": "⇒相册"
+            },
+            {
+              "id": "step_common_13",
+              "type": "choice",
+              "content": "明白了"
+            }
+          ]
+        },
+        {
+          "id": "ending_dietlinde",
+          "name": "迪特琳德 END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_dietlinde_01",
+              "type": "choice",
+              "content": "听迪特琳德说话",
+              "prefix": "■"
+            },
+            {
+              "id": "step_dietlinde_02",
+              "type": "choice",
+              "content": "陈述想法"
+            },
+            {
+              "id": "step_dietlinde_03",
+              "type": "choice",
+              "content": "替换为其他文字",
+              "prefix": "◯"
+            },
+            {
+              "id": "step_dietlinde_04",
+              "type": "choice",
+              "content": "图形的角数",
+              "prefix": "◯"
+            },
+            {
+              "id": "step_dietlinde_05",
+              "type": "choice",
+              "content": "阿黛尔"
+            }
+          ]
+        },
+        {
+          "id": "ending_emilia",
+          "name": "艾米莉亚 END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_emilia_01",
+              "type": "choice",
+              "content": "听艾米莉亚说话",
+              "prefix": "■"
+            },
+            {
+              "id": "step_emilia_02",
+              "type": "choice",
+              "content": "追问"
+            },
+            {
+              "id": "step_emilia_03",
+              "type": "choice",
+              "content": "安慰"
+            },
+            {
+              "id": "step_emilia_04",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_emilia_06",
+              "type": "choice",
+              "content": "安慰艾米莉亚"
+            },
+            {
+              "id": "step_emilia_07",
+              "type": "choice",
+              "content": "天秤座 处女座 水瓶座 狮子座",
+              "prefix": "◯"
+            },
+            {
+              "id": "step_emilia_08",
+              "type": "choice",
+              "content": "固有功能",
+              "prefix": "◯"
+            },
+            {
+              "id": "step_emilia_09",
+              "type": "choice",
+              "content": "为了衰弱致死",
+              "prefix": "◯"
+            },
+            {
+              "id": "step_emilia_10",
+              "type": "choice",
+              "content": "因为有碍事者",
+              "prefix": "◯"
+            }
+          ]
+        },
+        {
+          "id": "ending_dietlinde2",
+          "name": "迪特琳德 END2",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_dietlinde2_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_dietlinde2_03",
+              "type": "choice",
+              "content": "让迪特琳德闭嘴"
+            },
+            {
+              "id": "step_dietlinde2_04",
+              "type": "choice",
+              "content": "天秤座 处女座 水瓶座 狮子座",
+              "prefix": "◯"
+            },
+            {
+              "id": "step_dietlinde2_05",
+              "type": "choice",
+              "content": "固有功能",
+              "prefix": "◯"
+            },
+            {
+              "id": "step_dietlinde2_06",
+              "type": "choice",
+              "content": "为了衰弱致死",
+              "prefix": "◯"
+            },
+            {
+              "id": "step_dietlinde2_07",
+              "type": "choice",
+              "content": "因为有碍事者",
+              "prefix": "◯"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

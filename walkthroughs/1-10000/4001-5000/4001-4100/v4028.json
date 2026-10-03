@@ -1,0 +1,216 @@
+{
+  "vid": "v4028",
+  "name": {
+    "zh-cn": "恋爱与选举与巧克力",
+    "en-us": "Love, Elections, & Chocolate",
+    "ja-jp": "恋と選挙とチョコレート",
+    "ja-Latn": "koi-to-senkyo-to-chocolate"
+  },
+  "level": 2,
+  "updatedAt": "2026-03-03",
+  "routes": [
+    {
+      "id": "route_1772367314233",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1772367328880",
+          "name": "住吉千里",
+          "type": "normal",
+          "requirements": "（一周目锁定）",
+          "steps": [
+            {
+              "id": "step_1772367357460",
+              "type": "choice",
+              "content": "只是觉得不可理喻"
+            },
+            {
+              "id": "step_1772367357612",
+              "type": "choice",
+              "content": "千里"
+            },
+            {
+              "id": "step_1772367365100",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1772367366640",
+              "type": "choice",
+              "content": "路上再买"
+            },
+            {
+              "id": "step_1772367366796",
+              "type": "choice",
+              "content": "去吃汉堡"
+            },
+            {
+              "id": "step_1772367367635",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1772367375717",
+              "type": "choice",
+              "content": "大、大概是这样吧"
+            },
+            {
+              "id": "step_1772367375902",
+              "type": "choice",
+              "content": "看向千里"
+            },
+            {
+              "id": "step_1772367376558",
+              "type": "choice",
+              "content": "嫉妒"
+            },
+            {
+              "id": "step_1772367377022",
+              "type": "choice",
+              "content": "感到心情变得不愉快"
+            },
+            {
+              "id": "step_1772367377363",
+              "type": "choice",
+              "content": "紧张感一下子消散而去"
+            }
+          ]
+        },
+        {
+          "id": "ending_1772367335253",
+          "name": "青海衣更",
+          "type": "normal",
+          "requirements": "（二周目开放）",
+          "steps": [
+            {
+              "id": "step_1772367403232",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1772367410925",
+              "type": "choice",
+              "content": "是在等青海同学啊"
+            },
+            {
+              "id": "step_1772367411087",
+              "type": "choice",
+              "content": "看向叶月"
+            },
+            {
+              "id": "step_1772367411223",
+              "type": "choice",
+              "content": "放心"
+            },
+            {
+              "id": "step_1772367411383",
+              "type": "choice",
+              "content": "原本还以为你不了解"
+            },
+            {
+              "id": "step_1772367411563",
+              "type": "choice",
+              "content": "感觉到了不同于紧张感的心跳感"
+            }
+          ]
+        },
+        {
+          "id": "ending_1772367335507",
+          "name": "木场美冬",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1772367436309",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1772367437010",
+              "type": "choice",
+              "content": "回去取"
+            },
+            {
+              "id": "step_1772367437244",
+              "type": "choice",
+              "content": "再一次迅速转过身去"
+            },
+            {
+              "id": "step_1772367437585",
+              "type": "choice",
+              "content": "太麻烦了，不追算了"
+            },
+            {
+              "id": "step_1772367446905",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_1772367450595",
+              "type": "choice",
+              "content": "不转身"
+            },
+            {
+              "id": "step_1772367450750",
+              "type": "choice",
+              "content": "可能会添麻烦所以还是算了"
+            },
+            {
+              "id": "step_1772367450913",
+              "type": "choice",
+              "content": "美得让人惊异"
+            },
+            {
+              "id": "step_1772367451105",
+              "type": "choice",
+              "content": "看向猴子二人组"
+            },
+            {
+              "id": "step_1772367459919",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_1772367465252",
+              "type": "choice",
+              "content": "果然还是感到很意外"
+            }
+          ]
+        },
+        {
+          "id": "ending_1772367336265",
+          "name": "东云皋月",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1772367476940",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_1772367479073",
+              "type": "choice",
+              "content": "看上去非常可爱"
+            }
+          ]
+        },
+        {
+          "id": "ending_1772367336593",
+          "name": "森下未散",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1772367487563",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1772367491480",
+              "type": "choice",
+              "content": "转身"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

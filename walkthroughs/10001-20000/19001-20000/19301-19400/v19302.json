@@ -1,0 +1,85 @@
+{
+  "vid": "v19302",
+  "name": {
+    "zh-cn": "学校的圣域",
+    "en-us": "My Academy's Special Place",
+    "ja-jp": "学校のセイイキ",
+    "ja-Latn": "gakkou-no-seiiki"
+  },
+  "level": 2,
+  "updatedAt": "2026-05-12",
+  "routes": [
+    {
+      "id": "route_1778566233277",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1778566240148",
+          "name": "米卡 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1778566245116",
+              "type": "choice",
+              "content": "不固定"
+            },
+            {
+              "id": "step_1778566271574",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1778566272064",
+              "type": "choice",
+              "content": "凤米卡"
+            }
+          ]
+        },
+        {
+          "id": "ending_1778566277734",
+          "name": "八重香 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1778566669522",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1778566670039",
+              "type": "choice",
+              "content": "名濑八重香"
+            },
+            {
+              "id": "step_1778566680677",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1778566681094",
+              "type": "choice",
+              "content": "适可而止吧"
+            }
+          ]
+        },
+        {
+          "id": "ending_1778566685203",
+          "name": "普通 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1778566700969",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1778566701593",
+              "type": "choice",
+              "content": "挺身而出"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "vid": "v21496",
+  "name": {
+    "zh-cn": "三千心世界，梦终将实现",
+    "ja-jp": "ゆらめく心に満ちた世界で、君の夢と欲望は叶うか",
+    "ja-Latn": "yurameku-kokoro-ni-michita-sekai-de"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-13",
+  "tips": [
+    "所标记的选项为追加选项，不出现时无视即可",
+    "CUBE社游戏使用剧情跳跃功能跳过未读剧情的话，会导致CG无法回收",
+    "女主角的生日启动游戏，标题画面会有生日惊喜追加"
+  ],
+  "routes": [
+    {
+      "id": "route_1762333654738",
+      "name": "天鸟堇",
+      "endings": [
+        {
+          "id": "ending_1762333735468",
+          "name": "堇 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762333755780",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1762333759924",
+              "type": "choice",
+              "content": "还是不能依赖妹妹"
+            },
+            {
+              "id": "step_1762333765846",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1762333775300",
+              "type": "choice",
+              "content": "不问她借绘本"
+            },
+            {
+              "id": "step_1762333784284",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_1762333787277",
+              "type": "choice",
+              "content": "那个......我做不到"
+            },
+            {
+              "id": "step_1762333916918",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_1762333924793",
+              "type": "choice",
+              "content": "抢先选择",
+              "prefix": "★"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1762333939492",
+      "name": "伏见巴",
+      "endings": [
+        {
+          "id": "ending_1762334503170",
+          "name": "巴 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762334513226",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1762334519969",
+              "type": "choice",
+              "content": "和巴说说看"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1762334538066",
+      "name": "高濑 木叶",
+      "endings": [
+        {
+          "id": "ending_1762334553356",
+          "name": "木叶 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762334559775",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1762334564824",
+              "type": "choice",
+              "content": "问她借绘本"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1762334574159",
+      "name": "水崎月乃",
+      "endings": [
+        {
+          "id": "ending_1762334586334",
+          "name": "月乃 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762334610693",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1762334616882",
+              "type": "choice",
+              "content": "我会帮助水崎"
+            },
+            {
+              "id": "step_1762334617067",
+              "type": "choice",
+              "content": "贯彻我的意志",
+              "prefix": "★"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762334642632",
+          "name": "月乃 END2",
+          "type": "normal",
+          "requirements": "※其他全END后（月乃END后）从最初开始",
+          "steps": [
+            {
+              "id": "step_1762334719848",
+              "type": "choice",
+              "content": "还是不能依赖妹妹。"
+            },
+            {
+              "id": "step_1762334720019",
+              "type": "choice",
+              "content": "不问她借绘本。"
+            },
+            {
+              "id": "step_1762334720176",
+              "type": "choice",
+              "content": "我会帮助水崎。"
+            },
+            {
+              "id": "step_1762334720460",
+              "type": "choice",
+              "content": "1抓着小堇的手。",
+              "prefix": "★"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1762334744039",
+      "name": "小黑、小白",
+      "endings": [
+        {
+          "id": "ending_1762334761344",
+          "name": "小黑＆小白 END",
+          "type": "normal",
+          "requirements": "※需要安装クロ＆シロ エッチ解放补丁",
+          "steps": [
+            {
+              "id": "step_1762334771492",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_1762334774917",
+              "type": "choice",
+              "content": "无法选择",
+              "prefix": "★"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1762334807059",
+      "name": "女主们的生日",
+      "endings": [
+        {
+          "id": "ending_1762334823831",
+          "name": "（标题画面奖励）",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762334838370",
+              "type": "note",
+              "content": "天鸟 堇│11月21日"
+            },
+            {
+              "id": "step_1762334838517",
+              "type": "note",
+              "content": "伏见 巴 │3月10日"
+            },
+            {
+              "id": "step_1762334838723",
+              "type": "note",
+              "content": "水崎 月乃│6月23日"
+            },
+            {
+              "id": "step_1762334838920",
+              "type": "note",
+              "content": "高濑 木叶│10月22日"
+            },
+            {
+              "id": "step_1762334839117",
+              "type": "note",
+              "content": "小黑│2月27日"
+            },
+            {
+              "id": "step_1762334839339",
+              "type": "note",
+              "content": "小白│2月27日"
+            },
+            {
+              "id": "step_1762334839665",
+              "type": "note",
+              "content": "伏見葵(このは)│11月21日"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

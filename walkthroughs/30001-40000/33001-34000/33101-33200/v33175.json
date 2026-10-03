@@ -1,0 +1,352 @@
+{
+  "vid": "v33175",
+  "name": {
+    "zh-cn": "宝石心学院",
+    "ja-jp": "ジュエリー・ハーツ・アカデミア -We will wing wonder world-",
+    "ja-Latn": "jewelry-hearts-academia"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-14",
+  "tips": [
+    "本作只有一个BAD END和共通END，没有个人线，H场景等均在番外，需要在共通线解锁",
+    "通过选项分支，可以在中途触发女主角的单人剧情，从而开放追加番外",
+    "攻略第二个角色开始，告白后解锁其第一个番外后即可结束游戏",
+    "⇒处的选项可按喜好顺序选择即可",
+    "★处的选项在选择完其他⇒选项后会自动选择"
+  ],
+  "routes": [
+    {
+      "id": "route_common",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_arianna_common_end",
+          "name": "共通线 END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_arianna_001",
+              "type": "note",
+              "content": "新的开始"
+            },
+            {
+              "id": "step_arianna_002",
+              "type": "choice",
+              "content": "图书馆",
+              "prefix": "⇒"
+            },
+            {
+              "id": "step_arianna_003",
+              "type": "choice",
+              "content": "屋顶",
+              "prefix": "⇒"
+            },
+            {
+              "id": "step_arianna_004",
+              "type": "choice",
+              "content": "宿舍",
+              "prefix": "⇒"
+            },
+            {
+              "id": "step_arianna_005",
+              "type": "choice",
+              "content": "在教室中静候",
+              "prefix": "★⇒"
+            },
+            {
+              "id": "step_arianna_006",
+              "type": "choice",
+              "content": "文艺部",
+              "prefix": "⇒"
+            },
+            {
+              "id": "step_arianna_007",
+              "type": "choice",
+              "content": "音乐部",
+              "prefix": "⇒"
+            },
+            {
+              "id": "step_arianna_008",
+              "type": "choice",
+              "content": "弓道部",
+              "prefix": "⇒"
+            },
+            {
+              "id": "step_arianna_009",
+              "type": "choice",
+              "content": "射击部",
+              "prefix": "★⇒"
+            },
+            {
+              "id": "step_arianna_010",
+              "type": "choice",
+              "content": "七年战争",
+              "prefix": "○"
+            },
+            {
+              "id": "step_arianna_011",
+              "type": "choice",
+              "content": "梅欧加夫联邦",
+              "prefix": "○"
+            },
+            {
+              "id": "step_arianna_012",
+              "type": "choice",
+              "content": "遗志",
+              "prefix": "○"
+            },
+            {
+              "id": "step_arianna_013",
+              "type": "choice",
+              "content": "猫眼效应",
+              "prefix": "○"
+            },
+            {
+              "id": "step_arianna_014",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_arianna_015",
+              "type": "choice",
+              "content": "作为朋友陪在她身边"
+            },
+            {
+              "id": "step_arianna_016",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_arianna_017",
+              "type": "choice",
+              "content": "因为我们是朋友"
+            },
+            {
+              "id": "step_arianna_018",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_arianna_019",
+              "type": "choice",
+              "content": "也许这就是命运"
+            },
+            {
+              "id": "step_arianna_020",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_arianna_021",
+              "type": "choice",
+              "content": "编造谎言"
+            },
+            {
+              "id": "step_arianna_022",
+              "type": "choice",
+              "content": "关于『七年战争』",
+              "prefix": "⇒"
+            },
+            {
+              "id": "step_arianna_023",
+              "type": "choice",
+              "content": "关于『意志』",
+              "prefix": "⇒"
+            },
+            {
+              "id": "step_arianna_024",
+              "type": "choice",
+              "content": "关于『学院』",
+              "prefix": "⇒"
+            },
+            {
+              "id": "step_arianna_025",
+              "type": "choice",
+              "content": "关于『石化与美杜莎』",
+              "prefix": "⇒"
+            },
+            {
+              "id": "step_arianna_026",
+              "type": "choice",
+              "content": "关于『立波尔公国』",
+              "prefix": "⇒"
+            }
+          ]
+        },
+        {
+          "id": "ending_bad_end",
+          "name": "BAD END",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_bad_001",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_bad_002",
+              "type": "choice",
+              "content": "说出真相"
+            }
+          ]
+        },
+        {
+          "id": "ending_common_end1",
+          "name": "共通线 END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_belka_001",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_belka_002",
+              "type": "choice",
+              "content": "也许不止于此呢……"
+            },
+            {
+              "id": "step_belka_003",
+              "type": "choice",
+              "content": "编造谎言"
+            },
+            {
+              "id": "step_belka_004",
+              "type": "choice",
+              "content": "关于『七年战争』",
+              "prefix": "⇒"
+            },
+            {
+              "id": "step_belka_005",
+              "type": "choice",
+              "content": "关于『意志』",
+              "prefix": "⇒"
+            },
+            {
+              "id": "step_belka_006",
+              "type": "choice",
+              "content": "关于『学院』",
+              "prefix": "⇒"
+            },
+            {
+              "id": "step_belka_007",
+              "type": "choice",
+              "content": "关于『石化与美杜莎』",
+              "prefix": "⇒"
+            },
+            {
+              "id": "step_belka_008",
+              "type": "choice",
+              "content": "关于『立波尔公国』",
+              "prefix": "⇒"
+            }
+          ]
+        },
+        {
+          "id": "ending_common_end2",
+          "name": "共通线 END3",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_mel_001",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_mel_002",
+              "type": "choice",
+              "content": "因为我喜欢梅尔"
+            },
+            {
+              "id": "step_mel_003",
+              "type": "choice",
+              "content": "编造谎言"
+            },
+            {
+              "id": "step_mel_004",
+              "type": "choice",
+              "content": "关于『七年战争』",
+              "prefix": "⇒"
+            },
+            {
+              "id": "step_mel_005",
+              "type": "choice",
+              "content": "关于『意志』",
+              "prefix": "⇒"
+            },
+            {
+              "id": "step_mel_006",
+              "type": "choice",
+              "content": "关于『学院』",
+              "prefix": "⇒"
+            },
+            {
+              "id": "step_mel_007",
+              "type": "choice",
+              "content": "关于『石化与美杜莎』",
+              "prefix": "⇒"
+            },
+            {
+              "id": "step_mel_008",
+              "type": "choice",
+              "content": "关于『立波尔公国』",
+              "prefix": "⇒"
+            }
+          ]
+        },
+        {
+          "id": "ending_common_end3",
+          "name": "共通线 END4",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_yinghong_001",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_yinghong_002",
+              "type": "choice",
+              "content": "不愿与映红分离"
+            },
+            {
+              "id": "step_yinghong_003",
+              "type": "choice",
+              "content": "编造谎言"
+            },
+            {
+              "id": "step_yinghong_004",
+              "type": "choice",
+              "content": "关于『七年战争』",
+              "prefix": "⇒"
+            },
+            {
+              "id": "step_yinghong_005",
+              "type": "choice",
+              "content": "关于『意志』",
+              "prefix": "⇒"
+            },
+            {
+              "id": "step_yinghong_006",
+              "type": "choice",
+              "content": "关于『学院』",
+              "prefix": "⇒"
+            },
+            {
+              "id": "step_yinghong_007",
+              "type": "choice",
+              "content": "关于『石化与美杜莎』",
+              "prefix": "⇒"
+            },
+            {
+              "id": "step_yinghong_008",
+              "type": "choice",
+              "content": "关于『立波尔公国』",
+              "prefix": "⇒"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

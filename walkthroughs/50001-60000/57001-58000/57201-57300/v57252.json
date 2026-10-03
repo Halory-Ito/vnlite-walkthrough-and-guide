@@ -1,0 +1,223 @@
+{
+  "vid": "v57252",
+  "name": {
+    "zh-cn": "第几次的初见",
+    "en-us": "Nice To Meet You, Again",
+    "ja-jp": "何度目かのはじめまして",
+    "ja-Latn": "nandome-ka-no-hajimemashite"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-12",
+  "tips": [
+    "（ ）内的选项可先标记，用于后续补充回收（差分内容）",
+    "若不选择✲标记的选项，途中似乎会进入BAD END",
+    "☆标记的选项在首次游玩时会自动选择",
+    "部分BAD END看完后，会出现是否回到稍早之前剧情的选",
+    "有些情况会回到非常靠前的剧情，因此首次游玩时建议选择【NO（不回）】，第二次游玩时再选择【YES（回）】",
+    "真结局后记（TRUE エピローグ）似乎需要先看完其他结局才会触发，所以建议将主结局 3（メイン END3）放在最后游玩"
+  ],
+  "routes": [
+    {
+      "id": "route_1759904335593",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1759905156293",
+          "name": "END 1",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_1759905159251",
+              "type": "choice",
+              "content": "你倒是还记得我的名字吗？",
+              "prefix": "✲"
+            },
+            {
+              "id": "step_1759907840184",
+              "type": "choice",
+              "content": "很舒服哦━※开场动画（OP）"
+            },
+            {
+              "id": "step_1759907840339",
+              "type": "choice",
+              "content": "去见学姐"
+            },
+            {
+              "id": "step_1759907840653",
+              "type": "choice",
+              "content": "至少给她盖个毛毯吧",
+              "prefix": "✲"
+            },
+            {
+              "id": "step_1759909518278",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1759909519528",
+              "type": "choice",
+              "content": "把药藏起来"
+            },
+            {
+              "id": "step_1759909519698",
+              "type": "choice",
+              "content": "嘴里/脸上"
+            },
+            {
+              "id": "step_1759909529942",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1759910892959",
+              "type": "choice",
+              "content": "想办法蒙混过去"
+            }
+          ]
+        },
+        {
+          "id": "ending_1759910904359",
+          "name": "END 2",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_1759911369426",
+              "type": "choice",
+              "content": "《是否返回？》⇒选择【NO（不回）】"
+            },
+            {
+              "id": "step_1759911369593",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1759911369744",
+              "type": "choice",
+              "content": "赶紧处理完吧",
+              "prefix": "✲"
+            },
+            {
+              "id": "step_1759911369895",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_1759911370041",
+              "type": "choice",
+              "content": "分解魔法"
+            },
+            {
+              "id": "step_1759911370184",
+              "type": "choice",
+              "content": "去看看母亲的情况",
+              "prefix": "☆"
+            }
+          ]
+        },
+        {
+          "id": "ending_1759911763911",
+          "name": "END 3",
+          "type": "normal",
+          "requirements": "※看完BAD END 2后",
+          "steps": [
+            {
+              "id": "step_1759911776554",
+              "type": "choice",
+              "content": "《是否返回？》⇒选择【YES（回）】"
+            },
+            {
+              "id": "step_1759911777306",
+              "type": "choice",
+              "content": "重新查阅书本",
+              "prefix": "✲"
+            },
+            {
+              "id": "step_1759911777525",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_1759911777670",
+              "type": "choice",
+              "content": "抱住学姐"
+            }
+          ]
+        },
+        {
+          "id": "ending_1759911802762",
+          "name": "END 4",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1759911818097",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_1759911822274",
+              "type": "choice",
+              "content": "现在还不行"
+            },
+            {
+              "id": "step_1759911823213",
+              "type": "save",
+              "content": "SAVE 5"
+            },
+            {
+              "id": "step_1759911837852",
+              "type": "choice",
+              "content": "阻止 “消失”"
+            }
+          ]
+        },
+        {
+          "id": "ending_1759911802919",
+          "name": "END 5",
+          "type": "normal",
+          "requirements": "※看完其他结局后",
+          "steps": [
+            {
+              "id": "step_1759911863239",
+              "type": "load",
+              "content": "LOAD 5"
+            },
+            {
+              "id": "step_1759911867298",
+              "type": "choice",
+              "content": "和学姐说话",
+              "prefix": "✲"
+            }
+          ]
+        },
+        {
+          "id": "ending_1759911803069",
+          "name": "END 6",
+          "type": "true",
+          "requirements": "※若已看完其他所有结局，则会触发真结局后记",
+          "steps": [
+            {
+              "id": "step_1759911903573",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1759911905822",
+              "type": "choice",
+              "content": "把药拿过来"
+            },
+            {
+              "id": "step_1759911915767",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1759911921139",
+              "type": "choice",
+              "content": "变化魔法"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

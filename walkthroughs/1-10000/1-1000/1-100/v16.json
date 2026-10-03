@@ -1,0 +1,116 @@
+{
+  "vid": "v16",
+  "name": {
+    "zh-cn": "雪之华",
+    "ja-jp": "ゆのはな",
+    "ja-Latn": "yunohana"
+  },
+  "level": 2,
+  "updatedAt": "2026-04-12",
+  "routes": [
+    {
+      "id": "route_1775972182970",
+      "name": "伊东 若叶",
+      "endings": [
+        {
+          "id": "ending_1775972190675",
+          "name": "若叶 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1775972217639",
+              "type": "choice",
+              "content": "一直选择去  華の湯"
+            },
+            {
+              "id": "step_1775972217801",
+              "type": "choice",
+              "content": "最后选择一起吃饭"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1775972299202",
+      "name": "高尾 椿",
+      "endings": [
+        {
+          "id": "ending_1775972314255",
+          "name": "椿 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1775972316732",
+              "type": "choice",
+              "content": "一直去 高尾酒店"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1775972299445",
+      "name": "桂沢 穂波",
+      "endings": [
+        {
+          "id": "ending_1775972307702",
+          "name": "穂波 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1775972388331",
+              "type": "choice",
+              "content": "白摘茶房"
+            },
+            {
+              "id": "step_1775972388613",
+              "type": "choice",
+              "content": "真有意思"
+            },
+            {
+              "id": "step_1775972419173",
+              "type": "choice",
+              "content": "我还以为是真的呢"
+            },
+            {
+              "id": "step_1775972440433",
+              "type": "choice",
+              "content": "白摘茶房"
+            },
+            {
+              "id": "step_1775972440731",
+              "type": "choice",
+              "content": "真羡慕你有灵感啊"
+            },
+            {
+              "id": "step_1775972488133",
+              "type": "choice",
+              "content": "白摘茶房"
+            },
+            {
+              "id": "step_1775972488282",
+              "type": "choice",
+              "content": "让穗波来做"
+            },
+            {
+              "id": "step_1775972488431",
+              "type": "choice",
+              "content": "白摘茶房"
+            },
+            {
+              "id": "step_1775972488574",
+              "type": "choice",
+              "content": "菊花人偶的故事"
+            },
+            {
+              "id": "step_1775972488714",
+              "type": "choice",
+              "content": "之后一直去 白摘茶房"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "vid": "v12856",
+  "name": {
+    "zh-cn": "樱舞少女的圆舞曲",
+    "ja-jp": "桜舞う乙女のロンド",
+    "ja-Latn": "sakura-mau-otome-no-rondo"
+  },
+  "level": 2,
+  "updatedAt": "2026-03-03",
+  "routes": [
+    {
+      "id": "route_1762593532531",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1762593545413",
+          "name": "小峰真奈美",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762593585482",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1762593588757",
+              "type": "choice",
+              "content": "帮助课题"
+            },
+            {
+              "id": "step_1762593600526",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1762593604731",
+              "type": "choice",
+              "content": "今天还有事"
+            },
+            {
+              "id": "step_1762593610417",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_1762593616511",
+              "type": "choice",
+              "content": "帮助"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762593578455",
+          "name": "门胁樱",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762593644289",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1762593647051",
+              "type": "choice",
+              "content": "陪着买东西"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762593579444",
+          "name": "新垣若菜",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762593659881",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1762593664583",
+              "type": "choice",
+              "content": "看样子"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762593579807",
+          "name": "天司凉香",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762593675223",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1762593676536",
+              "type": "choice",
+              "content": "首先去图书馆"
+            },
+            {
+              "id": "step_1762593678006",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_1762593678939",
+              "type": "choice",
+              "content": "不回来"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762593580185",
+          "name": "江利原美月",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762593700349",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_1762593703083",
+              "type": "choice",
+              "content": "回去"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

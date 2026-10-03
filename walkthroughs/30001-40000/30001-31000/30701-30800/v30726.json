@@ -1,0 +1,71 @@
+{
+  "vid": "v30726",
+  "name": {
+    "zh-cn": "流星世界演绎者 Badge & Dagger",
+    "en-us": "Meteor World Actor: Badge & Dagger",
+    "ja-jp": "流星ワールドアクター Badge & Dagger",
+    "ja-Latn": "ryuusei-world-actor-badge-dagger"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-14",
+  "tips": [
+    "本作为《流星世界演绎者》的续作，强烈建议在游玩本作前先通关前作，否则剧情理解会受到很大影响"
+  ],
+  "routes": [
+    {
+      "id": "route_1773200897973",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1773200902303",
+          "name": "冬美 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1773201124602",
+              "type": "choice",
+              "content": "大叫"
+            },
+            {
+              "id": "step_1773201124769",
+              "type": "choice",
+              "content": "不相信"
+            },
+            {
+              "id": "step_1773201138401",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1773201140062",
+              "type": "choice",
+              "content": "深入调查"
+            }
+          ]
+        },
+        {
+          "id": "ending_1773201151144",
+          "name": "涼子 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1773201163823",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1773201165127",
+              "type": "choice",
+              "content": "不踏入"
+            },
+            {
+              "id": "step_1773201165276",
+              "type": "choice",
+              "content": "坐在梅尔旁边"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

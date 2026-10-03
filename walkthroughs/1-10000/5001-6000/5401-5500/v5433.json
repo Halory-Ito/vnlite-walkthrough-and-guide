@@ -1,0 +1,1143 @@
+{
+  "vid": "v5433",
+  "name": {
+    "zh-cn": "CURE GIRL",
+    "ja-Latn": "cure-girl"
+  },
+  "level": 2,
+  "updatedAt": "2026-05-18",
+  "routes": [
+    {
+      "id": "route_game",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_kotone",
+          "name": "古都音 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_kot_1",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_kot_2",
+              "type": "choice",
+              "content": "兴趣",
+              "prefix": "6/20：3F│古都音"
+            },
+            {
+              "id": "step_kot_3",
+              "type": "choice",
+              "content": "动画"
+            },
+            {
+              "id": "step_kot_4",
+              "type": "choice",
+              "content": "时尚",
+              "prefix": "6/21：3F│古都音"
+            },
+            {
+              "id": "step_kot_5",
+              "type": "choice",
+              "content": "家里蹲"
+            },
+            {
+              "id": "step_kot_6",
+              "type": "choice",
+              "content": "音乐",
+              "prefix": "6/22：3F│古都音"
+            },
+            {
+              "id": "step_kot_7",
+              "type": "choice",
+              "content": "喜欢动漫歌？"
+            },
+            {
+              "id": "step_kot_8",
+              "type": "choice",
+              "content": "读书",
+              "prefix": "6/23：3F│古都音"
+            },
+            {
+              "id": "step_kot_9",
+              "type": "choice",
+              "content": "继续这个话题"
+            },
+            {
+              "id": "step_kot_10",
+              "type": "choice",
+              "content": "运动",
+              "prefix": "6/24：RF│古都音"
+            },
+            {
+              "id": "step_kot_11",
+              "type": "choice",
+              "content": "会点书法"
+            },
+            {
+              "id": "step_kot_12",
+              "type": "note",
+              "content": "烈"
+            },
+            {
+              "id": "step_kot_14",
+              "type": "choice",
+              "content": "兴趣",
+              "prefix": "6/27：3F│古都音"
+            },
+            {
+              "id": "step_kot_15",
+              "type": "choice",
+              "content": "我知道了"
+            },
+            {
+              "id": "step_kot_16",
+              "type": "note",
+              "content": "总之我也写写吧"
+            },
+            {
+              "id": "step_kot_17",
+              "type": "choice",
+              "content": "时尚",
+              "prefix": "6/28：3F│古都音"
+            },
+            {
+              "id": "step_kot_18",
+              "type": "choice",
+              "content": "想去"
+            },
+            {
+              "id": "step_kot_19",
+              "type": "choice",
+              "content": "饮食",
+              "prefix": "6/29：3F│古都音"
+            },
+            {
+              "id": "step_kot_20",
+              "type": "choice",
+              "content": "食堂"
+            },
+            {
+              "id": "step_kot_21",
+              "type": "choice",
+              "content": "音乐",
+              "prefix": "6/30：3F│古都音"
+            },
+            {
+              "id": "step_kot_22",
+              "type": "choice",
+              "content": "是宅吗？"
+            },
+            {
+              "id": "step_kot_23",
+              "type": "choice",
+              "content": "运动",
+              "prefix": "7/1：RF│古都音"
+            },
+            {
+              "id": "step_kot_24",
+              "type": "choice",
+              "content": "知道"
+            },
+            {
+              "id": "step_kot_25",
+              "type": "note",
+              "content": "烈"
+            },
+            {
+              "id": "step_kot_27",
+              "type": "choice",
+              "content": "兴趣",
+              "prefix": "7/4：3F│古都音"
+            },
+            {
+              "id": "step_kot_28",
+              "type": "choice",
+              "content": "御宅？"
+            },
+            {
+              "id": "step_kot_29",
+              "type": "note",
+              "content": "蘸酱面"
+            },
+            {
+              "id": "step_kot_30",
+              "type": "choice",
+              "content": "饮食",
+              "prefix": "7/5：3F│古都音"
+            },
+            {
+              "id": "step_kot_31",
+              "type": "choice",
+              "content": "会自己做"
+            },
+            {
+              "id": "step_kot_32",
+              "type": "choice",
+              "content": "音乐",
+              "prefix": "7/6：RF│古都音"
+            },
+            {
+              "id": "step_kot_33",
+              "type": "choice",
+              "content": "读书",
+              "prefix": "7/7：3F│古都音"
+            },
+            {
+              "id": "step_kot_34",
+              "type": "choice",
+              "content": "继续这个话题"
+            },
+            {
+              "id": "step_kot_35",
+              "type": "choice",
+              "content": "运动",
+              "prefix": "7/8：3F│古都音"
+            },
+            {
+              "id": "step_kot_36",
+              "type": "choice",
+              "content": "不可以用"
+            },
+            {
+              "id": "step_kot_37",
+              "type": "note",
+              "content": "烈"
+            },
+            {
+              "id": "step_kot_39",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_kot_40",
+              "type": "choice",
+              "content": "还是算了"
+            },
+            {
+              "id": "step_kot_41",
+              "type": "choice",
+              "content": "一起行动"
+            },
+            {
+              "id": "step_kot_42",
+              "type": "choice",
+              "content": "读书",
+              "prefix": "7/11：3F│古都音"
+            },
+            {
+              "id": "step_kot_43",
+              "type": "choice",
+              "content": "幕末舞台轻小说"
+            },
+            {
+              "id": "step_kot_44",
+              "type": "note",
+              "content": "汤"
+            },
+            {
+              "id": "step_kot_45",
+              "type": "choice",
+              "content": "自己",
+              "prefix": "7/12：RF│古都音"
+            },
+            {
+              "id": "step_kot_46",
+              "type": "choice",
+              "content": "很可靠呢"
+            },
+            {
+              "id": "step_kot_47",
+              "type": "choice",
+              "content": "家庭",
+              "prefix": "7/13：3F│古都音"
+            },
+            {
+              "id": "step_kot_48",
+              "type": "choice",
+              "content": "喜欢年长的"
+            },
+            {
+              "id": "step_kot_49",
+              "type": "choice",
+              "content": "学习",
+              "prefix": "7/14：3F│古都音"
+            },
+            {
+              "id": "step_kot_50",
+              "type": "choice",
+              "content": "普通"
+            },
+            {
+              "id": "step_kot_52",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_kot_53",
+              "type": "choice",
+              "content": "时尚"
+            },
+            {
+              "id": "step_kot_54",
+              "type": "note",
+              "content": "烈"
+            },
+            {
+              "id": "step_kot_55",
+              "type": "note",
+              "content": "伊达政宗",
+              "prefix": "7/17：便利店│古都音"
+            },
+            {
+              "id": "step_kot_57",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_kot_58",
+              "type": "choice",
+              "content": "还是算了吧"
+            },
+            {
+              "id": "step_kot_59",
+              "type": "choice",
+              "content": "口中(脸上)"
+            },
+            {
+              "id": "step_kot_60",
+              "type": "choice",
+              "content": "去见她"
+            },
+            {
+              "id": "step_kot_61",
+              "type": "choice",
+              "content": "不放手"
+            },
+            {
+              "id": "step_kot_62",
+              "type": "choice",
+              "content": "中出(外出)"
+            }
+          ]
+        },
+        {
+          "id": "ending_kotone_cg",
+          "name": "场景回收",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_kot_cg_1",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_kot_cg_2",
+              "type": "choice",
+              "content": "饮食"
+            },
+            {
+              "id": "step_kot_cg_3",
+              "type": "note",
+              "content": "烈"
+            },
+            {
+              "id": "step_kot_cg_4",
+              "type": "note",
+              "content": "伊达政宗",
+              "prefix": "7/17：便利店│古都音"
+            },
+            {
+              "id": "step_kot_cg_6",
+              "type": "choice",
+              "content": "还是算了吧"
+            },
+            {
+              "id": "step_kot_cg_7",
+              "type": "choice",
+              "content": "忍耐"
+            }
+          ]
+        },
+        {
+          "id": "ending_kotone_bad",
+          "name": "古都音 BAD END",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_kot_bad_1",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_kot_bad_2",
+              "type": "choice",
+              "content": "继续"
+            }
+          ]
+        },
+        {
+          "id": "ending_miyu",
+          "name": "美悠 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_miyu_1",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_miyu_2",
+              "type": "choice",
+              "content": "兴趣",
+              "prefix": "6/20：2F│美悠"
+            },
+            {
+              "id": "step_miyu_3",
+              "type": "choice",
+              "content": "借"
+            },
+            {
+              "id": "step_miyu_4",
+              "type": "choice",
+              "content": "时尚",
+              "prefix": "6/21：2F│美悠"
+            },
+            {
+              "id": "step_miyu_5",
+              "type": "choice",
+              "content": "无法改变"
+            },
+            {
+              "id": "step_miyu_6",
+              "type": "choice",
+              "content": "音乐",
+              "prefix": "6/22：2F│美悠"
+            },
+            {
+              "id": "step_miyu_7",
+              "type": "choice",
+              "content": "推荐一点吧"
+            },
+            {
+              "id": "step_miyu_8",
+              "type": "choice",
+              "content": "读书",
+              "prefix": "6/23：2F│美悠"
+            },
+            {
+              "id": "step_miyu_9",
+              "type": "choice",
+              "content": "乱步1"
+            },
+            {
+              "id": "step_miyu_10",
+              "type": "choice",
+              "content": "运动",
+              "prefix": "6/24：2F│美悠"
+            },
+            {
+              "id": "step_miyu_11",
+              "type": "choice",
+              "content": "做不到"
+            },
+            {
+              "id": "step_miyu_12",
+              "type": "note",
+              "content": "娘包"
+            },
+            {
+              "id": "step_miyu_14",
+              "type": "choice",
+              "content": "兴趣",
+              "prefix": "6/27：2F│美悠"
+            },
+            {
+              "id": "step_miyu_15",
+              "type": "choice",
+              "content": "品尝拉面"
+            },
+            {
+              "id": "step_miyu_16",
+              "type": "note",
+              "content": "总之我也写写吧"
+            },
+            {
+              "id": "step_miyu_17",
+              "type": "choice",
+              "content": "时尚",
+              "prefix": "6/28：RF│美悠"
+            },
+            {
+              "id": "step_miyu_18",
+              "type": "choice",
+              "content": "胸变大了吧"
+            },
+            {
+              "id": "step_miyu_19",
+              "type": "choice",
+              "content": "音乐",
+              "prefix": "6/29：2F│美悠"
+            },
+            {
+              "id": "step_miyu_20",
+              "type": "choice",
+              "content": "做不到"
+            },
+            {
+              "id": "step_miyu_21",
+              "type": "choice",
+              "content": "读书",
+              "prefix": "6/30：2F│美悠"
+            },
+            {
+              "id": "step_miyu_22",
+              "type": "choice",
+              "content": "H游戏"
+            },
+            {
+              "id": "step_miyu_23",
+              "type": "choice",
+              "content": "运动",
+              "prefix": "7/1：2F│美悠"
+            },
+            {
+              "id": "step_miyu_24",
+              "type": "choice",
+              "content": "会游"
+            },
+            {
+              "id": "step_miyu_25",
+              "type": "note",
+              "content": "娘包"
+            },
+            {
+              "id": "step_miyu_27",
+              "type": "choice",
+              "content": "兴趣",
+              "prefix": "7/4：2F│美悠"
+            },
+            {
+              "id": "step_miyu_28",
+              "type": "note",
+              "content": "总之写点东西吧"
+            },
+            {
+              "id": "step_miyu_29",
+              "type": "choice",
+              "content": "时尚",
+              "prefix": "7/5：2F│美悠"
+            },
+            {
+              "id": "step_miyu_30",
+              "type": "choice",
+              "content": "看着迷了"
+            },
+            {
+              "id": "step_miyu_31",
+              "type": "choice",
+              "content": "音乐",
+              "prefix": "7/6：2F│美悠"
+            },
+            {
+              "id": "step_miyu_32",
+              "type": "choice",
+              "content": "读书",
+              "prefix": "7/7：2F│美悠"
+            },
+            {
+              "id": "step_miyu_33",
+              "type": "choice",
+              "content": "运动",
+              "prefix": "7/8：RF│美悠"
+            },
+            {
+              "id": "step_miyu_34",
+              "type": "note",
+              "content": "娘包"
+            },
+            {
+              "id": "step_miyu_35",
+              "type": "note",
+              "content": "13.5厘米"
+            },
+            {
+              "id": "step_miyu_36",
+              "type": "note",
+              "content": "兴奋",
+              "prefix": "7/10：海岸│美悠"
+            },
+            {
+              "id": "step_miyu_37",
+              "type": "choice",
+              "content": "Communis",
+              "prefix": "7/11：2F│美悠"
+            },
+            {
+              "id": "step_miyu_38",
+              "type": "choice",
+              "content": "只是一点的话"
+            },
+            {
+              "id": "step_miyu_39",
+              "type": "note",
+              "content": "写些什么"
+            },
+            {
+              "id": "step_miyu_40",
+              "type": "choice",
+              "content": "自己",
+              "prefix": "7/12：2F│美悠"
+            },
+            {
+              "id": "step_miyu_41",
+              "type": "choice",
+              "content": "雷锋同志"
+            },
+            {
+              "id": "step_miyu_42",
+              "type": "choice",
+              "content": "家庭",
+              "prefix": "7/13：2F│美悠"
+            },
+            {
+              "id": "step_miyu_43",
+              "type": "choice",
+              "content": "给我做吧"
+            },
+            {
+              "id": "step_miyu_44",
+              "type": "choice",
+              "content": "学习",
+              "prefix": "7/14：RF│美悠"
+            },
+            {
+              "id": "step_miyu_45",
+              "type": "choice",
+              "content": "米"
+            },
+            {
+              "id": "step_miyu_46",
+              "type": "choice",
+              "content": "饮食",
+              "prefix": "7/15：2F│美悠"
+            },
+            {
+              "id": "step_miyu_47",
+              "type": "choice",
+              "content": "最喜欢辣的了"
+            },
+            {
+              "id": "step_miyu_48",
+              "type": "note",
+              "content": "娘包"
+            },
+            {
+              "id": "step_miyu_49",
+              "type": "note",
+              "content": "哈欧",
+              "prefix": "7/17：紫藤商场│美悠"
+            },
+            {
+              "id": "step_miyu_51",
+              "type": "choice",
+              "content": "就这样出来(射她一脸)"
+            },
+            {
+              "id": "step_miyu_52",
+              "type": "choice",
+              "content": "中出(外射)"
+            },
+            {
+              "id": "step_miyu_53",
+              "type": "save",
+              "content": "SAVE 5"
+            },
+            {
+              "id": "step_miyu_54",
+              "type": "choice",
+              "content": "不质问"
+            },
+            {
+              "id": "step_miyu_55",
+              "type": "choice",
+              "content": "不是那样"
+            }
+          ]
+        },
+        {
+          "id": "ending_miyu_bad",
+          "name": "美悠 BAD END",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_miyu_bad_1",
+              "type": "load",
+              "content": "LOAD 5"
+            },
+            {
+              "id": "step_miyu_bad_2",
+              "type": "choice",
+              "content": "质问"
+            }
+          ]
+        },
+        {
+          "id": "ending_rena",
+          "name": "怜奈 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_rena_1",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_rena_2",
+              "type": "choice",
+              "content": "兴趣",
+              "prefix": "6/20：1F│怜奈"
+            },
+            {
+              "id": "step_rena_3",
+              "type": "choice",
+              "content": "喜新厌旧？"
+            },
+            {
+              "id": "step_rena_4",
+              "type": "choice",
+              "content": "时尚",
+              "prefix": "6/21：1F│怜奈"
+            },
+            {
+              "id": "step_rena_5",
+              "type": "choice",
+              "content": "经常路过店前"
+            },
+            {
+              "id": "step_rena_6",
+              "type": "choice",
+              "content": "音乐",
+              "prefix": "6/22：1F│怜奈"
+            },
+            {
+              "id": "step_rena_7",
+              "type": "choice",
+              "content": "职业摔跤"
+            },
+            {
+              "id": "step_rena_8",
+              "type": "choice",
+              "content": "读书",
+              "prefix": "6/23：1F│怜奈"
+            },
+            {
+              "id": "step_rena_9",
+              "type": "choice",
+              "content": "再问问看"
+            },
+            {
+              "id": "step_rena_10",
+              "type": "choice",
+              "content": "学习",
+              "prefix": "6/24：1F│怜奈"
+            },
+            {
+              "id": "step_rena_11",
+              "type": "choice",
+              "content": "不学习"
+            },
+            {
+              "id": "step_rena_12",
+              "type": "note",
+              "content": "烈"
+            },
+            {
+              "id": "step_rena_14",
+              "type": "choice",
+              "content": "兴趣",
+              "prefix": "6/27：1F│怜奈"
+            },
+            {
+              "id": "step_rena_15",
+              "type": "choice",
+              "content": "赛马"
+            },
+            {
+              "id": "step_rena_16",
+              "type": "note",
+              "content": "总之我也写写吧"
+            },
+            {
+              "id": "step_rena_17",
+              "type": "choice",
+              "content": "时尚",
+              "prefix": "6/28：1F│怜奈"
+            },
+            {
+              "id": "step_rena_18",
+              "type": "choice",
+              "content": "不去店里逛吗？"
+            },
+            {
+              "id": "step_rena_19",
+              "type": "choice",
+              "content": "音乐",
+              "prefix": "6/29：1F│怜奈"
+            },
+            {
+              "id": "step_rena_20",
+              "type": "choice",
+              "content": "西洋"
+            },
+            {
+              "id": "step_rena_21",
+              "type": "choice",
+              "content": "读书",
+              "prefix": "6/30：1F│怜奈"
+            },
+            {
+              "id": "step_rena_22",
+              "type": "choice",
+              "content": "承认"
+            },
+            {
+              "id": "step_rena_23",
+              "type": "choice",
+              "content": "学习",
+              "prefix": "7/1：1F│怜奈"
+            },
+            {
+              "id": "step_rena_24",
+              "type": "choice",
+              "content": "不变"
+            },
+            {
+              "id": "step_rena_25",
+              "type": "note",
+              "content": "娘包"
+            },
+            {
+              "id": "step_rena_27",
+              "type": "choice",
+              "content": "兴趣",
+              "prefix": "7/4：1F│怜奈"
+            },
+            {
+              "id": "step_rena_28",
+              "type": "choice",
+              "content": "去逛逛手机铺吧"
+            },
+            {
+              "id": "step_rena_29",
+              "type": "choice",
+              "content": "时尚",
+              "prefix": "7/5：1F│怜奈"
+            },
+            {
+              "id": "step_rena_30",
+              "type": "choice",
+              "content": "音乐",
+              "prefix": "7/6：1F│怜奈"
+            },
+            {
+              "id": "step_rena_31",
+              "type": "choice",
+              "content": "不妨碍她"
+            },
+            {
+              "id": "step_rena_32",
+              "type": "choice",
+              "content": "读书",
+              "prefix": "7/7：1F│怜奈"
+            },
+            {
+              "id": "step_rena_33",
+              "type": "choice",
+              "content": "轻小说"
+            },
+            {
+              "id": "step_rena_34",
+              "type": "choice",
+              "content": "学习",
+              "prefix": "7/8：1F│怜奈"
+            },
+            {
+              "id": "step_rena_35",
+              "type": "choice",
+              "content": "挑战数学"
+            },
+            {
+              "id": "step_rena_36",
+              "type": "note",
+              "content": "烈"
+            },
+            {
+              "id": "step_rena_38",
+              "type": "choice",
+              "content": "Communis",
+              "prefix": "7/11：1F│怜奈"
+            },
+            {
+              "id": "step_rena_39",
+              "type": "choice",
+              "content": "承认"
+            },
+            {
+              "id": "step_rena_40",
+              "type": "choice",
+              "content": "自己",
+              "prefix": "7/12：1F│怜奈"
+            },
+            {
+              "id": "step_rena_41",
+              "type": "choice",
+              "content": "诉说烦恼"
+            },
+            {
+              "id": "step_rena_42",
+              "type": "choice",
+              "content": "家庭",
+              "prefix": "7/13：1F│怜奈"
+            },
+            {
+              "id": "step_rena_43",
+              "type": "choice",
+              "content": "貌似不会家务"
+            },
+            {
+              "id": "step_rena_44",
+              "type": "choice",
+              "content": "运动",
+              "prefix": "7/14：1F│怜奈"
+            },
+            {
+              "id": "step_rena_45",
+              "type": "choice",
+              "content": "高尔夫"
+            },
+            {
+              "id": "step_rena_46",
+              "type": "choice",
+              "content": "饮食",
+              "prefix": "7/15：1F│怜奈"
+            },
+            {
+              "id": "step_rena_47",
+              "type": "choice",
+              "content": "我也没"
+            },
+            {
+              "id": "step_rena_48",
+              "type": "note",
+              "content": "娘包"
+            },
+            {
+              "id": "step_rena_51",
+              "type": "save",
+              "content": "SAVE 6"
+            },
+            {
+              "id": "step_rena_52",
+              "type": "choice",
+              "content": "不管她"
+            },
+            {
+              "id": "step_rena_53",
+              "type": "choice",
+              "content": "深喉(射在脸上)"
+            },
+            {
+              "id": "step_rena_54",
+              "type": "choice",
+              "content": "参加一下试试呗？"
+            }
+          ]
+        },
+        {
+          "id": "ending_rena_bad",
+          "name": "怜奈 BAD END",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_rena_bad_1",
+              "type": "load",
+              "content": "LOAD 6"
+            },
+            {
+              "id": "step_rena_bad_2",
+              "type": "choice",
+              "content": "一起去"
+            }
+          ]
+        },
+        {
+          "id": "ending_tsukiyomi",
+          "name": "月夜见 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_tsu_1",
+              "type": "note",
+              "content": "以上3人END后从最初开始"
+            },
+            {
+              "id": "step_tsu_2",
+              "type": "note",
+              "content": "？？？",
+              "prefix": "7/19：？"
+            },
+            {
+              "id": "step_tsu_3",
+              "type": "choice",
+              "content": "给"
+            },
+            {
+              "id": "step_tsu_4",
+              "type": "save",
+              "content": "SAVE 7"
+            },
+            {
+              "id": "step_tsu_5",
+              "type": "choice",
+              "content": "月夜见"
+            },
+            {
+              "id": "step_tsu_6",
+              "type": "save",
+              "content": "SAVE 8"
+            },
+            {
+              "id": "step_tsu_7",
+              "type": "choice",
+              "content": "带出去"
+            },
+            {
+              "id": "step_tsu_8",
+              "type": "choice",
+              "content": "SEX"
+            }
+          ]
+        },
+        {
+          "id": "ending_tsukiyomi_bad1",
+          "name": "月夜见 BAD END1",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_tsu_bad1_1",
+              "type": "load",
+              "content": "LOAD 7"
+            },
+            {
+              "id": "step_tsu_bad1_2",
+              "type": "choice",
+              "content": "美悠"
+            }
+          ]
+        },
+        {
+          "id": "ending_tsukiyomi_bad2",
+          "name": "月夜见 BAD END2",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_tsu_bad2_1",
+              "type": "load",
+              "content": "LOAD 8"
+            },
+            {
+              "id": "step_tsu_bad2_2",
+              "type": "choice",
+              "content": "听从月夜见"
+            }
+          ]
+        },
+        {
+          "id": "ending_common_bad",
+          "name": "共通 BAD END",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_com_bad_1",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_com_bad_2",
+              "type": "choice",
+              "content": "尾行一下"
+            },
+            {
+              "id": "step_com_bad_3",
+              "type": "choice",
+              "content": "兴趣",
+              "prefix": "7/11：2F│美悠"
+            },
+            {
+              "id": "step_com_bad_4",
+              "type": "choice",
+              "content": "不借"
+            },
+            {
+              "id": "step_com_bad_5",
+              "type": "note",
+              "content": "料"
+            },
+            {
+              "id": "step_com_bad_6",
+              "type": "choice",
+              "content": "兴趣",
+              "prefix": "7/12：1F│怜奈"
+            },
+            {
+              "id": "step_com_bad_7",
+              "type": "choice",
+              "content": "壕无人性"
+            },
+            {
+              "id": "step_com_bad_8",
+              "type": "choice",
+              "content": "时尚",
+              "prefix": "7/13：2F│美悠"
+            },
+            {
+              "id": "step_com_bad_9",
+              "type": "choice",
+              "content": "改变一下"
+            },
+            {
+              "id": "step_com_bad_10",
+              "type": "choice",
+              "content": "时尚",
+              "prefix": "7/14：1F│怜奈"
+            },
+            {
+              "id": "step_com_bad_11",
+              "type": "choice",
+              "content": "自己穿"
+            },
+            {
+              "id": "step_com_bad_12",
+              "type": "choice",
+              "content": "饮食",
+              "prefix": "7/15：2F│美悠"
+            },
+            {
+              "id": "step_com_bad_13",
+              "type": "choice",
+              "content": "不喜欢"
+            },
+            {
+              "id": "step_com_bad_14",
+              "type": "note",
+              "content": "娘包"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

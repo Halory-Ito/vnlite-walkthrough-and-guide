@@ -1,0 +1,152 @@
+{
+  "vid": "v25635",
+  "name": {
+    "zh-cn": "爱上火车",
+    "ja-jp": "まいてつ Last Run!!",
+    "ja-Latn": "maitetsu-last-run"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-15",
+  "tips": [
+    "Last Run!!追加路线可在开始游戏后自行选择"
+  ],
+  "routes": [
+    {
+      "id": "route_common_main",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_hachi_roku",
+          "name": "八六 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1784097633229",
+              "type": "choice",
+              "content": "开始游戏⇒共通路线"
+            },
+            {
+              "id": "step_common_02",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_common_03",
+              "type": "choice",
+              "content": "参考八六的意见"
+            }
+          ]
+        },
+        {
+          "id": "ending_hinahime",
+          "name": "日日姬 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_hinahime_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_hinahime_02",
+              "type": "choice",
+              "content": "参考日日姬的意见"
+            }
+          ]
+        },
+        {
+          "id": "ending_poretto",
+          "name": "波莱特 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_poretto_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_poretto_02",
+              "type": "choice",
+              "content": "参考波莱特的意见"
+            }
+          ]
+        },
+        {
+          "id": "ending_shin_yami",
+          "name": "真闇 END",
+          "type": "normal",
+          "requirements": "八六END后",
+          "steps": [
+            {
+              "id": "step_shin_yami_02",
+              "type": "note",
+              "content": "开始游戏⇒真闇路线",
+              "prefix": "■"
+            }
+          ]
+        },
+        {
+          "id": "ending_nagi_fukami",
+          "name": "凪＆深美 END",
+          "type": "normal",
+          "requirements": "八六END后",
+          "steps": [
+            {
+              "id": "step_nagi_02",
+              "type": "note",
+              "content": "开始游戏⇒凪＆深美路线",
+              "prefix": "■"
+            }
+          ]
+        },
+        {
+          "id": "ending_kisaki",
+          "name": "稀咲 END",
+          "type": "normal",
+          "requirements": "日日姬END后",
+          "steps": [
+            {
+              "id": "step_kisaki_02",
+              "type": "note",
+              "content": "开始游戏⇒稀咲路线",
+              "prefix": "■"
+            }
+          ]
+        },
+        {
+          "id": "ending_rena",
+          "name": "玲奈 END",
+          "type": "normal",
+          "requirements": "波莱特END后",
+          "steps": [
+            {
+              "id": "step_rena_02",
+              "type": "note",
+              "content": "开始游戏⇒玲奈路线",
+              "prefix": "■"
+            }
+          ]
+        },
+        {
+          "id": "ending_summary",
+          "name": "总集 END",
+          "type": "normal",
+          "requirements": "以上全部END后",
+          "steps": [
+            {
+              "id": "step_summary_02",
+              "type": "note",
+              "content": "开始游戏⇒总集路线",
+              "prefix": "■"
+            },
+            {
+              "id": "step_summary_03",
+              "type": "note",
+              "content": "总集 END (八六)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

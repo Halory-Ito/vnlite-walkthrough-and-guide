@@ -1,0 +1,46 @@
+{
+  "vid": "v917",
+  "name": {
+    "zh-cn": "花吻在上",
+    "en-us": "Sono Hanabira Ni Kuchiduke Wo - A Kiss for the Petals",
+    "ja-jp": "その花びらにくちづけを",
+    "ja-Latn": "sono-hanabira-ni-kuchizuke-o"
+  },
+  "level": 2,
+  "updatedAt": "2026-05-06",
+  "routes": [
+    {
+      "id": "route_1778061914314",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1778061920044",
+          "name": "END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1778061925879",
+              "type": "choice",
+              "content": "不讨厌这样的称呼"
+            },
+            {
+              "id": "step_1778061926066",
+              "type": "choice",
+              "content": "稍微责备的程度"
+            },
+            {
+              "id": "step_1778061926339",
+              "type": "choice",
+              "content": "不说出来"
+            },
+            {
+              "id": "step_1778061926669",
+              "type": "choice",
+              "content": "没有那样的事"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

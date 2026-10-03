@@ -1,0 +1,112 @@
+{
+  "vid": "v9754",
+  "name": {
+    "zh-cn": "Tiny Dungeon～BRAVE or SLAVE～",
+    "ja-Latn": "tiny-dungeon-brave-or-slave"
+  },
+  "level": 2,
+  "updatedAt": "2026-05-07",
+  "routes": [
+    {
+      "id": "route_1778155408681",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1778155425633",
+          "name": "回收HCG分差",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1778155434778",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1778155435692",
+              "type": "choice",
+              "content": "大人系的丝带款式"
+            },
+            {
+              "id": "step_1778155436357",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1778155437513",
+              "type": "choice",
+              "content": "有着可爱感觉的条纹款式"
+            }
+          ]
+        },
+        {
+          "id": "ending_1778155472942",
+          "name": "贝露 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1778155481205",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1778155485396",
+              "type": "choice",
+              "content": "叫贝露过来"
+            }
+          ]
+        },
+        {
+          "id": "ending_1778155498735",
+          "name": "诺特 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1778155518661",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1778155523980",
+              "type": "choice",
+              "content": "叫诺特过来"
+            }
+          ]
+        },
+        {
+          "id": "ending_1778155529005",
+          "name": "兀露露 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1778155543210",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1778155545006",
+              "type": "choice",
+              "content": "叫兀露露过来"
+            }
+          ]
+        },
+        {
+          "id": "ending_1778155549677",
+          "name": "红 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1778155562012",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1778155564833",
+              "type": "choice",
+              "content": "等红回来"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,610 @@
+{
+  "vid": "v21552",
+  "name": {
+    "zh-cn": "突然＊恋人",
+    "en-us": "Making＊Lovers",
+    "ja-jp": "Making＊Lovers",
+    "ja-Latn": "making-lovers"
+  },
+  "level": 2,
+  "updatedAt": "2026-02-27",
+  "routes": [
+    {
+      "id": "prologue",
+      "name": "小鸟游 亚子",
+      "endings": [
+        {
+          "id": "prologue_normal",
+          "name": "亚子 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "c1",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "c2",
+              "type": "choice",
+              "content": "和北大路说说话"
+            },
+            {
+              "id": "step_1755087317347",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1755087323727",
+              "type": "choice",
+              "content": "这次还是算了"
+            },
+            {
+              "id": "step_1755087327871",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_1755087332580",
+              "type": "choice",
+              "content": "还是算了吧"
+            },
+            {
+              "id": "step_1755087338116",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_1755087345660",
+              "type": "choice",
+              "content": "不追"
+            },
+            {
+              "id": "step_1755087345838",
+              "type": "choice",
+              "content": "询问亚子想去哪"
+            },
+            {
+              "id": "step_1755087346060",
+              "type": "choice",
+              "content": "深深凝视亚子"
+            },
+            {
+              "id": "step_1755087361787",
+              "type": "choice",
+              "content": "卡拉ok店（歌之王国）+潮鸣商贸城（美食角）",
+              "subfix": "【决定】目的地"
+            },
+            {
+              "id": "step_1755087378393",
+              "type": "choice",
+              "content": "先来份帕菲吧"
+            },
+            {
+              "id": "step_1755087378582",
+              "type": "choice",
+              "content": "免得烫伤，先呼呼吹凉了再喂给她吃"
+            },
+            {
+              "id": "step_1755087378762",
+              "type": "choice",
+              "content": "选一个轻松愉快的地方吧"
+            },
+            {
+              "id": "step_1755087378921",
+              "type": "choice",
+              "content": "去看夜景吗？"
+            },
+            {
+              "id": "step_1755087391733",
+              "type": "choice",
+              "content": "想随便逛逛"
+            },
+            {
+              "id": "step_1755087402100",
+              "type": "choice",
+              "content": "我的房间+潮鸣商贸城（美食角）",
+              "subfix": "【决定】目的地"
+            },
+            {
+              "id": "step_1755087402250",
+              "type": "save",
+              "content": "SAVE 5"
+            },
+            {
+              "id": "step_1755087402343",
+              "type": "choice",
+              "content": "这睫毛，是假睫毛吗？"
+            },
+            {
+              "id": "step_1755087402478",
+              "type": "choice",
+              "content": "我想吃亚子做的料理了"
+            },
+            {
+              "id": "step_1755087574536",
+              "type": "load",
+              "content": "LOAD 5"
+            },
+            {
+              "id": "step_1755087652530",
+              "type": "choice",
+              "content": "和袋鼠的有一拼啊"
+            },
+            {
+              "id": "step_1755087652761",
+              "type": "choice",
+              "content": "你也来啊嗯",
+              "subfix": "回收后结束"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hikawa",
+      "name": "鸣濑 咲",
+      "endings": [
+        {
+          "id": "hikawa_true",
+          "name": "咲 END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "h1",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "h2",
+              "type": "choice",
+              "content": "再信他一回"
+            },
+            {
+              "id": "h3",
+              "type": "choice",
+              "content": "询问咲姐想去哪"
+            },
+            {
+              "id": "h4",
+              "type": "choice",
+              "content": "观察咲姐的样子"
+            },
+            {
+              "id": "step_1755087727307",
+              "type": "choice",
+              "content": "卡拉ok店（歌之王国）+潮鸣商贸城（美食角）",
+              "subfix": "【决定】目的地"
+            },
+            {
+              "id": "step_1755087727454",
+              "type": "choice",
+              "content": "换一个教育类节目的曲单吧"
+            },
+            {
+              "id": "step_1755087727604",
+              "type": "choice",
+              "content": "咲姐选衣服的品味挺可爱的"
+            },
+            {
+              "id": "step_1755087727744",
+              "type": "choice",
+              "content": "询问咲想去哪"
+            },
+            {
+              "id": "step_1755087727884",
+              "type": "choice",
+              "content": "观察咲的心情"
+            },
+            {
+              "id": "step_1755087764307",
+              "type": "choice",
+              "content": "Game Centre（Dream Play Land）+潮鸣商贸城（美食角）",
+              "subfix": "【决定】目的地"
+            },
+            {
+              "id": "step_1755087764453",
+              "type": "save",
+              "content": "SAVE 6"
+            },
+            {
+              "id": "step_1755087764615",
+              "type": "choice",
+              "content": "挑战双人模式！"
+            },
+            {
+              "id": "step_1755087765157",
+              "type": "choice",
+              "content": "冬天"
+            },
+            {
+              "id": "step_1755087803045",
+              "type": "load",
+              "content": "LOAD 6"
+            },
+            {
+              "id": "step_1755088138068",
+              "type": "choice",
+              "content": "别，还由我单人表演吧"
+            },
+            {
+              "id": "step_1755088138229",
+              "type": "choice",
+              "content": "夏天",
+              "subfix": "回收后结束"
+            }
+          ]
+        },
+        {
+          "id": "hikawa_normal",
+          "name": "咲 END2 （平凡的日常）",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "hn1",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "hn2",
+              "type": "choice",
+              "content": "保持现状就好"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ageha",
+      "name": "鹿目 玲菜",
+      "endings": [
+        {
+          "id": "ageha_true",
+          "name": "玲菜 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "ag1",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "ag2",
+              "type": "choice",
+              "content": "去女生宿舍看看"
+            },
+            {
+              "id": "ag3",
+              "type": "choice",
+              "content": "询问玲菜想玲菜去哪"
+            },
+            {
+              "id": "ag4",
+              "type": "choice",
+              "content": "现在兴致如何？"
+            },
+            {
+              "id": "step_1755088210742",
+              "type": "choice",
+              "content": "卡拉ok店（歌之王国）+潮鸣商贸城（美食角）",
+              "subfix": "【决定】目的地"
+            },
+            {
+              "id": "step_1755088211028",
+              "type": "choice",
+              "content": "硬要她和自己唱一样的歌"
+            },
+            {
+              "id": "step_1755088211384",
+              "type": "choice",
+              "content": "夸奖玲菜"
+            },
+            {
+              "id": "step_1755088211544",
+              "type": "choice",
+              "content": "询问玲菜想玲菜去哪"
+            },
+            {
+              "id": "step_1755088211674",
+              "type": "choice",
+              "content": "探探玲菜的心情"
+            },
+            {
+              "id": "step_1755088211766",
+              "type": "choice",
+              "content": "鲜花坊（Annie）+潮鸣商贸城（美食角）",
+              "subfix": "【决定】目的地"
+            },
+            {
+              "id": "step_1755088316084",
+              "type": "save",
+              "content": "SAVE 7"
+            },
+            {
+              "id": "step_1755088362136",
+              "type": "choice",
+              "content": "在你的房间里造片花田吧"
+            },
+            {
+              "id": "step_1755088362298",
+              "type": "choice",
+              "content": "现在不是焦躁的时候"
+            },
+            {
+              "id": "step_1755088362630",
+              "type": "load",
+              "content": "LOAD 7"
+            },
+            {
+              "id": "step_1755088363051",
+              "type": "choice",
+              "content": "在你的房间里造片花田吧"
+            },
+            {
+              "id": "step_1755088363291",
+              "type": "choice",
+              "content": "想让你喂我吃",
+              "subfix": "回收后结束"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755088408819",
+      "name": "北大路 可怜",
+      "endings": [
+        {
+          "id": "ending_1755088417335",
+          "name": "可怜 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755088448407",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_1755088457933",
+              "type": "choice",
+              "content": "去追北大路"
+            },
+            {
+              "id": "step_1755088461920",
+              "type": "choice",
+              "content": "我的美丽要素在哪里呢？"
+            },
+            {
+              "id": "step_1755088462843",
+              "type": "choice",
+              "content": "想去哪里？"
+            },
+            {
+              "id": "step_1755088463211",
+              "type": "choice",
+              "content": "天气真好！"
+            },
+            {
+              "id": "step_1755088463636",
+              "type": "choice",
+              "content": "卡拉ok店（歌之王国）+潮鸣商贸城（美食角）",
+              "subfix": "【决定】目的地"
+            },
+            {
+              "id": "step_1755088464537",
+              "type": "choice",
+              "content": "唱偶像金曲"
+            },
+            {
+              "id": "step_1755088465423",
+              "type": "choice",
+              "content": "气氛不错哦"
+            },
+            {
+              "id": "step_1755088465573",
+              "type": "choice",
+              "content": "找个能独处的地方"
+            },
+            {
+              "id": "step_1755088465689",
+              "type": "choice",
+              "content": "餐厅和酒吧『Blue Ocean』+潮鸣商贸城（美食角）",
+              "subfix": "【决定】目的地"
+            },
+            {
+              "id": "step_1755088465813",
+              "type": "save",
+              "content": "SAVE 8"
+            },
+            {
+              "id": "step_1755088533806",
+              "type": "choice",
+              "content": "你醉了的样子好色情啊"
+            },
+            {
+              "id": "step_1755088533955",
+              "type": "choice",
+              "content": "你最擅长的料理是什么"
+            },
+            {
+              "id": "step_1755088534082",
+              "type": "load",
+              "content": "LOAD 8"
+            },
+            {
+              "id": "step_1755088534212",
+              "type": "choice",
+              "content": "为你的眼眸……乾杯"
+            },
+            {
+              "id": "step_1755088562223",
+              "type": "choice",
+              "content": "据说吃卷心菜能让胸变大",
+              "subfix": "回收后结束"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755088584210",
+      "name": "月野 真白",
+      "endings": [
+        {
+          "id": "ending_1755088607226",
+          "name": "真白 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755088622097",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1755088627554",
+              "type": "choice",
+              "content": "上厕所"
+            },
+            {
+              "id": "step_1755088627696",
+              "type": "choice",
+              "content": "这次还是算了"
+            },
+            {
+              "id": "step_1755088627800",
+              "type": "choice",
+              "content": "去昨天的店里问问打工的事"
+            },
+            {
+              "id": "step_1755088627915",
+              "type": "choice",
+              "content": "有想去的地方吗？"
+            },
+            {
+              "id": "step_1755088628022",
+              "type": "choice",
+              "content": "天气真好啊！"
+            },
+            {
+              "id": "step_1755088643051",
+              "type": "choice",
+              "content": "前刘海了吗？"
+            },
+            {
+              "id": "step_1755088643374",
+              "type": "choice",
+              "content": "卡拉ok店（歌之王国）+潮鸣商贸城（美食角）",
+              "subfix": "【决定】目的地"
+            },
+            {
+              "id": "step_1755088643541",
+              "type": "choice",
+              "content": "可爱！"
+            },
+            {
+              "id": "step_1755088664183",
+              "type": "choice",
+              "content": "尝一口对方的如何？"
+            },
+            {
+              "id": "step_1755088664308",
+              "type": "choice",
+              "content": "安静点的地方怎么样？"
+            },
+            {
+              "id": "step_1755088664421",
+              "type": "choice",
+              "content": "去之前没去过的地方"
+            },
+            {
+              "id": "step_1755088664553",
+              "type": "choice",
+              "content": "去我想去的地方如何？"
+            },
+            {
+              "id": "step_1755088678106",
+              "type": "choice",
+              "content": "餐厅和酒吧『Blue Ocean』+潮鸣商贸城（美食角）",
+              "subfix": "【决定】目的地"
+            },
+            {
+              "id": "step_1755088678258",
+              "type": "save",
+              "content": "SAVE 9"
+            },
+            {
+              "id": "step_1755088678408",
+              "type": "choice",
+              "content": "Screw Driver"
+            },
+            {
+              "id": "step_1755088678524",
+              "type": "choice",
+              "content": "真白，吃法好漂亮啊"
+            },
+            {
+              "id": "step_1755088703050",
+              "type": "load",
+              "content": "LOAD 9"
+            },
+            {
+              "id": "step_1755088703704",
+              "type": "choice",
+              "content": "Pile Driver"
+            },
+            {
+              "id": "step_1755088703864",
+              "type": "choice",
+              "content": "你喜欢吃咖喱乌冬？",
+              "subfix": "回收后结束"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756474288180",
+      "name": "后日谈",
+      "endings": [
+        {
+          "id": "ending_1756474319923",
+          "name": "Vol.1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756474365775",
+              "type": "note",
+              "content": "交往第二年的天气姐姐 - 鸣濑 咲"
+            },
+            {
+              "id": "step_1756474365940",
+              "type": "note",
+              "content": "在父母家甜蜜相爱 - 亚子"
+            },
+            {
+              "id": "step_1756474366149",
+              "type": "note",
+              "content": "一年后的同居生活 - 北大路 可怜"
+            }
+          ]
+        },
+        {
+          "id": "ending_1756474325154",
+          "name": "Vol.2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756474378750",
+              "type": "note",
+              "content": "想弥补一整年的寂寞 - 鹿目 玲菜"
+            },
+            {
+              "id": "step_1756474378944",
+              "type": "note",
+              "content": "Dead of Leviathan - 月野真白"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

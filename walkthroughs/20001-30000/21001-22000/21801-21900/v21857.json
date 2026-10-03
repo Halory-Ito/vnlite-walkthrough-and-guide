@@ -1,0 +1,42 @@
+{
+  "vid": "v21857",
+  "name": {
+    "zh-cn": "景之海的艾佩莉亚～卡萨布兰卡的骑士～",
+    "ja-jp": "景の海のアペイリア ～カサブランカの騎士～",
+    "ja-Latn": "hikari-no-umi-no-apeiria-casablanca-no-kishi"
+  },
+  "level": 2,
+  "updatedAt": "2026-02-27",
+  "routes": [
+    {
+      "id": "route_1756198026019",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1756198039981",
+          "name": "沙罗 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756198050781",
+              "type": "choice",
+              "content": "给沙罗发送邮件"
+            }
+          ]
+        },
+        {
+          "id": "ending_1756198040217",
+          "name": "七海 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756198071952",
+              "type": "choice",
+              "content": "给七海发送邮件"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

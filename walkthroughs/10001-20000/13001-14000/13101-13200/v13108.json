@@ -1,0 +1,577 @@
+{
+  "vid": "v13108",
+  "name": {
+    "zh-cn": "幸福噩梦 FD",
+    "ja-jp": "ハピメア-Fragmentation Dream-",
+    "ja-Latn": "hapymaher-fragmentation-dream"
+  },
+  "level": 2,
+  "updatedAt": "2026-03-24",
+  "tips": [
+    "夢の欠片所开的门，某种程度上可以自由选择。不过出现选项的场合请进行存储。"
+  ],
+  "routes": [
+    {
+      "id": "route_game",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_normal_end",
+          "name": "Normal END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_normal_01",
+              "type": "choice",
+              "content": "弥生",
+              "prefix": "■",
+              "group": "共通1"
+            },
+            {
+              "id": "step_normal_02",
+              "type": "choice",
+              "content": "咲",
+              "prefix": "■",
+              "group": "共通1"
+            },
+            {
+              "id": "step_normal_03",
+              "type": "choice",
+              "content": "景子",
+              "prefix": "■",
+              "group": "共通1"
+            },
+            {
+              "id": "step_normal_04",
+              "type": "choice",
+              "content": "有子",
+              "prefix": "■",
+              "group": "共通1"
+            },
+            {
+              "id": "step_normal_05",
+              "type": "choice",
+              "content": "他眼中的人是谁",
+              "prefix": "□",
+              "group": "共通1"
+            },
+            {
+              "id": "step_normal_06",
+              "type": "choice",
+              "content": "发挥本领，有子同学",
+              "prefix": "□",
+              "group": "共通1"
+            },
+            {
+              "id": "step_normal_07",
+              "type": "choice",
+              "content": "谁让我是女孩子呢",
+              "prefix": "□",
+              "group": "共通1"
+            },
+            {
+              "id": "step_normal_08",
+              "type": "choice",
+              "content": "续・谁让我是女孩子呢",
+              "prefix": "□",
+              "group": "共通1"
+            },
+            {
+              "id": "step_normal_09",
+              "type": "choice",
+              "content": "那就是她的生存之道",
+              "prefix": "□",
+              "group": "共通1"
+            },
+            {
+              "id": "step_normal_10",
+              "type": "choice",
+              "content": "哥哥，你知道吗？",
+              "prefix": "□",
+              "group": "共通1"
+            },
+            {
+              "id": "step_normal_11",
+              "type": "choice",
+              "content": "平行线那端的即视感",
+              "prefix": "□",
+              "group": "共通1"
+            },
+            {
+              "id": "step_normal_12",
+              "type": "choice",
+              "content": "科学部活动报告",
+              "prefix": "□",
+              "group": "共通1"
+            },
+            {
+              "id": "step_normal_13",
+              "type": "choice",
+              "content": "心地善良的爱给人",
+              "prefix": "□",
+              "group": "共通1"
+            },
+            {
+              "id": "step_normal_14",
+              "type": "choice",
+              "content": "没有仁义的成长",
+              "prefix": "□",
+              "group": "共通1"
+            },
+            {
+              "id": "step_normal_15",
+              "type": "choice",
+              "content": "灵敏小猫保护活动",
+              "prefix": "□",
+              "group": "共通1"
+            },
+            {
+              "id": "step_normal_16",
+              "type": "choice",
+              "content": "忍辱负重",
+              "prefix": "□",
+              "group": "共通1"
+            },
+            {
+              "id": "step_normal_17",
+              "type": "choice",
+              "content": "教教我舞亚？",
+              "prefix": "□",
+              "group": "共通1"
+            },
+            {
+              "id": "step_normal_18",
+              "type": "choice",
+              "content": "难道说……",
+              "prefix": "□",
+              "group": "共通1"
+            },
+            {
+              "id": "step_normal_19",
+              "type": "choice",
+              "content": "打发时间",
+              "prefix": "□",
+              "group": "共通1"
+            },
+            {
+              "id": "step_normal_20",
+              "type": "choice",
+              "content": "作为亲昵的证明",
+              "prefix": "□",
+              "group": "共通1"
+            },
+            {
+              "id": "step_normal_21",
+              "type": "choice",
+              "content": "大家的打工",
+              "prefix": "□",
+              "group": "共通1"
+            },
+            {
+              "id": "step_normal_22",
+              "type": "choice",
+              "content": "平时的打工＋1",
+              "prefix": "□",
+              "group": "共通1"
+            },
+            {
+              "id": "step_normal_23",
+              "type": "choice",
+              "content": "因为沙发很窄啊",
+              "prefix": "□",
+              "group": "共通1"
+            },
+            {
+              "id": "step_normal_24",
+              "type": "choice",
+              "content": "总感觉不讲卫生",
+              "prefix": "□",
+              "group": "共通1"
+            },
+            {
+              "id": "step_normal_25",
+              "type": "choice",
+              "content": "期末考试……？",
+              "prefix": "□",
+              "group": "共通1"
+            },
+            {
+              "id": "step_normal_26",
+              "type": "choice",
+              "content": "考试复习・有子篇",
+              "prefix": "□",
+              "group": "共通1"
+            },
+            {
+              "id": "step_normal_27",
+              "type": "choice",
+              "content": "考试复习・咲篇",
+              "prefix": "□",
+              "group": "共通1"
+            },
+            {
+              "id": "step_normal_28",
+              "type": "choice",
+              "content": "考试复习・弥生篇",
+              "prefix": "□",
+              "group": "共通1"
+            },
+            {
+              "id": "step_normal_29",
+              "type": "choice",
+              "content": "考试复习・景子篇",
+              "prefix": "□",
+              "group": "共通1"
+            },
+            {
+              "id": "step_normal_30",
+              "type": "choice",
+              "content": "考试结果与逃避现实",
+              "prefix": "□",
+              "group": "共通1"
+            },
+            {
+              "id": "step_normal_31",
+              "type": "choice",
+              "content": "家庭性的话语",
+              "prefix": "□",
+              "group": "共通1"
+            },
+            {
+              "id": "step_normal_32",
+              "type": "save",
+              "content": "SAVE 1",
+              "prefix": "◆",
+              "group": "共通1"
+            },
+            {
+              "id": "step_normal_33",
+              "type": "choice",
+              "content": "接受有子",
+              "group": "共通1"
+            }
+          ]
+        },
+        {
+          "id": "ending_true_end",
+          "name": "TRUE END",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_true_01",
+              "type": "load",
+              "content": "LOAD 1",
+              "prefix": "◆",
+              "group": "共通2"
+            },
+            {
+              "id": "step_true_02",
+              "type": "choice",
+              "content": "无法放弃有栖",
+              "group": "共通2"
+            },
+            {
+              "id": "step_true_03",
+              "type": "choice",
+              "content": "没有什么考试",
+              "prefix": "□",
+              "group": "共通2"
+            },
+            {
+              "id": "step_true_04",
+              "type": "choice",
+              "content": "符合「内藤秀优越」的话语",
+              "prefix": "□",
+              "group": "共通2"
+            },
+            {
+              "id": "step_true_05",
+              "type": "choice",
+              "content": "男人的约会・哲也篇",
+              "prefix": "□",
+              "group": "共通2"
+            },
+            {
+              "id": "step_true_06",
+              "type": "choice",
+              "content": "男人之间的友情？",
+              "prefix": "□",
+              "group": "共通2"
+            },
+            {
+              "id": "step_true_07",
+              "type": "choice",
+              "content": "寿司・富士山・天妇罗！",
+              "prefix": "□",
+              "group": "共通2"
+            },
+            {
+              "id": "step_true_08",
+              "type": "choice",
+              "content": "钥匙扣",
+              "prefix": "□",
+              "group": "共通2"
+            },
+            {
+              "id": "step_true_09",
+              "type": "choice",
+              "content": "无数次重复的情事",
+              "prefix": "□",
+              "group": "共通2"
+            },
+            {
+              "id": "step_true_10",
+              "type": "choice",
+              "content": "欢迎来到梦想沙滩！",
+              "prefix": "□",
+              "group": "共通2"
+            },
+            {
+              "id": "step_true_11",
+              "type": "choice",
+              "content": "看不见的聊天",
+              "prefix": "□",
+              "group": "共通2"
+            },
+            {
+              "id": "step_true_12",
+              "type": "choice",
+              "content": "她们对泳衣的抉择",
+              "prefix": "□",
+              "group": "共通2"
+            },
+            {
+              "id": "step_true_13",
+              "type": "choice",
+              "content": "透同学，再次登场",
+              "prefix": "□",
+              "group": "共通2"
+            },
+            {
+              "id": "step_true_14",
+              "type": "choice",
+              "content": "梦之世界的有效利用",
+              "prefix": "□",
+              "group": "共通2"
+            },
+            {
+              "id": "step_true_15",
+              "type": "choice",
+              "content": "与咲共同前进的未来",
+              "prefix": "□",
+              "group": "共通2"
+            },
+            {
+              "id": "step_true_16",
+              "type": "choice",
+              "content": "不原谅那个的义理妹妹",
+              "prefix": "□",
+              "group": "共通2"
+            },
+            {
+              "id": "step_true_17",
+              "type": "choice",
+              "content": "说不定弥生有这种可能性",
+              "prefix": "□",
+              "group": "共通2"
+            },
+            {
+              "id": "step_true_18",
+              "type": "choice",
+              "content": "性冲动之类的东西",
+              "prefix": "□",
+              "group": "共通2"
+            },
+            {
+              "id": "step_true_19",
+              "type": "choice",
+              "content": "景子的家庭状况",
+              "prefix": "□",
+              "group": "共通2"
+            },
+            {
+              "id": "step_true_20",
+              "type": "choice",
+              "content": "可是猫也吃肉呀",
+              "prefix": "□",
+              "group": "共通2"
+            }
+          ]
+        },
+        {
+          "id": "ending_yuko_end",
+          "name": "有子 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_yuko_01",
+              "type": "note",
+              "content": "TRUE END后，从标题画面幸福噩梦开始",
+              "prefix": "※",
+              "group": "幸福噩梦"
+            },
+            {
+              "id": "step_yuko_02",
+              "type": "choice",
+              "content": "我也写要！",
+              "prefix": "□",
+              "group": "幸福噩梦"
+            },
+            {
+              "id": "step_yuko_03",
+              "type": "choice",
+              "content": "有栖就决定是比基尼了！",
+              "prefix": "□",
+              "group": "幸福噩梦"
+            },
+            {
+              "id": "step_yuko_04",
+              "type": "choice",
+              "content": "给舞亚的惩罚……？",
+              "prefix": "□",
+              "group": "幸福噩梦"
+            },
+            {
+              "id": "step_yuko_05",
+              "type": "choice",
+              "content": "哪个才好呢！？",
+              "prefix": "□",
+              "group": "幸福噩梦"
+            },
+            {
+              "id": "step_yuko_06",
+              "type": "choice",
+              "content": "差不多全部都是你的错",
+              "prefix": "□",
+              "group": "幸福噩梦"
+            },
+            {
+              "id": "step_yuko_07",
+              "type": "choice",
+              "content": "恋人们的时间",
+              "prefix": "□",
+              "group": "幸福噩梦"
+            },
+            {
+              "id": "step_yuko_08",
+              "type": "choice",
+              "content": "『第一次的伙伴』",
+              "prefix": "□",
+              "group": "幸福噩梦"
+            },
+            {
+              "id": "step_yuko_09",
+              "type": "choice",
+              "content": "哥哥，你喜欢的吧？",
+              "prefix": "□",
+              "group": "幸福噩梦"
+            },
+            {
+              "id": "step_yuko_10",
+              "type": "choice",
+              "content": "与咲玩耍，游水",
+              "prefix": "□",
+              "group": "幸福噩梦"
+            },
+            {
+              "id": "step_yuko_11",
+              "type": "choice",
+              "content": "笨拙的邀请方式",
+              "prefix": "□",
+              "group": "幸福噩梦"
+            },
+            {
+              "id": "step_yuko_12",
+              "type": "choice",
+              "content": "在海上与弥生二人独处",
+              "prefix": "□",
+              "group": "幸福噩梦"
+            },
+            {
+              "id": "step_yuko_13",
+              "type": "choice",
+              "content": "景子爱的方式",
+              "prefix": "□",
+              "group": "幸福噩梦"
+            },
+            {
+              "id": "step_yuko_14",
+              "type": "choice",
+              "content": "给我海的话就无法忍耐了",
+              "prefix": "□",
+              "group": "幸福噩梦"
+            },
+            {
+              "id": "step_yuko_15",
+              "type": "choice",
+              "content": "前辈，你喜欢的吧？",
+              "prefix": "□",
+              "group": "幸福噩梦"
+            },
+            {
+              "id": "step_yuko_16",
+              "type": "choice",
+              "content": "无法拒绝的噩梦",
+              "prefix": "□",
+              "group": "幸福噩梦"
+            },
+            {
+              "id": "step_yuko_17",
+              "type": "choice",
+              "content": "至少给我这段时间",
+              "prefix": "□",
+              "group": "幸福噩梦"
+            },
+            {
+              "id": "step_yuko_18",
+              "type": "choice",
+              "content": "最爱的噩梦",
+              "prefix": "□",
+              "group": "幸福噩梦"
+            },
+            {
+              "id": "step_yuko_19",
+              "type": "save",
+              "content": "SAVE 2",
+              "prefix": "◆",
+              "group": "幸福噩梦"
+            },
+            {
+              "id": "step_yuko_20",
+              "type": "choice",
+              "content": "交给舞亚",
+              "group": "幸福噩梦"
+            }
+          ]
+        },
+        {
+          "id": "ending_maia_end",
+          "name": "舞亚 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_maia_01",
+              "type": "note",
+              "content": "TRUE END后，从标题画面幸福噩梦开始",
+              "prefix": "※",
+              "group": "幸福噩梦"
+            },
+            {
+              "id": "step_maia_02",
+              "type": "load",
+              "content": "LOAD 2",
+              "prefix": "◆",
+              "group": "幸福噩梦"
+            },
+            {
+              "id": "step_maia_03",
+              "type": "choice",
+              "content": "就那样打开了门",
+              "group": "幸福噩梦"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "vid": "v87",
+  "name": {
+    "zh-cn": "FORTUNE ARTERIAL",
+    "ja-Latn": "fortune-arterial"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-15",
+  "routes": [
+    {
+      "id": "route_main",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_erika",
+          "name": "瑛里华 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_erika_01",
+              "type": "choice",
+              "content": "和副会长去仓库寻找",
+              "group": "4月24日"
+            },
+            {
+              "id": "step_erika_02",
+              "type": "choice",
+              "content": "百分百是司",
+              "group": "5月10日"
+            },
+            {
+              "id": "step_erika_03",
+              "type": "choice",
+              "content": "唔，应援合战就要开始了！",
+              "group": "5月11日"
+            },
+            {
+              "id": "step_erika_04",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_erika_05",
+              "type": "choice",
+              "content": "瑛里华（旧校区）"
+            },
+            {
+              "id": "step_erika_06",
+              "type": "choice",
+              "content": "瑛里华（新校区）"
+            },
+            {
+              "id": "step_erika_07",
+              "type": "choice",
+              "content": "瑛里华（旧校区）"
+            },
+            {
+              "id": "step_erika_08",
+              "type": "choice",
+              "content": "瑛里华（新校区）"
+            },
+            {
+              "id": "step_erika_10",
+              "type": "choice",
+              "content": "瑛里华（旧校区）"
+            }
+          ]
+        },
+        {
+          "id": "ending_shiro",
+          "name": "白 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_shiro_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_shiro_02",
+              "type": "choice",
+              "content": "白（旧校区）"
+            },
+            {
+              "id": "step_shiro_04",
+              "type": "choice",
+              "content": "白（白凤寮）"
+            },
+            {
+              "id": "step_shiro_05",
+              "type": "choice",
+              "content": "白（旧校区）"
+            },
+            {
+              "id": "step_shiro_07",
+              "type": "choice",
+              "content": "白（白凤寮）"
+            },
+            {
+              "id": "step_shiro_08",
+              "type": "choice",
+              "content": "在意"
+            },
+            {
+              "id": "step_shiro_09",
+              "type": "choice",
+              "content": "到礼拜堂去"
+            }
+          ]
+        },
+        {
+          "id": "ending_kiriha",
+          "name": "桐叶 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_kiriha_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_kiriha_02",
+              "type": "choice",
+              "content": "桐叶（新校区）"
+            },
+            {
+              "id": "step_kiriha_04",
+              "type": "choice",
+              "content": "桐叶（旧校区）"
+            },
+            {
+              "id": "step_kiriha_05",
+              "type": "choice",
+              "content": "桐叶（白凤寮）"
+            },
+            {
+              "id": "step_kiriha_06",
+              "type": "choice",
+              "content": "桐叶（旧校区）"
+            },
+            {
+              "id": "step_kiriha_07",
+              "type": "choice",
+              "content": "桐叶（新校区）"
+            }
+          ]
+        },
+        {
+          "id": "ending_kanade",
+          "name": "奏 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_kanade_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_kanade_02",
+              "type": "choice",
+              "content": "奏（白凤寮）"
+            },
+            {
+              "id": "step_kanade_03",
+              "type": "choice",
+              "content": "奏（旧校区）"
+            },
+            {
+              "id": "step_kanade_04",
+              "type": "choice",
+              "content": "奏（白凤寮）"
+            }
+          ]
+        },
+        {
+          "id": "ending_hina",
+          "name": "阳菜 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_hina_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_hina_02",
+              "type": "choice",
+              "content": "阳菜（白凤寮）"
+            },
+            {
+              "id": "step_hina_03",
+              "type": "choice",
+              "content": "阳菜（旧校区）"
+            },
+            {
+              "id": "step_hina_04",
+              "type": "choice",
+              "content": "阳菜（新校区）"
+            },
+            {
+              "id": "step_hina_05",
+              "type": "choice",
+              "content": "阳菜（白凤寮）"
+            },
+            {
+              "id": "step_hina_07",
+              "type": "choice",
+              "content": "阳菜（新校区）"
+            }
+          ]
+        },
+        {
+          "id": "ending_true",
+          "name": "TRUE END",
+          "type": "true",
+          "requirements": "以上五人END后",
+          "steps": [
+            {
+              "id": "step_true_02",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_true_03",
+              "type": "choice",
+              "content": "黑猫（白凤寮）"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

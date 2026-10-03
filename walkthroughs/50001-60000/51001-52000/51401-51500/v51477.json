@@ -1,0 +1,243 @@
+{
+  "vid": "v51477",
+  "name": {
+    "zh-cn": "梦幻的提尔纳诺",
+    "ja-jp": "夢幻のティル・ナ・ノーグ",
+    "ja-Latn": "mugen-no-tir-na-nog"
+  },
+  "level": 2,
+  "updatedAt": "2026-02-27",
+  "routes": [
+    {
+      "id": "route_1755954609094",
+      "name": "遊佐 香恋",
+      "endings": [
+        {
+          "id": "ending_1755954669021",
+          "name": "香恋 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755955137514",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1755955138183",
+              "type": "choice",
+              "content": "香恋"
+            },
+            {
+              "id": "step_1755955152198",
+              "type": "choice",
+              "content": "湖"
+            },
+            {
+              "id": "step_1755955152735",
+              "type": "choice",
+              "content": "遗迹"
+            },
+            {
+              "id": "step_1755955153396",
+              "type": "choice",
+              "content": "港町"
+            },
+            {
+              "id": "step_1755955176701",
+              "type": "note",
+              "content": "沒有順序之分～想去哪裡去哪裡"
+            },
+            {
+              "id": "step_1755955183794",
+              "type": "choice",
+              "content": "跟上去"
+            },
+            {
+              "id": "step_1755955183949",
+              "type": "choice",
+              "content": "陪在香戀的身邊"
+            },
+            {
+              "id": "step_1755955200834",
+              "type": "note",
+              "content": "收集全CG：回到主界面～打開おまけエピソ-ド～遊玩場景即可"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755954951308",
+      "name": "星子 咲夜",
+      "endings": [
+        {
+          "id": "ending_1755955217168",
+          "name": "咲夜 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755955239418",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1755955240282",
+              "type": "choice",
+              "content": "咲夜"
+            },
+            {
+              "id": "step_1755955241372",
+              "type": "choice",
+              "content": "湖"
+            },
+            {
+              "id": "step_1755955241646",
+              "type": "choice",
+              "content": "遗迹"
+            },
+            {
+              "id": "step_1755955241934",
+              "type": "choice",
+              "content": "港町"
+            },
+            {
+              "id": "step_1755955292560",
+              "type": "choice",
+              "content": "跟上去"
+            },
+            {
+              "id": "step_1755955293174",
+              "type": "choice",
+              "content": "暫時離開這個地方"
+            },
+            {
+              "id": "step_1755955300392",
+              "type": "choice",
+              "content": "危險的冒險"
+            },
+            {
+              "id": "step_1755955305820",
+              "type": "note",
+              "content": "收集全CG：回到主界面～打開おまけエピソ-ド～遊玩場景即可"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755954984380",
+      "name": "見取沢 碧",
+      "endings": [
+        {
+          "id": "ending_1755955314998",
+          "name": "碧 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755955320387",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1755955321060",
+              "type": "choice",
+              "content": "碧"
+            },
+            {
+              "id": "step_1755955321325",
+              "type": "choice",
+              "content": "湖"
+            },
+            {
+              "id": "step_1755955321466",
+              "type": "choice",
+              "content": "遗迹"
+            },
+            {
+              "id": "step_1755955321602",
+              "type": "choice",
+              "content": "港町"
+            },
+            {
+              "id": "step_1755955321731",
+              "type": "choice",
+              "content": "跟上去"
+            },
+            {
+              "id": "step_1755955321853",
+              "type": "choice",
+              "content": "暫時離開這個地方"
+            },
+            {
+              "id": "step_1755955321997",
+              "type": "choice",
+              "content": "安全的冒險"
+            },
+            {
+              "id": "step_1755955394705",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1755955400067",
+              "type": "choice",
+              "content": "向碧告白"
+            },
+            {
+              "id": "step_1755955430634",
+              "type": "note",
+              "content": "收集全CG：回到主界面～打開おまけエピソ-ド～遊玩場景即可"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755955452108",
+      "name": "珀茜",
+      "endings": [
+        {
+          "id": "ending_1755955484624",
+          "name": "珀茜 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755955511893",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1755955524225",
+              "type": "choice",
+              "content": "不向碧告白"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755955533681",
+      "name": "爱丽丝",
+      "endings": [
+        {
+          "id": "ending_1755955561895",
+          "name": "爱丽丝 END",
+          "type": "normal",
+          "requirements": "四位女主全部玩完之後！回到主見面：打開Last adventure（最後一次冒險）",
+          "steps": [
+            {
+              "id": "step_1755955590095",
+              "type": "note",
+              "content": "开启真女主"
+            },
+            {
+              "id": "step_1755955613834",
+              "type": "note",
+              "content": "收集全CG：回到主界面～打開おまけエピソ-ド～遊玩場景即可"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

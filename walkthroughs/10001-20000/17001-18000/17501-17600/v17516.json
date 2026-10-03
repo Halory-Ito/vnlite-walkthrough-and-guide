@@ -1,0 +1,456 @@
+{
+  "vid": "v17516",
+  "name": {
+    "zh-cn": "想要传达给你的爱恋",
+    "ja-jp": "恋×シンアイ彼女",
+    "ja-Latn": "koi-x-shin-ai-kanojo"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-14",
+  "tips": [
+    "出处：HIKARI FIELD STORE | 想要传达给你的爱恋 | 官方攻略"
+  ],
+  "routes": [
+    {
+      "id": "route_1772974738375",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1773060451973",
+          "name": "姬野 星奏 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1773060463570",
+              "type": "choice",
+              "content": "带她参观"
+            },
+            {
+              "id": "step_1773060463722",
+              "type": "choice",
+              "content": "去挥洒汗水"
+            },
+            {
+              "id": "step_1773060464021",
+              "type": "choice",
+              "content": "记得很清楚"
+            },
+            {
+              "id": "step_1773060464206",
+              "type": "choice",
+              "content": "说说爱美姐的事"
+            },
+            {
+              "id": "step_1773060513655",
+              "type": "choice",
+              "content": "好想炒股啊"
+            },
+            {
+              "id": "step_1773060513826",
+              "type": "choice",
+              "content": "不知道姬野打算参加什么社团呢？"
+            },
+            {
+              "id": "step_1773060513970",
+              "type": "choice",
+              "content": "必须赶快了"
+            },
+            {
+              "id": "step_1773060514223",
+              "type": "choice",
+              "content": "随意问问看吧"
+            },
+            {
+              "id": "step_1773060514424",
+              "type": "choice",
+              "content": "Aqua"
+            },
+            {
+              "id": "step_1773060514672",
+              "type": "choice",
+              "content": "可能还是吧"
+            },
+            {
+              "id": "step_1773060514837",
+              "type": "choice",
+              "content": "御影滨的那个女生"
+            },
+            {
+              "id": "step_1773060542381",
+              "type": "choice",
+              "content": "容我拒绝"
+            },
+            {
+              "id": "step_1773060542596",
+              "type": "choice",
+              "content": "姬野"
+            },
+            {
+              "id": "step_1773060542771",
+              "type": "choice",
+              "content": "母女"
+            },
+            {
+              "id": "step_1773060542922",
+              "type": "choice",
+              "content": "御影之丘步行街 / 御影之丘车站（随意选择）"
+            },
+            {
+              "id": "step_1773060543088",
+              "type": "choice",
+              "content": "姬野"
+            },
+            {
+              "id": "step_1773060543233",
+              "type": "choice",
+              "content": "姬野 / 新堂 / 结衣 / 四条学姐 / 凉介 / 志乃（选6次）"
+            },
+            {
+              "id": "step_1773060561694",
+              "type": "choice",
+              "content": "姬野"
+            },
+            {
+              "id": "step_1773060561873",
+              "type": "choice",
+              "content": "你喷香水了？"
+            },
+            {
+              "id": "step_1773060562006",
+              "type": "choice",
+              "content": "用手指戳戳脸颊"
+            },
+            {
+              "id": "step_1773060562260",
+              "type": "choice",
+              "content": "倾诉爱意"
+            }
+          ]
+        },
+        {
+          "id": "ending_1773060615115",
+          "name": "新堂 彩音 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1773060635196",
+              "type": "choice",
+              "content": "带她参观"
+            },
+            {
+              "id": "step_1773060635360",
+              "type": "choice",
+              "content": "去挥洒汗水"
+            },
+            {
+              "id": "step_1773060635553",
+              "type": "choice",
+              "content": "记得很清楚"
+            },
+            {
+              "id": "step_1773060635715",
+              "type": "choice",
+              "content": "说说爱美姐的事"
+            },
+            {
+              "id": "step_1773060635880",
+              "type": "choice",
+              "content": "好想炒股啊"
+            },
+            {
+              "id": "step_1773060636022",
+              "type": "choice",
+              "content": "新堂已经参加别的社团了吗？"
+            },
+            {
+              "id": "step_1773060636154",
+              "type": "choice",
+              "content": "可能会对不起姬野，就让她多等一会儿吧"
+            },
+            {
+              "id": "step_1773060636306",
+              "type": "choice",
+              "content": "还是作罢了吧"
+            },
+            {
+              "id": "step_1773060636435",
+              "type": "choice",
+              "content": "Lucua"
+            },
+            {
+              "id": "step_1773060661873",
+              "type": "choice",
+              "content": "都是过去的事了"
+            },
+            {
+              "id": "step_1773060662017",
+              "type": "choice",
+              "content": "御影滨的那个女生"
+            },
+            {
+              "id": "step_1773060662200",
+              "type": "choice",
+              "content": "容我拒绝"
+            },
+            {
+              "id": "step_1773060662368",
+              "type": "choice",
+              "content": "新堂"
+            },
+            {
+              "id": "step_1773060662562",
+              "type": "choice",
+              "content": "胸"
+            },
+            {
+              "id": "step_1773060687618",
+              "type": "choice",
+              "content": "母女"
+            },
+            {
+              "id": "step_1773060688098",
+              "type": "choice",
+              "content": "御影之丘步行街 / 御影之丘车站（随意选择）"
+            },
+            {
+              "id": "step_1773060688263",
+              "type": "choice",
+              "content": "新堂"
+            },
+            {
+              "id": "step_1773060688398",
+              "type": "choice",
+              "content": "新堂 / 姬野 / 结衣 / 四条学姐 / 菜子 / 会长（选6次）"
+            },
+            {
+              "id": "step_1773060706292",
+              "type": "choice",
+              "content": "躲进附近的纸箱里"
+            },
+            {
+              "id": "step_1773060706585",
+              "type": "choice",
+              "content": "电影研究会"
+            }
+          ]
+        },
+        {
+          "id": "ending_1773060739146",
+          "name": "小鞠 结衣 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1773060775372",
+              "type": "choice",
+              "content": "带她参观"
+            },
+            {
+              "id": "step_1773060775745",
+              "type": "choice",
+              "content": "去挥洒汗水"
+            },
+            {
+              "id": "step_1773060775979",
+              "type": "choice",
+              "content": "记得很清楚"
+            },
+            {
+              "id": "step_1773060776152",
+              "type": "choice",
+              "content": "说说爱美姐的事"
+            },
+            {
+              "id": "step_1773060776305",
+              "type": "choice",
+              "content": "好想炒股啊"
+            },
+            {
+              "id": "step_1773060780287",
+              "type": "choice",
+              "content": "好在意在花坛那遇见的女孩"
+            },
+            {
+              "id": "step_1773060780444",
+              "type": "choice",
+              "content": "必须赶快了"
+            },
+            {
+              "id": "step_1773060780597",
+              "type": "choice",
+              "content": "还是作罢了吧"
+            },
+            {
+              "id": "step_1773060780749",
+              "type": "choice",
+              "content": "Rucua"
+            },
+            {
+              "id": "step_1773060805566",
+              "type": "choice",
+              "content": "都是过去的事了"
+            },
+            {
+              "id": "step_1773060805775",
+              "type": "choice",
+              "content": "御影滨的那个女生"
+            },
+            {
+              "id": "step_1773060806037",
+              "type": "choice",
+              "content": "请叫我狗"
+            },
+            {
+              "id": "step_1773060806206",
+              "type": "choice",
+              "content": "四条学姐"
+            },
+            {
+              "id": "step_1773060806337",
+              "type": "choice",
+              "content": "姐妹"
+            },
+            {
+              "id": "step_1773060806480",
+              "type": "choice",
+              "content": "御影之丘步行街 / 御影之丘车站（随意选择）"
+            },
+            {
+              "id": "step_1773060806639",
+              "type": "choice",
+              "content": "结衣"
+            },
+            {
+              "id": "step_1773060832718",
+              "type": "choice",
+              "content": "结衣 / 姬野 / 新堂 / 四条学姐 / 菜子 / 爱美姐（选6次）"
+            },
+            {
+              "id": "step_1773060841274",
+              "type": "choice",
+              "content": "花坛"
+            },
+            {
+              "id": "step_1773060845182",
+              "type": "choice",
+              "content": "马力男孩"
+            }
+          ]
+        },
+        {
+          "id": "ending_1773060863206",
+          "name": "四条 凛香 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1773060892002",
+              "type": "choice",
+              "content": "带她参观"
+            },
+            {
+              "id": "step_1773060892176",
+              "type": "choice",
+              "content": "去挥洒汗水"
+            },
+            {
+              "id": "step_1773060892441",
+              "type": "choice",
+              "content": "记得很清楚"
+            },
+            {
+              "id": "step_1773060892630",
+              "type": "choice",
+              "content": "说说爱美姐的事"
+            },
+            {
+              "id": "step_1773060892805",
+              "type": "choice",
+              "content": "好想炒股啊"
+            },
+            {
+              "id": "step_1773060892931",
+              "type": "choice",
+              "content": "四条学姐忙不忙啊"
+            },
+            {
+              "id": "step_1773060893061",
+              "type": "choice",
+              "content": "必须赶快了"
+            },
+            {
+              "id": "step_1773060893315",
+              "type": "choice",
+              "content": "还是作罢了吧"
+            },
+            {
+              "id": "step_1773060894589",
+              "type": "choice",
+              "content": "Rucua"
+            },
+            {
+              "id": "step_1773060923299",
+              "type": "choice",
+              "content": "都是过去的事了"
+            },
+            {
+              "id": "step_1773060923696",
+              "type": "choice",
+              "content": "四条学姐"
+            },
+            {
+              "id": "step_1773060923869",
+              "type": "choice",
+              "content": "都这么说了"
+            },
+            {
+              "id": "step_1773060924045",
+              "type": "choice",
+              "content": "四条学姐"
+            },
+            {
+              "id": "step_1773060924217",
+              "type": "choice",
+              "content": "双胞胎"
+            },
+            {
+              "id": "step_1773060941533",
+              "type": "choice",
+              "content": "御影之丘步行街 / 御影之丘车站（随意选择）"
+            },
+            {
+              "id": "step_1773060941764",
+              "type": "choice",
+              "content": "四条学姐"
+            },
+            {
+              "id": "step_1773060943965",
+              "type": "choice",
+              "content": "四条学姐 / 姬野 / 新堂 / 结衣 / 会长 / 爱美姐（选6次）"
+            },
+            {
+              "id": "step_1773060944688",
+              "type": "choice",
+              "content": "旧校舍"
+            },
+            {
+              "id": "step_1773060945070",
+              "type": "choice",
+              "content": "全力男孩"
+            }
+          ]
+        },
+        {
+          "id": "ending_1773060964078",
+          "name": "终章",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_1773060976988",
+              "type": "choice",
+              "content": "四人攻略完成后，在游戏标题界面选择“Last Episode 终章”"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,663 @@
+{
+  "vid": "v7771",
+  "name": {
+    "zh-cn": "白色相簿2",
+    "en-us": "WHITE ALBUM 2",
+    "ja-Latn": "white-album-2"
+  },
+  "level": 2,
+  "updatedAt": "2026-04-09",
+  "tips": [
+    "本攻略没有设置SL点，首先因为除了cc篇的千晶te有条件，其他线是没有顺序要求的，如果你想开始就攻略雪菜也没问题，其次对于coda篇来说，两个女主的ne和te选项差别还是很大的，无需在ne中间设置选项去完成te，也希望大家每条线从头开始，这样比较有完整的游戏（被虐）体验",
+    "游戏可以结合特典小说来看，推荐顺序为IC篇一周目->《雪が解け、そして雪が降るまで》->IC篇二周目->《歌を忘れた偶像》->CC篇一周目->千晶NE-> IC三周目-> IC篇剩下衍生作品->CC篇小春/麻理/千晶TE->coda篇->after story->《致不共戴天的你》"
+  ],
+  "routes": [
+    {
+      "id": "route_1775715229473",
+      "name": "introductory chapter",
+      "endings": [
+        {
+          "id": "ending_1775715721470",
+          "name": "IC篇 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1775715738564",
+              "type": "note",
+              "content": "无选项"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1775715750912",
+      "name": "closing chapter",
+      "endings": [
+        {
+          "id": "ending_1775715792690",
+          "name": "小春 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1775715937734",
+              "type": "choice",
+              "content": "和她在一起总觉得很舒服"
+            },
+            {
+              "id": "step_1775715937907",
+              "type": "choice",
+              "content": "给她发短信"
+            },
+            {
+              "id": "step_1775715938056",
+              "type": "choice",
+              "content": "拒绝"
+            },
+            {
+              "id": "step_1775715938205",
+              "type": "choice",
+              "content": "送她回去"
+            },
+            {
+              "id": "step_1775715938367",
+              "type": "choice",
+              "content": "把她叫起来"
+            },
+            {
+              "id": "step_1775715938536",
+              "type": "choice",
+              "content": "送她回去"
+            },
+            {
+              "id": "step_1775715938687",
+              "type": "choice",
+              "content": "这已经是结束的事情了"
+            },
+            {
+              "id": "step_1775715938834",
+              "type": "choice",
+              "content": "知道了，就今天好了"
+            },
+            {
+              "id": "step_1775715938976",
+              "type": "choice",
+              "content": "今天就，回去吧"
+            },
+            {
+              "id": "step_1775715939119",
+              "type": "choice",
+              "content": "随便你吧"
+            },
+            {
+              "id": "step_1775715964169",
+              "type": "choice",
+              "content": "你果然还是来这里吧"
+            },
+            {
+              "id": "step_1775715964422",
+              "type": "choice",
+              "content": "不需要"
+            },
+            {
+              "id": "step_1775715964609",
+              "type": "choice",
+              "content": "难道说那家伙…"
+            },
+            {
+              "id": "step_1775715964940",
+              "type": "choice",
+              "content": "那种事情，怎么能够去考虑"
+            },
+            {
+              "id": "step_1775715982202",
+              "type": "choice",
+              "content": "去打工",
+              "subfix": "这里选择 一直独自待着 进入滑雪 END"
+            }
+          ]
+        },
+        {
+          "id": "ending_1775716036866",
+          "name": "麻理 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1775716054317",
+              "type": "choice",
+              "content": "和她在一起总觉得很舒服"
+            },
+            {
+              "id": "step_1775716054462",
+              "type": "choice",
+              "content": "给她发短信"
+            },
+            {
+              "id": "step_1775716054767",
+              "type": "choice",
+              "content": "接受"
+            },
+            {
+              "id": "step_1775716054944",
+              "type": "choice",
+              "content": "目送她离去"
+            },
+            {
+              "id": "step_1775716055110",
+              "type": "choice",
+              "content": "把她叫起来"
+            },
+            {
+              "id": "step_1775716055276",
+              "type": "choice",
+              "content": "目送她离去"
+            },
+            {
+              "id": "step_1775716055425",
+              "type": "choice",
+              "content": "这已经是结束的事情了"
+            },
+            {
+              "id": "step_1775716055580",
+              "type": "choice",
+              "content": "抱歉，明天再说吧"
+            },
+            {
+              "id": "step_1775716055694",
+              "type": "choice",
+              "content": "今天就，回去吧"
+            },
+            {
+              "id": "step_1775716055828",
+              "type": "choice",
+              "content": "可以才怪"
+            },
+            {
+              "id": "step_1775716077559",
+              "type": "choice",
+              "content": "你果然还是来这里吧"
+            },
+            {
+              "id": "step_1775716077699",
+              "type": "choice",
+              "content": "不需要"
+            },
+            {
+              "id": "step_1775716077852",
+              "type": "choice",
+              "content": "嘛，无所谓了"
+            },
+            {
+              "id": "step_1775716093038",
+              "type": "choice",
+              "content": "去编辑部露面"
+            },
+            {
+              "id": "step_1775716093187",
+              "type": "choice",
+              "content": "留在这里",
+              "subfix": "去听音乐会无法选择，丸户的恶意QAQ"
+            }
+          ]
+        },
+        {
+          "id": "ending_1775716188308",
+          "name": "千晶 END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1775716227688",
+              "type": "choice",
+              "content": "和她在一起总觉得很舒服"
+            },
+            {
+              "id": "step_1775716227857",
+              "type": "choice",
+              "content": "给她发短信"
+            },
+            {
+              "id": "step_1775716228006",
+              "type": "choice",
+              "content": "拒绝"
+            },
+            {
+              "id": "step_1775716228178",
+              "type": "choice",
+              "content": "目送她离去"
+            },
+            {
+              "id": "step_1775716228330",
+              "type": "choice",
+              "content": "让她睡在床上"
+            },
+            {
+              "id": "step_1775716228487",
+              "type": "choice",
+              "content": "目送她离去"
+            },
+            {
+              "id": "step_1775716228643",
+              "type": "choice",
+              "content": "这已经是结束的事情了"
+            },
+            {
+              "id": "step_1775716228797",
+              "type": "choice",
+              "content": "知道了，就今天好了"
+            },
+            {
+              "id": "step_1775716228949",
+              "type": "choice",
+              "content": "再稍微说一会话吧"
+            },
+            {
+              "id": "step_1775716229095",
+              "type": "choice",
+              "content": "可以才怪"
+            },
+            {
+              "id": "step_1775716229229",
+              "type": "choice",
+              "content": "我现在就去你那边"
+            },
+            {
+              "id": "step_1775716255707",
+              "type": "choice",
+              "content": "不需要"
+            },
+            {
+              "id": "step_1775716255871",
+              "type": "choice",
+              "content": "嘛，无所谓了"
+            },
+            {
+              "id": "step_1775716256019",
+              "type": "choice",
+              "content": "给千晶打电话"
+            }
+          ]
+        },
+        {
+          "id": "ending_1775716281892",
+          "name": "千晶 END2",
+          "type": "true",
+          "requirements": "完成千晶 NE之后开新游戏走完IC篇三周目的千晶新出现的附加剧情后解锁",
+          "steps": [
+            {
+              "id": "step_1775716301845",
+              "type": "choice",
+              "content": "这家伙，难对付啊"
+            },
+            {
+              "id": "step_1775716318179",
+              "type": "note",
+              "content": "其余选项和千晶 normal end一样"
+            }
+          ]
+        },
+        {
+          "id": "ending_1775716597364",
+          "name": "雪菜 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1775716606297",
+              "type": "choice",
+              "content": "和她在一起总觉得很舒服"
+            },
+            {
+              "id": "step_1775716606459",
+              "type": "choice",
+              "content": "给她打电话"
+            },
+            {
+              "id": "step_1775716606608",
+              "type": "choice",
+              "content": "拒绝"
+            },
+            {
+              "id": "step_1775716606743",
+              "type": "choice",
+              "content": "目送她离去"
+            },
+            {
+              "id": "step_1775716606891",
+              "type": "choice",
+              "content": "把她叫起来"
+            },
+            {
+              "id": "step_1775716607040",
+              "type": "choice",
+              "content": "目送她离去"
+            },
+            {
+              "id": "step_1775716607202",
+              "type": "choice",
+              "content": "这已经是结束的事情了"
+            },
+            {
+              "id": "step_1775716607351",
+              "type": "choice",
+              "content": "知道了，就今天好了"
+            },
+            {
+              "id": "step_1775716607486",
+              "type": "choice",
+              "content": "今天就，回去吧"
+            },
+            {
+              "id": "step_1775716607628",
+              "type": "choice",
+              "content": "随便你吧"
+            },
+            {
+              "id": "step_1775716607762",
+              "type": "choice",
+              "content": "你果然还是来这里吧"
+            },
+            {
+              "id": "step_1775716646644",
+              "type": "choice",
+              "content": "不需要"
+            },
+            {
+              "id": "step_1775716646814",
+              "type": "choice",
+              "content": "嘛，无所谓了"
+            },
+            {
+              "id": "step_1775716663411",
+              "type": "choice",
+              "content": "那种事情，怎么能够去考虑"
+            },
+            {
+              "id": "step_1775716663566",
+              "type": "choice",
+              "content": "一直独自待着"
+            },
+            {
+              "id": "step_1775716676319",
+              "type": "choice",
+              "content": "去新年参拜"
+            },
+            {
+              "id": "step_1775717060807",
+              "type": "note",
+              "content": "END 后自动开始coda篇"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1775717077745",
+      "name": "coda",
+      "endings": [
+        {
+          "id": "ending_1775717115298",
+          "name": "雪菜 END1 （腰斩线）",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1775717273502",
+              "type": "choice",
+              "content": "打算最近就提出结婚"
+            },
+            {
+              "id": "step_1775717299687",
+              "type": "choice",
+              "content": "再也不会去见和纱了"
+            },
+            {
+              "id": "step_1775717299853",
+              "type": "choice",
+              "content": "我做过不主动打电话给她的约定"
+            },
+            {
+              "id": "step_1775717299998",
+              "type": "choice",
+              "content": "因为没有什么值得担心的"
+            },
+            {
+              "id": "step_1775717300139",
+              "type": "choice",
+              "content": "我不能去"
+            },
+            {
+              "id": "step_1775717300275",
+              "type": "choice",
+              "content": "拥抱她"
+            },
+            {
+              "id": "step_1775717325238",
+              "type": "choice",
+              "content": "看着和纱的睡脸"
+            },
+            {
+              "id": "step_1775717325400",
+              "type": "choice",
+              "content": "想要拥抱她"
+            },
+            {
+              "id": "step_1775717325545",
+              "type": "choice",
+              "content": "把脸背过去"
+            },
+            {
+              "id": "step_1775717325694",
+              "type": "choice",
+              "content": "我爱着雪菜"
+            }
+          ]
+        },
+        {
+          "id": "ending_1775717115299",
+          "name": "冬马 END1 （浮气线）",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1775717273501",
+              "type": "choice",
+              "content": "打算最近就提出结婚"
+            },
+            {
+              "id": "step_1775717299686",
+              "type": "choice",
+              "content": "再也不会去见和纱了"
+            },
+            {
+              "id": "step_1775717299854",
+              "type": "choice",
+              "content": "我做过不主动打电话给她的约定"
+            },
+            {
+              "id": "step_1775717299992",
+              "type": "choice",
+              "content": "因为没有什么值得担心的"
+            },
+            {
+              "id": "step_1775717300135",
+              "type": "choice",
+              "content": "我不能去"
+            },
+            {
+              "id": "step_1775717300265",
+              "type": "choice",
+              "content": "拥抱她"
+            },
+            {
+              "id": "step_1775717325298",
+              "type": "choice",
+              "content": "看着和纱的睡脸"
+            },
+            {
+              "id": "step_1775717325430",
+              "type": "choice",
+              "content": "想要拥抱她"
+            },
+            {
+              "id": "step_1775717325245",
+              "type": "choice",
+              "content": "放开手"
+            },
+            {
+              "id": "step_1775717325644",
+              "type": "choice",
+              "content": "摘掉眼镜/就这样吻上去",
+              "subfix": "CG收集"
+            }
+          ]
+        },
+        {
+          "id": "ending_1775717530445",
+          "name": "雪菜 END2",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_1775717540264",
+              "type": "choice",
+              "content": "两年前开始交往的"
+            },
+            {
+              "id": "step_1775717540416",
+              "type": "choice",
+              "content": "已经见过和纱了"
+            },
+            {
+              "id": "step_1775717540575",
+              "type": "choice",
+              "content": "与和纱的再会，是早在平安夜的时候"
+            },
+            {
+              "id": "step_1775717540739",
+              "type": "choice",
+              "content": "我做过不主动打电话给她的约定"
+            },
+            {
+              "id": "step_1775717540901",
+              "type": "choice",
+              "content": "因为没有什么值得担心的"
+            },
+            {
+              "id": "step_1775717541058",
+              "type": "choice",
+              "content": "我不能去"
+            },
+            {
+              "id": "step_1775717541199",
+              "type": "choice",
+              "content": "拥抱她"
+            },
+            {
+              "id": "step_1775717541348",
+              "type": "choice",
+              "content": "看着和纱的睡脸"
+            },
+            {
+              "id": "step_1775717541478",
+              "type": "choice",
+              "content": "想要抱紧她"
+            },
+            {
+              "id": "step_1775717541619",
+              "type": "choice",
+              "content": "看着和纱的眼睛"
+            },
+            {
+              "id": "step_1775717541729",
+              "type": "choice",
+              "content": "老实地说出和纱的事"
+            },
+            {
+              "id": "step_1775717598415",
+              "type": "choice",
+              "content": "把脸背过去"
+            },
+            {
+              "id": "step_1775717598571",
+              "type": "choice",
+              "content": "我爱着雪菜"
+            }
+          ]
+        },
+        {
+          "id": "ending_1775717605726",
+          "name": "冬马 END2",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_1775717614740",
+              "type": "choice",
+              "content": "两年前开始交往的"
+            },
+            {
+              "id": "step_1775717614894",
+              "type": "choice",
+              "content": "已经见过和纱了"
+            },
+            {
+              "id": "step_1775717615037",
+              "type": "choice",
+              "content": "只有这些"
+            },
+            {
+              "id": "step_1775717615181",
+              "type": "choice",
+              "content": "不想跟任何人说"
+            },
+            {
+              "id": "step_1775717615334",
+              "type": "choice",
+              "content": "我做过不主动打电话给她的约定"
+            },
+            {
+              "id": "step_1775717615491",
+              "type": "choice",
+              "content": "因为这是为了和纱"
+            },
+            {
+              "id": "step_1775717615646",
+              "type": "choice",
+              "content": "我不会去"
+            },
+            {
+              "id": "step_1775717615792",
+              "type": "choice",
+              "content": "拥抱她"
+            },
+            {
+              "id": "step_1775717615953",
+              "type": "choice",
+              "content": "看着和纱的睡脸"
+            },
+            {
+              "id": "step_1775717616078",
+              "type": "choice",
+              "content": "想要，一直留在这里"
+            },
+            {
+              "id": "step_1775717616233",
+              "type": "choice",
+              "content": "看着和纱的眼睛"
+            },
+            {
+              "id": "step_1775717616375",
+              "type": "choice",
+              "content": "我只是，想和雪菜见面罢了"
+            },
+            {
+              "id": "step_1775717616509",
+              "type": "choice",
+              "content": "把脸背过去"
+            },
+            {
+              "id": "step_1775717616651",
+              "type": "choice",
+              "content": "我无法对和纱说谎"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

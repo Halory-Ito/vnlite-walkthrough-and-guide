@@ -1,0 +1,1028 @@
+{
+  "vid": "v37716",
+  "name": {
+    "zh-cn": "与鲨鱼共度的七日间",
+    "ja-jp": "サメと生きる七日間",
+    "ja-Latn": "same-to-ikiru-nanokakan"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-13",
+  "tips": [
+    "☆选项可以随意选择",
+    "船堀需在其他五人之后攻略",
+    "设置中开启路线提示可以显示头像"
+  ],
+  "routes": [
+    {
+      "id": "route_1761660953103",
+      "name": "保城 丽水",
+      "endings": [
+        {
+          "id": "ending_1761660975341",
+          "name": "END 1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1761660977516",
+              "type": "choice",
+              "content": "【START】"
+            },
+            {
+              "id": "step_1761660978534",
+              "type": "choice",
+              "content": "金色",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_1761660978699",
+              "type": "choice",
+              "content": "泳衣",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_1761660978902",
+              "type": "choice",
+              "content": "和欺凌的人讲道理",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_1761660979081",
+              "type": "choice",
+              "content": "巨乳",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_1761660979252",
+              "type": "choice",
+              "content": "普通的鲨鱼",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_1761660979414",
+              "type": "choice",
+              "content": "雪山",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_1761660979597",
+              "type": "choice",
+              "content": "喜欢"
+            },
+            {
+              "id": "step_1761660979833",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1761660980033",
+              "type": "choice",
+              "content": "保城丽水│丽水"
+            },
+            {
+              "id": "step_1761661054422",
+              "type": "choice",
+              "content": "感觉游泳能变得更厉害！│库可"
+            },
+            {
+              "id": "step_1761661054666",
+              "type": "choice",
+              "content": "帮她洗澡│库可"
+            },
+            {
+              "id": "step_1761661054846",
+              "type": "choice",
+              "content": "保城丽水│丽水"
+            },
+            {
+              "id": "step_1761661055017",
+              "type": "choice",
+              "content": "对于鲨鱼的危害│丽水"
+            },
+            {
+              "id": "step_1761661055172",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1761661055330",
+              "type": "choice",
+              "content": "保城丽水│丽水"
+            },
+            {
+              "id": "step_1761661055488",
+              "type": "choice",
+              "content": "找丽水搭话│丽水"
+            },
+            {
+              "id": "step_1761661055653",
+              "type": "choice",
+              "content": "不说"
+            },
+            {
+              "id": "step_1761661055827",
+              "type": "choice",
+              "content": "算了，不用吹风机等自然干"
+            },
+            {
+              "id": "step_1761661056005",
+              "type": "choice",
+              "content": "保城丽水│丽水"
+            },
+            {
+              "id": "step_1761661101012",
+              "type": "choice",
+              "content": "一起去"
+            },
+            {
+              "id": "step_1761661101215",
+              "type": "choice",
+              "content": "保城丽水│丽水"
+            },
+            {
+              "id": "step_1761661101389",
+              "type": "choice",
+              "content": "金色",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_1761661101568",
+              "type": "choice",
+              "content": "泳衣",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_1761661101745",
+              "type": "choice",
+              "content": "和欺凌的人讲道理",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_1761661101896",
+              "type": "choice",
+              "content": "巨乳",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_1761661102072",
+              "type": "choice",
+              "content": "普通的鲨鱼",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_1761661102255",
+              "type": "choice",
+              "content": "雪山",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_1761661102453",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_1761661102642",
+              "type": "choice",
+              "content": "是│丽水"
+            },
+            {
+              "id": "step_1761661505653",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_1761661506461",
+              "type": "choice",
+              "content": "回家│丽水"
+            }
+          ]
+        },
+        {
+          "id": "ending_1761661639092",
+          "name": "END 2",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_1761661693794",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_1761661700043",
+              "type": "choice",
+              "content": "离开小岛"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1761661763374",
+      "name": "眠深 真瑠璃",
+      "endings": [
+        {
+          "id": "ending_1761661781551",
+          "name": "END 1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1761661809298",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1761661810498",
+              "type": "choice",
+              "content": "眠深真瑠璃│真瑠璃"
+            },
+            {
+              "id": "step_1761661810642",
+              "type": "choice",
+              "content": "你想当鲨鱼吗？"
+            },
+            {
+              "id": "step_1761661810800",
+              "type": "choice",
+              "content": "拒绝帮她洗"
+            },
+            {
+              "id": "step_1761661810944",
+              "type": "choice",
+              "content": "眠深真瑠璃│真瑠璃"
+            },
+            {
+              "id": "step_1761661811083",
+              "type": "choice",
+              "content": "对于自己的朋友关系│真瑠璃"
+            },
+            {
+              "id": "step_1761661811230",
+              "type": "choice",
+              "content": "眠深真瑠璃│真瑠璃"
+            },
+            {
+              "id": "step_1761661811393",
+              "type": "choice",
+              "content": "和真瑠璃聊天│真瑠璃"
+            },
+            {
+              "id": "step_1761661811663",
+              "type": "choice",
+              "content": "不说"
+            },
+            {
+              "id": "step_1761661812274",
+              "type": "choice",
+              "content": "算了，不用吹风机等自然干"
+            },
+            {
+              "id": "step_1761661813176",
+              "type": "choice",
+              "content": "眠深真瑠璃│真瑠璃"
+            },
+            {
+              "id": "step_1761661877725",
+              "type": "choice",
+              "content": "不一起去"
+            },
+            {
+              "id": "step_1761661877882",
+              "type": "choice",
+              "content": "眠深真瑠璃│真瑠璃"
+            },
+            {
+              "id": "step_1761661878049",
+              "type": "choice",
+              "content": "紫色",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_1761661878212",
+              "type": "choice",
+              "content": "泳衣",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_1761661878391",
+              "type": "choice",
+              "content": "漫画",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_1761661878554",
+              "type": "choice",
+              "content": "去帮助她",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_1761661878704",
+              "type": "choice",
+              "content": "微乳",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_1761661878872",
+              "type": "choice",
+              "content": "龙卷风鲨鱼",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_1761661879045",
+              "type": "choice",
+              "content": "沙漠",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_1761661879221",
+              "type": "choice",
+              "content": "是│真瑠璃（被欺凌的人）"
+            },
+            {
+              "id": "step_1761661879412",
+              "type": "save",
+              "content": "SAVE 5"
+            },
+            {
+              "id": "step_1761661947565",
+              "type": "choice",
+              "content": "继续活在这里│真瑠璃"
+            }
+          ]
+        },
+        {
+          "id": "ending_1761661781940",
+          "name": "END 2",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_1761661975990",
+              "type": "load",
+              "content": "LOAD 5"
+            },
+            {
+              "id": "step_1761661982978",
+              "type": "choice",
+              "content": "逃离这座小岛"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1761662001822",
+      "name": "吉切 远花",
+      "endings": [
+        {
+          "id": "ending_1761662021432",
+          "name": "END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1761662039334",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1761662042712",
+              "type": "choice",
+              "content": "吉切远花│远花"
+            },
+            {
+              "id": "step_1761662042877",
+              "type": "choice",
+              "content": "对人类来讲背鳍是长不出来"
+            },
+            {
+              "id": "step_1761662043042",
+              "type": "choice",
+              "content": "拒绝帮她洗"
+            },
+            {
+              "id": "step_1761662043390",
+              "type": "choice",
+              "content": "吉切远花│远花"
+            },
+            {
+              "id": "step_1761662043583",
+              "type": "choice",
+              "content": "对于隔壁座的她│远花"
+            },
+            {
+              "id": "step_1761662043774",
+              "type": "choice",
+              "content": "吉切远花│远花"
+            },
+            {
+              "id": "step_1761662043940",
+              "type": "choice",
+              "content": "去"
+            },
+            {
+              "id": "step_1761662044285",
+              "type": "choice",
+              "content": "去图书馆│远花"
+            },
+            {
+              "id": "step_1761662047160",
+              "type": "choice",
+              "content": "不说"
+            },
+            {
+              "id": "step_1761662047342",
+              "type": "choice",
+              "content": "算了，不用吹风机等自然干"
+            },
+            {
+              "id": "step_1761662047489",
+              "type": "choice",
+              "content": "吉切远花│远花"
+            },
+            {
+              "id": "step_1761662047813",
+              "type": "choice",
+              "content": "一起去"
+            },
+            {
+              "id": "step_1761662047975",
+              "type": "choice",
+              "content": "吉切远花│远花"
+            },
+            {
+              "id": "step_1761662048123",
+              "type": "choice",
+              "content": "黑色",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_1761662157522",
+              "type": "choice",
+              "content": "参考书",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_1761662157702",
+              "type": "choice",
+              "content": "去叫帮手",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_1761662157898",
+              "type": "choice",
+              "content": "贫乳",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_1761662158301",
+              "type": "choice",
+              "content": "巨大的鲨鱼",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_1761662187408",
+              "type": "choice",
+              "content": "城市",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_1761662216021",
+              "type": "choice",
+              "content": "是│远花（章鱼神传说）"
+            },
+            {
+              "id": "step_1761662216218",
+              "type": "choice",
+              "content": "书架"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1761662233565",
+      "name": "天竺 天音",
+      "endings": [
+        {
+          "id": "ending_1761662253311",
+          "name": "END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1761662260796",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1761662263556",
+              "type": "choice",
+              "content": "天竺天音│天音"
+            },
+            {
+              "id": "step_1761662264474",
+              "type": "save",
+              "content": "SAVE 6"
+            },
+            {
+              "id": "step_1761662272353",
+              "type": "choice",
+              "content": "去商店街│天音"
+            },
+            {
+              "id": "step_1761662272521",
+              "type": "choice",
+              "content": "不说"
+            },
+            {
+              "id": "step_1761662272737",
+              "type": "choice",
+              "content": "算了，不用吹风机等自然干"
+            },
+            {
+              "id": "step_1761662273055",
+              "type": "choice",
+              "content": "眠深真瑠璃│真瑠璃"
+            },
+            {
+              "id": "step_1761662273405",
+              "type": "choice",
+              "content": "天竺天音│天音"
+            },
+            {
+              "id": "step_1761662273578",
+              "type": "choice",
+              "content": "不一起去"
+            },
+            {
+              "id": "step_1761662273758",
+              "type": "choice",
+              "content": "天竺天音│天音"
+            },
+            {
+              "id": "step_1761662303325",
+              "type": "choice",
+              "content": "红色",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_1761662303491",
+              "type": "choice",
+              "content": "武器",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_1761662303622",
+              "type": "choice",
+              "content": "打倒欺凌的人",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_1761662303765",
+              "type": "choice",
+              "content": "普乳",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_1761662303921",
+              "type": "choice",
+              "content": "飞行鲨鱼",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_1761662330877",
+              "type": "choice",
+              "content": "宇宙",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_1761662341031",
+              "type": "choice",
+              "content": "是│天音（炒面）"
+            },
+            {
+              "id": "step_1761662349647",
+              "type": "choice",
+              "content": "否",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_1761662373592",
+              "type": "choice",
+              "content": "……",
+              "prefix": "☆"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1761662383688",
+      "name": "库可",
+      "endings": [
+        {
+          "id": "ending_1761662424610",
+          "name": "END 1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1761662429848",
+              "type": "load",
+              "content": "LOAD 6"
+            },
+            {
+              "id": "step_1761662436703",
+              "type": "choice",
+              "content": "担心库可的情况│库可"
+            },
+            {
+              "id": "step_1761662436863",
+              "type": "choice",
+              "content": "说出来│库可"
+            },
+            {
+              "id": "step_1761662437043",
+              "type": "choice",
+              "content": "用吹风机吹头│库可"
+            },
+            {
+              "id": "step_1761662437185",
+              "type": "choice",
+              "content": "眠深真瑠璃│真瑠璃"
+            },
+            {
+              "id": "step_1761662437360",
+              "type": "choice",
+              "content": "库可│库可"
+            },
+            {
+              "id": "step_1761662437559",
+              "type": "choice",
+              "content": "一起去"
+            },
+            {
+              "id": "step_1761662438457",
+              "type": "choice",
+              "content": "库可│库可"
+            },
+            {
+              "id": "step_1761662473171",
+              "type": "choice",
+              "content": "蓝色",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_1761662473324",
+              "type": "choice",
+              "content": "准备一艘船",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_1761662473488",
+              "type": "choice",
+              "content": "和他一起被欺负",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_1761662473651",
+              "type": "choice",
+              "content": "无乳",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_1761662497720",
+              "type": "choice",
+              "content": "丧尸鲨鱼",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_1761662497933",
+              "type": "choice",
+              "content": "家里",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_1761662511043",
+              "type": "choice",
+              "content": "是│库可（迷路的孩子）"
+            },
+            {
+              "id": "step_1761662520139",
+              "type": "save",
+              "content": "SAVE 7"
+            },
+            {
+              "id": "step_1761662543395",
+              "type": "choice",
+              "content": "休息│库可"
+            },
+            {
+              "id": "step_1761662550193",
+              "type": "choice",
+              "content": "男",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_1761662550446",
+              "type": "choice",
+              "content": "肌肉狂魔",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_1761662550789",
+              "type": "choice",
+              "content": "中年人",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_1761662551169",
+              "type": "choice",
+              "content": "对方好像是没有说啥",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_1761662552189",
+              "type": "save",
+              "content": "SAVE 8"
+            },
+            {
+              "id": "step_1761662574055",
+              "type": "choice",
+              "content": "去接电话│库可"
+            },
+            {
+              "id": "step_1761662574238",
+              "type": "choice",
+              "content": "船堀姐"
+            }
+          ]
+        },
+        {
+          "id": "ending_1761662607236",
+          "name": "END 2",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_1761662618554",
+              "type": "load",
+              "content": "LOAD 7"
+            },
+            {
+              "id": "step_1761662622864",
+              "type": "choice",
+              "content": "不休息"
+            }
+          ]
+        },
+        {
+          "id": "ending_1761662654064",
+          "name": "END 3",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1761662687652",
+              "type": "load",
+              "content": "LOAD 8"
+            },
+            {
+              "id": "step_1761662692001",
+              "type": "choice",
+              "content": "不接电话"
+            }
+          ]
+        },
+        {
+          "id": "ending_1761662654530",
+          "name": "END 4",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1761662716134",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1761662720141",
+              "type": "choice",
+              "content": "否（所有进线的选项全部选否之后随便选）"
+            },
+            {
+              "id": "step_1761662720436",
+              "type": "choice",
+              "content": "…………",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_1761662733860",
+              "type": "note",
+              "content": "没有进入任何线路，返回标题画面"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1761662744170",
+      "name": "船堀姐姐",
+      "endings": [
+        {
+          "id": "ending_1761662752661",
+          "name": "END 1",
+          "type": "normal",
+          "requirements": "从头开始",
+          "steps": [
+            {
+              "id": "step_1761662773230",
+              "type": "choice",
+              "content": "没有喜欢的颜色",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_1761662773400",
+              "type": "choice",
+              "content": "没兴趣",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_1761662796749",
+              "type": "choice",
+              "content": "不喜欢"
+            },
+            {
+              "id": "step_1761662796907",
+              "type": "choice",
+              "content": "眠深真瑠璃│真瑠璃"
+            },
+            {
+              "id": "step_1761662797070",
+              "type": "choice",
+              "content": "对人类来讲背鳍是长不出来"
+            },
+            {
+              "id": "step_1761662797220",
+              "type": "choice",
+              "content": "拒绝帮她洗"
+            },
+            {
+              "id": "step_1761662797368",
+              "type": "choice",
+              "content": "眠深真瑠璃│真瑠璃"
+            },
+            {
+              "id": "step_1761662797518",
+              "type": "choice",
+              "content": "对于隔壁座的她│远花"
+            },
+            {
+              "id": "step_1761662797676",
+              "type": "choice",
+              "content": "天竺天音│天音"
+            },
+            {
+              "id": "step_1761662797828",
+              "type": "choice",
+              "content": "去商店街│天音"
+            },
+            {
+              "id": "step_1761662797990",
+              "type": "choice",
+              "content": "不说"
+            },
+            {
+              "id": "step_1761662798151",
+              "type": "choice",
+              "content": "算了，不用吹风机等自然干"
+            },
+            {
+              "id": "step_1761662830619",
+              "type": "choice",
+              "content": "吉切远花│远花"
+            },
+            {
+              "id": "step_1761662830788",
+              "type": "choice",
+              "content": "保城丽水│丽水"
+            },
+            {
+              "id": "step_1761662830967",
+              "type": "choice",
+              "content": "不一起去"
+            },
+            {
+              "id": "step_1761662831119",
+              "type": "choice",
+              "content": "船堀姐│船堀"
+            },
+            {
+              "id": "step_1761662831290",
+              "type": "choice",
+              "content": "茶色",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_1761662831461",
+              "type": "choice",
+              "content": "准备一艘船",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_1761662831974",
+              "type": "choice",
+              "content": "旁观",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_1761662866273",
+              "type": "choice",
+              "content": "能有多大就多大",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_1761662866425",
+              "type": "choice",
+              "content": "机械鲨鱼",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_1761662866586",
+              "type": "choice",
+              "content": "这些选项里没有",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_1761662866741",
+              "type": "choice",
+              "content": "救助鲨鱼的思念我有│船堀"
+            },
+            {
+              "id": "step_1761662866880",
+              "type": "choice",
+              "content": "你是指哪个青梅竹马?│船堀"
+            },
+            {
+              "id": "step_1761662867055",
+              "type": "choice",
+              "content": "我喜欢章鱼烧│船堀"
+            },
+            {
+              "id": "step_1761662867218",
+              "type": "choice",
+              "content": "找到了章鱼神的神体│船堀"
+            },
+            {
+              "id": "step_1761662867389",
+              "type": "choice",
+              "content": "祭品的女性…和船堀姐你很像耶│船堀"
+            },
+            {
+              "id": "step_1761662901883",
+              "type": "save",
+              "content": "SAVE 9"
+            },
+            {
+              "id": "step_1761662910228",
+              "type": "choice",
+              "content": "成为船堀姐的同伴│船堀"
+            },
+            {
+              "id": "step_1761662910392",
+              "type": "choice",
+              "content": "说服天音"
+            }
+          ]
+        },
+        {
+          "id": "ending_1761662923051",
+          "name": "END 2",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_1761662935187",
+              "type": "load",
+              "content": "LOAD 9"
+            },
+            {
+              "id": "step_1761662940251",
+              "type": "choice",
+              "content": "忘却一切得到解脱"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1761662955296",
+      "name": "后宫 END",
+      "endings": [
+        {
+          "id": "ending_1761662972172",
+          "name": "后宫END",
+          "type": "normal",
+          "requirements": "船堀姐姐END后从标题画面选择GRAND ROUTE",
+          "steps": [
+            {
+              "type": "choice",
+              "content": "（源站步骤均为空）"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

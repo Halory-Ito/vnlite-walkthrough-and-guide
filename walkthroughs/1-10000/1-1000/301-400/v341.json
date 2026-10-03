@@ -1,0 +1,325 @@
+{
+  "vid": "v341",
+  "name": {
+    "zh-cn": "哈比☆玛格丽特！",
+    "en-us": "Hoshizora no Memoria -Wish upon a Shooting Star-",
+    "ja-jp": "はっぴぃ☆マーガレット！",
+    "ja-Latn": "happy-margaret"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-12",
+  "routes": [
+    {
+      "id": "route_1757505709175",
+      "name": "天ヶ原稻穗",
+      "endings": [
+        {
+          "id": "ending_1757505718869",
+          "name": "天ヶ原稻穗 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1757505726698",
+              "type": "choice",
+              "content": "从校内开始"
+            },
+            {
+              "id": "step_1757505726854",
+              "type": "choice",
+              "content": "尝试去操场看看"
+            },
+            {
+              "id": "step_1757505727083",
+              "type": "choice",
+              "content": "我对日本庭园很感兴趣"
+            },
+            {
+              "id": "step_1757505728591",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1757505753044",
+              "type": "choice",
+              "content": "个人情况"
+            },
+            {
+              "id": "step_1757505753416",
+              "type": "choice",
+              "content": "我坦率地回答"
+            },
+            {
+              "id": "step_1757505753964",
+              "type": "choice",
+              "content": "我相信她，但是……"
+            },
+            {
+              "id": "step_1757505754496",
+              "type": "choice",
+              "content": "反驳"
+            },
+            {
+              "id": "step_1757505754955",
+              "type": "choice",
+              "content": "为了自己，也要好好思考。"
+            },
+            {
+              "id": "step_1757505755354",
+              "type": "choice",
+              "content": "别胡说八道了"
+            },
+            {
+              "id": "step_1757505756554",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1757505757194",
+              "type": "choice",
+              "content": "稻穂"
+            },
+            {
+              "id": "step_1757505758809",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_1757505759800",
+              "type": "choice",
+              "content": "我仔细听"
+            },
+            {
+              "id": "step_1757505760466",
+              "type": "choice",
+              "content": "好好好，我会等你的。"
+            },
+            {
+              "id": "step_1757505760976",
+              "type": "choice",
+              "content": "稻穗就是稻穗，对吧"
+            },
+            {
+              "id": "step_1757505761627",
+              "type": "choice",
+              "content": "我什么都没法说"
+            },
+            {
+              "id": "step_1757505762222",
+              "type": "choice",
+              "content": "打开门"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1757505804487",
+      "name": "北乃路 希",
+      "endings": [
+        {
+          "id": "ending_1757505810974",
+          "name": "希 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1757505812681",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1757505815746",
+              "type": "choice",
+              "content": "希小姐"
+            },
+            {
+              "id": "step_1757505815934",
+              "type": "choice",
+              "content": "我还是很担心希"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1757505884582",
+      "name": "石蕗 晶",
+      "endings": [
+        {
+          "id": "ending_1757505935149",
+          "name": "晶 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1757505955429",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1757505958370",
+              "type": "choice",
+              "content": "晶"
+            },
+            {
+              "id": "step_1757505958553",
+              "type": "choice",
+              "content": "看着不寻常的晶，我无法忍受"
+            },
+            {
+              "id": "step_1757505958841",
+              "type": "choice",
+              "content": "我最喜欢你了"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1757505968077",
+      "name": "南初瀬 花梨",
+      "endings": [
+        {
+          "id": "ending_1757506008412",
+          "name": "花梨 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1757506039062",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1757506041132",
+              "type": "choice",
+              "content": "家庭情况"
+            },
+            {
+              "id": "step_1757506041363",
+              "type": "choice",
+              "content": "稍微想一下"
+            },
+            {
+              "id": "step_1757506041733",
+              "type": "choice",
+              "content": "相信她"
+            },
+            {
+              "id": "step_1757506042162",
+              "type": "choice",
+              "content": "接受"
+            },
+            {
+              "id": "step_1757506042532",
+              "type": "choice",
+              "content": "如果是为了大家……"
+            },
+            {
+              "id": "step_1757506042961",
+              "type": "choice",
+              "content": "思考并想办法解决"
+            },
+            {
+              "id": "step_1757506045551",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_1757506047819",
+              "type": "choice",
+              "content": "花梨公主"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1757505973689",
+      "name": "凛东 彩月",
+      "endings": [
+        {
+          "id": "ending_1757506096722",
+          "name": "彩月 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1757506098661",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_1757506102981",
+              "type": "choice",
+              "content": "凛东"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1757505973942",
+      "name": "西宮 静琉",
+      "endings": [
+        {
+          "id": "ending_1757506144068",
+          "name": "静琉 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1757506166198",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_1757506168077",
+              "type": "choice",
+              "content": "西宫"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1757506188093",
+      "name": "真央(さくら)",
+      "endings": [
+        {
+          "id": "ending_1757506189380",
+          "name": "真央 END",
+          "type": "normal",
+          "requirements": "在其他角色攻略之后",
+          "steps": [
+            {
+              "id": "step_1757506241851",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_1757506245356",
+              "type": "choice",
+              "content": "我绝对不在意"
+            },
+            {
+              "id": "step_1757506245529",
+              "type": "choice",
+              "content": "我可以先回去吗？"
+            },
+            {
+              "id": "step_1757506245849",
+              "type": "choice",
+              "content": "嗯……妹妹？"
+            },
+            {
+              "id": "step_1757506246593",
+              "type": "choice",
+              "content": "如果真的是妹妹的话……"
+            },
+            {
+              "id": "step_1757506246941",
+              "type": "choice",
+              "content": "我无法打开"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

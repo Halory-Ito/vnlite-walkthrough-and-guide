@@ -1,0 +1,82 @@
+{
+  "vid": "v1551",
+  "name": {
+    "zh-cn": "Signal Heart",
+    "en-us": "Signal Heart",
+    "ja-jp": "シグナルハート",
+    "ja-Latn": "signal-heart"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-14",
+  "routes": [
+    {
+      "id": "route_game",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_nagisa_end",
+          "name": "渚 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_nagisa_01",
+              "type": "choice",
+              "content": "渚"
+            }
+          ]
+        },
+        {
+          "id": "ending_akira_end",
+          "name": "瑛 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_akira_01",
+              "type": "note",
+              "content": "从最初开始"
+            },
+            {
+              "id": "step_akira_02",
+              "type": "choice",
+              "content": "瑛"
+            }
+          ]
+        },
+        {
+          "id": "ending_chisa_end",
+          "name": "智沙 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_chisa_01",
+              "type": "note",
+              "content": "从最初开始"
+            },
+            {
+              "id": "step_chisa_02",
+              "type": "choice",
+              "content": "智沙"
+            }
+          ]
+        },
+        {
+          "id": "ending_kokone_end",
+          "name": "ここね END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_kokone_01",
+              "type": "note",
+              "content": "从最初开始"
+            },
+            {
+              "id": "step_kokone_02",
+              "type": "choice",
+              "content": "ここね"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

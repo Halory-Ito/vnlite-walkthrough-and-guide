@@ -1,0 +1,154 @@
+{
+  "vid": "v15426",
+  "name": {
+    "zh-cn": "雨恋",
+    "ja-jp": "雨恋",
+    "ja-Latn": "ame-koi"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-16",
+  "routes": [
+    {
+      "id": "route_game",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_end1",
+          "name": "END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_end1_1",
+              "type": "choice",
+              "content": "夺回少女的故事",
+              "prefix": "★",
+              "group": "1周目"
+            },
+            {
+              "id": "step_end1_4",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_end1_5",
+              "type": "choice",
+              "content": "这是该犹豫的场合吗"
+            },
+            {
+              "id": "step_end1_6",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_end1_7",
+              "type": "choice",
+              "content": "喜欢瑞希"
+            }
+          ]
+        },
+        {
+          "id": "ending_end2",
+          "name": "END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_end2_1",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_end2_2",
+              "type": "choice",
+              "content": "喜欢瑞穂"
+            }
+          ]
+        },
+        {
+          "id": "ending_bad",
+          "name": "END3",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_bad_1",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_bad_2",
+              "type": "choice",
+              "content": "先冷静下来等一等"
+            }
+          ]
+        },
+        {
+          "id": "ending_true",
+          "name": "END4",
+          "type": "true",
+          "requirements": "2周目从最初开始",
+          "steps": [
+            {
+              "id": "step_true_3",
+              "type": "choice",
+              "content": "与新认识少女的故事",
+              "prefix": "★"
+            },
+            {
+              "id": "step_true_6",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_true_7",
+              "type": "choice",
+              "content": "这样下去不太好"
+            },
+            {
+              "id": "step_true_10",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_true_11",
+              "type": "choice",
+              "content": "想要忘记瑞穂"
+            }
+          ]
+        },
+        {
+          "id": "ending_end3",
+          "name": "END5",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_end3_1",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_end3_2",
+              "type": "choice",
+              "content": "高兴就好，随她去吧"
+            }
+          ]
+        },
+        {
+          "id": "ending_end4",
+          "name": "END6",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_end4_1",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_end4_2",
+              "type": "choice",
+              "content": "想要见到瑞穂"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

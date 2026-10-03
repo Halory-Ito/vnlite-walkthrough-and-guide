@@ -1,0 +1,114 @@
+{
+  "vid": "v10983",
+  "name": {
+    "zh-cn": "少女骑士物语 More＆More",
+    "ja-jp": "ワルキューレロマンツェ More＆More",
+    "ja-Latn": "walkure-romanze-more-more"
+  },
+  "level": 2,
+  "updatedAt": "2026-04-13",
+  "routes": [
+    {
+      "id": "route_game_guide",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_akane_end",
+          "name": "茜 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_akane_01",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_akane_02",
+              "type": "choice",
+              "content": "明天去问问看吧"
+            },
+            {
+              "id": "step_akane_03",
+              "type": "choice",
+              "content": "对安和艾玛感到抱歉"
+            },
+            {
+              "id": "step_akane_04",
+              "type": "choice",
+              "content": "轻轻地责备"
+            },
+            {
+              "id": "step_akane_05",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_akane_06",
+              "type": "choice",
+              "content": "邀请茜"
+            },
+            {
+              "id": "step_akane_07",
+              "type": "choice",
+              "content": "担心塔尔特时间的事"
+            }
+          ]
+        },
+        {
+          "id": "ending_ayako_end",
+          "name": "绫子 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_ayako_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_ayako_02",
+              "type": "choice",
+              "content": "不邀请茜"
+            },
+            {
+              "id": "step_ayako_03",
+              "type": "choice",
+              "content": "担心绫子"
+            }
+          ]
+        },
+        {
+          "id": "ending_bettyle_end",
+          "name": "贝蒂尔 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_bettyle_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_bettyle_02",
+              "type": "choice",
+              "content": "或许最好还是不要打扰她"
+            },
+            {
+              "id": "step_bettyle_03",
+              "type": "choice",
+              "content": "如果只是一些轻微的建议的话"
+            },
+            {
+              "id": "step_bettyle_04",
+              "type": "choice",
+              "content": "就正常地告诉她吧"
+            },
+            {
+              "id": "step_bettyle_05",
+              "type": "choice",
+              "content": "生气于爱丽丝"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

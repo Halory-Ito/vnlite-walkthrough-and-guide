@@ -1,0 +1,587 @@
+{
+  "vid": "v18152",
+  "name": {
+    "zh-cn": "FLOWERS 秋篇",
+    "en-us": "Flowers -Le volume sur automne-",
+    "ja-jp": "FLOWERS 秋篇",
+    "ja-Latn": "flowers-le-volume-sur-automne"
+  },
+  "level": 1,
+  "updatedAt": "2026-05-07",
+  "routes": [
+    {
+      "id": "route_shirahane",
+      "name": "白羽苏芳",
+      "endings": [
+        {
+          "id": "ending_shirahane_true",
+          "name": "白羽苏芳 TRUE END",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_s_01",
+              "type": "choice",
+              "content": "除了你，没有其他于我而言特别的人"
+            },
+            {
+              "id": "step_s_02",
+              "type": "choice",
+              "content": "其实我的兴趣就是养花"
+            },
+            {
+              "id": "step_s_03",
+              "type": "choice",
+              "content": "像草莓君这种类型的吧"
+            },
+            {
+              "id": "step_s_04",
+              "type": "choice",
+              "content": "松饼吧"
+            },
+            {
+              "id": "step_s_05",
+              "type": "choice",
+              "content": "采用考崎君的建议"
+            },
+            {
+              "id": "step_s_06",
+              "type": "choice",
+              "content": "有些羡慕"
+            },
+            {
+              "id": "step_s_07",
+              "type": "choice",
+              "content": "至今有喜欢过什么人吗？"
+            },
+            {
+              "id": "step_s_08",
+              "type": "choice",
+              "content": "比起这个我更在意草莓君打算穿什么"
+            },
+            {
+              "id": "step_s_09",
+              "type": "choice",
+              "content": "养狗吧"
+            },
+            {
+              "id": "step_s_10",
+              "type": "choice",
+              "content": "你去撩她一下怎么样？"
+            },
+            {
+              "id": "step_s_11",
+              "type": "choice",
+              "content": "《绿野仙踪》……"
+            },
+            {
+              "id": "step_s_12",
+              "type": "choice",
+              "content": "调戏一下考崎君吧"
+            },
+            {
+              "id": "step_s_13",
+              "type": "choice",
+              "content": "在芥川龙之介的小说里读到过"
+            },
+            {
+              "id": "step_s_14",
+              "type": "choice",
+              "content": "因为会像宝箱怪一样张嘴咬过来"
+            },
+            {
+              "id": "step_s_15",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_s_16",
+              "type": "choice",
+              "content": "为了陷害某人而制造骗局"
+            },
+            {
+              "id": "step_s_17",
+              "type": "choice",
+              "content": "憎恨情敌而撕裂"
+            },
+            {
+              "id": "step_s_18",
+              "type": "choice",
+              "content": "和苏芳君一起比较好"
+            },
+            {
+              "id": "step_s_19",
+              "type": "choice",
+              "content": "昨天你看到我换发型的样子了吧……"
+            },
+            {
+              "id": "step_s_20",
+              "type": "choice",
+              "content": "读书吧"
+            },
+            {
+              "id": "step_s_21",
+              "type": "choice",
+              "content": "我身上带着甜香气味的话会很奇怪吧"
+            },
+            {
+              "id": "step_s_22",
+              "type": "choice",
+              "content": "看来对苏芳君没办法说谎"
+            },
+            {
+              "id": "step_s_23",
+              "type": "choice",
+              "content": "我想听听苏芳君的歌声"
+            },
+            {
+              "id": "step_s_24",
+              "type": "choice",
+              "content": "谢谢你关心我"
+            },
+            {
+              "id": "step_s_25",
+              "type": "choice",
+              "content": "方喰宿管吗？"
+            },
+            {
+              "id": "step_s_26",
+              "type": "choice",
+              "content": "意思是把自己当作歌手本人来唱？"
+            },
+            {
+              "id": "step_s_27",
+              "type": "choice",
+              "content": "询问脸颊微红的林檎君"
+            },
+            {
+              "id": "step_s_28",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_s_29",
+              "type": "choice",
+              "content": "布袋里残留的蔬菜残渣"
+            },
+            {
+              "id": "step_s_30",
+              "type": "choice",
+              "content": "布袋上残留的痕迹"
+            },
+            {
+              "id": "step_s_31",
+              "type": "choice",
+              "content": "回收利用"
+            },
+            {
+              "id": "step_s_32",
+              "type": "choice",
+              "content": "她知道真相"
+            },
+            {
+              "id": "step_s_33",
+              "type": "choice",
+              "content": "承认"
+            },
+            {
+              "id": "step_s_34",
+              "type": "choice",
+              "content": "连草莓君也开始疏远她了？"
+            },
+            {
+              "id": "step_s_35",
+              "type": "choice",
+              "content": "和她在一起能感到安心"
+            },
+            {
+              "id": "step_s_36",
+              "type": "choice",
+              "content": "我不太想说"
+            },
+            {
+              "id": "step_s_37",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_s_38",
+              "type": "choice",
+              "content": "奈莉奈在日记本里写了看着穿衣镜中的自己"
+            },
+            {
+              "id": "step_s_39",
+              "type": "choice",
+              "content": "足跡圣堂前消失的脚印"
+            },
+            {
+              "id": "step_s_40",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_s_41",
+              "type": "choice",
+              "content": "因为林檎的鞋底左右两侧都沾满了泥"
+            },
+            {
+              "id": "step_s_42",
+              "type": "choice",
+              "content": "沙沙贵莓"
+            },
+            {
+              "id": "step_s_43",
+              "type": "choice",
+              "content": "一起泡澡的约定吗？"
+            },
+            {
+              "id": "step_s_44",
+              "type": "choice",
+              "content": "也许都怪我"
+            }
+          ]
+        },
+        {
+          "id": "ending_shirahane_bad1",
+          "name": "BAD END01",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_b1_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_b1_02",
+              "type": "note",
+              "content": "选择非正确选项"
+            }
+          ]
+        },
+        {
+          "id": "ending_shirahane_bad2",
+          "name": "BAD END02",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_b2_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_b2_02",
+              "type": "note",
+              "content": "选择非正确选项"
+            }
+          ]
+        },
+        {
+          "id": "ending_shirahane_bad3",
+          "name": "BAD END03",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_b3_01",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_b3_02",
+              "type": "note",
+              "content": "选择非正确选项"
+            }
+          ]
+        },
+        {
+          "id": "ending_shirahane_bad4",
+          "name": "BAD END04",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_b4_01",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_b4_02",
+              "type": "note",
+              "content": "选择非正确选项"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_nerine",
+      "name": "小御门奈莉奈",
+      "endings": [
+        {
+          "id": "ending_nerine_end",
+          "name": "奈莉奈 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_n_01",
+              "type": "note",
+              "content": "TRUE END后从最初开始",
+              "prefix": "※"
+            },
+            {
+              "id": "step_n_02",
+              "type": "note",
+              "content": "跳过序章"
+            },
+            {
+              "id": "step_n_03",
+              "type": "choice",
+              "content": "有很多有意思的后辈，可以任我挑选呢"
+            },
+            {
+              "id": "step_n_04",
+              "type": "choice",
+              "content": "只是我众多的爱好之一啦"
+            },
+            {
+              "id": "step_n_05",
+              "type": "choice",
+              "content": "为什么是女人啊……"
+            },
+            {
+              "id": "step_n_06",
+              "type": "choice",
+              "content": "老实说没有特别喜欢的食物"
+            },
+            {
+              "id": "step_n_07",
+              "type": "choice",
+              "content": "弄个乐队也不错啊"
+            },
+            {
+              "id": "step_n_08",
+              "type": "choice",
+              "content": "于基督教而言，这是不可饶恕的吧"
+            },
+            {
+              "id": "step_n_09",
+              "type": "choice",
+              "content": "如何看待女性之间的恋爱？"
+            },
+            {
+              "id": "step_n_10",
+              "type": "choice",
+              "content": "尽可能选不用太下工夫的衣服吧"
+            },
+            {
+              "id": "step_n_11",
+              "type": "choice",
+              "content": "养鸟试试"
+            },
+            {
+              "id": "step_n_12",
+              "type": "choice",
+              "content": "送张生日贺卡怎么样？"
+            },
+            {
+              "id": "step_n_13",
+              "type": "choice",
+              "content": "看看国语辞典如何？"
+            },
+            {
+              "id": "step_n_14",
+              "type": "choice",
+              "content": "用恋爱趣谈来糊弄过去"
+            },
+            {
+              "id": "step_n_15",
+              "type": "choice",
+              "content": "好像是什么自行车吧"
+            },
+            {
+              "id": "step_n_16",
+              "type": "choice",
+              "content": "照直说"
+            },
+            {
+              "id": "step_n_17",
+              "type": "choice",
+              "content": "为了陷害某人而制造骗局"
+            },
+            {
+              "id": "step_n_18",
+              "type": "choice",
+              "content": "憎恨情敌而撕裂"
+            },
+            {
+              "id": "step_n_19",
+              "type": "choice",
+              "content": "和奈莉一起就变成逛吃逛喝了"
+            },
+            {
+              "id": "step_n_20",
+              "type": "choice",
+              "content": "因为在料理部看中的甜点被买完了"
+            },
+            {
+              "id": "step_n_21",
+              "type": "choice",
+              "content": "逛吃逛喝吧"
+            },
+            {
+              "id": "step_n_22",
+              "type": "choice",
+              "content": "的确不喜欢"
+            },
+            {
+              "id": "step_n_23",
+              "type": "choice",
+              "content": "只是被两位美人包围着有些发热而已啦"
+            },
+            {
+              "id": "step_n_24",
+              "type": "choice",
+              "content": "直接回答"
+            },
+            {
+              "id": "step_n_25",
+              "type": "choice",
+              "content": "你要不要和我一起泡？"
+            },
+            {
+              "id": "step_n_26",
+              "type": "choice",
+              "content": "巴斯奎亚教谕？"
+            },
+            {
+              "id": "step_n_27",
+              "type": "choice",
+              "content": "乐句的画面感吗？"
+            },
+            {
+              "id": "step_n_28",
+              "type": "choice",
+              "content": "询问沮丧的草莓君"
+            },
+            {
+              "id": "step_n_29",
+              "type": "choice",
+              "content": "布袋里残留的蔬菜残渣"
+            },
+            {
+              "id": "step_n_30",
+              "type": "choice",
+              "content": "布袋上残留的痕迹"
+            },
+            {
+              "id": "step_n_31",
+              "type": "choice",
+              "content": "回收利用"
+            },
+            {
+              "id": "step_n_32",
+              "type": "choice",
+              "content": "她知道真相"
+            },
+            {
+              "id": "step_n_33",
+              "type": "choice",
+              "content": "装傻"
+            },
+            {
+              "id": "step_n_34",
+              "type": "choice",
+              "content": "巴斯奎亚教谕把事情闹大了？"
+            },
+            {
+              "id": "step_n_35",
+              "type": "choice",
+              "content": "因为她喜欢我"
+            },
+            {
+              "id": "step_n_36",
+              "type": "choice",
+              "content": "父亲吧，他是我的依靠"
+            },
+            {
+              "id": "step_n_37",
+              "type": "choice",
+              "content": "奈莉奈在日记本里写了看着穿衣镜中的自己"
+            },
+            {
+              "id": "step_n_38",
+              "type": "choice",
+              "content": "圣堂前消失的脚印"
+            },
+            {
+              "id": "step_n_39",
+              "type": "choice",
+              "content": "因为林檎的鞋底左右两侧都沾满了泥"
+            },
+            {
+              "id": "step_n_40",
+              "type": "choice",
+              "content": "沙沙贵莓"
+            },
+            {
+              "id": "step_n_41",
+              "type": "save",
+              "content": "SAVE 5"
+            },
+            {
+              "id": "step_n_42",
+              "type": "choice",
+              "content": "恋慕着让叶"
+            },
+            {
+              "id": "step_n_43",
+              "type": "choice",
+              "content": "我不知道你在说什么"
+            },
+            {
+              "id": "step_n_44",
+              "type": "choice",
+              "content": "也许是林檎那件事……"
+            },
+            {
+              "id": "step_n_45",
+              "type": "save",
+              "content": "SAVE 6"
+            },
+            {
+              "id": "step_n_46",
+              "type": "choice",
+              "content": "小御门奈莉奈"
+            }
+          ]
+        },
+        {
+          "id": "ending_futago",
+          "name": "双子 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_f_01",
+              "type": "load",
+              "content": "LOAD 5"
+            },
+            {
+              "id": "step_f_02",
+              "type": "choice",
+              "content": "恋慕着草莓"
+            }
+          ]
+        },
+        {
+          "id": "ending_ringo",
+          "name": "沙沙贵林檎 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_r_01",
+              "type": "load",
+              "content": "LOAD 6"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

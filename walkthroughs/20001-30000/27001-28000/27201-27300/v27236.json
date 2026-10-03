@@ -1,0 +1,86 @@
+{
+  "vid": "v27236",
+  "name": {
+    "zh-cn": "一生推不如一生恋",
+    "en-us": "OshiRabu: Waifus Over Husbandos",
+    "ja-jp": "推しのラブより恋のラブ",
+    "ja-Latn": "oshi-no-love-yori-koi-no-love"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-14",
+  "routes": [
+    {
+      "id": "route_ren",
+      "name": "恋",
+      "endings": [
+        {
+          "id": "ending_ren_true",
+          "name": "恋 END1",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_ren_01",
+              "type": "choice",
+              "content": "……我才应该为自己说的谎而道歉。"
+            },
+            {
+              "id": "step_ren_02",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_ren_03",
+              "type": "choice",
+              "content": "但是，即使如此我也想止住她的泪水。"
+            },
+            {
+              "id": "step_ren_04",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_ren_05",
+              "type": "choice",
+              "content": "想去面对恋"
+            }
+          ]
+        },
+        {
+          "id": "ending_ren_normal",
+          "name": "恋 END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_ren_06",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_ren_07",
+              "type": "choice",
+              "content": "所以，我沉默了。"
+            }
+          ]
+        },
+        {
+          "id": "ending_ren_happy",
+          "name": "恋 END3",
+          "type": "good",
+          "requirements": "需安装补丁，并在标题画面选择【EX SCENARIO】",
+          "steps": [
+            {
+              "id": "step_ren_08",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_ren_09",
+              "type": "choice",
+              "content": "不想再受伤了"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

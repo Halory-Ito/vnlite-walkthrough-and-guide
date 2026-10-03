@@ -1,0 +1,796 @@
+{
+  "vid": "v176",
+  "name": {
+    "zh-cn": "四叶之心",
+    "ja-jp": "Clover Heart’s",
+    "ja-Latn": "clover-hearts"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-12",
+  "routes": [
+    {
+      "id": "route_1757233272663",
+      "name": "白兔篇",
+      "endings": [
+        {
+          "id": "ending_1757233694410",
+          "name": "序章",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1757233779290",
+              "type": "choice",
+              "content": "难以舍弃的希望归途"
+            },
+            {
+              "id": "step_1757233779502",
+              "type": "choice",
+              "content": "来一瓶牛奶"
+            },
+            {
+              "id": "step_1757233779759",
+              "type": "choice",
+              "content": "待在教室里会更让人自在"
+            },
+            {
+              "id": "step_1757233780011",
+              "type": "choice",
+              "content": "只要去改变就好"
+            }
+          ]
+        },
+        {
+          "id": "ending_1757233840472",
+          "name": "第一章",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1757233847822",
+              "type": "choice",
+              "content": "融入的速度"
+            },
+            {
+              "id": "step_1757233847978",
+              "type": "choice",
+              "content": "也许还挺开心的……"
+            },
+            {
+              "id": "step_1757233848158",
+              "type": "choice",
+              "content": "无忧无虑！"
+            },
+            {
+              "id": "step_1757233848344",
+              "type": "choice",
+              "content": "试着拜托莉织"
+            },
+            {
+              "id": "step_1757233905728",
+              "type": "choice",
+              "content": "背负着温暖"
+            },
+            {
+              "id": "step_1757233905896",
+              "type": "choice",
+              "content": "我当她……是个充满活力的妹妹……"
+            },
+            {
+              "id": "step_1757233912508",
+              "type": "choice",
+              "content": "男人的友谊"
+            },
+            {
+              "id": "step_1757233912685",
+              "type": "choice",
+              "content": "我曾以为我可以和她们好好相处"
+            },
+            {
+              "id": "step_1757233912897",
+              "type": "choice",
+              "content": "打不开的门"
+            },
+            {
+              "id": "step_1757233913070",
+              "type": "choice",
+              "content": "玲亚的声音……"
+            },
+            {
+              "id": "step_1757233939532",
+              "type": "choice",
+              "content": "幸好是在梦里……？"
+            },
+            {
+              "id": "step_1757233971365",
+              "type": "choice",
+              "content": "迈出脚步，缔结羁绊"
+            }
+          ]
+        },
+        {
+          "id": "ending_1757233998855",
+          "name": "第二章",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1757234030733",
+              "type": "choice",
+              "content": "突然的来访者"
+            },
+            {
+              "id": "step_1757234030934",
+              "type": "choice",
+              "content": "比起那个，还有更重要的事情……"
+            },
+            {
+              "id": "step_1757234032092",
+              "type": "choice",
+              "content": "相差6厘米"
+            },
+            {
+              "id": "step_1757234032294",
+              "type": "choice",
+              "content": "喜欢大的",
+              "subfix": "无所谓"
+            },
+            {
+              "id": "step_1757234032509",
+              "type": "choice",
+              "content": "要捉弄你哦♪"
+            },
+            {
+              "id": "step_1757234112240",
+              "type": "choice",
+              "content": "在意的那个女孩"
+            },
+            {
+              "id": "step_1757234112398",
+              "type": "choice",
+              "content": "对我来说，有玲亚在就好"
+            },
+            {
+              "id": "step_1757234112564",
+              "type": "choice",
+              "content": "想要挽留"
+            },
+            {
+              "id": "step_1757234112887",
+              "type": "choice",
+              "content": "I miss you"
+            },
+            {
+              "id": "step_1757234113066",
+              "type": "choice",
+              "content": "那、那肯定啊！！"
+            },
+            {
+              "id": "step_1757234155498",
+              "type": "choice",
+              "content": "ambivalence date"
+            },
+            {
+              "id": "step_1757234155653",
+              "type": "choice",
+              "content": "不能这么做那种事情→玲亚路线"
+            },
+            {
+              "id": "step_1757234155835",
+              "type": "choice",
+              "content": "靠近小鞠→小鞠路线"
+            },
+            {
+              "id": "step_1757234156001",
+              "type": "note",
+              "content": "进入小鞠路线的情况下，会在“全部原谅，被原谅”处有和小鞠的亲密场景。完事之后，就会进入小鞠结局"
+            }
+          ]
+        },
+        {
+          "id": "ending_1757234223265",
+          "name": "第三章",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1757234228975",
+              "type": "choice",
+              "content": "男人的选择"
+            },
+            {
+              "id": "step_1757234229127",
+              "type": "choice",
+              "content": "不，不……我也是男人啊！！"
+            },
+            {
+              "id": "step_1757234229278",
+              "type": "choice",
+              "content": "因为喜欢所以没办法"
+            },
+            {
+              "id": "step_1757234229587",
+              "type": "choice",
+              "content": "感觉好像忘了什么东西……"
+            },
+            {
+              "id": "step_1757234255878",
+              "type": "choice",
+              "content": "泡沫公主降临？"
+            },
+            {
+              "id": "step_1783850402945",
+              "type": "choice",
+              "content": "外面"
+            },
+            {
+              "id": "step_1757234256564",
+              "type": "note",
+              "content": "第三章中亲密场景内的选择也变得很重要。不按上述那样选择的话就会进入坏结局"
+            }
+          ]
+        },
+        {
+          "id": "ending_1757234301042",
+          "name": "第四章",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1757234309794",
+              "type": "choice",
+              "content": "痛苦的记忆"
+            },
+            {
+              "id": "step_1757234309973",
+              "type": "choice",
+              "content": "就算是现在，我也把他当作我的弟弟"
+            },
+            {
+              "id": "step_1757234310123",
+              "type": "choice",
+              "content": "逝去的夏天"
+            },
+            {
+              "id": "step_1757234310271",
+              "type": "choice",
+              "content": "制止玲亚"
+            },
+            {
+              "id": "step_1757234310430",
+              "type": "choice",
+              "content": "冰雪消融的征兆"
+            },
+            {
+              "id": "step_1757234310596",
+              "type": "choice",
+              "content": "……早上好"
+            },
+            {
+              "id": "step_1757234310756",
+              "type": "choice",
+              "content": "封闭的庭院"
+            },
+            {
+              "id": "step_1757234350887",
+              "type": "choice",
+              "content": "向玲亚撒娇"
+            },
+            {
+              "id": "step_1757234351101",
+              "type": "note",
+              "content": "进入玲亚的真结局"
+            },
+            {
+              "id": "step_1757234351283",
+              "type": "note",
+              "content": "在选择了这个选项的情况下，进入任何一个结局时，会获得“数码相机”"
+            },
+            {
+              "id": "step_1757234389567",
+              "type": "note",
+              "content": "和玲亚关系不亲密的情况下不会出现，会直接进入坏结局"
+            },
+            {
+              "id": "step_1757234389989",
+              "type": "note",
+              "content": "和玲亚不亲密的情况下，这里的选项不会出现，会强制进入小鞠路线"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1757234404952",
+      "name": "夷月篇",
+      "endings": [
+        {
+          "id": "ending_1757234420887",
+          "name": "序章",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1757234428367",
+              "type": "choice",
+              "content": "难以舍弃的希望归途"
+            },
+            {
+              "id": "step_1757234428559",
+              "type": "choice",
+              "content": "来一瓶咖啡"
+            },
+            {
+              "id": "step_1757234428776",
+              "type": "choice",
+              "content": "街道的喧嚣反而更让我更自在"
+            },
+            {
+              "id": "step_1757234429001",
+              "type": "choice",
+              "content": "还是有可能发生改变"
+            }
+          ]
+        },
+        {
+          "id": "ending_1757234452055",
+          "name": "第一章",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1757234491685",
+              "type": "choice",
+              "content": "虚假的恋人们I"
+            },
+            {
+              "id": "step_1757234492769",
+              "type": "choice",
+              "content": "真实的街头斗殴？"
+            },
+            {
+              "id": "step_1757234493710",
+              "type": "choice",
+              "content": "抱歉，麻烦你了"
+            },
+            {
+              "id": "step_1757234494331",
+              "type": "choice",
+              "content": "学姐的便当"
+            },
+            {
+              "id": "step_1757234494499",
+              "type": "choice",
+              "content": "是因为老爸的工作寄宿到家里的女生"
+            },
+            {
+              "id": "step_1757234494668",
+              "type": "choice",
+              "content": "对便当的评价是？"
+            },
+            {
+              "id": "step_1757234494872",
+              "type": "choice",
+              "content": "煮芋头，非常好吃"
+            },
+            {
+              "id": "step_1757234495047",
+              "type": "choice",
+              "content": "和她们的关系是？"
+            },
+            {
+              "id": "step_1757234498366",
+              "type": "choice",
+              "content": "她对我有意思"
+            },
+            {
+              "id": "step_1757234498509",
+              "type": "choice",
+              "content": "和迷路的孩子在一起"
+            },
+            {
+              "id": "step_1757234498669",
+              "type": "choice",
+              "content": "在原地等她"
+            },
+            {
+              "id": "step_1757234498823",
+              "type": "choice",
+              "content": "选哪边呢？"
+            },
+            {
+              "id": "step_1757234601744",
+              "type": "choice",
+              "content": "帮莉织"
+            },
+            {
+              "id": "step_1757234601924",
+              "type": "choice",
+              "content": "想成为圣诞老人"
+            },
+            {
+              "id": "step_1757234602093",
+              "type": "choice",
+              "content": "接受"
+            },
+            {
+              "id": "step_1757234602263",
+              "type": "choice",
+              "content": "女孩子啊……"
+            },
+            {
+              "id": "step_1757234602428",
+              "type": "choice",
+              "content": "或许来一个也不错"
+            },
+            {
+              "id": "step_1757234602618",
+              "type": "choice",
+              "content": "虚假的恋人们II"
+            },
+            {
+              "id": "step_1757234603011",
+              "type": "choice",
+              "content": "动摇的价值观"
+            },
+            {
+              "id": "step_1757234603194",
+              "type": "choice",
+              "content": "同意莉织说的话→莉织路线"
+            },
+            {
+              "id": "step_1757234729122",
+              "type": "choice",
+              "content": "不同意莉织说的话→圆华路线"
+            },
+            {
+              "id": "step_1757234729286",
+              "type": "note",
+              "content": "进入圆华路线的情况下，在“作为恋人……”“激烈到足以忘却……”章节中与圆华发生亲密行为后，就会进入圆华结局"
+            }
+          ]
+        },
+        {
+          "id": "ending_1757234863918",
+          "name": "第二章",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1757234873255",
+              "type": "choice",
+              "content": "虚假的恋人们III"
+            },
+            {
+              "id": "step_1757234873411",
+              "type": "note",
+              "content": "亲密场景（圆华）",
+              "subfix": "可按喜好选择"
+            },
+            {
+              "id": "step_1757234873582",
+              "type": "choice",
+              "content": "从打招呼开始吧"
+            },
+            {
+              "id": "step_1757234873741",
+              "type": "choice",
+              "content": "马上回道“早上好”"
+            },
+            {
+              "id": "step_1757234873887",
+              "type": "choice",
+              "content": "放学后的邀请"
+            },
+            {
+              "id": "step_1757234874042",
+              "type": "choice",
+              "content": "一起回去"
+            },
+            {
+              "id": "step_1757234874215",
+              "type": "choice",
+              "content": "追赶的背影"
+            },
+            {
+              "id": "step_1757234874375",
+              "type": "choice",
+              "content": "松开她的手"
+            },
+            {
+              "id": "step_1757234874556",
+              "type": "choice",
+              "content": "契约的终结"
+            },
+            {
+              "id": "step_1757234920635",
+              "type": "choice",
+              "content": "但是我变了"
+            },
+            {
+              "id": "step_1757234920968",
+              "type": "choice",
+              "content": "心灵与身体的重合"
+            },
+            {
+              "id": "step_1757234921143",
+              "type": "note",
+              "content": "亲密场景（莉织）",
+              "subfix": "可按喜好选择"
+            }
+          ]
+        },
+        {
+          "id": "ending_1757234951607",
+          "name": "第三章",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1757234960602",
+              "type": "choice",
+              "content": "雾笛之中"
+            },
+            {
+              "id": "step_1757234960784",
+              "type": "choice",
+              "content": "不，其实我是这么想过的"
+            },
+            {
+              "id": "step_1757234960944",
+              "type": "choice",
+              "content": "星空之下"
+            },
+            {
+              "id": "step_1757234961246",
+              "type": "choice",
+              "content": "外面"
+            },
+            {
+              "id": "step_1757234961398",
+              "type": "choice",
+              "content": "怎样让欧派变大？"
+            },
+            {
+              "id": "step_1757234963559",
+              "type": "choice",
+              "content": "就此住手"
+            },
+            {
+              "id": "step_1757234963729",
+              "type": "choice",
+              "content": "亲密地吃吃看"
+            },
+            {
+              "id": "step_1757235022939",
+              "type": "choice",
+              "content": "我回过神来"
+            },
+            {
+              "id": "step_1757235023078",
+              "type": "note",
+              "content": "第三章中亲密场景内的选择也很重要。不按上述那样选择的话就会进入坏结局"
+            }
+          ]
+        },
+        {
+          "id": "ending_1757235089311",
+          "name": "第四章",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1757235105168",
+              "type": "choice",
+              "content": "接受心意……"
+            },
+            {
+              "id": "step_1757235105318",
+              "type": "choice",
+              "content": "我知道了"
+            },
+            {
+              "id": "step_1757235105476",
+              "type": "choice",
+              "content": "逃跑剧"
+            },
+            {
+              "id": "step_1757235105616",
+              "type": "choice",
+              "content": "问向莉织"
+            },
+            {
+              "id": "step_1757235105782",
+              "type": "choice",
+              "content": "自己能做的事"
+            },
+            {
+              "id": "step_1757235106314",
+              "type": "choice",
+              "content": "不挑衅、尽量拖延时间"
+            },
+            {
+              "id": "step_1757235106865",
+              "type": "choice",
+              "content": "之后，就会进入莉织的真结局。"
+            },
+            {
+              "id": "step_1757235107010",
+              "type": "note",
+              "content": "在选择了这个选项的情况下，看到任一结局时，会获得“CD播放器”"
+            },
+            {
+              "id": "step_1757235107146",
+              "type": "note",
+              "content": "和莉织关系不亲密的情况下，这里的选项不会出现，会强制进入圆华路线"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1757235481849",
+      "name": "道具收集",
+      "endings": [
+        {
+          "id": "ending_1757235513707",
+          "name": "白兔篇",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1757235525552",
+              "type": "choice",
+              "content": "黄色书签",
+              "subfix": "通关白兔篇第一章后获得。可以进入第二章"
+            },
+            {
+              "id": "step_1757235525820",
+              "type": "choice",
+              "content": "橙色书签",
+              "subfix": "通关白兔篇第二章后获得。可以进入第三章"
+            },
+            {
+              "id": "step_1757235562563",
+              "type": "choice",
+              "content": "红色书签",
+              "subfix": "通关白兔篇第三章后获得。可以进入第四章"
+            },
+            {
+              "id": "step_1757235562729",
+              "type": "choice",
+              "content": "玲亚的日记1",
+              "subfix": "通关白兔篇第一章后获得。重现第一章最后的日记内容"
+            },
+            {
+              "id": "step_1757235562867",
+              "type": "choice",
+              "content": "玲亚的日记2",
+              "subfix": "通关白兔篇第二章后获得。重现第二章最后的日记内容"
+            },
+            {
+              "id": "step_1757235563062",
+              "type": "choice",
+              "content": "玲亚的日记3",
+              "subfix": "通关白兔篇第三章后获得。重现第三章最后的日记内容"
+            },
+            {
+              "id": "step_1757235632140",
+              "type": "choice",
+              "content": "玲亚的日记4",
+              "subfix": "通关白兔篇第四章后获得。重现第四章最后的日记内容"
+            },
+            {
+              "id": "step_1757235632964",
+              "type": "choice",
+              "content": "数码相机",
+              "subfix": "在白兔篇第一章的“无忧无虑！”中选择“试着拜托莉织”，看到任一结局时获得"
+            },
+            {
+              "id": "step_1757235633159",
+              "type": "choice",
+              "content": "电池",
+              "subfix": "看到白兔篇第一章的坏结局时获得"
+            },
+            {
+              "id": "step_1757235633547",
+              "type": "choice",
+              "content": "红色光盘",
+              "subfix": "看到白兔篇第二章的小鞠结局时获得。可以重现与女孩的亲密场景回忆"
+            },
+            {
+              "id": "step_1757235634095",
+              "type": "choice",
+              "content": "双筒望远镜",
+              "subfix": "看到白兔篇第三章的坏结局时获得。可以游玩额外故事（久远篇）"
+            },
+            {
+              "id": "step_1757235634293",
+              "type": "choice",
+              "content": "全息图",
+              "subfix": "看到白兔篇第四章的坏结局时获得。可以查看角色立绘"
+            }
+          ]
+        },
+        {
+          "id": "ending_1757235773812",
+          "name": "夷月篇",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1757235792187",
+              "type": "choice",
+              "content": "水色书签",
+              "subfix": "通关夷月篇第一章后获得。可以进入第二章"
+            },
+            {
+              "id": "step_1757235792458",
+              "type": "choice",
+              "content": "蓝色书签",
+              "subfix": "通关夷月篇第二章后获得。可以进入第三章"
+            },
+            {
+              "id": "step_1757235792644",
+              "type": "choice",
+              "content": "紫色书签",
+              "subfix": "通关夷月篇第三章后获得。可以进入第四章"
+            },
+            {
+              "id": "step_1757235792819",
+              "type": "choice",
+              "content": "莉织的日记1",
+              "subfix": "通关夷月篇第一章后获得。重现第一章最后的日记场景"
+            },
+            {
+              "id": "step_1757235792980",
+              "type": "choice",
+              "content": "莉织的日记2",
+              "subfix": "通关夷月篇第二章后获得。重现第二章最后的日记场景"
+            },
+            {
+              "id": "step_1757236216635",
+              "type": "choice",
+              "content": "莉织的日记3",
+              "subfix": "通关夷月篇第三章后获得。重现第三章最后的日记场景"
+            },
+            {
+              "id": "step_1757236216802",
+              "type": "choice",
+              "content": "莉织的日记4",
+              "subfix": "通关夷月篇第四章后获得。重现第四章最后的日记场景"
+            },
+            {
+              "id": "step_1757236217128",
+              "type": "choice",
+              "content": "CD播放器",
+              "subfix": "在夷月篇第一章的“女孩子啊……”中选择“或许来一个也不错”的状态下，进入任一结局时获得"
+            },
+            {
+              "id": "step_1757236217311",
+              "type": "choice",
+              "content": "CD光盘",
+              "subfix": "看到夷月篇第一章的圆华结局时获得"
+            },
+            {
+              "id": "step_1757236307844",
+              "type": "choice",
+              "content": "放大镜",
+              "subfix": "看到夷月篇第二章的坏结局时获得。可以游玩额外故事（凛篇）。这个额外故事有和凛的亲密场景"
+            },
+            {
+              "id": "step_1757236308072",
+              "type": "choice",
+              "content": "望远镜",
+              "subfix": "看到夷月篇第三章的坏结局时获得。可以游玩额外故事（罗伯特篇）"
+            },
+            {
+              "id": "step_1757236308458",
+              "type": "choice",
+              "content": "蓝色光盘",
+              "subfix": "看到夷月篇第四章的坏结局时获得。可以鉴赏各章的序章和尾声"
+            },
+            {
+              "id": "step_1757236308707",
+              "type": "note",
+              "content": "数码相机和电池单独使用没有效果。两者都集齐的话就可以选择CG模式，能够浏览已收集的CG"
+            },
+            {
+              "id": "step_1757236308934",
+              "type": "note",
+              "content": "CD播放器和CD光盘单独使用没有效果。两者都集齐的话就可以选择音乐模式"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

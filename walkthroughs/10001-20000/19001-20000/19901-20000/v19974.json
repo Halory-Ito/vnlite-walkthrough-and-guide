@@ -1,0 +1,242 @@
+{
+  "vid": "v19974",
+  "name": {
+    "zh-cn": "来自昏暗的时间尽头",
+    "ja-jp": "仄暗き時の果てより",
+    "ja-Latn": "honoguraki-toki-no-hate-yori"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-15",
+  "routes": [
+    {
+      "id": "route_common",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_bad_end1",
+          "name": "BAD END1",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_common_01",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_common_02",
+              "type": "choice",
+              "content": "回家"
+            },
+            {
+              "id": "step_common_03",
+              "type": "choice",
+              "content": "让她留下/一起出去"
+            }
+          ]
+        },
+        {
+          "id": "ending_bad_end2",
+          "name": "BAD END2",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_bad2_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_bad2_02",
+              "type": "choice",
+              "content": "不回家"
+            },
+            {
+              "id": "step_bad2_03",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_bad2_04",
+              "type": "choice",
+              "content": "再等等看"
+            }
+          ]
+        },
+        {
+          "id": "ending_bad_end3",
+          "name": "BAD END3",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_bad3_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_bad3_02",
+              "type": "choice",
+              "content": "想别的办法"
+            },
+            {
+              "id": "step_bad3_03",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_bad3_04",
+              "type": "choice",
+              "content": "沉默"
+            }
+          ]
+        },
+        {
+          "id": "ending_eri",
+          "name": "惠里END1",
+          "type": "good",
+          "steps": [
+            {
+              "id": "step_eri_01",
+              "type": "choice",
+              "content": "大声喊叫"
+            },
+            {
+              "id": "step_eri_02",
+              "type": "choice",
+              "content": "追上惠里/不管她"
+            },
+            {
+              "id": "step_eri_03",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_eri_04",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_eri_05",
+              "type": "choice",
+              "content": "求助惠里"
+            },
+            {
+              "id": "step_eri_06",
+              "type": "save",
+              "content": "SAVE 5"
+            },
+            {
+              "id": "step_eri_07",
+              "type": "choice",
+              "content": "是我"
+            }
+          ]
+        },
+        {
+          "id": "ending_eri_bad",
+          "name": "惠里END2",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_eri_bad_01",
+              "type": "load",
+              "content": "LOAD 5"
+            },
+            {
+              "id": "step_eri_bad_02",
+              "type": "choice",
+              "content": "不是我"
+            }
+          ]
+        },
+        {
+          "id": "ending_komako",
+          "name": "驹子END1",
+          "type": "good",
+          "steps": [
+            {
+              "id": "step_komako_01",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_komako_02",
+              "type": "choice",
+              "content": "求助驹子"
+            },
+            {
+              "id": "step_komako_03",
+              "type": "save",
+              "content": "SAVE 6"
+            },
+            {
+              "id": "step_komako_04",
+              "type": "choice",
+              "content": "是我"
+            }
+          ]
+        },
+        {
+          "id": "ending_komako_bad",
+          "name": "驹子END2",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_komako_bad_01",
+              "type": "load",
+              "content": "LOAD 6"
+            },
+            {
+              "id": "step_komako_bad_02",
+              "type": "choice",
+              "content": "不是我"
+            }
+          ]
+        },
+        {
+          "id": "ending_yuno",
+          "name": "由乃END1",
+          "type": "good",
+          "requirements": "惠里、驹子通关后",
+          "steps": [
+            {
+              "id": "step_yuno_02",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_yuno_03",
+              "type": "choice",
+              "content": "独自前往"
+            },
+            {
+              "id": "step_yuno_04",
+              "type": "save",
+              "content": "SAVE 7"
+            },
+            {
+              "id": "step_yuno_05",
+              "type": "choice",
+              "content": "杀死杏子"
+            }
+          ]
+        },
+        {
+          "id": "ending_yuno_bad",
+          "name": "由乃END2",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_yuno_bad_01",
+              "type": "load",
+              "content": "LOAD 7"
+            },
+            {
+              "id": "step_yuno_bad_02",
+              "type": "choice",
+              "content": "不杀"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

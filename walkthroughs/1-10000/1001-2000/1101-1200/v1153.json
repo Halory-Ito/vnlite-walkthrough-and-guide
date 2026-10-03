@@ -1,0 +1,1123 @@
+{
+  "vid": "v1153",
+  "name": {
+    "zh-cn": "秋之回忆2",
+    "ja-jp": "メモリーズオフ2nd",
+    "ja-Latn": "memories-off-2"
+  },
+  "level": 1,
+  "updatedAt": "2026-03-25",
+  "routes": [
+    {
+      "id": "route_memories_off_2_platinum",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_ying",
+          "name": "萤结局",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_ying_04",
+              "type": "choice",
+              "content": "1）担心",
+              "group": "8/1"
+            },
+            {
+              "id": "step_ying_05",
+              "type": "choice",
+              "content": "1）说对了",
+              "group": "8/1"
+            },
+            {
+              "id": "step_ying_06",
+              "type": "choice",
+              "content": "1）去放烟花吧",
+              "group": "8/1"
+            },
+            {
+              "id": "step_ying_07",
+              "type": "choice",
+              "content": "2）不去想他",
+              "group": "8/1"
+            },
+            {
+              "id": "step_ying_09",
+              "type": "choice",
+              "content": "2）你借的那3万日元和打工有什么关系吗？",
+              "group": "8/1"
+            },
+            {
+              "id": "step_ying_10",
+              "type": "choice",
+              "content": "1）「不要紧吧？」",
+              "group": "8/1"
+            },
+            {
+              "id": "step_ying_11",
+              "type": "choice",
+              "content": "2）正在交往",
+              "group": "8/1"
+            },
+            {
+              "id": "step_ying_12",
+              "type": "choice",
+              "content": "3）..........",
+              "group": "8/1"
+            },
+            {
+              "id": "step_ying_14",
+              "type": "choice",
+              "content": "2）什么也不想",
+              "group": "8/2"
+            },
+            {
+              "id": "step_ying_15",
+              "type": "choice",
+              "content": "2）想不起来了",
+              "group": "8/2"
+            },
+            {
+              "id": "step_ying_16",
+              "type": "save",
+              "content": "SAVE 1",
+              "group": "8/2"
+            },
+            {
+              "id": "step_ying_17",
+              "type": "choice",
+              "content": "1）确实如此",
+              "group": "8/2"
+            },
+            {
+              "id": "step_ying_19",
+              "type": "choice",
+              "content": "1）那倒是",
+              "group": "8/2"
+            },
+            {
+              "id": "step_ying_21",
+              "type": "choice",
+              "content": "1）将她送到车站",
+              "group": "8/2"
+            },
+            {
+              "id": "step_ying_22",
+              "type": "choice",
+              "content": "2）在这里等一下她",
+              "group": "8/3"
+            },
+            {
+              "id": "step_ying_23",
+              "type": "choice",
+              "content": "1）去问问",
+              "group": "8/3"
+            },
+            {
+              "id": "step_ying_24",
+              "type": "choice",
+              "content": "1）代替希去做吧",
+              "group": "8/3"
+            },
+            {
+              "id": "step_ying_25",
+              "type": "choice",
+              "content": "1）也许是吧",
+              "group": "8/3"
+            },
+            {
+              "id": "step_ying_28",
+              "type": "choice",
+              "content": "1）觉得很可爱",
+              "group": "8/4"
+            },
+            {
+              "id": "step_ying_29",
+              "type": "choice",
+              "content": "1）奶油浓汤",
+              "group": "8/4"
+            },
+            {
+              "id": "step_ying_31",
+              "type": "choice",
+              "content": "2）你在说什么呢？",
+              "group": "8/5"
+            },
+            {
+              "id": "step_ying_32",
+              "type": "choice",
+              "content": "2）雨天",
+              "group": "8/5"
+            },
+            {
+              "id": "step_ying_33",
+              "type": "choice",
+              "content": "2）用空瓶子砸向那两个男人",
+              "group": "8/5"
+            },
+            {
+              "id": "step_ying_35",
+              "type": "choice",
+              "content": "2）什么都没有想",
+              "group": "8/5"
+            },
+            {
+              "id": "step_ying_37",
+              "type": "choice",
+              "content": "2）我一定会去的",
+              "group": "8/6"
+            },
+            {
+              "id": "step_ying_39",
+              "type": "choice",
+              "content": "1）我也来帮你吧",
+              "group": "8/6"
+            },
+            {
+              "id": "step_ying_41",
+              "type": "choice",
+              "content": "1）去听一听",
+              "group": "8/7"
+            },
+            {
+              "id": "step_ying_43",
+              "type": "save",
+              "content": "SAVE 2",
+              "group": "8/7"
+            },
+            {
+              "id": "step_ying_44",
+              "type": "choice",
+              "content": "1）无法去接受她的感情",
+              "group": "8/7"
+            },
+            {
+              "id": "step_ying_46",
+              "type": "save",
+              "content": "SAVE 3",
+              "group": "8/8"
+            },
+            {
+              "id": "step_ying_47",
+              "type": "choice",
+              "content": "1）那我去找你吧",
+              "group": "8/8"
+            },
+            {
+              "id": "step_ying_48",
+              "type": "choice",
+              "content": "2）爱之梦",
+              "group": "8/8"
+            },
+            {
+              "id": "step_ying_49",
+              "type": "choice",
+              "content": "1）李斯特",
+              "group": "8/8"
+            },
+            {
+              "id": "step_ying_50",
+              "type": "choice",
+              "content": "2）无法说明",
+              "group": "8/8"
+            },
+            {
+              "id": "step_ying_51",
+              "type": "save",
+              "content": "SAVE 4",
+              "group": "8/9"
+            },
+            {
+              "id": "step_ying_52",
+              "type": "choice",
+              "content": "1）应该有的",
+              "group": "8/9"
+            },
+            {
+              "id": "step_ying_54",
+              "type": "choice",
+              "content": "2）单刀直入的切入主题",
+              "group": "8/11"
+            },
+            {
+              "id": "step_ying_55",
+              "type": "choice",
+              "content": "1）喜欢",
+              "group": "8/12"
+            },
+            {
+              "id": "step_ying_56",
+              "type": "choice",
+              "content": "2）默不做声",
+              "group": "8/12"
+            },
+            {
+              "id": "step_ying_57",
+              "type": "choice",
+              "content": "1）在为萤的事情烦恼",
+              "group": "8/13"
+            },
+            {
+              "id": "step_ying_60",
+              "type": "choice",
+              "content": "1）OK",
+              "group": "8/17"
+            },
+            {
+              "id": "step_ying_61",
+              "type": "choice",
+              "content": "2）就这样待着",
+              "group": "8/17"
+            },
+            {
+              "id": "step_ying_62",
+              "type": "choice",
+              "content": "2）不阅读",
+              "group": "8/21"
+            },
+            {
+              "id": "step_ying_64",
+              "type": "choice",
+              "content": "2）当然不会现在就睡了",
+              "group": "8/22"
+            }
+          ]
+        },
+        {
+          "id": "ending_yan",
+          "name": "燕结局",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_yan_01",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_yan_02",
+              "type": "choice",
+              "content": "2）不知道",
+              "group": "8/9"
+            },
+            {
+              "id": "step_yan_03",
+              "type": "choice",
+              "content": "1）找个不尴尬的话题",
+              "group": "8/11"
+            },
+            {
+              "id": "step_yan_04",
+              "type": "choice",
+              "content": "2）不喜欢",
+              "group": "8/12"
+            },
+            {
+              "id": "step_yan_05",
+              "type": "choice",
+              "content": "1）询问宇和岛的事",
+              "group": "8/12"
+            },
+            {
+              "id": "step_yan_06",
+              "type": "choice",
+              "content": "2）在为老师的事烦恼",
+              "group": "8/13"
+            },
+            {
+              "id": "step_yan_07",
+              "type": "choice",
+              "content": "2）NO",
+              "group": "8/17"
+            },
+            {
+              "id": "step_yan_08",
+              "type": "choice",
+              "content": "1）把她推开",
+              "group": "8/17"
+            },
+            {
+              "id": "step_yan_09",
+              "type": "choice",
+              "content": "2）开门",
+              "group": "8/18"
+            },
+            {
+              "id": "step_yan_11",
+              "type": "choice",
+              "content": "1）回忆",
+              "group": "8/21"
+            },
+            {
+              "id": "step_yan_12",
+              "type": "choice",
+              "content": "1）是的",
+              "group": "8/22"
+            },
+            {
+              "id": "step_yan_13",
+              "type": "choice",
+              "content": "1）穿浴衣的样子",
+              "group": "8/23"
+            },
+            {
+              "id": "step_yan_15",
+              "type": "choice",
+              "content": "1）不对......！",
+              "group": "8/23"
+            },
+            {
+              "id": "step_yan_16",
+              "type": "choice",
+              "content": "2）我输了..........",
+              "group": "8/23"
+            },
+            {
+              "id": "step_yan_17",
+              "type": "choice",
+              "content": "1）想起来",
+              "group": "8/23"
+            },
+            {
+              "id": "step_yan_18",
+              "type": "choice",
+              "content": "2）没赌过",
+              "group": "8/23"
+            },
+            {
+              "id": "step_yan_20",
+              "type": "choice",
+              "content": "1）索性试着问问看",
+              "group": "8/24"
+            },
+            {
+              "id": "step_yan_22",
+              "type": "choice",
+              "content": "1）我已经决定了",
+              "group": "8/25"
+            },
+            {
+              "id": "step_yan_23",
+              "type": "save",
+              "content": "SAVE 5",
+              "group": "8/25"
+            },
+            {
+              "id": "step_yan_24",
+              "type": "choice",
+              "content": "2）接听",
+              "group": "8/25"
+            }
+          ]
+        },
+        {
+          "id": "ending_yan_bad",
+          "name": "燕 bad end",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_yan_bad_01",
+              "type": "load",
+              "content": "LOAD 5"
+            },
+            {
+              "id": "step_yan_bad_02",
+              "type": "choice",
+              "content": "1）不接",
+              "group": "8/25"
+            }
+          ]
+        },
+        {
+          "id": "ending_ba",
+          "name": "巴结局",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_ba_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_ba_02",
+              "type": "choice",
+              "content": "2）接受她的感情",
+              "group": "8/7"
+            },
+            {
+              "id": "step_ba_03",
+              "type": "choice",
+              "content": "2）不接电话",
+              "group": "8/7"
+            },
+            {
+              "id": "step_ba_05",
+              "type": "choice",
+              "content": "1）是飞世吗！？",
+              "group": "8/11"
+            },
+            {
+              "id": "step_ba_07",
+              "type": "choice",
+              "content": "1）需要",
+              "group": "8/11"
+            },
+            {
+              "id": "step_ba_08",
+              "type": "choice",
+              "content": "2）为了锻鍊身体吗？",
+              "group": "8/13"
+            },
+            {
+              "id": "step_ba_09",
+              "type": "choice",
+              "content": "2）不是什么奇怪的要求的，拜托了",
+              "group": "8/13"
+            },
+            {
+              "id": "step_ba_11",
+              "type": "choice",
+              "content": "1）同她打招呼",
+              "group": "8/14"
+            },
+            {
+              "id": "step_ba_12",
+              "type": "choice",
+              "content": "1）可以",
+              "group": "8/14"
+            },
+            {
+              "id": "step_ba_13",
+              "type": "choice",
+              "content": "2）声音太大了点吧......",
+              "group": "8/14"
+            },
+            {
+              "id": "step_ba_14",
+              "type": "choice",
+              "content": "2）该怎么办呢",
+              "group": "8/14"
+            },
+            {
+              "id": "step_ba_15",
+              "type": "choice",
+              "content": "1）好吧，那我们一起去吧",
+              "group": "8/14"
+            },
+            {
+              "id": "step_ba_18",
+              "type": "choice",
+              "content": "1）知道",
+              "group": "8/18"
+            },
+            {
+              "id": "step_ba_19",
+              "type": "choice",
+              "content": "2）真是没办法",
+              "group": "8/18"
+            },
+            {
+              "id": "step_ba_20",
+              "type": "choice",
+              "content": "1）都并",
+              "group": "8/18"
+            },
+            {
+              "id": "step_ba_22",
+              "type": "choice",
+              "content": "3）我看得都呆住了",
+              "group": "8/18"
+            },
+            {
+              "id": "step_ba_23",
+              "type": "choice",
+              "content": "1）还是坐到蓝之丘吧",
+              "group": "8/19"
+            },
+            {
+              "id": "step_ba_24",
+              "type": "choice",
+              "content": "1）嗯，想看",
+              "group": "8/19"
+            },
+            {
+              "id": "step_ba_25",
+              "type": "choice",
+              "content": "2）乐意接受你的邀请",
+              "group": "8/19"
+            },
+            {
+              "id": "step_ba_26",
+              "type": "choice",
+              "content": "1）这说明大家对你的期望很高",
+              "group": "8/19"
+            },
+            {
+              "id": "step_ba_27",
+              "type": "choice",
+              "content": "2）果然和亲身感受有差距啊......",
+              "group": "8/21"
+            },
+            {
+              "id": "step_ba_29",
+              "type": "choice",
+              "content": "1）你不是说过有一段时期对它非常牴触",
+              "group": "8/23"
+            },
+            {
+              "id": "step_ba_30",
+              "type": "choice",
+              "content": "1）追问她",
+              "group": "8/24"
+            },
+            {
+              "id": "step_ba_32",
+              "type": "choice",
+              "content": "1）答应与萤约会",
+              "group": "8/24"
+            },
+            {
+              "id": "step_ba_33",
+              "type": "save",
+              "content": "SAVE 6",
+              "group": "8/26"
+            },
+            {
+              "id": "step_ba_34",
+              "type": "choice",
+              "content": "2）......有点勉强吧？",
+              "group": "8/26"
+            }
+          ]
+        },
+        {
+          "id": "ending_ba_bad",
+          "name": "巴 bad end",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_ba_bad_01",
+              "type": "load",
+              "content": "LOAD 6"
+            },
+            {
+              "id": "step_ba_bad_02",
+              "type": "choice",
+              "content": "1）......是啊",
+              "group": "8/26"
+            }
+          ]
+        },
+        {
+          "id": "ending_yingnai",
+          "name": "鹰乃结局",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_yingnai_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_yingnai_02",
+              "type": "choice",
+              "content": "2）没什么特别的感觉",
+              "group": "8/2"
+            },
+            {
+              "id": "step_yingnai_03",
+              "type": "choice",
+              "content": "1）「哇！」去吓她一跳",
+              "group": "8/2"
+            },
+            {
+              "id": "step_yingnai_04",
+              "type": "choice",
+              "content": "2）是这样吗？",
+              "group": "8/2"
+            },
+            {
+              "id": "step_yingnai_05",
+              "type": "choice",
+              "content": "2）就在这里和她分手",
+              "group": "8/2"
+            },
+            {
+              "id": "step_yingnai_06",
+              "type": "choice",
+              "content": "2）在这里等一下她",
+              "group": "8/3"
+            },
+            {
+              "id": "step_yingnai_07",
+              "type": "choice",
+              "content": "2）不去问",
+              "group": "8/3"
+            },
+            {
+              "id": "step_yingnai_08",
+              "type": "choice",
+              "content": "3）在旁边再看一看",
+              "group": "8/3"
+            },
+            {
+              "id": "step_yingnai_09",
+              "type": "choice",
+              "content": "2）怎么说呢？",
+              "group": "8/3"
+            },
+            {
+              "id": "step_yingnai_10",
+              "type": "choice",
+              "content": "2）觉得不好意思，还是不要这样了",
+              "group": "8/4"
+            },
+            {
+              "id": "step_yingnai_11",
+              "type": "choice",
+              "content": "2）南瓜汤比较好",
+              "group": "8/4"
+            },
+            {
+              "id": "step_yingnai_12",
+              "type": "choice",
+              "content": "2）你在说什么呢？",
+              "group": "8/5"
+            },
+            {
+              "id": "step_yingnai_13",
+              "type": "choice",
+              "content": "1）晴天",
+              "group": "8/5"
+            },
+            {
+              "id": "step_yingnai_14",
+              "type": "choice",
+              "content": "2）用空瓶子砸向那两个男人",
+              "group": "8/5"
+            },
+            {
+              "id": "step_yingnai_15",
+              "type": "choice",
+              "content": "2）什么都没有想",
+              "group": "8/5"
+            },
+            {
+              "id": "step_yingnai_16",
+              "type": "choice",
+              "content": "1）......应该是自己的错觉",
+              "group": "8/6"
+            },
+            {
+              "id": "step_yingnai_17",
+              "type": "choice",
+              "content": "2）啊，那边也有碎片",
+              "group": "8/6"
+            },
+            {
+              "id": "step_yingnai_18",
+              "type": "choice",
+              "content": "2）去想象一下",
+              "group": "8/7"
+            },
+            {
+              "id": "step_yingnai_19",
+              "type": "choice",
+              "content": "1）嗯？拒绝？",
+              "group": "8/8"
+            },
+            {
+              "id": "step_yingnai_21",
+              "type": "choice",
+              "content": "1）是啊",
+              "group": "8/9"
+            },
+            {
+              "id": "step_yingnai_22",
+              "type": "choice",
+              "content": "1）去学校看看吧？",
+              "group": "8/10"
+            },
+            {
+              "id": "step_yingnai_23",
+              "type": "choice",
+              "content": "1）我想应该不是的",
+              "group": "8/10"
+            },
+            {
+              "id": "step_yingnai_24",
+              "type": "choice",
+              "content": "2）......不如去问问他",
+              "group": "8/12"
+            },
+            {
+              "id": "step_yingnai_25",
+              "type": "save",
+              "content": "SAVE 7",
+              "group": "8/13（未标记推算）"
+            },
+            {
+              "id": "step_yingnai_26",
+              "type": "choice",
+              "content": "1）给萤发送邮件",
+              "group": "8/13（未标记推算）"
+            },
+            {
+              "id": "step_yingnai_27",
+              "type": "choice",
+              "content": "2）悄悄地走过去",
+              "group": "8/14"
+            },
+            {
+              "id": "step_yingnai_28",
+              "type": "choice",
+              "content": "2）去萤的家里找找看",
+              "group": "8/15"
+            },
+            {
+              "id": "step_yingnai_29",
+              "type": "choice",
+              "content": "1）向她询问有关萤和翔太的事情",
+              "group": "8/16"
+            },
+            {
+              "id": "step_yingnai_32",
+              "type": "choice",
+              "content": "1）和寿寿奈好好地谈一谈",
+              "group": "8/17"
+            },
+            {
+              "id": "step_yingnai_35",
+              "type": "choice",
+              "content": "2）当她是一个女孩",
+              "group": "8/20"
+            },
+            {
+              "id": "step_yingnai_36",
+              "type": "choice",
+              "content": "1）询问停止训练的原因",
+              "group": "8/20"
+            },
+            {
+              "id": "step_yingnai_37",
+              "type": "choice",
+              "content": "1）先听听变成这样的原因",
+              "group": "8/21"
+            },
+            {
+              "id": "step_yingnai_38",
+              "type": "choice",
+              "content": "2）制止他的行为！",
+              "group": "8/22"
+            }
+          ]
+        },
+        {
+          "id": "ending_yingnai_bad",
+          "name": "鹰乃 bad end",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_yingnai_bad_01",
+              "type": "load",
+              "content": "LOAD 7"
+            },
+            {
+              "id": "step_yingnai_bad_02",
+              "type": "choice",
+              "content": "2）给萤打一个电话",
+              "group": "8/13"
+            },
+            {
+              "id": "step_yingnai_bad_03",
+              "type": "choice",
+              "content": "1）横穿足球场径直走过去",
+              "group": "8/14"
+            },
+            {
+              "id": "step_yingnai_bad_04",
+              "type": "choice",
+              "content": "1）再耐心地等待一下",
+              "group": "8/15"
+            },
+            {
+              "id": "step_yingnai_bad_05",
+              "type": "choice",
+              "content": "2）请寿寿奈同学去吃饭",
+              "group": "8/16"
+            },
+            {
+              "id": "step_yingnai_bad_06",
+              "type": "choice",
+              "content": "2）随便搪塞她一下",
+              "group": "8/17"
+            },
+            {
+              "id": "step_yingnai_bad_07",
+              "type": "choice",
+              "content": "1）当她是一个同学",
+              "group": "8/20"
+            },
+            {
+              "id": "step_yingnai_bad_08",
+              "type": "choice",
+              "content": "2）说说香菜的事",
+              "group": "8/20"
+            },
+            {
+              "id": "step_yingnai_bad_09",
+              "type": "choice",
+              "content": "2）请解释一下你同翔太的关系！",
+              "group": "8/21"
+            },
+            {
+              "id": "step_yingnai_bad_10",
+              "type": "choice",
+              "content": "1）去问清事情的原委",
+              "group": "8/22"
+            }
+          ]
+        },
+        {
+          "id": "ending_jingliu",
+          "name": "静流结局",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_jingliu_01",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_jingliu_02",
+              "type": "choice",
+              "content": "2）我等着你吧......",
+              "group": "8/8"
+            },
+            {
+              "id": "step_jingliu_04",
+              "type": "save",
+              "content": "SAVE 8",
+              "group": "8/9"
+            },
+            {
+              "id": "step_jingliu_05",
+              "type": "choice",
+              "content": "2）嗯，也许是这样吧......",
+              "group": "8/9"
+            },
+            {
+              "id": "step_jingliu_06",
+              "type": "choice",
+              "content": "1）是啊",
+              "group": "8/9"
+            },
+            {
+              "id": "step_jingliu_08",
+              "type": "choice",
+              "content": "2）静流小姐",
+              "group": "8/10"
+            },
+            {
+              "id": "step_jingliu_09",
+              "type": "save",
+              "content": "SAVE 9",
+              "group": "8/10"
+            },
+            {
+              "id": "step_jingliu_10",
+              "type": "choice",
+              "content": "1）把得到的贝壳送给萤",
+              "group": "8/10"
+            },
+            {
+              "id": "step_jingliu_12",
+              "type": "choice",
+              "content": "2）我去买点东西回来。",
+              "group": "8/12（未标记推算）"
+            },
+            {
+              "id": "step_jingliu_14",
+              "type": "choice",
+              "content": "2）是想起了什么不愉快的事吗？",
+              "group": "8/14"
+            },
+            {
+              "id": "step_jingliu_15",
+              "type": "choice",
+              "content": "2）我自己都不知道自己在想什么",
+              "group": "8/15"
+            },
+            {
+              "id": "step_jingliu_17",
+              "type": "choice",
+              "content": "1）静流小姐的事",
+              "group": "8/16"
+            }
+          ]
+        },
+        {
+          "id": "ending_jingliu_bad",
+          "name": "静流 bad end",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_jingliu_bad_01",
+              "type": "load",
+              "content": "LOAD 9"
+            },
+            {
+              "id": "step_jingliu_bad_02",
+              "type": "choice",
+              "content": "2）约定下次补偿",
+              "group": "8/10"
+            },
+            {
+              "id": "step_jingliu_bad_03",
+              "type": "choice",
+              "content": "1）......请坐",
+              "group": "8/12"
+            },
+            {
+              "id": "step_jingliu_bad_04",
+              "type": "choice",
+              "content": "1）是因为耳朵受到了很大刺激吗？",
+              "group": "8/14"
+            },
+            {
+              "id": "step_jingliu_bad_05",
+              "type": "choice",
+              "content": "1）我真的喜欢萤吗？",
+              "group": "8/15"
+            },
+            {
+              "id": "step_jingliu_bad_06",
+              "type": "choice",
+              "content": "2）萤的事",
+              "group": "8/16"
+            }
+          ]
+        },
+        {
+          "id": "ending_xi",
+          "name": "希结局",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_xi_01",
+              "type": "load",
+              "content": "LOAD 8"
+            },
+            {
+              "id": "step_xi_02",
+              "type": "choice",
+              "content": "1）也许是性格显得有些奇怪",
+              "group": "8/9"
+            },
+            {
+              "id": "step_xi_04",
+              "type": "choice",
+              "content": "1）还是等等吧",
+              "group": "8/10"
+            },
+            {
+              "id": "step_xi_06",
+              "type": "choice",
+              "content": "1）去问一问",
+              "group": "8/13（未标记推算）"
+            },
+            {
+              "id": "step_xi_07",
+              "type": "choice",
+              "content": "2）因为还要去打工，所以想回家休息一下",
+              "group": "8/15"
+            },
+            {
+              "id": "step_xi_08",
+              "type": "choice",
+              "content": "1）上前同她搭话",
+              "group": "8/17"
+            },
+            {
+              "id": "step_xi_13",
+              "type": "choice",
+              "content": "1）寻找A栋",
+              "group": "8/28"
+            },
+            {
+              "id": "step_xi_14",
+              "type": "choice",
+              "content": "2）寻找B栋",
+              "group": "8/28"
+            },
+            {
+              "id": "step_xi_15",
+              "type": "choice",
+              "content": "3）寻找C栋",
+              "group": "8/28"
+            },
+            {
+              "id": "step_xi_17",
+              "type": "save",
+              "content": "SAVE 10",
+              "group": "8/30"
+            },
+            {
+              "id": "step_xi_18",
+              "type": "choice",
+              "content": "1）刚才应该是希吧？",
+              "group": "8/30"
+            }
+          ]
+        },
+        {
+          "id": "ending_wang",
+          "name": "望结局",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_wang_01",
+              "type": "load",
+              "content": "LOAD 10"
+            },
+            {
+              "id": "step_wang_02",
+              "type": "choice",
+              "content": "2）刚才应该是望吧？",
+              "group": "8/30"
+            },
+            {
+              "id": "step_wang_03",
+              "type": "choice",
+              "content": "2）同望继续谈下去",
+              "group": "8/30"
+            }
+          ]
+        },
+        {
+          "id": "ending_xiwang",
+          "name": "希望结局",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_xiwang_01",
+              "type": "load",
+              "content": "LOAD 10"
+            },
+            {
+              "id": "step_xiwang_02",
+              "type": "choice",
+              "content": "2）刚才应该是望吧？",
+              "group": "8/30"
+            },
+            {
+              "id": "step_xiwang_03",
+              "type": "choice",
+              "content": "1）很担心希",
+              "group": "8/30"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

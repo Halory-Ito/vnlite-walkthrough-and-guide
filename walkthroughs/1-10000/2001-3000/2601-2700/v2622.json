@@ -1,0 +1,155 @@
+{
+  "vid": "v2622",
+  "name": {
+    "zh-cn": "幼驯染成了大总统",
+    "en-us": "My Girlfriend is the President",
+    "ja-jp": "幼なじみは大統領 My girlfriend is the PRESIDENT.",
+    "ja-Latn": "osananajimi-wa-daitouryou"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-12",
+  "routes": [
+    {
+      "id": "route_1757157185655",
+      "name": "雪乃",
+      "endings": [
+        {
+          "id": "ending_1757157372112",
+          "name": "雪乃 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1757157414365",
+              "type": "choice",
+              "content": "我是向朋友借的光碟......"
+            },
+            {
+              "id": "step_1757157414594",
+              "type": "choice",
+              "content": "屁股小小的女孩"
+            },
+            {
+              "id": "step_1757157414981",
+              "type": "choice",
+              "content": "雪乃"
+            },
+            {
+              "id": "step_1757157415140",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1757157415308",
+              "type": "choice",
+              "content": "不能姑息。要惩罚！"
+            },
+            {
+              "id": "step_1757157415489",
+              "type": "choice",
+              "content": "印度人靠右站"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1757157777582",
+      "name": "叶莲娜",
+      "endings": [
+        {
+          "id": "ending_1757157787077",
+          "name": "叶莲娜 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1757157805403",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1757157809170",
+              "type": "choice",
+              "content": "很正常的事情啦。丢开不管吧"
+            },
+            {
+              "id": "step_1757157814207",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1757157819509",
+              "type": "choice",
+              "content": "美味，太美味了！！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1757157830251",
+      "name": "兰",
+      "endings": [
+        {
+          "id": "ending_1757157836343",
+          "name": "兰 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1757157841671",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1757157845583",
+              "type": "choice",
+              "content": "嗯。不坏。"
+            },
+            {
+              "id": "step_1757157846539",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_1757157853736",
+              "type": "choice",
+              "content": "赞美兰姐"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1757157863172",
+      "name": "艾露",
+      "endings": [
+        {
+          "id": "ending_1757157870900",
+          "name": "艾露 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1757157872591",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1757157876064",
+              "type": "choice",
+              "content": "总之先问问熊猫的事情"
+            },
+            {
+              "id": "step_1757157876473",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_1757157915339",
+              "type": "choice",
+              "content": "这种感觉......是恋爱的感觉吗"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,302 @@
+{
+  "vid": "v18141",
+  "name": {
+    "zh-cn": "ワールド・エレクション",
+    "ja-jp": "ワールド・エレクション",
+    "ja-Latn": "world-election"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-14",
+  "tips": [
+    "★选项为主要角色攻略后才会出现"
+  ],
+  "routes": [
+    {
+      "id": "route_game_guide",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_keruru",
+          "name": "克露露 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_keruru_01",
+              "type": "choice",
+              "content": "不去问"
+            },
+            {
+              "id": "step_keruru_02",
+              "type": "choice",
+              "content": "睡到中午",
+              "prefix": "★"
+            },
+            {
+              "id": "step_keruru_03",
+              "type": "choice",
+              "content": "为昨天的事道歉"
+            },
+            {
+              "id": "step_keruru_04",
+              "type": "choice",
+              "content": "说不要在意"
+            },
+            {
+              "id": "step_keruru_05",
+              "type": "choice",
+              "content": "考虑明天的计划",
+              "prefix": "★"
+            },
+            {
+              "id": "step_keruru_06",
+              "type": "choice",
+              "content": "有魅力"
+            },
+            {
+              "id": "step_keruru_07",
+              "type": "choice",
+              "content": "总有一天会让你还清这份人情的"
+            },
+            {
+              "id": "step_keruru_08",
+              "type": "choice",
+              "content": "准备考试",
+              "prefix": "★"
+            },
+            {
+              "id": "step_keruru_09",
+              "type": "choice",
+              "content": "敲一下脑袋"
+            },
+            {
+              "id": "step_keruru_10",
+              "type": "choice",
+              "content": "出布"
+            },
+            {
+              "id": "step_keruru_11",
+              "type": "choice",
+              "content": "问她接下来想去哪里"
+            },
+            {
+              "id": "step_keruru_12",
+              "type": "choice",
+              "content": "身体绷紧了"
+            },
+            {
+              "id": "step_keruru_13",
+              "type": "choice",
+              "content": "用于选举对策",
+              "prefix": "★"
+            },
+            {
+              "id": "step_keruru_14",
+              "type": "choice",
+              "content": "坦率地传达我的担心"
+            },
+            {
+              "id": "step_keruru_15",
+              "type": "choice",
+              "content": "还好恢复原状了"
+            },
+            {
+              "id": "step_keruru_16",
+              "type": "choice",
+              "content": "寻找一起吃饭的人",
+              "prefix": "★"
+            },
+            {
+              "id": "step_keruru_17",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_keruru_18",
+              "type": "choice",
+              "content": "克露露"
+            }
+          ]
+        },
+        {
+          "id": "ending_true_keruru",
+          "name": "TRUE END(克露露)",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_true_01",
+              "type": "note",
+              "content": "标题画面选择？？？"
+            },
+            {
+              "id": "step_true_02",
+              "type": "choice",
+              "content": "输入代码"
+            },
+            {
+              "id": "step_true_03",
+              "type": "note",
+              "content": "标题画面选择ワールドセレクション"
+            }
+          ]
+        },
+        {
+          "id": "ending_sophia",
+          "name": "索菲亚 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_sophia_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_sophia_02",
+              "type": "choice",
+              "content": "索菲亚"
+            }
+          ]
+        },
+        {
+          "id": "ending_iori",
+          "name": "伊织 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_iori_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_iori_02",
+              "type": "choice",
+              "content": "伊织"
+            }
+          ]
+        },
+        {
+          "id": "ending_pafiru",
+          "name": "帕菲尔 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_pafiru_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_pafiru_02",
+              "type": "choice",
+              "content": "帕菲尔"
+            }
+          ]
+        },
+        {
+          "id": "ending_faura",
+          "name": "法乌拉 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_faura_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_faura_02",
+              "type": "choice",
+              "content": "法乌拉"
+            }
+          ]
+        },
+        {
+          "id": "ending_minayo",
+          "name": "美奈代 END",
+          "type": "normal",
+          "requirements": "配角攻略从最初开始,克露露TE后",
+          "steps": [
+            {
+              "id": "step_minayo_03",
+              "type": "choice",
+              "content": "思考美奈代的事情"
+            }
+          ]
+        },
+        {
+          "id": "ending_satsuki",
+          "name": "沙月 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_satsuki_01",
+              "type": "choice",
+              "content": "去车站前吃点东西"
+            }
+          ]
+        },
+        {
+          "id": "ending_chiko",
+          "name": "奇可 END",
+          "type": "normal",
+          "requirements": "索菲亚攻略后",
+          "steps": [
+            {
+              "id": "step_chiko_02",
+              "type": "choice",
+              "content": "马上睡觉"
+            }
+          ]
+        },
+        {
+          "id": "ending_mero",
+          "name": "梅洛 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_mero_01",
+              "type": "choice",
+              "content": "出门"
+            }
+          ]
+        },
+        {
+          "id": "ending_mariko",
+          "name": "波子 END",
+          "type": "normal",
+          "requirements": "天使攻略后",
+          "steps": [
+            {
+              "id": "step_mariko_02",
+              "type": "choice",
+              "content": "考虑波子的事情"
+            }
+          ]
+        },
+        {
+          "id": "ending_miril",
+          "name": "米丽尔 END",
+          "type": "normal",
+          "requirements": "天使攻略后",
+          "steps": [
+            {
+              "id": "step_miril_02",
+              "type": "choice",
+              "content": "思考米丽尔老师的事情"
+            }
+          ]
+        },
+        {
+          "id": "ending_mushuya",
+          "name": "穆舒娅 END",
+          "type": "normal",
+          "requirements": "法乌拉攻略后",
+          "steps": [
+            {
+              "id": "step_mushuya_02",
+              "type": "choice",
+              "content": "没有任何安排"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

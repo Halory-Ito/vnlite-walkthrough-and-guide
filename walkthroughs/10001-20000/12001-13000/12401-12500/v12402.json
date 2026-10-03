@@ -1,0 +1,361 @@
+{
+  "vid": "v12402",
+  "name": {
+    "zh-cn": "海市蜃楼之馆",
+    "en-us": "The House in Fata Morgana",
+    "ja-jp": "ファタモルガーナの館",
+    "ja-Latn": "fata-morgana-no-yakata"
+  },
+  "level": 2,
+  "updatedAt": "2026-05-04",
+  "routes": [
+    {
+      "id": "route_full",
+      "name": "全结局流程",
+      "endings": [
+        {
+          "id": "ending_01",
+          "name": "End1 海市蜃楼的囚徒",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_e1_01",
+              "type": "note",
+              "content": "早安……（任意选项）",
+              "group": "序章"
+            },
+            {
+              "id": "step_e1_02",
+              "type": "note",
+              "content": "1603 年",
+              "group": "第一章"
+            },
+            {
+              "id": "step_e1_03",
+              "type": "note",
+              "content": "1707 年",
+              "group": "第二章"
+            },
+            {
+              "id": "step_e1_04",
+              "type": "choice",
+              "content": "伸出手",
+              "group": "第二章"
+            },
+            {
+              "id": "step_e1_05",
+              "type": "note",
+              "content": "1869 年",
+              "group": "第三章"
+            },
+            {
+              "id": "step_e1_06",
+              "type": "choice",
+              "content": "把手伸进去",
+              "group": "探索"
+            },
+            {
+              "id": "step_e1_07",
+              "type": "choice",
+              "content": "去彩绘玻璃窗前",
+              "group": "探索"
+            },
+            {
+              "id": "step_e1_08",
+              "type": "choice",
+              "content": "试着呼唤女仆",
+              "group": "探索"
+            },
+            {
+              "id": "step_e1_09",
+              "type": "note",
+              "content": "1099 年",
+              "group": "第四章"
+            },
+            {
+              "id": "step_e1_10",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_e1_11",
+              "type": "choice",
+              "content": "接受女仆的提议"
+            }
+          ]
+        },
+        {
+          "id": "ending_02",
+          "name": "End2 与你相迎",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_e2_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_e2_02",
+              "type": "choice",
+              "content": "拒绝女仆的提议"
+            }
+          ]
+        },
+        {
+          "id": "ending_03",
+          "name": "End3 早安，人偶",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_e3_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_e3_02",
+              "type": "choice",
+              "content": "不能就此结束"
+            },
+            {
+              "id": "step_e3_03",
+              "type": "choice",
+              "content": "找回自我（7次）"
+            },
+            {
+              "id": "step_e3_04",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_e3_05",
+              "type": "choice",
+              "content": "不会再勉强"
+            }
+          ]
+        },
+        {
+          "id": "ending_04",
+          "name": "End4 踌躇",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_e4_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_e4_02",
+              "type": "choice",
+              "content": "就算如此，也要让她回忆起一切"
+            },
+            {
+              "id": "step_e4_03",
+              "type": "note",
+              "content": "月光的魔法",
+              "group": "第五章"
+            },
+            {
+              "id": "step_e4_04",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_e4_05",
+              "type": "note",
+              "content": "否定",
+              "group": "第六章"
+            },
+            {
+              "id": "step_e4_06",
+              "type": "choice",
+              "content": "等选项消失（约3秒）"
+            }
+          ]
+        },
+        {
+          "id": "ending_05",
+          "name": "End5 无论如何也不要放弃",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_e5_01",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_e5_02",
+              "type": "note",
+              "content": "对话选项任意",
+              "group": "夺回"
+            },
+            {
+              "id": "step_e5_03",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_e5_04",
+              "type": "choice",
+              "content": "前往蔷薇花园"
+            },
+            {
+              "id": "step_e5_05",
+              "type": "save",
+              "content": "SAVE 5"
+            },
+            {
+              "id": "step_e5_06",
+              "type": "choice",
+              "content": "下到地下仓库"
+            },
+            {
+              "id": "step_e5_07",
+              "type": "save",
+              "content": "SAVE 6"
+            },
+            {
+              "id": "step_e5_08",
+              "type": "note",
+              "content": "放弃",
+              "group": "第七章"
+            }
+          ]
+        },
+        {
+          "id": "ending_06",
+          "name": "End6 永恒的黑暗",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_e6_01",
+              "type": "load",
+              "content": "LOAD 6"
+            },
+            {
+              "id": "step_e6_02",
+              "type": "note",
+              "content": "等选项消失（约3秒）",
+              "group": "第七章"
+            },
+            {
+              "id": "step_e6_03",
+              "type": "note",
+              "content": "任意选项",
+              "group": "最终章"
+            },
+            {
+              "id": "step_e6_04",
+              "type": "save",
+              "content": "SAVE 7"
+            },
+            {
+              "id": "step_e6_05",
+              "type": "choice",
+              "content": "先看下情况再说"
+            },
+            {
+              "id": "step_e6_06",
+              "type": "note",
+              "content": "任意选项"
+            },
+            {
+              "id": "step_e6_07",
+              "type": "save",
+              "content": "SAVE 8"
+            },
+            {
+              "id": "step_e6_08",
+              "type": "choice",
+              "content": "去追奈莉"
+            },
+            {
+              "id": "step_e6_09",
+              "type": "save",
+              "content": "SAVE 9"
+            },
+            {
+              "id": "step_e6_10",
+              "type": "choice",
+              "content": "就此别过"
+            },
+            {
+              "id": "step_e6_11",
+              "type": "save",
+              "content": "SAVE 10"
+            },
+            {
+              "id": "step_e6_12",
+              "type": "choice",
+              "content": "撞开领主"
+            }
+          ]
+        },
+        {
+          "id": "ending_07",
+          "name": "End7 别离",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_e7_01",
+              "type": "load",
+              "content": "LOAD 10"
+            },
+            {
+              "id": "step_e7_02",
+              "type": "choice",
+              "content": "对黑暗伸出手"
+            },
+            {
+              "id": "step_e7_03",
+              "type": "note",
+              "content": "我做不到",
+              "group": "回归"
+            },
+            {
+              "id": "step_e7_04",
+              "type": "note",
+              "content": "我做不到"
+            },
+            {
+              "id": "step_e7_05",
+              "type": "note",
+              "content": "……"
+            },
+            {
+              "id": "step_e7_06",
+              "type": "choice",
+              "content": "刺穿少女"
+            },
+            {
+              "id": "step_e7_07",
+              "type": "save",
+              "content": "SAVE 11"
+            },
+            {
+              "id": "step_e7_08",
+              "type": "choice",
+              "content": "去外边吧"
+            }
+          ]
+        },
+        {
+          "id": "ending_08",
+          "name": "End8 海市蜃楼",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_e8_01",
+              "type": "load",
+              "content": "LOAD 11"
+            },
+            {
+              "id": "step_e8_02",
+              "type": "choice",
+              "content": "还有要去的地方"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

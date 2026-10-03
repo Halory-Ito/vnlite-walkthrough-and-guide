@@ -1,0 +1,162 @@
+{
+  "vid": "v47175",
+  "name": {
+    "zh-cn": "天选庶民的真命之选",
+    "en-us": "Select Oblige",
+    "ja-jp": "セレクトオブリージュ",
+    "ja-Latn": "select-oblige"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-14",
+  "routes": [
+    {
+      "id": "route_1772366671518",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1772366681948",
+          "name": "一色 奏命",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1772366705092",
+              "type": "choice",
+              "content": "为了保护蓼科而站出来"
+            },
+            {
+              "id": "step_1772366705267",
+              "type": "choice",
+              "content": "说实话"
+            },
+            {
+              "id": "step_1772366705452",
+              "type": "choice",
+              "content": "请她辅导一下吧"
+            },
+            {
+              "id": "step_1772366719669",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1772366720671",
+              "type": "choice",
+              "content": "开诚布公"
+            },
+            {
+              "id": "step_1772366720842",
+              "type": "choice",
+              "content": "那就相信她吧"
+            },
+            {
+              "id": "step_1772366721097",
+              "type": "choice",
+              "content": "凪逃跑了！"
+            },
+            {
+              "id": "step_1772366729581",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1772366742030",
+              "type": "choice",
+              "content": "奏命"
+            },
+            {
+              "id": "step_1772366742275",
+              "type": "choice",
+              "content": "暂且保留"
+            },
+            {
+              "id": "step_1772366742660",
+              "type": "choice",
+              "content": "对她出手"
+            }
+          ]
+        },
+        {
+          "id": "ending_1772366682090",
+          "name": "蓼科 伊舞",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1772366793088",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1772366797485",
+              "type": "choice",
+              "content": "伊舞"
+            },
+            {
+              "id": "step_1772366797677",
+              "type": "choice",
+              "content": "真是求之不得的好事，但是……"
+            }
+          ]
+        },
+        {
+          "id": "ending_1772366682349",
+          "name": "夜刀 空空瑠",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1772366830498",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1772366835071",
+              "type": "choice",
+              "content": "空空瑠"
+            },
+            {
+              "id": "step_1772366835279",
+              "type": "choice",
+              "content": "真是求之不得的好事，但是……"
+            }
+          ]
+        },
+        {
+          "id": "ending_1772366682753",
+          "name": "灯莉",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1772366872432",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1772366875509",
+              "type": "choice",
+              "content": "先跟灯莉商量一下"
+            },
+            {
+              "id": "step_1772366875682",
+              "type": "choice",
+              "content": "怎么听怎么可疑"
+            },
+            {
+              "id": "step_1772366875875",
+              "type": "choice",
+              "content": "安慰灯莉"
+            },
+            {
+              "id": "step_1772366876165",
+              "type": "choice",
+              "content": "现在还不知道"
+            },
+            {
+              "id": "step_1772366876430",
+              "type": "choice",
+              "content": "真是求之不得的好事，但是……"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "vid": "v1140",
+  "name": {
+    "zh-cn": "マジスキ～Marginal Skip～",
+    "ja-jp": "マジスキ～Marginal Skip～",
+    "ja-Latn": "maji-suki-marginal-skip"
+  },
+  "level": 2,
+  "updatedAt": "2026-05-09",
+  "routes": [
+    {
+      "id": "route_kanade",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_kanade",
+          "name": "奏 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_kanade_01",
+              "type": "choice",
+              "content": "送过去",
+              "group": "4月9日"
+            },
+            {
+              "id": "step_kanade_02",
+              "type": "choice",
+              "content": "邀请她看看情况",
+              "group": "4月10日"
+            },
+            {
+              "id": "step_kanade_03",
+              "type": "choice",
+              "content": "偷看",
+              "group": "4月13日"
+            },
+            {
+              "id": "step_kanade_04",
+              "type": "save",
+              "content": "SAVE 1",
+              "group": "4月14日"
+            },
+            {
+              "id": "step_kanade_05",
+              "type": "choice",
+              "content": "如果奏能高兴的话……",
+              "group": "4月14日"
+            }
+          ]
+        },
+        {
+          "id": "ending_fuyuko",
+          "name": "冬子 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_fuyuko_01",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_fuyuko_02",
+              "type": "choice",
+              "content": "不过果然还是有点微妙……",
+              "group": "4月14日"
+            },
+            {
+              "id": "step_fuyuko_03",
+              "type": "save",
+              "content": "SAVE 2",
+              "group": "4月14日"
+            },
+            {
+              "id": "step_fuyuko_04",
+              "type": "choice",
+              "content": "但我还是想看",
+              "group": "4月14日"
+            }
+          ]
+        },
+        {
+          "id": "ending_yukina",
+          "name": "由纪菜 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_yukina_01",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_yukina_02",
+              "type": "choice",
+              "content": "这里就让给她吧",
+              "group": "4月14日"
+            },
+            {
+              "id": "step_yukina_03",
+              "type": "save",
+              "content": "SAVE 3",
+              "group": "4月14日"
+            },
+            {
+              "id": "step_yukina_04",
+              "type": "choice",
+              "content": "去看由纪菜的情况",
+              "group": "4月14日"
+            }
+          ]
+        },
+        {
+          "id": "ending_nis",
+          "name": "尼斯 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_nis_01",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_nis_02",
+              "type": "choice",
+              "content": "带尼斯的路",
+              "group": "4月14日"
+            }
+          ]
+        },
+        {
+          "id": "ending_shela",
+          "name": "谢拉 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_shela_01",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_shela_02",
+              "type": "choice",
+              "content": "带谢拉的路",
+              "group": "4月14日"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

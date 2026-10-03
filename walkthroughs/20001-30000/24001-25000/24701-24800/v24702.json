@@ -1,0 +1,200 @@
+{
+  "vid": "v24702",
+  "name": {
+    "zh-cn": "青夏轨迹",
+    "ja-jp": "アオナツライン",
+    "ja-Latn": "aonatsu-line"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-13",
+  "tips": [
+    "选对应攻略角色的相关选项即可",
+    "五月第一章只有海希和结选项可选，此后5个选项均为海希/结/琴音"
+  ],
+  "routes": [
+    {
+      "id": "route_1761223367865",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1761223378119",
+          "name": "海希 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1761223411772",
+              "type": "choice",
+              "content": "海希X6"
+            },
+            {
+              "id": "step_1761223424265",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1761223425694",
+              "type": "choice",
+              "content": "向坂海希 | 1"
+            },
+            {
+              "id": "step_1761223430364",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1761223434056",
+              "type": "choice",
+              "content": "向坂海希 | 2"
+            },
+            {
+              "id": "step_1761223434233",
+              "type": "choice",
+              "content": "向坂海希 | 3"
+            },
+            {
+              "id": "step_1761223443672",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_1761223454278",
+              "type": "choice",
+              "content": "向坂海希 | 4"
+            },
+            {
+              "id": "step_1761223457409",
+              "type": "choice",
+              "content": "向坂海希 | 5"
+            },
+            {
+              "id": "step_1761223457596",
+              "type": "choice",
+              "content": "向坂海希 | 6"
+            }
+          ]
+        },
+        {
+          "id": "ending_1761223498969",
+          "name": "结 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1761223508929",
+              "type": "choice",
+              "content": "结X6"
+            },
+            {
+              "id": "step_1761223511865",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1761223518264",
+              "type": "choice",
+              "content": "仲手川结 |1"
+            },
+            {
+              "id": "step_1761223518409",
+              "type": "choice",
+              "content": "仲手川结 |2"
+            },
+            {
+              "id": "step_1761223523296",
+              "type": "choice",
+              "content": "仲手川结 |3"
+            },
+            {
+              "id": "step_1761223523478",
+              "type": "choice",
+              "content": "仲手川结 |4"
+            },
+            {
+              "id": "step_1761223523713",
+              "type": "choice",
+              "content": "仲手川结 |5"
+            },
+            {
+              "id": "step_1761223523957",
+              "type": "choice",
+              "content": "仲手川结 |6"
+            }
+          ]
+        },
+        {
+          "id": "ending_1761223569119",
+          "name": "琴音 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1761223587780",
+              "type": "choice",
+              "content": "第一个选项任意，其余琴音X5"
+            },
+            {
+              "id": "step_1761223616755",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1761223662274",
+              "type": "choice",
+              "content": "椎野琴音 |1"
+            },
+            {
+              "id": "step_1761223662421",
+              "type": "choice",
+              "content": "椎野琴音 |2"
+            },
+            {
+              "id": "step_1761223662621",
+              "type": "choice",
+              "content": "椎野琴音 |3"
+            },
+            {
+              "id": "step_1761223662862",
+              "type": "choice",
+              "content": "椎野琴音 |4"
+            },
+            {
+              "id": "step_1761223663223",
+              "type": "choice",
+              "content": "椎野琴音 |5"
+            }
+          ]
+        },
+        {
+          "id": "ending_1761223701601",
+          "name": "Bad End",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_1761223716438",
+              "type": "note",
+              "content": "不专一即可"
+            },
+            {
+              "id": "step_1761223740849",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1761223744653",
+              "type": "choice",
+              "content": "仲手川结 |1"
+            },
+            {
+              "id": "step_1761223744813",
+              "type": "choice",
+              "content": "仲手川结 |2"
+            },
+            {
+              "id": "step_1761223745002",
+              "type": "choice",
+              "content": "仲手川结 |3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,351 @@
+{
+  "vid": "v18147",
+  "name": {
+    "zh-cn": "间宫家的五子情事",
+    "ja-jp": "間宮くんちの五つ子事情",
+    "ja-Latn": "mamiya-kunchi-no-itsutsugo-jijou"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-13",
+  "tips": [
+    "★标记的选项为姐妹4人攻略完毕后才出现的追加选项，不出现时无视即可",
+    "★标记的追加选项分支可进入后宫结局，所以可以自行衡量选择",
+    "★所标记的选项需要安装了DLC京花×強化后，才会出现。不安装补丁的话，无法进入京花路线",
+    "把电脑时间设置成5月5日（五子生日的魔法一天）即可在最初界面进入额外小剧场"
+  ],
+  "routes": [
+    {
+      "id": "route_1762335010266",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1762335181563",
+          "name": "间宫 八云",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762335200717",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1762335201490",
+              "type": "choice",
+              "content": "说服八云"
+            },
+            {
+              "id": "step_1762335204293",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1762335206840",
+              "type": "choice",
+              "content": "去见八云姐姐"
+            },
+            {
+              "id": "step_1762335206957",
+              "type": "choice",
+              "content": "睡前去上个厕所"
+            },
+            {
+              "id": "step_1762335207270",
+              "type": "choice",
+              "content": "询问二人打算如何回去"
+            },
+            {
+              "id": "step_1762335207485",
+              "type": "choice",
+              "content": "去客厅看看"
+            },
+            {
+              "id": "step_1762335207783",
+              "type": "choice",
+              "content": "去八云姐那里"
+            },
+            {
+              "id": "step_1762335207976",
+              "type": "choice",
+              "content": "去八云姐姐和萌莉的房间看看"
+            },
+            {
+              "id": "step_1762335208159",
+              "type": "choice",
+              "content": "好好考虑一下",
+              "prefix": "★"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762335182225",
+          "name": "间宫 萌莉",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762335400954",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1762335412096",
+              "type": "choice",
+              "content": "说服萌莉"
+            },
+            {
+              "id": "step_1762335412282",
+              "type": "choice",
+              "content": "去见萌莉"
+            },
+            {
+              "id": "step_1762335412440",
+              "type": "choice",
+              "content": "睡前去喝点水"
+            },
+            {
+              "id": "step_1762335412697",
+              "type": "choice",
+              "content": "询问二人打算如何回去"
+            },
+            {
+              "id": "step_1762335412886",
+              "type": "choice",
+              "content": "去八云和萌莉的房间看看"
+            },
+            {
+              "id": "step_1762335413044",
+              "type": "choice",
+              "content": "去萌莉那里"
+            },
+            {
+              "id": "step_1762335413201",
+              "type": "choice",
+              "content": "去客厅看看"
+            },
+            {
+              "id": "step_1762335413376",
+              "type": "choice",
+              "content": "好好考虑一下",
+              "prefix": "★"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762335182758",
+          "name": "间宫 珠音",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762335498915",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1762335500440",
+              "type": "choice",
+              "content": "说服珠音"
+            },
+            {
+              "id": "step_1762335500606",
+              "type": "choice",
+              "content": "去见珠音"
+            },
+            {
+              "id": "step_1762335500776",
+              "type": "choice",
+              "content": "确认一下明早的准备工作"
+            },
+            {
+              "id": "step_1762335500925",
+              "type": "choice",
+              "content": "询问二人打算如何回去"
+            },
+            {
+              "id": "step_1762335501046",
+              "type": "choice",
+              "content": "待在房间等等有没有人来"
+            },
+            {
+              "id": "step_1762335525260",
+              "type": "choice",
+              "content": "去珠音那里"
+            },
+            {
+              "id": "step_1762335531379",
+              "type": "choice",
+              "content": "嘴里/脸上"
+            },
+            {
+              "id": "step_1762335536919",
+              "type": "choice",
+              "content": "去珠音和音琴的房间看看"
+            },
+            {
+              "id": "step_1762335541841",
+              "type": "choice",
+              "content": "好好考虑一下",
+              "prefix": "★"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762335183231",
+          "name": "间宫 音琴",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762335583487",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1762335584615",
+              "type": "choice",
+              "content": "说服音琴"
+            },
+            {
+              "id": "step_1762335584888",
+              "type": "choice",
+              "content": "去见音琴"
+            },
+            {
+              "id": "step_1762335585106",
+              "type": "choice",
+              "content": "直接睡觉"
+            },
+            {
+              "id": "step_1762335585273",
+              "type": "choice",
+              "content": "询问二人打算如何回去"
+            },
+            {
+              "id": "step_1762335585443",
+              "type": "choice",
+              "content": "不早了去睡觉吧"
+            },
+            {
+              "id": "step_1762335585589",
+              "type": "choice",
+              "content": "嘴里/脸上"
+            },
+            {
+              "id": "step_1762335585738",
+              "type": "choice",
+              "content": "去音琴那里"
+            },
+            {
+              "id": "step_1762335585868",
+              "type": "choice",
+              "content": "就这么睡吧"
+            },
+            {
+              "id": "step_1762335586029",
+              "type": "choice",
+              "content": "好好考虑一下",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1762335715337",
+              "type": "choice",
+              "content": "就这么戴着眼镜/还是把眼镜摘了吧"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762335840046",
+          "name": "四条院 莉里香",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762335849988",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1762335853595",
+              "type": "choice",
+              "content": "去见四条院"
+            },
+            {
+              "id": "step_1762335853761",
+              "type": "choice",
+              "content": "睡前去喝点水"
+            },
+            {
+              "id": "step_1762335853951",
+              "type": "choice",
+              "content": "送四条院同学和京花姐姐回去"
+            },
+            {
+              "id": "step_1762335854245",
+              "type": "choice",
+              "content": "去四条院同学那里"
+            },
+            {
+              "id": "step_1762335874742",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_1762335878882",
+              "type": "choice",
+              "content": "好好考虑一下",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1762335898887",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_1762335911775",
+              "type": "choice",
+              "content": "一个人去",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1762335957186",
+              "type": "choice",
+              "content": "将太阳镜摘下/就这么戴着太阳镜"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762336020699",
+          "name": "后宫线",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762336041346",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1762336047461",
+              "type": "choice",
+              "content": "选一个什么的，太为难我了",
+              "prefix": "★"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762336071330",
+          "name": "间宫 京花",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762336081871",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_1762336100335",
+              "type": "choice",
+              "content": "和京花老师一起去",
+              "prefix": "★"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

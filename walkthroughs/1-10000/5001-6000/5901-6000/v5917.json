@@ -1,0 +1,243 @@
+{
+  "vid": "v5917",
+  "name": {
+    "zh-cn": "Primary Step",
+    "ja-jp": "Primary Step",
+    "ja-Latn": "primary-step"
+  },
+  "level": 2,
+  "updatedAt": "2026-03-24",
+  "routes": [
+    {
+      "id": "route_game",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_azumi_end",
+          "name": "あずみ END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_azumi_01",
+              "type": "choice",
+              "content": "去あずみ那里"
+            },
+            {
+              "id": "step_azumi_02",
+              "type": "choice",
+              "content": "看起来不像是在找东西啊"
+            },
+            {
+              "id": "step_azumi_03",
+              "type": "choice",
+              "content": "搬蛋糕"
+            },
+            {
+              "id": "step_azumi_04",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_azumi_05",
+              "type": "choice",
+              "content": "比较有精神的那边"
+            },
+            {
+              "id": "step_azumi_06",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_azumi_07",
+              "type": "choice",
+              "content": "哪怕只是听她说说也好"
+            },
+            {
+              "id": "step_azumi_08",
+              "type": "choice",
+              "content": "如果只是那种程度的话"
+            },
+            {
+              "id": "step_azumi_09",
+              "type": "choice",
+              "content": "摸摸モモ的头"
+            },
+            {
+              "id": "step_azumi_10",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_azumi_11",
+              "type": "choice",
+              "content": "关于今天早上的梦"
+            },
+            {
+              "id": "step_azumi_12",
+              "type": "choice",
+              "content": "左边的签"
+            }
+          ]
+        },
+        {
+          "id": "ending_yuuri_end",
+          "name": "優理 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_yuuri_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_yuuri_02",
+              "type": "choice",
+              "content": "按自己步调的那边"
+            },
+            {
+              "id": "step_yuuri_03",
+              "type": "choice",
+              "content": "说这说那也只会让她烦恼吗"
+            },
+            {
+              "id": "step_yuuri_04",
+              "type": "choice",
+              "content": "我也跟你一起去"
+            },
+            {
+              "id": "step_yuuri_05",
+              "type": "choice",
+              "content": "如果只是那种程度的话"
+            },
+            {
+              "id": "step_yuuri_06",
+              "type": "choice",
+              "content": "帮她拿行李"
+            },
+            {
+              "id": "step_yuuri_07",
+              "type": "choice",
+              "content": "学园的钟"
+            }
+          ]
+        },
+        {
+          "id": "ending_risa_end",
+          "name": "里沙 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_risa_01",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_risa_02",
+              "type": "choice",
+              "content": "关于今天的企划"
+            }
+          ]
+        },
+        {
+          "id": "ending_sumire_end",
+          "name": "菫 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_sumire_01",
+              "type": "choice",
+              "content": "太在意也不好啊"
+            },
+            {
+              "id": "step_sumire_02",
+              "type": "choice",
+              "content": "哪怕只是听她说说也好"
+            },
+            {
+              "id": "step_sumire_03",
+              "type": "choice",
+              "content": "按自己步调的那边"
+            },
+            {
+              "id": "step_sumire_04",
+              "type": "choice",
+              "content": "哪怕只是听她说说也好"
+            },
+            {
+              "id": "step_sumire_05",
+              "type": "choice",
+              "content": "没什么特别的事"
+            },
+            {
+              "id": "step_sumire_06",
+              "type": "choice",
+              "content": "询问菫的学习方法"
+            },
+            {
+              "id": "step_sumire_07",
+              "type": "choice",
+              "content": "帮她拿行李"
+            },
+            {
+              "id": "step_sumire_08",
+              "type": "choice",
+              "content": "划过星空的光"
+            },
+            {
+              "id": "step_sumire_09",
+              "type": "choice",
+              "content": "青梅竹马"
+            }
+          ]
+        },
+        {
+          "id": "ending_tomoka_end",
+          "name": "朋香 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_tomoka_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_tomoka_02",
+              "type": "choice",
+              "content": "说这说那也只会让她烦恼吗"
+            },
+            {
+              "id": "step_tomoka_03",
+              "type": "choice",
+              "content": "遇到困难就打电话给我吧"
+            },
+            {
+              "id": "step_tomoka_04",
+              "type": "choice",
+              "content": "如果只是那种程度的话"
+            },
+            {
+              "id": "step_tomoka_05",
+              "type": "choice",
+              "content": "摸摸モモ的头"
+            },
+            {
+              "id": "step_tomoka_06",
+              "type": "choice",
+              "content": "口袋里的手帕"
+            },
+            {
+              "id": "step_tomoka_07",
+              "type": "choice",
+              "content": "假装睡着"
+            },
+            {
+              "id": "step_tomoka_08",
+              "type": "choice",
+              "content": "抓住"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

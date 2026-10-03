@@ -1,0 +1,3629 @@
+{
+  "vid": "v247",
+  "name": {
+    "zh-cn": "跳跃的时空 12RIVEN",
+    "ja-jp": "12RIVEN-the Ψcliminal of integral-",
+    "ja-Latn": "12riven"
+  },
+  "level": 1,
+  "updatedAt": "2026-03-25",
+  "routes": [
+    {
+      "id": "route_12riven",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_01",
+          "name": "END1 indefinite integrals",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_e1_001",
+              "type": "choice",
+              "content": "还好……"
+            },
+            {
+              "id": "step_e1_002",
+              "type": "choice",
+              "content": "谈论资格方面"
+            },
+            {
+              "id": "step_e1_003",
+              "type": "choice",
+              "content": "大声呼喊"
+            },
+            {
+              "id": "step_e1_004",
+              "type": "choice",
+              "content": "使用手机"
+            },
+            {
+              "id": "step_e1_005",
+              "type": "choice",
+              "content": "完全不回嘴"
+            },
+            {
+              "id": "step_e1_006",
+              "type": "choice",
+              "content": "询问没有人的理由"
+            },
+            {
+              "id": "step_e1_007",
+              "type": "choice",
+              "content": "关于交通机关"
+            },
+            {
+              "id": "step_e1_008",
+              "type": "choice",
+              "content": "关于大众媒体"
+            },
+            {
+              "id": "step_e1_009",
+              "type": "choice",
+              "content": "关于通讯"
+            },
+            {
+              "id": "step_e1_010",
+              "type": "choice",
+              "content": "刻意不去想"
+            },
+            {
+              "id": "step_e1_011",
+              "type": "choice",
+              "content": "想也不去想"
+            },
+            {
+              "id": "step_e1_012",
+              "type": "choice",
+              "content": "你谁啊？"
+            },
+            {
+              "id": "step_e1_013",
+              "type": "choice",
+              "content": "仍然保持冷静"
+            },
+            {
+              "id": "step_e1_014",
+              "type": "choice",
+              "content": "交给大手町"
+            },
+            {
+              "id": "step_e1_015",
+              "type": "choice",
+              "content": "大叫"
+            },
+            {
+              "id": "step_e1_016",
+              "type": "choice",
+              "content": "我也不知道"
+            },
+            {
+              "id": "step_e1_017",
+              "type": "choice",
+              "content": "被克拉肯袭击？"
+            },
+            {
+              "id": "step_e1_018",
+              "type": "choice",
+              "content": "我觉得大手町是笨蛋"
+            },
+            {
+              "id": "step_e1_019",
+              "type": "choice",
+              "content": "看不到直升机的踪影"
+            },
+            {
+              "id": "step_e1_020",
+              "type": "choice",
+              "content": "把玩肩带"
+            },
+            {
+              "id": "step_e1_021",
+              "type": "choice",
+              "content": "不告诉他比较好"
+            },
+            {
+              "id": "step_e1_022",
+              "type": "choice",
+              "content": "不肯罢休"
+            },
+            {
+              "id": "step_e1_023",
+              "type": "choice",
+              "content": "等他阅读结束"
+            },
+            {
+              "id": "step_e1_024",
+              "type": "choice",
+              "content": "为大手町说的话感到烦躁"
+            },
+            {
+              "id": "step_e1_025",
+              "type": "choice",
+              "content": "没感觉"
+            },
+            {
+              "id": "step_e1_026",
+              "type": "choice",
+              "content": "点头"
+            },
+            {
+              "id": "step_e1_027",
+              "type": "choice",
+              "content": "炼丸与缪"
+            },
+            {
+              "id": "step_e1_028",
+              "type": "choice",
+              "content": "你很期待吗？"
+            },
+            {
+              "id": "step_e1_029",
+              "type": "choice",
+              "content": "看窗户"
+            },
+            {
+              "id": "step_e1_030",
+              "type": "choice",
+              "content": "看报纸"
+            },
+            {
+              "id": "step_e1_031",
+              "type": "choice",
+              "content": "那个理文六高的男生吗？"
+            },
+            {
+              "id": "step_e1_032",
+              "type": "choice",
+              "content": "看不到人类静止时候的模样？"
+            },
+            {
+              "id": "step_e1_033",
+              "type": "choice",
+              "content": "思考为什么没察觉到"
+            },
+            {
+              "id": "step_e1_034",
+              "type": "choice",
+              "content": "不能"
+            },
+            {
+              "id": "step_e1_035",
+              "type": "choice",
+              "content": "Eclipse"
+            },
+            {
+              "id": "step_e1_036",
+              "type": "choice",
+              "content": "关于雾寺，你知道些什么？"
+            },
+            {
+              "id": "step_e1_037",
+              "type": "choice",
+              "content": "看浴缸外侧"
+            },
+            {
+              "id": "step_e1_038",
+              "type": "choice",
+              "content": "看浴缸"
+            },
+            {
+              "id": "step_e1_039",
+              "type": "choice",
+              "content": "有"
+            },
+            {
+              "id": "step_e1_040",
+              "type": "choice",
+              "content": "缪"
+            },
+            {
+              "id": "step_e1_041",
+              "type": "choice",
+              "content": "蓝发少女"
+            },
+            {
+              "id": "step_e1_042",
+              "type": "choice",
+              "content": "有一大盘海胆"
+            },
+            {
+              "id": "step_e1_043",
+              "type": "choice",
+              "content": "不太"
+            },
+            {
+              "id": "step_e1_044",
+              "type": "choice",
+              "content": "嗯"
+            },
+            {
+              "id": "step_e1_045",
+              "type": "choice",
+              "content": "调查床铺"
+            },
+            {
+              "id": "step_e1_046",
+              "type": "choice",
+              "content": "调查床头柜"
+            },
+            {
+              "id": "step_e1_047",
+              "type": "choice",
+              "content": "调查椅子"
+            },
+            {
+              "id": "step_e1_048",
+              "type": "choice",
+              "content": "调查窗户"
+            },
+            {
+              "id": "step_e1_049",
+              "type": "choice",
+              "content": "调查衣橱"
+            },
+            {
+              "id": "step_e1_050",
+              "type": "choice",
+              "content": "调查浴室"
+            },
+            {
+              "id": "step_e1_051",
+              "type": "choice",
+              "content": "绵盐"
+            },
+            {
+              "id": "step_e1_052",
+              "type": "choice",
+              "content": "为什么？"
+            },
+            {
+              "id": "step_e1_053",
+              "type": "choice",
+              "content": "绿色"
+            },
+            {
+              "id": "step_e1_054",
+              "type": "choice",
+              "content": "金星"
+            },
+            {
+              "id": "step_e1_055",
+              "type": "choice",
+              "content": "kitchen scissors（厨房剪刀）"
+            },
+            {
+              "id": "step_e1_056",
+              "type": "choice",
+              "content": "star（星星）"
+            },
+            {
+              "id": "step_e1_057",
+              "type": "choice",
+              "content": "arigato"
+            },
+            {
+              "id": "step_e1_058",
+              "type": "choice",
+              "content": "布"
+            },
+            {
+              "id": "step_e1_060",
+              "type": "choice",
+              "content": "宵木公园"
+            },
+            {
+              "id": "step_e1_061",
+              "type": "choice",
+              "content": "18.44公尺"
+            },
+            {
+              "id": "step_e1_062",
+              "type": "choice",
+              "content": "0.42秒"
+            },
+            {
+              "id": "step_e1_063",
+              "type": "choice",
+              "content": "大约0.2秒"
+            },
+            {
+              "id": "step_e1_064",
+              "type": "choice",
+              "content": "大概0.24秒左右"
+            },
+            {
+              "id": "step_e1_065",
+              "type": "choice",
+              "content": "千里呢……？"
+            },
+            {
+              "id": "step_e1_066",
+              "type": "choice",
+              "content": "叉开双腿站在缪前面"
+            },
+            {
+              "id": "step_e1_067",
+              "type": "choice",
+              "content": "你这小色鬼！"
+            },
+            {
+              "id": "step_e1_068",
+              "type": "choice",
+              "content": "试着以绅士的方式沟通"
+            },
+            {
+              "id": "step_e1_069",
+              "type": "choice",
+              "content": "暂时先在这里开作战会议"
+            },
+            {
+              "id": "step_e1_070",
+              "type": "choice",
+              "content": "去志村俱乐部主宰的房间"
+            },
+            {
+              "id": "step_e1_071",
+              "type": "choice",
+              "content": "旁边的书房"
+            },
+            {
+              "id": "step_e1_072",
+              "type": "choice",
+              "content": "窥视洞里"
+            },
+            {
+              "id": "step_e1_073",
+              "type": "choice",
+              "content": "丰满胸罩"
+            },
+            {
+              "id": "step_e1_074",
+              "type": "choice",
+              "content": "1977年"
+            },
+            {
+              "id": "step_e1_075",
+              "type": "choice",
+              "content": "8月20日和9月5日"
+            },
+            {
+              "id": "step_e1_076",
+              "type": "choice",
+              "content": "4次"
+            },
+            {
+              "id": "step_e1_077",
+              "type": "choice",
+              "content": "知道格兰提斯的事就好"
+            },
+            {
+              "id": "step_e1_078",
+              "type": "choice",
+              "content": "暂且保留"
+            },
+            {
+              "id": "step_e1_079",
+              "type": "choice",
+              "content": "放弃进入ICU"
+            },
+            {
+              "id": "step_e1_080",
+              "type": "choice",
+              "content": "试着谈谈"
+            },
+            {
+              "id": "step_e1_081",
+              "type": "choice",
+              "content": "追问"
+            },
+            {
+              "id": "step_e1_082",
+              "type": "choice",
+              "content": "再打过去"
+            },
+            {
+              "id": "step_e1_083",
+              "type": "choice",
+              "content": "志村藏之助的家"
+            },
+            {
+              "id": "step_e1_084",
+              "type": "choice",
+              "content": "能读成POOL对吧！"
+            },
+            {
+              "id": "step_e1_085",
+              "type": "choice",
+              "content": "行走的唠叨鬼"
+            },
+            {
+              "id": "step_e1_086",
+              "type": "choice",
+              "content": "看"
+            },
+            {
+              "id": "step_e1_087",
+              "type": "choice",
+              "content": "相信大手町"
+            },
+            {
+              "id": "step_e1_088",
+              "type": "note",
+              "content": "选择“不相信大手町”则进入结局“divinity”"
+            },
+            {
+              "id": "step_e1_089",
+              "type": "choice",
+              "content": "有那个可能"
+            },
+            {
+              "id": "step_e1_090",
+              "type": "choice",
+              "content": "不重复"
+            },
+            {
+              "id": "step_e1_091",
+              "type": "choice",
+              "content": "我"
+            },
+            {
+              "id": "step_e1_092",
+              "type": "choice",
+              "content": "是花瓶里的花"
+            },
+            {
+              "id": "step_e1_093",
+              "type": "choice",
+              "content": "是鼻子开始习惯了吗？"
+            },
+            {
+              "id": "step_e1_094",
+              "type": "choice",
+              "content": "打开衣橱"
+            },
+            {
+              "id": "step_e1_095",
+              "type": "choice",
+              "content": "试着只是凝视现象"
+            },
+            {
+              "id": "step_e1_096",
+              "type": "choice",
+              "content": "再仔细环顾"
+            },
+            {
+              "id": "step_e1_097",
+              "type": "choice",
+              "content": "试着把手伸进去"
+            },
+            {
+              "id": "step_e1_098",
+              "type": "choice",
+              "content": "仔细观察"
+            },
+            {
+              "id": "step_e1_099",
+              "type": "choice",
+              "content": "床铺"
+            },
+            {
+              "id": "step_e1_100",
+              "type": "choice",
+              "content": "20120606"
+            },
+            {
+              "id": "step_e1_101",
+              "type": "note",
+              "content": "选择“20120520”“20120608”“20120622”则进入结局“divarication”"
+            },
+            {
+              "id": "step_e1_102",
+              "type": "choice",
+              "content": "无法赞同真琴的想法"
+            },
+            {
+              "id": "step_e1_103",
+              "type": "note",
+              "content": "选择“对真琴产生共鸣”则进入结局“divinity”"
+            }
+          ]
+        },
+        {
+          "id": "ending_02",
+          "name": "END2 divarication",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_e2_001",
+              "type": "choice",
+              "content": "还好…"
+            },
+            {
+              "id": "step_e2_002",
+              "type": "choice",
+              "content": "谈论兴趣方面"
+            },
+            {
+              "id": "step_e2_003",
+              "type": "choice",
+              "content": "使用手机"
+            },
+            {
+              "id": "step_e2_004",
+              "type": "choice",
+              "content": "完全不回嘴"
+            },
+            {
+              "id": "step_e2_005",
+              "type": "choice",
+              "content": "询问他在这里的理由"
+            },
+            {
+              "id": "step_e2_006",
+              "type": "choice",
+              "content": "关于生活线"
+            },
+            {
+              "id": "step_e2_007",
+              "type": "choice",
+              "content": "关于通讯"
+            },
+            {
+              "id": "step_e2_008",
+              "type": "choice",
+              "content": "关于大众媒体"
+            },
+            {
+              "id": "step_e2_009",
+              "type": "choice",
+              "content": "刻意不去想"
+            },
+            {
+              "id": "step_e2_010",
+              "type": "choice",
+              "content": "思考"
+            },
+            {
+              "id": "step_e2_011",
+              "type": "choice",
+              "content": "不要妨碍到别人嘛"
+            },
+            {
+              "id": "step_e2_012",
+              "type": "choice",
+              "content": "生气了"
+            },
+            {
+              "id": "step_e2_013",
+              "type": "choice",
+              "content": "交给大手町"
+            },
+            {
+              "id": "step_e2_014",
+              "type": "choice",
+              "content": "大叫"
+            },
+            {
+              "id": "step_e2_015",
+              "type": "choice",
+              "content": "不过我知道"
+            },
+            {
+              "id": "step_e2_016",
+              "type": "choice",
+              "content": "我觉得大手町是笨蛋"
+            },
+            {
+              "id": "step_e2_017",
+              "type": "choice",
+              "content": "没有鸟儿"
+            },
+            {
+              "id": "step_e2_018",
+              "type": "choice",
+              "content": "把玩肩带"
+            },
+            {
+              "id": "step_e2_019",
+              "type": "choice",
+              "content": "不告诉他比较好"
+            },
+            {
+              "id": "step_e2_020",
+              "type": "choice",
+              "content": "不肯罢休"
+            },
+            {
+              "id": "step_e2_021",
+              "type": "choice",
+              "content": "在脑中重现简讯的内容"
+            },
+            {
+              "id": "step_e2_022",
+              "type": "choice",
+              "content": "为大手町说的话感到烦躁"
+            },
+            {
+              "id": "step_e2_023",
+              "type": "choice",
+              "content": "没感觉"
+            },
+            {
+              "id": "step_e2_024",
+              "type": "choice",
+              "content": "补充"
+            },
+            {
+              "id": "step_e2_025",
+              "type": "choice",
+              "content": "真琴"
+            },
+            {
+              "id": "step_e2_026",
+              "type": "choice",
+              "content": "你很期待吗？"
+            },
+            {
+              "id": "step_e2_027",
+              "type": "choice",
+              "content": "看报纸"
+            },
+            {
+              "id": "step_e2_028",
+              "type": "choice",
+              "content": "听天气预报"
+            },
+            {
+              "id": "step_e2_029",
+              "type": "choice",
+              "content": "那家伙是谁？"
+            },
+            {
+              "id": "step_e2_030",
+              "type": "choice",
+              "content": "此时此刻，时间正在流逝？"
+            },
+            {
+              "id": "step_e2_031",
+              "type": "choice",
+              "content": "当前思考简讯的内容较为优先"
+            },
+            {
+              "id": "step_e2_032",
+              "type": "choice",
+              "content": "可以"
+            },
+            {
+              "id": "step_e2_033",
+              "type": "choice",
+              "content": "Sun & Moon"
+            },
+            {
+              "id": "step_e2_034",
+              "type": "choice",
+              "content": "关于雾寺，你知道些什么？"
+            },
+            {
+              "id": "step_e2_035",
+              "type": "choice",
+              "content": "看浴缸"
+            },
+            {
+              "id": "step_e2_036",
+              "type": "choice",
+              "content": "看浴缸外侧"
+            },
+            {
+              "id": "step_e2_037",
+              "type": "choice",
+              "content": "有"
+            },
+            {
+              "id": "step_e2_038",
+              "type": "choice",
+              "content": "雾寺"
+            },
+            {
+              "id": "step_e2_039",
+              "type": "choice",
+              "content": "有砧板和柳刃包丁"
+            },
+            {
+              "id": "step_e2_040",
+              "type": "choice",
+              "content": "很在意"
+            },
+            {
+              "id": "step_e2_041",
+              "type": "choice",
+              "content": "不是"
+            },
+            {
+              "id": "step_e2_042",
+              "type": "choice",
+              "content": "调查床铺"
+            },
+            {
+              "id": "step_e2_043",
+              "type": "choice",
+              "content": "调查床头柜"
+            },
+            {
+              "id": "step_e2_044",
+              "type": "choice",
+              "content": "调查椅子"
+            },
+            {
+              "id": "step_e2_045",
+              "type": "choice",
+              "content": "调查窗户"
+            },
+            {
+              "id": "step_e2_046",
+              "type": "choice",
+              "content": "调查衣橱"
+            },
+            {
+              "id": "step_e2_047",
+              "type": "choice",
+              "content": "调查浴室"
+            },
+            {
+              "id": "step_e2_048",
+              "type": "choice",
+              "content": "绵盐"
+            },
+            {
+              "id": "step_e2_049",
+              "type": "choice",
+              "content": "为什么？"
+            },
+            {
+              "id": "step_e2_050",
+              "type": "choice",
+              "content": "黄色"
+            },
+            {
+              "id": "step_e2_051",
+              "type": "choice",
+              "content": "水星"
+            },
+            {
+              "id": "step_e2_052",
+              "type": "choice",
+              "content": "yanagiba knife（柳刃包丁）"
+            },
+            {
+              "id": "step_e2_053",
+              "type": "choice",
+              "content": "family（家族）"
+            },
+            {
+              "id": "step_e2_054",
+              "type": "choice",
+              "content": "dog（狗）"
+            },
+            {
+              "id": "step_e2_055",
+              "type": "choice",
+              "content": "flower（花）"
+            },
+            {
+              "id": "step_e2_056",
+              "type": "choice",
+              "content": "ohayo"
+            },
+            {
+              "id": "step_e2_057",
+              "type": "choice",
+              "content": "剪刀"
+            },
+            {
+              "id": "step_e2_059",
+              "type": "choice",
+              "content": "Hotel Rev."
+            },
+            {
+              "id": "step_e2_060",
+              "type": "choice",
+              "content": "17.33公尺"
+            },
+            {
+              "id": "step_e2_061",
+              "type": "choice",
+              "content": "0.42秒"
+            },
+            {
+              "id": "step_e2_062",
+              "type": "choice",
+              "content": "大约0.2秒"
+            },
+            {
+              "id": "step_e2_063",
+              "type": "choice",
+              "content": "大概0.24秒左右"
+            },
+            {
+              "id": "step_e2_064",
+              "type": "choice",
+              "content": "千里呢……？"
+            },
+            {
+              "id": "step_e2_065",
+              "type": "choice",
+              "content": "挡在舞菜前面"
+            },
+            {
+              "id": "step_e2_066",
+              "type": "choice",
+              "content": "超可爱的啦～♪"
+            },
+            {
+              "id": "step_e2_067",
+              "type": "choice",
+              "content": "试图强行突破"
+            },
+            {
+              "id": "step_e2_068",
+              "type": "choice",
+              "content": "回到公安"
+            },
+            {
+              "id": "step_e2_069",
+              "type": "choice",
+              "content": "去真琴的房间"
+            },
+            {
+              "id": "step_e2_070",
+              "type": "choice",
+              "content": "试着思考真琴的行动"
+            },
+            {
+              "id": "step_e2_071",
+              "type": "choice",
+              "content": "试着回想图像"
+            },
+            {
+              "id": "step_e2_072",
+              "type": "choice",
+              "content": "沙发后面"
+            },
+            {
+              "id": "step_e2_073",
+              "type": "choice",
+              "content": "再给那幅画一拳"
+            },
+            {
+              "id": "step_e2_074",
+              "type": "choice",
+              "content": "波因杰"
+            },
+            {
+              "id": "step_e2_075",
+              "type": "choice",
+              "content": "回想关于格兰提斯的事"
+            },
+            {
+              "id": "step_e2_076",
+              "type": "choice",
+              "content": "还是继续追问"
+            },
+            {
+              "id": "step_e2_077",
+              "type": "choice",
+              "content": "追上去"
+            },
+            {
+              "id": "step_e2_078",
+              "type": "choice",
+              "content": "进入ICU"
+            },
+            {
+              "id": "step_e2_079",
+              "type": "choice",
+              "content": "与雾寺战斗"
+            }
+          ]
+        },
+        {
+          "id": "ending_03",
+          "name": "END3 divinity",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_e3_001",
+              "type": "choice",
+              "content": "还好……"
+            },
+            {
+              "id": "step_e3_002",
+              "type": "choice",
+              "content": "谈论资格方面"
+            },
+            {
+              "id": "step_e3_003",
+              "type": "choice",
+              "content": "大声呼喊"
+            },
+            {
+              "id": "step_e3_004",
+              "type": "choice",
+              "content": "使用手机"
+            },
+            {
+              "id": "step_e3_005",
+              "type": "choice",
+              "content": "完全不回嘴"
+            },
+            {
+              "id": "step_e3_006",
+              "type": "choice",
+              "content": "询问没有人的理由"
+            },
+            {
+              "id": "step_e3_007",
+              "type": "choice",
+              "content": "关于交通机关"
+            },
+            {
+              "id": "step_e3_008",
+              "type": "choice",
+              "content": "关于大众媒体"
+            },
+            {
+              "id": "step_e3_009",
+              "type": "choice",
+              "content": "关于通讯"
+            },
+            {
+              "id": "step_e3_010",
+              "type": "choice",
+              "content": "刻意不去想"
+            },
+            {
+              "id": "step_e3_011",
+              "type": "choice",
+              "content": "想也不去想"
+            },
+            {
+              "id": "step_e3_012",
+              "type": "choice",
+              "content": "你谁啊？"
+            },
+            {
+              "id": "step_e3_013",
+              "type": "choice",
+              "content": "仍然保持冷静"
+            },
+            {
+              "id": "step_e3_014",
+              "type": "choice",
+              "content": "交给大手町"
+            },
+            {
+              "id": "step_e3_015",
+              "type": "choice",
+              "content": "大叫"
+            },
+            {
+              "id": "step_e3_016",
+              "type": "choice",
+              "content": "我也不知道"
+            },
+            {
+              "id": "step_e3_017",
+              "type": "choice",
+              "content": "被克拉肯袭击？"
+            },
+            {
+              "id": "step_e3_018",
+              "type": "choice",
+              "content": "我觉得大手町是笨蛋"
+            },
+            {
+              "id": "step_e3_019",
+              "type": "choice",
+              "content": "看不到直升机的踪影"
+            },
+            {
+              "id": "step_e3_020",
+              "type": "choice",
+              "content": "把玩肩带"
+            },
+            {
+              "id": "step_e3_021",
+              "type": "choice",
+              "content": "不告诉他比较好"
+            },
+            {
+              "id": "step_e3_022",
+              "type": "choice",
+              "content": "不肯罢休"
+            },
+            {
+              "id": "step_e3_023",
+              "type": "choice",
+              "content": "等他阅读结束"
+            },
+            {
+              "id": "step_e3_024",
+              "type": "choice",
+              "content": "为大手町说的话感到烦躁"
+            },
+            {
+              "id": "step_e3_025",
+              "type": "choice",
+              "content": "没感觉"
+            },
+            {
+              "id": "step_e3_026",
+              "type": "choice",
+              "content": "点头"
+            },
+            {
+              "id": "step_e3_027",
+              "type": "choice",
+              "content": "炼丸与缪"
+            },
+            {
+              "id": "step_e3_028",
+              "type": "choice",
+              "content": "你很期待吗？"
+            },
+            {
+              "id": "step_e3_029",
+              "type": "choice",
+              "content": "看窗户"
+            },
+            {
+              "id": "step_e3_030",
+              "type": "choice",
+              "content": "看报纸"
+            },
+            {
+              "id": "step_e3_031",
+              "type": "choice",
+              "content": "那个理文六高的男生吗？"
+            },
+            {
+              "id": "step_e3_032",
+              "type": "choice",
+              "content": "看不到人类静止时候的模样？"
+            },
+            {
+              "id": "step_e3_033",
+              "type": "choice",
+              "content": "思考为什么没察觉到"
+            },
+            {
+              "id": "step_e3_034",
+              "type": "choice",
+              "content": "不能"
+            },
+            {
+              "id": "step_e3_035",
+              "type": "choice",
+              "content": "Eclipse"
+            },
+            {
+              "id": "step_e3_036",
+              "type": "choice",
+              "content": "关于雾寺，你知道些什么？"
+            },
+            {
+              "id": "step_e3_037",
+              "type": "choice",
+              "content": "看浴缸外侧"
+            },
+            {
+              "id": "step_e3_038",
+              "type": "choice",
+              "content": "看浴缸"
+            },
+            {
+              "id": "step_e3_039",
+              "type": "choice",
+              "content": "有"
+            },
+            {
+              "id": "step_e3_040",
+              "type": "choice",
+              "content": "缪"
+            },
+            {
+              "id": "step_e3_041",
+              "type": "choice",
+              "content": "蓝发少女"
+            },
+            {
+              "id": "step_e3_042",
+              "type": "choice",
+              "content": "有一大盘海胆"
+            },
+            {
+              "id": "step_e3_043",
+              "type": "choice",
+              "content": "不太"
+            },
+            {
+              "id": "step_e3_044",
+              "type": "choice",
+              "content": "嗯"
+            },
+            {
+              "id": "step_e3_045",
+              "type": "choice",
+              "content": "调查床铺"
+            },
+            {
+              "id": "step_e3_046",
+              "type": "choice",
+              "content": "调查床头柜"
+            },
+            {
+              "id": "step_e3_047",
+              "type": "choice",
+              "content": "调查椅子"
+            },
+            {
+              "id": "step_e3_048",
+              "type": "choice",
+              "content": "调查窗户"
+            },
+            {
+              "id": "step_e3_049",
+              "type": "choice",
+              "content": "调查衣橱"
+            },
+            {
+              "id": "step_e3_050",
+              "type": "choice",
+              "content": "调查浴室"
+            },
+            {
+              "id": "step_e3_051",
+              "type": "choice",
+              "content": "绵盐"
+            },
+            {
+              "id": "step_e3_052",
+              "type": "choice",
+              "content": "为什么？"
+            },
+            {
+              "id": "step_e3_053",
+              "type": "choice",
+              "content": "绿色"
+            },
+            {
+              "id": "step_e3_054",
+              "type": "choice",
+              "content": "金星"
+            },
+            {
+              "id": "step_e3_055",
+              "type": "choice",
+              "content": "kitchen scissors（厨房剪刀）"
+            },
+            {
+              "id": "step_e3_056",
+              "type": "choice",
+              "content": "star（星星）"
+            },
+            {
+              "id": "step_e3_057",
+              "type": "choice",
+              "content": "arigato"
+            },
+            {
+              "id": "step_e3_058",
+              "type": "choice",
+              "content": "布"
+            },
+            {
+              "id": "step_e3_060",
+              "type": "choice",
+              "content": "宵木公园"
+            },
+            {
+              "id": "step_e3_061",
+              "type": "choice",
+              "content": "18.44公尺"
+            },
+            {
+              "id": "step_e3_062",
+              "type": "choice",
+              "content": "0.42秒"
+            },
+            {
+              "id": "step_e3_063",
+              "type": "choice",
+              "content": "大约0.2秒"
+            },
+            {
+              "id": "step_e3_064",
+              "type": "choice",
+              "content": "大概0.24秒左右"
+            },
+            {
+              "id": "step_e3_065",
+              "type": "choice",
+              "content": "千里呢……？"
+            },
+            {
+              "id": "step_e3_066",
+              "type": "choice",
+              "content": "叉开双腿站在缪前面"
+            },
+            {
+              "id": "step_e3_067",
+              "type": "choice",
+              "content": "你这小色鬼！"
+            },
+            {
+              "id": "step_e3_068",
+              "type": "choice",
+              "content": "试着以绅士的方式沟通"
+            },
+            {
+              "id": "step_e3_069",
+              "type": "choice",
+              "content": "暂时先在这里开作战会议"
+            },
+            {
+              "id": "step_e3_070",
+              "type": "choice",
+              "content": "去志村俱乐部主宰的房间"
+            },
+            {
+              "id": "step_e3_071",
+              "type": "choice",
+              "content": "旁边的书房"
+            },
+            {
+              "id": "step_e3_072",
+              "type": "choice",
+              "content": "窥视洞里"
+            },
+            {
+              "id": "step_e3_073",
+              "type": "choice",
+              "content": "丰满胸罩"
+            },
+            {
+              "id": "step_e3_074",
+              "type": "choice",
+              "content": "1977年"
+            },
+            {
+              "id": "step_e3_075",
+              "type": "choice",
+              "content": "8月20日和9月5日"
+            },
+            {
+              "id": "step_e3_076",
+              "type": "choice",
+              "content": "4次"
+            },
+            {
+              "id": "step_e3_077",
+              "type": "choice",
+              "content": "知道格兰提斯的事就好"
+            },
+            {
+              "id": "step_e3_078",
+              "type": "choice",
+              "content": "暂且保留"
+            },
+            {
+              "id": "step_e3_079",
+              "type": "choice",
+              "content": "放弃进入ICU"
+            },
+            {
+              "id": "step_e3_080",
+              "type": "choice",
+              "content": "试着谈谈"
+            },
+            {
+              "id": "step_e3_081",
+              "type": "choice",
+              "content": "追问"
+            },
+            {
+              "id": "step_e3_082",
+              "type": "choice",
+              "content": "再打过去"
+            },
+            {
+              "id": "step_e3_083",
+              "type": "choice",
+              "content": "志村藏之助的家"
+            },
+            {
+              "id": "step_e3_084",
+              "type": "choice",
+              "content": "能读成POOL对吧！"
+            },
+            {
+              "id": "step_e3_085",
+              "type": "choice",
+              "content": "行走的唠叨鬼"
+            },
+            {
+              "id": "step_e3_086",
+              "type": "choice",
+              "content": "看"
+            },
+            {
+              "id": "step_e3_087",
+              "type": "choice",
+              "content": "不相信大手町"
+            }
+          ]
+        },
+        {
+          "id": "ending_04",
+          "name": "END4 divide",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_e4_001",
+              "type": "choice",
+              "content": "有很大的不满"
+            },
+            {
+              "id": "step_e4_002",
+              "type": "choice",
+              "content": "谈论经历方面"
+            },
+            {
+              "id": "step_e4_003",
+              "type": "choice",
+              "content": "使用电话"
+            },
+            {
+              "id": "step_e4_004",
+              "type": "choice",
+              "content": "不是"
+            },
+            {
+              "id": "step_e4_005",
+              "type": "choice",
+              "content": "询问没有人的理由"
+            },
+            {
+              "id": "step_e4_006",
+              "type": "choice",
+              "content": "关于交通机关"
+            },
+            {
+              "id": "step_e4_007",
+              "type": "choice",
+              "content": "关于大众媒体"
+            },
+            {
+              "id": "step_e4_008",
+              "type": "choice",
+              "content": "关于通讯"
+            },
+            {
+              "id": "step_e4_009",
+              "type": "choice",
+              "content": "在意真琴的事"
+            },
+            {
+              "id": "step_e4_010",
+              "type": "choice",
+              "content": "想也不去想"
+            },
+            {
+              "id": "step_e4_011",
+              "type": "choice",
+              "content": "你几岁？"
+            },
+            {
+              "id": "step_e4_012",
+              "type": "choice",
+              "content": "仍然保持冷静"
+            },
+            {
+              "id": "step_e4_013",
+              "type": "choice",
+              "content": "详细说明"
+            },
+            {
+              "id": "step_e4_014",
+              "type": "choice",
+              "content": "呢喃"
+            },
+            {
+              "id": "step_e4_015",
+              "type": "choice",
+              "content": "我也不知道"
+            },
+            {
+              "id": "step_e4_016",
+              "type": "choice",
+              "content": "被海盗袭击？"
+            },
+            {
+              "id": "step_e4_017",
+              "type": "choice",
+              "content": "调查少年的持有物"
+            },
+            {
+              "id": "step_e4_018",
+              "type": "choice",
+              "content": "没有云"
+            },
+            {
+              "id": "step_e4_019",
+              "type": "choice",
+              "content": "再次阅读御目贺的资料"
+            },
+            {
+              "id": "step_e4_020",
+              "type": "choice",
+              "content": "告诉他比较好"
+            },
+            {
+              "id": "step_e4_021",
+              "type": "choice",
+              "content": "罢休"
+            },
+            {
+              "id": "step_e4_022",
+              "type": "choice",
+              "content": "等他阅读结束"
+            },
+            {
+              "id": "step_e4_023",
+              "type": "choice",
+              "content": "大手町呢？有没有从真琴那听说过什么？"
+            },
+            {
+              "id": "step_e4_024",
+              "type": "choice",
+              "content": "有感觉"
+            },
+            {
+              "id": "step_e4_025",
+              "type": "choice",
+              "content": "点头"
+            },
+            {
+              "id": "step_e4_026",
+              "type": "choice",
+              "content": "千里跟御目贺"
+            },
+            {
+              "id": "step_e4_027",
+              "type": "choice",
+              "content": "头很痒吗？"
+            },
+            {
+              "id": "step_e4_028",
+              "type": "choice",
+              "content": "听天气预报"
+            },
+            {
+              "id": "step_e4_029",
+              "type": "choice",
+              "content": "看报纸"
+            },
+            {
+              "id": "step_e4_030",
+              "type": "choice",
+              "content": "那个理文六高的男生吗？"
+            },
+            {
+              "id": "step_e4_031",
+              "type": "choice",
+              "content": "看不到人类静止时候的模样？"
+            },
+            {
+              "id": "step_e4_032",
+              "type": "choice",
+              "content": "思考为什么没察觉到"
+            },
+            {
+              "id": "step_e4_033",
+              "type": "choice",
+              "content": "不能"
+            },
+            {
+              "id": "step_e4_034",
+              "type": "choice",
+              "content": "Apocalypse"
+            },
+            {
+              "id": "step_e4_035",
+              "type": "choice",
+              "content": "雾寺跟你见过面吗？"
+            },
+            {
+              "id": "step_e4_036",
+              "type": "choice",
+              "content": "看向女子"
+            },
+            {
+              "id": "step_e4_037",
+              "type": "choice",
+              "content": "没有"
+            },
+            {
+              "id": "step_e4_038",
+              "type": "choice",
+              "content": "蓝发少女"
+            },
+            {
+              "id": "step_e4_039",
+              "type": "choice",
+              "content": "热腾腾的牛排"
+            },
+            {
+              "id": "step_e4_040",
+              "type": "choice",
+              "content": "不太"
+            },
+            {
+              "id": "step_e4_041",
+              "type": "choice",
+              "content": "嗯"
+            },
+            {
+              "id": "step_e4_042",
+              "type": "choice",
+              "content": "调查真琴登记入房的时间"
+            },
+            {
+              "id": "step_e4_043",
+              "type": "choice",
+              "content": "调查床铺"
+            },
+            {
+              "id": "step_e4_044",
+              "type": "choice",
+              "content": "调查床头柜"
+            },
+            {
+              "id": "step_e4_045",
+              "type": "choice",
+              "content": "调查椅子"
+            },
+            {
+              "id": "step_e4_046",
+              "type": "choice",
+              "content": "调查窗户"
+            },
+            {
+              "id": "step_e4_047",
+              "type": "choice",
+              "content": "调查衣橱"
+            },
+            {
+              "id": "step_e4_048",
+              "type": "choice",
+              "content": "I"
+            },
+            {
+              "id": "step_e4_049",
+              "type": "choice",
+              "content": "或许吧"
+            },
+            {
+              "id": "step_e4_050",
+              "type": "choice",
+              "content": "红色"
+            },
+            {
+              "id": "step_e4_051",
+              "type": "choice",
+              "content": "太阳"
+            },
+            {
+              "id": "step_e4_052",
+              "type": "choice",
+              "content": "steak knife（牛排刀）"
+            },
+            {
+              "id": "step_e4_053",
+              "type": "choice",
+              "content": "star（星星）"
+            },
+            {
+              "id": "step_e4_054",
+              "type": "choice",
+              "content": "tadaima"
+            },
+            {
+              "id": "step_e4_055",
+              "type": "choice",
+              "content": "石头"
+            },
+            {
+              "id": "step_e4_057",
+              "type": "choice",
+              "content": "理文六高"
+            },
+            {
+              "id": "step_e4_058",
+              "type": "choice",
+              "content": "18.44公尺"
+            },
+            {
+              "id": "step_e4_059",
+              "type": "choice",
+              "content": "0.32秒"
+            },
+            {
+              "id": "step_e4_060",
+              "type": "choice",
+              "content": "大约0.4秒"
+            },
+            {
+              "id": "step_e4_061",
+              "type": "choice",
+              "content": "大概0.34秒左右"
+            },
+            {
+              "id": "step_e4_062",
+              "type": "choice",
+              "content": "真琴呢……？"
+            },
+            {
+              "id": "step_e4_063",
+              "type": "choice",
+              "content": "叉开双腿站在缪前面"
+            },
+            {
+              "id": "step_e4_064",
+              "type": "choice",
+              "content": "你这小色鬼！"
+            },
+            {
+              "id": "step_e4_065",
+              "type": "choice",
+              "content": "为何知道我们的事？"
+            },
+            {
+              "id": "step_e4_066",
+              "type": "choice",
+              "content": "这世界究竟怎么了？"
+            },
+            {
+              "id": "step_e4_067",
+              "type": "choice",
+              "content": "其他人呢？"
+            },
+            {
+              "id": "step_e4_068",
+              "type": "choice",
+              "content": "你是什么人？"
+            },
+            {
+              "id": "step_e4_069",
+              "type": "choice",
+              "content": "大约45公斤"
+            },
+            {
+              "id": "step_e4_070",
+              "type": "choice",
+              "content": "紧急逃生梯附近"
+            },
+            {
+              "id": "step_e4_071",
+              "type": "choice",
+              "content": "捡起"
+            },
+            {
+              "id": "step_e4_072",
+              "type": "choice",
+              "content": "向游游搭话"
+            },
+            {
+              "id": "step_e4_073",
+              "type": "choice",
+              "content": "看得出来"
+            },
+            {
+              "id": "step_e4_074",
+              "type": "choice",
+              "content": "觉得很棒"
+            },
+            {
+              "id": "step_e4_075",
+              "type": "choice",
+              "content": "女用厕所"
+            },
+            {
+              "id": "step_e4_076",
+              "type": "choice",
+              "content": "打听幻象"
+            },
+            {
+              "id": "step_e4_077",
+              "type": "choice",
+              "content": "没有"
+            },
+            {
+              "id": "step_e4_078",
+              "type": "choice",
+              "content": "挑战罗德蒙"
+            },
+            {
+              "id": "step_e4_079",
+              "type": "choice",
+              "content": "与雾寺的关系"
+            },
+            {
+              "id": "step_e4_080",
+              "type": "choice",
+              "content": "与舞菜说话"
+            },
+            {
+              "id": "step_e4_081",
+              "type": "choice",
+              "content": "追上去"
+            },
+            {
+              "id": "step_e4_082",
+              "type": "choice",
+              "content": "继续追缪"
+            },
+            {
+              "id": "step_e4_083",
+              "type": "choice",
+              "content": "去游游那边"
+            },
+            {
+              "id": "step_e4_084",
+              "type": "choice",
+              "content": "需要帮忙吗？"
+            },
+            {
+              "id": "step_e4_085",
+              "type": "choice",
+              "content": "看起来像骷髅头"
+            },
+            {
+              "id": "step_e4_086",
+              "type": "choice",
+              "content": "是啊"
+            }
+          ]
+        },
+        {
+          "id": "ending_05",
+          "name": "END5 divagate",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_e5_001",
+              "type": "choice",
+              "content": "有很大的不满"
+            },
+            {
+              "id": "step_e5_002",
+              "type": "choice",
+              "content": "谈论经历方面"
+            },
+            {
+              "id": "step_e5_003",
+              "type": "choice",
+              "content": "使用电话"
+            },
+            {
+              "id": "step_e5_004",
+              "type": "choice",
+              "content": "不是"
+            },
+            {
+              "id": "step_e5_005",
+              "type": "choice",
+              "content": "询问没有人的理由"
+            },
+            {
+              "id": "step_e5_006",
+              "type": "choice",
+              "content": "关于交通机关"
+            },
+            {
+              "id": "step_e5_007",
+              "type": "choice",
+              "content": "关于大众媒体"
+            },
+            {
+              "id": "step_e5_008",
+              "type": "choice",
+              "content": "关于通讯"
+            },
+            {
+              "id": "step_e5_009",
+              "type": "choice",
+              "content": "在意真琴的事"
+            },
+            {
+              "id": "step_e5_010",
+              "type": "choice",
+              "content": "想也不去想"
+            },
+            {
+              "id": "step_e5_011",
+              "type": "choice",
+              "content": "你几岁？"
+            },
+            {
+              "id": "step_e5_012",
+              "type": "choice",
+              "content": "仍然保持冷静"
+            },
+            {
+              "id": "step_e5_013",
+              "type": "choice",
+              "content": "详细说明"
+            },
+            {
+              "id": "step_e5_014",
+              "type": "choice",
+              "content": "呢喃"
+            },
+            {
+              "id": "step_e5_015",
+              "type": "choice",
+              "content": "我也不知道"
+            },
+            {
+              "id": "step_e5_016",
+              "type": "choice",
+              "content": "被海盗袭击？"
+            },
+            {
+              "id": "step_e5_017",
+              "type": "choice",
+              "content": "调查少年的持有物"
+            },
+            {
+              "id": "step_e5_018",
+              "type": "choice",
+              "content": "没有云"
+            },
+            {
+              "id": "step_e5_019",
+              "type": "choice",
+              "content": "再次阅读御目贺的资料"
+            },
+            {
+              "id": "step_e5_020",
+              "type": "choice",
+              "content": "告诉他比较好"
+            },
+            {
+              "id": "step_e5_021",
+              "type": "choice",
+              "content": "罢休"
+            },
+            {
+              "id": "step_e5_022",
+              "type": "choice",
+              "content": "等他阅读结束"
+            },
+            {
+              "id": "step_e5_023",
+              "type": "choice",
+              "content": "大手町呢？有没有从真琴那听说过什么？"
+            },
+            {
+              "id": "step_e5_024",
+              "type": "choice",
+              "content": "有感觉"
+            },
+            {
+              "id": "step_e5_025",
+              "type": "choice",
+              "content": "点头"
+            },
+            {
+              "id": "step_e5_026",
+              "type": "choice",
+              "content": "千里跟御目贺"
+            },
+            {
+              "id": "step_e5_027",
+              "type": "choice",
+              "content": "头很痒吗？"
+            },
+            {
+              "id": "step_e5_028",
+              "type": "choice",
+              "content": "听天气预报"
+            },
+            {
+              "id": "step_e5_029",
+              "type": "choice",
+              "content": "看报纸"
+            },
+            {
+              "id": "step_e5_030",
+              "type": "choice",
+              "content": "那个理文六高的男生吗？"
+            },
+            {
+              "id": "step_e5_031",
+              "type": "choice",
+              "content": "看不到人类静止时候的模样？"
+            },
+            {
+              "id": "step_e5_032",
+              "type": "choice",
+              "content": "思考为什么没察觉到"
+            },
+            {
+              "id": "step_e5_033",
+              "type": "choice",
+              "content": "不能"
+            },
+            {
+              "id": "step_e5_034",
+              "type": "choice",
+              "content": "Apocalypse"
+            },
+            {
+              "id": "step_e5_035",
+              "type": "choice",
+              "content": "雾寺跟你见过面吗？"
+            },
+            {
+              "id": "step_e5_036",
+              "type": "choice",
+              "content": "看向女子"
+            },
+            {
+              "id": "step_e5_037",
+              "type": "choice",
+              "content": "没有"
+            },
+            {
+              "id": "step_e5_038",
+              "type": "choice",
+              "content": "蓝发少女"
+            },
+            {
+              "id": "step_e5_039",
+              "type": "choice",
+              "content": "热腾腾的牛排"
+            },
+            {
+              "id": "step_e5_040",
+              "type": "choice",
+              "content": "不太"
+            },
+            {
+              "id": "step_e5_041",
+              "type": "choice",
+              "content": "嗯"
+            },
+            {
+              "id": "step_e5_042",
+              "type": "choice",
+              "content": "调查真琴登记入房的时间"
+            },
+            {
+              "id": "step_e5_043",
+              "type": "choice",
+              "content": "调查床铺"
+            },
+            {
+              "id": "step_e5_044",
+              "type": "choice",
+              "content": "调查床头柜"
+            },
+            {
+              "id": "step_e5_045",
+              "type": "choice",
+              "content": "调查椅子"
+            },
+            {
+              "id": "step_e5_046",
+              "type": "choice",
+              "content": "调查窗户"
+            },
+            {
+              "id": "step_e5_047",
+              "type": "choice",
+              "content": "调查衣橱"
+            },
+            {
+              "id": "step_e5_048",
+              "type": "choice",
+              "content": "I"
+            },
+            {
+              "id": "step_e5_049",
+              "type": "choice",
+              "content": "或许吧"
+            },
+            {
+              "id": "step_e5_050",
+              "type": "choice",
+              "content": "红色"
+            },
+            {
+              "id": "step_e5_051",
+              "type": "choice",
+              "content": "太阳"
+            },
+            {
+              "id": "step_e5_052",
+              "type": "choice",
+              "content": "steak knife（牛排刀）"
+            },
+            {
+              "id": "step_e5_053",
+              "type": "choice",
+              "content": "star（星星）"
+            },
+            {
+              "id": "step_e5_054",
+              "type": "choice",
+              "content": "tadaima"
+            },
+            {
+              "id": "step_e5_055",
+              "type": "choice",
+              "content": "石头"
+            },
+            {
+              "id": "step_e5_057",
+              "type": "choice",
+              "content": "理文六高"
+            },
+            {
+              "id": "step_e5_058",
+              "type": "choice",
+              "content": "18.44公尺"
+            },
+            {
+              "id": "step_e5_059",
+              "type": "choice",
+              "content": "0.32秒"
+            },
+            {
+              "id": "step_e5_060",
+              "type": "choice",
+              "content": "大约0.4秒"
+            },
+            {
+              "id": "step_e5_061",
+              "type": "choice",
+              "content": "大概0.34秒左右"
+            },
+            {
+              "id": "step_e5_062",
+              "type": "choice",
+              "content": "真琴呢……？"
+            },
+            {
+              "id": "step_e5_063",
+              "type": "choice",
+              "content": "叉开双腿站在缪前面"
+            },
+            {
+              "id": "step_e5_064",
+              "type": "choice",
+              "content": "你这小色鬼！"
+            },
+            {
+              "id": "step_e5_065",
+              "type": "choice",
+              "content": "你怎么会知道关于我们的事？"
+            },
+            {
+              "id": "step_e5_066",
+              "type": "choice",
+              "content": "为什么……时间停止了？"
+            },
+            {
+              "id": "step_e5_067",
+              "type": "choice",
+              "content": "为什么这个世界里没有人和生物？"
+            },
+            {
+              "id": "step_e5_068",
+              "type": "choice",
+              "content": "志村俱乐部到底是什么？"
+            },
+            {
+              "id": "step_e5_069",
+              "type": "choice",
+              "content": "大约450公斤"
+            },
+            {
+              "id": "step_e5_070",
+              "type": "choice",
+              "content": "入口附近"
+            },
+            {
+              "id": "step_e5_071",
+              "type": "choice",
+              "content": "捡起"
+            },
+            {
+              "id": "step_e5_072",
+              "type": "choice",
+              "content": "向缪搭话"
+            },
+            {
+              "id": "step_e5_073",
+              "type": "choice",
+              "content": "看不见"
+            },
+            {
+              "id": "step_e5_074",
+              "type": "choice",
+              "content": "不太清楚"
+            },
+            {
+              "id": "step_e5_075",
+              "type": "choice",
+              "content": "女子更衣室"
+            },
+            {
+              "id": "step_e5_077",
+              "type": "choice",
+              "content": "有"
+            },
+            {
+              "id": "step_e5_078",
+              "type": "choice",
+              "content": "稳妥地选橙汁"
+            },
+            {
+              "id": "step_e5_079",
+              "type": "choice",
+              "content": "伤势如何"
+            },
+            {
+              "id": "step_e5_080",
+              "type": "choice",
+              "content": "与缪说话"
+            },
+            {
+              "id": "step_e5_081",
+              "type": "choice",
+              "content": "要做"
+            },
+            {
+              "id": "step_e5_082",
+              "type": "choice",
+              "content": "继续追缪"
+            },
+            {
+              "id": "step_e5_083",
+              "type": "choice",
+              "content": "去诞吾那边"
+            },
+            {
+              "id": "step_e5_084",
+              "type": "choice",
+              "content": "也帮我看看伤口吧"
+            },
+            {
+              "id": "step_e5_085",
+              "type": "choice",
+              "content": "看见对着镜子的女人"
+            },
+            {
+              "id": "step_e5_086",
+              "type": "choice",
+              "content": "是吗？"
+            }
+          ]
+        },
+        {
+          "id": "ending_06",
+          "name": "END6 diversity",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_e6_001",
+              "type": "choice",
+              "content": "还好……"
+            },
+            {
+              "id": "step_e6_002",
+              "type": "choice",
+              "content": "谈论经历方面"
+            },
+            {
+              "id": "step_e6_003",
+              "type": "choice",
+              "content": "使用手机"
+            },
+            {
+              "id": "step_e6_004",
+              "type": "choice",
+              "content": "完全不回嘴"
+            },
+            {
+              "id": "step_e6_005",
+              "type": "choice",
+              "content": "询问没有人的理由"
+            },
+            {
+              "id": "step_e6_006",
+              "type": "choice",
+              "content": "关于通讯"
+            },
+            {
+              "id": "step_e6_007",
+              "type": "choice",
+              "content": "关于大众媒体"
+            },
+            {
+              "id": "step_e6_008",
+              "type": "choice",
+              "content": "关于生活线"
+            },
+            {
+              "id": "step_e6_009",
+              "type": "choice",
+              "content": "在意真琴的事"
+            },
+            {
+              "id": "step_e6_010",
+              "type": "choice",
+              "content": "想也不去想"
+            },
+            {
+              "id": "step_e6_011",
+              "type": "choice",
+              "content": "不要妨碍到别人嘛"
+            },
+            {
+              "id": "step_e6_012",
+              "type": "choice",
+              "content": "生气了"
+            },
+            {
+              "id": "step_e6_013",
+              "type": "choice",
+              "content": "交给大手町"
+            },
+            {
+              "id": "step_e6_014",
+              "type": "choice",
+              "content": "大叫"
+            },
+            {
+              "id": "step_e6_015",
+              "type": "choice",
+              "content": "我也不知道"
+            },
+            {
+              "id": "step_e6_016",
+              "type": "choice",
+              "content": "船员们发动叛乱了？"
+            },
+            {
+              "id": "step_e6_017",
+              "type": "choice",
+              "content": "调查少年的持有物"
+            },
+            {
+              "id": "step_e6_018",
+              "type": "choice",
+              "content": "没有云"
+            },
+            {
+              "id": "step_e6_019",
+              "type": "choice",
+              "content": "把玩肩带"
+            },
+            {
+              "id": "step_e6_020",
+              "type": "choice",
+              "content": "告诉他比较好"
+            },
+            {
+              "id": "step_e6_021",
+              "type": "choice",
+              "content": "罢休"
+            },
+            {
+              "id": "step_e6_022",
+              "type": "choice",
+              "content": "等他阅读结束"
+            },
+            {
+              "id": "step_e6_023",
+              "type": "choice",
+              "content": "大手町呢？有没有从真琴那听说过什么？"
+            },
+            {
+              "id": "step_e6_024",
+              "type": "choice",
+              "content": "有感觉"
+            },
+            {
+              "id": "step_e6_025",
+              "type": "choice",
+              "content": "点头"
+            },
+            {
+              "id": "step_e6_026",
+              "type": "choice",
+              "content": "理文六高的相关人员"
+            },
+            {
+              "id": "step_e6_027",
+              "type": "choice",
+              "content": "头很痒吗？"
+            },
+            {
+              "id": "step_e6_028",
+              "type": "choice",
+              "content": "听天气预报"
+            },
+            {
+              "id": "step_e6_029",
+              "type": "choice",
+              "content": "看报纸"
+            },
+            {
+              "id": "step_e6_030",
+              "type": "choice",
+              "content": "那个理文六高的男生吗？"
+            },
+            {
+              "id": "step_e6_031",
+              "type": "choice",
+              "content": "看不到人类静止时候的模样？"
+            },
+            {
+              "id": "step_e6_032",
+              "type": "choice",
+              "content": "当前思考简讯的内容较为优先"
+            },
+            {
+              "id": "step_e6_033",
+              "type": "choice",
+              "content": "可以"
+            },
+            {
+              "id": "step_e6_034",
+              "type": "choice",
+              "content": "Revelation"
+            },
+            {
+              "id": "step_e6_035",
+              "type": "choice",
+              "content": "关于雾寺，你知道些什么？"
+            },
+            {
+              "id": "step_e6_036",
+              "type": "choice",
+              "content": "看向女子"
+            },
+            {
+              "id": "step_e6_037",
+              "type": "choice",
+              "content": "有"
+            },
+            {
+              "id": "step_e6_038",
+              "type": "choice",
+              "content": "舞菜"
+            },
+            {
+              "id": "step_e6_039",
+              "type": "choice",
+              "content": "热腾腾的牛排"
+            },
+            {
+              "id": "step_e6_040",
+              "type": "choice",
+              "content": "不太"
+            },
+            {
+              "id": "step_e6_041",
+              "type": "choice",
+              "content": "不是"
+            },
+            {
+              "id": "step_e6_042",
+              "type": "choice",
+              "content": "调查真琴登记入房的时间"
+            },
+            {
+              "id": "step_e6_043",
+              "type": "choice",
+              "content": "调查衣橱"
+            },
+            {
+              "id": "step_e6_044",
+              "type": "choice",
+              "content": "调查浴室"
+            },
+            {
+              "id": "step_e6_045",
+              "type": "choice",
+              "content": "调查床头柜"
+            },
+            {
+              "id": "step_e6_046",
+              "type": "choice",
+              "content": "调查椅子"
+            },
+            {
+              "id": "step_e6_047",
+              "type": "choice",
+              "content": "调查床铺"
+            },
+            {
+              "id": "step_e6_048",
+              "type": "choice",
+              "content": "I"
+            },
+            {
+              "id": "step_e6_049",
+              "type": "choice",
+              "content": "为什么？"
+            },
+            {
+              "id": "step_e6_050",
+              "type": "choice",
+              "content": "白色"
+            },
+            {
+              "id": "step_e6_051",
+              "type": "choice",
+              "content": "木星"
+            },
+            {
+              "id": "step_e6_052",
+              "type": "choice",
+              "content": "steak knife（牛排刀）"
+            },
+            {
+              "id": "step_e6_053",
+              "type": "choice",
+              "content": "star（星星）"
+            },
+            {
+              "id": "step_e6_054",
+              "type": "choice",
+              "content": "tadaima"
+            },
+            {
+              "id": "step_e6_055",
+              "type": "choice",
+              "content": "石头"
+            },
+            {
+              "id": "step_e6_057",
+              "type": "choice",
+              "content": "大学医院"
+            },
+            {
+              "id": "step_e6_058",
+              "type": "choice",
+              "content": "18.44公尺"
+            },
+            {
+              "id": "step_e6_059",
+              "type": "choice",
+              "content": "0.42秒"
+            },
+            {
+              "id": "step_e6_060",
+              "type": "choice",
+              "content": "大约0.2秒"
+            },
+            {
+              "id": "step_e6_061",
+              "type": "choice",
+              "content": "大概0.24秒左右"
+            },
+            {
+              "id": "step_e6_062",
+              "type": "choice",
+              "content": "真琴呢……？"
+            },
+            {
+              "id": "step_e6_063",
+              "type": "choice",
+              "content": "叉开双腿站在缪与舞菜前面"
+            },
+            {
+              "id": "step_e6_064",
+              "type": "choice",
+              "content": "超可爱的啦～♪"
+            },
+            {
+              "id": "step_e6_065",
+              "type": "note",
+              "content": "∫线（鸣海线和炼丸线各通过至少1次后才会开启）"
+            },
+            {
+              "id": "step_e6_066",
+              "type": "choice",
+              "content": "你怎么会知道关于我们的事？"
+            },
+            {
+              "id": "step_e6_067",
+              "type": "choice",
+              "content": "你这小色鬼！"
+            },
+            {
+              "id": "step_e6_068",
+              "type": "choice",
+              "content": "骷髅头"
+            },
+            {
+              "id": "step_e6_069",
+              "type": "choice",
+              "content": "像"
+            },
+            {
+              "id": "step_e6_070",
+              "type": "choice",
+              "content": "原来如此"
+            },
+            {
+              "id": "step_e6_071",
+              "type": "choice",
+              "content": "调查桌子"
+            },
+            {
+              "id": "step_e6_072",
+              "type": "choice",
+              "content": "调查书柜"
+            },
+            {
+              "id": "step_e6_073",
+              "type": "choice",
+              "content": "调查床铺"
+            },
+            {
+              "id": "step_e6_074",
+              "type": "choice",
+              "content": "大约时速300公里"
+            },
+            {
+              "id": "step_e6_075",
+              "type": "choice",
+              "content": "所谓幻象的目的是？"
+            },
+            {
+              "id": "step_e6_076",
+              "type": "choice",
+              "content": "从什么时候在这里的？"
+            },
+            {
+              "id": "step_e6_077",
+              "type": "choice",
+              "content": "道歉"
+            },
+            {
+              "id": "step_e6_078",
+              "type": "choice",
+              "content": "啊啊"
+            },
+            {
+              "id": "step_e6_080",
+              "type": "choice",
+              "content": "知道"
+            },
+            {
+              "id": "step_e6_081",
+              "type": "choice",
+              "content": "咋舌"
+            },
+            {
+              "id": "step_e6_082",
+              "type": "choice",
+              "content": "阀的～"
+            },
+            {
+              "id": "step_e6_083",
+              "type": "choice",
+              "content": "是啊"
+            },
+            {
+              "id": "step_e6_084",
+              "type": "choice",
+              "content": "抓耳垂"
+            },
+            {
+              "id": "step_e6_085",
+              "type": "choice",
+              "content": "一瞬间"
+            },
+            {
+              "id": "step_e6_086",
+              "type": "choice",
+              "content": "别这么死板嘛"
+            },
+            {
+              "id": "step_e6_087",
+              "type": "choice",
+              "content": "欧派喵"
+            },
+            {
+              "id": "step_e6_088",
+              "type": "choice",
+              "content": "思考那个理由"
+            },
+            {
+              "id": "step_e6_089",
+              "type": "choice",
+              "content": "变慢了"
+            },
+            {
+              "id": "step_e6_090",
+              "type": "choice",
+              "content": "苹果慢慢掉下来的样子……"
+            }
+          ]
+        },
+        {
+          "id": "ending_07",
+          "name": "END7 diverging",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_e7_001",
+              "type": "choice",
+              "content": "还好……"
+            },
+            {
+              "id": "step_e7_002",
+              "type": "choice",
+              "content": "谈论经历方面"
+            },
+            {
+              "id": "step_e7_003",
+              "type": "choice",
+              "content": "使用手机"
+            },
+            {
+              "id": "step_e7_004",
+              "type": "choice",
+              "content": "完全不回嘴"
+            },
+            {
+              "id": "step_e7_005",
+              "type": "choice",
+              "content": "询问没有人的理由"
+            },
+            {
+              "id": "step_e7_006",
+              "type": "choice",
+              "content": "关于通讯"
+            },
+            {
+              "id": "step_e7_007",
+              "type": "choice",
+              "content": "关于大众媒体"
+            },
+            {
+              "id": "step_e7_008",
+              "type": "choice",
+              "content": "关于生活线"
+            },
+            {
+              "id": "step_e7_009",
+              "type": "choice",
+              "content": "在意真琴的事"
+            },
+            {
+              "id": "step_e7_010",
+              "type": "choice",
+              "content": "想也不去想"
+            },
+            {
+              "id": "step_e7_011",
+              "type": "choice",
+              "content": "不要妨碍到别人嘛"
+            },
+            {
+              "id": "step_e7_012",
+              "type": "choice",
+              "content": "生气了"
+            },
+            {
+              "id": "step_e7_013",
+              "type": "choice",
+              "content": "交给大手町"
+            },
+            {
+              "id": "step_e7_014",
+              "type": "choice",
+              "content": "大叫"
+            },
+            {
+              "id": "step_e7_015",
+              "type": "choice",
+              "content": "我也不知道"
+            },
+            {
+              "id": "step_e7_016",
+              "type": "choice",
+              "content": "船员们发动叛乱了？"
+            },
+            {
+              "id": "step_e7_017",
+              "type": "choice",
+              "content": "调查少年的持有物"
+            },
+            {
+              "id": "step_e7_018",
+              "type": "choice",
+              "content": "没有云"
+            },
+            {
+              "id": "step_e7_019",
+              "type": "choice",
+              "content": "把玩肩带"
+            },
+            {
+              "id": "step_e7_020",
+              "type": "choice",
+              "content": "告诉他比较好"
+            },
+            {
+              "id": "step_e7_021",
+              "type": "choice",
+              "content": "罢休"
+            },
+            {
+              "id": "step_e7_022",
+              "type": "choice",
+              "content": "等他阅读结束"
+            },
+            {
+              "id": "step_e7_023",
+              "type": "choice",
+              "content": "大手町呢？有没有从真琴那听说过什么？"
+            },
+            {
+              "id": "step_e7_024",
+              "type": "choice",
+              "content": "有感觉"
+            },
+            {
+              "id": "step_e7_025",
+              "type": "choice",
+              "content": "点头"
+            },
+            {
+              "id": "step_e7_026",
+              "type": "choice",
+              "content": "理文六高的相关人员"
+            },
+            {
+              "id": "step_e7_027",
+              "type": "choice",
+              "content": "头很痒吗？"
+            },
+            {
+              "id": "step_e7_028",
+              "type": "choice",
+              "content": "听天气预报"
+            },
+            {
+              "id": "step_e7_029",
+              "type": "choice",
+              "content": "看报纸"
+            },
+            {
+              "id": "step_e7_030",
+              "type": "choice",
+              "content": "那个理文六高的男生吗？"
+            },
+            {
+              "id": "step_e7_031",
+              "type": "choice",
+              "content": "看不到人类静止时候的模样？"
+            },
+            {
+              "id": "step_e7_032",
+              "type": "choice",
+              "content": "当前思考简讯的内容较为优先"
+            },
+            {
+              "id": "step_e7_033",
+              "type": "choice",
+              "content": "可以"
+            },
+            {
+              "id": "step_e7_034",
+              "type": "choice",
+              "content": "Revelation"
+            },
+            {
+              "id": "step_e7_035",
+              "type": "choice",
+              "content": "关于雾寺，你知道些什么？"
+            },
+            {
+              "id": "step_e7_036",
+              "type": "choice",
+              "content": "看向女子"
+            },
+            {
+              "id": "step_e7_037",
+              "type": "choice",
+              "content": "有"
+            },
+            {
+              "id": "step_e7_038",
+              "type": "choice",
+              "content": "舞菜"
+            },
+            {
+              "id": "step_e7_039",
+              "type": "choice",
+              "content": "热腾腾的牛排"
+            },
+            {
+              "id": "step_e7_040",
+              "type": "choice",
+              "content": "不太"
+            },
+            {
+              "id": "step_e7_041",
+              "type": "choice",
+              "content": "不是"
+            },
+            {
+              "id": "step_e7_042",
+              "type": "choice",
+              "content": "调查真琴登记入房的时间"
+            },
+            {
+              "id": "step_e7_043",
+              "type": "choice",
+              "content": "调查衣橱"
+            },
+            {
+              "id": "step_e7_044",
+              "type": "choice",
+              "content": "调查浴室"
+            },
+            {
+              "id": "step_e7_045",
+              "type": "choice",
+              "content": "调查床头柜"
+            },
+            {
+              "id": "step_e7_046",
+              "type": "choice",
+              "content": "调查椅子"
+            },
+            {
+              "id": "step_e7_047",
+              "type": "choice",
+              "content": "调查床铺"
+            },
+            {
+              "id": "step_e7_048",
+              "type": "choice",
+              "content": "I"
+            },
+            {
+              "id": "step_e7_049",
+              "type": "choice",
+              "content": "为什么？"
+            },
+            {
+              "id": "step_e7_050",
+              "type": "choice",
+              "content": "白色"
+            },
+            {
+              "id": "step_e7_051",
+              "type": "choice",
+              "content": "木星"
+            },
+            {
+              "id": "step_e7_052",
+              "type": "choice",
+              "content": "steak knife（牛排刀）"
+            },
+            {
+              "id": "step_e7_053",
+              "type": "choice",
+              "content": "star（星星）"
+            },
+            {
+              "id": "step_e7_054",
+              "type": "choice",
+              "content": "tadaima"
+            },
+            {
+              "id": "step_e7_055",
+              "type": "choice",
+              "content": "石头"
+            },
+            {
+              "id": "step_e7_057",
+              "type": "choice",
+              "content": "大学医院"
+            },
+            {
+              "id": "step_e7_058",
+              "type": "choice",
+              "content": "18.44公尺"
+            },
+            {
+              "id": "step_e7_059",
+              "type": "choice",
+              "content": "0.42秒"
+            },
+            {
+              "id": "step_e7_060",
+              "type": "choice",
+              "content": "大约0.2秒"
+            },
+            {
+              "id": "step_e7_061",
+              "type": "choice",
+              "content": "大概0.24秒左右"
+            },
+            {
+              "id": "step_e7_062",
+              "type": "choice",
+              "content": "真琴呢……？"
+            },
+            {
+              "id": "step_e7_063",
+              "type": "choice",
+              "content": "叉开双腿站在缪与舞菜前面"
+            },
+            {
+              "id": "step_e7_064",
+              "type": "choice",
+              "content": "超可爱的啦～♪"
+            },
+            {
+              "id": "step_e7_065",
+              "type": "note",
+              "content": "∫线（鸣海线和炼丸线各通过至少1次后才会开启）"
+            },
+            {
+              "id": "step_e7_066",
+              "type": "choice",
+              "content": "你怎么会知道关于我们的事？"
+            },
+            {
+              "id": "step_e7_067",
+              "type": "choice",
+              "content": "超可爱的啦～♪"
+            },
+            {
+              "id": "step_e7_068",
+              "type": "choice",
+              "content": "骷髅头"
+            },
+            {
+              "id": "step_e7_069",
+              "type": "choice",
+              "content": "像"
+            },
+            {
+              "id": "step_e7_070",
+              "type": "choice",
+              "content": "原来如此"
+            },
+            {
+              "id": "step_e7_071",
+              "type": "choice",
+              "content": "调查桌子"
+            },
+            {
+              "id": "step_e7_072",
+              "type": "choice",
+              "content": "调查书柜"
+            },
+            {
+              "id": "step_e7_073",
+              "type": "choice",
+              "content": "调查冰箱"
+            },
+            {
+              "id": "step_e7_074",
+              "type": "choice",
+              "content": "时速340公里"
+            },
+            {
+              "id": "step_e7_075",
+              "type": "choice",
+              "content": "所谓幻象的目的是？"
+            },
+            {
+              "id": "step_e7_076",
+              "type": "choice",
+              "content": "从什么时候在这里的？"
+            },
+            {
+              "id": "step_e7_077",
+              "type": "choice",
+              "content": "道歉"
+            },
+            {
+              "id": "step_e7_078",
+              "type": "choice",
+              "content": "啊啊"
+            },
+            {
+              "id": "step_e7_080",
+              "type": "choice",
+              "content": "知道"
+            },
+            {
+              "id": "step_e7_081",
+              "type": "choice",
+              "content": "打呵欠"
+            },
+            {
+              "id": "step_e7_082",
+              "type": "choice",
+              "content": "阀的～"
+            },
+            {
+              "id": "step_e7_083",
+              "type": "choice",
+              "content": "不行……"
+            },
+            {
+              "id": "step_e7_084",
+              "type": "choice",
+              "content": "抱起手臂"
+            },
+            {
+              "id": "step_e7_085",
+              "type": "choice",
+              "content": "0.5秒"
+            },
+            {
+              "id": "step_e7_086",
+              "type": "choice",
+              "content": "别这么死板嘛"
+            },
+            {
+              "id": "step_e7_087",
+              "type": "choice",
+              "content": "航海家"
+            },
+            {
+              "id": "step_e7_088",
+              "type": "choice",
+              "content": "26433832795028841971……"
+            },
+            {
+              "id": "step_e7_089",
+              "type": "choice",
+              "content": "思考那个理由"
+            },
+            {
+              "id": "step_e7_090",
+              "type": "choice",
+              "content": "变快了"
+            },
+            {
+              "id": "step_e7_091",
+              "type": "choice",
+              "content": "苹果以飞快的速度掉下来的样子……"
+            },
+            {
+              "id": "step_e7_092",
+              "type": "choice",
+              "content": "答应"
+            }
+          ]
+        },
+        {
+          "id": "ending_08",
+          "name": "END8 integral",
+          "type": "good",
+          "steps": [
+            {
+              "id": "step_e8_001",
+              "type": "choice",
+              "content": "还好……"
+            },
+            {
+              "id": "step_e8_002",
+              "type": "choice",
+              "content": "谈论经历方面"
+            },
+            {
+              "id": "step_e8_003",
+              "type": "choice",
+              "content": "使用手机"
+            },
+            {
+              "id": "step_e8_004",
+              "type": "choice",
+              "content": "完全不回嘴"
+            },
+            {
+              "id": "step_e8_005",
+              "type": "choice",
+              "content": "询问没有人的理由"
+            },
+            {
+              "id": "step_e8_006",
+              "type": "choice",
+              "content": "关于通讯"
+            },
+            {
+              "id": "step_e8_007",
+              "type": "choice",
+              "content": "关于大众媒体"
+            },
+            {
+              "id": "step_e8_008",
+              "type": "choice",
+              "content": "关于生活线"
+            },
+            {
+              "id": "step_e8_009",
+              "type": "choice",
+              "content": "在意真琴的事"
+            },
+            {
+              "id": "step_e8_010",
+              "type": "choice",
+              "content": "想也不去想"
+            },
+            {
+              "id": "step_e8_011",
+              "type": "choice",
+              "content": "不要妨碍到别人嘛"
+            },
+            {
+              "id": "step_e8_012",
+              "type": "choice",
+              "content": "生气了"
+            },
+            {
+              "id": "step_e8_013",
+              "type": "choice",
+              "content": "交给大手町"
+            },
+            {
+              "id": "step_e8_014",
+              "type": "choice",
+              "content": "大叫"
+            },
+            {
+              "id": "step_e8_015",
+              "type": "choice",
+              "content": "我也不知道"
+            },
+            {
+              "id": "step_e8_016",
+              "type": "choice",
+              "content": "船员们发动叛乱了？"
+            },
+            {
+              "id": "step_e8_017",
+              "type": "choice",
+              "content": "调查少年的持有物"
+            },
+            {
+              "id": "step_e8_018",
+              "type": "choice",
+              "content": "没有云"
+            },
+            {
+              "id": "step_e8_019",
+              "type": "choice",
+              "content": "把玩肩带"
+            },
+            {
+              "id": "step_e8_020",
+              "type": "choice",
+              "content": "告诉他比较好"
+            },
+            {
+              "id": "step_e8_021",
+              "type": "choice",
+              "content": "罢休"
+            },
+            {
+              "id": "step_e8_022",
+              "type": "choice",
+              "content": "等他阅读结束"
+            },
+            {
+              "id": "step_e8_023",
+              "type": "choice",
+              "content": "大手町呢？有没有从真琴那听说过什么？"
+            },
+            {
+              "id": "step_e8_024",
+              "type": "choice",
+              "content": "有感觉"
+            },
+            {
+              "id": "step_e8_025",
+              "type": "choice",
+              "content": "点头"
+            },
+            {
+              "id": "step_e8_026",
+              "type": "choice",
+              "content": "理文六高的相关人员"
+            },
+            {
+              "id": "step_e8_027",
+              "type": "choice",
+              "content": "头很痒吗？"
+            },
+            {
+              "id": "step_e8_028",
+              "type": "choice",
+              "content": "听天气预报"
+            },
+            {
+              "id": "step_e8_029",
+              "type": "choice",
+              "content": "看报纸"
+            },
+            {
+              "id": "step_e8_030",
+              "type": "choice",
+              "content": "那个理文六高的男生吗？"
+            },
+            {
+              "id": "step_e8_031",
+              "type": "choice",
+              "content": "看不到人类静止时候的模样？"
+            },
+            {
+              "id": "step_e8_032",
+              "type": "choice",
+              "content": "当前思考简讯的内容较为优先"
+            },
+            {
+              "id": "step_e8_033",
+              "type": "choice",
+              "content": "可以"
+            },
+            {
+              "id": "step_e8_034",
+              "type": "choice",
+              "content": "Revelation"
+            },
+            {
+              "id": "step_e8_035",
+              "type": "choice",
+              "content": "关于雾寺，你知道些什么？"
+            },
+            {
+              "id": "step_e8_036",
+              "type": "choice",
+              "content": "看向女子"
+            },
+            {
+              "id": "step_e8_037",
+              "type": "choice",
+              "content": "有"
+            },
+            {
+              "id": "step_e8_038",
+              "type": "choice",
+              "content": "舞菜"
+            },
+            {
+              "id": "step_e8_039",
+              "type": "choice",
+              "content": "热腾腾的牛排"
+            },
+            {
+              "id": "step_e8_040",
+              "type": "choice",
+              "content": "不太"
+            },
+            {
+              "id": "step_e8_041",
+              "type": "choice",
+              "content": "不是"
+            },
+            {
+              "id": "step_e8_042",
+              "type": "choice",
+              "content": "调查真琴登记入房的时间"
+            },
+            {
+              "id": "step_e8_043",
+              "type": "choice",
+              "content": "调查衣橱"
+            },
+            {
+              "id": "step_e8_044",
+              "type": "choice",
+              "content": "调查浴室"
+            },
+            {
+              "id": "step_e8_045",
+              "type": "choice",
+              "content": "调查床头柜"
+            },
+            {
+              "id": "step_e8_046",
+              "type": "choice",
+              "content": "调查椅子"
+            },
+            {
+              "id": "step_e8_047",
+              "type": "choice",
+              "content": "调查床铺"
+            },
+            {
+              "id": "step_e8_048",
+              "type": "choice",
+              "content": "I"
+            },
+            {
+              "id": "step_e8_049",
+              "type": "choice",
+              "content": "为什么？"
+            },
+            {
+              "id": "step_e8_050",
+              "type": "choice",
+              "content": "白色"
+            },
+            {
+              "id": "step_e8_051",
+              "type": "choice",
+              "content": "木星"
+            },
+            {
+              "id": "step_e8_052",
+              "type": "choice",
+              "content": "steak knife（牛排刀）"
+            },
+            {
+              "id": "step_e8_053",
+              "type": "choice",
+              "content": "star（星星）"
+            },
+            {
+              "id": "step_e8_054",
+              "type": "choice",
+              "content": "tadaima"
+            },
+            {
+              "id": "step_e8_055",
+              "type": "choice",
+              "content": "石头"
+            },
+            {
+              "id": "step_e8_057",
+              "type": "choice",
+              "content": "大学医院"
+            },
+            {
+              "id": "step_e8_058",
+              "type": "choice",
+              "content": "18.44公尺"
+            },
+            {
+              "id": "step_e8_059",
+              "type": "choice",
+              "content": "0.42秒"
+            },
+            {
+              "id": "step_e8_060",
+              "type": "choice",
+              "content": "大约0.2秒"
+            },
+            {
+              "id": "step_e8_061",
+              "type": "choice",
+              "content": "大概0.24秒左右"
+            },
+            {
+              "id": "step_e8_062",
+              "type": "choice",
+              "content": "真琴呢……？"
+            },
+            {
+              "id": "step_e8_063",
+              "type": "choice",
+              "content": "叉开双腿站在缪与舞菜前面"
+            },
+            {
+              "id": "step_e8_064",
+              "type": "choice",
+              "content": "超可爱的啦～♪"
+            },
+            {
+              "id": "step_e8_065",
+              "type": "note",
+              "content": "∫线（鸣海线和炼丸线各通过至少1次后才会开启）"
+            },
+            {
+              "id": "step_e8_066",
+              "type": "choice",
+              "content": "你怎么会知道关于我们的事？"
+            },
+            {
+              "id": "step_e8_067",
+              "type": "choice",
+              "content": "超可爱的啦～♪"
+            },
+            {
+              "id": "step_e8_068",
+              "type": "choice",
+              "content": "骷髅头"
+            },
+            {
+              "id": "step_e8_069",
+              "type": "choice",
+              "content": "像"
+            },
+            {
+              "id": "step_e8_070",
+              "type": "choice",
+              "content": "原来如此"
+            },
+            {
+              "id": "step_e8_071",
+              "type": "choice",
+              "content": "调查桌子"
+            },
+            {
+              "id": "step_e8_072",
+              "type": "choice",
+              "content": "调查书柜"
+            },
+            {
+              "id": "step_e8_073",
+              "type": "choice",
+              "content": "调查冰箱"
+            },
+            {
+              "id": "step_e8_074",
+              "type": "choice",
+              "content": "时速340公里"
+            },
+            {
+              "id": "step_e8_075",
+              "type": "choice",
+              "content": "所谓幻象的目的是？"
+            },
+            {
+              "id": "step_e8_076",
+              "type": "choice",
+              "content": "从什么时候在这里的？"
+            },
+            {
+              "id": "step_e8_077",
+              "type": "choice",
+              "content": "道歉"
+            },
+            {
+              "id": "step_e8_078",
+              "type": "choice",
+              "content": "啊啊"
+            },
+            {
+              "id": "step_e8_080",
+              "type": "choice",
+              "content": "知道"
+            },
+            {
+              "id": "step_e8_081",
+              "type": "choice",
+              "content": "打呵欠"
+            },
+            {
+              "id": "step_e8_082",
+              "type": "choice",
+              "content": "阀的～"
+            },
+            {
+              "id": "step_e8_083",
+              "type": "choice",
+              "content": "不行……"
+            },
+            {
+              "id": "step_e8_084",
+              "type": "choice",
+              "content": "抱起手臂"
+            },
+            {
+              "id": "step_e8_085",
+              "type": "choice",
+              "content": "0.5秒"
+            },
+            {
+              "id": "step_e8_086",
+              "type": "choice",
+              "content": "别这么死板嘛"
+            },
+            {
+              "id": "step_e8_087",
+              "type": "choice",
+              "content": "航海家"
+            },
+            {
+              "id": "step_e8_088",
+              "type": "choice",
+              "content": "26433832795028841971……"
+            },
+            {
+              "id": "step_e8_089",
+              "type": "choice",
+              "content": "思考那个理由"
+            },
+            {
+              "id": "step_e8_090",
+              "type": "choice",
+              "content": "变快了"
+            },
+            {
+              "id": "step_e8_091",
+              "type": "choice",
+              "content": "苹果以飞快的速度掉下来的样子……"
+            },
+            {
+              "id": "step_e8_092",
+              "type": "choice",
+              "content": "拒绝"
+            },
+            {
+              "id": "step_e8_093",
+              "type": "choice",
+              "content": "十二分钟的临界值"
+            },
+            {
+              "id": "step_e8_094",
+              "type": "choice",
+              "content": "御目贺"
+            },
+            {
+              "id": "step_e8_095",
+              "type": "choice",
+              "content": "炼丸"
+            },
+            {
+              "id": "step_e8_096",
+              "type": "choice",
+              "content": "指的就是缪"
+            },
+            {
+              "id": "step_e8_097",
+              "type": "note",
+              "content": "选择“指的就是我自己”则进入结局“divarication”"
+            },
+            {
+              "id": "step_e8_098",
+              "type": "choice",
+              "content": "诞吾攻击缪"
+            },
+            {
+              "id": "step_e8_099",
+              "type": "note",
+              "content": "选择“雾寺杀害缪”则进入结局“divarication”"
+            },
+            {
+              "id": "step_e8_100",
+              "type": "choice",
+              "content": "蹲下"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

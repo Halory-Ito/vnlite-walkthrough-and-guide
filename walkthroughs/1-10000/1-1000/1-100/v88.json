@@ -1,0 +1,164 @@
+{
+  "vid": "v88",
+  "name": {
+    "zh-cn": "悠久之翼",
+    "ja-jp": "ef - a fairy tale of the two",
+    "ja-Latn": "ef-the-first-tale"
+  },
+  "level": 2,
+  "updatedAt": "2026-02-27",
+  "routes": [
+    {
+      "id": "route_1756102898804",
+      "name": "ef-the first tale",
+      "endings": [
+        {
+          "id": "ending_1756103879219",
+          "name": "END 1",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_1756104337559",
+              "type": "choice",
+              "content": "和景继续聊天"
+            },
+            {
+              "id": "step_1756104337750",
+              "type": "choice",
+              "content": "就这样回去"
+            },
+            {
+              "id": "step_1756104338259",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1756104476828",
+              "type": "choice",
+              "content": "去接宫子"
+            },
+            {
+              "id": "step_1756104477013",
+              "type": "choice",
+              "content": "去看下情况"
+            },
+            {
+              "id": "step_1756104477196",
+              "type": "choice",
+              "content": "待在宫子的身边"
+            },
+            {
+              "id": "step_1756104477908",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1756104520097",
+              "type": "choice",
+              "content": "还是想要拍摄新藤的"
+            }
+          ]
+        },
+        {
+          "id": "ending_1756104910399",
+          "name": "END 2",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_1756104992098",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1756104998508",
+              "type": "choice",
+              "content": "工作优先"
+            },
+            {
+              "id": "step_1756104998974",
+              "type": "choice",
+              "content": "不去在意"
+            },
+            {
+              "id": "step_1756104999278",
+              "type": "choice",
+              "content": "不能放着景的事情不管"
+            }
+          ]
+        },
+        {
+          "id": "ending_1756105025798",
+          "name": "END 3",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_1756105127143",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1756105130200",
+              "type": "choice",
+              "content": "但是,不能背叛摄影研究会"
+            },
+            {
+              "id": "step_1756105130603",
+              "type": "choice",
+              "content": "就这样放弃"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756105156777",
+      "name": "ef-the latter tale",
+      "endings": [
+        {
+          "id": "ending_1756105587266",
+          "name": "END 1",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_1756105664629",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1756105673117",
+              "type": "choice",
+              "content": "不接吻"
+            },
+            {
+              "id": "step_1756105673374",
+              "type": "choice",
+              "content": "不要"
+            }
+          ]
+        },
+        {
+          "id": "ending_1756105722136",
+          "name": "END 2",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_1756105750848",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1756105753189",
+              "type": "choice",
+              "content": "接吻"
+            },
+            {
+              "id": "step_1756105753384",
+              "type": "choice",
+              "content": "知道了"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

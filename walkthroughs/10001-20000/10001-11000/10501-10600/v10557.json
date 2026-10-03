@@ -1,0 +1,250 @@
+{
+  "vid": "v10557",
+  "name": {
+    "zh-cn": "向日葵的教会与长长的暑假",
+    "ja-jp": "向日葵の教会と長い夏休み",
+    "ja-Latn": "himawari-no-kyoukai-to-nagai-natsuyasumi"
+  },
+  "level": 2,
+  "updatedAt": "2026-02-27",
+  "tips": [
+    "建议攻略顺序：鹭月流华—>胧白金刚石—>夏咲咏—>野野原雏樱",
+    "☆为夏咲咏攻略之后追加选项",
+    "有剧情锁，野野原雏樱线需要在夏咲咏线结束后开放"
+  ],
+  "routes": [
+    {
+      "id": "route_1755268477520",
+      "name": "鹭月 流华",
+      "endings": [
+        {
+          "id": "ending_1755268586523",
+          "name": "流华 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755268629815",
+              "type": "choice",
+              "content": "我明明这么纯洁被误会了好伤心。"
+            },
+            {
+              "id": "step_1755268656411",
+              "type": "choice",
+              "content": "真是喜欢这样的目光……"
+            },
+            {
+              "id": "step_1755268656589",
+              "type": "choice",
+              "content": "金刚石也够呛呢……"
+            },
+            {
+              "id": "step_1755268656741",
+              "type": "choice",
+              "content": "脖子后面好热。"
+            },
+            {
+              "id": "step_1755268657142",
+              "type": "choice",
+              "content": "月子说的也许没错。"
+            },
+            {
+              "id": "step_1755268702792",
+              "type": "choice",
+              "content": "是啊。"
+            },
+            {
+              "id": "step_1755268716131",
+              "type": "choice",
+              "content": "流华和父亲关系真好啊。"
+            },
+            {
+              "id": "step_1755268723415",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1755268730186",
+              "type": "choice",
+              "content": "说的也是……。"
+            },
+            {
+              "id": "step_1755268730328",
+              "type": "choice",
+              "content": "姐姐？"
+            },
+            {
+              "id": "step_1755268730587",
+              "type": "choice",
+              "content": "真是温柔。"
+            },
+            {
+              "id": "step_1755268760489",
+              "type": "choice",
+              "content": "我还完全不够格呢。",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_1755268782692",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1755268792374",
+              "type": "choice",
+              "content": "流华好香……。"
+            },
+            {
+              "id": "step_1755268792542",
+              "type": "choice",
+              "content": "考虑怎么办。"
+            },
+            {
+              "id": "step_1755268792706",
+              "type": "choice",
+              "content": "看着咏"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755268817818",
+      "name": "胧白 金刚石",
+      "endings": [
+        {
+          "id": "ending_1755268823815",
+          "name": "金刚石 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755268830520",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1755268840402",
+              "type": "choice",
+              "content": "好难为情啊……。"
+            },
+            {
+              "id": "step_1755268841185",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_1755268842019",
+              "type": "choice",
+              "content": "安慰金刚石"
+            },
+            {
+              "id": "step_1755268842371",
+              "type": "choice",
+              "content": "看着咏"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755268861826",
+      "name": "夏咲 咏",
+      "endings": [
+        {
+          "id": "ending_1755268874202",
+          "name": "咏 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755268904678",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_1755268909217",
+              "type": "choice",
+              "content": "考虑怎么办。"
+            },
+            {
+              "id": "step_1755268909465",
+              "type": "choice",
+              "content": "叫咏"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755268923703",
+      "name": "野野原 雏樱",
+      "endings": [
+        {
+          "id": "ending_1755268963836",
+          "name": "雏樱 END 1",
+          "type": "normal",
+          "requirements": "需要在夏咲咏攻略完毕后",
+          "steps": [
+            {
+              "id": "step_1755269096875",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1755269099790",
+              "type": "choice",
+              "content": "注入全部的运气"
+            },
+            {
+              "id": "step_1755269100193",
+              "type": "choice",
+              "content": "流华。"
+            },
+            {
+              "id": "step_1755269100441",
+              "type": "choice",
+              "content": "是睡着等的吗……。"
+            },
+            {
+              "id": "step_1755269100598",
+              "type": "choice",
+              "content": "看着雏，就会想支持她。",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_1755269100758",
+              "type": "choice",
+              "content": "好难为情……。"
+            },
+            {
+              "id": "step_1755269136294",
+              "type": "choice",
+              "content": "考虑怎么办。"
+            },
+            {
+              "id": "step_1755269136451",
+              "type": "choice",
+              "content": "看着咏"
+            }
+          ]
+        },
+        {
+          "id": "ending_1755269157001",
+          "name": "雏樱 END 2",
+          "type": "normal",
+          "requirements": "上述所有线攻略完成后回到标题重新开始",
+          "steps": [
+            {
+              "id": "step_1755269170368",
+              "type": "choice",
+              "content": "长长的暑假"
+            },
+            {
+              "id": "step_1755269170574",
+              "type": "choice",
+              "content": "想穿着制服H/想穿着泳衣H"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

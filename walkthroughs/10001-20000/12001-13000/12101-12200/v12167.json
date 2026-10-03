@@ -1,0 +1,330 @@
+{
+  "vid": "v12167",
+  "name": {
+    "zh-cn": "天色幻想岛",
+    "ja-jp": "天色＊アイルノーツ",
+    "ja-Latn": "amairo-islenauts"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-12",
+  "tips": [
+    "（  ）内为二周目以后会出现的选项",
+    "推荐攻略顺序：夏莉=>真咲=>夕音=>艾莉=>缇娅=>木乃香",
+    "rl选择不影响剧情，请自行回收CG"
+  ],
+  "routes": [
+    {
+      "id": "route_1756023390237",
+      "name": "夏莉·沃利克",
+      "endings": [
+        {
+          "id": "ending_1756023860663",
+          "name": "夏莉 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756023888932",
+              "type": "choice",
+              "content": "去看看沃利克同学"
+            },
+            {
+              "id": "step_1756024224800",
+              "type": "choice",
+              "content": "卡通便当"
+            },
+            {
+              "id": "step_1756024225041",
+              "type": "choice",
+              "content": "不行，这里态度得强硬"
+            },
+            {
+              "id": "step_1756024230929",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1756024233922",
+              "type": "choice",
+              "content": "美R"
+            },
+            {
+              "id": "step_1756024363958",
+              "type": "choice",
+              "content": "还是算了"
+            },
+            {
+              "id": "step_1756024364102",
+              "type": "choice",
+              "content": "就这样留在原地"
+            },
+            {
+              "id": "step_1756024364271",
+              "type": "choice",
+              "content": "不拜托三刀屋"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756024375152",
+      "name": "天雾 夕音",
+      "endings": [
+        {
+          "id": "ending_1756024378060",
+          "name": "夕音 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756024387373",
+              "type": "choice",
+              "content": "到处转转"
+            },
+            {
+              "id": "step_1756024387722",
+              "type": "choice",
+              "content": "茶色便当"
+            },
+            {
+              "id": "step_1756024388328",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1756024389312",
+              "type": "choice",
+              "content": "拿她没办法"
+            },
+            {
+              "id": "step_1756024389901",
+              "type": "choice",
+              "content": "巨R"
+            },
+            {
+              "id": "step_1756024390443",
+              "type": "choice",
+              "content": "还是算了"
+            },
+            {
+              "id": "step_1756024390856",
+              "type": "choice",
+              "content": "先把料理准备好"
+            },
+            {
+              "id": "step_1756024391245",
+              "type": "choice",
+              "content": "拜托三刀屋"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756024415863",
+      "name": "真咲·加亚尔",
+      "endings": [
+        {
+          "id": "ending_1756024419665",
+          "name": "真咲 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756024430691",
+              "type": "choice",
+              "content": "听听教室里的学生在谈什么"
+            },
+            {
+              "id": "step_1756024431238",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_1756024432742",
+              "type": "choice",
+              "content": "茶色便当"
+            },
+            {
+              "id": "step_1756024432930",
+              "type": "choice",
+              "content": "不行，这里态度得强硬"
+            },
+            {
+              "id": "step_1756024433202",
+              "type": "choice",
+              "content": "巨R"
+            },
+            {
+              "id": "step_1756024433537",
+              "type": "choice",
+              "content": "还是算了"
+            },
+            {
+              "id": "step_1756024433814",
+              "type": "choice",
+              "content": "再靠近湖边一点"
+            },
+            {
+              "id": "step_1756024433960",
+              "type": "choice",
+              "content": "老实地坦白"
+            },
+            {
+              "id": "step_1756024434124",
+              "type": "choice",
+              "content": "不拜托三刀屋"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756024486226",
+      "name": "白鹿 艾莉",
+      "endings": [
+        {
+          "id": "ending_1756024488684",
+          "name": "艾莉 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756024503166",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1756024509218",
+              "type": "choice",
+              "content": "色彩丰富的便当"
+            },
+            {
+              "id": "step_1756024509344",
+              "type": "choice",
+              "content": "不行，这里态度得强硬"
+            },
+            {
+              "id": "step_1756024509467",
+              "type": "choice",
+              "content": "都喜欢"
+            },
+            {
+              "id": "step_1756024509604",
+              "type": "choice",
+              "content": "还是算了"
+            },
+            {
+              "id": "step_1756024509716",
+              "type": "choice",
+              "content": "去找艾莉"
+            },
+            {
+              "id": "step_1756024522977",
+              "type": "choice",
+              "content": "再找一会"
+            },
+            {
+              "id": "step_1756024523117",
+              "type": "choice",
+              "content": "不拜托三刀屋"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756024534851",
+      "name": "缇娅·霍恩维尔芬",
+      "endings": [
+        {
+          "id": "ending_1756024552089",
+          "name": "缇娅 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756024559332",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1756024561004",
+              "type": "choice",
+              "content": "贫R"
+            },
+            {
+              "id": "step_1756024561318",
+              "type": "choice",
+              "content": "顺着赞美一下"
+            },
+            {
+              "id": "step_1756024561455",
+              "type": "choice",
+              "content": "再靠近湖边一点"
+            },
+            {
+              "id": "step_1756024561604",
+              "type": "choice",
+              "content": "掩饰过去"
+            },
+            {
+              "id": "step_1756024584953",
+              "type": "choice",
+              "content": "不拜托三刀屋"
+            },
+            {
+              "id": "step_1756024588847",
+              "type": "choice",
+              "content": "很合适，就这样"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756024536006",
+      "name": "火宫 木乃香",
+      "endings": [
+        {
+          "id": "ending_1756024766623",
+          "name": "木乃香 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756024775322",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1756024779231",
+              "type": "choice",
+              "content": "不行，这里态度得强硬"
+            },
+            {
+              "id": "step_1756024779360",
+              "type": "choice",
+              "content": "贫R"
+            },
+            {
+              "id": "step_1756024779516",
+              "type": "choice",
+              "content": "还是算了"
+            },
+            {
+              "id": "step_1756024779662",
+              "type": "choice",
+              "content": "再靠近湖边一点"
+            },
+            {
+              "id": "step_1756024779760",
+              "type": "choice",
+              "content": "老实坦白"
+            },
+            {
+              "id": "step_1756024779861",
+              "type": "choice",
+              "content": "去拜托三刀屋"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

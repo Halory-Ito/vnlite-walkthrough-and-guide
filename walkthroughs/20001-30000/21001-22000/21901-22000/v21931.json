@@ -1,0 +1,164 @@
+{
+  "vid": "v21931",
+  "name": {
+    "zh-cn": "将军大人芳华正茂",
+    "ja-jp": "将軍様はお年頃",
+    "ja-Latn": "shogun-sama-wa-otoshigoro"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-12",
+  "routes": [
+    {
+      "id": "route_1757073617440",
+      "name": "德田 义宗",
+      "endings": [
+        {
+          "id": "ending_1757074189156",
+          "name": "义宗 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1757074192885",
+              "type": "choice",
+              "content": "称赞义宗心中的志向"
+            },
+            {
+              "id": "step_1757074193078",
+              "type": "choice",
+              "content": "想做好觉悟再进行挣扎"
+            },
+            {
+              "id": "step_1757074193307",
+              "type": "choice",
+              "content": "我这时应该拒绝"
+            },
+            {
+              "id": "step_1757074193547",
+              "type": "choice",
+              "content": "继续观察"
+            },
+            {
+              "id": "step_1757074193836",
+              "type": "choice",
+              "content": "害羞地笑着含糊过去"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1757074259841",
+      "name": "德河 宗春",
+      "endings": [
+        {
+          "id": "ending_1757074265974",
+          "name": "宗春 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1757074268785",
+              "type": "choice",
+              "content": "敌不过宗春的胸部"
+            },
+            {
+              "id": "step_1757074268945",
+              "type": "choice",
+              "content": "想做好觉悟再进行挣扎"
+            },
+            {
+              "id": "step_1757074269105",
+              "type": "choice",
+              "content": "希望她能用宗宗对我春春"
+            },
+            {
+              "id": "step_1757074269341",
+              "type": "choice",
+              "content": "继续观察"
+            },
+            {
+              "id": "step_1757074269813",
+              "type": "choice",
+              "content": "害羞地笑着含糊过去"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1757074296582",
+      "name": "凛",
+      "endings": [
+        {
+          "id": "ending_1757074299301",
+          "name": "凛 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1757074301424",
+              "type": "choice",
+              "content": "沉默是金"
+            },
+            {
+              "id": "step_1757074301608",
+              "type": "choice",
+              "content": "想做好觉悟再进行挣扎/想在回去可能性上赌一把"
+            },
+            {
+              "id": "step_1757074302078",
+              "type": "choice",
+              "content": "灭却心头火亦凉"
+            },
+            {
+              "id": "step_1757074302389",
+              "type": "choice",
+              "content": "搭话"
+            },
+            {
+              "id": "step_1757074302741",
+              "type": "choice",
+              "content": "害羞地笑着含糊过去"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1757074322529",
+      "name": "株树",
+      "endings": [
+        {
+          "id": "ending_1757074326180",
+          "name": "三衣 株树 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1757074328137",
+              "type": "choice",
+              "content": "沉默是金"
+            },
+            {
+              "id": "step_1757074328320",
+              "type": "choice",
+              "content": "想在回去可能性上赌一把"
+            },
+            {
+              "id": "step_1757074328555",
+              "type": "choice",
+              "content": "灭却心头火亦凉"
+            },
+            {
+              "id": "step_1757074328931",
+              "type": "choice",
+              "content": "继续观察"
+            },
+            {
+              "id": "step_1757074329312",
+              "type": "choice",
+              "content": "点头承认"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

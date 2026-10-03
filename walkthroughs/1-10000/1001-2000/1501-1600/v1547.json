@@ -1,0 +1,734 @@
+{
+  "vid": "v1547",
+  "name": {
+    "zh-cn": "77～双星再会之时～",
+    "ja-jp": "セブンズ ～And, two stars meet again～",
+    "ja-Latn": "77-and-two-stars-meet-again"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-14",
+  "tips": [
+    "◆选项为二周目选项"
+  ],
+  "routes": [
+    {
+      "id": "route_game",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_sora",
+          "name": "宙 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_sora_01",
+              "type": "choice",
+              "content": "给宙去道歉",
+              "group": "6月1日"
+            },
+            {
+              "id": "step_sora_02",
+              "type": "choice",
+              "content": "没",
+              "group": "6月4日"
+            },
+            {
+              "id": "step_sora_03",
+              "type": "choice",
+              "content": "忙乱中",
+              "group": "6月4日"
+            },
+            {
+              "id": "step_sora_04",
+              "type": "choice",
+              "content": "天峰",
+              "group": "6月4日"
+            },
+            {
+              "id": "step_sora_05",
+              "type": "save",
+              "content": "SAVE 1",
+              "group": "6月5日"
+            },
+            {
+              "id": "step_sora_06",
+              "type": "choice",
+              "content": "好好玩一下",
+              "subfix": "CG回收",
+              "group": "6月5日"
+            },
+            {
+              "id": "step_sora_07",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_sora_08",
+              "type": "choice",
+              "content": "进到里面",
+              "group": "6月5日"
+            },
+            {
+              "id": "step_sora_09",
+              "type": "choice",
+              "content": "问问他们是来干什么的",
+              "group": "6月5日"
+            },
+            {
+              "id": "step_sora_10",
+              "type": "save",
+              "content": "SAVE 2",
+              "group": "6月6日"
+            },
+            {
+              "id": "step_sora_11",
+              "type": "choice",
+              "content": "史黛拉也检查了吗？",
+              "group": "6月6日"
+            },
+            {
+              "id": "step_sora_12",
+              "type": "choice",
+              "content": "主人也很好呀",
+              "group": "6月6日"
+            },
+            {
+              "id": "step_sora_13",
+              "type": "choice",
+              "content": "开心",
+              "group": "6月7日"
+            },
+            {
+              "id": "step_sora_14",
+              "type": "choice",
+              "content": "帮忙收拾吧",
+              "group": "6月7日"
+            },
+            {
+              "id": "step_sora_15",
+              "type": "choice",
+              "content": "试着查找一下教室里面",
+              "group": "6月9日"
+            },
+            {
+              "id": "step_sora_16",
+              "type": "choice",
+              "content": "不单腿跳",
+              "group": "6月9日"
+            },
+            {
+              "id": "step_sora_17",
+              "type": "choice",
+              "content": "手下留情",
+              "group": "6月11日"
+            },
+            {
+              "id": "step_sora_18",
+              "type": "choice",
+              "content": "回寝室",
+              "group": "6月11日"
+            },
+            {
+              "id": "step_sora_19",
+              "type": "choice",
+              "content": "邀请宙她们去",
+              "group": "6月13日"
+            },
+            {
+              "id": "step_sora_20",
+              "type": "choice",
+              "content": "与卡莲商量",
+              "group": "6月15日"
+            },
+            {
+              "id": "step_sora_21",
+              "type": "choice",
+              "content": "自信的程度？",
+              "group": "6月15日"
+            },
+            {
+              "id": "step_sora_22",
+              "type": "choice",
+              "content": "保存小豆等到冷天",
+              "group": "6月16日"
+            },
+            {
+              "id": "step_sora_23",
+              "type": "choice",
+              "content": "土豆炖肉咖喱",
+              "group": "6月16日"
+            },
+            {
+              "id": "step_sora_24",
+              "type": "choice",
+              "content": "叫我哥哥有点儿",
+              "prefix": "◆",
+              "group": "6月17日"
+            },
+            {
+              "id": "step_sora_25",
+              "type": "choice",
+              "content": "为什么，被那么讨厌呢",
+              "group": "6月18日"
+            },
+            {
+              "id": "step_sora_26",
+              "type": "choice",
+              "content": "得到美纪的帮助",
+              "group": "6月18日"
+            },
+            {
+              "id": "step_sora_27",
+              "type": "choice",
+              "content": "阻止小亚纪",
+              "group": "6月22日"
+            },
+            {
+              "id": "step_sora_28",
+              "type": "choice",
+              "content": "尽量赶快去投票点",
+              "group": "6月23日"
+            },
+            {
+              "id": "step_sora_29",
+              "type": "choice",
+              "content": "鼓舞激励",
+              "group": "6月23日"
+            },
+            {
+              "id": "step_sora_30",
+              "type": "save",
+              "content": "SAVE 3",
+              "group": "6月25日"
+            },
+            {
+              "id": "step_sora_31",
+              "type": "choice",
+              "content": "商量男性的本能",
+              "group": "6月25日"
+            },
+            {
+              "id": "step_sora_32",
+              "type": "save",
+              "content": "SAVE 4",
+              "group": "6月26日"
+            },
+            {
+              "id": "step_sora_33",
+              "type": "choice",
+              "content": "先冷静下来",
+              "group": "6月26日"
+            },
+            {
+              "id": "step_sora_34",
+              "type": "choice",
+              "content": "有点儿累",
+              "group": "6月26日"
+            },
+            {
+              "id": "step_sora_35",
+              "type": "choice",
+              "content": "朋友之间的感情",
+              "group": "6月27日"
+            },
+            {
+              "id": "step_sora_36",
+              "type": "choice",
+              "content": "试着拜托小亚纪",
+              "group": "7月3日"
+            },
+            {
+              "id": "step_sora_37",
+              "type": "save",
+              "content": "SAVE 5",
+              "group": "7月3日"
+            },
+            {
+              "id": "step_sora_38",
+              "type": "choice",
+              "content": "照顾优先做明天的准备",
+              "group": "7月3日"
+            },
+            {
+              "id": "step_sora_39",
+              "type": "choice",
+              "content": "嘴里/脸上",
+              "group": "7月7日"
+            },
+            {
+              "id": "step_sora_40",
+              "type": "choice",
+              "content": "里面/外面",
+              "group": "7月10日"
+            },
+            {
+              "id": "step_sora_41",
+              "type": "choice",
+              "content": "里面/外面",
+              "group": "7月20日"
+            }
+          ]
+        },
+        {
+          "id": "ending_aki",
+          "name": "亚纪 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_aki_01",
+              "type": "load",
+              "content": "LOAD 5",
+              "group": "7月3日"
+            },
+            {
+              "id": "step_aki_02",
+              "type": "choice",
+              "content": "照顾小亚纪",
+              "group": "7月3日"
+            }
+          ]
+        },
+        {
+          "id": "ending_miki",
+          "name": "美纪 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_miki_01",
+              "type": "load",
+              "content": "LOAD 2",
+              "group": "6月6日"
+            },
+            {
+              "id": "step_miki_02",
+              "type": "choice",
+              "content": "一脸不爽的表情啊、古清水",
+              "group": "6月6日"
+            },
+            {
+              "id": "step_miki_03",
+              "type": "choice",
+              "content": "初次印象不好吗……",
+              "group": "6月6日"
+            },
+            {
+              "id": "step_miki_04",
+              "type": "choice",
+              "content": "推测过头了",
+              "group": "6月7日"
+            },
+            {
+              "id": "step_miki_05",
+              "type": "choice",
+              "content": "一起回去",
+              "group": "6月7日"
+            },
+            {
+              "id": "step_miki_06",
+              "type": "choice",
+              "content": "试着查找一下教室里面",
+              "group": "6月9日"
+            },
+            {
+              "id": "step_miki_07",
+              "type": "choice",
+              "content": "单腿跳",
+              "group": "6月9日"
+            },
+            {
+              "id": "step_miki_08",
+              "type": "choice",
+              "content": "放在那不管",
+              "group": "6月9日"
+            },
+            {
+              "id": "step_miki_09",
+              "type": "choice",
+              "content": "请多多关照",
+              "group": "6月11日"
+            },
+            {
+              "id": "step_miki_10",
+              "type": "choice",
+              "content": "回寝室",
+              "group": "6月11日"
+            },
+            {
+              "id": "step_miki_11",
+              "type": "choice",
+              "content": "邀请小葵她们去",
+              "group": "6月13日"
+            },
+            {
+              "id": "step_miki_12",
+              "type": "choice",
+              "content": "与小樱商量",
+              "group": "6月15日"
+            },
+            {
+              "id": "step_miki_13",
+              "type": "choice",
+              "content": "宙这边好像很强",
+              "group": "6月15日"
+            },
+            {
+              "id": "step_miki_14",
+              "type": "choice",
+              "content": "暂且和牌优先",
+              "group": "6月16日"
+            },
+            {
+              "id": "step_miki_15",
+              "type": "choice",
+              "content": "收集食材之后做能做的料理",
+              "group": "6月16日"
+            },
+            {
+              "id": "step_miki_16",
+              "type": "choice",
+              "content": "说服小樱",
+              "group": "6月16日"
+            },
+            {
+              "id": "step_miki_17",
+              "type": "choice",
+              "content": "从容、等待大米",
+              "group": "6月16日"
+            },
+            {
+              "id": "step_miki_18",
+              "type": "save",
+              "content": "SAVE 6",
+              "group": "6月16日"
+            },
+            {
+              "id": "step_miki_19",
+              "type": "choice",
+              "content": "继续进行",
+              "group": "6月16日"
+            },
+            {
+              "id": "step_miki_20",
+              "type": "choice",
+              "content": "瞄准大东西",
+              "group": "6月16日"
+            },
+            {
+              "id": "step_miki_21",
+              "type": "choice",
+              "content": "半庄制",
+              "group": "6月16日"
+            },
+            {
+              "id": "step_miki_22",
+              "type": "choice",
+              "content": "叫我哥哥有点儿",
+              "group": "6月17日"
+            },
+            {
+              "id": "step_miki_23",
+              "type": "choice",
+              "content": "少管闲事",
+              "group": "6月18日"
+            },
+            {
+              "id": "step_miki_24",
+              "type": "choice",
+              "content": "得到美纪的帮助",
+              "group": "6月18日"
+            },
+            {
+              "id": "step_miki_25",
+              "type": "choice",
+              "content": "拒绝跟美纪说话",
+              "group": "6月22日"
+            },
+            {
+              "id": "step_miki_26",
+              "type": "choice",
+              "content": "尽量赶快去投票点",
+              "group": "6月23日"
+            },
+            {
+              "id": "step_miki_27",
+              "type": "choice",
+              "content": "力之塔勤恳地争取票数",
+              "group": "6月23日"
+            },
+            {
+              "id": "step_miki_28",
+              "type": "choice",
+              "content": "破坏",
+              "group": "6月23日"
+            },
+            {
+              "id": "step_miki_29",
+              "type": "choice",
+              "content": "可能吧",
+              "group": "6月23日"
+            },
+            {
+              "id": "step_miki_30",
+              "type": "save",
+              "content": "SAVE 7",
+              "group": "6月25日"
+            },
+            {
+              "id": "step_miki_31",
+              "type": "choice",
+              "content": "没有隔阂的话就好了",
+              "group": "6月25日"
+            },
+            {
+              "id": "step_miki_32",
+              "type": "choice",
+              "content": "问她为什么要这么做",
+              "group": "6月25日"
+            },
+            {
+              "id": "step_miki_33",
+              "type": "choice",
+              "content": "先冷静下来",
+              "group": "6月26日"
+            },
+            {
+              "id": "step_miki_34",
+              "type": "choice",
+              "content": "救命",
+              "group": "6月26日"
+            },
+            {
+              "id": "step_miki_35",
+              "type": "choice",
+              "content": "别让人觉得是姐姐",
+              "group": "6月26日"
+            },
+            {
+              "id": "step_miki_36",
+              "type": "choice",
+              "content": "轻轻地待着",
+              "group": "6月27日"
+            },
+            {
+              "id": "step_miki_37",
+              "type": "save",
+              "content": "SAVE 8",
+              "group": "6月27日"
+            },
+            {
+              "id": "step_miki_38",
+              "type": "choice",
+              "content": "带回去",
+              "group": "6月27日"
+            },
+            {
+              "id": "step_miki_39",
+              "type": "choice",
+              "content": "向美纪求助",
+              "group": "7月2日"
+            }
+          ]
+        },
+        {
+          "id": "ending_aoi",
+          "name": "葵 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_aoi_01",
+              "type": "load",
+              "content": "LOAD 4",
+              "group": "6月26日"
+            },
+            {
+              "id": "step_aoi_02",
+              "type": "choice",
+              "content": "没那么想",
+              "group": "6月26日"
+            },
+            {
+              "id": "step_aoi_03",
+              "type": "choice",
+              "content": "小葵样子也很奇怪",
+              "group": "6月27日"
+            },
+            {
+              "id": "step_aoi_04",
+              "type": "choice",
+              "content": "带到保养室",
+              "group": "7月2日"
+            },
+            {
+              "id": "step_aoi_05",
+              "type": "save",
+              "content": "SAVE 9",
+              "group": "7月3日"
+            },
+            {
+              "id": "step_aoi_06",
+              "type": "choice",
+              "content": "心领了",
+              "group": "7月3日"
+            }
+          ]
+        },
+        {
+          "id": "ending_stella",
+          "name": "史黛拉 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_stella_01",
+              "type": "load",
+              "content": "LOAD 9",
+              "group": "7月3日"
+            },
+            {
+              "id": "step_stella_02",
+              "type": "choice",
+              "content": "承蒙您的照顾",
+              "group": "7月3日"
+            }
+          ]
+        },
+        {
+          "id": "ending_rin",
+          "name": "凛 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_rin_01",
+              "type": "load",
+              "content": "LOAD 7",
+              "group": "6月25日"
+            },
+            {
+              "id": "step_rin_02",
+              "type": "choice",
+              "content": "为什么、问是不是葵",
+              "group": "6月25日"
+            }
+          ]
+        },
+        {
+          "id": "ending_ruru",
+          "name": "瑠瑠 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_ruru_01",
+              "type": "load",
+              "content": "LOAD 3",
+              "group": "6月25日"
+            },
+            {
+              "id": "step_ruru_02",
+              "type": "choice",
+              "content": "问她为什么要这么做",
+              "group": "6月25日"
+            },
+            {
+              "id": "step_ruru_03",
+              "type": "choice",
+              "content": "先冷静下来",
+              "group": "6月26日"
+            },
+            {
+              "id": "step_ruru_04",
+              "type": "choice",
+              "content": "轻轻的待着",
+              "group": "6月27日"
+            },
+            {
+              "id": "step_ruru_05",
+              "type": "save",
+              "content": "SAVE 10",
+              "group": "7月2日"
+            },
+            {
+              "id": "step_ruru_06",
+              "type": "choice",
+              "content": "岔开话题",
+              "group": "7月2日"
+            }
+          ]
+        },
+        {
+          "id": "ending_karen",
+          "name": "卡莲 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_karen_01",
+              "type": "load",
+              "content": "LOAD 10",
+              "group": "7月2日"
+            },
+            {
+              "id": "step_karen_02",
+              "type": "choice",
+              "content": "不是恋爱感情",
+              "group": "7月2日"
+            },
+            {
+              "id": "step_karen_03",
+              "type": "choice",
+              "content": "瑠瑠是高岭之花",
+              "group": "7月2日"
+            },
+            {
+              "id": "step_karen_04",
+              "type": "choice",
+              "content": "不想伤害瑠瑠",
+              "group": "7月2日"
+            }
+          ]
+        },
+        {
+          "id": "ending_sakura",
+          "name": "樱 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_sakura_01",
+              "type": "load",
+              "content": "LOAD 8",
+              "group": "6月27日"
+            },
+            {
+              "id": "step_sakura_02",
+              "type": "choice",
+              "content": "跟小樱商量",
+              "group": "6月27日"
+            }
+          ]
+        },
+        {
+          "id": "ending_kuu",
+          "name": "空 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_kuu_01",
+              "type": "load",
+              "content": "LOAD 6",
+              "group": "6月16日"
+            },
+            {
+              "id": "step_kuu_02",
+              "type": "choice",
+              "content": "半庄制",
+              "group": "6月16日"
+            },
+            {
+              "id": "step_kuu_03",
+              "type": "choice",
+              "content": "我可以当哥哥吗？",
+              "group": "6月17日"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

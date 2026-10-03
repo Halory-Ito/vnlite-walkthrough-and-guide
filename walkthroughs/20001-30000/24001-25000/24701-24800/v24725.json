@@ -1,0 +1,143 @@
+{
+  "vid": "v24725",
+  "name": {
+    "zh-cn": "重生游戏-REALIVE-",
+    "ja-jp": "リアライブ",
+    "ja-Latn": "realive-purple"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-14",
+  "tips": [
+    "各角色END后，会追加后日谈，请自行观看",
+    "由选项产生好感度差异从而确定分歧",
+    "好感度相同时，优先级为：咲月＞歌夜＞眠＞津"
+  ],
+  "routes": [
+    {
+      "id": "route_game",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_satsuki",
+          "name": "美大和 咲月 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_satsuki_01",
+              "type": "choice",
+              "content": "默默地看着"
+            },
+            {
+              "id": "step_satsuki_02",
+              "type": "choice",
+              "content": "没必要再比了"
+            },
+            {
+              "id": "step_satsuki_03",
+              "type": "choice",
+              "content": "劝导她"
+            },
+            {
+              "id": "step_satsuki_04",
+              "type": "choice",
+              "content": "寻找其他的方案"
+            }
+          ]
+        },
+        {
+          "id": "ending_uta",
+          "name": "皇歌夜 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_uta_01",
+              "type": "choice",
+              "content": "默默地看着"
+            },
+            {
+              "id": "step_uta_02",
+              "type": "choice",
+              "content": "还想继续比试"
+            },
+            {
+              "id": "step_uta_03",
+              "type": "choice",
+              "content": "放任不管"
+            },
+            {
+              "id": "step_uta_04",
+              "type": "choice",
+              "content": "寻找其他的方案"
+            }
+          ]
+        },
+        {
+          "id": "ending_nemuri",
+          "name": "真深眠 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_nemuri_01",
+              "type": "choice",
+              "content": "默默地看着"
+            },
+            {
+              "id": "step_nemuri_02",
+              "type": "choice",
+              "content": "没必要再比了"
+            },
+            {
+              "id": "step_nemuri_03",
+              "type": "choice",
+              "content": "放任不管"
+            },
+            {
+              "id": "step_nemuri_04",
+              "type": "choice",
+              "content": "做好觉悟"
+            }
+          ]
+        },
+        {
+          "id": "ending_matsuri",
+          "name": "祭失津 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_matsuri_01",
+              "type": "choice",
+              "content": "叫住她"
+            },
+            {
+              "id": "step_matsuri_02",
+              "type": "choice",
+              "content": "没必要再比了"
+            },
+            {
+              "id": "step_matsuri_03",
+              "type": "choice",
+              "content": "放任不管"
+            },
+            {
+              "id": "step_matsuri_04",
+              "type": "choice",
+              "content": "寻找其他的方案"
+            }
+          ]
+        },
+        {
+          "id": "ending_levi",
+          "name": "蕾薇 END",
+          "type": "normal",
+          "requirements": "四人攻略完成之后，标题画面选择重生纪行",
+          "steps": [
+            {
+              "type": "choice",
+              "content": "（源站步骤均为空）"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

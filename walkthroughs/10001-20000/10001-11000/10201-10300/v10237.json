@@ -1,0 +1,114 @@
+{
+  "vid": "v10237",
+  "name": {
+    "zh-cn": "根本没有中之人！Tokyo Hero Project",
+    "ja-jp": "中の人などいない！ トーキョー・ヒーロー・プロジェクト",
+    "ja-Latn": "naka-no-hito-nado-inai-tokyo-hero-project"
+  },
+  "level": 2,
+  "updatedAt": "2026-02-27",
+  "routes": [
+    {
+      "id": "route_1757082253675",
+      "name": "本堂 絢乃",
+      "endings": [
+        {
+          "id": "ending_1757082615167",
+          "name": "絢乃END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1757082618168",
+              "type": "choice",
+              "content": "把桐原寄放在神城里"
+            },
+            {
+              "id": "step_1757082620411",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1757082622455",
+              "type": "choice",
+              "content": "向佐绪里说明情况"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1757082667003",
+      "name": "神城 優香",
+      "endings": [
+        {
+          "id": "ending_1757082674181",
+          "name": "優香END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1757082676475",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1757082678078",
+              "type": "choice",
+              "content": "不，那不好吃"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1757082690382",
+      "name": "天元 路易斯",
+      "endings": [
+        {
+          "id": "ending_1757082699653",
+          "name": "路易斯END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1757082704516",
+              "type": "choice",
+              "content": "马上停止"
+            },
+            {
+              "id": "step_1757082706315",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1757082707127",
+              "type": "choice",
+              "content": "不，那不好吃"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1757082736558",
+      "name": "桐原 佐緒里",
+      "endings": [
+        {
+          "id": "ending_1757082746747",
+          "name": "佐緒里END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1757082753264",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1757082758188",
+              "type": "choice",
+              "content": "向佐绪里说明情况"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

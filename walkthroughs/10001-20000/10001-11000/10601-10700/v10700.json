@@ -1,0 +1,275 @@
+{
+  "vid": "v10700",
+  "name": {
+    "zh-cn": "花吻在上 米卡艾尔的少女们",
+    "en-us": "A Kiss For The Petals - Maidens of Michael",
+    "ja-jp": "その花びらにくちづけを　ミカエルの乙女たち",
+    "ja-Latn": "sono-hanabira-ni-kuchizuke-o-michael-no-otome-tachi"
+  },
+  "level": 2,
+  "updatedAt": "2026-05-06",
+  "tips": [
+    "◆为追加选项，初次游戏时不会出现，无视即可"
+  ],
+  "routes": [
+    {
+      "id": "route_risa_miya",
+      "name": "璃紗＆美夜",
+      "endings": [
+        {
+          "id": "ending_risa_miya",
+          "name": "璃紗＆美夜 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "s_rm_01",
+              "type": "choice",
+              "content": "就这样，在待一会......"
+            },
+            {
+              "id": "s_rm_02",
+              "type": "choice",
+              "content": "放弃了，接受吧"
+            },
+            {
+              "id": "s_rm_03",
+              "type": "choice",
+              "content": "不过是个kiss.....没关系"
+            },
+            {
+              "id": "s_rm_04",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "s_rm_05",
+              "type": "choice",
+              "content": "注视着美夜"
+            },
+            {
+              "id": "s_rm_06",
+              "type": "choice",
+              "content": "别人还是先照顾好自己！！",
+              "prefix": "◆"
+            },
+            {
+              "id": "s_rm_07",
+              "type": "choice",
+              "content": "我主动联络"
+            },
+            {
+              "id": "s_rm_08",
+              "type": "choice",
+              "content": "我也希望，把自己的心意向美夜倾诉"
+            },
+            {
+              "id": "s_rm_09",
+              "type": "choice",
+              "content": "没，没错...........就是在诱惑你"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_nanami_yuna",
+      "name": "七海＆優菜",
+      "endings": [
+        {
+          "id": "ending_nanami_yuna",
+          "name": "七海＆優 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "s_ny_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "s_ny_02",
+              "type": "choice",
+              "content": "冲出保健室"
+            },
+            {
+              "id": "s_ny_03",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "s_ny_04",
+              "type": "choice",
+              "content": "听七海和优菜的谈话"
+            },
+            {
+              "id": "s_ny_05",
+              "type": "choice",
+              "content": "我想变得坦率"
+            },
+            {
+              "id": "s_ny_06",
+              "type": "choice",
+              "content": "我在看姐姐大人"
+            },
+            {
+              "id": "s_ny_07",
+              "type": "choice",
+              "content": "请不要勉强自己"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_kaede_sara",
+      "name": "楓＆紗良",
+      "endings": [
+        {
+          "id": "ending_kaede_sara",
+          "name": "楓＆紗良 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "s_ks_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "s_ks_02",
+              "type": "choice",
+              "content": "听纱良和枫的谈话"
+            },
+            {
+              "id": "s_ks_03",
+              "type": "choice",
+              "content": "不过真正的纱良才是........."
+            },
+            {
+              "id": "s_ks_04",
+              "type": "choice",
+              "content": "没错，就是这样"
+            },
+            {
+              "id": "s_ks_05",
+              "type": "choice",
+              "content": "真是的......拿你没办法呢"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_mai_rei",
+      "name": "麻衣＆玲緒",
+      "endings": [
+        {
+          "id": "ending_mai_rei",
+          "name": "麻衣＆玲緒 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "s_mr_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "s_mr_02",
+              "type": "choice",
+              "content": "听玲绪和麻衣的谈话"
+            },
+            {
+              "id": "s_mr_03",
+              "type": "choice",
+              "content": "再给她一块"
+            },
+            {
+              "id": "s_mr_04",
+              "type": "choice",
+              "content": "难不成......是嫉妒！？"
+            },
+            {
+              "id": "s_mr_05",
+              "type": "choice",
+              "content": "真的，谢谢你......麻衣"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_shizuku_eris",
+      "name": "雫＆エリス",
+      "endings": [
+        {
+          "id": "ending_shizuku_eris",
+          "name": "雫＆エリス END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "s_se_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "s_se_02",
+              "type": "choice",
+              "content": "听雫和艾莉丝的谈话"
+            },
+            {
+              "id": "s_se_03",
+              "type": "choice",
+              "content": "我今晚想和艾莉丝在一起"
+            },
+            {
+              "id": "s_se_04",
+              "type": "choice",
+              "content": "邀请艾莉丝到人烟稀少的地方"
+            },
+            {
+              "id": "s_se_05",
+              "type": "choice",
+              "content": "太害羞了，所以大声叫出来了"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_kiko_runa",
+      "name": "貴子＆瑠奈",
+      "endings": [
+        {
+          "id": "ending_kiko_runa",
+          "name": "貴子＆瑠奈 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "s_kr_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "s_kr_02",
+              "type": "choice",
+              "content": "听瑠奈和贵子的谈话"
+            },
+            {
+              "id": "s_kr_03",
+              "type": "choice",
+              "content": "只是一点点的话........"
+            },
+            {
+              "id": "s_kr_04",
+              "type": "choice",
+              "content": "若无其事的与丽奈保持距离"
+            },
+            {
+              "id": "s_kr_05",
+              "type": "choice",
+              "content": "因为我爱瑠奈"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,410 @@
+{
+  "vid": "v38037",
+  "name": {
+    "zh-cn": "废村少女 ～妖异魅惑的笼之乡～",
+    "ja-jp": "廃村少女 ～妖し惑ひの籠の郷～",
+    "ja-Latn": "haison-shoujo"
+  },
+  "level": 2,
+  "updatedAt": "2026-02-27",
+  "routes": [
+    {
+      "id": "route_1755172826035",
+      "name": "古户 由良良",
+      "endings": [
+        {
+          "id": "ending_1755172827488",
+          "name": "由良良 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755172857283",
+              "type": "choice",
+              "content": "我也很在意那栋府邸"
+            },
+            {
+              "id": "step_1755172869058",
+              "type": "choice",
+              "content": "自由回收事件：回去查看民宅"
+            },
+            {
+              "id": "step_1755172869182",
+              "type": "choice",
+              "content": "自由回收事件：前去调查学校"
+            },
+            {
+              "id": "step_1755269650067",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1755269670631",
+              "type": "choice",
+              "content": "继续收集食材"
+            },
+            {
+              "id": "step_1755269670787",
+              "type": "choice",
+              "content": "教由良良钓鱼"
+            },
+            {
+              "id": "step_1755269670945",
+              "type": "choice",
+              "content": "爱香学姐也别勉强自己"
+            },
+            {
+              "id": "step_1755269671106",
+              "type": "choice",
+              "content": "进一步调查村庄"
+            },
+            {
+              "id": "step_1755269671354",
+              "type": "choice",
+              "content": "最重要的是首先要团结一心"
+            },
+            {
+              "id": "step_1755269713795",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1755269722660",
+              "type": "choice",
+              "content": "去见澪学姐"
+            },
+            {
+              "id": "step_1755269722799",
+              "type": "choice",
+              "content": "担心乌野和由良良"
+            },
+            {
+              "id": "step_1755269722986",
+              "type": "choice",
+              "content": "帮由良良找"
+            },
+            {
+              "id": "step_1755269723146",
+              "type": "choice",
+              "content": "送喜欢的人"
+            },
+            {
+              "id": "step_1755269723384",
+              "type": "choice",
+              "content": "与其牺牲某人，不如让自己承担这一切"
+            },
+            {
+              "id": "step_1755269852458",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_1755269854679",
+              "type": "choice",
+              "content": "是由良良（首次可能会不显示该选项）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755269871210",
+      "name": "刑部 澪",
+      "endings": [
+        {
+          "id": "ending_1755269878251",
+          "name": "澪 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755269879921",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1755269888306",
+              "type": "choice",
+              "content": "是澪学姐"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755269951674",
+      "name": "艾玛·A·药师院",
+      "endings": [
+        {
+          "id": "ending_1755269954161",
+          "name": "药师院 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755269957612",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1755269971841",
+              "type": "choice",
+              "content": "是药师院"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755269994344",
+      "name": "楪 爱香",
+      "endings": [
+        {
+          "id": "ending_1755269996166",
+          "name": "爱香 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755269998852",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1755270038037",
+              "type": "choice",
+              "content": "去见爱香学姐"
+            },
+            {
+              "id": "step_1755270038189",
+              "type": "choice",
+              "content": "与笼女一起行动"
+            },
+            {
+              "id": "step_1755270038342",
+              "type": "choice",
+              "content": "给药师院帮忙"
+            },
+            {
+              "id": "step_1755270038471",
+              "type": "choice",
+              "content": "送喜欢的人"
+            },
+            {
+              "id": "step_1755270038619",
+              "type": "choice",
+              "content": "与其牺牲某人，不如让自己承担这一切"
+            },
+            {
+              "id": "step_1755270039071",
+              "type": "choice",
+              "content": "是爱香学姐"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755270090897",
+      "name": "加贺美 朱理",
+      "endings": [
+        {
+          "id": "ending_1755270094573",
+          "name": "朱理 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755270096749",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1755270102650",
+              "type": "choice",
+              "content": "追上笼女"
+            },
+            {
+              "id": "step_1755270102882",
+              "type": "choice",
+              "content": "教燕钓鱼"
+            },
+            {
+              "id": "step_1755270103144",
+              "type": "choice",
+              "content": "当然了"
+            },
+            {
+              "id": "step_1755270103476",
+              "type": "choice",
+              "content": "寻找笼女"
+            },
+            {
+              "id": "step_1755270104181",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_1755270105239",
+              "type": "choice",
+              "content": "在意朱理"
+            },
+            {
+              "id": "step_1755270105853",
+              "type": "save",
+              "content": "SAVE 5"
+            },
+            {
+              "id": "step_1755270107539",
+              "type": "choice",
+              "content": "与加贺美一起行动"
+            },
+            {
+              "id": "step_1755270107846",
+              "type": "choice",
+              "content": "送喜欢的人"
+            },
+            {
+              "id": "step_1755270108340",
+              "type": "choice",
+              "content": "想看看加贺美有没有什么办法"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755270171321",
+      "name": "乌野 燕",
+      "endings": [
+        {
+          "id": "ending_1755270173630",
+          "name": "燕 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755270179871",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_1755270182283",
+              "type": "choice",
+              "content": "在意梓"
+            },
+            {
+              "id": "step_1755270182556",
+              "type": "choice",
+              "content": "担心乌野和由良良"
+            },
+            {
+              "id": "step_1755270183349",
+              "type": "choice",
+              "content": "帮乌野找"
+            },
+            {
+              "id": "step_1755270183885",
+              "type": "choice",
+              "content": "与梓一起行动"
+            },
+            {
+              "id": "step_1755270184302",
+              "type": "choice",
+              "content": "送给喜欢的人"
+            },
+            {
+              "id": "step_1755270185518",
+              "type": "save",
+              "content": "SAVE 6"
+            },
+            {
+              "id": "step_1755270187504",
+              "type": "choice",
+              "content": "与其牺牲某人，不如让自己承担这一切"
+            },
+            {
+              "id": "step_1755270187797",
+              "type": "choice",
+              "content": "是乌野"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755270308064",
+      "name": "八云 梓",
+      "endings": [
+        {
+          "id": "ending_1755270318624",
+          "name": "梓 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755270323013",
+              "type": "load",
+              "content": "LOAD 6"
+            },
+            {
+              "id": "step_1755270329192",
+              "type": "choice",
+              "content": "想再看一眼梓……"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755270355212",
+      "name": "笼女",
+      "endings": [
+        {
+          "id": "ending_1755270361900",
+          "name": "笼女 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755270364458",
+              "type": "load",
+              "content": "LOAD 5"
+            },
+            {
+              "id": "step_1755270370323",
+              "type": "choice",
+              "content": "与笼女一起行动"
+            },
+            {
+              "id": "step_1755270370484",
+              "type": "choice",
+              "content": "寻找笼女"
+            },
+            {
+              "id": "step_1755270370642",
+              "type": "choice",
+              "content": "帮助腰痛的人"
+            },
+            {
+              "id": "step_1755270370930",
+              "type": "choice",
+              "content": "先在还不能放弃"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755270413715",
+      "name": "后宫线",
+      "endings": [
+        {
+          "id": "ending_1755270414975",
+          "name": "后宫 END",
+          "type": "normal",
+          "requirements": "※在某人的END之后，从标题画面开始【IF STORY -媚艳异闻-】",
+          "steps": [
+            {
+              "id": "step_1755270442926",
+              "type": "note",
+              "content": "※追加内容"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

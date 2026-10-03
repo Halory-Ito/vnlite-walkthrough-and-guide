@@ -1,0 +1,426 @@
+{
+  "vid": "v21",
+  "name": {
+    "zh-cn": "天使不在的12月",
+    "en-us": "December when there is no angel",
+    "ja-jp": "天使のいない12月",
+    "ja-Latn": "tenshi-no-inai-12-gatsu"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-14",
+  "routes": [
+    {
+      "id": "route_maho",
+      "name": "叶月 真帆",
+      "endings": [
+        {
+          "id": "ending_maho_end1",
+          "name": "真帆 END1",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_maho_01",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_maho_02",
+              "type": "choice",
+              "content": "尽管如此只有这快感是真实的"
+            },
+            {
+              "id": "step_maho_03",
+              "type": "choice",
+              "content": "接受"
+            },
+            {
+              "id": "step_maho_04",
+              "type": "choice",
+              "content": "不告诉她游乐园的事"
+            },
+            {
+              "id": "step_maho_05",
+              "type": "choice",
+              "content": "不做"
+            },
+            {
+              "id": "step_maho_06",
+              "type": "choice",
+              "content": "我并不喜欢她"
+            },
+            {
+              "id": "step_maho_07",
+              "type": "choice",
+              "content": "去"
+            },
+            {
+              "id": "step_maho_08",
+              "type": "choice",
+              "content": "抱住真帆"
+            },
+            {
+              "id": "step_maho_09",
+              "type": "choice",
+              "content": "去"
+            }
+          ]
+        },
+        {
+          "id": "ending_maho_end2",
+          "name": "真帆 END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_maho_10",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_maho_11",
+              "type": "choice",
+              "content": "尽管如此只有这快感是真实的"
+            },
+            {
+              "id": "step_maho_12",
+              "type": "choice",
+              "content": "接受"
+            },
+            {
+              "id": "step_maho_13",
+              "type": "choice",
+              "content": "不告诉她游乐园的事"
+            },
+            {
+              "id": "step_maho_14",
+              "type": "choice",
+              "content": "做"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_yukio",
+      "name": "须磨寺 雪绪",
+      "endings": [
+        {
+          "id": "ending_yukio_end",
+          "name": "雪绪 END",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_yukio_01",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_yukio_02",
+              "type": "choice",
+              "content": "反正也只是现在而已"
+            },
+            {
+              "id": "step_yukio_03",
+              "type": "choice",
+              "content": "来一只"
+            },
+            {
+              "id": "step_yukio_04",
+              "type": "choice",
+              "content": "想办法为狗做点什么"
+            },
+            {
+              "id": "step_yukio_05",
+              "type": "choice",
+              "content": "委托给身体的反应"
+            },
+            {
+              "id": "step_yukio_06",
+              "type": "choice",
+              "content": "试着偷窥"
+            },
+            {
+              "id": "step_yukio_07",
+              "type": "choice",
+              "content": "叫住雪绪"
+            },
+            {
+              "id": "step_yukio_08",
+              "type": "choice",
+              "content": "不，有一件能做到的事"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_asuna",
+      "name": "麻生 明日菜",
+      "endings": [
+        {
+          "id": "ending_asuna_end",
+          "name": "明日菜 END",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_asuna_01",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_asuna_02",
+              "type": "choice",
+              "content": "反骂她"
+            },
+            {
+              "id": "step_asuna_03",
+              "type": "choice",
+              "content": "大骂她一番"
+            },
+            {
+              "id": "step_asuna_04",
+              "type": "choice",
+              "content": "......"
+            },
+            {
+              "id": "step_asuna_05",
+              "type": "choice",
+              "content": "做到"
+            },
+            {
+              "id": "step_asuna_06",
+              "type": "choice",
+              "content": "我真的可以吗?"
+            },
+            {
+              "id": "step_asuna_07",
+              "type": "choice",
+              "content": "调查相册"
+            },
+            {
+              "id": "step_asuna_08",
+              "type": "choice",
+              "content": "不过跟栗原她是有点不同"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_shinobu",
+      "name": "榊 忍",
+      "endings": [
+        {
+          "id": "ending_shinobu_end1",
+          "name": "忍 END1",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_shinobu_01",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_shinobu_02",
+              "type": "choice",
+              "content": "出去确认一下"
+            },
+            {
+              "id": "step_shinobu_03",
+              "type": "choice",
+              "content": "放不下榊"
+            },
+            {
+              "id": "step_shinobu_04",
+              "type": "choice",
+              "content": "抱住忍"
+            },
+            {
+              "id": "step_shinobu_05",
+              "type": "choice",
+              "content": "不知道该怎么办好"
+            },
+            {
+              "id": "step_shinobu_06",
+              "type": "choice",
+              "content": "去见她"
+            }
+          ]
+        },
+        {
+          "id": "ending_shinobu_end2",
+          "name": "忍 END2",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_shinobu_07",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_shinobu_08",
+              "type": "choice",
+              "content": "出去确认一下"
+            },
+            {
+              "id": "step_shinobu_09",
+              "type": "choice",
+              "content": "放不下榊"
+            },
+            {
+              "id": "step_shinobu_10",
+              "type": "choice",
+              "content": "抱住忍"
+            },
+            {
+              "id": "step_shinobu_11",
+              "type": "choice",
+              "content": "跟她说吧"
+            }
+          ]
+        },
+        {
+          "id": "ending_shinobu_end3",
+          "name": "忍 END3",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_shinobu_12",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_shinobu_13",
+              "type": "choice",
+              "content": "出去确认一下"
+            },
+            {
+              "id": "step_shinobu_14",
+              "type": "choice",
+              "content": "放不下榊"
+            },
+            {
+              "id": "step_shinobu_15",
+              "type": "choice",
+              "content": "抱住忍"
+            },
+            {
+              "id": "step_shinobu_16",
+              "type": "choice",
+              "content": "不知道该怎么办好"
+            },
+            {
+              "id": "step_shinobu_17",
+              "type": "choice",
+              "content": "不去见她"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_touko",
+      "name": "栗原 透子",
+      "endings": [
+        {
+          "id": "ending_touko_end1",
+          "name": "透子 END1",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_touko_01",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_touko_02",
+              "type": "choice",
+              "content": "这样子就好了吗?"
+            },
+            {
+              "id": "step_touko_03",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_touko_04",
+              "type": "choice",
+              "content": "找借口"
+            },
+            {
+              "id": "step_touko_05",
+              "type": "choice",
+              "content": "什么都不作"
+            },
+            {
+              "id": "step_touko_06",
+              "type": "choice",
+              "content": "放她不管?"
+            },
+            {
+              "id": "step_touko_07",
+              "type": "choice",
+              "content": "同透子保持关系"
+            },
+            {
+              "id": "step_touko_08",
+              "type": "choice",
+              "content": "就这样暧昧的继续下去"
+            },
+            {
+              "id": "step_touko_09",
+              "type": "choice",
+              "content": "接电话"
+            },
+            {
+              "id": "step_touko_10",
+              "type": "choice",
+              "content": "可恶!真是搞不懂她!岂有此理!"
+            },
+            {
+              "id": "step_touko_11",
+              "type": "choice",
+              "content": "抱住栗原"
+            },
+            {
+              "id": "step_touko_12",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_touko_13",
+              "type": "choice",
+              "content": "让那家伙开下眼界"
+            },
+            {
+              "id": "step_touko_14",
+              "type": "choice",
+              "content": "不知道该怎么回答"
+            }
+          ]
+        },
+        {
+          "id": "ending_touko_end2",
+          "name": "透子 END2",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_touko_15",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_touko_16",
+              "type": "choice",
+              "content": "找借口"
+            },
+            {
+              "id": "step_touko_17",
+              "type": "choice",
+              "content": "索求她"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "vid": "v28304",
+  "name": {
+    "zh-cn": "玻璃青春",
+    "ja-jp": "青春フラジャイル",
+    "ja-Latn": "seishun-fragile"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-14",
+  "routes": [
+    {
+      "id": "route_game",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_yukina",
+          "name": "雪奈 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_yukina_01",
+              "type": "choice",
+              "content": "强硬地进行说教"
+            },
+            {
+              "id": "step_yukina_02",
+              "type": "choice",
+              "content": "我知道了啦。但是……"
+            },
+            {
+              "id": "step_yukina_03",
+              "type": "choice",
+              "content": "禁止你唱歌"
+            },
+            {
+              "id": "step_yukina_04",
+              "type": "choice",
+              "content": "送你回家"
+            },
+            {
+              "id": "step_yukina_05",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_yukina_06",
+              "type": "choice",
+              "content": "雪奈"
+            }
+          ]
+        },
+        {
+          "id": "ending_liz",
+          "name": "莉兹 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_liz_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_liz_02",
+              "type": "choice",
+              "content": "莉兹"
+            }
+          ]
+        },
+        {
+          "id": "ending_hio",
+          "name": "冰绪 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_hio_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_hio_02",
+              "type": "choice",
+              "content": "冰绪"
+            }
+          ]
+        },
+        {
+          "id": "ending_toone",
+          "name": "透音 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_toone_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_toone_02",
+              "type": "choice",
+              "content": "透音"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

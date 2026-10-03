@@ -268,7 +268,27 @@ npm run check && git add walkthroughs index.json
 | `routes[].endings[]` | `routes[].endings[]` | `id`/`name`/`type`/`requirements` 原样保留；非法 `type` 回落 `normal` |
 | `endings[].steps[]` | `endings[].steps[]` | `id`/`type`/`content`/`prefix`/`subfix`/`group` 原样保留；空内容步骤丢弃；非法 `type` 回落 `choice` |
 | `updated_at` | `updatedAt` | 取日期部分；缺失时依次回退 `updatedAt` → `created_at` → sitemap `lastmod` |
-| `uid` `cover` `developer` `releaseDate` `tags` `show` `nsfw_content` `views` `seoName` `created_at` … | — | 全部丢弃（`show=false` 的页面直接跳过） |
+| `uid` `cover` `developer` `releaseDate` `tags` `show` `nsfw_content` `views` `seoName` `created_at` `routes[].description` … | — | 全部丢弃（`show=false` 的页面直接跳过） |
+
+**关于 id 重复**：源站的 `id` 只是行内序号，并不唯一——常见情况是每个结局都从 `step_01` 重新编号，同一结局内也可能出现两个 `step_end12_001`。本库要求同级 id 唯一，因此抓取时会给重复 id 追加**确定性后缀**（`step_01` → `step_01_1`），既保留可追溯性，也保证多次抓取结果完全一致；被改写的数量会记入运行报告的 `字段提示`。
+
+## 当前数据规模
+
+首次整库导入（2026-10-03，来源 yjgalgame）的结果：
+
+| 指标 | 数值 |
+| --- | --- |
+| 攻略文件 | 484 个（`walkthroughs/` 共 5.3 MB） |
+| 结局 | 3022 个 |
+| 步骤 | 29352 条 |
+| `index.json` | 195 KB |
+| 溯源记录 | 483 条（`data/sources/yjgalgame.json`） |
+
+站点 sitemap 共 498 个页面，其中 15 个未入库，原因分三类（均已在运行报告中记录）：
+
+- 源站本身没有攻略数据（`routes` 为空）：10 个
+- 源站缺 `vndb_id`，无法定位 VNDB 编号：2 个（可用 `--vid vN` 手工指定）
+- 多个页面映射到同一个 vid（如 `shuffle` / `shuffle-essence` / `spiral-navel` 都是 `v28`）：3 个
 
 ### 常用命令
 
@@ -304,7 +324,9 @@ npm run crawl -- --concurrency 1 --delay 2000
 ### 抓取礼仪与缓存
 
 - 遵守 `robots.txt`：该站 `Allow: /`，仅 `/search` 禁止抓取。
-- 默认并发 2、请求间隔 400ms，失败指数退避，`429/503` 遵循 `Retry-After`；长跑建议 `--concurrency 1 --delay 2000`。
+- 默认并发 2、请求间隔 400ms，失败指数退避，`429/503` 遵循 `Retry-After`；**遇到 503/429 或超时会触发全局冷却**，整条流水线一起退避而不是各自硬重试。
+- 长跑建议 `--concurrency 1 --delay 1500`；源站在持续高频请求下会返回 503 或挂起连接（实测每分钟超过约 150 次请求后开始出现）。
+- 超过 45 秒没有任何进展时会打印提示，此时应降速重跑（已抓到的页面有缓存，不会重复请求）。
 - 原始响应缓存在 `.cache/yjgalgame/`（不入库），默认 24h 内不重复请求源站；调参、试跑优先用缓存，加 `--no-cache` 才强制刷新。
 - 每次运行的完整报告写在 `.cache/yjgalgame/last-run.json`（含每个页面的状态、失败原因与字段警告）。
 
@@ -321,3 +343,5 @@ npm run crawl -- --concurrency 1 --delay 2000
 **JSON 字段写错了会被拦下吗？** 会。`npm run validate`、pre-commit 钩子与 GitHub Actions 三处都会检查字段规范；编辑器保存时也会即时提示。
 
 **可以只索引不改正文吗？** 可以，`index.json` 只存元数据与路径，正文按需拉取；`--no-index` 可让爬虫不自动刷新索引。
+
+**Windows 终端里中文输出乱码？** 脚本输出是 UTF-8，若终端代码页不是 UTF-8 会显示乱码，不影响写出的 JSON 内容。先执行 `chcp 65001` 或在 Windows Terminal / PowerShell 7 里运行即可。

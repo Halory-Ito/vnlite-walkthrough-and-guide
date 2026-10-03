@@ -1,0 +1,392 @@
+{
+  "vid": "v1545",
+  "name": {
+    "zh-cn": "花与乙女的祝福",
+    "ja-jp": "花と乙女に祝福を",
+    "ja-Latn": "hana-to-otome-ni-shukufuku-o"
+  },
+  "level": 2,
+  "updatedAt": "2026-03-03",
+  "routes": [
+    {
+      "id": "route_1762524341752",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1762525173539",
+          "name": "宝生 圣佳",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762525179967",
+              "type": "choice",
+              "content": "请她带路",
+              "group": "5月6日"
+            },
+            {
+              "id": "step_1762525180139",
+              "type": "choice",
+              "content": "鹿岛志鹤同学",
+              "group": "5月6日"
+            },
+            {
+              "id": "step_1762525180289",
+              "type": "choice",
+              "content": "鼓起勇气揉下去吧",
+              "group": "5月6日"
+            },
+            {
+              "id": "step_1762525180428",
+              "type": "choice",
+              "content": "忘记昨天的事，打起精神打招呼吧",
+              "group": "5月7日"
+            },
+            {
+              "id": "step_1762525187464",
+              "type": "choice",
+              "content": "圣佳大人说的有道理",
+              "group": "5月7日"
+            },
+            {
+              "id": "step_1762525187640",
+              "type": "choice",
+              "content": "你在意便当吗？",
+              "group": "5月9日"
+            },
+            {
+              "id": "step_1762525187820",
+              "type": "choice",
+              "content": "来打扫吧？",
+              "group": "5月11日"
+            },
+            {
+              "id": "step_1762525188042",
+              "type": "choice",
+              "content": "再观察一下状况",
+              "group": "5月12日"
+            },
+            {
+              "id": "step_1762525280583",
+              "type": "choice",
+              "content": "法式卷小姐？",
+              "group": "5月12日"
+            },
+            {
+              "id": "step_1762525280752",
+              "type": "choice",
+              "content": "帮学生会",
+              "group": "5月12日"
+            },
+            {
+              "id": "step_1762525280919",
+              "type": "choice",
+              "content": "帮园艺社",
+              "group": "5月13日"
+            },
+            {
+              "id": "step_1762525281085",
+              "type": "choice",
+              "content": "帮园艺社",
+              "group": "5月14日"
+            },
+            {
+              "id": "step_1762525281236",
+              "type": "save",
+              "content": "SAVE 1",
+              "group": "5月15日"
+            },
+            {
+              "id": "step_1762525281414",
+              "type": "choice",
+              "content": "帮学生会",
+              "group": "5月15日"
+            },
+            {
+              "id": "step_1762525281572",
+              "type": "choice",
+              "content": "坦白说和志鹤同学一样",
+              "group": "5月20日"
+            },
+            {
+              "id": "step_1762525281743",
+              "type": "choice",
+              "content": "努力称赞志鹤同学的画",
+              "group": "5月21日"
+            },
+            {
+              "id": "step_1762525492159",
+              "type": "choice",
+              "content": "拜托薰大人",
+              "group": "5月23日"
+            },
+            {
+              "id": "step_1762525492341",
+              "type": "choice",
+              "content": "志鹤同学的熊宝宝胡萝卜",
+              "group": "5月26日"
+            },
+            {
+              "id": "step_1762525492489",
+              "type": "choice",
+              "content": "还是保住薰大人的颜面吧",
+              "group": "5月26日"
+            },
+            {
+              "id": "step_1762525492654",
+              "type": "choice",
+              "content": "志鹤同学的鸡卵巢",
+              "group": "5月27日"
+            },
+            {
+              "id": "step_1762525492866",
+              "type": "choice",
+              "content": "志鹤同学莫非对我……？",
+              "group": "5月28日"
+            },
+            {
+              "id": "step_1762525864952",
+              "type": "save",
+              "content": "SAVE 2",
+              "group": "5月30日"
+            },
+            {
+              "id": "step_1762525878106",
+              "type": "choice",
+              "content": "笑著和混过去",
+              "group": "5月30日"
+            },
+            {
+              "id": "step_1762525881948",
+              "type": "save",
+              "content": "SAVE 3",
+              "group": "5月30日"
+            },
+            {
+              "id": "step_1762525886523",
+              "type": "choice",
+              "content": "故意选薰大人",
+              "subfix": "END",
+              "group": "5月30日"
+            },
+            {
+              "id": "step_1762526031830",
+              "type": "load",
+              "content": "LOAD 3",
+              "group": "5月30日"
+            },
+            {
+              "id": "step_1762526037989",
+              "type": "choice",
+              "content": "果然还是圣佳大人",
+              "group": "5月30日"
+            },
+            {
+              "id": "step_1762526038637",
+              "type": "save",
+              "content": "SAVE 4",
+              "group": "5月31日"
+            },
+            {
+              "id": "step_1762526038921",
+              "type": "choice",
+              "content": "有事情受圣佳大人之托",
+              "group": "5月31日"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762526134259",
+          "name": "佐上 薰",
+          "type": "normal",
+          "requirements": "圣佳ＥＮＤ后",
+          "steps": [
+            {
+              "id": "step_1762526205032",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_1762526215096",
+              "type": "choice",
+              "content": "再多问一些",
+              "group": "5月31日"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762526134450",
+          "name": "鹿岛 志鹤",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762526294686",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1762526298886",
+              "type": "choice",
+              "content": "我不能敷衍她",
+              "group": "5月30日"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762526134593",
+          "name": "名木城 都",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762526327378",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1762526329443",
+              "type": "choice",
+              "content": "帮园艺社",
+              "group": "5月15日"
+            },
+            {
+              "id": "step_1762526329644",
+              "type": "choice",
+              "content": "康乃馨如何？",
+              "group": "5月20日"
+            },
+            {
+              "id": "step_1762526329768",
+              "type": "choice",
+              "content": "跟真弥子一组",
+              "group": "5月21日"
+            },
+            {
+              "id": "step_1762526330059",
+              "type": "choice",
+              "content": "对恋爱也有一点兴趣",
+              "group": "5月26日"
+            },
+            {
+              "id": "step_1762526330266",
+              "type": "choice",
+              "content": "说都同学是最爱",
+              "group": "5月27日"
+            },
+            {
+              "id": "step_1762526330555",
+              "type": "choice",
+              "content": "跟祈她们一起吃",
+              "group": "5月28日"
+            },
+            {
+              "id": "step_1762526330736",
+              "type": "save",
+              "content": "SAVE 5",
+              "group": "5月29日"
+            },
+            {
+              "id": "step_1762526330883",
+              "type": "choice",
+              "content": "会让人想保护她的女孩子",
+              "group": "5月29日"
+            },
+            {
+              "id": "step_1762526451740",
+              "type": "choice",
+              "content": "去追都",
+              "subfix": "END",
+              "group": "5月30日"
+            },
+            {
+              "id": "step_1762526451906",
+              "type": "load",
+              "content": "LOAD 5"
+            },
+            {
+              "id": "step_1762526452092",
+              "type": "choice",
+              "content": "跟妹妹一样的人",
+              "group": "5月29日"
+            },
+            {
+              "id": "step_1762526452265",
+              "type": "save",
+              "content": "SAVE 6",
+              "group": "5月30日"
+            },
+            {
+              "id": "step_1762526452413",
+              "type": "choice",
+              "content": "去追都"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762526134743",
+          "name": "蓝那 祈",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762526581751",
+              "type": "load",
+              "content": "LOAD 6"
+            },
+            {
+              "id": "step_1762526587793",
+              "type": "choice",
+              "content": "听祈的话",
+              "group": "5月30日"
+            },
+            {
+              "id": "step_1762526587956",
+              "type": "choice",
+              "content": "我是女孩子",
+              "group": "5月31日"
+            },
+            {
+              "id": "step_1762526588147",
+              "type": "choice",
+              "content": "如果是祈的话，抱抱也没关系",
+              "group": "6月1日"
+            },
+            {
+              "id": "step_1762526588407",
+              "type": "choice",
+              "content": "专心听跟真弥子的对话",
+              "group": "6月2日"
+            },
+            {
+              "id": "step_1762526589120",
+              "type": "save",
+              "content": "SAVE 7",
+              "group": "6月3日"
+            },
+            {
+              "id": "step_1762526589849",
+              "type": "choice",
+              "content": "想珍惜祈",
+              "group": "6月3日"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762526675384",
+          "name": "山本 真弥子",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762526689299",
+              "type": "load",
+              "content": "LOAD 7"
+            },
+            {
+              "id": "step_1762526695353",
+              "type": "choice",
+              "content": "要珍惜真弥子",
+              "group": "6月3日"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "vid": "v18148",
+  "name": {
+    "zh-cn": "野良与皇女与流浪猫之心",
+    "en-us": "The Princess, the Stray Cat, and Matters of the Heart",
+    "ja-jp": "ノラと皇女と野良猫ハート",
+    "ja-Latn": "nora-to-oujo-to-noraneko-heart"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-13",
+  "routes": [
+    {
+      "id": "route_1767430340758",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1767430433065",
+          "name": "帕特莉希亚·欧布恩特",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1767430456899",
+              "type": "choice",
+              "content": "猫的想法「3P」"
+            },
+            {
+              "id": "step_1767430457063",
+              "type": "choice",
+              "content": "猫的想法「10P」"
+            },
+            {
+              "id": "step_1767430476498",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1767430494026",
+              "type": "choice",
+              "content": "不知从何时开始，已经习惯我家的三姐妹"
+            },
+            {
+              "id": "step_1767430502025",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1767430509577",
+              "type": "choice",
+              "content": "相信帕特莉希亚"
+            },
+            {
+              "id": "step_1767430515773",
+              "type": "choice",
+              "content": "猫的想法「帕特莉希亚护卫部」"
+            },
+            {
+              "id": "step_1767430515976",
+              "type": "choice",
+              "content": "猫的想法「帕特莉希亚护卫部2」"
+            },
+            {
+              "id": "step_1767430516615",
+              "type": "choice",
+              "content": "猫的想法「帕特莉希亚护卫部3（想回礼部）」"
+            },
+            {
+              "id": "step_1767430517044",
+              "type": "choice",
+              "content": "猫的想法「ZAKUYA」"
+            },
+            {
+              "id": "step_1767430517437",
+              "type": "choice",
+              "content": "猫的想法「泳池」"
+            },
+            {
+              "id": "step_1767430581707",
+              "type": "choice",
+              "content": "但是，借给你力量到底是指什么呢"
+            },
+            {
+              "id": "step_1767430582500",
+              "type": "choice",
+              "content": "猫的想法「高处恐怖症」"
+            },
+            {
+              "id": "step_1767430583272",
+              "type": "choice",
+              "content": "猫的想法「100% H」"
+            },
+            {
+              "id": "step_1767430633380",
+              "type": "choice",
+              "content": "再玩一会　×6回可选【小故事】"
+            }
+          ]
+        },
+        {
+          "id": "ending_1767430648660",
+          "name": "夕莉纱织（夏琪）",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1767430665528",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1767430669723",
+              "type": "choice",
+              "content": "与纱织（夏琪）重合嘴唇"
+            },
+            {
+              "id": "step_1767430670500",
+              "type": "choice",
+              "content": "猫的想法「图坦卡蒙」"
+            },
+            {
+              "id": "step_1767430674267",
+              "type": "choice",
+              "content": "猫的想法「旧木造建筑」"
+            },
+            {
+              "id": "step_1767430674700",
+              "type": "choice",
+              "content": "猫的想法「走路电话」"
+            }
+          ]
+        },
+        {
+          "id": "ending_1767430706567",
+          "name": "明日原佑希",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1767430721337",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1767430735824",
+              "type": "choice",
+              "content": "感觉已经习惯了穿制服呢"
+            },
+            {
+              "id": "step_1767430740633",
+              "type": "choice",
+              "content": "猫的想法「如此说道？」/猫的想法「100% H」"
+            }
+          ]
+        },
+        {
+          "id": "ending_1767430749056",
+          "name": "黑木未知",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1767430806185",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1767430808056",
+              "type": "choice",
+              "content": "比起那种事情，考试临近了"
+            },
+            {
+              "id": "step_1767430808230",
+              "type": "choice",
+              "content": "猫的想法「后宫愿望」"
+            },
+            {
+              "id": "step_1767430808461",
+              "type": "choice",
+              "content": "猫的想法「背负着代纹的放送局」"
+            },
+            {
+              "id": "step_1767430808858",
+              "type": "choice",
+              "content": "猫的想法「接龙游戏」"
+            },
+            {
+              "id": "step_1767430809113",
+              "type": "choice",
+              "content": "猫的想法「主持人·信千奈」"
+            },
+            {
+              "id": "step_1767430844059",
+              "type": "choice",
+              "content": "猫的想法「游戏」 / 猫的想法「风俗」 / 猫的想法「厕所」【自行回收H场景CG】"
+            },
+            {
+              "id": "step_1767430848389",
+              "type": "choice",
+              "content": "与黑木约会"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

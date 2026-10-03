@@ -1,0 +1,168 @@
+{
+  "vid": "v9096",
+  "name": {
+    "zh-cn": "幸福家族部",
+    "ja-jp": "しあわせ家族部",
+    "ja-Latn": "shiawase-kazoku-bu"
+  },
+  "level": 2,
+  "updatedAt": "2026-03-24",
+  "routes": [
+    {
+      "id": "route_game",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_honoka_end",
+          "name": "帆乃波 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_honoka_01",
+              "type": "choice",
+              "content": "考虑帆乃波和みそら筹集社团经费的事"
+            },
+            {
+              "id": "step_honoka_02",
+              "type": "choice",
+              "content": "帆乃波"
+            },
+            {
+              "id": "step_honoka_03",
+              "type": "choice",
+              "content": "美景"
+            },
+            {
+              "id": "step_honoka_04",
+              "type": "choice",
+              "content": "之后再去"
+            },
+            {
+              "id": "step_honoka_05",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_honoka_06",
+              "type": "choice",
+              "content": "去看看瑠菜她们可能在的方向"
+            },
+            {
+              "id": "step_honoka_07",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_honoka_08",
+              "type": "choice",
+              "content": "和帆乃波一起找两人"
+            }
+          ]
+        },
+        {
+          "id": "ending_runa_end",
+          "name": "瑠菜 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_runa_01",
+              "type": "choice",
+              "content": "担心看起来会被扇学姐怂恿的瑠菜"
+            },
+            {
+              "id": "step_runa_02",
+              "type": "choice",
+              "content": "瑠菜"
+            },
+            {
+              "id": "step_runa_03",
+              "type": "choice",
+              "content": "みそら"
+            },
+            {
+              "id": "step_runa_04",
+              "type": "choice",
+              "content": "先过去"
+            },
+            {
+              "id": "step_runa_05",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_runa_06",
+              "type": "choice",
+              "content": "为了不走散而牵手"
+            }
+          ]
+        },
+        {
+          "id": "ending_ogi_end",
+          "name": "扇 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_ogi_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_ogi_02",
+              "type": "choice",
+              "content": "随便闲逛"
+            },
+            {
+              "id": "step_ogi_03",
+              "type": "choice",
+              "content": "不袭击"
+            }
+          ]
+        },
+        {
+          "id": "ending_mikage_end",
+          "name": "美景 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_mikage_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_mikage_02",
+              "type": "choice",
+              "content": "和美景一起阻止毛球"
+            },
+            {
+              "id": "step_mikage_03",
+              "type": "choice",
+              "content": "不隐瞒"
+            }
+          ]
+        },
+        {
+          "id": "ending_misora_end",
+          "name": "みそら END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_misora_01",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_misora_02",
+              "type": "choice",
+              "content": "先决定好走散时的集合地点"
+            },
+            {
+              "id": "step_misora_03",
+              "type": "choice",
+              "content": "倒不如说在一起更好"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

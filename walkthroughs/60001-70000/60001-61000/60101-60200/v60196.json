@@ -1,0 +1,173 @@
+{
+  "vid": "v60196",
+  "name": {
+    "zh-cn": "流星世界演绎者 Gaslight Bullet",
+    "en-us": "Meteor World Actor: Gaslight Bullet",
+    "ja-jp": "流星ワールドアクター Gaslight Bullet",
+    "ja-Latn": "ryuusei-world-actor-gaslight-bullet"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-14",
+  "tips": [
+    "前作女主角事件 (克拉丽丝 / 小町 / 西冯 / 原 凉子) 读取save1后选择对应女主即可观看"
+  ],
+  "routes": [
+    {
+      "id": "route_1773203113461",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1773203118514",
+          "name": "薄野珠子 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1773203127258",
+              "type": "choice",
+              "content": "冲浪"
+            },
+            {
+              "id": "step_1773203132753",
+              "type": "choice",
+              "content": "不揉欧派"
+            },
+            {
+              "id": "step_1773203132901",
+              "type": "choice",
+              "content": "揉欧派"
+            },
+            {
+              "id": "step_1773203133056",
+              "type": "choice",
+              "content": "可以"
+            },
+            {
+              "id": "step_1773203133165",
+              "type": "choice",
+              "content": "民宅１"
+            },
+            {
+              "id": "step_1773203144262",
+              "type": "choice",
+              "content": "随便打听一下"
+            },
+            {
+              "id": "step_1773203144416",
+              "type": "choice",
+              "content": "露天商贩"
+            },
+            {
+              "id": "step_1773203144557",
+              "type": "choice",
+              "content": "还是回去吧"
+            },
+            {
+              "id": "step_1773203144705",
+              "type": "choice",
+              "content": "去酒吧"
+            },
+            {
+              "id": "step_1773203144852",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1773203158546",
+              "type": "choice",
+              "content": "下一页"
+            },
+            {
+              "id": "step_1773203158837",
+              "type": "choice",
+              "content": "去见珠子"
+            },
+            {
+              "id": "step_1773203158991",
+              "type": "choice",
+              "content": "前往大厅"
+            },
+            {
+              "id": "step_1773203167272",
+              "type": "choice",
+              "content": "家庭餐厅"
+            },
+            {
+              "id": "step_1773203181083",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1773203183610",
+              "type": "choice",
+              "content": "去十三课露个脸"
+            }
+          ]
+        },
+        {
+          "id": "ending_1773203186949",
+          "name": "大门寺伊代 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1773203198311",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1773203198754",
+              "type": "choice",
+              "content": "下一页"
+            },
+            {
+              "id": "step_1773203198889",
+              "type": "choice",
+              "content": "去见大门寺"
+            },
+            {
+              "id": "step_1773203199036",
+              "type": "choice",
+              "content": "前往泳池"
+            },
+            {
+              "id": "step_1773203199157",
+              "type": "choice",
+              "content": "家庭餐厅"
+            },
+            {
+              "id": "step_1773203199304",
+              "type": "choice",
+              "content": "还是回去吧"
+            },
+            {
+              "id": "step_1773203215805",
+              "type": "choice",
+              "content": "去喝酒"
+            }
+          ]
+        },
+        {
+          "id": "ending_1773203232062",
+          "name": "琳达 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1773203242692",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1773203244512",
+              "type": "choice",
+              "content": "还是回去吧"
+            },
+            {
+              "id": "step_1773203244669",
+              "type": "choice",
+              "content": "不去喝酒"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

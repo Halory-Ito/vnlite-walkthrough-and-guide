@@ -1,0 +1,54 @@
+{
+  "vid": "v5412",
+  "name": {
+    "zh-cn": "Tiny Dungeon～BLESS of DRAGON～",
+    "ja-Latn": "tiny-dungeon-bless-of-dargon"
+  },
+  "level": 2,
+  "updatedAt": "2026-05-07",
+  "routes": [
+    {
+      "id": "route_1778154792195",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1778154807324",
+          "name": "END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1778154899378",
+              "type": "choice",
+              "content": "以前学过的当身技的书再加深一下理解"
+            },
+            {
+              "id": "step_1778154899730",
+              "type": "choice",
+              "content": "拜托贝露在自己危险的时候赶过来支援"
+            },
+            {
+              "id": "step_1778154899994",
+              "type": "choice",
+              "content": "好，把怪物诱导至森林外面去"
+            },
+            {
+              "id": "step_1778154900404",
+              "type": "choice",
+              "content": "尽快穿过结界"
+            },
+            {
+              "id": "step_1778154904298",
+              "type": "choice",
+              "content": "决不能让兀露露走"
+            },
+            {
+              "id": "step_1778154916485",
+              "type": "choice",
+              "content": "以现在枫的状态我也能闪避"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

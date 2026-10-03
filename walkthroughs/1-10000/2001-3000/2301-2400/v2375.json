@@ -1,0 +1,205 @@
+{
+  "vid": "v2375",
+  "name": {
+    "zh-cn": "超電激ストライカー",
+    "ja-jp": "電激ストライカー",
+    "ja-Latn": "dengeki-stryker"
+  },
+  "level": 2,
+  "updatedAt": "2026-05-15",
+  "routes": [
+    {
+      "id": "route_zero",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_zero",
+          "name": "零之章 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_zero_01",
+              "type": "choice",
+              "content": "说不定在哪里见过"
+            },
+            {
+              "id": "step_zero_02",
+              "type": "choice",
+              "content": "春奈"
+            },
+            {
+              "id": "step_zero_03",
+              "type": "choice",
+              "content": "不是春奈吗",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_zero_04",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_zero_05",
+              "type": "choice",
+              "content": "向上一楼走"
+            },
+            {
+              "id": "step_zero_06",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_zero_07",
+              "type": "choice",
+              "content": "去咖啡厅收集情报"
+            }
+          ]
+        },
+        {
+          "id": "ending_ten",
+          "name": "天の章 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_ten_01",
+              "type": "note",
+              "content": "通关“天の章”后，回到标题选择，START变化。选择START开始时，第五章出现选择"
+            },
+            {
+              "id": "step_ten_02",
+              "type": "note",
+              "content": "标题“天の章”开始时，第五章选择不会出现。"
+            },
+            {
+              "id": "step_ten_03",
+              "type": "choice",
+              "content": "完全不记得"
+            },
+            {
+              "id": "step_ten_04",
+              "type": "choice",
+              "content": "风见"
+            },
+            {
+              "id": "step_ten_05",
+              "type": "choice",
+              "content": "不是一文字吗",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_ten_06",
+              "type": "choice",
+              "content": "去咖啡厅收集情报"
+            }
+          ]
+        },
+        {
+          "id": "ending_sora",
+          "name": "空の章 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_sora_01",
+              "type": "note",
+              "content": "标题选择空の章进行游戏"
+            }
+          ]
+        },
+        {
+          "id": "ending_ai",
+          "name": "爱の章 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_ai_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_ai_02",
+              "type": "choice",
+              "content": "回家"
+            }
+          ]
+        },
+        {
+          "id": "ending_hagane_rin",
+          "name": "钢の章 风见琳 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_rin_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_rin_02",
+              "type": "choice",
+              "content": "一起去购物",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_rin_03",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_rin_04",
+              "type": "choice",
+              "content": "前往咖啡馆"
+            },
+            {
+              "id": "step_rin_05",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_rin_06",
+              "type": "choice",
+              "content": "去咖啡馆"
+            }
+          ]
+        },
+        {
+          "id": "ending_hagane_clye",
+          "name": "钢の章 克莉耶 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_clye_01",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_clye_02",
+              "type": "choice",
+              "content": "巡逻"
+            },
+            {
+              "id": "step_clye_03",
+              "type": "choice",
+              "content": "回家"
+            }
+          ]
+        },
+        {
+          "id": "ending_hikari",
+          "name": "光の章 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_hikari_01",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_hikari_02",
+              "type": "choice",
+              "content": "回家"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "vid": "v32021",
+  "name": {
+    "zh-cn": "久那土国记",
+    "en-us": "Kunado Chronicles",
+    "ja-jp": "クナド国記",
+    "ja-Latn": "kunado-kokuki"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-14",
+  "routes": [
+    {
+      "id": "route_game",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_yuri",
+          "name": "优里 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_yuri_02",
+              "type": "choice",
+              "content": "好"
+            },
+            {
+              "id": "step_yuri_03",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_yuri_04",
+              "type": "choice",
+              "content": "我从内心爱着优里"
+            }
+          ]
+        },
+        {
+          "id": "ending_akane_aoi",
+          "name": "茜&葵 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_akane_aoi_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_akane_aoi_02",
+              "type": "choice",
+              "content": "让我们着眼于更远的未来"
+            },
+            {
+              "id": "step_akane_aoi_03",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_akane_aoi_04",
+              "type": "choice",
+              "content": "我爱着二人"
+            }
+          ]
+        },
+        {
+          "id": "ending_haruki",
+          "name": "春姬 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_haruki_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_haruki_02",
+              "type": "choice",
+              "content": "二人携手迈向未来"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

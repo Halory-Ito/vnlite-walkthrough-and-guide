@@ -1,0 +1,1362 @@
+{
+  "vid": "v41195",
+  "name": {
+    "zh-cn": "异想魅惑2 暮色廻奇谭",
+    "ja-jp": "きまぐれテンプテーション２ ゆうやみ廻奇譚",
+    "ja-Latn": "kimagure-temptation-2-yuuyami-kaikit"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-12",
+  "routes": [
+    {
+      "id": "route_1756364875139",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1756364950491",
+          "name": "END 1",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_1756364963989",
+              "type": "choice",
+              "content": "对话3次"
+            },
+            {
+              "id": "step_1756364964152",
+              "type": "choice",
+              "content": "离开"
+            },
+            {
+              "id": "step_1756364964315",
+              "type": "choice",
+              "content": "拠点周边"
+            },
+            {
+              "id": "step_1756364964452",
+              "type": "choice",
+              "content": "对话3次"
+            },
+            {
+              "id": "step_1756364964587",
+              "type": "choice",
+              "content": "查看2次"
+            },
+            {
+              "id": "step_1756364964732",
+              "type": "choice",
+              "content": "离开"
+            },
+            {
+              "id": "step_1756364964877",
+              "type": "choice",
+              "content": "分譲地迹"
+            },
+            {
+              "id": "step_1756364965042",
+              "type": "choice",
+              "content": "对话2次"
+            },
+            {
+              "id": "step_1756364965185",
+              "type": "choice",
+              "content": "查看1次"
+            },
+            {
+              "id": "step_1756364965327",
+              "type": "choice",
+              "content": "对话2次"
+            },
+            {
+              "id": "step_1756364965490",
+              "type": "choice",
+              "content": "对话3次"
+            },
+            {
+              "id": "step_1756364965657",
+              "type": "choice",
+              "content": "查看2次"
+            },
+            {
+              "id": "step_1756364965981",
+              "type": "choice",
+              "content": "对话2次"
+            },
+            {
+              "id": "step_1756364966154",
+              "type": "choice",
+              "content": "探知1次"
+            },
+            {
+              "id": "step_1756364981531",
+              "type": "choice",
+              "content": "离开"
+            },
+            {
+              "id": "step_1756364981818",
+              "type": "choice",
+              "content": "婴儿"
+            },
+            {
+              "id": "step_1756364981997",
+              "type": "choice",
+              "content": "对话3次"
+            },
+            {
+              "id": "step_1756364982152",
+              "type": "choice",
+              "content": "查看2次（异形婴儿）（墓碑）"
+            },
+            {
+              "id": "step_1756364982296",
+              "type": "choice",
+              "content": "探知1次"
+            },
+            {
+              "id": "step_1756364982457",
+              "type": "choice",
+              "content": "对话3次"
+            },
+            {
+              "id": "step_1756364982603",
+              "type": "choice",
+              "content": "查看2次（异形婴儿）（墓碑）"
+            },
+            {
+              "id": "step_1756364982761",
+              "type": "choice",
+              "content": "对话2次"
+            },
+            {
+              "id": "step_1756364982904",
+              "type": "choice",
+              "content": "探知1次"
+            },
+            {
+              "id": "step_1756364983050",
+              "type": "choice",
+              "content": "斩杀1次"
+            },
+            {
+              "id": "step_1756364983215",
+              "type": "choice",
+              "content": "查看2次（异形婴儿）（墓碑）"
+            },
+            {
+              "id": "step_1756364983379",
+              "type": "choice",
+              "content": "对话1次"
+            },
+            {
+              "id": "step_1756364983531",
+              "type": "choice",
+              "content": "离开"
+            },
+            {
+              "id": "step_1756364983712",
+              "type": "choice",
+              "content": "安妮"
+            },
+            {
+              "id": "step_1756364983886",
+              "type": "choice",
+              "content": "对话3次"
+            },
+            {
+              "id": "step_1756364984051",
+              "type": "choice",
+              "content": "调情；玩安妮"
+            },
+            {
+              "id": "step_1756364984207",
+              "type": "note",
+              "content": "注; 点进去在离开有安妮失落的语音~安妮和男主都一个一个后在离开会有安妮满足的语音~换衣服后在进去会有安妮开心的语音~在一个一个完后就有真满足的语音了！"
+            },
+            {
+              "id": "step_1756364984381",
+              "type": "choice",
+              "content": "就寝"
+            },
+            {
+              "id": "step_1756364984530",
+              "type": "choice",
+              "content": "对话3次"
+            },
+            {
+              "id": "step_1756364984696",
+              "type": "choice",
+              "content": "查看3次"
+            },
+            {
+              "id": "step_1756364984842",
+              "type": "choice",
+              "content": "对话1次"
+            },
+            {
+              "id": "step_1756364985042",
+              "type": "choice",
+              "content": "探知1次"
+            },
+            {
+              "id": "step_1756365198936",
+              "type": "choice",
+              "content": "离开"
+            },
+            {
+              "id": "step_1756365199106",
+              "type": "choice",
+              "content": "主动出击"
+            },
+            {
+              "id": "step_1756365199260",
+              "type": "choice",
+              "content": "对话3次"
+            },
+            {
+              "id": "step_1756365199407",
+              "type": "choice",
+              "content": "查看2次"
+            },
+            {
+              "id": "step_1756365199547",
+              "type": "choice",
+              "content": "离开"
+            },
+            {
+              "id": "step_1756365199696",
+              "type": "choice",
+              "content": "安妮"
+            },
+            {
+              "id": "step_1756365199806",
+              "type": "choice",
+              "content": "对话4次"
+            },
+            {
+              "id": "step_1756365199951",
+              "type": "choice",
+              "content": "调情；玩安妮"
+            },
+            {
+              "id": "step_1756365200370",
+              "type": "note",
+              "content": "注; 点进去有新语音~不玩也是可的都一样"
+            },
+            {
+              "id": "step_1756365200526",
+              "type": "choice",
+              "content": "就寝"
+            },
+            {
+              "id": "step_1756365200677",
+              "type": "choice",
+              "content": "对话3次"
+            },
+            {
+              "id": "step_1756365200803",
+              "type": "choice",
+              "content": "查看2次"
+            },
+            {
+              "id": "step_1756365247606",
+              "type": "choice",
+              "content": "探知1次"
+            },
+            {
+              "id": "step_1756365247786",
+              "type": "choice",
+              "content": "沈静化"
+            },
+            {
+              "id": "step_1756365247936",
+              "type": "choice",
+              "content": "探知1次"
+            },
+            {
+              "id": "step_1756365248078",
+              "type": "choice",
+              "content": "查看1次"
+            },
+            {
+              "id": "step_1756365248236",
+              "type": "choice",
+              "content": "对话1次"
+            },
+            {
+              "id": "step_1756365248393",
+              "type": "choice",
+              "content": "离开"
+            },
+            {
+              "id": "step_1756365248528",
+              "type": "choice",
+              "content": "分譲地迹"
+            },
+            {
+              "id": "step_1756365248656",
+              "type": "choice",
+              "content": "对话3次"
+            },
+            {
+              "id": "step_1756365248783",
+              "type": "choice",
+              "content": "查看2次"
+            },
+            {
+              "id": "step_1756365248909",
+              "type": "choice",
+              "content": "探知1次"
+            },
+            {
+              "id": "step_1756365249017",
+              "type": "choice",
+              "content": "沈静化"
+            },
+            {
+              "id": "step_1756365249157",
+              "type": "choice",
+              "content": "探知2次"
+            },
+            {
+              "id": "step_1756365330262",
+              "type": "choice",
+              "content": "查看1次"
+            },
+            {
+              "id": "step_1756365330403",
+              "type": "choice",
+              "content": "探知1次"
+            },
+            {
+              "id": "step_1756365330540",
+              "type": "choice",
+              "content": "对话1次"
+            },
+            {
+              "id": "step_1756365330628",
+              "type": "choice",
+              "content": "离开"
+            },
+            {
+              "id": "step_1756365330758",
+              "type": "choice",
+              "content": "婴儿的墓地"
+            },
+            {
+              "id": "step_1756365330891",
+              "type": "choice",
+              "content": "对话1次"
+            },
+            {
+              "id": "step_1756365331118",
+              "type": "choice",
+              "content": "查看2次（异形婴儿）（墓碑）"
+            },
+            {
+              "id": "step_1756365331247",
+              "type": "choice",
+              "content": "探知1次"
+            },
+            {
+              "id": "step_1756365331609",
+              "type": "choice",
+              "content": "离开"
+            },
+            {
+              "id": "step_1756365331767",
+              "type": "choice",
+              "content": "加贺见家周边"
+            },
+            {
+              "id": "step_1756365331872",
+              "type": "choice",
+              "content": "住宅街"
+            },
+            {
+              "id": "step_1756365331986",
+              "type": "choice",
+              "content": "对话3次"
+            },
+            {
+              "id": "step_1756365332119",
+              "type": "choice",
+              "content": "查看3次"
+            },
+            {
+              "id": "step_1756365332234",
+              "type": "choice",
+              "content": "对话2次"
+            },
+            {
+              "id": "step_1756365332371",
+              "type": "choice",
+              "content": "探知1次"
+            },
+            {
+              "id": "step_1756365332457",
+              "type": "choice",
+              "content": "沈静化"
+            },
+            {
+              "id": "step_1756365525774",
+              "type": "choice",
+              "content": "查看2次"
+            },
+            {
+              "id": "step_1756365525930",
+              "type": "choice",
+              "content": "探知2次"
+            },
+            {
+              "id": "step_1756365526061",
+              "type": "choice",
+              "content": "对话1次"
+            },
+            {
+              "id": "step_1756365526297",
+              "type": "choice",
+              "content": "离开"
+            },
+            {
+              "id": "step_1756365526460",
+              "type": "choice",
+              "content": "加贺见家前"
+            },
+            {
+              "id": "step_1756365526585",
+              "type": "choice",
+              "content": "对话3次"
+            },
+            {
+              "id": "step_1756365526719",
+              "type": "choice",
+              "content": "查看2次"
+            },
+            {
+              "id": "step_1756365526858",
+              "type": "choice",
+              "content": "探知1次"
+            },
+            {
+              "id": "step_1756365526984",
+              "type": "choice",
+              "content": "沈静化"
+            },
+            {
+              "id": "step_1756365527135",
+              "type": "choice",
+              "content": "查看1次"
+            },
+            {
+              "id": "step_1756365527299",
+              "type": "choice",
+              "content": "探知1次"
+            },
+            {
+              "id": "step_1756365527631",
+              "type": "choice",
+              "content": "对话1次"
+            },
+            {
+              "id": "step_1756365527804",
+              "type": "choice",
+              "content": "离开"
+            },
+            {
+              "id": "step_1756365527951",
+              "type": "choice",
+              "content": "山中"
+            },
+            {
+              "id": "step_1756365528099",
+              "type": "choice",
+              "content": "对话3次"
+            },
+            {
+              "id": "step_1756365528275",
+              "type": "choice",
+              "content": "查看2次"
+            },
+            {
+              "id": "step_1756365528449",
+              "type": "choice",
+              "content": "探知1次"
+            },
+            {
+              "id": "step_1756365528627",
+              "type": "choice",
+              "content": "沈静化"
+            },
+            {
+              "id": "step_1756365528794",
+              "type": "choice",
+              "content": "查看1次"
+            },
+            {
+              "id": "step_1756365528940",
+              "type": "choice",
+              "content": "探知1次"
+            },
+            {
+              "id": "step_1756365529108",
+              "type": "choice",
+              "content": "对话1次"
+            },
+            {
+              "id": "step_1756365529263",
+              "type": "choice",
+              "content": "解除沈静化"
+            },
+            {
+              "id": "step_1756365529411",
+              "type": "choice",
+              "content": "查看1次"
+            },
+            {
+              "id": "step_1756365639870",
+              "type": "choice",
+              "content": "离开"
+            },
+            {
+              "id": "step_1756365640019",
+              "type": "choice",
+              "content": "事务所周边"
+            },
+            {
+              "id": "step_1756365640155",
+              "type": "choice",
+              "content": "车站前"
+            },
+            {
+              "id": "step_1756365640288",
+              "type": "choice",
+              "content": "对话3次"
+            },
+            {
+              "id": "step_1756365640423",
+              "type": "choice",
+              "content": "查看1次"
+            },
+            {
+              "id": "step_1756365640535",
+              "type": "choice",
+              "content": "探知1次"
+            },
+            {
+              "id": "step_1756365640657",
+              "type": "choice",
+              "content": "查看1次"
+            },
+            {
+              "id": "step_1756365640805",
+              "type": "choice",
+              "content": "对话1次"
+            },
+            {
+              "id": "step_1756365640933",
+              "type": "choice",
+              "content": "沈静化"
+            },
+            {
+              "id": "step_1756365713419",
+              "type": "choice",
+              "content": "探知1次"
+            },
+            {
+              "id": "step_1756365713568",
+              "type": "choice",
+              "content": "离开"
+            },
+            {
+              "id": "step_1756365713702",
+              "type": "choice",
+              "content": "祠"
+            },
+            {
+              "id": "step_1756365713817",
+              "type": "choice",
+              "content": "对话3次"
+            },
+            {
+              "id": "step_1756365713955",
+              "type": "choice",
+              "content": "查看2次"
+            },
+            {
+              "id": "step_1756365714090",
+              "type": "choice",
+              "content": "探知1次"
+            },
+            {
+              "id": "step_1756365714223",
+              "type": "choice",
+              "content": "对话1次"
+            },
+            {
+              "id": "step_1756365714450",
+              "type": "choice",
+              "content": "沈静化"
+            },
+            {
+              "id": "step_1756365714603",
+              "type": "choice",
+              "content": "查看1次"
+            },
+            {
+              "id": "step_1756365714738",
+              "type": "choice",
+              "content": "探知1次"
+            },
+            {
+              "id": "step_1756365714881",
+              "type": "choice",
+              "content": "离开"
+            },
+            {
+              "id": "step_1756365715021",
+              "type": "choice",
+              "content": "探傎事务所前"
+            },
+            {
+              "id": "step_1756365715163",
+              "type": "choice",
+              "content": "对话3次"
+            },
+            {
+              "id": "step_1756365715308",
+              "type": "choice",
+              "content": "查看1次"
+            },
+            {
+              "id": "step_1756365777631",
+              "type": "choice",
+              "content": "探知1次"
+            },
+            {
+              "id": "step_1756365777783",
+              "type": "choice",
+              "content": "对话1次"
+            },
+            {
+              "id": "step_1756365777930",
+              "type": "choice",
+              "content": "沈静化"
+            },
+            {
+              "id": "step_1756365778236",
+              "type": "choice",
+              "content": "探知1次"
+            },
+            {
+              "id": "step_1756365778403",
+              "type": "choice",
+              "content": "查看1次"
+            },
+            {
+              "id": "step_1756365778556",
+              "type": "choice",
+              "content": "对话1次"
+            },
+            {
+              "id": "step_1756365778692",
+              "type": "choice",
+              "content": "探知1次"
+            },
+            {
+              "id": "step_1756365778846",
+              "type": "choice",
+              "content": "离开"
+            },
+            {
+              "id": "step_1756365812178",
+              "type": "choice",
+              "content": "回家"
+            },
+            {
+              "id": "step_1756365812331",
+              "type": "choice",
+              "content": "抛点周边"
+            },
+            {
+              "id": "step_1756365812471",
+              "type": "choice",
+              "content": "对话2次"
+            },
+            {
+              "id": "step_1756365812617",
+              "type": "choice",
+              "content": "查看1次"
+            },
+            {
+              "id": "step_1756365812768",
+              "type": "choice",
+              "content": "离开"
+            },
+            {
+              "id": "step_1756365812921",
+              "type": "choice",
+              "content": "抛点周边"
+            },
+            {
+              "id": "step_1756365813067",
+              "type": "choice",
+              "content": "对话3次"
+            },
+            {
+              "id": "step_1756365813238",
+              "type": "choice",
+              "content": "查看1次"
+            },
+            {
+              "id": "step_1756365840722",
+              "type": "choice",
+              "content": "离开"
+            },
+            {
+              "id": "step_1756365840884",
+              "type": "choice",
+              "content": "对话2次"
+            },
+            {
+              "id": "step_1756365841032",
+              "type": "choice",
+              "content": "查看1次"
+            },
+            {
+              "id": "step_1756365841314",
+              "type": "choice",
+              "content": "安妮"
+            },
+            {
+              "id": "step_1756365841475",
+              "type": "choice",
+              "content": "对话5次"
+            },
+            {
+              "id": "step_1756365841637",
+              "type": "choice",
+              "content": "调情；玩安妮"
+            },
+            {
+              "id": "step_1756365841796",
+              "type": "note",
+              "content": "注; 有两个新玩具~喜的可以去玩不喜也可以不玩的啦~"
+            },
+            {
+              "id": "step_1756365841980",
+              "type": "choice",
+              "content": "就寝"
+            },
+            {
+              "id": "step_1756365842140",
+              "type": "choice",
+              "content": "对话2次"
+            },
+            {
+              "id": "step_1756365842303",
+              "type": "choice",
+              "content": "查看1次（啜泣的女鬼）"
+            },
+            {
+              "id": "step_1756365842464",
+              "type": "choice",
+              "content": "查看3次（废屋内）"
+            },
+            {
+              "id": "step_1756365842644",
+              "type": "save",
+              "content": "SAVE 1",
+              "subfix": "1;关键选项进行存档"
+            },
+            {
+              "id": "step_1756365842809",
+              "type": "choice",
+              "content": "挥 刀"
+            },
+            {
+              "id": "step_1756365842975",
+              "type": "choice",
+              "content": "安妮"
+            },
+            {
+              "id": "step_1756365843138",
+              "type": "choice",
+              "content": "对话4次"
+            },
+            {
+              "id": "step_1756365843297",
+              "type": "choice",
+              "content": "调情；玩安妮"
+            },
+            {
+              "id": "step_1756365843479",
+              "type": "note",
+              "content": "注; 点进去有新语音~不玩也是可的都一样"
+            },
+            {
+              "id": "step_1756365850696",
+              "type": "choice",
+              "content": "就寝"
+            },
+            {
+              "id": "step_1756365850863",
+              "type": "choice",
+              "content": "分譲地迹"
+            },
+            {
+              "id": "step_1756365851044",
+              "type": "choice",
+              "content": "活性化"
+            },
+            {
+              "id": "step_1756365851212",
+              "type": "choice",
+              "content": "查看1次"
+            },
+            {
+              "id": "step_1756365851389",
+              "type": "choice",
+              "content": "探知1次"
+            },
+            {
+              "id": "step_1756365851556",
+              "type": "choice",
+              "content": "婴儿的墓地"
+            },
+            {
+              "id": "step_1756365851721",
+              "type": "choice",
+              "content": "对话2次"
+            },
+            {
+              "id": "step_1756365851892",
+              "type": "choice",
+              "content": "查看1次"
+            },
+            {
+              "id": "step_1756365852077",
+              "type": "choice",
+              "content": "废村"
+            },
+            {
+              "id": "step_1756365852259",
+              "type": "choice",
+              "content": "对话2次"
+            },
+            {
+              "id": "step_1756365852433",
+              "type": "save",
+              "content": "SAVE 2",
+              "subfix": "2;关键选项进行存档"
+            },
+            {
+              "id": "step_1756365852606",
+              "type": "choice",
+              "content": "查看1次（前进）"
+            }
+          ]
+        },
+        {
+          "id": "ending_1756366073630",
+          "name": "END 2",
+          "type": "good",
+          "steps": [
+            {
+              "id": "step_1756366088846",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1756366092689",
+              "type": "choice",
+              "content": "查看1次（停止）"
+            },
+            {
+              "id": "step_1756366105657",
+              "type": "choice",
+              "content": "对话2次"
+            },
+            {
+              "id": "step_1756366105836",
+              "type": "choice",
+              "content": "活性化"
+            },
+            {
+              "id": "step_1756366106006",
+              "type": "choice",
+              "content": "查看1次"
+            },
+            {
+              "id": "step_1756366106208",
+              "type": "choice",
+              "content": "探知1次"
+            },
+            {
+              "id": "step_1756366106392",
+              "type": "choice",
+              "content": "查看1次"
+            },
+            {
+              "id": "step_1756366106575",
+              "type": "choice",
+              "content": "对话1次"
+            },
+            {
+              "id": "step_1756366106741",
+              "type": "choice",
+              "content": "离开"
+            },
+            {
+              "id": "step_1756366106919",
+              "type": "save",
+              "content": "SAVE 3",
+              "subfix": "3;关键选项进行存档"
+            },
+            {
+              "id": "step_1756366107131",
+              "type": "choice",
+              "content": "进入废屋"
+            },
+            {
+              "id": "step_1756366107354",
+              "type": "choice",
+              "content": "对话1次"
+            },
+            {
+              "id": "step_1756366107550",
+              "type": "choice",
+              "content": "查看1次"
+            },
+            {
+              "id": "step_1756366284514",
+              "type": "choice",
+              "content": "斩杀1次"
+            },
+            {
+              "id": "step_1756366284696",
+              "type": "choice",
+              "content": "对话1次"
+            },
+            {
+              "id": "step_1756366284896",
+              "type": "choice",
+              "content": "婴儿的墓地"
+            },
+            {
+              "id": "step_1756366285087",
+              "type": "choice",
+              "content": "对话1次"
+            },
+            {
+              "id": "step_1756366285279",
+              "type": "choice",
+              "content": "查看1次"
+            },
+            {
+              "id": "step_1756366285488",
+              "type": "choice",
+              "content": "斩杀1次"
+            }
+          ]
+        },
+        {
+          "id": "ending_1756366386673",
+          "name": "END 3",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_1756366388742",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1756366390577",
+              "type": "choice",
+              "content": "停 刀"
+            },
+            {
+              "id": "step_1756366390910",
+              "type": "choice",
+              "content": "对话4次"
+            },
+            {
+              "id": "step_1756366391110",
+              "type": "choice",
+              "content": "就寝"
+            },
+            {
+              "id": "step_1756366391294",
+              "type": "choice",
+              "content": "分譲地迹"
+            },
+            {
+              "id": "step_1756366391485",
+              "type": "choice",
+              "content": "活性化"
+            },
+            {
+              "id": "step_1756366416581",
+              "type": "choice",
+              "content": "查看1次"
+            },
+            {
+              "id": "step_1756366416808",
+              "type": "choice",
+              "content": "探知1次"
+            },
+            {
+              "id": "step_1756366417131",
+              "type": "choice",
+              "content": "离开"
+            },
+            {
+              "id": "step_1756366417322",
+              "type": "choice",
+              "content": "加贺见家周边"
+            },
+            {
+              "id": "step_1756366417523",
+              "type": "choice",
+              "content": "住宅街"
+            },
+            {
+              "id": "step_1756366417733",
+              "type": "choice",
+              "content": "活性化"
+            },
+            {
+              "id": "step_1756366417933",
+              "type": "choice",
+              "content": "查看1次"
+            },
+            {
+              "id": "step_1756366465770",
+              "type": "choice",
+              "content": "探知1次"
+            },
+            {
+              "id": "step_1756366465999",
+              "type": "choice",
+              "content": "离开"
+            },
+            {
+              "id": "step_1756366466215",
+              "type": "choice",
+              "content": "加贺见家前"
+            },
+            {
+              "id": "step_1756366466450",
+              "type": "choice",
+              "content": "活性化"
+            },
+            {
+              "id": "step_1756366466654",
+              "type": "choice",
+              "content": "查看1次"
+            },
+            {
+              "id": "step_1756366466869",
+              "type": "choice",
+              "content": "探知1次"
+            },
+            {
+              "id": "step_1756366467086",
+              "type": "choice",
+              "content": "对话1次"
+            },
+            {
+              "id": "step_1756366467307",
+              "type": "choice",
+              "content": "离开"
+            },
+            {
+              "id": "step_1756366467536",
+              "type": "choice",
+              "content": "商店街"
+            },
+            {
+              "id": "step_1756366467756",
+              "type": "choice",
+              "content": "活性化"
+            },
+            {
+              "id": "step_1756366467974",
+              "type": "choice",
+              "content": "查看1次"
+            },
+            {
+              "id": "step_1756366468235",
+              "type": "choice",
+              "content": "探知1次"
+            },
+            {
+              "id": "step_1756366468450",
+              "type": "choice",
+              "content": "查看1次"
+            },
+            {
+              "id": "step_1756366521070",
+              "type": "choice",
+              "content": "探知1次"
+            },
+            {
+              "id": "step_1756366521294",
+              "type": "choice",
+              "content": "对话1次"
+            },
+            {
+              "id": "step_1756366521530",
+              "type": "choice",
+              "content": "离开"
+            },
+            {
+              "id": "step_1756366521772",
+              "type": "choice",
+              "content": "山中"
+            },
+            {
+              "id": "step_1756366521993",
+              "type": "choice",
+              "content": "活性化"
+            },
+            {
+              "id": "step_1756366522210",
+              "type": "choice",
+              "content": "探知1次"
+            },
+            {
+              "id": "step_1756366522439",
+              "type": "choice",
+              "content": "离开"
+            },
+            {
+              "id": "step_1756366522682",
+              "type": "choice",
+              "content": "事务所周辺"
+            },
+            {
+              "id": "step_1756366522919",
+              "type": "choice",
+              "content": "车站前"
+            },
+            {
+              "id": "step_1756366523158",
+              "type": "choice",
+              "content": "活性化"
+            },
+            {
+              "id": "step_1756366584091",
+              "type": "choice",
+              "content": "查看1次"
+            },
+            {
+              "id": "step_1756366584319",
+              "type": "choice",
+              "content": "探知1次"
+            },
+            {
+              "id": "step_1756366584563",
+              "type": "choice",
+              "content": "离开"
+            },
+            {
+              "id": "step_1756366584792",
+              "type": "choice",
+              "content": "祠"
+            },
+            {
+              "id": "step_1756366585018",
+              "type": "choice",
+              "content": "活性化"
+            },
+            {
+              "id": "step_1756366585242",
+              "type": "choice",
+              "content": "查看1次"
+            },
+            {
+              "id": "step_1756366585468",
+              "type": "choice",
+              "content": "探知1次"
+            },
+            {
+              "id": "step_1756366585718",
+              "type": "choice",
+              "content": "离开"
+            },
+            {
+              "id": "step_1756366585973",
+              "type": "choice",
+              "content": "探傎事务所前"
+            },
+            {
+              "id": "step_1756366586244",
+              "type": "choice",
+              "content": "活性化"
+            },
+            {
+              "id": "step_1756366586507",
+              "type": "choice",
+              "content": "探知1次"
+            },
+            {
+              "id": "step_1756366586775",
+              "type": "choice",
+              "content": "查看1次"
+            },
+            {
+              "id": "step_1756366587045",
+              "type": "choice",
+              "content": "对话1次"
+            },
+            {
+              "id": "step_1756366631177",
+              "type": "choice",
+              "content": "离开"
+            },
+            {
+              "id": "step_1756366631413",
+              "type": "choice",
+              "content": "废村"
+            },
+            {
+              "id": "step_1756366631677",
+              "type": "choice",
+              "content": "对话1次"
+            },
+            {
+              "id": "step_1756366631935",
+              "type": "choice",
+              "content": "悬吊"
+            },
+            {
+              "id": "step_1756366632184",
+              "type": "choice",
+              "content": "对话1次"
+            },
+            {
+              "id": "step_1756366632440",
+              "type": "choice",
+              "content": "活性化"
+            },
+            {
+              "id": "step_1756366632690",
+              "type": "choice",
+              "content": "查看1次"
+            },
+            {
+              "id": "step_1756366632952",
+              "type": "choice",
+              "content": "探知1次"
+            },
+            {
+              "id": "step_1756366633199",
+              "type": "choice",
+              "content": "查看1次"
+            },
+            {
+              "id": "step_1756366633479",
+              "type": "choice",
+              "content": "对话1次"
+            },
+            {
+              "id": "step_1756366633747",
+              "type": "choice",
+              "content": "沈静化"
+            },
+            {
+              "id": "step_1756366687523",
+              "type": "choice",
+              "content": "查看1次"
+            },
+            {
+              "id": "step_1756366687787",
+              "type": "choice",
+              "content": "对话1次"
+            },
+            {
+              "id": "step_1756366688052",
+              "type": "choice",
+              "content": "离开"
+            },
+            {
+              "id": "step_1756366688316",
+              "type": "choice",
+              "content": "进入废屋"
+            },
+            {
+              "id": "step_1756366688572",
+              "type": "choice",
+              "content": "对话1次"
+            },
+            {
+              "id": "step_1756366688827",
+              "type": "choice",
+              "content": "查看1次"
+            },
+            {
+              "id": "step_1756366689092",
+              "type": "choice",
+              "content": "斩杀1次"
+            },
+            {
+              "id": "step_1756366689366",
+              "type": "choice",
+              "content": "探知1次"
+            },
+            {
+              "id": "step_1756366689622",
+              "type": "choice",
+              "content": "对话1次"
+            },
+            {
+              "id": "step_1756366689885",
+              "type": "choice",
+              "content": "婴儿的墓地"
+            },
+            {
+              "id": "step_1756366690147",
+              "type": "choice",
+              "content": "对话1次"
+            },
+            {
+              "id": "step_1756366690433",
+              "type": "choice",
+              "content": "查看1次"
+            },
+            {
+              "id": "step_1756366690713",
+              "type": "choice",
+              "content": "安妮"
+            },
+            {
+              "id": "step_1756366691023",
+              "type": "choice",
+              "content": "对话4次"
+            },
+            {
+              "id": "step_1756366691322",
+              "type": "choice",
+              "content": "就寝"
+            },
+            {
+              "id": "step_1756366691632",
+              "type": "choice",
+              "content": "查看1次"
+            },
+            {
+              "id": "step_1756366848069",
+              "type": "note",
+              "content": "注：玩完后在主界面找到并且点击：おまけ（赠品）然后再打开 CG~我们常规 CG 图都拿到了！"
+            },
+            {
+              "id": "step_1756366848350",
+              "type": "note",
+              "content": "没有拿到的正常途径也拿不到需要我们在界面中找到解放并且使用（CC 和 SC 同理）这样子就会多出来几个 CG"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

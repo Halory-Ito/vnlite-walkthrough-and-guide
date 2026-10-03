@@ -1,0 +1,104 @@
+{
+  "vid": "v21717",
+  "name": {
+    "zh-cn": "缘染此叶，化作恋红",
+    "ja-jp": "縁りて此の葉は紅に",
+    "ja-Latn": "yorite-konoha-wa-kurenai-ni"
+  },
+  "level": 2,
+  "updatedAt": "2026-02-27",
+  "routes": [
+    {
+      "id": "route_1756371110974",
+      "name": "木那里 红叶",
+      "endings": [
+        {
+          "id": "ending_1756371128475",
+          "name": "红叶 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756371143952",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1756371144522",
+              "type": "choice",
+              "content": "红叶"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756371150804",
+      "name": "笹浦 玲奈",
+      "endings": [
+        {
+          "id": "ending_1756371175469",
+          "name": "玲奈 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756371183555",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1756371184078",
+              "type": "choice",
+              "content": "玲奈"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756371187627",
+      "name": "稜未 小乃叶",
+      "endings": [
+        {
+          "id": "ending_1756371197677",
+          "name": "小乃叶 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756371215792",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1756371217464",
+              "type": "choice",
+              "content": "小乃叶"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756371235779",
+      "name": "斑鸠 和羽",
+      "endings": [
+        {
+          "id": "ending_1756371243688",
+          "name": "和羽 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756371253303",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1756371254220",
+              "type": "choice",
+              "content": "和羽"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,333 @@
+{
+  "vid": "v775",
+  "name": {
+    "zh-cn": "Coming×Humming!!",
+    "ja-jp": "Coming×Humming!!",
+    "ja-Latn": "coming-x-humming"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-14",
+  "tips": [
+    "◆ 选项，在Skip模式下不会出现"
+  ],
+  "routes": [
+    {
+      "id": "route_1773035442631",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1773035453675",
+          "name": "优月 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1773035547692",
+              "type": "choice",
+              "content": "忍不住要说一句",
+              "group": "4月11日"
+            },
+            {
+              "id": "step_1773035547840",
+              "type": "choice",
+              "content": "去班长那里",
+              "group": "4月13日"
+            },
+            {
+              "id": "step_1773035548160",
+              "type": "save",
+              "content": "SAVE 1",
+              "group": "4月14日"
+            },
+            {
+              "id": "step_1773035548297",
+              "type": "choice",
+              "content": "优月（学校）",
+              "group": "4月14日"
+            },
+            {
+              "id": "step_1773035568556",
+              "type": "choice",
+              "content": "陪睡",
+              "prefix": "◆",
+              "group": "4月15日"
+            },
+            {
+              "id": "step_1773035574330",
+              "type": "save",
+              "content": "SAVE 2",
+              "group": "4月15日"
+            },
+            {
+              "id": "step_1773035577183",
+              "type": "choice",
+              "content": "美海（站前）",
+              "group": "4月15日"
+            },
+            {
+              "id": "step_1773035582330",
+              "type": "choice",
+              "content": "还是快点比较好",
+              "group": "4月16日"
+            },
+            {
+              "id": "step_1773035615668",
+              "type": "note",
+              "content": "打扫神社的事件请不要跳过",
+              "group": "4月16日"
+            },
+            {
+              "id": "step_1773035628626",
+              "type": "save",
+              "content": "SAVE 3",
+              "group": "4月16日"
+            },
+            {
+              "id": "step_1773035631439",
+              "type": "choice",
+              "content": "优月（神社）",
+              "group": "4月16日"
+            },
+            {
+              "id": "step_1773035637029",
+              "type": "choice",
+              "content": "优月（神社）",
+              "group": "4月17日"
+            },
+            {
+              "id": "step_1773035637303",
+              "type": "choice",
+              "content": "优月（森林）",
+              "group": "4月20日"
+            },
+            {
+              "id": "step_1773035637589",
+              "type": "choice",
+              "content": "突然牵起手",
+              "group": "4月24日"
+            }
+          ]
+        },
+        {
+          "id": "ending_1773035713071",
+          "name": "美海 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1773035719709",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1773035723739",
+              "type": "choice",
+              "content": "美海（站前）",
+              "group": "4月16日"
+            },
+            {
+              "id": "step_1773035723907",
+              "type": "choice",
+              "content": "美海（站前）",
+              "group": "4月17日"
+            },
+            {
+              "id": "step_1773035724070",
+              "type": "choice",
+              "content": "美海（森林）",
+              "group": "4月18日"
+            },
+            {
+              "id": "step_1773035736903",
+              "type": "choice",
+              "content": "放马过来吧",
+              "group": "4月25日"
+            }
+          ]
+        },
+        {
+          "id": "ending_1773035778453",
+          "name": "铃香 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1773035783866",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1773035785021",
+              "type": "choice",
+              "content": "铃香（旅馆）",
+              "group": "4月14日"
+            },
+            {
+              "id": "step_1773035785186",
+              "type": "choice",
+              "content": "捏鼻子",
+              "prefix": "◆",
+              "group": "4月15日"
+            },
+            {
+              "id": "step_1773035785348",
+              "type": "choice",
+              "content": "绫音（学校）",
+              "group": "4月15日"
+            },
+            {
+              "id": "step_1773035865769",
+              "type": "choice",
+              "content": "欲速则不达",
+              "group": "4月16日"
+            },
+            {
+              "id": "step_1773035872810",
+              "type": "note",
+              "content": "打扫神社的事件请不要跳过",
+              "group": "4月16日"
+            },
+            {
+              "id": "step_1773035886156",
+              "type": "choice",
+              "content": "铃香（旅馆）",
+              "group": "4月16日"
+            },
+            {
+              "id": "step_1773035896076",
+              "type": "save",
+              "content": "SAVE 4",
+              "group": "4月17日"
+            },
+            {
+              "id": "step_1773035896274",
+              "type": "choice",
+              "content": "铃香（旅馆）",
+              "group": "4月17日"
+            }
+          ]
+        },
+        {
+          "id": "ending_1773035939186",
+          "name": "绫音 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1773035948117",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_1773035950410",
+              "type": "choice",
+              "content": "绫音（学校）",
+              "group": "4月17日"
+            },
+            {
+              "id": "step_1773035950559",
+              "type": "choice",
+              "content": "绫音（站前）",
+              "group": "4月18日"
+            },
+            {
+              "id": "step_1773035950678",
+              "type": "choice",
+              "content": "绫音（旅馆）",
+              "group": "4月20日"
+            }
+          ]
+        },
+        {
+          "id": "ending_1773035976047",
+          "name": "日向 END",
+          "type": "normal",
+          "requirements": "必须先通关【美海 END】",
+          "steps": [
+            {
+              "id": "step_1773036005892",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1773036007806",
+              "type": "choice",
+              "content": "日向（站前）",
+              "group": "4月14日"
+            },
+            {
+              "id": "step_1773036007997",
+              "type": "choice",
+              "content": "吹气",
+              "prefix": "◆",
+              "group": "4月15日"
+            },
+            {
+              "id": "step_1773036024227",
+              "type": "choice",
+              "content": "日向（站前）",
+              "group": "4月15日"
+            },
+            {
+              "id": "step_1773036030291",
+              "type": "choice",
+              "content": "还是快点比较好",
+              "group": "4月16日"
+            },
+            {
+              "id": "step_1773036030454",
+              "type": "choice",
+              "content": "美海（站前）",
+              "group": "4月16日"
+            },
+            {
+              "id": "step_1773036030580",
+              "type": "choice",
+              "content": "日向（站前）",
+              "group": "4月17日"
+            },
+            {
+              "id": "step_1773036030720",
+              "type": "choice",
+              "content": "日向（站前）",
+              "group": "4月18日"
+            }
+          ]
+        },
+        {
+          "id": "ending_1773036093240",
+          "name": "栞 END",
+          "type": "normal",
+          "requirements": "铃香攻略后",
+          "steps": [
+            {
+              "id": "step_1773036098904",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1773036101331",
+              "type": "choice",
+              "content": "栞（水池）",
+              "group": "4月15日"
+            },
+            {
+              "id": "step_1773036101484",
+              "type": "choice",
+              "content": "欲速则不达",
+              "group": "4月16日"
+            },
+            {
+              "id": "step_1773036101621",
+              "type": "choice",
+              "content": "铃香（旅馆）",
+              "group": "4月16日"
+            },
+            {
+              "id": "step_1773036101740",
+              "type": "choice",
+              "content": "栞（水池）",
+              "group": "4月17日"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

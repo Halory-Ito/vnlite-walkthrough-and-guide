@@ -1,0 +1,360 @@
+{
+  "vid": "v83",
+  "name": {
+    "zh-cn": "Empty×Embryo",
+    "en-us": "Empty×Embryo",
+    "ja-jp": "Empty×Embryo",
+    "ja-Latn": "empty-embryo"
+  },
+  "level": 2,
+  "updatedAt": "2026-02-27",
+  "tips": [
+    "BE1:单身BE",
+    "BE2:悠线BE，达成条件为:悠的四个关键选项选中3个选不中1个",
+    "BE3:夏希线和沙耶线BE，达成条件为:在图中选择“不想屈服”的地方选择”比起疼还是......",
+    "nNE:夏希线NE，达成条件为:夏希的四个关键选项(“不想屈服“不算)选中3个选不中1个",
+    "SNE:沙耶线NE，达成条件为:沙耶线在图中选择“不转脸”的地方选择“转过脸\"",
+    "BE和NE都无法激活鉴赏模式和二周目，相当于攻略失败",
+    "如果一定想要攻略某一个妹子，建议把其他人的好感度都选成最低，避免莫名其妙进入奇怪的BE和NE。"
+  ],
+  "routes": [
+    {
+      "id": "route_1749885988356",
+      "name": "未命名路线 1",
+      "endings": [
+        {
+          "id": "ending_1749886100044",
+          "name": "野宫悠 END",
+          "type": "good",
+          "steps": [
+            {
+              "id": "step_1749886160385",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1749886162360",
+              "type": "choice",
+              "content": "打他/就这样呆着"
+            },
+            {
+              "id": "step_1749887767265",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1749888784874",
+              "type": "choice",
+              "content": "送笼/就这样告别"
+            },
+            {
+              "id": "step_1749888817492",
+              "type": "choice",
+              "content": "反正之前也没有兴趣/借游戏给她",
+              "prefix": "送笼"
+            },
+            {
+              "id": "step_1749888914588",
+              "type": "choice",
+              "content": "不能离开这里/要我一起找吗？"
+            },
+            {
+              "id": "step_1749888950971",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_1749889416880",
+              "type": "choice",
+              "content": "叫住她"
+            },
+            {
+              "id": "step_1749889525837",
+              "type": "choice",
+              "content": "再怎么说主机还是有的吧/以防万一也一块带去",
+              "prefix": "借游戏给她"
+            },
+            {
+              "id": "step_1749889870022",
+              "type": "choice",
+              "content": "因为是美乳派所以糊弄过去"
+            },
+            {
+              "id": "step_1749889898343",
+              "type": "choice",
+              "content": "连悠那份一起买了"
+            },
+            {
+              "id": "step_1749889898723",
+              "type": "choice",
+              "content": "让悠来弄"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1749889957507",
+      "name": "未命名路线 2",
+      "endings": [
+        {
+          "id": "ending_1749890004877",
+          "name": "笼夏希 END",
+          "type": "good",
+          "steps": [
+            {
+              "id": "step_1749890028005",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1749890043123",
+              "type": "choice",
+              "content": "送笼"
+            },
+            {
+              "id": "step_1749890545337",
+              "type": "choice",
+              "content": "借游戏给她"
+            },
+            {
+              "id": "step_1749890617636",
+              "type": "choice",
+              "content": "不能离开这里/要我一起找吗？"
+            },
+            {
+              "id": "step_1749890636206",
+              "type": "choice",
+              "content": "叫住她/目送她离去"
+            },
+            {
+              "id": "step_1749890660412",
+              "type": "choice",
+              "content": "以防万一也一块带过去"
+            },
+            {
+              "id": "step_1749890716806",
+              "type": "choice",
+              "content": "贫乳最好"
+            },
+            {
+              "id": "step_1749890797618",
+              "type": "choice",
+              "content": "连悠那份一起买了/算了，没办法"
+            },
+            {
+              "id": "step_1749890835962",
+              "type": "choice",
+              "content": "还是算了/让悠来弄"
+            },
+            {
+              "id": "step_1749890868664",
+              "type": "choice",
+              "content": "交给圆/交给寿士",
+              "prefix": "还是算了"
+            },
+            {
+              "id": "step_1749890917955",
+              "type": "choice",
+              "content": "不想屈服"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1749890974342",
+      "name": "未命名路线 3",
+      "endings": [
+        {
+          "id": "ending_1749891220269",
+          "name": "贵船未绪 END",
+          "type": "good",
+          "steps": [
+            {
+              "id": "step_1749891238499",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1749891344755",
+              "type": "choice",
+              "content": "叫住她/目送她离去"
+            },
+            {
+              "id": "step_1749891725160",
+              "type": "choice",
+              "content": "再怎么说主机还是有的吧/以防万一也一块带去",
+              "prefix": "借游戏给她"
+            },
+            {
+              "id": "step_1749891790141",
+              "type": "choice",
+              "content": "巨乳最好"
+            },
+            {
+              "id": "step_1749891818726",
+              "type": "choice",
+              "content": "连悠那份一起买了/算了，没办法"
+            },
+            {
+              "id": "step_1749892013207",
+              "type": "choice",
+              "content": "还是算了/让悠来弄"
+            },
+            {
+              "id": "step_1749892035474",
+              "type": "choice",
+              "content": "交给圆/交给博士",
+              "prefix": "还是算了"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1749892088981",
+      "name": "未命名路线 4",
+      "endings": [
+        {
+          "id": "ending_1749892123335",
+          "name": "白峰沙耶 END",
+          "type": "good",
+          "steps": [
+            {
+              "id": "step_1749892261776",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1749892375615",
+              "type": "choice",
+              "content": "送笼"
+            },
+            {
+              "id": "step_1749892379355",
+              "type": "choice",
+              "content": "借游戏给她"
+            },
+            {
+              "id": "step_1749892379671",
+              "type": "choice",
+              "content": "不能离开这里/要我一起找吗？"
+            },
+            {
+              "id": "step_1749892413357",
+              "type": "choice",
+              "content": "叫住她/目送她离去"
+            },
+            {
+              "id": "step_1749892441046",
+              "type": "choice",
+              "content": "以防万一也一块带去"
+            },
+            {
+              "id": "step_1749892460730",
+              "type": "choice",
+              "content": "巨乳最好"
+            },
+            {
+              "id": "step_1749892485606",
+              "type": "choice",
+              "content": "连悠那份一起买了/算了，没办法"
+            },
+            {
+              "id": "step_1749892509706",
+              "type": "choice",
+              "content": "还是算了"
+            },
+            {
+              "id": "step_1749892510151",
+              "type": "choice",
+              "content": "交给寿士"
+            },
+            {
+              "id": "step_1749892512393",
+              "type": "choice",
+              "content": "不想屈服"
+            },
+            {
+              "id": "step_1749892512690",
+              "type": "choice",
+              "content": "不转脸"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1749892554309",
+      "name": "未命名路线 5",
+      "endings": [
+        {
+          "id": "ending_1749892586661",
+          "name": "上御灵圆 END",
+          "type": "good",
+          "requirements": "二周目",
+          "steps": [
+            {
+              "id": "step_1749892638353",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1749892641699",
+              "type": "choice",
+              "content": "打他"
+            },
+            {
+              "id": "step_1749892658440",
+              "type": "choice",
+              "content": "送笼/就这样告别"
+            },
+            {
+              "id": "step_1749892672613",
+              "type": "choice",
+              "content": "反正之前也没有兴趣/借游戏给她",
+              "prefix": "送笼"
+            },
+            {
+              "id": "step_1749892694999",
+              "type": "choice",
+              "content": "不能离开这里/要我一起找吗？"
+            },
+            {
+              "id": "step_1749892849453",
+              "type": "choice",
+              "content": "叫住她/目送她离去"
+            },
+            {
+              "id": "step_1749892878360",
+              "type": "choice",
+              "content": "再怎么说主机还是有的吧/以防万一也一块带去",
+              "prefix": "借游戏给她"
+            },
+            {
+              "id": "step_1749893038524",
+              "type": "choice",
+              "content": "因为是美乳派所以糊弄过去"
+            },
+            {
+              "id": "step_1749893152640",
+              "type": "choice",
+              "content": "连悠那份一起买了/算了，没办法"
+            },
+            {
+              "id": "step_1749893153050",
+              "type": "choice",
+              "content": "还是算了"
+            },
+            {
+              "id": "step_1749893153518",
+              "type": "choice",
+              "content": "交给圆"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

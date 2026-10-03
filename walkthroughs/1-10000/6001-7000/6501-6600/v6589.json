@@ -1,0 +1,259 @@
+{
+  "vid": "v6589",
+  "name": {
+    "zh-cn": "女装山脉",
+    "en-us": "Tomgirls of the Mountains - Josou Sanmyaku",
+    "ja-jp": "女装山脈",
+    "ja-Latn": "josou-sanmyaku"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-14",
+  "routes": [
+    {
+      "id": "route_youmu",
+      "name": "魂魄妖夢",
+      "endings": [
+        {
+          "id": "ending_youmu_bad",
+          "name": "魂魄妖夢 End",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_youmu_01",
+              "type": "choice",
+              "content": "不能吃"
+            },
+            {
+              "id": "step_youmu_02",
+              "type": "choice",
+              "content": "拒绝"
+            },
+            {
+              "id": "step_youmu_03",
+              "type": "choice",
+              "content": "努力接受"
+            },
+            {
+              "id": "step_youmu_04",
+              "type": "choice",
+              "content": "不斤斤计较"
+            },
+            {
+              "id": "step_youmu_05",
+              "type": "choice",
+              "content": "提醒"
+            },
+            {
+              "id": "step_youmu_06",
+              "type": "choice",
+              "content": "两者之间的中餐"
+            },
+            {
+              "id": "step_youmu_07",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_youmu_08",
+              "type": "choice",
+              "content": "不去做"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_shizuki",
+      "name": "静树",
+      "endings": [
+        {
+          "id": "ending_shizuki_true",
+          "name": "静树 End",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_shizuki_01",
+              "type": "choice",
+              "content": "不能吃"
+            },
+            {
+              "id": "step_shizuki_02",
+              "type": "choice",
+              "content": "拒绝"
+            },
+            {
+              "id": "step_shizuki_03",
+              "type": "choice",
+              "content": "努力接受"
+            },
+            {
+              "id": "step_shizuki_04",
+              "type": "choice",
+              "content": "不斤斤计较"
+            },
+            {
+              "id": "step_shizuki_05",
+              "type": "choice",
+              "content": "提醒"
+            },
+            {
+              "id": "step_shizuki_06",
+              "type": "choice",
+              "content": "两者之间的中餐"
+            },
+            {
+              "id": "step_shizuki_07",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_shizuki_09",
+              "type": "choice",
+              "content": "将心传达给她 → TrueEnd"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_shio",
+      "name": "史绪",
+      "endings": [
+        {
+          "id": "ending_shio_bad",
+          "name": "史绪 End1",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_shio_01",
+              "type": "choice",
+              "content": "吃掉"
+            },
+            {
+              "id": "step_shio_02",
+              "type": "choice",
+              "content": "老实地回答"
+            },
+            {
+              "id": "step_shio_03",
+              "type": "choice",
+              "content": "拂开对方的手拒绝"
+            },
+            {
+              "id": "step_shio_04",
+              "type": "choice",
+              "content": "发牢骚"
+            },
+            {
+              "id": "step_shio_05",
+              "type": "choice",
+              "content": "不提醒"
+            },
+            {
+              "id": "step_shio_06",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_shio_07",
+              "type": "choice",
+              "content": "想吃史绪"
+            },
+            {
+              "id": "step_shio_08",
+              "type": "choice",
+              "content": "想吃日式早餐"
+            },
+            {
+              "id": "step_shio_09",
+              "type": "choice",
+              "content": "吃掉史绪"
+            },
+            {
+              "id": "step_shio_10",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_shio_11",
+              "type": "choice",
+              "content": "无法回答"
+            }
+          ]
+        },
+        {
+          "id": "ending_shio_true",
+          "name": "史绪 End2",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_shio_12",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_shio_13",
+              "type": "choice",
+              "content": "一起吧"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_yura",
+      "name": "由良",
+      "endings": [
+        {
+          "id": "ending_yura_bad",
+          "name": "由良 End1",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_yura_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_yura_02",
+              "type": "choice",
+              "content": "想吃由良"
+            },
+            {
+              "id": "step_yura_03",
+              "type": "choice",
+              "content": "想吃西式早餐"
+            },
+            {
+              "id": "step_yura_04",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_yura_05",
+              "type": "choice",
+              "content": "留在村里"
+            }
+          ]
+        },
+        {
+          "id": "ending_yura_true",
+          "name": "由良 End2",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_yura_06",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_yura_07",
+              "type": "choice",
+              "content": "一起离开村子"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

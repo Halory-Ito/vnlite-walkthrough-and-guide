@@ -1,0 +1,431 @@
+{
+  "vid": "v21956",
+  "name": {
+    "zh-cn": "IxSHE Tell",
+    "ja-jp": "IxSHE Tell",
+    "ja-Latn": "ixshe-tell"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-14",
+  "tips": [
+    "角色选择画面无法存档",
+    "★RTC：的标记为带有时间限制的选项"
+  ],
+  "routes": [
+    {
+      "id": "route_game",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_shiori_end",
+          "name": "栞织 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_shiori_01",
+              "type": "save",
+              "content": "SAVE 1",
+              "subfix": "角色选择出现前进行存档",
+              "group": "共通01"
+            },
+            {
+              "id": "step_shiori_02",
+              "type": "note",
+              "content": "花守 栞织",
+              "prefix": "■",
+              "group": "共通01"
+            },
+            {
+              "id": "step_shiori_03",
+              "type": "choice",
+              "content": "时间到",
+              "prefix": "★RTC",
+              "group": "共通01"
+            },
+            {
+              "id": "step_shiori_04",
+              "type": "note",
+              "content": "花守 栞织",
+              "prefix": "■",
+              "group": "共通02"
+            },
+            {
+              "id": "step_shiori_05",
+              "type": "note",
+              "content": "花守 栞织",
+              "prefix": "■",
+              "group": "共通03"
+            },
+            {
+              "id": "step_shiori_06",
+              "type": "note",
+              "content": "花守 栞织",
+              "prefix": "■",
+              "group": "共通04"
+            },
+            {
+              "id": "step_shiori_07",
+              "type": "choice",
+              "content": "时间到",
+              "prefix": "★RTC",
+              "group": "共通04"
+            },
+            {
+              "id": "step_shiori_08",
+              "type": "choice",
+              "content": "再考虑一次",
+              "group": "共通05"
+            },
+            {
+              "id": "step_shiori_09",
+              "type": "choice",
+              "content": "我很在意“栞织”的事",
+              "group": "共通05"
+            },
+            {
+              "id": "step_shiori_10",
+              "type": "choice",
+              "content": "回应告白",
+              "group": "共通05"
+            },
+            {
+              "id": "step_shiori_11",
+              "type": "choice",
+              "content": "里面/外面",
+              "group": "“花守 栞织”篇05"
+            },
+            {
+              "id": "step_shiori_12",
+              "type": "choice",
+              "content": "里面/外面",
+              "group": "“花守 栞织”篇07"
+            },
+            {
+              "id": "step_shiori_13",
+              "type": "choice",
+              "content": "嘴里/脸上",
+              "group": "“花守 栞织”篇08"
+            },
+            {
+              "id": "step_shiori_14",
+              "type": "choice",
+              "content": "里面/外面",
+              "group": "“花守 栞织”篇08"
+            }
+          ]
+        },
+        {
+          "id": "ending_kasumi_end",
+          "name": "香纯 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_kasumi_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_kasumi_02",
+              "type": "choice",
+              "content": "小清水 香纯",
+              "prefix": "■",
+              "group": "共通01"
+            },
+            {
+              "id": "step_kasumi_03",
+              "type": "choice",
+              "content": "时间到",
+              "prefix": "★RTC",
+              "group": "共通01"
+            },
+            {
+              "id": "step_kasumi_04",
+              "type": "choice",
+              "content": "小清水 香纯",
+              "prefix": "■",
+              "group": "共通02"
+            },
+            {
+              "id": "step_kasumi_05",
+              "type": "choice",
+              "content": "小清水 香纯",
+              "prefix": "■",
+              "group": "共通03"
+            },
+            {
+              "id": "step_kasumi_06",
+              "type": "choice",
+              "content": "小清水 香纯",
+              "prefix": "■",
+              "group": "共通04"
+            },
+            {
+              "id": "step_kasumi_07",
+              "type": "choice",
+              "content": "侧耳倾听",
+              "prefix": "★RTC",
+              "group": "共通04"
+            },
+            {
+              "id": "step_kasumi_08",
+              "type": "choice",
+              "content": "再考虑一次",
+              "group": "共通05"
+            },
+            {
+              "id": "step_kasumi_09",
+              "type": "choice",
+              "content": "我很在意“小清水”的事",
+              "group": "共通05"
+            },
+            {
+              "id": "step_kasumi_10",
+              "type": "choice",
+              "content": "回应告白",
+              "group": "共通05"
+            }
+          ]
+        },
+        {
+          "id": "ending_ayaka_end",
+          "name": "彩枫 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_ayaka_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_ayaka_02",
+              "type": "choice",
+              "content": "结城 彩枫",
+              "prefix": "■",
+              "group": "共通01"
+            },
+            {
+              "id": "step_ayaka_03",
+              "type": "choice",
+              "content": "时间到",
+              "prefix": "★RTC",
+              "group": "共通01"
+            },
+            {
+              "id": "step_ayaka_04",
+              "type": "choice",
+              "content": "结城 彩枫",
+              "prefix": "■",
+              "group": "共通02"
+            },
+            {
+              "id": "step_ayaka_05",
+              "type": "choice",
+              "content": "结城 彩枫",
+              "prefix": "■",
+              "group": "共通03"
+            },
+            {
+              "id": "step_ayaka_06",
+              "type": "choice",
+              "content": "结城 彩枫",
+              "prefix": "■",
+              "group": "共通04"
+            },
+            {
+              "id": "step_ayaka_07",
+              "type": "choice",
+              "content": "时间到",
+              "prefix": "★RTC",
+              "group": "共通04"
+            },
+            {
+              "id": "step_ayaka_08",
+              "type": "choice",
+              "content": "再考虑一次",
+              "group": "共通05"
+            },
+            {
+              "id": "step_ayaka_09",
+              "type": "choice",
+              "content": "我很在意“结城前辈”的事",
+              "group": "共通05"
+            },
+            {
+              "id": "step_ayaka_10",
+              "type": "choice",
+              "content": "回应告白",
+              "group": "共通05"
+            }
+          ]
+        },
+        {
+          "id": "ending_yui_end",
+          "name": "由依 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_yui_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_yui_02",
+              "type": "choice",
+              "content": "古冢 由依",
+              "prefix": "■",
+              "group": "共通01"
+            },
+            {
+              "id": "step_yui_03",
+              "type": "choice",
+              "content": "摸摸她",
+              "prefix": "★RTC",
+              "group": "共通01"
+            },
+            {
+              "id": "step_yui_04",
+              "type": "choice",
+              "content": "古冢 由依",
+              "prefix": "■",
+              "group": "共通02"
+            },
+            {
+              "id": "step_yui_05",
+              "type": "choice",
+              "content": "古冢 由依",
+              "prefix": "■",
+              "group": "共通03"
+            },
+            {
+              "id": "step_yui_06",
+              "type": "choice",
+              "content": "古冢 由依",
+              "prefix": "■",
+              "group": "共通04"
+            },
+            {
+              "id": "step_yui_07",
+              "type": "choice",
+              "content": "触碰她的手",
+              "prefix": "★RTC",
+              "group": "共通04"
+            },
+            {
+              "id": "step_yui_08",
+              "type": "choice",
+              "content": "再考虑一次",
+              "group": "共通05"
+            },
+            {
+              "id": "step_yui_09",
+              "type": "choice",
+              "content": "我很在意“古冢”的事",
+              "group": "共通05"
+            },
+            {
+              "id": "step_yui_10",
+              "type": "choice",
+              "content": "回应告白",
+              "group": "共通05"
+            }
+          ]
+        },
+        {
+          "id": "ending_yoshino_end",
+          "name": "芳乃 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_yoshino_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_yoshino_02",
+              "type": "choice",
+              "content": "山吹 芳乃",
+              "prefix": "■",
+              "group": "共通01"
+            },
+            {
+              "id": "step_yoshino_03",
+              "type": "choice",
+              "content": "时间到",
+              "prefix": "★RTC",
+              "group": "共通01"
+            },
+            {
+              "id": "step_yoshino_04",
+              "type": "choice",
+              "content": "山吹 芳乃",
+              "prefix": "■",
+              "group": "共通02"
+            },
+            {
+              "id": "step_yoshino_05",
+              "type": "choice",
+              "content": "山吹 芳乃",
+              "prefix": "■",
+              "group": "共通03"
+            },
+            {
+              "id": "step_yoshino_06",
+              "type": "choice",
+              "content": "山吹 芳乃",
+              "prefix": "■",
+              "group": "共通04"
+            },
+            {
+              "id": "step_yoshino_07",
+              "type": "choice",
+              "content": "时间到",
+              "prefix": "★RTC",
+              "group": "共通04"
+            },
+            {
+              "id": "step_yoshino_08",
+              "type": "save",
+              "content": "SAVE 2",
+              "group": "共通05"
+            },
+            {
+              "id": "step_yoshino_09",
+              "type": "choice",
+              "content": "再考虑一次",
+              "group": "共通05"
+            },
+            {
+              "id": "step_yoshino_10",
+              "type": "choice",
+              "content": "我很在意“山吹”的事",
+              "group": "共通05"
+            },
+            {
+              "id": "step_yoshino_11",
+              "type": "choice",
+              "content": "回应告白",
+              "group": "共通05"
+            }
+          ]
+        },
+        {
+          "id": "ending_normal_end",
+          "name": "Normal END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_normal_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_normal_02",
+              "type": "choice",
+              "content": "谁都不告白"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

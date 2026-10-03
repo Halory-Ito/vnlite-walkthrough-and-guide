@@ -1,0 +1,812 @@
+{
+  "vid": "v37172",
+  "name": {
+    "zh-cn": "牺牲恶棍",
+    "ja-jp": "SACRIFICE VILLAINS",
+    "ja-Latn": "sacrifice-villains"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-14",
+  "tips": [
+    "在改新治疗角色选择界面，必须按照顺序选择三个角色。游戏似乎是根据每次改新治疗是第一个选最的角色其累计次数来决定进入相应的END",
+    "由于在改新治疗角色选择界面无法调出SAVE界面，因此建议提前做好存档准备。虽然可以使用回到前一个选项，但是SAVE4和SAVE6无法通过该方式回溯所以必须做好存档",
+    "满足条件后会出现标记★的选项肢，不出现的时候无视即可。三位角色的END1都通关后★1选项会出现，三位角色的END2通过后★2的选项会出现"
+  ],
+  "routes": [
+    {
+      "id": "route_game",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_yedianxia_end1",
+          "name": "夜电侠 END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_yedianxia_end1_01",
+              "type": "choice",
+              "content": "夜电侠1"
+            },
+            {
+              "id": "step_yedianxia_end1_02",
+              "type": "choice",
+              "content": "污液女2"
+            },
+            {
+              "id": "step_yedianxia_end1_03",
+              "type": "choice",
+              "content": "毒夫人3"
+            },
+            {
+              "id": "step_yedianxia_end1_04",
+              "type": "choice",
+              "content": "污液女1"
+            },
+            {
+              "id": "step_yedianxia_end1_05",
+              "type": "choice",
+              "content": "毒夫人2"
+            },
+            {
+              "id": "step_yedianxia_end1_06",
+              "type": "choice",
+              "content": "夜电侠3"
+            },
+            {
+              "id": "step_yedianxia_end1_07",
+              "type": "choice",
+              "content": "毒夫人1"
+            },
+            {
+              "id": "step_yedianxia_end1_08",
+              "type": "choice",
+              "content": "夜电侠2"
+            },
+            {
+              "id": "step_yedianxia_end1_09",
+              "type": "choice",
+              "content": "污液女3"
+            },
+            {
+              "id": "step_yedianxia_end1_10",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_yedianxia_end1_11",
+              "type": "choice",
+              "content": "准备进行下一场改新"
+            },
+            {
+              "id": "step_yedianxia_end1_12",
+              "type": "choice",
+              "content": "夜电侠1"
+            },
+            {
+              "id": "step_yedianxia_end1_13",
+              "type": "choice",
+              "content": "污液女2"
+            },
+            {
+              "id": "step_yedianxia_end1_14",
+              "type": "choice",
+              "content": "毒夫人3"
+            },
+            {
+              "id": "step_yedianxia_end1_15",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_yedianxia_end1_16",
+              "type": "choice",
+              "content": "污液女1"
+            },
+            {
+              "id": "step_yedianxia_end1_17",
+              "type": "choice",
+              "content": "毒夫人2"
+            },
+            {
+              "id": "step_yedianxia_end1_18",
+              "type": "choice",
+              "content": "夜电侠3"
+            },
+            {
+              "id": "step_yedianxia_end1_19",
+              "type": "choice",
+              "content": "取消视察，优先处理事务"
+            },
+            {
+              "id": "step_yedianxia_end1_20",
+              "type": "choice",
+              "content": "毒夫人1"
+            },
+            {
+              "id": "step_yedianxia_end1_21",
+              "type": "choice",
+              "content": "夜电侠2"
+            },
+            {
+              "id": "step_yedianxia_end1_22",
+              "type": "choice",
+              "content": "污液女3"
+            },
+            {
+              "id": "step_yedianxia_end1_23",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_yedianxia_end1_24",
+              "type": "choice",
+              "content": "夜电侠1"
+            },
+            {
+              "id": "step_yedianxia_end1_25",
+              "type": "choice",
+              "content": "污液女2"
+            },
+            {
+              "id": "step_yedianxia_end1_26",
+              "type": "choice",
+              "content": "毒夫人3"
+            },
+            {
+              "id": "step_yedianxia_end1_27",
+              "type": "choice",
+              "content": "观看褉和濡股之间的战斗"
+            },
+            {
+              "id": "step_yedianxia_end1_28",
+              "type": "choice",
+              "content": "夜电侠1"
+            },
+            {
+              "id": "step_yedianxia_end1_29",
+              "type": "choice",
+              "content": "污液女2"
+            },
+            {
+              "id": "step_yedianxia_end1_30",
+              "type": "choice",
+              "content": "毒夫人3"
+            },
+            {
+              "id": "step_yedianxia_end1_31",
+              "type": "choice",
+              "content": "夜电侠1"
+            },
+            {
+              "id": "step_yedianxia_end1_32",
+              "type": "choice",
+              "content": "污液女2"
+            },
+            {
+              "id": "step_yedianxia_end1_33",
+              "type": "choice",
+              "content": "毒夫人3"
+            },
+            {
+              "id": "step_yedianxia_end1_35",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_yedianxia_end1_36",
+              "type": "choice",
+              "content": "1向娜塔莎搭话",
+              "prefix": "★"
+            }
+          ]
+        },
+        {
+          "id": "ending_wuyenv_end1",
+          "name": "污液女 END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_wuyenv_end1_01",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_wuyenv_end1_02",
+              "type": "choice",
+              "content": "污液女1"
+            },
+            {
+              "id": "step_wuyenv_end1_03",
+              "type": "choice",
+              "content": "毒夫人2"
+            },
+            {
+              "id": "step_wuyenv_end1_04",
+              "type": "choice",
+              "content": "夜电侠3"
+            },
+            {
+              "id": "step_wuyenv_end1_05",
+              "type": "choice",
+              "content": "观看褉和濡股之间的战斗"
+            },
+            {
+              "id": "step_wuyenv_end1_06",
+              "type": "choice",
+              "content": "污液女1"
+            },
+            {
+              "id": "step_wuyenv_end1_07",
+              "type": "choice",
+              "content": "毒夫人2"
+            },
+            {
+              "id": "step_wuyenv_end1_08",
+              "type": "choice",
+              "content": "夜电侠3"
+            },
+            {
+              "id": "step_wuyenv_end1_09",
+              "type": "choice",
+              "content": "污液女1"
+            },
+            {
+              "id": "step_wuyenv_end1_10",
+              "type": "choice",
+              "content": "毒夫人2"
+            },
+            {
+              "id": "step_wuyenv_end1_11",
+              "type": "choice",
+              "content": "夜电侠3"
+            },
+            {
+              "id": "step_wuyenv_end1_13",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_wuyenv_end1_14",
+              "type": "choice",
+              "content": "1向娜塔莎搭话",
+              "prefix": "★"
+            }
+          ]
+        },
+        {
+          "id": "ending_dufuren_end1",
+          "name": "毒夫人 END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_dufuren_end1_01",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_dufuren_end1_02",
+              "type": "choice",
+              "content": "毒夫人1"
+            },
+            {
+              "id": "step_dufuren_end1_03",
+              "type": "choice",
+              "content": "夜电侠2"
+            },
+            {
+              "id": "step_dufuren_end1_04",
+              "type": "choice",
+              "content": "污液女3"
+            },
+            {
+              "id": "step_dufuren_end1_05",
+              "type": "choice",
+              "content": "访问高生殖评价家庭"
+            },
+            {
+              "id": "step_dufuren_end1_06",
+              "type": "choice",
+              "content": "毒夫人1"
+            },
+            {
+              "id": "step_dufuren_end1_07",
+              "type": "choice",
+              "content": "夜电侠2"
+            },
+            {
+              "id": "step_dufuren_end1_08",
+              "type": "choice",
+              "content": "污液女3"
+            },
+            {
+              "id": "step_dufuren_end1_09",
+              "type": "choice",
+              "content": "毒夫人1"
+            },
+            {
+              "id": "step_dufuren_end1_10",
+              "type": "choice",
+              "content": "夜电侠2"
+            },
+            {
+              "id": "step_dufuren_end1_11",
+              "type": "choice",
+              "content": "污液女3"
+            },
+            {
+              "id": "step_dufuren_end1_13",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_dufuren_end1_14",
+              "type": "choice",
+              "content": "1向娜塔莎搭话",
+              "prefix": "★"
+            }
+          ]
+        },
+        {
+          "id": "ending_yedianxia_end2",
+          "name": "夜电侠 END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_yedianxia_end2_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_yedianxia_end2_02",
+              "type": "choice",
+              "content": "夜电侠1"
+            },
+            {
+              "id": "step_yedianxia_end2_03",
+              "type": "choice",
+              "content": "污液女2"
+            },
+            {
+              "id": "step_yedianxia_end2_04",
+              "type": "choice",
+              "content": "毒夫人3"
+            },
+            {
+              "id": "step_yedianxia_end2_05",
+              "type": "choice",
+              "content": "取消视察，优先处理事务"
+            },
+            {
+              "id": "step_yedianxia_end2_06",
+              "type": "choice",
+              "content": "夜电侠1"
+            },
+            {
+              "id": "step_yedianxia_end2_07",
+              "type": "choice",
+              "content": "污液女2"
+            },
+            {
+              "id": "step_yedianxia_end2_08",
+              "type": "choice",
+              "content": "毒夫人3"
+            },
+            {
+              "id": "step_yedianxia_end2_09",
+              "type": "choice",
+              "content": "夜电侠1"
+            },
+            {
+              "id": "step_yedianxia_end2_10",
+              "type": "choice",
+              "content": "污液女2"
+            },
+            {
+              "id": "step_yedianxia_end2_11",
+              "type": "choice",
+              "content": "毒夫人3"
+            },
+            {
+              "id": "step_yedianxia_end2_12",
+              "type": "choice",
+              "content": "观看褉和濡股之间的战斗"
+            },
+            {
+              "id": "step_yedianxia_end2_13",
+              "type": "choice",
+              "content": "夜电侠1"
+            },
+            {
+              "id": "step_yedianxia_end2_14",
+              "type": "choice",
+              "content": "污液女2"
+            },
+            {
+              "id": "step_yedianxia_end2_15",
+              "type": "choice",
+              "content": "毒夫人3"
+            },
+            {
+              "id": "step_yedianxia_end2_16",
+              "type": "choice",
+              "content": "夜电侠1"
+            },
+            {
+              "id": "step_yedianxia_end2_17",
+              "type": "choice",
+              "content": "污液女2"
+            },
+            {
+              "id": "step_yedianxia_end2_18",
+              "type": "choice",
+              "content": "毒夫人3"
+            },
+            {
+              "id": "step_yedianxia_end2_20",
+              "type": "save",
+              "content": "SAVE 6"
+            },
+            {
+              "id": "step_yedianxia_end2_21",
+              "type": "choice",
+              "content": "1向娜塔莎搭话",
+              "prefix": "★"
+            }
+          ]
+        },
+        {
+          "id": "ending_wuyenv_end2",
+          "name": "污液女 END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_wuyenv_end2_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_wuyenv_end2_02",
+              "type": "choice",
+              "content": "处理积压的文件审阅工作"
+            },
+            {
+              "id": "step_wuyenv_end2_03",
+              "type": "choice",
+              "content": "污液女1"
+            },
+            {
+              "id": "step_wuyenv_end2_04",
+              "type": "choice",
+              "content": "毒夫人2"
+            },
+            {
+              "id": "step_wuyenv_end2_05",
+              "type": "choice",
+              "content": "夜电侠3"
+            },
+            {
+              "id": "step_wuyenv_end2_06",
+              "type": "choice",
+              "content": "污液女1"
+            },
+            {
+              "id": "step_wuyenv_end2_07",
+              "type": "choice",
+              "content": "毒夫人2"
+            },
+            {
+              "id": "step_wuyenv_end2_08",
+              "type": "choice",
+              "content": "夜电侠3"
+            },
+            {
+              "id": "step_wuyenv_end2_09",
+              "type": "choice",
+              "content": "延后事务，优先视察"
+            },
+            {
+              "id": "step_wuyenv_end2_10",
+              "type": "choice",
+              "content": "污液女1"
+            },
+            {
+              "id": "step_wuyenv_end2_11",
+              "type": "choice",
+              "content": "毒夫人2"
+            },
+            {
+              "id": "step_wuyenv_end2_12",
+              "type": "choice",
+              "content": "夜电侠3"
+            },
+            {
+              "id": "step_wuyenv_end2_13",
+              "type": "choice",
+              "content": "污液女1"
+            },
+            {
+              "id": "step_wuyenv_end2_14",
+              "type": "choice",
+              "content": "毒夫人2"
+            },
+            {
+              "id": "step_wuyenv_end2_15",
+              "type": "choice",
+              "content": "夜电侠3"
+            },
+            {
+              "id": "step_wuyenv_end2_16",
+              "type": "choice",
+              "content": "访问高生殖评价家庭"
+            },
+            {
+              "id": "step_wuyenv_end2_17",
+              "type": "choice",
+              "content": "污液女1"
+            },
+            {
+              "id": "step_wuyenv_end2_18",
+              "type": "choice",
+              "content": "毒夫人2"
+            },
+            {
+              "id": "step_wuyenv_end2_19",
+              "type": "choice",
+              "content": "夜电侠3"
+            },
+            {
+              "id": "step_wuyenv_end2_20",
+              "type": "choice",
+              "content": "污液女1"
+            },
+            {
+              "id": "step_wuyenv_end2_21",
+              "type": "choice",
+              "content": "毒夫人2"
+            },
+            {
+              "id": "step_wuyenv_end2_22",
+              "type": "choice",
+              "content": "夜电侠3"
+            },
+            {
+              "id": "step_wuyenv_end2_24",
+              "type": "save",
+              "content": "SAVE 6"
+            },
+            {
+              "id": "step_wuyenv_end2_25",
+              "type": "choice",
+              "content": "1向娜塔莎搭话",
+              "prefix": "★"
+            }
+          ]
+        },
+        {
+          "id": "ending_dufuren_end2",
+          "name": "毒夫人 END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_dufuren_end2_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_dufuren_end2_02",
+              "type": "choice",
+              "content": "在下次休息前全心投入工作"
+            },
+            {
+              "id": "step_dufuren_end2_03",
+              "type": "choice",
+              "content": "毒夫人1"
+            },
+            {
+              "id": "step_dufuren_end2_04",
+              "type": "choice",
+              "content": "夜电侠2"
+            },
+            {
+              "id": "step_dufuren_end2_05",
+              "type": "choice",
+              "content": "污液女3"
+            },
+            {
+              "id": "step_dufuren_end2_06",
+              "type": "choice",
+              "content": "毒夫人1"
+            },
+            {
+              "id": "step_dufuren_end2_07",
+              "type": "choice",
+              "content": "夜电侠2"
+            },
+            {
+              "id": "step_dufuren_end2_08",
+              "type": "choice",
+              "content": "污液女3"
+            },
+            {
+              "id": "step_dufuren_end2_09",
+              "type": "choice",
+              "content": "延后事务，优先视察"
+            },
+            {
+              "id": "step_dufuren_end2_10",
+              "type": "choice",
+              "content": "毒夫人1"
+            },
+            {
+              "id": "step_dufuren_end2_11",
+              "type": "choice",
+              "content": "夜电侠2"
+            },
+            {
+              "id": "step_dufuren_end2_12",
+              "type": "choice",
+              "content": "污液女3"
+            },
+            {
+              "id": "step_dufuren_end2_13",
+              "type": "choice",
+              "content": "毒夫人1"
+            },
+            {
+              "id": "step_dufuren_end2_14",
+              "type": "choice",
+              "content": "夜电侠2"
+            },
+            {
+              "id": "step_dufuren_end2_15",
+              "type": "choice",
+              "content": "污液女3"
+            },
+            {
+              "id": "step_dufuren_end2_16",
+              "type": "choice",
+              "content": "访问高生殖评价家庭"
+            },
+            {
+              "id": "step_dufuren_end2_17",
+              "type": "choice",
+              "content": "毒夫人1"
+            },
+            {
+              "id": "step_dufuren_end2_18",
+              "type": "choice",
+              "content": "夜电侠2"
+            },
+            {
+              "id": "step_dufuren_end2_19",
+              "type": "choice",
+              "content": "污液女3"
+            },
+            {
+              "id": "step_dufuren_end2_20",
+              "type": "choice",
+              "content": "毒夫人1"
+            },
+            {
+              "id": "step_dufuren_end2_21",
+              "type": "choice",
+              "content": "夜电侠2"
+            },
+            {
+              "id": "step_dufuren_end2_22",
+              "type": "choice",
+              "content": "污液女3"
+            },
+            {
+              "id": "step_dufuren_end2_24",
+              "type": "save",
+              "content": "SAVE 6"
+            },
+            {
+              "id": "step_dufuren_end2_25",
+              "type": "choice",
+              "content": "1向娜塔莎搭话",
+              "prefix": "★"
+            }
+          ]
+        },
+        {
+          "id": "ending_main_end1",
+          "name": "MAIN END 1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_main1_01",
+              "type": "note",
+              "content": "三位角色的END1均完成之后"
+            },
+            {
+              "id": "step_main1_02",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_main1_03",
+              "type": "choice",
+              "content": "1催促她们排泄",
+              "prefix": "★"
+            },
+            {
+              "id": "step_main1_04",
+              "type": "save",
+              "content": "SAVE 5"
+            },
+            {
+              "id": "step_main1_05",
+              "type": "choice",
+              "content": "否定"
+            }
+          ]
+        },
+        {
+          "id": "ending_main_end2",
+          "name": "MAIN END 2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_main2_01",
+              "type": "load",
+              "content": "LOAD 5"
+            },
+            {
+              "id": "step_main2_02",
+              "type": "choice",
+              "content": "不否定"
+            }
+          ]
+        },
+        {
+          "id": "ending_main_end3",
+          "name": "MAIN END 3",
+          "type": "normal",
+          "requirements": "三位角色的END2均完成之后",
+          "steps": [
+            {
+              "id": "step_main3_02",
+              "type": "note",
+              "content": "读取SAVE6，利用文本跳跃功能往前跳几句对话，然后就会出现新选项"
+            },
+            {
+              "id": "step_main3_03",
+              "type": "choice",
+              "content": "2继续默默观察",
+              "prefix": "★"
+            },
+            {
+              "id": "step_main3_04",
+              "type": "save",
+              "content": "SAVE 7"
+            },
+            {
+              "id": "step_main3_05",
+              "type": "choice",
+              "content": "毁掉正义之心"
+            }
+          ]
+        },
+        {
+          "id": "ending_main_end4",
+          "name": "MAIN END 4",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_main4_01",
+              "type": "load",
+              "content": "LOAD 7"
+            },
+            {
+              "id": "step_main4_02",
+              "type": "choice",
+              "content": "放弃，寻找其他方法"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

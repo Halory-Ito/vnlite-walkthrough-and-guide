@@ -1,0 +1,55 @@
+{
+  "vid": "v52778",
+  "name": {
+    "zh-cn": "KANADE",
+    "en-us": "KANADE",
+    "ja-jp": "KANADE",
+    "ja-Latn": "kanade"
+  },
+  "level": 1,
+  "updatedAt": "2026-02-27",
+  "routes": [
+    {
+      "id": "route_1755271227915",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1755271229412",
+          "name": "END 1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755271251174",
+              "type": "choice",
+              "content": "我们去奏家吧"
+            }
+          ]
+        },
+        {
+          "id": "ending_1755271298235",
+          "name": "END 2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755271309449",
+              "type": "choice",
+              "content": "之前的视频..."
+            }
+          ]
+        },
+        {
+          "id": "ending_1755271332524",
+          "name": "END 3",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755271352205",
+              "type": "note",
+              "content": "END2之后 返回标题页面PREQUEL开始"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

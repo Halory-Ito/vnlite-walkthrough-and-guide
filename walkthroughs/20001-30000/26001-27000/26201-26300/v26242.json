@@ -1,0 +1,69 @@
+{
+  "vid": "v26242",
+  "name": {
+    "zh-cn": "白刃闪耀的恋之旋律",
+    "ja-jp": "白刃きらめく恋しらべ",
+    "ja-Latn": "shiraha-kirameku-koi-shirabe"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-15",
+  "routes": [
+    {
+      "id": "route_game_guide",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_matsurika",
+          "name": "風嶺 茉莉花 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_matsurika_01",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_matsurika_03",
+              "type": "choice",
+              "content": "風嶺 茉莉花"
+            }
+          ]
+        },
+        {
+          "id": "ending_hime",
+          "name": "月橘 姫芽 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_hime_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_hime_03",
+              "type": "choice",
+              "content": "月橘 姫芽"
+            }
+          ]
+        },
+        {
+          "id": "ending_ruri",
+          "name": "東雲 瑠璃 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_ruri_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_ruri_03",
+              "type": "choice",
+              "content": "東雲 瑠璃"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

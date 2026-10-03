@@ -1,0 +1,500 @@
+{
+  "vid": "v4806",
+  "name": {
+    "zh-cn": "NOBLE☆WORKS",
+    "ja-jp": "のーぶる☆わーくす",
+    "ja-Latn": "noble-works"
+  },
+  "level": 2,
+  "updatedAt": "2026-02-27",
+  "tips": [
+    "本作有线路覆盖，优先级顺序:灯里、静流、麻夜>萤",
+    "本作中rl选项不影响进线"
+  ],
+  "routes": [
+    {
+      "id": "route_1755165435288",
+      "name": "兼元 灯里",
+      "endings": [
+        {
+          "id": "ending_1755165441330",
+          "name": "灯里 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755165444811",
+              "type": "choice",
+              "content": "同意这份兼职"
+            },
+            {
+              "id": "step_1755165447005",
+              "type": "choice",
+              "content": "我觉得很可爱。"
+            },
+            {
+              "id": "step_1755165450106",
+              "type": "choice",
+              "content": "去一个没有人的地方休息"
+            },
+            {
+              "id": "step_1755165450251",
+              "type": "choice",
+              "content": "校舍中寻找",
+              "prefix": "◆"
+            },
+            {
+              "id": "step_1755165480035",
+              "type": "choice",
+              "content": "那个，可以的话……"
+            },
+            {
+              "id": "step_1755165480244",
+              "type": "choice",
+              "content": "清扫"
+            },
+            {
+              "id": "step_1755165488103",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1755165490144",
+              "type": "choice",
+              "content": "昨天的复仇"
+            },
+            {
+              "id": "step_1755166589302",
+              "type": "choice",
+              "content": "教她"
+            },
+            {
+              "id": "step_1755166589438",
+              "type": "choice",
+              "content": "忍耐"
+            },
+            {
+              "id": "step_1755166589572",
+              "type": "choice",
+              "content": "去咖啡厅"
+            },
+            {
+              "id": "step_1755166589728",
+              "type": "choice",
+              "content": "看着她"
+            },
+            {
+              "id": "step_1755166589910",
+              "type": "choice",
+              "content": "去问问详情"
+            },
+            {
+              "id": "step_1755166590055",
+              "type": "choice",
+              "content": "虽然很遗憾还是拒绝吧"
+            },
+            {
+              "id": "step_1755166590217",
+              "type": "choice",
+              "content": "美乳"
+            },
+            {
+              "id": "step_1755166590357",
+              "type": "choice",
+              "content": "电流"
+            },
+            {
+              "id": "step_1755166590484",
+              "type": "choice",
+              "content": "考试很要命啊"
+            },
+            {
+              "id": "step_1755166667728",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1755166668661",
+              "type": "choice",
+              "content": "抱歉，这次就……"
+            },
+            {
+              "id": "step_1755166668902",
+              "type": "choice",
+              "content": "去问大小姐借"
+            },
+            {
+              "id": "step_1755166669059",
+              "type": "choice",
+              "content": "去确认"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755172476146",
+      "name": "月山 濑奈",
+      "endings": [
+        {
+          "id": "ending_1755172480270",
+          "name": "濑奈 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756020669225",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1756020669953",
+              "type": "choice",
+              "content": "复仇什么的……还是算了吧"
+            },
+            {
+              "id": "step_1756020679116",
+              "type": "choice",
+              "content": "介绍其他的人"
+            },
+            {
+              "id": "step_1756020723261",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_1756020679291",
+              "type": "choice",
+              "content": "拜托了"
+            },
+            {
+              "id": "step_1756020679449",
+              "type": "choice",
+              "content": "给个提示"
+            },
+            {
+              "id": "step_1756020712823",
+              "type": "choice",
+              "content": "不去在意回家"
+            },
+            {
+              "id": "step_1756021035147",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_1756020735045",
+              "type": "choice",
+              "content": "虽然很遗憾还是拒绝吧"
+            },
+            {
+              "id": "step_1756020742134",
+              "type": "choice",
+              "content": "巨乳"
+            },
+            {
+              "id": "step_1756020753096",
+              "type": "choice",
+              "content": "药物"
+            },
+            {
+              "id": "step_1756020753259",
+              "type": "choice",
+              "content": "考试很要命啊"
+            },
+            {
+              "id": "step_1756020753407",
+              "type": "choice",
+              "content": "抱歉，这次就……"
+            },
+            {
+              "id": "step_1756020762376",
+              "type": "choice",
+              "content": "去问月山小姐借"
+            },
+            {
+              "id": "step_1756020762943",
+              "type": "choice",
+              "content": "去确认"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756020834895",
+      "name": "正宗 静流",
+      "endings": [
+        {
+          "id": "ending_1756020841258",
+          "name": "静流 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756020888988",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_1756020892525",
+              "type": "choice",
+              "content": "一起去买东西"
+            },
+            {
+              "id": "step_1756020892717",
+              "type": "choice",
+              "content": "Party很要命啊"
+            },
+            {
+              "id": "step_1756020892851",
+              "type": "choice",
+              "content": "一起学习"
+            },
+            {
+              "id": "step_1756020903909",
+              "type": "choice",
+              "content": "没事的吧"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756020912740",
+      "name": "国广 日向",
+      "endings": [
+        {
+          "id": "ending_1756020916809",
+          "name": "日向 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756020955441",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1756020959969",
+              "type": "choice",
+              "content": "一起学习"
+            },
+            {
+              "id": "step_1756020960125",
+              "type": "choice",
+              "content": "没事的吧"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756020971844",
+      "name": "长光 麻夜",
+      "endings": [
+        {
+          "id": "ending_1756020977701",
+          "name": "麻夜 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756021079212",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1756021084999",
+              "type": "choice",
+              "content": "忍耐"
+            },
+            {
+              "id": "step_1756021085375",
+              "type": "choice",
+              "content": "看着她"
+            },
+            {
+              "id": "step_1756021085519",
+              "type": "choice",
+              "content": "和麻夜一起回去"
+            },
+            {
+              "id": "step_1756021085677",
+              "type": "choice",
+              "content": "虽然很遗憾还是拒绝吧"
+            },
+            {
+              "id": "step_1756021085837",
+              "type": "choice",
+              "content": "贫乳"
+            },
+            {
+              "id": "step_1756021122494",
+              "type": "choice",
+              "content": "冲击"
+            },
+            {
+              "id": "step_1756021122781",
+              "type": "choice",
+              "content": "考试很要命啊"
+            },
+            {
+              "id": "step_1756021128584",
+              "type": "choice",
+              "content": "一起学习"
+            },
+            {
+              "id": "step_1756021128941",
+              "type": "choice",
+              "content": "没事的吧"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756021276493",
+      "name": "安纲 萤",
+      "endings": [
+        {
+          "id": "ending_1756021400302",
+          "name": "萤 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756021414367",
+              "type": "choice",
+              "content": "同意这份兼职"
+            },
+            {
+              "id": "step_1756021414562",
+              "type": "choice",
+              "content": "我觉得很可爱"
+            },
+            {
+              "id": "step_1756021414797",
+              "type": "choice",
+              "content": "去一个没有人的地方休息下"
+            },
+            {
+              "id": "step_1756021414967",
+              "type": "choice",
+              "content": "校舍外闲逛"
+            },
+            {
+              "id": "step_1756021415462",
+              "type": "choice",
+              "content": "那个，可以的话……"
+            },
+            {
+              "id": "step_1756021415663",
+              "type": "choice",
+              "content": "洗衣服"
+            },
+            {
+              "id": "step_1756021415863",
+              "type": "choice",
+              "content": "复仇什么的……还是算了吧"
+            },
+            {
+              "id": "step_1756021460089",
+              "type": "choice",
+              "content": "问问老师吧"
+            },
+            {
+              "id": "step_1756021460209",
+              "type": "choice",
+              "content": "介绍其他的人"
+            },
+            {
+              "id": "step_1756021460449",
+              "type": "choice",
+              "content": "去吃饭吧"
+            },
+            {
+              "id": "step_1756021460617",
+              "type": "choice",
+              "content": "忍耐"
+            },
+            {
+              "id": "step_1756021476358",
+              "type": "choice",
+              "content": "看着她"
+            },
+            {
+              "id": "step_1756021476491",
+              "type": "choice",
+              "content": "不去在意回家"
+            },
+            {
+              "id": "step_1756021476591",
+              "type": "choice",
+              "content": "一起去买东西"
+            },
+            {
+              "id": "step_1756021476720",
+              "type": "choice",
+              "content": "Party很要命啊"
+            },
+            {
+              "id": "step_1756021476851",
+              "type": "choice",
+              "content": "一起学习"
+            },
+            {
+              "id": "step_1756021477035",
+              "type": "choice",
+              "content": "赶紧回去"
+            },
+            {
+              "id": "step_1756021492978",
+              "type": "choice",
+              "content": "没事的吧"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756021581485",
+      "name": "单身线",
+      "endings": [
+        {
+          "id": "ending_1756021602105",
+          "name": "END 1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756021607499",
+              "type": "choice",
+              "content": "拒绝这份兼职"
+            }
+          ]
+        },
+        {
+          "id": "ending_1756021622337",
+          "name": "END 2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756021629241",
+              "type": "choice",
+              "content": "同意这份兼职"
+            },
+            {
+              "id": "step_1756021629377",
+              "type": "choice",
+              "content": "我觉得很可爱"
+            },
+            {
+              "id": "step_1756021629505",
+              "type": "choice",
+              "content": "去一个没有人的地方休息下"
+            },
+            {
+              "id": "step_1756021629628",
+              "type": "choice",
+              "content": "今天真是十分感谢"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

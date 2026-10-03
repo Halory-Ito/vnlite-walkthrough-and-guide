@@ -1,0 +1,178 @@
+{
+  "vid": "v21495",
+  "name": {
+    "zh-cn": "伊人天使妹侧畔",
+    "en-us": "My Little Sister Is an Angel",
+    "ja-jp": "彼女は天使で妹で",
+    "ja-Latn": "kanojo-wa-tenshi-de-imouto-de"
+  },
+  "level": 2,
+  "updatedAt": "2026-03-03",
+  "tips": [
+    "开始攻略前，请先下载并安装游戏的修正补丁"
+  ],
+  "routes": [
+    {
+      "id": "route_1770880017566",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1770880023124",
+          "name": "高桥 未亚 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1770880178365",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1770880197245",
+              "type": "choice",
+              "content": "和天使一起行动"
+            },
+            {
+              "id": "step_1770880199198",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1770880200565",
+              "type": "choice",
+              "content": "想这样就好"
+            }
+          ]
+        },
+        {
+          "id": "ending_1770880023271",
+          "name": "フラグ END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1770880373828",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1770880375840",
+              "type": "choice",
+              "content": "就保持沉默"
+            }
+          ]
+        },
+        {
+          "id": "ending_1770880438518",
+          "name": "相羽 一海 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1770880636653",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1770880640412",
+              "type": "choice",
+              "content": "和死神一起行动"
+            },
+            {
+              "id": "step_1770880646910",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_1770880651646",
+              "type": "choice",
+              "content": "杀死"
+            }
+          ]
+        },
+        {
+          "id": "ending_1770880665744",
+          "name": "フラグ END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1770880740060",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1770880743555",
+              "type": "choice",
+              "content": "不杀"
+            }
+          ]
+        },
+        {
+          "id": "ending_1770880759070",
+          "name": "源 恵理那 END",
+          "type": "normal",
+          "requirements": "※フラグEND1、2以及未亚&一海END后",
+          "steps": [
+            {
+              "id": "step_1770881010236",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1770881014021",
+              "type": "choice",
+              "content": "就作为人类而活"
+            },
+            {
+              "id": "step_1770881016492",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_1770881022276",
+              "type": "choice",
+              "content": "恵理那是我的另一半"
+            }
+          ]
+        },
+        {
+          "id": "ending_1770881031108",
+          "name": "フラグ END3",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1770881034828",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_1770881038372",
+              "type": "choice",
+              "content": "现在还不能给出答复"
+            }
+          ]
+        },
+        {
+          "id": "ending_1770881057749",
+          "name": "仁科 十花 END",
+          "type": "normal",
+          "requirements": "※フラグEND3和恵理那END后",
+          "steps": [
+            {
+              "id": "step_1770881083365",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1770881084959",
+              "type": "choice",
+              "content": "就如同往常一样陪伴着十花"
+            },
+            {
+              "id": "step_1770881085358",
+              "type": "choice",
+              "content": "最可爱的是神无月凉(最美丽的也是神无月凉/我毕业了要和凉一起去荷兰)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "vid": "v27653",
+  "name": {
+    "zh-cn": "pieces/揺り籠のカナリア",
+    "ja-jp": "pieces/揺り籠のカナリア",
+    "ja-Latn": "pieces-yurikago-no-canaria"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-15",
+  "routes": [
+    {
+      "id": "route_game_guide",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_yuai",
+          "name": "结爱 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_yuai_01",
+              "type": "note",
+              "content": "结爱",
+              "prefix": "■"
+            }
+          ]
+        },
+        {
+          "id": "ending_true",
+          "name": "TRUE END",
+          "type": "true",
+          "requirements": "结爱END后从标题画面选择【Omnium】进入",
+          "steps": [
+            {
+              "type": "choice",
+              "content": "（源站步骤均为空）"
+            }
+          ]
+        },
+        {
+          "id": "ending_tsumugi",
+          "name": "紬 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_tsumugi_01",
+              "type": "note",
+              "content": "紬",
+              "prefix": "■"
+            }
+          ]
+        },
+        {
+          "id": "ending_miori",
+          "name": "深织 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_miori_01",
+              "type": "note",
+              "content": "深织",
+              "prefix": "■"
+            }
+          ]
+        },
+        {
+          "id": "ending_arisu",
+          "name": "有栖 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_arisu_01",
+              "type": "note",
+              "content": "有栖",
+              "prefix": "■"
+            }
+          ]
+        },
+        {
+          "id": "ending_kimika",
+          "name": "贵美香 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_kimika_01",
+              "type": "note",
+              "content": "贵美香",
+              "prefix": "■"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "vid": "v19829",
+  "name": {
+    "zh-cn": "9-nine-九次九日九重色",
+    "en-us": "9-nine-:Episode 1",
+    "ja-jp": "9-nine-ここのつここのかここのいろ",
+    "ja-Latn": "9-nine-1"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-15",
+  "tips": [
+    "1周目没有选项，会强制进入BADEND"
+  ],
+  "routes": [
+    {
+      "id": "route_game",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_bad",
+          "name": "都 END1",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_bad_2",
+              "type": "choice",
+              "content": "不要多管闲事。"
+            },
+            {
+              "id": "step_bad_3",
+              "type": "choice",
+              "content": "还是送她比较好吧？"
+            },
+            {
+              "id": "step_bad_4",
+              "type": "choice",
+              "content": "赶紧趴在地上。"
+            },
+            {
+              "id": "step_bad_5",
+              "type": "choice",
+              "content": "任凭于她。"
+            }
+          ]
+        },
+        {
+          "id": "ending_miyako",
+          "name": "都 END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_miyako_2",
+              "type": "choice",
+              "content": "去帮她。"
+            },
+            {
+              "id": "step_miyako_3",
+              "type": "choice",
+              "content": "那在校门集合吧。"
+            },
+            {
+              "id": "step_miyako_4",
+              "type": "choice",
+              "content": "保护九条。"
+            },
+            {
+              "id": "step_miyako_5",
+              "type": "choice",
+              "content": "将她的手甩开。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "vid": "v29246",
+  "name": {
+    "zh-cn": "我家大小姐不懂妖怪的常识",
+    "ja-jp": "うちの主は妖怪の常識を知らない",
+    "ja-Latn": "uchi-no-aruji-wa-youkai-no-joushiki-o-shiranai"
+  },
+  "level": 2,
+  "updatedAt": "2026-02-27",
+  "routes": [
+    {
+      "id": "route_1755956088792",
+      "name": "水无月 爱露",
+      "endings": [
+        {
+          "id": "ending_1755956097680",
+          "name": "爱露 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755956129541",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1755956132926",
+              "type": "choice",
+              "content": "想着爱露"
+            },
+            {
+              "id": "step_1755956133077",
+              "type": "choice",
+              "content": "就由我一人保护爱露吧"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755956311860",
+      "name": "丹羽 风薰",
+      "endings": [
+        {
+          "id": "ending_1755956358967",
+          "name": "风薰 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755956439237",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1755956443774",
+              "type": "choice",
+              "content": "看向风薰"
+            },
+            {
+              "id": "step_1755956443942",
+              "type": "choice",
+              "content": "就交给更有能力的人吧"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

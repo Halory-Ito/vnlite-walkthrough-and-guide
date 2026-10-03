@@ -1,0 +1,442 @@
+{
+  "vid": "v16563",
+  "name": {
+    "zh-cn": "根雪的幻影-白花庄的人们",
+    "ja-jp": "根雪の幻影 -白花荘の人々-",
+    "ja-Latn": "neyuki-no-genei-shirahanasou-no-hitobito"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-12",
+  "routes": [
+    {
+      "id": "route_1756193246453",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1756193485989",
+          "name": "END 1",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_1756193807336",
+              "type": "choice",
+              "content": "专注于与华穗聊天",
+              "group": "3月7日"
+            },
+            {
+              "id": "step_1756193807545",
+              "type": "choice",
+              "content": "我想可能会聊一些平常说的话",
+              "group": "3月7日"
+            },
+            {
+              "id": "step_1756193807778",
+              "type": "choice",
+              "content": "让我看看胸部（彩蛋CG）",
+              "group": "3月7日"
+            },
+            {
+              "id": "step_1756193807937",
+              "type": "choice",
+              "content": "用川柳表达想要的心情",
+              "group": "3月7日"
+            },
+            {
+              "id": "step_1756193808117",
+              "type": "choice",
+              "content": "我希望你能把你的喜欢之情说出来",
+              "group": "3月7日"
+            },
+            {
+              "id": "step_1756193831076",
+              "type": "save",
+              "content": "SAVE 1",
+              "group": "3月7日"
+            },
+            {
+              "id": "step_1756193831226",
+              "type": "choice",
+              "content": "去情侣酒店",
+              "group": "3月7日"
+            },
+            {
+              "id": "step_1756193945977",
+              "type": "note",
+              "content": "在这之后做了个爽"
+            }
+          ]
+        },
+        {
+          "id": "ending_1756193956029",
+          "name": "END 谜之白昼梦",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756193960537",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1756193965565",
+              "type": "choice",
+              "content": "差不多该认真开车了"
+            },
+            {
+              "id": "step_1756193965716",
+              "type": "choice",
+              "content": "问能不能称呼为藤子小姐（无关选项，选哪个都可以，往下同理）"
+            },
+            {
+              "id": "step_1756193965872",
+              "type": "choice",
+              "content": "和华穗搭话（无关选项）"
+            },
+            {
+              "id": "step_1756193966037",
+              "type": "choice",
+              "content": "就这样亲密下去"
+            },
+            {
+              "id": "step_1756193988419",
+              "type": "choice",
+              "content": "揉揉华穗的胸部（解锁CG，其他四个为无关选项）"
+            },
+            {
+              "id": "step_1756193988572",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1756193988717",
+              "type": "choice",
+              "content": "为了加深友谊，一起吃饭"
+            },
+            {
+              "id": "step_1756193988881",
+              "type": "choice",
+              "content": "自己提供话题"
+            },
+            {
+              "id": "step_1756194012643",
+              "type": "choice",
+              "content": "偶然地、勺子掉到了桌子下（解锁胖次CG）"
+            },
+            {
+              "id": "step_1756194016931",
+              "type": "choice",
+              "content": "试着追求草叶"
+            },
+            {
+              "id": "step_1756194017231",
+              "type": "choice",
+              "content": "无论如何都想追求草叶"
+            },
+            {
+              "id": "step_1756194021350",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_1756194032590",
+              "type": "choice",
+              "content": "气氛变得很好，想和华穗做爱（解锁H）"
+            }
+          ]
+        },
+        {
+          "id": "ending_1756194081168",
+          "name": "END 名为抚子的少女",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756194082901",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1756194086478",
+              "type": "choice",
+              "content": "在做爱之前，想继续谈谈抚子的事情"
+            },
+            {
+              "id": "step_1756194086623",
+              "type": "choice",
+              "content": "调查一下抚子的事情"
+            },
+            {
+              "id": "step_1756194086772",
+              "type": "choice",
+              "content": "去大厅"
+            },
+            {
+              "id": "step_1756194086929",
+              "type": "choice",
+              "content": "和老头说话"
+            },
+            {
+              "id": "step_1756194101214",
+              "type": "choice",
+              "content": "去谈话室找桔梗"
+            },
+            {
+              "id": "step_1756194101356",
+              "type": "choice",
+              "content": "去浴室找藤子"
+            },
+            {
+              "id": "step_1756194101494",
+              "type": "choice",
+              "content": "敢于坚持下去"
+            },
+            {
+              "id": "step_1756194101629",
+              "type": "choice",
+              "content": "知道是毒还是要吃下去",
+              "subfix": "解锁第二天"
+            }
+          ]
+        },
+        {
+          "id": "ending_1756194142959",
+          "name": "END 与虚幻少女的约定",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756194147714",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1756194151915",
+              "type": "choice",
+              "content": "为了加深友谊，一起洗澡"
+            },
+            {
+              "id": "step_1756194152076",
+              "type": "choice",
+              "content": "老老实实地保持沉默"
+            },
+            {
+              "id": "step_1756194152225",
+              "type": "choice",
+              "content": "气氛变得很好，所以要做爱"
+            },
+            {
+              "id": "step_1756194152324",
+              "type": "choice",
+              "content": "去其他地方"
+            },
+            {
+              "id": "step_1756194152469",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_1756194170864",
+              "type": "choice",
+              "content": "浴室"
+            },
+            {
+              "id": "step_1756194171005",
+              "type": "choice",
+              "content": "做（解锁与藤子H）"
+            },
+            {
+              "id": "step_1756194197110",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_1756194213583",
+              "type": "choice",
+              "content": "谈话室"
+            },
+            {
+              "id": "step_1756194213914",
+              "type": "choice",
+              "content": "继续观察"
+            },
+            {
+              "id": "step_1756194220554",
+              "type": "choice",
+              "content": "第二天"
+            },
+            {
+              "id": "step_1756194220692",
+              "type": "choice",
+              "content": "谈话室"
+            },
+            {
+              "id": "step_1756194220854",
+              "type": "choice",
+              "content": "立刻帮她捡起筷子"
+            },
+            {
+              "id": "step_1756194256125",
+              "type": "save",
+              "content": "SAVE 5"
+            },
+            {
+              "id": "step_1756194262895",
+              "type": "choice",
+              "content": "多管闲事"
+            },
+            {
+              "id": "step_1756194263567",
+              "type": "save",
+              "content": "SAVE 6"
+            },
+            {
+              "id": "step_1756194281137",
+              "type": "choice",
+              "content": "减轻草叶的痛苦"
+            }
+          ]
+        },
+        {
+          "id": "ending_1756194386373",
+          "name": "END 与虚幻少女的约定",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756194391381",
+              "type": "load",
+              "content": "LOAD 6"
+            },
+            {
+              "id": "step_1756194402606",
+              "type": "choice",
+              "content": "带着草叶逃走"
+            }
+          ]
+        },
+        {
+          "id": "ending_1756194426684",
+          "name": "END 2",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_1756194432556",
+              "type": "load",
+              "content": "LOAD 5"
+            },
+            {
+              "id": "step_1756194438429",
+              "type": "choice",
+              "content": "不多管闲事"
+            },
+            {
+              "id": "step_1756194439009",
+              "type": "choice",
+              "content": "真的不多管闲事"
+            },
+            {
+              "id": "step_1756194439381",
+              "type": "choice",
+              "content": "告诉我三围（六个选项全部选完）"
+            },
+            {
+              "id": "step_1756194439556",
+              "type": "choice",
+              "content": "想详细了解一下桔梗为什么会在这里工作"
+            },
+            {
+              "id": "step_1756194458347",
+              "type": "save",
+              "content": "SAVE 7"
+            },
+            {
+              "id": "step_1756194466592",
+              "type": "choice",
+              "content": "拒绝"
+            },
+            {
+              "id": "step_1756194579194",
+              "type": "note",
+              "content": "从火焰中逃生"
+            }
+          ]
+        },
+        {
+          "id": "ending_1756194496469",
+          "name": "END 3",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_1756194499667",
+              "type": "load",
+              "content": "LOAD 7"
+            },
+            {
+              "id": "step_1756194520998",
+              "type": "choice",
+              "content": "接受"
+            },
+            {
+              "id": "step_1756194528713",
+              "type": "save",
+              "content": "SAVE 8"
+            },
+            {
+              "id": "step_1756194539340",
+              "type": "choice",
+              "content": "继续守护着草叶"
+            },
+            {
+              "id": "step_1756194647704",
+              "type": "note",
+              "content": "意外的袭击者"
+            }
+          ]
+        },
+        {
+          "id": "ending_1756194655811",
+          "name": "END 桔梗的相遇",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756194662036",
+              "type": "load",
+              "content": "LOAD 8"
+            },
+            {
+              "id": "step_1756194673985",
+              "type": "choice",
+              "content": "我想知道你是如何了解这个设施背后的真相的"
+            },
+            {
+              "id": "step_1756194674227",
+              "type": "choice",
+              "content": "具体是什么时候知道的"
+            },
+            {
+              "id": "step_1756194674395",
+              "type": "choice",
+              "content": "听故事的续篇"
+            }
+          ]
+        },
+        {
+          "id": "ending_1756194781783",
+          "name": "END 根雪的幻影",
+          "type": "true",
+          "requirements": "标题界面解锁-解决篇",
+          "steps": [
+            {
+              "id": "step_1756194821482",
+              "type": "choice",
+              "content": "抚子的房间",
+              "group": "3月11日"
+            },
+            {
+              "id": "step_1756194833740",
+              "type": "choice",
+              "content": "你是什么时候失去童贞的？（全部选完",
+              "group": "3月11日"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

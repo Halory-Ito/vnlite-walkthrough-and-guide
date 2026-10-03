@@ -1,0 +1,170 @@
+{
+  "vid": "v3992",
+  "name": {
+    "zh-cn": "凉风的物语",
+    "ja-jp": "涼風のメルト -Where wishes are drawn to each other-",
+    "ja-Latn": "suzukaze-no-melt"
+  },
+  "level": 2,
+  "updatedAt": "2026-05-07",
+  "routes": [
+    {
+      "id": "route_game",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_natsuna1",
+          "name": "捺菜 END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_natsuna_01",
+              "type": "choice",
+              "content": "我留下来，捺菜就拜托了"
+            },
+            {
+              "id": "step_natsuna_02",
+              "type": "choice",
+              "content": "送回森林"
+            },
+            {
+              "id": "step_natsuna_03",
+              "type": "choice",
+              "content": "去镇上吃饭"
+            },
+            {
+              "id": "step_natsuna_04",
+              "type": "choice",
+              "content": "今天就算了吧"
+            },
+            {
+              "id": "step_natsuna_05",
+              "type": "choice",
+              "content": "试着演爱情戏？"
+            },
+            {
+              "id": "step_natsuna_06",
+              "type": "choice",
+              "content": "和小羽衣一起去"
+            },
+            {
+              "id": "step_natsuna_07",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_natsuna_08",
+              "type": "choice",
+              "content": "一起买东西"
+            },
+            {
+              "id": "step_natsuna_09",
+              "type": "choice",
+              "content": "寻找捺菜"
+            },
+            {
+              "id": "step_natsuna_10",
+              "type": "choice",
+              "content": "这点小事不算什么"
+            },
+            {
+              "id": "step_natsuna_11",
+              "type": "choice",
+              "content": "做沙城堡吧"
+            }
+          ]
+        },
+        {
+          "id": "ending_tsukine1",
+          "name": "月音 END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_tsukine_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_tsukine_02",
+              "type": "choice",
+              "content": "坚决拒绝"
+            },
+            {
+              "id": "step_tsukine_03",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_tsukine_04",
+              "type": "choice",
+              "content": "寻找月音前辈"
+            },
+            {
+              "id": "step_tsukine_05",
+              "type": "choice",
+              "content": "这点小事不算什么"
+            }
+          ]
+        },
+        {
+          "id": "ending_hagoromo1",
+          "name": "羽衣 END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_hagoromo_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_hagoromo_02",
+              "type": "choice",
+              "content": "寻找小羽衣"
+            },
+            {
+              "id": "step_hagoromo_03",
+              "type": "choice",
+              "content": "去医院"
+            }
+          ]
+        },
+        {
+          "id": "ending_yoshika1",
+          "name": "佳华 END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_yoshika_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_yoshika_02",
+              "type": "choice",
+              "content": "寻找佳华"
+            },
+            {
+              "id": "step_yoshika_03",
+              "type": "choice",
+              "content": "这点小事不算什么"
+            }
+          ]
+        },
+        {
+          "id": "ending_suzu",
+          "name": "涼 END",
+          "type": "normal",
+          "requirements": "看完所有角色的绊语后",
+          "steps": [
+            {
+              "id": "step_suzu_02",
+              "type": "choice",
+              "content": "选择神语开始",
+              "prefix": "■"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

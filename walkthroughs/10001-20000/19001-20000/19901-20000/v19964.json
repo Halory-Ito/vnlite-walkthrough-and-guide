@@ -1,0 +1,409 @@
+{
+  "vid": "v19964",
+  "name": {
+    "zh-cn": "月影魅像-解放之羽-",
+    "ja-jp": "月影のシミュラクル",
+    "ja-Latn": "tsukikage-no-simulacre"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-16",
+  "routes": [
+    {
+      "id": "route_game",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1",
+          "name": "END1（暗夜航路）",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1_01",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1_02",
+              "type": "choice",
+              "content": "没什么变化"
+            },
+            {
+              "id": "step_1_03",
+              "type": "choice",
+              "content": "在床上休息",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1_04",
+              "type": "choice",
+              "content": "……………………",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1_05",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1_06",
+              "type": "choice",
+              "content": "追上去"
+            },
+            {
+              "id": "step_1_07",
+              "type": "choice",
+              "content": "留在这里",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1_08",
+              "type": "choice",
+              "content": "离她远点",
+              "prefix": "★"
+            }
+          ]
+        },
+        {
+          "id": "ending_2",
+          "name": "END2（一个终结）",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_2_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_2_02",
+              "type": "choice",
+              "content": "回房间"
+            }
+          ]
+        },
+        {
+          "id": "ending_3",
+          "name": "END3（丧失）",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_3_01",
+              "type": "note",
+              "content": "END1后",
+              "prefix": "※"
+            },
+            {
+              "id": "step_3_02",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_3_03",
+              "type": "choice",
+              "content": "追上去"
+            },
+            {
+              "id": "step_3_04",
+              "type": "choice",
+              "content": "去镇上"
+            },
+            {
+              "id": "step_3_05",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_3_06",
+              "type": "choice",
+              "content": "留在这里"
+            },
+            {
+              "id": "step_3_07",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_3_08",
+              "type": "choice",
+              "content": "今天不让她回去为好"
+            }
+          ]
+        },
+        {
+          "id": "ending_4",
+          "name": "END4（迷失的家）",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_4_01",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_4_02",
+              "type": "choice",
+              "content": "回如月家"
+            }
+          ]
+        },
+        {
+          "id": "ending_5",
+          "name": "END5（归路）",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_5_01",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_5_02",
+              "type": "choice",
+              "content": "送她走"
+            }
+          ]
+        },
+        {
+          "id": "ending_6",
+          "name": "END6（泡沫的梦）",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_6_01",
+              "type": "note",
+              "content": "END3后",
+              "prefix": "※"
+            },
+            {
+              "id": "step_6_02",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_6_03",
+              "type": "choice",
+              "content": "欧派变大了"
+            },
+            {
+              "id": "step_6_04",
+              "type": "choice",
+              "content": "在床上休息",
+              "prefix": "★"
+            },
+            {
+              "id": "step_6_05",
+              "type": "choice",
+              "content": "……有动静？"
+            },
+            {
+              "id": "step_6_06",
+              "type": "save",
+              "content": "SAVE 5"
+            },
+            {
+              "id": "step_6_07",
+              "type": "choice",
+              "content": "接受一叶的提议"
+            }
+          ]
+        },
+        {
+          "id": "ending_7",
+          "name": "END7（孤独的旋律）",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_7_01",
+              "type": "load",
+              "content": "LOAD 5"
+            },
+            {
+              "id": "step_7_02",
+              "type": "choice",
+              "content": "不能做那种事"
+            }
+          ]
+        },
+        {
+          "id": "ending_8",
+          "name": "END8（浄化）",
+          "type": "normal",
+          "requirements": "完成END6后",
+          "steps": [
+            {
+              "id": "step_8_02",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_8_03",
+              "type": "choice",
+              "content": "追上去"
+            },
+            {
+              "id": "step_8_04",
+              "type": "choice",
+              "content": "留在这里"
+            },
+            {
+              "id": "step_8_05",
+              "type": "choice",
+              "content": "握住零的手"
+            }
+          ]
+        },
+        {
+          "id": "ending_9",
+          "name": "END9（旅途）",
+          "type": "normal",
+          "requirements": "完成END8后",
+          "steps": [
+            {
+              "id": "step_9_02",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_9_03",
+              "type": "choice",
+              "content": "欧派变大了"
+            },
+            {
+              "id": "step_9_04",
+              "type": "save",
+              "content": "SAVE 6"
+            },
+            {
+              "id": "step_9_05",
+              "type": "choice",
+              "content": "在房子里走走"
+            },
+            {
+              "id": "step_9_06",
+              "type": "choice",
+              "content": "推开女性",
+              "prefix": "★"
+            },
+            {
+              "id": "step_9_07",
+              "type": "save",
+              "content": "SAVE 7"
+            },
+            {
+              "id": "step_9_08",
+              "type": "choice",
+              "content": "去零的房间"
+            }
+          ]
+        },
+        {
+          "id": "ending_10",
+          "name": "END10（泪雨）",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_10_01",
+              "type": "load",
+              "content": "LOAD 7"
+            },
+            {
+              "id": "step_10_02",
+              "type": "choice",
+              "content": "留在自己的房间"
+            }
+          ]
+        },
+        {
+          "id": "ending_11",
+          "name": "END11（未来之羽）",
+          "type": "normal",
+          "requirements": "完成END9后",
+          "steps": [
+            {
+              "id": "step_11_02",
+              "type": "load",
+              "content": "LOAD 6"
+            },
+            {
+              "id": "step_11_03",
+              "type": "choice",
+              "content": "在房子里走走"
+            },
+            {
+              "id": "step_11_04",
+              "type": "choice",
+              "content": "搂住女性"
+            },
+            {
+              "id": "step_11_05",
+              "type": "save",
+              "content": "SAVE 8"
+            },
+            {
+              "id": "step_11_06",
+              "type": "choice",
+              "content": "和如月家面谈"
+            },
+            {
+              "id": "step_11_07",
+              "type": "choice",
+              "content": "无法服从如月家",
+              "prefix": "★"
+            }
+          ]
+        },
+        {
+          "id": "ending_12",
+          "name": "END12（阴祭）",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_12_01",
+              "type": "load",
+              "content": "LOAD 8"
+            },
+            {
+              "id": "step_12_02",
+              "type": "choice",
+              "content": "和红一起逃走"
+            }
+          ]
+        },
+        {
+          "id": "ending_13",
+          "name": "END13（解放之羽）",
+          "type": "normal",
+          "requirements": "完成END11后",
+          "steps": [
+            {
+              "id": "step_13_02",
+              "type": "load",
+              "content": "LOAD 8"
+            },
+            {
+              "id": "step_13_03",
+              "type": "choice",
+              "content": "和如月家面谈"
+            },
+            {
+              "id": "step_13_04",
+              "type": "choice",
+              "content": "提出建议"
+            }
+          ]
+        },
+        {
+          "id": "ending_true",
+          "name": "TRUE END",
+          "type": "true",
+          "requirements": "完成END13后，流程图中进入Extra⇒后日谈1",
+          "steps": [
+            {
+              "type": "choice",
+              "content": "（源站步骤均为空）"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

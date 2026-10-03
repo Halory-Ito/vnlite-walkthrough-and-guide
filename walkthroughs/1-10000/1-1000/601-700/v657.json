@@ -1,0 +1,231 @@
+{
+  "vid": "v657",
+  "name": {
+    "zh-cn": "盛开的钢琴之森下",
+    "ja-jp": "ピアノの森の満開の下",
+    "ja-Latn": "piano-no-mori-no-mankai-no-shita"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-16",
+  "tips": [
+    "★选项为二周目选项"
+  ],
+  "routes": [
+    {
+      "id": "route_main",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_sakura_1",
+          "name": "櫻乃 END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_sakura_01",
+              "type": "choice",
+              "content": "黎明之前",
+              "prefix": "★"
+            },
+            {
+              "id": "step_sakura_02",
+              "type": "choice",
+              "content": "出去看看吧",
+              "group": "第一天"
+            },
+            {
+              "id": "step_sakura_03",
+              "type": "choice",
+              "content": "消磨一下时间吧"
+            },
+            {
+              "id": "step_sakura_04",
+              "type": "choice",
+              "content": "尽情地疼爱"
+            },
+            {
+              "id": "step_sakura_05",
+              "type": "choice",
+              "content": "忍着点，去睡吧"
+            },
+            {
+              "id": "step_sakura_06",
+              "type": "choice",
+              "content": "去看看吧",
+              "group": "第二天"
+            },
+            {
+              "id": "step_sakura_07",
+              "type": "choice",
+              "content": "到樱乃身边去"
+            },
+            {
+              "id": "step_sakura_08",
+              "type": "choice",
+              "content": "赶紧喝完和樱乃一起回去吧"
+            },
+            {
+              "id": "step_sakura_09",
+              "type": "choice",
+              "content": "嘛，算了"
+            },
+            {
+              "id": "step_sakura_10",
+              "type": "choice",
+              "content": "说出实情",
+              "group": "第三天"
+            },
+            {
+              "id": "step_sakura_11",
+              "type": "choice",
+              "content": "自己在公馆里找，木花小姐去外面",
+              "group": "第四天"
+            },
+            {
+              "id": "step_sakura_12",
+              "type": "choice",
+              "content": "希望得到木花的安慰",
+              "group": "第六天"
+            }
+          ]
+        },
+        {
+          "id": "ending_kohana",
+          "name": "木花 END",
+          "type": "normal",
+          "requirements": "櫻乃END1后从最初开始，或END时的存储点开始",
+          "steps": [
+            {
+              "id": "step_kohana_02",
+              "type": "choice",
+              "content": "不可思议的车票",
+              "prefix": "★"
+            },
+            {
+              "id": "step_kohana_03",
+              "type": "choice",
+              "content": "她也很累啦，就让她睡吧",
+              "group": "第一天"
+            },
+            {
+              "id": "step_kohana_04",
+              "type": "choice",
+              "content": "总之去探险吧"
+            },
+            {
+              "id": "step_kohana_05",
+              "type": "choice",
+              "content": "老是呆在房间里会生病的啊"
+            },
+            {
+              "id": "step_kohana_06",
+              "type": "choice",
+              "content": "对了对了，丢掉吧"
+            },
+            {
+              "id": "step_kohana_07",
+              "type": "choice",
+              "content": "稍微玩玩吧"
+            },
+            {
+              "id": "step_kohana_08",
+              "type": "choice",
+              "content": "说实话"
+            },
+            {
+              "id": "step_kohana_09",
+              "type": "choice",
+              "content": "那么，在这里一起睡吧"
+            },
+            {
+              "id": "step_kohana_10",
+              "type": "choice",
+              "content": "不去打扰，就这么离开",
+              "group": "第二天"
+            },
+            {
+              "id": "step_kohana_11",
+              "type": "choice",
+              "content": "果然还是算了"
+            },
+            {
+              "id": "step_kohana_12",
+              "type": "choice",
+              "content": "给木花小姐帮忙"
+            },
+            {
+              "id": "step_kohana_13",
+              "type": "choice",
+              "content": "不让她注意，悄悄地……"
+            },
+            {
+              "id": "step_kohana_14",
+              "type": "choice",
+              "content": "赶紧喝完和樱乃一起回去吧"
+            },
+            {
+              "id": "step_kohana_15",
+              "type": "choice",
+              "content": "嘛，算了"
+            },
+            {
+              "id": "step_kohana_16",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_kohana_17",
+              "type": "choice",
+              "content": "自己在公馆里找，木花小姐去外面",
+              "group": "第四天"
+            }
+          ]
+        },
+        {
+          "id": "ending_sakura_2",
+          "name": "櫻乃 END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_sakura2_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_sakura2_02",
+              "type": "choice",
+              "content": "去看看吧",
+              "group": "第二天"
+            },
+            {
+              "id": "step_sakura2_03",
+              "type": "choice",
+              "content": "到樱乃身边去"
+            },
+            {
+              "id": "step_sakura2_04",
+              "type": "choice",
+              "content": "劝她一起喝"
+            },
+            {
+              "id": "step_sakura2_05",
+              "type": "choice",
+              "content": "稍微，威胁一下她吧"
+            },
+            {
+              "id": "step_sakura2_06",
+              "type": "choice",
+              "content": "自己到外面去找，木花小姐留在公馆里",
+              "group": "第四天"
+            },
+            {
+              "id": "step_sakura2_07",
+              "type": "choice",
+              "content": "回应樱乃的思念",
+              "group": "第五天"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

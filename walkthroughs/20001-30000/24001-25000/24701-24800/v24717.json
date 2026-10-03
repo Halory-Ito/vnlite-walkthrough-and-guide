@@ -1,0 +1,226 @@
+{
+  "vid": "v24717",
+  "name": {
+    "zh-cn": "金辉恋曲四重奏 -Golden Time-",
+    "en-us": "Kinkoi: Golden Time",
+    "ja-jp": "金色ラブリッチェ-Golden Time-",
+    "ja-Latn": "kiniro-loveriche-golden-time"
+  },
+  "level": 2,
+  "updatedAt": "2026-03-09",
+  "tips": [
+    "（）标注的选择，请自行选择，回收CG",
+    "结束后，主题画面会追加【APPEND】"
+  ],
+  "routes": [
+    {
+      "id": "route_1772862715973",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1772862725589",
+          "name": "米娜END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1772862917353",
+              "type": "note",
+              "content": "正篇剧本"
+            },
+            {
+              "id": "step_1772862924498",
+              "type": "choice",
+              "content": "【PROLOGUE】※自动启动"
+            },
+            {
+              "id": "step_1772862931415",
+              "type": "choice",
+              "content": "米娜，拜托你了"
+            },
+            {
+              "id": "step_1772862946087",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1772862947085",
+              "type": "choice",
+              "content": "卡米纳"
+            },
+            {
+              "id": "step_1772862947418",
+              "type": "choice",
+              "content": "目不转睛地凝视。"
+            }
+          ]
+        },
+        {
+          "id": "ending_1772862725736",
+          "name": "绚华END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1772862979289",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1772862980279",
+              "type": "choice",
+              "content": "绚华"
+            },
+            {
+              "id": "step_1772862980458",
+              "type": "choice",
+              "content": "性格不好"
+            }
+          ]
+        },
+        {
+          "id": "ending_1772862725922",
+          "name": "玛利亚（理亚）",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_1772863157069",
+              "type": "note",
+              "content": "※最好先完成包括【APPEND】在里面的其他全部剧情"
+            },
+            {
+              "id": "step_1772863158127",
+              "type": "note",
+              "content": "※绚华和END后"
+            },
+            {
+              "id": "step_1772863193041",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1772863197227",
+              "type": "choice",
+              "content": "玛利亚（理亚"
+            }
+          ]
+        },
+        {
+          "id": "ending_1772863221030",
+          "name": "【APPEND】",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1772863254924",
+              "type": "note",
+              "content": "※个别END以及包括【APPEND】在内全END后，EXTRA开放……"
+            },
+            {
+              "id": "step_1772863267985",
+              "type": "note",
+              "content": "【APPEND】"
+            },
+            {
+              "id": "step_1772863272648",
+              "type": "choice",
+              "content": "※绚华和米娜中任意一人攻击结束后"
+            },
+            {
+              "id": "step_1772863278106",
+              "type": "choice",
+              "content": "【APPEND】⇒【希尔维亚】"
+            },
+            {
+              "id": "step_1772864221369",
+              "type": "note",
+              "content": "希尔维亚END"
+            },
+            {
+              "id": "step_1772864227205",
+              "type": "choice",
+              "content": "【APPEND】⇒【色＊狂】"
+            },
+            {
+              "id": "step_1772864231518",
+              "type": "note",
+              "content": "女优END"
+            },
+            {
+              "id": "step_1772864237034",
+              "type": "choice",
+              "content": "【APPEND】⇒【妃玲奈】"
+            },
+            {
+              "id": "step_1772864264187",
+              "type": "note",
+              "content": "玲奈END"
+            },
+            {
+              "id": "step_1772864276170",
+              "type": "choice",
+              "content": "【APPEND】⇒【僧间理亚】"
+            },
+            {
+              "id": "step_1772864277149",
+              "type": "note",
+              "content": "理亚END"
+            },
+            {
+              "id": "step_1772864289056",
+              "type": "choice",
+              "content": "【APPEND】⇒【栗生茜】"
+            },
+            {
+              "id": "step_1772864290603",
+              "type": "note",
+              "content": "茜END"
+            },
+            {
+              "id": "step_1772864306093",
+              "type": "note",
+              "content": "※米娜END后"
+            },
+            {
+              "id": "step_1772864315221",
+              "type": "choice",
+              "content": "【APPEND】⇒【神鸣】"
+            },
+            {
+              "id": "step_1772864321185",
+              "type": "note",
+              "content": "米娜END 2"
+            },
+            {
+              "id": "step_1772864326565",
+              "type": "note",
+              "content": "※绚华END后"
+            },
+            {
+              "id": "step_1772864333462",
+              "type": "choice",
+              "content": "【APPEND】⇒【城崎绚华】"
+            },
+            {
+              "id": "step_1772864358600",
+              "type": "note",
+              "content": "END"
+            },
+            {
+              "id": "step_1772864363358",
+              "type": "choice",
+              "content": "【APPEND】⇒【城崎绚华】"
+            },
+            {
+              "id": "step_1772864369801",
+              "type": "choice",
+              "content": "反抗命运。"
+            },
+            {
+              "id": "step_1772864371791",
+              "type": "note",
+              "content": "绚华END 2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

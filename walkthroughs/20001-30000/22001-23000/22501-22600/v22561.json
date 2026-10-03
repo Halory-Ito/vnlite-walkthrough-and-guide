@@ -1,0 +1,119 @@
+{
+  "vid": "v22561",
+  "name": {
+    "zh-cn": "恋心如花悄绚烂",
+    "ja-jp": "恋はそっと咲く花のように",
+    "ja-Latn": "koi-wa-sotto-saku-hana-no-you-ni"
+  },
+  "level": 2,
+  "updatedAt": "2026-03-03",
+  "tips": [
+    "『ずっと兄様に寄り添っていたい』补丁的追加剧情可在标题画面中选择"
+  ],
+  "routes": [
+    {
+      "id": "route_1762683165375",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1762683171499",
+          "name": "琴石伊织",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762684938141",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1762685049926",
+              "type": "choice",
+              "content": "和伊织谈谈"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762683183564",
+          "name": "早间美里",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762685061049",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1762685062069",
+              "type": "choice",
+              "content": "关心一下美里"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762683183725",
+          "name": "宫音沙希",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762685067785",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1762685069165",
+              "type": "choice",
+              "content": "去摘宫音"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762683183904",
+          "name": "来未早苗",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762685095191",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1762685096907",
+              "type": "choice",
+              "content": "尝试联系来未"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762683213573",
+          "name": "西园寺蓉子",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762685108137",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1762685109758",
+              "type": "choice",
+              "content": "为了碰见蓉子去站前看看"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762683213899",
+          "name": "藤堂永绊",
+          "type": "normal",
+          "requirements": "※需安装『ずっと兄様に寄り添っていたい』",
+          "steps": [
+            {
+              "id": "step_1762685124953",
+              "type": "choice",
+              "content": "标题画面选【NAZUNA】开始"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

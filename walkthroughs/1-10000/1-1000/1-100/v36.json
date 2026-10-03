@@ -1,0 +1,747 @@
+{
+  "vid": "v36",
+  "name": {
+    "zh-cn": "AIR",
+    "en-us": "AIR",
+    "ja-Latn": "air"
+  },
+  "level": 2,
+  "updatedAt": "2026-03-24",
+  "routes": [
+    {
+      "id": "route_1774080383747",
+      "name": "DREAM篇",
+      "endings": [
+        {
+          "id": "ending_1774080493495",
+          "name": "神尾观铃 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1774080523572",
+              "type": "choice",
+              "content": "想别的办法"
+            },
+            {
+              "id": "step_1774080523821",
+              "type": "choice",
+              "content": "跑开"
+            },
+            {
+              "id": "step_1774080524004",
+              "type": "choice",
+              "content": "告诉她"
+            },
+            {
+              "id": "step_1774080524164",
+              "type": "choice",
+              "content": "跑掉"
+            },
+            {
+              "id": "step_1774080524579",
+              "type": "choice",
+              "content": "再把疼痛移到少女身上"
+            },
+            {
+              "id": "step_1774080524735",
+              "type": "choice",
+              "content": "打一个试试"
+            },
+            {
+              "id": "step_1774080525148",
+              "type": "choice",
+              "content": "老老实实地等着"
+            },
+            {
+              "id": "step_1774080525393",
+              "type": "choice",
+              "content": "反抗给她看"
+            },
+            {
+              "id": "step_1774080525527",
+              "type": "choice",
+              "content": "老实地回答"
+            },
+            {
+              "id": "step_1774080528611",
+              "type": "choice",
+              "content": "能喝"
+            },
+            {
+              "id": "step_1774080528902",
+              "type": "choice",
+              "content": "那就拜托了"
+            },
+            {
+              "id": "step_1774080529081",
+              "type": "choice",
+              "content": "再试一次"
+            },
+            {
+              "id": "step_1774080529241",
+              "type": "choice",
+              "content": "回去"
+            },
+            {
+              "id": "step_1774080529533",
+              "type": "choice",
+              "content": "央求"
+            },
+            {
+              "id": "step_1774080529701",
+              "type": "choice",
+              "content": "橱柜"
+            },
+            {
+              "id": "step_1774080530219",
+              "type": "choice",
+              "content": "认真回答"
+            },
+            {
+              "id": "step_1774080530595",
+              "type": "choice",
+              "content": "帮忙"
+            },
+            {
+              "id": "step_1774080530827",
+              "type": "choice",
+              "content": "很漂亮"
+            },
+            {
+              "id": "step_1774080531096",
+              "type": "choice",
+              "content": "表演给她看"
+            },
+            {
+              "id": "step_1774080532066",
+              "type": "choice",
+              "content": "是什么样的惩罚"
+            },
+            {
+              "id": "step_1774080590937",
+              "type": "choice",
+              "content": "太困了，还是睡吧"
+            },
+            {
+              "id": "step_1774080591121",
+              "type": "choice",
+              "content": "面包"
+            },
+            {
+              "id": "step_1774080591256",
+              "type": "choice",
+              "content": "沿地图向右走"
+            },
+            {
+              "id": "step_1774080591416",
+              "type": "choice",
+              "content": "还是亲自问问这家伙"
+            },
+            {
+              "id": "step_1774080591725",
+              "type": "choice",
+              "content": "给它点恩惠"
+            },
+            {
+              "id": "step_1774080591933",
+              "type": "choice",
+              "content": "询问一下黄丝带的事"
+            },
+            {
+              "id": "step_1774080592104",
+              "type": "choice",
+              "content": "想知道"
+            },
+            {
+              "id": "step_1774080592263",
+              "type": "choice",
+              "content": "不请"
+            },
+            {
+              "id": "step_1774080592629",
+              "type": "choice",
+              "content": "试一试"
+            },
+            {
+              "id": "step_1774080592857",
+              "type": "choice",
+              "content": "武田商店"
+            },
+            {
+              "id": "step_1774080593058",
+              "type": "choice",
+              "content": "再表演一次"
+            },
+            {
+              "id": "step_1774080593375",
+              "type": "choice",
+              "content": "也许吧"
+            },
+            {
+              "id": "step_1774080593623",
+              "type": "choice",
+              "content": "让我考虑考虑"
+            },
+            {
+              "id": "step_1774080593847",
+              "type": "choice",
+              "content": "拒绝"
+            },
+            {
+              "id": "step_1774080594066",
+              "type": "choice",
+              "content": "如果买下来的话就给观铃"
+            },
+            {
+              "id": "step_1774080594252",
+              "type": "choice",
+              "content": "爽快地答应"
+            },
+            {
+              "id": "step_1774080594450",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1774080769758",
+              "type": "choice",
+              "content": "拜托她写上去"
+            },
+            {
+              "id": "step_1774080770016",
+              "type": "choice",
+              "content": "相信观铃"
+            },
+            {
+              "id": "step_1774080770179",
+              "type": "choice",
+              "content": "的确没错"
+            },
+            {
+              "id": "step_1774080770369",
+              "type": "choice",
+              "content": "我知道啦"
+            },
+            {
+              "id": "step_1774080770538",
+              "type": "choice",
+              "content": "让她推个够"
+            },
+            {
+              "id": "step_1774080770702",
+              "type": "choice",
+              "content": "决定性的一击推手"
+            },
+            {
+              "id": "step_1774080770883",
+              "type": "choice",
+              "content": "等着观铃"
+            },
+            {
+              "id": "step_1774080771052",
+              "type": "choice",
+              "content": "去学校"
+            },
+            {
+              "id": "step_1774080771392",
+              "type": "choice",
+              "content": "是啊，当然了"
+            },
+            {
+              "id": "step_1774080771575",
+              "type": "choice",
+              "content": "睡觉了"
+            },
+            {
+              "id": "step_1774080804839",
+              "type": "choice",
+              "content": "就穿上那件恐龙T恤"
+            },
+            {
+              "id": "step_1774080805033",
+              "type": "choice",
+              "content": "继续毫不在意地穿下去"
+            },
+            {
+              "id": "step_1774080805227",
+              "type": "choice",
+              "content": "我请客好了"
+            },
+            {
+              "id": "step_1774080805419",
+              "type": "choice",
+              "content": "用太阳能驱动"
+            },
+            {
+              "id": "step_1774080805588",
+              "type": "choice",
+              "content": "商店街"
+            },
+            {
+              "id": "step_1774080805810",
+              "type": "choice",
+              "content": "进去"
+            },
+            {
+              "id": "step_1774080839980",
+              "type": "choice",
+              "content": "老实待在这儿"
+            },
+            {
+              "id": "step_1774080840162",
+              "type": "choice",
+              "content": "去观铃的房间"
+            },
+            {
+              "id": "step_1774080840332",
+              "type": "choice",
+              "content": "再试试看"
+            },
+            {
+              "id": "step_1774080840510",
+              "type": "choice",
+              "content": "玩"
+            },
+            {
+              "id": "step_1774080840690",
+              "type": "choice",
+              "content": "留在这里"
+            },
+            {
+              "id": "step_1774080854815",
+              "type": "choice",
+              "content": "…我知道了"
+            },
+            {
+              "id": "step_1774080855011",
+              "type": "choice",
+              "content": "抱着她"
+            },
+            {
+              "id": "step_1774080855399",
+              "type": "choice",
+              "content": "更进一步"
+            }
+          ]
+        },
+        {
+          "id": "ending_1774080891921",
+          "name": "雾岛佳乃 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1774080969678",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1774080971466",
+              "type": "choice",
+              "content": "不用补什么攻略了"
+            },
+            {
+              "id": "step_1774080971653",
+              "type": "choice",
+              "content": "当然不是"
+            },
+            {
+              "id": "step_1774080971804",
+              "type": "choice",
+              "content": "你和朋友去玩好了"
+            },
+            {
+              "id": "step_1774080971991",
+              "type": "choice",
+              "content": "进行反击"
+            },
+            {
+              "id": "step_1774080972657",
+              "type": "choice",
+              "content": "豪爽的投掷技"
+            },
+            {
+              "id": "step_1774080972822",
+              "type": "choice",
+              "content": "打发时间"
+            },
+            {
+              "id": "step_1774080972985",
+              "type": "choice",
+              "content": "展示人偶技艺"
+            },
+            {
+              "id": "step_1774080973156",
+              "type": "choice",
+              "content": "去神尾家"
+            },
+            {
+              "id": "step_1774080973319",
+              "type": "choice",
+              "content": "并不讨厌"
+            },
+            {
+              "id": "step_1774080973465",
+              "type": "choice",
+              "content": "出去散步"
+            },
+            {
+              "id": "step_1774080973651",
+              "type": "choice",
+              "content": "试着继续向前走"
+            },
+            {
+              "id": "step_1774080973812",
+              "type": "choice",
+              "content": "看看情况"
+            },
+            {
+              "id": "step_1774080973988",
+              "type": "choice",
+              "content": "有必要说明一下"
+            },
+            {
+              "id": "step_1774080974130",
+              "type": "choice",
+              "content": "就穿上那件恐龙T恤"
+            },
+            {
+              "id": "step_1774080974457",
+              "type": "choice",
+              "content": "还是换上原来的湿衣服吧"
+            },
+            {
+              "id": "step_1774081064137",
+              "type": "choice",
+              "content": "商店街"
+            },
+            {
+              "id": "step_1774081064328",
+              "type": "choice",
+              "content": "诊所里面"
+            },
+            {
+              "id": "step_1774081064568",
+              "type": "choice",
+              "content": "在这里待着真是没有意思呢"
+            },
+            {
+              "id": "step_1774081064757",
+              "type": "choice",
+              "content": "朝着车站的方向走"
+            },
+            {
+              "id": "step_1774081065008",
+              "type": "choice",
+              "content": "捡起来，还给她"
+            },
+            {
+              "id": "step_1774081065222",
+              "type": "choice",
+              "content": "做吧"
+            },
+            {
+              "id": "step_1774081065456",
+              "type": "choice",
+              "content": "啃骨头试试"
+            },
+            {
+              "id": "step_1774081065670",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1774081065930",
+              "type": "choice",
+              "content": "去吃"
+            },
+            {
+              "id": "step_1774081066139",
+              "type": "choice",
+              "content": "放着不管"
+            },
+            {
+              "id": "step_1774081066515",
+              "type": "choice",
+              "content": "都到这个地步了就顺着她吧"
+            },
+            {
+              "id": "step_1774081066790",
+              "type": "choice",
+              "content": "再开点小玩笑吧"
+            },
+            {
+              "id": "step_1774081067129",
+              "type": "choice",
+              "content": "还是不再问下去比较好"
+            },
+            {
+              "id": "step_1774081067370",
+              "type": "choice",
+              "content": "去商店街挣钱"
+            },
+            {
+              "id": "step_1774081067867",
+              "type": "choice",
+              "content": "自己找"
+            },
+            {
+              "id": "step_1774081068194",
+              "type": "choice",
+              "content": "做人偶剧的练习"
+            },
+            {
+              "id": "step_1774081153113",
+              "type": "choice",
+              "content": "答应"
+            },
+            {
+              "id": "step_1774081153303",
+              "type": "choice",
+              "content": "提议一起去找找"
+            },
+            {
+              "id": "step_1774081153460",
+              "type": "choice",
+              "content": "白大褂"
+            },
+            {
+              "id": "step_1774081153608",
+              "type": "choice",
+              "content": "改造人从基地逃走了！"
+            },
+            {
+              "id": "step_1774081153765",
+              "type": "choice",
+              "content": "打开看看"
+            },
+            {
+              "id": "step_1774081153920",
+              "type": "choice",
+              "content": "对不比我小的没兴趣"
+            },
+            {
+              "id": "step_1774081154105",
+              "type": "choice",
+              "content": "继续偷听"
+            },
+            {
+              "id": "step_1774081154223",
+              "type": "choice",
+              "content": "继续竖起耳朵"
+            },
+            {
+              "id": "step_1774081154399",
+              "type": "choice",
+              "content": "使用法术开锁"
+            },
+            {
+              "id": "step_1774081154569",
+              "type": "choice",
+              "content": "不乘车"
+            },
+            {
+              "id": "step_1774081154714",
+              "type": "choice",
+              "content": "留在佳乃身边"
+            },
+            {
+              "id": "step_1774081154873",
+              "type": "choice",
+              "content": "神社"
+            },
+            {
+              "id": "step_1774081155023",
+              "type": "choice",
+              "content": "车站"
+            }
+          ]
+        },
+        {
+          "id": "ending_1774081253493",
+          "name": "远野美凪 END1",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_1774081260338",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1774081262658",
+              "type": "choice",
+              "content": "还是算了"
+            },
+            {
+              "id": "step_1774081262846",
+              "type": "choice",
+              "content": "举手之劳"
+            },
+            {
+              "id": "step_1774081263111",
+              "type": "choice",
+              "content": "把人偶给她"
+            },
+            {
+              "id": "step_1774081263301",
+              "type": "choice",
+              "content": "实在是太热了还是恳求她回去吧"
+            },
+            {
+              "id": "step_1774081263466",
+              "type": "choice",
+              "content": "先把她拉上来再说"
+            },
+            {
+              "id": "step_1774081263812",
+              "type": "choice",
+              "content": "还是不再问下去比较好"
+            },
+            {
+              "id": "step_1774081264031",
+              "type": "choice",
+              "content": "去商店街挣钱"
+            },
+            {
+              "id": "step_1774081264264",
+              "type": "choice",
+              "content": "郑重接受"
+            },
+            {
+              "id": "step_1774081264595",
+              "type": "choice",
+              "content": "タ行"
+            },
+            {
+              "id": "step_1774081264771",
+              "type": "choice",
+              "content": "继续翻辞典"
+            },
+            {
+              "id": "step_1774081264968",
+              "type": "choice",
+              "content": "表现出嫉妒"
+            },
+            {
+              "id": "step_1774081265168",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_1774081265316",
+              "type": "choice",
+              "content": "来个晨吻吧"
+            }
+          ]
+        },
+        {
+          "id": "ending_1774081392018",
+          "name": "远野美凪 END2",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_1774081401357",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1774081412641",
+              "type": "choice",
+              "content": "忍到明天吧"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1774081448698",
+      "name": "SUMMER篇",
+      "endings": [
+        {
+          "id": "ending_1774081459877",
+          "name": "END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1774081461294",
+              "type": "choice",
+              "content": "无选项"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1774081484545",
+      "name": "AIR篇",
+      "endings": [
+        {
+          "id": "ending_1774081497697",
+          "name": "END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1774081532172",
+              "type": "choice",
+              "content": "追上那女孩"
+            },
+            {
+              "id": "step_1774081534625",
+              "type": "choice",
+              "content": "战斗"
+            },
+            {
+              "id": "step_1774081535068",
+              "type": "choice",
+              "content": "跟着男的走"
+            },
+            {
+              "id": "step_1774081535512",
+              "type": "choice",
+              "content": "去外面"
+            },
+            {
+              "id": "step_1774081536010",
+              "type": "choice",
+              "content": "防御"
+            },
+            {
+              "id": "step_1774081536507",
+              "type": "choice",
+              "content": "出去散步"
+            },
+            {
+              "id": "step_1774081536884",
+              "type": "choice",
+              "content": "去确认"
+            },
+            {
+              "id": "step_1774081537272",
+              "type": "choice",
+              "content": "跟那个男的走了"
+            },
+            {
+              "id": "step_1774081537629",
+              "type": "choice",
+              "content": "已经追思过遥远的日子一次了"
+            },
+            {
+              "id": "step_1774081538005",
+              "type": "choice",
+              "content": "回到巢里去"
+            },
+            {
+              "id": "step_1774081538360",
+              "type": "choice",
+              "content": "转到右边去"
+            },
+            {
+              "id": "step_1774081538811",
+              "type": "choice",
+              "content": "向右转"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

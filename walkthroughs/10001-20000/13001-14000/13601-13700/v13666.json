@@ -1,0 +1,149 @@
+{
+  "vid": "v13666",
+  "name": {
+    "zh-cn": "冻京NECRO",
+    "en-us": "Tokyo Necro",
+    "ja-jp": "凍京NECRO",
+    "ja-Latn": "tokyo-necro"
+  },
+  "level": 2,
+  "updatedAt": "2026-05-09",
+  "tips": [
+    "游戏每次启动需要在BIOS风格的画面选择[search]，选择[exit]的话游戏结束",
+    "在BIOS风格的画面可以输入文字，按下键盘的按钮会出现各种各样的显示，如：[tokyo]、[nitro]、[sex]、[necro]",
+    "首次启动游戏不会出现标题画面，而是自动从【QUESTION】开始",
+    "MENU画面的全息存储器可以进行存档读档画面的操作以及观赏回想模式，右下角的立方体标签可以切换画面",
+    "Z：快速存档和读档、Y：普通存档和读档、X：H场景回想，　↑：读档　↓：存档"
+  ],
+  "routes": [
+    {
+      "id": "route_game",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_ilya",
+          "name": "伊莉雅 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_001",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_002",
+              "type": "choice",
+              "content": "地下",
+              "prefix": "左"
+            },
+            {
+              "id": "step_003",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_004",
+              "type": "choice",
+              "content": "伊莉雅",
+              "prefix": "左"
+            }
+          ]
+        },
+        {
+          "id": "ending_kiriri",
+          "name": "雾里 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_005",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_006",
+              "type": "choice",
+              "content": "米尔格拉姆",
+              "prefix": "右"
+            }
+          ]
+        },
+        {
+          "id": "ending_mitsumi",
+          "name": "蜜魅 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_007",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_008",
+              "type": "choice",
+              "content": "屋顶",
+              "prefix": "右"
+            },
+            {
+              "id": "step_009",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_010",
+              "type": "choice",
+              "content": "伊莉雅",
+              "prefix": "左"
+            }
+          ]
+        },
+        {
+          "id": "ending_consu",
+          "name": "Consu END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_011",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_012",
+              "type": "choice",
+              "content": "米尔格拉姆",
+              "prefix": "右"
+            }
+          ]
+        },
+        {
+          "id": "ending_true",
+          "name": "TRUE END",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_013",
+              "type": "note",
+              "content": "4个END后从标题画面开始",
+              "prefix": "※"
+            },
+            {
+              "id": "step_014",
+              "type": "note",
+              "content": "SEARCH",
+              "prefix": "■"
+            },
+            {
+              "id": "step_015",
+              "type": "choice",
+              "content": "搜索"
+            },
+            {
+              "id": "step_027",
+              "type": "choice",
+              "content": "选择中间"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

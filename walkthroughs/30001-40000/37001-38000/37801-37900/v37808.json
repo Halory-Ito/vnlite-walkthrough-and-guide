@@ -1,0 +1,104 @@
+{
+  "vid": "v37808",
+  "name": {
+    "zh-cn": "炼爱秘仪",
+    "ja-jp": "アルカナ・アルケミア",
+    "ja-Latn": "arcana-alchemia"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-12",
+  "routes": [
+    {
+      "id": "route_1756368387273",
+      "name": "菲涅",
+      "endings": [
+        {
+          "id": "ending_1756368400657",
+          "name": "菲涅 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756368409814",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1756368410368",
+              "type": "choice",
+              "content": "菲涅"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756368423015",
+      "name": "瑠璃.P.提奥夫拉斯图斯",
+      "endings": [
+        {
+          "id": "ending_1756368428343",
+          "name": "瑠璃 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756368442945",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1756368443618",
+              "type": "choice",
+              "content": "瑠璃"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756368455562",
+      "name": "春若 叶音",
+      "endings": [
+        {
+          "id": "ending_1756368461827",
+          "name": "叶音 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756368472096",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1756368472997",
+              "type": "choice",
+              "content": "叶音"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756368489067",
+      "name": "柳濑 彩良",
+      "endings": [
+        {
+          "id": "ending_1756368498937",
+          "name": "彩良 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756368505304",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1756368506302",
+              "type": "choice",
+              "content": "彩良"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

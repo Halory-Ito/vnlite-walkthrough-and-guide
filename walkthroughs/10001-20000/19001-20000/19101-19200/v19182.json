@@ -1,0 +1,139 @@
+{
+  "vid": "v19182",
+  "name": {
+    "zh-cn": "美少女万华镜 -罪与罚的少女-",
+    "ja-jp": "美少女万華鏡 -罪と罰の少女-",
+    "ja-Latn": "bishoujo-mangekyou-tsumi-to-batsu-no-shoujo"
+  },
+  "level": 2,
+  "updatedAt": "2026-02-27",
+  "routes": [
+    {
+      "id": "route_1748070782281",
+      "name": "觋夕莉",
+      "endings": [
+        {
+          "id": "ending_1748070814973",
+          "name": "夕莉 END 1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1748070852717",
+              "type": "choice",
+              "content": "让夕莉帮我擦"
+            },
+            {
+              "id": "step_1748070861621",
+              "type": "choice",
+              "content": "去车站前看看"
+            },
+            {
+              "id": "step_1748070869317",
+              "type": "choice",
+              "content": "里面/外面"
+            },
+            {
+              "id": "step_1748070882735",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1748070888245",
+              "type": "choice",
+              "content": "说服镜子"
+            },
+            {
+              "id": "step_1748070906311",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1748070915387",
+              "type": "choice",
+              "content": "拒绝"
+            },
+            {
+              "id": "step_1748070921745",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_1748070942583",
+              "type": "choice",
+              "content": "担心夕莉"
+            }
+          ]
+        },
+        {
+          "id": "ending_1748071276165",
+          "name": "夕莉 END 2",
+          "type": "true",
+          "requirements": "建议攻略顺序完成老师-一花线路最后攻略真结局",
+          "steps": [
+            {
+              "id": "step_1748071324756",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1748071336917",
+              "type": "choice",
+              "content": "……"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755090365665",
+      "name": "老师",
+      "endings": [
+        {
+          "id": "ending_1755090381891",
+          "name": "老师 END",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_1755090394683",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1755090395370",
+              "type": "choice",
+              "content": "很期待"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755090429760",
+      "name": "铃森一花",
+      "endings": [
+        {
+          "id": "ending_1755090442133",
+          "name": "一花 END",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_1755090452981",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1755090454201",
+              "type": "choice",
+              "content": "回应一花的心意"
+            },
+            {
+              "id": "step_1755090454339",
+              "type": "choice",
+              "content": "里面/顔射"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

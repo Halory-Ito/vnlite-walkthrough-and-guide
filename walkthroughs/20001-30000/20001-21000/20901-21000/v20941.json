@@ -1,0 +1,137 @@
+{
+  "vid": "v20941",
+  "name": {
+    "zh-cn": "Pure Song Garden!",
+    "ja-jp": "ピュアソングガーデン！",
+    "ja-Latn": "pure-song-garden"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-14",
+  "routes": [
+    {
+      "id": "route_game_guide",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_iroha_end1",
+          "name": "伊吕波 END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_iroha_end1_01",
+              "type": "choice",
+              "content": "想结婚"
+            },
+            {
+              "id": "step_iroha_end1_02",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_iroha_end1_03",
+              "type": "choice",
+              "content": "看星野的夜景"
+            },
+            {
+              "id": "step_iroha_end1_04",
+              "type": "save",
+              "content": "SAVE 2",
+              "subfix": "在选项出现之前 SAVE"
+            },
+            {
+              "id": "step_iroha_end1_05",
+              "type": "choice",
+              "content": "伊吕波寻找留在 2027 年的方法"
+            }
+          ]
+        },
+        {
+          "id": "ending_iroha_end2",
+          "name": "伊吕波 END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_iroha_end2_01",
+              "type": "note",
+              "content": "伊吕波 END1 之后",
+              "prefix": "※"
+            },
+            {
+              "id": "step_iroha_end2_02",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_iroha_end2_03",
+              "type": "choice",
+              "content": "教诲伊吕波，让她回到未来"
+            }
+          ]
+        },
+        {
+          "id": "ending_true_suzu",
+          "name": "锡 END",
+          "type": "true",
+          "requirements": "伊吕波 END2 之后，从标题画面选择ENCORE START！",
+          "steps": [
+            {
+              "type": "choice",
+              "content": "（源站步骤均为空）"
+            }
+          ]
+        },
+        {
+          "id": "ending_kuon_end",
+          "name": "玖音 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_kuon_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_kuon_02",
+              "type": "choice",
+              "content": "安慰河和井玖音"
+            }
+          ]
+        },
+        {
+          "id": "ending_asuka_end",
+          "name": "明日歌 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_asuka_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_asuka_02",
+              "type": "choice",
+              "content": "去便利店的途中，遇到了明日歌"
+            }
+          ]
+        },
+        {
+          "id": "ending_ritsu_end",
+          "name": "律 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_ritsu_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_ritsu_02",
+              "type": "choice",
+              "content": "柳泽律说出了重要的事实"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

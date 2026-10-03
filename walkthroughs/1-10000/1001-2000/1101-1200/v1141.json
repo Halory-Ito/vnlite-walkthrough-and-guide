@@ -1,0 +1,492 @@
+{
+  "vid": "v1141",
+  "name": {
+    "zh-cn": "我们没有翅膀",
+    "ja-jp": "俺たちに翼はない",
+    "ja-Latn": "ore-tachi-ni-tsubasa-wa-nai"
+  },
+  "level": 2,
+  "updatedAt": "2026-04-02",
+  "routes": [
+    {
+      "id": "route_taka",
+      "name": "鹰路线",
+      "endings": [
+        {
+          "id": "ending_taka_bad_1",
+          "name": "END1 针生",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_taka_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_taka_02",
+              "type": "note",
+              "content": "第一章 为了明日香公主"
+            },
+            {
+              "id": "step_taka_03",
+              "type": "choice",
+              "content": "中断战斗前往大本营"
+            },
+            {
+              "id": "step_taka_04",
+              "type": "choice",
+              "content": "试着回复瑠樺君的消息吧"
+            },
+            {
+              "id": "step_taka_05",
+              "type": "choice",
+              "content": "也不是不想看"
+            },
+            {
+              "id": "step_taka_06",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_taka_07",
+              "type": "choice",
+              "content": "撞飞斯帕罗的身体"
+            },
+            {
+              "id": "step_taka_08",
+              "type": "note",
+              "content": "第二章"
+            },
+            {
+              "id": "step_taka_09",
+              "type": "choice",
+              "content": "不听从监督指示"
+            },
+            {
+              "id": "step_taka_10",
+              "type": "choice",
+              "content": "不"
+            },
+            {
+              "id": "step_taka_11",
+              "type": "choice",
+              "content": "叫醒新人做入职问候"
+            },
+            {
+              "id": "step_taka_12",
+              "type": "choice",
+              "content": "不，我要读完最后一段"
+            },
+            {
+              "id": "step_taka_13",
+              "type": "choice",
+              "content": "强行改变"
+            },
+            {
+              "id": "step_taka_14",
+              "type": "choice",
+              "content": "祈祷不要牵连到日和子"
+            },
+            {
+              "id": "step_taka_15",
+              "type": "choice",
+              "content": "明白了，只要一份就可以了对吧"
+            },
+            {
+              "id": "step_taka_16",
+              "type": "note",
+              "content": "第三章"
+            },
+            {
+              "id": "step_taka_17",
+              "type": "choice",
+              "content": "切断小丫头的节奏"
+            },
+            {
+              "id": "step_taka_18",
+              "type": "note",
+              "content": "第四章"
+            },
+            {
+              "id": "step_taka_19",
+              "type": "choice",
+              "content": "关于45.4MHz频率的话题"
+            },
+            {
+              "id": "step_taka_20",
+              "type": "note",
+              "content": "第五章"
+            },
+            {
+              "id": "step_taka_21",
+              "type": "choice",
+              "content": "不带来救赎"
+            },
+            {
+              "id": "step_taka_22",
+              "type": "note",
+              "content": "第六章"
+            },
+            {
+              "id": "step_taka_23",
+              "type": "choice",
+              "content": "是啊，确实是这样呢"
+            },
+            {
+              "id": "step_taka_24",
+              "type": "choice",
+              "content": "难得的机会不要挑三拣四好好学习吧"
+            },
+            {
+              "id": "step_taka_25",
+              "type": "choice",
+              "content": "拥抱京"
+            },
+            {
+              "id": "step_taka_26",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_taka_27",
+              "type": "choice",
+              "content": "想和针生上同一所大学"
+            }
+          ]
+        },
+        {
+          "id": "ending_taka_asuka",
+          "name": "END2 明日香",
+          "type": "good",
+          "steps": [
+            {
+              "id": "step_taka_asuka_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_taka_asuka_02",
+              "type": "choice",
+              "content": "想和渡来上同一所大学"
+            }
+          ]
+        },
+        {
+          "id": "ending_taka_bad_2",
+          "name": "END3 山科",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_taka_yamasina_bad_01",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_taka_yamasina_bad_02",
+              "type": "choice",
+              "content": "因为想看动画就回家"
+            }
+          ]
+        },
+        {
+          "id": "ending_taka_kyo",
+          "name": "END4",
+          "type": "good",
+          "steps": [
+            {
+              "id": "step_taka_kyo_01",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_taka_kyo_02",
+              "type": "choice",
+              "content": "和山科一起回家"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_washi",
+      "name": "鹫路线",
+      "endings": [
+        {
+          "id": "ending_washi_hinoko",
+          "name": "END",
+          "type": "good",
+          "steps": [
+            {
+              "id": "step_washi_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_washi_02",
+              "type": "note",
+              "content": "第一章"
+            },
+            {
+              "id": "step_washi_03",
+              "type": "choice",
+              "content": "对斯帕罗大喊快逃"
+            },
+            {
+              "id": "step_washi_04",
+              "type": "note",
+              "content": "第二章"
+            },
+            {
+              "id": "step_washi_05",
+              "type": "choice",
+              "content": "听从监督指示"
+            },
+            {
+              "id": "step_washi_06",
+              "type": "choice",
+              "content": "好的"
+            },
+            {
+              "id": "step_washi_07",
+              "type": "choice",
+              "content": "不叫醒让他继续休息"
+            },
+            {
+              "id": "step_washi_08",
+              "type": "choice",
+              "content": "好吧，我停止阅读"
+            },
+            {
+              "id": "step_washi_09",
+              "type": "choice",
+              "content": "自然转变"
+            },
+            {
+              "id": "step_washi_10",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_washi_11",
+              "type": "choice",
+              "content": "冲出去保护日和子"
+            },
+            {
+              "id": "step_washi_12",
+              "type": "choice",
+              "content": "非常抱歉，我们没有这种菜单"
+            },
+            {
+              "id": "step_washi_13",
+              "type": "note",
+              "content": "第三章"
+            },
+            {
+              "id": "step_washi_14",
+              "type": "choice",
+              "content": "切断小丫头的节奏"
+            },
+            {
+              "id": "step_washi_15",
+              "type": "note",
+              "content": "第四章"
+            },
+            {
+              "id": "step_washi_16",
+              "type": "choice",
+              "content": "关于22.1MHz频率的话题"
+            },
+            {
+              "id": "step_washi_17",
+              "type": "note",
+              "content": "第五章"
+            },
+            {
+              "id": "step_washi_18",
+              "type": "choice",
+              "content": "不带来救赎"
+            },
+            {
+              "id": "step_washi_19",
+              "type": "note",
+              "content": "第六章"
+            },
+            {
+              "id": "step_washi_20",
+              "type": "choice",
+              "content": "确实不能接受那个"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_hayabusa",
+      "name": "隼路线",
+      "endings": [
+        {
+          "id": "ending_hayabusa_naru",
+          "name": "END",
+          "type": "good",
+          "steps": [
+            {
+              "id": "step_hayabusa_01",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_hayabusa_02",
+              "type": "note",
+              "content": "第二章"
+            },
+            {
+              "id": "step_hayabusa_03",
+              "type": "choice",
+              "content": "祈祷不要牵连到日和子"
+            },
+            {
+              "id": "step_hayabusa_04",
+              "type": "choice",
+              "content": "明白了，只要一份就可以了对吧"
+            },
+            {
+              "id": "step_hayabusa_05",
+              "type": "note",
+              "content": "第三章"
+            },
+            {
+              "id": "step_hayabusa_06",
+              "type": "save",
+              "content": "SAVE 5"
+            },
+            {
+              "id": "step_hayabusa_07",
+              "type": "choice",
+              "content": "配合小丫头的节奏"
+            },
+            {
+              "id": "step_hayabusa_08",
+              "type": "choice",
+              "content": "可能有这种情况吧"
+            },
+            {
+              "id": "step_hayabusa_09",
+              "type": "choice",
+              "content": "接受您的好意"
+            },
+            {
+              "id": "step_hayabusa_10",
+              "type": "note",
+              "content": "第四章"
+            },
+            {
+              "id": "step_hayabusa_11",
+              "type": "choice",
+              "content": "关于84.2MHz频率的话题"
+            },
+            {
+              "id": "step_hayabusa_12",
+              "type": "note",
+              "content": "第五章"
+            },
+            {
+              "id": "step_hayabusa_13",
+              "type": "choice",
+              "content": "不带来救赎"
+            },
+            {
+              "id": "step_hayabusa_14",
+              "type": "note",
+              "content": "第六章（无选项）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_kamikaze",
+      "name": "神鹰路线",
+      "endings": [
+        {
+          "id": "ending_kamikaze_bad",
+          "name": "END1",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_kamikaze_01",
+              "type": "load",
+              "content": "LOAD 5"
+            },
+            {
+              "id": "step_kamikaze_02",
+              "type": "note",
+              "content": "第三章"
+            },
+            {
+              "id": "step_kamikaze_03",
+              "type": "choice",
+              "content": "切断小丫头的节奏"
+            },
+            {
+              "id": "step_kamikaze_04",
+              "type": "choice",
+              "content": "应该没有这回事吧"
+            },
+            {
+              "id": "step_kamikaze_05",
+              "type": "choice",
+              "content": "回应话语"
+            },
+            {
+              "id": "step_kamikaze_06",
+              "type": "note",
+              "content": "第四章"
+            },
+            {
+              "id": "step_kamikaze_07",
+              "type": "choice",
+              "content": "关于84.2MHz频率的话题"
+            },
+            {
+              "id": "step_kamikaze_08",
+              "type": "note",
+              "content": "第五章"
+            },
+            {
+              "id": "step_kamikaze_09",
+              "type": "save",
+              "content": "SAVE 6"
+            },
+            {
+              "id": "step_kamikaze_10",
+              "type": "choice",
+              "content": "不带来救赎"
+            }
+          ]
+        },
+        {
+          "id": "ending_kamikaze_kobato",
+          "name": "END2 小鸠",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_kamikaze_kobato_01",
+              "type": "load",
+              "content": "LOAD 6"
+            },
+            {
+              "id": "step_kamikaze_kobato_02",
+              "type": "choice",
+              "content": "带来救赎"
+            },
+            {
+              "id": "step_kamikaze_kobato_03",
+              "type": "note",
+              "content": "第六章（无选项）"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

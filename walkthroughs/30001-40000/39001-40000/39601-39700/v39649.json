@@ -1,0 +1,1203 @@
+{
+  "vid": "v39649",
+  "name": {
+    "zh-cn": "恋爱少不了撒娇",
+    "en-us": "KoiAma: Spoil Me Sweet",
+    "ja-jp": "恋にはあまえが必要です",
+    "ja-Latn": "koi-ni-wa-amae-ga-hitsuyou-desu"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-14",
+  "routes": [
+    {
+      "id": "route_game",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_ouga_end1",
+          "name": "樱雅END1[A路线]",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_ouga_end1_001",
+              "type": "save",
+              "content": "SAVE 1",
+              "group": "修学旅行 2日目"
+            },
+            {
+              "id": "step_ouga_end1_002",
+              "type": "note",
+              "content": "10:00│纪念公园│樱雅1",
+              "prefix": "■",
+              "group": "修学旅行 2日目"
+            },
+            {
+              "id": "step_ouga_end1_003",
+              "type": "choice",
+              "content": "跟着樱雅走",
+              "group": "修学旅行 2日目"
+            },
+            {
+              "id": "step_ouga_end1_004",
+              "type": "note",
+              "content": "11:00│购物中心│满留",
+              "prefix": "■",
+              "group": "修学旅行 2日目"
+            },
+            {
+              "id": "step_ouga_end1_005",
+              "type": "note",
+              "content": "12:00│砂時计│樱雅2",
+              "prefix": "■",
+              "group": "修学旅行 2日目"
+            },
+            {
+              "id": "step_ouga_end1_006",
+              "type": "choice",
+              "content": "传达评论中看到的推荐",
+              "group": "修学旅行 2日目"
+            },
+            {
+              "id": "step_ouga_end1_007",
+              "type": "save",
+              "content": "SAVE 2",
+              "group": "修学旅行 2日目"
+            },
+            {
+              "id": "step_ouga_end1_008",
+              "type": "note",
+              "content": "13:00│出岛│樱雅3",
+              "prefix": "■",
+              "group": "修学旅行 2日目"
+            },
+            {
+              "id": "step_ouga_end1_009",
+              "type": "choice",
+              "content": "不管在哪里都能马上发现",
+              "group": "修学旅行 2日目"
+            },
+            {
+              "id": "step_ouga_end1_010",
+              "type": "note",
+              "content": "14:00│商店街│樱雅4",
+              "prefix": "■",
+              "group": "修学旅行 2日目"
+            },
+            {
+              "id": "step_ouga_end1_011",
+              "type": "note",
+              "content": "15:00│足汤│千羽",
+              "prefix": "■",
+              "group": "修学旅行 2日目"
+            },
+            {
+              "id": "step_ouga_end1_012",
+              "type": "note",
+              "content": "16:00│海岸大街│樱雅5",
+              "prefix": "■",
+              "group": "修学旅行 2日目"
+            },
+            {
+              "id": "step_ouga_end1_013",
+              "type": "note",
+              "content": "19:00│海岸大街│满留",
+              "prefix": "■",
+              "group": "修学旅行 2日目"
+            },
+            {
+              "id": "step_ouga_end1_014",
+              "type": "note",
+              "content": "10:00│土产店│樱雅6",
+              "prefix": "■",
+              "group": "修学旅行 3日目"
+            },
+            {
+              "id": "step_ouga_end1_015",
+              "type": "choice",
+              "content": "樱雅",
+              "group": "修学旅行 3日目"
+            },
+            {
+              "id": "step_ouga_end1_016",
+              "type": "note",
+              "content": "11:00│足汤│樱雅7",
+              "prefix": "■",
+              "group": "修学旅行 3日目"
+            },
+            {
+              "id": "step_ouga_end1_017",
+              "type": "choice",
+              "content": "可爱哦",
+              "group": "修学旅行 3日目"
+            },
+            {
+              "id": "step_ouga_end1_018",
+              "type": "note",
+              "content": "12:00│砂時计│冰华",
+              "prefix": "■",
+              "group": "修学旅行 3日目"
+            },
+            {
+              "id": "step_ouga_end1_019",
+              "type": "note",
+              "content": "固定",
+              "prefix": "※",
+              "group": "修学旅行 3日目"
+            },
+            {
+              "id": "step_ouga_end1_020",
+              "type": "note",
+              "content": "13:00│海浜公园│千羽",
+              "prefix": "■",
+              "group": "修学旅行 3日目"
+            },
+            {
+              "id": "step_ouga_end1_021",
+              "type": "note",
+              "content": "14:00│咖啡店│樱雅8",
+              "prefix": "■",
+              "group": "修学旅行 3日目"
+            },
+            {
+              "id": "step_ouga_end1_022",
+              "type": "note",
+              "content": "15:00│海浜公园│冰华",
+              "prefix": "■",
+              "group": "修学旅行 3日目"
+            },
+            {
+              "id": "step_ouga_end1_023",
+              "type": "note",
+              "content": "16:00│海岸大街│樱雅9",
+              "prefix": "■",
+              "group": "修学旅行 3日目"
+            },
+            {
+              "id": "step_ouga_end1_024",
+              "type": "note",
+              "content": "19:00│商店街│樱雅10",
+              "prefix": "■",
+              "group": "修学旅行 3日目"
+            },
+            {
+              "id": "step_ouga_end1_025",
+              "type": "note",
+              "content": "10:00│车站前│满留",
+              "prefix": "■",
+              "group": "修学旅行 4日目"
+            },
+            {
+              "id": "step_ouga_end1_026",
+              "type": "note",
+              "content": "11:00│土产店│樱雅11",
+              "prefix": "■",
+              "group": "修学旅行 4日目"
+            },
+            {
+              "id": "step_ouga_end1_027",
+              "type": "note",
+              "content": "12:00│海岸大街│樱雅12",
+              "prefix": "■",
+              "group": "修学旅行 4日目"
+            },
+            {
+              "id": "step_ouga_end1_028",
+              "type": "choice",
+              "content": "石头",
+              "group": "修学旅行 4日目"
+            },
+            {
+              "id": "step_ouga_end1_029",
+              "type": "note",
+              "content": "13:00│土产店│千羽",
+              "prefix": "■",
+              "group": "修学旅行 4日目"
+            },
+            {
+              "id": "step_ouga_end1_030",
+              "type": "note",
+              "content": "14:00│足汤│樱雅13",
+              "prefix": "■",
+              "group": "修学旅行 4日目"
+            },
+            {
+              "id": "step_ouga_end1_031",
+              "type": "note",
+              "content": "15:00│咖啡店│满留",
+              "prefix": "■",
+              "group": "修学旅行 4日目"
+            },
+            {
+              "id": "step_ouga_end1_032",
+              "type": "note",
+              "content": "固定",
+              "prefix": "※",
+              "group": "修学旅行 4日目"
+            },
+            {
+              "id": "step_ouga_end1_033",
+              "type": "note",
+              "content": "16:00│购物中心│樱雅14",
+              "prefix": "■",
+              "group": "修学旅行 4日目"
+            },
+            {
+              "id": "step_ouga_end1_034",
+              "type": "choice",
+              "content": "有意识过",
+              "group": "狮子喰樱雅 共通04"
+            },
+            {
+              "id": "step_ouga_end1_035",
+              "type": "choice",
+              "content": "心跳加速",
+              "group": "狮子喰樱雅 共通06"
+            },
+            {
+              "id": "step_ouga_end1_036",
+              "type": "save",
+              "content": "SAVE 3",
+              "group": "狮子喰樱雅 共通07"
+            },
+            {
+              "id": "step_ouga_end1_037",
+              "type": "choice",
+              "content": "我希望能继续照顾樱雅",
+              "group": "狮子喰樱雅 共通07"
+            },
+            {
+              "id": "step_ouga_end1_038",
+              "type": "choice",
+              "content": "可爱",
+              "group": "狮子喰樱雅 02A"
+            }
+          ]
+        },
+        {
+          "id": "ending_ouga_end2",
+          "name": "樱雅END2[B路线]",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_ouga_end2_001",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_ouga_end2_002",
+              "type": "choice",
+              "content": "我想守护樱雅的成长",
+              "group": "狮子喰樱雅 共通07"
+            },
+            {
+              "id": "step_ouga_end2_003",
+              "type": "choice",
+              "content": "放弃空手道的时候？",
+              "group": "狮子喰樱雅 02B"
+            },
+            {
+              "id": "step_ouga_end2_007",
+              "type": "choice",
+              "content": "很适合你哦",
+              "group": "狮子喰樱雅 06B"
+            }
+          ]
+        },
+        {
+          "id": "ending_chiwa_end1",
+          "name": "千羽END1[A路线]",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_chiwa_end1_001",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_chiwa_end1_002",
+              "type": "note",
+              "content": "13:00│商店街│千羽1",
+              "prefix": "■",
+              "group": "修学旅行 2日目"
+            },
+            {
+              "id": "step_chiwa_end1_003",
+              "type": "choice",
+              "content": "考试得心应手吗？",
+              "group": "修学旅行 2日目"
+            },
+            {
+              "id": "step_chiwa_end1_004",
+              "type": "note",
+              "content": "14:00│海岸大街│千羽2",
+              "prefix": "■",
+              "group": "修学旅行 2日目"
+            },
+            {
+              "id": "step_chiwa_end1_005",
+              "type": "choice",
+              "content": "是不是有点辛苦？",
+              "group": "修学旅行 2日目"
+            },
+            {
+              "id": "step_chiwa_end1_006",
+              "type": "note",
+              "content": "15:00│足汤│千羽3",
+              "prefix": "■",
+              "group": "修学旅行 2日目"
+            },
+            {
+              "id": "step_chiwa_end1_007",
+              "type": "note",
+              "content": "16:00│土产店│千羽4",
+              "prefix": "■",
+              "group": "修学旅行 2日目"
+            },
+            {
+              "id": "step_chiwa_end1_008",
+              "type": "choice",
+              "content": "是个很值得信赖的店长",
+              "group": "修学旅行 2日目"
+            },
+            {
+              "id": "step_chiwa_end1_009",
+              "type": "note",
+              "content": "19:00│商店街│千羽5",
+              "prefix": "■",
+              "group": "修学旅行 2日目"
+            },
+            {
+              "id": "step_chiwa_end1_010",
+              "type": "note",
+              "content": "10:00│商店街│满留",
+              "prefix": "■",
+              "group": "修学旅行 3日目"
+            },
+            {
+              "id": "step_chiwa_end1_011",
+              "type": "note",
+              "content": "11:00│咖啡店│满留",
+              "prefix": "■",
+              "group": "修学旅行 3日目"
+            },
+            {
+              "id": "step_chiwa_end1_012",
+              "type": "note",
+              "content": "12:00│砂時计│冰华",
+              "prefix": "■",
+              "group": "修学旅行 3日目"
+            },
+            {
+              "id": "step_chiwa_end1_013",
+              "type": "note",
+              "content": "固定",
+              "prefix": "※",
+              "group": "修学旅行 3日目"
+            },
+            {
+              "id": "step_chiwa_end1_014",
+              "type": "note",
+              "content": "13:00│海浜公园│千羽6",
+              "prefix": "■",
+              "group": "修学旅行 3日目"
+            },
+            {
+              "id": "step_chiwa_end1_015",
+              "type": "note",
+              "content": "14:00│砂時计│千羽7",
+              "prefix": "■",
+              "group": "修学旅行 3日目"
+            },
+            {
+              "id": "step_chiwa_end1_016",
+              "type": "choice",
+              "content": "天枝点了什么？",
+              "group": "修学旅行 3日目"
+            },
+            {
+              "id": "step_chiwa_end1_017",
+              "type": "note",
+              "content": "15:00│土产店│千羽8",
+              "prefix": "■",
+              "group": "修学旅行 3日目"
+            },
+            {
+              "id": "step_chiwa_end1_018",
+              "type": "choice",
+              "content": "天枝经常吃蜂蜜？",
+              "group": "修学旅行 3日目"
+            },
+            {
+              "id": "step_chiwa_end1_019",
+              "type": "note",
+              "content": "16:00│商店街│千羽9",
+              "prefix": "■",
+              "group": "修学旅行 3日目"
+            },
+            {
+              "id": "step_chiwa_end1_020",
+              "type": "note",
+              "content": "19:00│海岸大街│千羽10",
+              "prefix": "■",
+              "group": "修学旅行 3日目"
+            },
+            {
+              "id": "step_chiwa_end1_021",
+              "type": "choice",
+              "content": "我送你回家？",
+              "group": "修学旅行 3日目"
+            },
+            {
+              "id": "step_chiwa_end1_022",
+              "type": "note",
+              "content": "10:00│车站前│满留",
+              "prefix": "■",
+              "group": "修学旅行 4日目"
+            },
+            {
+              "id": "step_chiwa_end1_023",
+              "type": "note",
+              "content": "11:00│土产店│樱雅",
+              "prefix": "■",
+              "group": "修学旅行 4日目"
+            },
+            {
+              "id": "step_chiwa_end1_024",
+              "type": "note",
+              "content": "12:00│车站前│千羽11",
+              "prefix": "■",
+              "group": "修学旅行 4日目"
+            },
+            {
+              "id": "step_chiwa_end1_025",
+              "type": "note",
+              "content": "13:00│土产店│千羽12",
+              "prefix": "■",
+              "group": "修学旅行 4日目"
+            },
+            {
+              "id": "step_chiwa_end1_026",
+              "type": "note",
+              "content": "14:00│购物中心│千羽13",
+              "prefix": "■",
+              "group": "修学旅行 4日目"
+            },
+            {
+              "id": "step_chiwa_end1_027",
+              "type": "note",
+              "content": "15:00│咖啡店│满留",
+              "prefix": "■",
+              "group": "修学旅行 4日目"
+            },
+            {
+              "id": "step_chiwa_end1_028",
+              "type": "note",
+              "content": "固定",
+              "prefix": "※",
+              "group": "修学旅行 4日目"
+            },
+            {
+              "id": "step_chiwa_end1_029",
+              "type": "note",
+              "content": "16:00│海浜公园│千羽14",
+              "prefix": "■",
+              "group": "修学旅行 4日目"
+            },
+            {
+              "id": "step_chiwa_end1_030",
+              "type": "choice",
+              "content": "让她挽着胳膊走路",
+              "group": "天枝千羽 共通02"
+            },
+            {
+              "id": "step_chiwa_end1_031",
+              "type": "choice",
+              "content": "很憧憬",
+              "group": "天枝千羽 共通04"
+            },
+            {
+              "id": "step_chiwa_end1_032",
+              "type": "choice",
+              "content": "觉得",
+              "group": "天枝千羽 共通06"
+            },
+            {
+              "id": "step_chiwa_end1_033",
+              "type": "save",
+              "content": "SAVE 4",
+              "group": "天枝千羽 共通07"
+            },
+            {
+              "id": "step_chiwa_end1_034",
+              "type": "choice",
+              "content": "能比现在更爱对我撒娇",
+              "group": "天枝千羽 共通07"
+            }
+          ]
+        },
+        {
+          "id": "ending_chiwa_end2",
+          "name": "千羽END2[B路线]",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_chiwa_end2_001",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_chiwa_end2_002",
+              "type": "choice",
+              "content": "让我撒娇一下，偶尔也可以",
+              "group": "天枝千羽 共通07"
+            }
+          ]
+        },
+        {
+          "id": "ending_toka_end1",
+          "name": "冰华END1[A路线]",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_toka_end1_001",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_toka_end1_002",
+              "type": "note",
+              "content": "10:00│车站前│冰华1",
+              "prefix": "■",
+              "group": "修学旅行 2日目"
+            },
+            {
+              "id": "step_toka_end1_003",
+              "type": "choice",
+              "content": "没有迷路吧？",
+              "group": "修学旅行 2日目"
+            },
+            {
+              "id": "step_toka_end1_004",
+              "type": "note",
+              "content": "11:00│纪念公园│冰华2",
+              "prefix": "■",
+              "group": "修学旅行 2日目"
+            },
+            {
+              "id": "step_toka_end1_005",
+              "type": "choice",
+              "content": "唐朽酱是浪漫主义者吗？",
+              "group": "修学旅行 2日目"
+            },
+            {
+              "id": "step_toka_end1_006",
+              "type": "note",
+              "content": "12:00│咖啡店│冰华3",
+              "prefix": "■",
+              "group": "修学旅行 2日目"
+            },
+            {
+              "id": "step_toka_end1_007",
+              "type": "note",
+              "content": "13:00│商店街│千羽",
+              "prefix": "■",
+              "group": "修学旅行 2日目"
+            },
+            {
+              "id": "step_toka_end1_008",
+              "type": "choice",
+              "content": "成绩还好吗？",
+              "group": "修学旅行 2日目"
+            },
+            {
+              "id": "step_toka_end1_009",
+              "type": "note",
+              "content": "14:00│海浜公园│冰华4",
+              "prefix": "■",
+              "group": "修学旅行 2日目"
+            },
+            {
+              "id": "step_toka_end1_010",
+              "type": "choice",
+              "content": "憧憬着公主？",
+              "group": "修学旅行 2日目"
+            },
+            {
+              "id": "step_toka_end1_011",
+              "type": "note",
+              "content": "15:00│土产店│冰华5",
+              "prefix": "■",
+              "group": "修学旅行 2日目"
+            },
+            {
+              "id": "step_toka_end1_012",
+              "type": "note",
+              "content": "16:00│海岸大街│樱雅",
+              "prefix": "■",
+              "group": "修学旅行 2日目"
+            },
+            {
+              "id": "step_toka_end1_013",
+              "type": "note",
+              "content": "19:00│商店街│千羽",
+              "prefix": "■",
+              "group": "修学旅行 2日目"
+            },
+            {
+              "id": "step_toka_end1_014",
+              "type": "note",
+              "content": "10:00│商店街│满留",
+              "prefix": "■",
+              "group": "修学旅行 3日目"
+            },
+            {
+              "id": "step_toka_end1_015",
+              "type": "note",
+              "content": "11:00│咖啡店│满留",
+              "prefix": "■",
+              "group": "修学旅行 3日目"
+            },
+            {
+              "id": "step_toka_end1_016",
+              "type": "note",
+              "content": "12:00│砂時计│冰华6",
+              "prefix": "■",
+              "group": "修学旅行 3日目"
+            },
+            {
+              "id": "step_toka_end1_017",
+              "type": "note",
+              "content": "固定",
+              "prefix": "※",
+              "group": "修学旅行 3日目"
+            },
+            {
+              "id": "step_toka_end1_018",
+              "type": "note",
+              "content": "13:00│商店街│冰华7",
+              "prefix": "■",
+              "group": "修学旅行 3日目"
+            },
+            {
+              "id": "step_toka_end1_019",
+              "type": "note",
+              "content": "14:00│出岛│冰华8",
+              "prefix": "■",
+              "group": "修学旅行 3日目"
+            },
+            {
+              "id": "step_toka_end1_020",
+              "type": "choice",
+              "content": "因为和唐朽酱在一起",
+              "group": "修学旅行 3日目"
+            },
+            {
+              "id": "step_toka_end1_021",
+              "type": "note",
+              "content": "15:00│海浜公园│冰华9",
+              "prefix": "■",
+              "group": "修学旅行 3日目"
+            },
+            {
+              "id": "step_toka_end1_022",
+              "type": "note",
+              "content": "16:00│车站前│冰华10",
+              "prefix": "■",
+              "group": "修学旅行 3日目"
+            },
+            {
+              "id": "step_toka_end1_023",
+              "type": "note",
+              "content": "19:00│商店街│樱雅",
+              "prefix": "■",
+              "group": "修学旅行 3日目"
+            },
+            {
+              "id": "step_toka_end1_024",
+              "type": "save",
+              "content": "SAVE 5"
+            },
+            {
+              "id": "step_toka_end1_025",
+              "type": "note",
+              "content": "10:00│购物中心│冰华11",
+              "prefix": "■",
+              "group": "修学旅行 4日目"
+            },
+            {
+              "id": "step_toka_end1_026",
+              "type": "choice",
+              "content": "唐朽酱也经常去国外吗？",
+              "group": "修学旅行 4日目"
+            },
+            {
+              "id": "step_toka_end1_027",
+              "type": "note",
+              "content": "11:00│商店街│冰华12",
+              "prefix": "■",
+              "group": "修学旅行 4日目"
+            },
+            {
+              "id": "step_toka_end1_028",
+              "type": "choice",
+              "content": "两个人一起溜掉？",
+              "group": "修学旅行 4日目"
+            },
+            {
+              "id": "step_toka_end1_029",
+              "type": "note",
+              "content": "12:00│咖啡店│冰华13",
+              "prefix": "■",
+              "group": "修学旅行 4日目"
+            },
+            {
+              "id": "step_toka_end1_030",
+              "type": "note",
+              "content": "13:00│足汤│冰华14",
+              "prefix": "■",
+              "group": "修学旅行 4日目"
+            },
+            {
+              "id": "step_toka_end1_031",
+              "type": "note",
+              "content": "14:00│足汤│樱雅",
+              "prefix": "■",
+              "group": "修学旅行 4日目"
+            },
+            {
+              "id": "step_toka_end1_032",
+              "type": "note",
+              "content": "15:00│咖啡店│满留",
+              "prefix": "■",
+              "group": "修学旅行 4日目"
+            },
+            {
+              "id": "step_toka_end1_033",
+              "type": "note",
+              "content": "固定",
+              "prefix": "※",
+              "group": "修学旅行 4日目"
+            },
+            {
+              "id": "step_toka_end1_034",
+              "type": "note",
+              "content": "16:00│海浜公园│千羽",
+              "prefix": "■",
+              "group": "修学旅行 4日目"
+            },
+            {
+              "id": "step_toka_end1_035",
+              "type": "choice",
+              "content": "危险的孩子",
+              "group": "唐朽冰华 共通04"
+            },
+            {
+              "id": "step_toka_end1_036",
+              "type": "choice",
+              "content": "不忘记",
+              "group": "唐朽冰华 共通06"
+            },
+            {
+              "id": "step_toka_end1_037",
+              "type": "save",
+              "content": "SAVE 6",
+              "group": "唐朽冰华 共通07"
+            },
+            {
+              "id": "step_toka_end1_038",
+              "type": "choice",
+              "content": "向我倾诉她的感情",
+              "group": "唐朽冰华 共通07"
+            },
+            {
+              "id": "step_toka_end1_039",
+              "type": "choice",
+              "content": "可爱",
+              "group": "唐朽冰华 03A"
+            }
+          ]
+        },
+        {
+          "id": "ending_toka_end2",
+          "name": "冰华END2[B路线]",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_toka_end2_001",
+              "type": "load",
+              "content": "LOAD 6"
+            },
+            {
+              "id": "step_toka_end2_002",
+              "type": "choice",
+              "content": "希望她接受自己的感情",
+              "group": "唐朽冰华 共通07"
+            },
+            {
+              "id": "step_toka_end2_003",
+              "type": "choice",
+              "content": "好可爱",
+              "group": "唐朽冰华 03B"
+            },
+            {
+              "id": "step_toka_end2_006",
+              "type": "choice",
+              "content": "很有成熟的感觉",
+              "group": "唐朽冰华 06B"
+            }
+          ]
+        },
+        {
+          "id": "ending_normal",
+          "name": "正常END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_normal_001",
+              "type": "load",
+              "content": "LOAD 5"
+            },
+            {
+              "id": "step_normal_002",
+              "type": "note",
+              "content": "10:00│车站前│满留",
+              "prefix": "■",
+              "group": "修学旅行 4日目"
+            },
+            {
+              "id": "step_normal_003",
+              "type": "note",
+              "content": "11:00│土产店│樱雅",
+              "prefix": "■",
+              "group": "修学旅行 4日目"
+            },
+            {
+              "id": "step_normal_004",
+              "type": "note",
+              "content": "12:00│海岸大街│樱雅",
+              "prefix": "■",
+              "group": "修学旅行 4日目"
+            },
+            {
+              "id": "step_normal_005",
+              "type": "choice",
+              "content": "剪刀",
+              "group": "修学旅行 4日目"
+            },
+            {
+              "id": "step_normal_006",
+              "type": "note",
+              "content": "13:00│土产店│千羽",
+              "prefix": "■",
+              "group": "修学旅行 4日目"
+            },
+            {
+              "id": "step_normal_007",
+              "type": "note",
+              "content": "14:00│足汤│樱雅",
+              "prefix": "■",
+              "group": "修学旅行 4日目"
+            },
+            {
+              "id": "step_normal_008",
+              "type": "note",
+              "content": "15:00│咖啡店│满留",
+              "prefix": "■",
+              "group": "修学旅行 4日目"
+            },
+            {
+              "id": "step_normal_009",
+              "type": "note",
+              "content": "16:00│购物中心│樱雅",
+              "prefix": "■",
+              "group": "修学旅行 4日目"
+            }
+          ]
+        },
+        {
+          "id": "ending_maru_end1",
+          "name": "满留END1[A路线]",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_maru_end1_001",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_maru_end1_002",
+              "type": "note",
+              "content": "10:00│海浜公园│满留1",
+              "prefix": "■",
+              "group": "修学旅行 2日目"
+            },
+            {
+              "id": "step_maru_end1_003",
+              "type": "choice",
+              "content": "还是因为我是足浴场英雄所以才对我这么温柔吗？",
+              "group": "修学旅行 2日目"
+            },
+            {
+              "id": "step_maru_end1_004",
+              "type": "note",
+              "content": "11:00│购物中心│满留2",
+              "prefix": "■",
+              "group": "修学旅行 2日目"
+            },
+            {
+              "id": "step_maru_end1_005",
+              "type": "note",
+              "content": "12:00│咖啡店│冰华",
+              "prefix": "■",
+              "group": "修学旅行 2日目"
+            },
+            {
+              "id": "step_maru_end1_006",
+              "type": "note",
+              "content": "13:00│车站前│满留3",
+              "prefix": "■",
+              "group": "修学旅行 2日目"
+            },
+            {
+              "id": "step_maru_end1_007",
+              "type": "choice",
+              "content": "我打算去蓝城小姐的公司实习",
+              "group": "修学旅行 2日目"
+            },
+            {
+              "id": "step_maru_end1_008",
+              "type": "note",
+              "content": "14:00│商店街│樱雅",
+              "prefix": "■",
+              "group": "修学旅行 2日目"
+            },
+            {
+              "id": "step_maru_end1_009",
+              "type": "note",
+              "content": "15:00│商店街│满留4",
+              "prefix": "■",
+              "group": "修学旅行 2日目"
+            },
+            {
+              "id": "step_maru_end1_010",
+              "type": "choice",
+              "content": "确实可靠",
+              "group": "修学旅行 2日目"
+            },
+            {
+              "id": "step_maru_end1_011",
+              "type": "note",
+              "content": "16:00│海岸大街│樱雅",
+              "prefix": "■",
+              "group": "修学旅行 2日目"
+            },
+            {
+              "id": "step_maru_end1_012",
+              "type": "note",
+              "content": "19:00│海岸大街│满留5",
+              "prefix": "■",
+              "group": "修学旅行 2日目"
+            },
+            {
+              "id": "step_maru_end1_013",
+              "type": "note",
+              "content": "10:00│商店街│满留6",
+              "prefix": "■",
+              "group": "修学旅行 3日目"
+            },
+            {
+              "id": "step_maru_end1_014",
+              "type": "note",
+              "content": "11:00│咖啡店│满留7",
+              "prefix": "■",
+              "group": "修学旅行 3日目"
+            },
+            {
+              "id": "step_maru_end1_015",
+              "type": "note",
+              "content": "12:00│砂時计│冰华",
+              "prefix": "■",
+              "group": "修学旅行 3日目"
+            },
+            {
+              "id": "step_maru_end1_016",
+              "type": "note",
+              "content": "固定",
+              "prefix": "※",
+              "group": "修学旅行 3日目"
+            },
+            {
+              "id": "step_maru_end1_017",
+              "type": "note",
+              "content": "13:00│海浜公园│千羽",
+              "prefix": "■",
+              "group": "修学旅行 3日目"
+            },
+            {
+              "id": "step_maru_end1_018",
+              "type": "note",
+              "content": "14:00│海岸大街│满留8",
+              "prefix": "■",
+              "group": "修学旅行 3日目"
+            },
+            {
+              "id": "step_maru_end1_019",
+              "type": "note",
+              "content": "15:00│咖啡店│满留9",
+              "prefix": "■",
+              "group": "修学旅行 3日目"
+            },
+            {
+              "id": "step_maru_end1_020",
+              "type": "choice",
+              "content": "好像不太能和黑咖啡",
+              "group": "修学旅行 3日目"
+            },
+            {
+              "id": "step_maru_end1_021",
+              "type": "note",
+              "content": "16:00│海岸大街│樱雅",
+              "prefix": "■",
+              "group": "修学旅行 3日目"
+            },
+            {
+              "id": "step_maru_end1_022",
+              "type": "note",
+              "content": "19:00│购物中心│满留10",
+              "prefix": "■",
+              "group": "修学旅行 3日目"
+            },
+            {
+              "id": "step_maru_end1_023",
+              "type": "note",
+              "content": "10:00│车站前│满留11",
+              "prefix": "■",
+              "group": "修学旅行 4日目"
+            },
+            {
+              "id": "step_maru_end1_024",
+              "type": "note",
+              "content": "11:00│土产店│樱雅",
+              "prefix": "■",
+              "group": "修学旅行 4日目"
+            },
+            {
+              "id": "step_maru_end1_025",
+              "type": "note",
+              "content": "12:00│车站前│千羽",
+              "prefix": "■",
+              "group": "修学旅行 4日目"
+            },
+            {
+              "id": "step_maru_end1_026",
+              "type": "note",
+              "content": "13:00│车站前│满留12",
+              "prefix": "■",
+              "group": "修学旅行 4日目"
+            },
+            {
+              "id": "step_maru_end1_027",
+              "type": "choice",
+              "content": "辛苦你了",
+              "group": "修学旅行 4日目"
+            },
+            {
+              "id": "step_maru_end1_028",
+              "type": "note",
+              "content": "14:00│购物中心│千羽",
+              "prefix": "■",
+              "group": "修学旅行 4日目"
+            },
+            {
+              "id": "step_maru_end1_029",
+              "type": "note",
+              "content": "15:00│咖啡店│满留13",
+              "prefix": "■",
+              "group": "修学旅行 4日目"
+            },
+            {
+              "id": "step_maru_end1_030",
+              "type": "note",
+              "content": "固定",
+              "prefix": "※",
+              "group": "修学旅行 4日目"
+            },
+            {
+              "id": "step_maru_end1_031",
+              "type": "note",
+              "content": "16:00│商店街│满留14",
+              "prefix": "■",
+              "group": "修学旅行 4日目"
+            },
+            {
+              "id": "step_maru_end1_032",
+              "type": "choice",
+              "content": "在修学旅行的咖啡厅里见过？",
+              "group": "蓝城满留 共通01"
+            },
+            {
+              "id": "step_maru_end1_033",
+              "type": "choice",
+              "content": "看起来瘦了",
+              "group": "蓝城满留 共通04"
+            },
+            {
+              "id": "step_maru_end1_034",
+              "type": "choice",
+              "content": "道歉到直到蓝城小姐满意为止",
+              "group": "蓝城满留 共通06"
+            },
+            {
+              "id": "step_maru_end1_035",
+              "type": "save",
+              "content": "SAVE 7",
+              "group": "蓝城满留 共通07"
+            },
+            {
+              "id": "step_maru_end1_036",
+              "type": "choice",
+              "content": "为了能让蓝城小姐依赖我",
+              "group": "蓝城满留 共通07"
+            },
+            {
+              "id": "step_maru_end1_037",
+              "type": "choice",
+              "content": "像搭讪一样",
+              "group": "蓝城满留 01A"
+            },
+            {
+              "id": "step_maru_end1_040",
+              "type": "choice",
+              "content": "最喜欢你了",
+              "group": "蓝城满留 05A"
+            }
+          ]
+        },
+        {
+          "id": "ending_maru_end2",
+          "name": "满留END2[B路线]",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_maru_end2_001",
+              "type": "load",
+              "content": "LOAD 7"
+            },
+            {
+              "id": "step_maru_end2_002",
+              "type": "choice",
+              "content": "希望她能够认可我的努力",
+              "group": "蓝城满留 共通07"
+            },
+            {
+              "id": "step_maru_end2_003",
+              "type": "choice",
+              "content": "超喜欢",
+              "group": "蓝城满留 02B"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

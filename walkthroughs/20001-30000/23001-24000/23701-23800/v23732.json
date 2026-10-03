@@ -1,0 +1,160 @@
+{
+  "vid": "v23732",
+  "name": {
+    "zh-cn": "pieces/候鸟的梦",
+    "ja-jp": "pieces/渡り鳥のソムニウム",
+    "ja-Latn": "pieces-wataridori-no-somnium"
+  },
+  "level": 2,
+  "updatedAt": "2026-05-08",
+  "routes": [
+    {
+      "id": "route_game_guide",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_yuai",
+          "name": "结爱 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_yuai_01",
+              "type": "choice",
+              "content": "顺从学姐的好意"
+            },
+            {
+              "id": "step_yuai_02",
+              "type": "choice",
+              "content": "抱紧"
+            },
+            {
+              "id": "step_yuai_03",
+              "type": "choice",
+              "content": "拼命辩解"
+            },
+            {
+              "id": "step_yuai_04",
+              "type": "choice",
+              "content": "完成责任"
+            },
+            {
+              "id": "step_yuai_05",
+              "type": "choice",
+              "content": "准备好迎接来自背后的冲击"
+            },
+            {
+              "id": "step_yuai_06",
+              "type": "choice",
+              "content": "先听了提示再回答"
+            },
+            {
+              "id": "step_yuai_07",
+              "type": "choice",
+              "content": "直接表扬"
+            },
+            {
+              "id": "step_yuai_08",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_yuai_09",
+              "type": "choice",
+              "content": "阻止结爱"
+            }
+          ]
+        },
+        {
+          "id": "ending_tsumugi",
+          "name": "紬 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_tsumugi_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_tsumugi_02",
+              "type": "choice",
+              "content": "向紬辩解"
+            }
+          ]
+        },
+        {
+          "id": "ending_miori",
+          "name": "深织 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_miori_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_miori_02",
+              "type": "choice",
+              "content": "向深织学姐辩解"
+            }
+          ]
+        },
+        {
+          "id": "ending_alice",
+          "name": "爱丽丝 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_alice_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_alice_02",
+              "type": "choice",
+              "content": "向爱丽丝辩解"
+            }
+          ]
+        },
+        {
+          "id": "ending_bad",
+          "name": "BADEND",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_bad_01",
+              "type": "note",
+              "content": "4人攻略后回到标题，从【True】开始"
+            },
+            {
+              "id": "step_bad_02",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_bad_03",
+              "type": "choice",
+              "content": "不唤醒结爱"
+            }
+          ]
+        },
+        {
+          "id": "ending_true_yuai",
+          "name": "True END(结爱)",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_true_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_true_02",
+              "type": "choice",
+              "content": "与结爱一同苏醒"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

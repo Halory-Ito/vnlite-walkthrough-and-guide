@@ -1,0 +1,81 @@
+{
+  "vid": "v56342",
+  "name": {
+    "zh-cn": "记忆的琴键",
+    "en-us": "HARMONIC REFLECTIONS",
+    "ja-jp": "記憶の鍵盤",
+    "ja-Latn": "kioku-no-kenban"
+  },
+  "level": 1,
+  "updatedAt": "2026-05-11",
+  "routes": [
+    {
+      "id": "route_game_guide",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_amane",
+          "name": "天音 END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_common_01",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_common_02",
+              "type": "choice",
+              "content": "我觉得另一种表情更适合你。"
+            }
+          ]
+        },
+        {
+          "id": "ending_tachibana",
+          "name": "橘 END",
+          "type": "normal",
+          "requirements": "一周目通关后",
+          "steps": [
+            {
+              "id": "step_1778489638181",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_tachibana_01",
+              "type": "note",
+              "content": "......"
+            },
+            {
+              "id": "step_tachibana_02",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_tachibana_03",
+              "type": "choice",
+              "content": "去为橘加油"
+            }
+          ]
+        },
+        {
+          "id": "ending_amane2",
+          "name": "天音 END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1778489678138",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_amane_01",
+              "type": "choice",
+              "content": "协助民宿的工作"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

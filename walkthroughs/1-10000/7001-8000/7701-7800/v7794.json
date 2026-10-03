@@ -1,0 +1,153 @@
+{
+  "vid": "v7794",
+  "name": {
+    "zh-cn": "少女编织爱的画布",
+    "ja-jp": "乙女が紡ぐ恋のキャンバス",
+    "ja-Latn": "otome-ga-tsumugu-koi-no-canvas"
+  },
+  "level": 2,
+  "updatedAt": "2026-03-03",
+  "routes": [
+    {
+      "id": "route_1762591660374",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1762591676750",
+          "name": "鳳 怜奈",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762591685793",
+              "type": "choice",
+              "content": "去帮忙"
+            },
+            {
+              "id": "step_1762591687186",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1762591687917",
+              "type": "choice",
+              "content": "试着向她招手"
+            },
+            {
+              "id": "step_1762591688911",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1762591689882",
+              "type": "choice",
+              "content": "道歉"
+            },
+            {
+              "id": "step_1762591690176",
+              "type": "choice",
+              "content": "提供帮助"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762591761218",
+          "name": "乾 幸",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762591773263",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1762591774608",
+              "type": "choice",
+              "content": "算了"
+            },
+            {
+              "id": "step_1762591774771",
+              "type": "choice",
+              "content": "找理由"
+            },
+            {
+              "id": "step_1762591774986",
+              "type": "choice",
+              "content": "不帮忙"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762591787268",
+          "name": "獅子堂 千晴 佛兰斯蒂德",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762591797172",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1762591799701",
+              "type": "choice",
+              "content": "找理由"
+            },
+            {
+              "id": "step_1762591799839",
+              "type": "choice",
+              "content": "不帮忙"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762591788069",
+          "name": "安娜塔西亚",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762591817084",
+              "type": "choice",
+              "content": "不去帮忙"
+            },
+            {
+              "id": "step_1762591817360",
+              "type": "choice",
+              "content": "算了"
+            },
+            {
+              "id": "step_1762591817802",
+              "type": "choice",
+              "content": "找理由"
+            },
+            {
+              "id": "step_1762591818116",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_1762591818269",
+              "type": "choice",
+              "content": "提供帮助"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762591788311",
+          "name": "烏丸 紫月",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762591846242",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1762591850195",
+              "type": "choice",
+              "content": "不帮忙"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

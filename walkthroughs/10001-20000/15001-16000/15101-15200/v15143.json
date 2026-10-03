@@ -1,0 +1,67 @@
+{
+  "vid": "v15143",
+  "name": {
+    "zh-cn": "杀恋～悠久流传的恋之歌～",
+    "ja-jp": "サツコイ～悠久なる恋の歌～",
+    "ja-Latn": "satsukoi"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-13",
+  "tips": [
+    "最后才可攻略悠"
+  ],
+  "routes": [
+    {
+      "id": "route_1771747897248",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1771747903634",
+          "name": "新田 瑠璃END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1771747911490",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1771747913367",
+              "type": "choice",
+              "content": "就是那种打算"
+            }
+          ]
+        },
+        {
+          "id": "ending_1771747903785",
+          "name": "川嶋 直 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1771748198078",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1771748200757",
+              "type": "choice",
+              "content": "……"
+            }
+          ]
+        },
+        {
+          "id": "ending_1771747904035",
+          "name": "白羽瀬 悠 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1771748234253",
+              "type": "choice",
+              "content": "2人攻略完毕后，从最初开始 从最终章开始游戏"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

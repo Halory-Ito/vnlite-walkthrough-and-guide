@@ -1,0 +1,236 @@
+{
+  "vid": "v20330",
+  "name": {
+    "zh-cn": "牛顿与苹果树",
+    "en-us": "Newton and the Apple Tree",
+    "ja-jp": "ニュートンと林檎の樹",
+    "ja-Latn": "newton-to-ringo-no-ki"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-15",
+  "tips": [
+    "一周目只可攻略一二三 四五和拉碧，拉碧攻略完成后方可攻略其他角色"
+  ],
+  "routes": [
+    {
+      "id": "route_game_guide",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_shigogo",
+          "name": "一二三 四五END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_shigo_01",
+              "type": "choice",
+              "content": "教她关于寿司的文化/教她关于春画的文化"
+            },
+            {
+              "id": "step_shigo_02",
+              "type": "choice",
+              "content": "和她说，问题不在于大小/告诉她贫乳的价值来安慰她"
+            },
+            {
+              "id": "step_shigo_03",
+              "type": "choice",
+              "content": "就说早上落了东西，让你进去找"
+            },
+            {
+              "id": "step_shigo_04",
+              "type": "choice",
+              "content": "稍微思考一下"
+            },
+            {
+              "id": "step_shigo_05",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_shigo_06",
+              "type": "choice",
+              "content": "将手放在她的脸颊上"
+            }
+          ]
+        },
+        {
+          "id": "ending_rabi_geru",
+          "name": "拉碧・洁露END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_rabi_01",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_rabi_02",
+              "type": "choice",
+              "content": "抱起她"
+            },
+            {
+              "id": "step_rabi_03",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_rabi_04",
+              "type": "choice",
+              "content": "不，错觉么……"
+            },
+            {
+              "id": "step_rabi_05",
+              "type": "choice",
+              "content": "能深入睡眠的/能立马见效的"
+            },
+            {
+              "id": "step_rabi_06",
+              "type": "note",
+              "content": "拉碧・洁露END之后重新攻略一遍有新剧情"
+            }
+          ]
+        },
+        {
+          "id": "ending_haru",
+          "name": "九十九 春END",
+          "type": "normal",
+          "requirements": "拉碧 攻略完成后",
+          "steps": [
+            {
+              "id": "step_haru_02",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_haru_03",
+              "type": "choice",
+              "content": "露台那边……？"
+            },
+            {
+              "id": "step_haru_04",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_haru_05",
+              "type": "choice",
+              "content": "到阳台去"
+            }
+          ]
+        },
+        {
+          "id": "ending_amy_felton",
+          "name": "艾米▪菲尔顿 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_amy_01",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_amy_02",
+              "type": "choice",
+              "content": "就这样硬睡"
+            },
+            {
+              "id": "step_amy_03",
+              "type": "choice",
+              "content": "让苹果从桌上掉下去"
+            },
+            {
+              "id": "step_amy_04",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_amy_05",
+              "type": "choice",
+              "content": "握住她的手"
+            }
+          ]
+        },
+        {
+          "id": "ending_alice_bedford",
+          "name": "爱丽丝▪贝德福德 END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_alice_01",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_alice_02",
+              "type": "choice",
+              "content": "跟她说话"
+            },
+            {
+              "id": "step_alice_03",
+              "type": "choice",
+              "content": "再来一声……！！！"
+            },
+            {
+              "id": "step_alice_04",
+              "type": "choice",
+              "content": "感觉有些不够"
+            },
+            {
+              "id": "step_alice_05",
+              "type": "choice",
+              "content": "再来一声……！！！"
+            },
+            {
+              "id": "step_alice_06",
+              "type": "choice",
+              "content": "还不够啊啊啊啊啊啊啊啊！！！！！"
+            },
+            {
+              "id": "step_alice_07",
+              "type": "choice",
+              "content": "只能是笨蛋老哥了"
+            }
+          ]
+        },
+        {
+          "id": "ending_alice_bedford2",
+          "name": "爱丽丝▪贝德福德 END2",
+          "type": "normal",
+          "requirements": "爱丽丝▪贝德福德 攻略后返回标题画面附赠剧情",
+          "steps": [
+            {
+              "id": "step_alice2_02",
+              "type": "note",
+              "content": "強くてコンティニュー～CONTINUE～"
+            },
+            {
+              "id": "step_alice2_03",
+              "type": "choice",
+              "content": "下一作也买"
+            },
+            {
+              "id": "step_alice2_04",
+              "type": "choice",
+              "content": "不是"
+            },
+            {
+              "id": "step_alice2_05",
+              "type": "choice",
+              "content": "下一作也会预约购买"
+            },
+            {
+              "id": "step_alice2_06",
+              "type": "choice",
+              "content": "是的，想看"
+            },
+            {
+              "id": "step_alice2_07",
+              "type": "choice",
+              "content": "好……大……"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

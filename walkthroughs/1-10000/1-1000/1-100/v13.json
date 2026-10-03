@@ -1,0 +1,1904 @@
+{
+  "vid": "v13",
+  "name": {
+    "zh-cn": "无限轮回的时光",
+    "en-us": "Remember11 -the age of infinity-",
+    "ja-jp": "Remember11 -the age of infinity-",
+    "ja-Latn": "remember11"
+  },
+  "level": 1,
+  "updatedAt": "2026-03-25",
+  "tips": [
+    "本游戏的存档分为手动存档和自动存档（Short Cut），本攻略都会用到，注意区别",
+    "游戏默认设置下，长按TAB跳过已读",
+    "END名称存在轻微剧透，不影响核心内容"
+  ],
+  "routes": [
+    {
+      "id": "route_remember11",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_01",
+          "name": "END2 悟在浴室被杀结局·A",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_01_01",
+              "type": "choice",
+              "content": "“是谁呢？”"
+            },
+            {
+              "id": "step_01_02",
+              "type": "choice",
+              "content": "是唱“黎明时分的夜晚”"
+            },
+            {
+              "id": "step_01_03",
+              "type": "choice",
+              "content": "调查四扇门"
+            },
+            {
+              "id": "step_01_04",
+              "type": "choice",
+              "content": "走下台阶"
+            },
+            {
+              "id": "step_01_05",
+              "type": "choice",
+              "content": "害怕"
+            },
+            {
+              "id": "step_01_06",
+              "type": "choice",
+              "content": "“你装蒜也没用的”"
+            },
+            {
+              "id": "step_01_07",
+              "type": "choice",
+              "content": "说自己就是冬川心"
+            },
+            {
+              "id": "step_01_08",
+              "type": "choice",
+              "content": "和男性打招呼"
+            },
+            {
+              "id": "step_01_09",
+              "type": "choice",
+              "content": "这里是哪里？"
+            },
+            {
+              "id": "step_01_10",
+              "type": "choice",
+              "content": "在意为什么悠尼会在这里"
+            },
+            {
+              "id": "step_01_11",
+              "type": "choice",
+              "content": "和黄泉木说话"
+            },
+            {
+              "id": "step_01_12",
+              "type": "choice",
+              "content": "吃了一点压缩饼干"
+            },
+            {
+              "id": "step_01_13",
+              "type": "choice",
+              "content": "试着微笑"
+            },
+            {
+              "id": "step_01_14",
+              "type": "choice",
+              "content": "查看门"
+            },
+            {
+              "id": "step_01_15",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_01_16",
+              "type": "choice",
+              "content": "不吃"
+            },
+            {
+              "id": "step_01_17",
+              "type": "choice",
+              "content": "追问她和悟的关系"
+            },
+            {
+              "id": "step_01_18",
+              "type": "choice",
+              "content": "炖菜"
+            },
+            {
+              "id": "step_01_19",
+              "type": "save",
+              "content": "SAVE 2",
+              "subfix": "游戏结束前"
+            }
+          ]
+        },
+        {
+          "id": "ending_02",
+          "name": "END10 毒杀结局",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_02_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_02_02",
+              "type": "choice",
+              "content": "吃掉"
+            },
+            {
+              "id": "step_02_03",
+              "type": "choice",
+              "content": "道歉"
+            },
+            {
+              "id": "step_02_04",
+              "type": "choice",
+              "content": "粥"
+            },
+            {
+              "id": "step_02_05",
+              "type": "choice",
+              "content": "忍耐一下"
+            },
+            {
+              "id": "step_02_06",
+              "type": "choice",
+              "content": "即使这样也要忍耐"
+            },
+            {
+              "id": "step_02_07",
+              "type": "choice",
+              "content": "忍……忍耐……"
+            },
+            {
+              "id": "step_02_08",
+              "type": "choice",
+              "content": "画雪人"
+            },
+            {
+              "id": "step_02_09",
+              "type": "choice",
+              "content": "教训她"
+            },
+            {
+              "id": "step_02_10",
+              "type": "choice",
+              "content": "“蜜瓜味”"
+            },
+            {
+              "id": "step_02_11",
+              "type": "choice",
+              "content": "悠尼是双胞胎？"
+            },
+            {
+              "id": "step_02_12",
+              "type": "choice",
+              "content": "到悠尼的房间去！"
+            },
+            {
+              "id": "step_02_13",
+              "type": "choice",
+              "content": "警告黛"
+            },
+            {
+              "id": "step_02_14",
+              "type": "choice",
+              "content": "是前世搞了什么恶作剧吧？"
+            },
+            {
+              "id": "step_02_15",
+              "type": "choice",
+              "content": "逃向正面玄关"
+            },
+            {
+              "id": "step_02_16",
+              "type": "choice",
+              "content": "踩在纸箱上"
+            },
+            {
+              "id": "step_02_17",
+              "type": "choice",
+              "content": "再给他看看"
+            },
+            {
+              "id": "step_02_18",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_02_19",
+              "type": "choice",
+              "content": "向黛说明情况"
+            },
+            {
+              "id": "step_02_20",
+              "type": "choice",
+              "content": "追上去"
+            },
+            {
+              "id": "step_02_21",
+              "type": "choice",
+              "content": "什么都不说"
+            },
+            {
+              "id": "step_02_22",
+              "type": "choice",
+              "content": "弯腰躲避"
+            },
+            {
+              "id": "step_02_23",
+              "type": "choice",
+              "content": "提议看黛的手相"
+            },
+            {
+              "id": "step_02_24",
+              "type": "choice",
+              "content": "向黛打听和悟的关系"
+            },
+            {
+              "id": "step_02_25",
+              "type": "choice",
+              "content": "复习"
+            },
+            {
+              "id": "step_02_26",
+              "type": "choice",
+              "content": "坦率地说出我的想法"
+            },
+            {
+              "id": "step_02_27",
+              "type": "choice",
+              "content": "去帮黄泉木忙"
+            },
+            {
+              "id": "step_02_28",
+              "type": "choice",
+              "content": "看着悠尼修理"
+            },
+            {
+              "id": "step_02_29",
+              "type": "choice",
+              "content": "说这样就好"
+            },
+            {
+              "id": "step_02_30",
+              "type": "choice",
+              "content": "去找"
+            },
+            {
+              "id": "step_02_31",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_02_32",
+              "type": "choice",
+              "content": "吃了"
+            },
+            {
+              "id": "step_02_33",
+              "type": "choice",
+              "content": "觉得黄泉木是正确的"
+            },
+            {
+              "id": "step_02_34",
+              "type": "choice",
+              "content": "我探出身体制止"
+            },
+            {
+              "id": "step_02_35",
+              "type": "choice",
+              "content": "向小屋跑去"
+            },
+            {
+              "id": "step_02_36",
+              "type": "choice",
+              "content": "由心保管"
+            },
+            {
+              "id": "step_02_37",
+              "type": "choice",
+              "content": "暂时先离开建筑物"
+            },
+            {
+              "id": "step_02_38",
+              "type": "choice",
+              "content": "停住"
+            },
+            {
+              "id": "step_02_39",
+              "type": "choice",
+              "content": "沿着左边的墙壁前进"
+            },
+            {
+              "id": "step_02_40",
+              "type": "choice",
+              "content": "就这样看着"
+            },
+            {
+              "id": "step_02_41",
+              "type": "choice",
+              "content": "眺望窗外"
+            },
+            {
+              "id": "step_02_42",
+              "type": "choice",
+              "content": "为了不让他看到眼泪抱住他"
+            },
+            {
+              "id": "step_02_43",
+              "type": "save",
+              "content": "SAVE 5",
+              "subfix": "游戏结束前"
+            }
+          ]
+        },
+        {
+          "id": "ending_03",
+          "name": "END5 避难小屋组全灭结局（黛之一）",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_03_01",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_03_02",
+              "type": "choice",
+              "content": "没吃"
+            },
+            {
+              "id": "step_03_03",
+              "type": "choice",
+              "content": "觉得黛的意见也有道理"
+            },
+            {
+              "id": "step_03_04",
+              "type": "choice",
+              "content": "想托付给黛"
+            },
+            {
+              "id": "step_03_05",
+              "type": "save",
+              "content": "SAVE 6"
+            },
+            {
+              "id": "step_03_06",
+              "type": "choice",
+              "content": "询问悠尼逃跑的理由"
+            }
+          ]
+        },
+        {
+          "id": "ending_04",
+          "name": "END9 避难小屋组全灭结局（黄泉木）",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_04_01",
+              "type": "load",
+              "content": "LOAD 6"
+            },
+            {
+              "id": "step_04_02",
+              "type": "choice",
+              "content": "向小屋跑去"
+            },
+            {
+              "id": "step_04_03",
+              "type": "choice",
+              "content": "把粮食交给黄泉木保管"
+            },
+            {
+              "id": "step_04_04",
+              "type": "choice",
+              "content": "暂时先离开建筑物"
+            },
+            {
+              "id": "step_04_05",
+              "type": "choice",
+              "content": "停住"
+            },
+            {
+              "id": "step_04_06",
+              "type": "choice",
+              "content": "沿着左边的墙壁前进"
+            },
+            {
+              "id": "step_04_07",
+              "type": "choice",
+              "content": "即便如此也要去抢夺小刀"
+            },
+            {
+              "id": "step_04_08",
+              "type": "choice",
+              "content": "走到窗前"
+            },
+            {
+              "id": "step_04_09",
+              "type": "choice",
+              "content": "去取杯子"
+            },
+            {
+              "id": "step_04_10",
+              "type": "choice",
+              "content": "听任黄泉木的判断"
+            },
+            {
+              "id": "step_04_11",
+              "type": "save",
+              "content": "SAVE 7",
+              "subfix": "游戏结束前"
+            }
+          ]
+        },
+        {
+          "id": "ending_05",
+          "name": "END7 浴室被不明人物刺杀结局·A",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_05_01",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_05_02",
+              "type": "choice",
+              "content": "无视黛"
+            },
+            {
+              "id": "step_05_03",
+              "type": "choice",
+              "content": "回去"
+            },
+            {
+              "id": "step_05_04",
+              "type": "choice",
+              "content": "做坟墓"
+            },
+            {
+              "id": "step_05_05",
+              "type": "choice",
+              "content": "用手击落"
+            },
+            {
+              "id": "step_05_06",
+              "type": "choice",
+              "content": "提议看黛的手相"
+            },
+            {
+              "id": "step_05_07",
+              "type": "choice",
+              "content": "静静地听下去"
+            },
+            {
+              "id": "step_05_08",
+              "type": "choice",
+              "content": "不复习"
+            },
+            {
+              "id": "step_05_09",
+              "type": "choice",
+              "content": "含糊其辞蒙混过去"
+            },
+            {
+              "id": "step_05_10",
+              "type": "choice",
+              "content": "更在意悟的信息"
+            },
+            {
+              "id": "step_05_11",
+              "type": "choice",
+              "content": "自己来修理"
+            },
+            {
+              "id": "step_05_12",
+              "type": "choice",
+              "content": "说这样就好"
+            },
+            {
+              "id": "step_05_13",
+              "type": "choice",
+              "content": "在这里等"
+            },
+            {
+              "id": "step_05_14",
+              "type": "choice",
+              "content": "没吃"
+            },
+            {
+              "id": "step_05_15",
+              "type": "choice",
+              "content": "觉得黛的意见也有道理"
+            },
+            {
+              "id": "step_05_16",
+              "type": "choice",
+              "content": "想托付给黄泉木"
+            },
+            {
+              "id": "step_05_17",
+              "type": "choice",
+              "content": "大喊“别这样！”"
+            },
+            {
+              "id": "step_05_18",
+              "type": "choice",
+              "content": "向小屋跑去"
+            },
+            {
+              "id": "step_05_19",
+              "type": "save",
+              "content": "SAVE 8"
+            },
+            {
+              "id": "step_05_20",
+              "type": "choice",
+              "content": "把粮食交给黄泉木保管"
+            },
+            {
+              "id": "step_05_21",
+              "type": "save",
+              "content": "SAVE 9"
+            },
+            {
+              "id": "step_05_22",
+              "type": "choice",
+              "content": "沿着墙壁走"
+            },
+            {
+              "id": "step_05_23",
+              "type": "choice",
+              "content": "向右边阳台方向前进"
+            },
+            {
+              "id": "step_05_24",
+              "type": "save",
+              "content": "SAVE 10",
+              "subfix": "游戏结束前"
+            }
+          ]
+        },
+        {
+          "id": "ending_06",
+          "name": "END6 SPHIA遭难结局",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_06_01",
+              "type": "load",
+              "content": "LOAD 8"
+            },
+            {
+              "id": "step_06_02",
+              "type": "choice",
+              "content": "把粮食交给黄泉木保管"
+            },
+            {
+              "id": "step_06_03",
+              "type": "choice",
+              "content": "暂时先离开建筑物"
+            },
+            {
+              "id": "step_06_04",
+              "type": "save",
+              "content": "SAVE 11"
+            },
+            {
+              "id": "step_06_05",
+              "type": "choice",
+              "content": "前进"
+            }
+          ]
+        },
+        {
+          "id": "ending_07",
+          "name": "END8 避难小屋组全灭结局（黛之二）",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_07_01",
+              "type": "load",
+              "content": "LOAD 11"
+            },
+            {
+              "id": "step_07_02",
+              "type": "choice",
+              "content": "停住"
+            },
+            {
+              "id": "step_07_03",
+              "type": "choice",
+              "content": "沿着左边的墙壁前进"
+            },
+            {
+              "id": "step_07_04",
+              "type": "choice",
+              "content": "就这样看着"
+            },
+            {
+              "id": "step_07_05",
+              "type": "choice",
+              "content": "眺望窗外"
+            },
+            {
+              "id": "step_07_06",
+              "type": "choice",
+              "content": "告诉他杯子在哪"
+            },
+            {
+              "id": "step_07_07",
+              "type": "save",
+              "content": "SAVE 12"
+            },
+            {
+              "id": "step_07_08",
+              "type": "choice",
+              "content": "把黛撞开"
+            }
+          ]
+        },
+        {
+          "id": "ending_08",
+          "name": "END11 未能抵达坠落现场冻死结局",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_08_01",
+              "type": "load",
+              "content": "LOAD 12"
+            },
+            {
+              "id": "step_08_02",
+              "type": "choice",
+              "content": "护住悠尼"
+            },
+            {
+              "id": "step_08_03",
+              "type": "choice",
+              "content": "呼唤悠尼"
+            },
+            {
+              "id": "step_08_04",
+              "type": "choice",
+              "content": "吃饭"
+            },
+            {
+              "id": "step_08_05",
+              "type": "save",
+              "content": "SAVE 13"
+            },
+            {
+              "id": "step_08_06",
+              "type": "choice",
+              "content": "总之先行动"
+            }
+          ]
+        },
+        {
+          "id": "ending_09",
+          "name": "END13 未能从坠落现场返回冻死结局",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_09_01",
+              "type": "load",
+              "content": "LOAD 13"
+            },
+            {
+              "id": "step_09_02",
+              "type": "choice",
+              "content": "一动也不动"
+            },
+            {
+              "id": "step_09_03",
+              "type": "choice",
+              "content": "救助悠尼"
+            },
+            {
+              "id": "step_09_04",
+              "type": "choice",
+              "content": "我来背悠尼"
+            }
+          ]
+        },
+        {
+          "id": "ending_10",
+          "name": "END15 心重责之下自杀结局",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_10_01",
+              "type": "load",
+              "content": "LOAD 8"
+            },
+            {
+              "id": "step_10_02",
+              "type": "choice",
+              "content": "由心保管"
+            },
+            {
+              "id": "step_10_03",
+              "type": "choice",
+              "content": "暂时先离开建筑物"
+            },
+            {
+              "id": "step_10_04",
+              "type": "choice",
+              "content": "停住"
+            },
+            {
+              "id": "step_10_05",
+              "type": "choice",
+              "content": "沿着左边的墙壁前进"
+            },
+            {
+              "id": "step_10_06",
+              "type": "choice",
+              "content": "就这样看着"
+            },
+            {
+              "id": "step_10_07",
+              "type": "choice",
+              "content": "眺望窗外"
+            },
+            {
+              "id": "step_10_08",
+              "type": "choice",
+              "content": "忍住眼泪不流"
+            },
+            {
+              "id": "step_10_09",
+              "type": "choice",
+              "content": "这是我们三个人的食物"
+            },
+            {
+              "id": "step_10_10",
+              "type": "save",
+              "content": "SAVE 14"
+            },
+            {
+              "id": "step_10_11",
+              "type": "choice",
+              "content": "不指出犯人"
+            },
+            {
+              "id": "step_10_12",
+              "type": "choice",
+              "content": "吃东西"
+            },
+            {
+              "id": "step_10_13",
+              "type": "choice",
+              "content": "跟黄泉木走"
+            },
+            {
+              "id": "step_10_14",
+              "type": "choice",
+              "content": "抛下黄泉木离去"
+            },
+            {
+              "id": "step_10_15",
+              "type": "choice",
+              "content": "救助悠尼"
+            },
+            {
+              "id": "step_10_16",
+              "type": "choice",
+              "content": "在一旁看着"
+            },
+            {
+              "id": "step_10_17",
+              "type": "save",
+              "content": "SAVE 15",
+              "subfix": "游戏结束前"
+            }
+          ]
+        },
+        {
+          "id": "ending_11",
+          "name": "END14 在坠落现场徘徊结局",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_11_01",
+              "type": "load",
+              "content": "LOAD 14"
+            },
+            {
+              "id": "step_11_02",
+              "type": "choice",
+              "content": "是黛？"
+            },
+            {
+              "id": "step_11_03",
+              "type": "choice",
+              "content": "不吃东西"
+            },
+            {
+              "id": "step_11_04",
+              "type": "choice",
+              "content": "返回小屋"
+            },
+            {
+              "id": "step_11_05",
+              "type": "choice",
+              "content": "一动也不动"
+            },
+            {
+              "id": "step_11_06",
+              "type": "save",
+              "content": "SAVE 16"
+            },
+            {
+              "id": "step_11_07",
+              "type": "choice",
+              "content": "丢下悠尼"
+            }
+          ]
+        },
+        {
+          "id": "ending_12",
+          "name": "END12 避难小屋组全灭结局（黛之三）",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_12_01",
+              "type": "load",
+              "content": "LOAD 16"
+            },
+            {
+              "id": "step_12_02",
+              "type": "choice",
+              "content": "救助悠尼"
+            },
+            {
+              "id": "step_12_03",
+              "type": "save",
+              "content": "SAVE 17"
+            },
+            {
+              "id": "step_12_04",
+              "type": "choice",
+              "content": "动手反击"
+            }
+          ]
+        },
+        {
+          "id": "ending_13",
+          "name": "END16 心从雪檐上摔落结局",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_13_01",
+              "type": "load",
+              "content": "LOAD 17"
+            },
+            {
+              "id": "step_13_02",
+              "type": "choice",
+              "content": "一动不动"
+            },
+            {
+              "id": "step_13_03",
+              "type": "choice",
+              "content": "在一旁看着"
+            },
+            {
+              "id": "step_13_04",
+              "type": "choice",
+              "content": "莫非有救援物资？"
+            },
+            {
+              "id": "step_13_05",
+              "type": "save",
+              "content": "SAVE 18"
+            },
+            {
+              "id": "step_13_06",
+              "type": "choice",
+              "content": "返回"
+            },
+            {
+              "id": "step_13_07",
+              "type": "choice",
+              "content": "把手向黄泉木伸过去"
+            }
+          ]
+        },
+        {
+          "id": "ending_14",
+          "name": "END17 X地点遭遇雪崩结局",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_14_01",
+              "type": "load",
+              "content": "LOAD 18"
+            },
+            {
+              "id": "step_14_02",
+              "type": "choice",
+              "content": "继续向前"
+            },
+            {
+              "id": "step_14_03",
+              "type": "save",
+              "content": "SAVE 19"
+            },
+            {
+              "id": "step_14_04",
+              "type": "choice",
+              "content": "再找一会儿看看"
+            }
+          ]
+        },
+        {
+          "id": "ending_15",
+          "name": "END1 心篇GOOD END",
+          "type": "good",
+          "steps": [
+            {
+              "id": "step_15_01",
+              "type": "load",
+              "content": "LOAD 19"
+            },
+            {
+              "id": "step_15_02",
+              "type": "choice",
+              "content": "返回"
+            },
+            {
+              "id": "step_15_03",
+              "type": "save",
+              "content": "SAVE 20",
+              "subfix": "END达成之前"
+            }
+          ]
+        },
+        {
+          "id": "ending_16",
+          "name": "END21 悟在浴室被杀结局·B",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_16_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_16_02",
+              "type": "note",
+              "content": "至结束覆盖系统存档"
+            },
+            {
+              "id": "step_16_03",
+              "type": "note",
+              "content": "开始悟篇游戏"
+            },
+            {
+              "id": "step_16_04",
+              "type": "choice",
+              "content": "“天使吗？”"
+            },
+            {
+              "id": "step_16_05",
+              "type": "choice",
+              "content": "“为什么你会在这里……？”"
+            },
+            {
+              "id": "step_16_06",
+              "type": "choice",
+              "content": "“不，没什么要紧的。”"
+            },
+            {
+              "id": "step_16_07",
+              "type": "choice",
+              "content": "确认自己的姿态"
+            },
+            {
+              "id": "step_16_08",
+              "type": "choice",
+              "content": "因为内海小姐叫我捉住你"
+            },
+            {
+              "id": "step_16_09",
+              "type": "choice",
+              "content": "否定"
+            },
+            {
+              "id": "step_16_10",
+              "type": "choice",
+              "content": "没听过"
+            },
+            {
+              "id": "step_16_11",
+              "type": "choice",
+              "content": "不记得"
+            },
+            {
+              "id": "step_16_12",
+              "type": "choice",
+              "content": "我登上钟楼的理由是？"
+            }
+          ]
+        },
+        {
+          "id": "ending_17",
+          "name": "END22 被神秘黑影刺杀结局",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_17_01",
+              "type": "load",
+              "content": "LOAD 19"
+            },
+            {
+              "id": "step_17_02",
+              "type": "choice",
+              "content": "再找一会儿看看"
+            },
+            {
+              "id": "step_17_03",
+              "type": "note",
+              "content": "覆盖系统存档"
+            },
+            {
+              "id": "step_17_04",
+              "type": "load",
+              "content": "LOAD 25",
+              "subfix": "Short Cut：从悟篇第1天中途开始"
+            },
+            {
+              "id": "step_17_05",
+              "type": "choice",
+              "content": "我是来救你的"
+            },
+            {
+              "id": "step_17_06",
+              "type": "choice",
+              "content": "肯定"
+            },
+            {
+              "id": "step_17_07",
+              "type": "choice",
+              "content": "没听过"
+            },
+            {
+              "id": "step_17_08",
+              "type": "choice",
+              "content": "记得"
+            },
+            {
+              "id": "step_17_09",
+              "type": "choice",
+              "content": "我成为DID的原因是？"
+            },
+            {
+              "id": "step_17_10",
+              "type": "choice",
+              "content": "调查桌子"
+            },
+            {
+              "id": "step_17_11",
+              "type": "choice",
+              "content": "调查架子"
+            },
+            {
+              "id": "step_17_12",
+              "type": "choice",
+              "content": "调查冰箱"
+            },
+            {
+              "id": "step_17_13",
+              "type": "choice",
+              "content": "告诉她“我不是冬川心”"
+            },
+            {
+              "id": "step_17_14",
+              "type": "choice",
+              "content": "早餐"
+            },
+            {
+              "id": "step_17_15",
+              "type": "choice",
+              "content": "喝"
+            },
+            {
+              "id": "step_17_16",
+              "type": "choice",
+              "content": "加"
+            },
+            {
+              "id": "step_17_17",
+              "type": "choice",
+              "content": "登上过"
+            },
+            {
+              "id": "step_17_18",
+              "type": "choice",
+              "content": "不回头"
+            },
+            {
+              "id": "step_17_20",
+              "type": "choice",
+              "content": "回话"
+            },
+            {
+              "id": "step_17_21",
+              "type": "choice",
+              "content": "去悠尼的房间"
+            },
+            {
+              "id": "step_17_22",
+              "type": "choice",
+              "content": "说了是闲聊吧？"
+            },
+            {
+              "id": "step_17_23",
+              "type": "choice",
+              "content": "询问对黄泉木和铃的名字有没有印象"
+            },
+            {
+              "id": "step_17_24",
+              "type": "choice",
+              "content": "犬伏景子吧？"
+            },
+            {
+              "id": "step_17_25",
+              "type": "choice",
+              "content": "有点"
+            },
+            {
+              "id": "step_17_26",
+              "type": "choice",
+              "content": "答应"
+            },
+            {
+              "id": "step_17_27",
+              "type": "save",
+              "content": "SAVE 21"
+            },
+            {
+              "id": "step_17_28",
+              "type": "choice",
+              "content": "正面对抗"
+            }
+          ]
+        },
+        {
+          "id": "ending_18",
+          "name": "END3 悟转移后被刺杀结局",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_18_01",
+              "type": "load",
+              "content": "LOAD 26",
+              "subfix": "Short Cut：从心篇第2天最初开始"
+            },
+            {
+              "id": "step_18_02",
+              "type": "choice",
+              "content": "认命去厕所"
+            },
+            {
+              "id": "step_18_03",
+              "type": "choice",
+              "content": "画兔子"
+            },
+            {
+              "id": "step_18_04",
+              "type": "choice",
+              "content": "保持沉默"
+            },
+            {
+              "id": "step_18_05",
+              "type": "choice",
+              "content": "“菠萝味”"
+            },
+            {
+              "id": "step_18_06",
+              "type": "choice",
+              "content": "悠尼是克隆人？"
+            },
+            {
+              "id": "step_18_07",
+              "type": "choice",
+              "content": "到穗鸟的房间去！"
+            },
+            {
+              "id": "step_18_08",
+              "type": "choice",
+              "content": "阻止黄泉木"
+            },
+            {
+              "id": "step_18_09",
+              "type": "choice",
+              "content": "要是不救她的话，就不是黄泉木先生了。"
+            }
+          ]
+        },
+        {
+          "id": "ending_19",
+          "name": "END23 内海计划成功结局",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_19_01",
+              "type": "load",
+              "content": "LOAD 21"
+            },
+            {
+              "id": "step_19_02",
+              "type": "choice",
+              "content": "逃走"
+            },
+            {
+              "id": "step_19_03",
+              "type": "choice",
+              "content": "相信报道"
+            },
+            {
+              "id": "step_19_04",
+              "type": "choice",
+              "content": "“这可不行”"
+            },
+            {
+              "id": "step_19_05",
+              "type": "choice",
+              "content": "滑雪板"
+            },
+            {
+              "id": "step_19_06",
+              "type": "choice",
+              "content": "问题不在这里吧？"
+            },
+            {
+              "id": "step_19_07",
+              "type": "choice",
+              "content": "不杀"
+            },
+            {
+              "id": "step_19_08",
+              "type": "choice",
+              "content": "能说"
+            },
+            {
+              "id": "step_19_09",
+              "type": "choice",
+              "content": "让老鼠受折磨的人是你吧？"
+            },
+            {
+              "id": "step_19_10",
+              "type": "choice",
+              "content": "询问心到刚才为止都做了什么"
+            },
+            {
+              "id": "step_19_11",
+              "type": "choice",
+              "content": "心能活下来，我很高兴"
+            },
+            {
+              "id": "step_19_12",
+              "type": "choice",
+              "content": "你是不是隐瞒着什么？"
+            },
+            {
+              "id": "step_19_13",
+              "type": "choice",
+              "content": "走到穗鸟身边"
+            },
+            {
+              "id": "step_19_14",
+              "type": "choice",
+              "content": "知道"
+            },
+            {
+              "id": "step_19_15",
+              "type": "choice",
+              "content": "“笼目”"
+            },
+            {
+              "id": "step_19_16",
+              "type": "save",
+              "content": "SAVE 22"
+            },
+            {
+              "id": "step_19_17",
+              "type": "choice",
+              "content": "回答“我也口渴”"
+            }
+          ]
+        },
+        {
+          "id": "ending_20",
+          "name": "END4 SPHIA组灭绝结局",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_20_01",
+              "type": "load",
+              "content": "LOAD 27",
+              "subfix": "Short Cut：从心篇第4天最初开始"
+            },
+            {
+              "id": "step_20_02",
+              "type": "choice",
+              "content": "觉得黄泉木是正确的"
+            },
+            {
+              "id": "step_20_03",
+              "type": "choice",
+              "content": "我探出身体制止"
+            }
+          ]
+        },
+        {
+          "id": "ending_21",
+          "name": "END27 MAO阻断剂造成血管破裂结局",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_21_01",
+              "type": "load",
+              "content": "LOAD 5"
+            },
+            {
+              "id": "step_21_02",
+              "type": "note",
+              "content": "至结束覆盖系统存档"
+            },
+            {
+              "id": "step_21_03",
+              "type": "load",
+              "content": "LOAD 28",
+              "subfix": "Short Cut：从悟篇第3天中途开始"
+            },
+            {
+              "id": "step_21_04",
+              "type": "choice",
+              "content": "走到穗鸟身边"
+            },
+            {
+              "id": "step_21_05",
+              "type": "choice",
+              "content": "知道"
+            },
+            {
+              "id": "step_21_06",
+              "type": "choice",
+              "content": "“笼女”"
+            },
+            {
+              "id": "step_21_07",
+              "type": "choice",
+              "content": "回答“为了监视你”"
+            },
+            {
+              "id": "step_21_08",
+              "type": "choice",
+              "content": "拒绝"
+            },
+            {
+              "id": "step_21_09",
+              "type": "choice",
+              "content": "不是还有黄泉木先生在吗"
+            },
+            {
+              "id": "step_21_10",
+              "type": "choice",
+              "content": "不知道"
+            },
+            {
+              "id": "step_21_11",
+              "type": "choice",
+              "content": "喝"
+            }
+          ]
+        },
+        {
+          "id": "ending_22",
+          "name": "END24 避难小屋组全灭结局·B（黛之一）",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_22_01",
+              "type": "load",
+              "content": "LOAD 6"
+            },
+            {
+              "id": "step_22_02",
+              "type": "choice",
+              "content": "询问悠尼逃跑的理由"
+            },
+            {
+              "id": "step_22_03",
+              "type": "note",
+              "content": "覆盖系统存档"
+            },
+            {
+              "id": "step_22_04",
+              "type": "load",
+              "content": "LOAD 29",
+              "subfix": "Short Cut：从悟篇第4天最初开始"
+            },
+            {
+              "id": "step_22_05",
+              "type": "choice",
+              "content": "回答“为了监视你”"
+            },
+            {
+              "id": "step_22_06",
+              "type": "choice",
+              "content": "拒绝"
+            },
+            {
+              "id": "step_22_07",
+              "type": "choice",
+              "content": "不是还有孩子在吗"
+            },
+            {
+              "id": "step_22_08",
+              "type": "choice",
+              "content": "知道"
+            },
+            {
+              "id": "step_22_09",
+              "type": "choice",
+              "content": "不喝"
+            }
+          ]
+        },
+        {
+          "id": "ending_23",
+          "name": "END29 避难小屋组灭绝结局",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_23_01",
+              "type": "load",
+              "content": "LOAD 7"
+            },
+            {
+              "id": "step_23_02",
+              "type": "note",
+              "content": "至结束覆盖系统存档"
+            },
+            {
+              "id": "step_23_03",
+              "type": "load",
+              "content": "LOAD 30",
+              "subfix": "Short Cut：从悟篇第5天最初开始"
+            }
+          ]
+        },
+        {
+          "id": "ending_24",
+          "name": "END26 浴室被不明人物刺杀结局·B",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_24_01",
+              "type": "load",
+              "content": "LOAD 10"
+            },
+            {
+              "id": "step_24_02",
+              "type": "note",
+              "content": "至END覆盖系统存档"
+            },
+            {
+              "id": "step_24_03",
+              "type": "load",
+              "content": "LOAD 31",
+              "subfix": "Short Cut：从悟篇第4天中途开始"
+            },
+            {
+              "id": "step_24_04",
+              "type": "choice",
+              "content": "知道"
+            },
+            {
+              "id": "step_24_05",
+              "type": "choice",
+              "content": "喝"
+            }
+          ]
+        },
+        {
+          "id": "ending_25",
+          "name": "END25 悟冻死结局",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_25_01",
+              "type": "load",
+              "content": "LOAD 11"
+            },
+            {
+              "id": "step_25_02",
+              "type": "choice",
+              "content": "前进"
+            },
+            {
+              "id": "step_25_03",
+              "type": "note",
+              "content": "覆盖系统存档"
+            },
+            {
+              "id": "step_25_04",
+              "type": "load",
+              "content": "LOAD 31",
+              "subfix": "Short Cut：从悟篇第4天中途开始"
+            },
+            {
+              "id": "step_25_05",
+              "type": "choice",
+              "content": "知道"
+            },
+            {
+              "id": "step_25_06",
+              "type": "choice",
+              "content": "喝"
+            }
+          ]
+        },
+        {
+          "id": "ending_26",
+          "name": "END28 避难小屋组全灭结局·B（黛之二）",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_26_01",
+              "type": "load",
+              "content": "LOAD 12"
+            },
+            {
+              "id": "step_26_02",
+              "type": "choice",
+              "content": "把黛撞开"
+            },
+            {
+              "id": "step_26_03",
+              "type": "note",
+              "content": "覆盖系统存档"
+            },
+            {
+              "id": "step_26_04",
+              "type": "load",
+              "content": "LOAD 30",
+              "subfix": "Short Cut：从悟篇第5天最初开始"
+            }
+          ]
+        },
+        {
+          "id": "ending_27",
+          "name": "END30 内海暴走将悟刺杀结局",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_27_01",
+              "type": "load",
+              "content": "LOAD 22"
+            },
+            {
+              "id": "step_27_02",
+              "type": "choice",
+              "content": "回答“为了监视你”"
+            },
+            {
+              "id": "step_27_03",
+              "type": "choice",
+              "content": "拒绝"
+            },
+            {
+              "id": "step_27_04",
+              "type": "choice",
+              "content": "不是还有黄泉木先生在吗"
+            },
+            {
+              "id": "step_27_05",
+              "type": "choice",
+              "content": "知道"
+            },
+            {
+              "id": "step_27_06",
+              "type": "choice",
+              "content": "喝"
+            },
+            {
+              "id": "step_27_07",
+              "type": "choice",
+              "content": "“为什么我要杀了穗鸟”"
+            },
+            {
+              "id": "step_27_08",
+              "type": "choice",
+              "content": "不"
+            },
+            {
+              "id": "step_27_09",
+              "type": "choice",
+              "content": "默默地握住她的手"
+            },
+            {
+              "id": "step_27_10",
+              "type": "save",
+              "content": "SAVE 23"
+            },
+            {
+              "id": "step_27_11",
+              "type": "choice",
+              "content": "扑到内海背后"
+            }
+          ]
+        },
+        {
+          "id": "ending_28",
+          "name": "END18 独自一人在小屋遇难结局",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_28_01",
+              "type": "load",
+              "content": "LOAD 32",
+              "subfix": "Short Cut：从心篇第6天中途开始"
+            },
+            {
+              "id": "step_28_02",
+              "type": "choice",
+              "content": "莫非有救助队？"
+            },
+            {
+              "id": "step_28_03",
+              "type": "choice",
+              "content": "继续向前"
+            },
+            {
+              "id": "step_28_04",
+              "type": "choice",
+              "content": "返回"
+            }
+          ]
+        },
+        {
+          "id": "ending_29",
+          "name": "END31 优希堂计划失败结局",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_29_01",
+              "type": "load",
+              "content": "LOAD 23"
+            },
+            {
+              "id": "step_29_02",
+              "type": "choice",
+              "content": "挺身掩护穗鸟"
+            },
+            {
+              "id": "step_29_03",
+              "type": "choice",
+              "content": "告诉她穗鸟和犬伏是不同的人"
+            },
+            {
+              "id": "step_29_04",
+              "type": "choice",
+              "content": "决定认命"
+            },
+            {
+              "id": "step_29_05",
+              "type": "save",
+              "content": "SAVE 24"
+            },
+            {
+              "id": "step_29_06",
+              "type": "choice",
+              "content": "既不是我也不是心"
+            },
+            {
+              "id": "step_29_07",
+              "type": "choice",
+              "content": "晚上6时11分～晚上7时17分"
+            },
+            {
+              "id": "step_29_08",
+              "type": "choice",
+              "content": "晚上8时02分～晚上9时08分"
+            },
+            {
+              "id": "step_29_09",
+              "type": "choice",
+              "content": "在三点间转移"
+            },
+            {
+              "id": "step_29_10",
+              "type": "choice",
+              "content": "打开"
+            },
+            {
+              "id": "step_29_11",
+              "type": "choice",
+              "content": "不清楚"
+            }
+          ]
+        },
+        {
+          "id": "ending_30",
+          "name": "END32 在小屋中茫然自失结局",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_30_01",
+              "type": "load",
+              "content": "LOAD 33",
+              "subfix": "Short Cut：从悟篇第7天最初开始"
+            },
+            {
+              "id": "step_30_02",
+              "type": "choice",
+              "content": "既不是我也不是心"
+            },
+            {
+              "id": "step_30_03",
+              "type": "choice",
+              "content": "晚上6时11分～晚上7时17分"
+            },
+            {
+              "id": "step_30_04",
+              "type": "choice",
+              "content": "晚上8时02分～晚上9时08分"
+            },
+            {
+              "id": "step_30_05",
+              "type": "choice",
+              "content": "在三点间转移"
+            },
+            {
+              "id": "step_30_06",
+              "type": "choice",
+              "content": "不打开"
+            }
+          ]
+        },
+        {
+          "id": "ending_31",
+          "name": "END33 避难小屋组全灭结局（心）",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_31_01",
+              "type": "load",
+              "content": "LOAD 15"
+            },
+            {
+              "id": "step_31_02",
+              "type": "note",
+              "content": "至结束覆盖系统存档"
+            },
+            {
+              "id": "step_31_03",
+              "type": "load",
+              "content": "LOAD 34",
+              "subfix": "Short Cut：从悟篇第5天中途开始"
+            },
+            {
+              "id": "step_31_04",
+              "type": "choice",
+              "content": "“为什么我要杀了穗鸟”"
+            },
+            {
+              "id": "step_31_05",
+              "type": "choice",
+              "content": "嗯"
+            },
+            {
+              "id": "step_31_06",
+              "type": "choice",
+              "content": "默默地握住她的手"
+            },
+            {
+              "id": "step_31_07",
+              "type": "choice",
+              "content": "挺身掩护穗鸟"
+            },
+            {
+              "id": "step_31_08",
+              "type": "choice",
+              "content": "告诉她穗鸟和犬伏是不同的人"
+            },
+            {
+              "id": "step_31_09",
+              "type": "choice",
+              "content": "决定认命"
+            },
+            {
+              "id": "step_31_10",
+              "type": "choice",
+              "content": "既不是我也不是心"
+            },
+            {
+              "id": "step_31_11",
+              "type": "choice",
+              "content": "晚上6时11分～晚上7时17分"
+            },
+            {
+              "id": "step_31_12",
+              "type": "choice",
+              "content": "晚上8时02分～晚上9时08分"
+            },
+            {
+              "id": "step_31_13",
+              "type": "choice",
+              "content": "在三点间转移"
+            },
+            {
+              "id": "step_31_14",
+              "type": "choice",
+              "content": "不打开"
+            }
+          ]
+        },
+        {
+          "id": "ending_32",
+          "name": "END19 悟篇GOOD END",
+          "type": "good",
+          "steps": [
+            {
+              "id": "step_32_01",
+              "type": "load",
+              "content": "LOAD 20"
+            },
+            {
+              "id": "step_32_02",
+              "type": "choice",
+              "content": "返回"
+            },
+            {
+              "id": "step_32_03",
+              "type": "note",
+              "content": "覆盖系统存档"
+            },
+            {
+              "id": "step_32_04",
+              "type": "load",
+              "content": "LOAD 35",
+              "subfix": "shortcut29"
+            },
+            {
+              "id": "step_32_05",
+              "type": "choice",
+              "content": "不打开"
+            }
+          ]
+        },
+        {
+          "id": "ending_33",
+          "name": "END20 悟篇尾声",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_33_01",
+              "type": "note",
+              "content": "为什么闹钟快了33分钟？"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

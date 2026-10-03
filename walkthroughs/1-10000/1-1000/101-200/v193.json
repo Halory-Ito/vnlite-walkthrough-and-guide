@@ -1,0 +1,138 @@
+{
+  "vid": "v193",
+  "name": {
+    "zh-cn": "七色★星露",
+    "ja-jp": "ななついろ★ドロップス",
+    "ja-Latn": "nanatsuiro-drops"
+  },
+  "level": 2,
+  "updatedAt": "2026-05-18",
+  "routes": [
+    {
+      "id": "route_game",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_akihime",
+          "name": "秋姬すもも END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_aki_1",
+              "type": "note",
+              "content": "秋姬依然蹲在刚才的地方"
+            },
+            {
+              "id": "step_aki_2",
+              "type": "choice",
+              "content": "果然还是追上去吧"
+            },
+            {
+              "id": "step_aki_3",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_aki_4",
+              "type": "choice",
+              "content": "这个蔬菜要怎样？"
+            },
+            {
+              "id": "step_aki_5",
+              "type": "choice",
+              "content": "不交换"
+            },
+            {
+              "id": "step_aki_6",
+              "type": "choice",
+              "content": "亲额头"
+            }
+          ]
+        },
+        {
+          "id": "ending_yuki",
+          "name": "结城ノナ END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_yuk_1",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_yuk_2",
+              "type": "choice",
+              "content": "米还真够多的"
+            },
+            {
+              "id": "step_yuk_3",
+              "type": "choice",
+              "content": "交换"
+            },
+            {
+              "id": "step_yuk_4",
+              "type": "choice",
+              "content": "再温顺些比较好",
+              "subfix": "选另一个选项 回收CG"
+            }
+          ]
+        },
+        {
+          "id": "ending_bad",
+          "name": "BAD END",
+          "type": "bad",
+          "requirements": "从最初开始",
+          "steps": [
+            {
+              "id": "step_bad_2",
+              "type": "choice",
+              "content": "八重野的手不知为何停下了"
+            },
+            {
+              "id": "step_bad_3",
+              "type": "choice",
+              "content": "我到底应该怎么办才好？"
+            },
+            {
+              "id": "step_bad_4",
+              "type": "choice",
+              "content": "八重野会怎么过呢"
+            },
+            {
+              "id": "step_bad_5",
+              "type": "choice",
+              "content": "柴禾够不够啊？"
+            },
+            {
+              "id": "step_bad_6",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_bad_7",
+              "type": "choice",
+              "content": "亲嘴唇"
+            }
+          ]
+        },
+        {
+          "id": "ending_nadeshiko",
+          "name": "抚子 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_nad_1",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_nad_2",
+              "type": "choice",
+              "content": "亲额头"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,595 @@
+{
+  "vid": "v52702",
+  "name": {
+    "zh-cn": "与恋爱初次见面",
+    "ja-jp": "恋愛、はじめまして",
+    "ja-Latn": "renai-hajimemashite"
+  },
+  "level": 2,
+  "updatedAt": "2026-02-27",
+  "routes": [
+    {
+      "id": "route_1759738352085",
+      "name": "天使",
+      "endings": [
+        {
+          "id": "ending_1759750278652",
+          "name": "天使 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1759750292636",
+              "type": "choice",
+              "content": "【START】"
+            },
+            {
+              "id": "step_1759750308433",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1759750309517",
+              "type": "choice",
+              "content": "反驳她"
+            },
+            {
+              "id": "step_1759750309673",
+              "type": "choice",
+              "content": "前去迎接她"
+            },
+            {
+              "id": "step_1759750309890",
+              "type": "choice",
+              "content": "不情不愿地让天使酱帮忙剪"
+            },
+            {
+              "id": "step_1759750404103",
+              "type": "choice",
+              "content": "天使酱"
+            },
+            {
+              "id": "step_1759750410394",
+              "type": "choice",
+              "content": "爱"
+            },
+            {
+              "id": "step_1759750422893",
+              "type": "note",
+              "content": "※序章结束"
+            },
+            {
+              "id": "step_1759752238188",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1759819283150",
+              "type": "choice",
+              "content": "前往图书室"
+            },
+            {
+              "id": "step_1759819283419",
+              "type": "choice",
+              "content": "你接下来有安排吗？"
+            },
+            {
+              "id": "step_1759819284433",
+              "type": "choice",
+              "content": "你果然喜欢蓝泽吧？"
+            },
+            {
+              "id": "step_1759819284798",
+              "type": "choice",
+              "content": "努力尝试早起"
+            },
+            {
+              "id": "step_1759819306680",
+              "type": "choice",
+              "content": "与小天使共同度过"
+            },
+            {
+              "id": "step_1759819306826",
+              "type": "choice",
+              "content": "电影院"
+            },
+            {
+              "id": "step_1759819306973",
+              "type": "choice",
+              "content": "宁姐也可以"
+            },
+            {
+              "id": "step_1759819307121",
+              "type": "choice",
+              "content": "我要健康的早起"
+            },
+            {
+              "id": "step_1759819307289",
+              "type": "choice",
+              "content": "还是别汇报了"
+            },
+            {
+              "id": "step_1759819307429",
+              "type": "choice",
+              "content": "来自她的压力"
+            },
+            {
+              "id": "step_1759819307580",
+              "type": "choice",
+              "content": "叫我伊织君"
+            },
+            {
+              "id": "step_1759820328263",
+              "type": "choice",
+              "content": "正是爱早起的年纪"
+            },
+            {
+              "id": "step_1759820328421",
+              "type": "choice",
+              "content": "我本来就是色狼"
+            },
+            {
+              "id": "step_1759820328564",
+              "type": "choice",
+              "content": "干脆亲口品尝品尝你吧"
+            },
+            {
+              "id": "step_1759820328693",
+              "type": "choice",
+              "content": "与小天使共度午休"
+            },
+            {
+              "id": "step_1759820328825",
+              "type": "choice",
+              "content": "果然早起就是好"
+            },
+            {
+              "id": "step_1759820328933",
+              "type": "choice",
+              "content": "感受到压力"
+            },
+            {
+              "id": "step_1759820329083",
+              "type": "choice",
+              "content": "前往图书室"
+            },
+            {
+              "id": "step_1759820419880",
+              "type": "choice",
+              "content": "我也有可能是来找你的"
+            },
+            {
+              "id": "step_1759820420033",
+              "type": "choice",
+              "content": "我也要去～！"
+            },
+            {
+              "id": "step_1759820420171",
+              "type": "choice",
+              "content": "甘于现状"
+            },
+            {
+              "id": "step_1759820420299",
+              "type": "choice",
+              "content": "那就这么办～"
+            },
+            {
+              "id": "step_1759820420411",
+              "type": "choice",
+              "content": "尝试性的出门转转"
+            },
+            {
+              "id": "step_1759820436867",
+              "type": "choice",
+              "content": "拍手喝彩"
+            },
+            {
+              "id": "step_1759820437023",
+              "type": "choice",
+              "content": "为猫猫喊加油"
+            },
+            {
+              "id": "step_1759820437166",
+              "type": "choice",
+              "content": "天使酱"
+            },
+            {
+              "id": "step_1759820437296",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_1759820437414",
+              "type": "choice",
+              "content": "暂且争取时间"
+            },
+            {
+              "id": "step_1759820437536",
+              "type": "choice",
+              "content": "LOSERS LOVE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1759820778489",
+      "name": "蓝泽紫",
+      "endings": [
+        {
+          "id": "ending_1759820785334",
+          "name": "紫 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1759820892367",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1759820954202",
+              "type": "choice",
+              "content": "直视眼前的她"
+            },
+            {
+              "id": "step_1759820956766",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_1759820969220",
+              "type": "choice",
+              "content": "接下来应当直面自己的内心找出答案"
+            },
+            {
+              "id": "step_1759820969389",
+              "type": "choice",
+              "content": "想看"
+            },
+            {
+              "id": "step_1759820969626",
+              "type": "choice",
+              "content": "前去偷窥"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1759820993970",
+      "name": "柏木堇",
+      "endings": [
+        {
+          "id": "ending_1759821054064",
+          "name": "堇 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1759821118801",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_1759821130024",
+              "type": "choice",
+              "content": "找前辈商量"
+            },
+            {
+              "id": "step_1759821130217",
+              "type": "choice",
+              "content": "直接上手揉"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1759821150429",
+      "name": "风雅姫乃",
+      "endings": [
+        {
+          "id": "ending_1759821209016",
+          "name": "姫乃 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1759821221839",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1759821229606",
+              "type": "choice",
+              "content": "当然是回家打游戏了"
+            },
+            {
+              "id": "step_1759821229888",
+              "type": "choice",
+              "content": "正确答案是保持沉默"
+            },
+            {
+              "id": "step_1759821230204",
+              "type": "choice",
+              "content": "练级练到睡着为止"
+            },
+            {
+              "id": "step_1759821230627",
+              "type": "choice",
+              "content": "尝试性地出门转转"
+            },
+            {
+              "id": "step_1759821230830",
+              "type": "choice",
+              "content": "摸摸她的头"
+            },
+            {
+              "id": "step_1759821231019",
+              "type": "choice",
+              "content": "作为绅士就要盯着看"
+            },
+            {
+              "id": "step_1759821231196",
+              "type": "choice",
+              "content": "深夜的个人跑步"
+            },
+            {
+              "id": "step_1759821231384",
+              "type": "choice",
+              "content": "还是别汇报了"
+            },
+            {
+              "id": "step_1759821231580",
+              "type": "choice",
+              "content": "来自她的压力"
+            },
+            {
+              "id": "step_1759821264663",
+              "type": "choice",
+              "content": "我是绪方"
+            },
+            {
+              "id": "step_1759821268919",
+              "type": "choice",
+              "content": "来玩游戏吧"
+            },
+            {
+              "id": "step_1759821269598",
+              "type": "choice",
+              "content": "那就出发吧"
+            },
+            {
+              "id": "step_1759821401909",
+              "type": "choice",
+              "content": "前往图书室"
+            },
+            {
+              "id": "step_1759821402077",
+              "type": "choice",
+              "content": "你接下来有安排吗？"
+            },
+            {
+              "id": "step_1759821402228",
+              "type": "choice",
+              "content": "等宁姐回来"
+            },
+            {
+              "id": "step_1759821402364",
+              "type": "choice",
+              "content": "身为主角当然要把姐姐收了"
+            },
+            {
+              "id": "step_1759821402526",
+              "type": "choice",
+              "content": "感受到压力"
+            },
+            {
+              "id": "step_1759821402683",
+              "type": "save",
+              "content": "SAVE 5"
+            },
+            {
+              "id": "step_1759821456621",
+              "type": "choice",
+              "content": "和游戏玩伴们打游戏"
+            },
+            {
+              "id": "step_1759821456774",
+              "type": "choice",
+              "content": "学姐你不是还有我吗"
+            },
+            {
+              "id": "step_1759821456945",
+              "type": "choice",
+              "content": "默默目送"
+            },
+            {
+              "id": "step_1759821457094",
+              "type": "choice",
+              "content": "今天就让你尝尝劳资的厉害"
+            },
+            {
+              "id": "step_1759821457258",
+              "type": "choice",
+              "content": "所谓青春就是得付诸行动！"
+            },
+            {
+              "id": "step_1759821457423",
+              "type": "choice",
+              "content": "邀请公主学姐"
+            },
+            {
+              "id": "step_1759821457566",
+              "type": "choice",
+              "content": "去就对了！！"
+            },
+            {
+              "id": "step_1759821457726",
+              "type": "save",
+              "content": "SAVE 6"
+            },
+            {
+              "id": "step_1759821458031",
+              "type": "choice",
+              "content": "hime学姐"
+            },
+            {
+              "id": "step_1759821458466",
+              "type": "choice",
+              "content": "说些让她会意识到现状的话"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1759821182418",
+      "name": "犬屋恋丸",
+      "endings": [
+        {
+          "id": "ending_1759821522044",
+          "name": "恋丸 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1759821601292",
+              "type": "load",
+              "content": "LOAD 5"
+            },
+            {
+              "id": "step_1759821625360",
+              "type": "choice",
+              "content": "前往图书室"
+            },
+            {
+              "id": "step_1759821625613",
+              "type": "choice",
+              "content": "我也有可能是来找你的"
+            },
+            {
+              "id": "step_1759821625770",
+              "type": "choice",
+              "content": "默默目送"
+            },
+            {
+              "id": "step_1759821625986",
+              "type": "choice",
+              "content": "今天就让你尝尝劳资的厉害"
+            },
+            {
+              "id": "step_1759821626190",
+              "type": "choice",
+              "content": "所谓青春就是得付诸行动！"
+            },
+            {
+              "id": "step_1759821626391",
+              "type": "choice",
+              "content": "与小天使共同度过"
+            },
+            {
+              "id": "step_1759821626786",
+              "type": "choice",
+              "content": "电影院"
+            },
+            {
+              "id": "step_1759821627263",
+              "type": "choice",
+              "content": "宁姐也可以"
+            },
+            {
+              "id": "step_1759821665407",
+              "type": "choice",
+              "content": "犬屋同学"
+            },
+            {
+              "id": "step_1759821665583",
+              "type": "choice",
+              "content": "接过牵绳带"
+            },
+            {
+              "id": "step_1759821665736",
+              "type": "choice",
+              "content": "今天只是想见到你"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1759821182589",
+      "name": "绪方宁子",
+      "endings": [
+        {
+          "id": "ending_1759821687390",
+          "name": "宁子 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1759821811055",
+              "type": "load",
+              "content": "LOAD 6"
+            },
+            {
+              "id": "step_1759821856304",
+              "type": "choice",
+              "content": "应该没有吧"
+            },
+            {
+              "id": "step_1759821864429",
+              "type": "save",
+              "content": "SAVE 7"
+            },
+            {
+              "id": "step_1759821856498",
+              "type": "choice",
+              "content": "用姐姐登上大人的阶梯吧"
+            },
+            {
+              "id": "step_1759821885341",
+              "type": "choice",
+              "content": "设置成屏保"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1759821906368",
+      "name": "其他结局",
+      "endings": [
+        {
+          "id": "ending_1759821922142",
+          "name": "END 1",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_1759821932922",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1759821935001",
+              "type": "choice",
+              "content": "默默地转身离去"
+            }
+          ]
+        },
+        {
+          "id": "ending_1759821941747",
+          "name": "END 2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1759821960790",
+              "type": "load",
+              "content": "LOAD 7"
+            },
+            {
+              "id": "step_1759821972192",
+              "type": "choice",
+              "content": "宁姐就是姐姐"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

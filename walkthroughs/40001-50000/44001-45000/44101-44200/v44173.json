@@ -1,0 +1,104 @@
+{
+  "vid": "v44173",
+  "name": {
+    "zh-cn": "献给蔚蓝之海的新娘",
+    "ja-jp": "遥か碧の花嫁に",
+    "ja-Latn": "haruka-ao-no-hanayome-ni"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-12",
+  "routes": [
+    {
+      "id": "route_1756367830201",
+      "name": "伊莉奥莱拉・凪・亚塔兰西亚",
+      "endings": [
+        {
+          "id": "ending_1756367862361",
+          "name": "伊莉奥莱拉 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756367882763",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1756367883686",
+              "type": "choice",
+              "content": "伊莉奥莱拉"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756367911574",
+      "name": "佐波口 奈津美",
+      "endings": [
+        {
+          "id": "ending_1756367955741",
+          "name": "奈津美 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756367978882",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1756367980267",
+              "type": "choice",
+              "content": "奈津美"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756367934497",
+      "name": "罗莎尼亚・卡尼哈恩",
+      "endings": [
+        {
+          "id": "ending_1756367991384",
+          "name": "罗莎尼亚 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756368012350",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1756368021459",
+              "type": "choice",
+              "content": "罗莎尼亚"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756367937150",
+      "name": "莉璐・凪・亚塔兰西亚",
+      "endings": [
+        {
+          "id": "ending_1756368026431",
+          "name": "莉璐 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756368033181",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1756368034309",
+              "type": "choice",
+              "content": "莉璐"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

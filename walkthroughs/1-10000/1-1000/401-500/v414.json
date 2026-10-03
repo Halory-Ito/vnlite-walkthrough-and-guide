@@ -1,0 +1,293 @@
+{
+  "vid": "v414",
+  "name": {
+    "zh-cn": "KIRA☆KIRA 煌煌舞台",
+    "en-us": "Kira Kira",
+    "ja-jp": "キラ☆キラ",
+    "ja-Latn": "kira-kira"
+  },
+  "level": 2,
+  "updatedAt": "2026-05-15",
+  "routes": [
+    {
+      "id": "route_main",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_onda",
+          "name": "共通 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_onda_01",
+              "type": "choice",
+              "content": "嗯，都已经约定好了，我会做的"
+            },
+            {
+              "id": "step_onda_02",
+              "type": "choice",
+              "content": "沉默真是太严重了。赶紧想办法说点什么"
+            },
+            {
+              "id": "step_onda_03",
+              "type": "choice",
+              "content": "窝在房间里进行个人练习"
+            },
+            {
+              "id": "step_onda_04",
+              "type": "choice",
+              "content": "好，我去"
+            },
+            {
+              "id": "step_onda_05",
+              "type": "choice",
+              "content": "没那回事，我很感激的"
+            }
+          ]
+        },
+        {
+          "id": "ending_onda_1",
+          "name": "恩田 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_onda_01_1",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_onda_02_1",
+              "type": "choice",
+              "content": "去邀千绘姐，玩射击。"
+            },
+            {
+              "id": "step_onda_03_1",
+              "type": "choice",
+              "content": "「是啊，练得连日常生活都受影响了」"
+            },
+            {
+              "id": "step_onda_04_1",
+              "type": "choice",
+              "content": "「搞乐队，实在轻而易举呢。」"
+            },
+            {
+              "id": "step_onda_05_1",
+              "type": "choice",
+              "content": "应考生就是要用功念书。"
+            },
+            {
+              "id": "step_onda_06",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_onda_07",
+              "type": "choice",
+              "content": "挽起恩田的手"
+            }
+          ]
+        },
+        {
+          "id": "ending_chihiro",
+          "name": "千绘 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_chihiro_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_chihiro_02",
+              "type": "choice",
+              "content": "这种事怎么可能办到"
+            },
+            {
+              "id": "step_chihiro_03",
+              "type": "choice",
+              "content": "送到嘴边的肉不吃是男人的耻辱"
+            },
+            {
+              "id": "step_chihiro_04",
+              "type": "choice",
+              "content": "不不，光论外表的话，我应该还是喜欢千绘姐多一点吧......"
+            },
+            {
+              "id": "step_chihiro_05",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_chihiro_06",
+              "type": "choice",
+              "content": "机会不是只有今天而已。今天就算了吧"
+            }
+          ]
+        },
+        {
+          "id": "ending_cg",
+          "name": "回收CG",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_cg_01",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_cg_02",
+              "type": "choice",
+              "content": "现在推辞是男人的耻辱，继续做下"
+            }
+          ]
+        },
+        {
+          "id": "ending_sarina",
+          "name": "纱里奈 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_sarina_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_sarina_02",
+              "type": "choice",
+              "content": "去邀樫原，玩挖型"
+            },
+            {
+              "id": "step_sarina_03",
+              "type": "choice",
+              "content": "「是啊，练得连日常生活都受影响了」"
+            },
+            {
+              "id": "step_sarina_04",
+              "type": "choice",
+              "content": "「搞乐队，实在轻而易举呢。」"
+            },
+            {
+              "id": "step_sarina_05",
+              "type": "choice",
+              "content": "人生就是要健康。"
+            },
+            {
+              "id": "step_sarina_06",
+              "type": "choice",
+              "content": "这种事怎么可能办得到"
+            },
+            {
+              "id": "step_sarina_07",
+              "type": "choice",
+              "content": "这种事我做不到。"
+            },
+            {
+              "id": "step_sarina_08",
+              "type": "choice",
+              "content": "让自己成为遮蔽物，从大家的视线下保护她。"
+            },
+            {
+              "id": "step_sarina_09",
+              "type": "choice",
+              "content": "正合我意。就在这演奏吧。"
+            }
+          ]
+        },
+        {
+          "id": "ending_kirari_1",
+          "name": "琦良里 END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_kirari_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_kirari_02",
+              "type": "choice",
+              "content": "去邀绮良里，买御好烧来吃"
+            },
+            {
+              "id": "step_kirari_03",
+              "type": "choice",
+              "content": "「是啊，练得连日常生活都受影响了」"
+            },
+            {
+              "id": "step_kirari_04",
+              "type": "choice",
+              "content": "「搞乐队，实在轻而易举呢。」"
+            },
+            {
+              "id": "step_kirari_05",
+              "type": "choice",
+              "content": "青春就是要恋爱。"
+            },
+            {
+              "id": "step_kirari_06",
+              "type": "choice",
+              "content": "这种事怎么可能办得到"
+            },
+            {
+              "id": "step_kirari_07",
+              "type": "choice",
+              "content": "这种事我做不到。"
+            },
+            {
+              "id": "step_kirari_08",
+              "type": "choice",
+              "content": "还是回去算了"
+            }
+          ]
+        },
+        {
+          "id": "ending_kirari_2",
+          "name": "琦良里 END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1778816584388",
+              "type": "note",
+              "content": "要重新开始游戏"
+            },
+            {
+              "id": "step_kirari_09",
+              "type": "choice",
+              "content": "去邀绮良里，买御好烧来吃"
+            },
+            {
+              "id": "step_kirari_10",
+              "type": "choice",
+              "content": "「是啊，练得连日常生活都受影响了。」"
+            },
+            {
+              "id": "step_kirari_11",
+              "type": "choice",
+              "content": "「搞乐队，实在是轻而易举啊。」"
+            },
+            {
+              "id": "step_kirari_12",
+              "type": "choice",
+              "content": "青春就是要恋愛。"
+            },
+            {
+              "id": "step_kirari_13",
+              "type": "choice",
+              "content": "这种事怎么可能办得到。"
+            },
+            {
+              "id": "step_kirari_14",
+              "type": "choice",
+              "content": "这种事我做不到。"
+            },
+            {
+              "id": "step_kirari_15",
+              "type": "choice",
+              "content": "不管怎样都要找到她。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

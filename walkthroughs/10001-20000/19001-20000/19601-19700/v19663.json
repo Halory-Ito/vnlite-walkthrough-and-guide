@@ -1,0 +1,302 @@
+{
+  "vid": "v19663",
+  "name": {
+    "zh-cn": "魔女与剑与千之月",
+    "ja-jp": "魔女と剣と千の月",
+    "ja-Latn": "majo-to-tsurugi-to-sen-no-tsuki"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-16",
+  "routes": [
+    {
+      "id": "route_01",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_01",
+          "name": "END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_01_01",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_01_02",
+              "type": "choice",
+              "content": "不用全力"
+            },
+            {
+              "id": "step_01_03",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_01_04",
+              "type": "choice",
+              "content": "交给伊斯卡"
+            },
+            {
+              "id": "step_01_05",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_01_06",
+              "type": "choice",
+              "content": "组成阵型各个击破"
+            }
+          ]
+        },
+        {
+          "id": "ending_02",
+          "name": "END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_02_01",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_02_02",
+              "type": "choice",
+              "content": "现在先优先恢复体力"
+            },
+            {
+              "id": "step_02_03",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_02_04",
+              "type": "choice",
+              "content": "现在先优先恢复体力"
+            },
+            {
+              "id": "step_02_05",
+              "type": "save",
+              "content": "SAVE 5"
+            },
+            {
+              "id": "step_02_06",
+              "type": "choice",
+              "content": "接受作战计划"
+            },
+            {
+              "id": "step_02_07",
+              "type": "save",
+              "content": "SAVE 6"
+            },
+            {
+              "id": "step_02_08",
+              "type": "choice",
+              "content": "放弃营救马上撤退"
+            },
+            {
+              "id": "step_02_09",
+              "type": "save",
+              "content": "SAVE 7"
+            },
+            {
+              "id": "step_02_10",
+              "type": "choice",
+              "content": "前往燕身边"
+            }
+          ]
+        },
+        {
+          "id": "ending_03",
+          "name": "END3",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_03_01",
+              "type": "load",
+              "content": "LOAD 7"
+            },
+            {
+              "id": "step_03_02",
+              "type": "choice",
+              "content": "攻击冲向燕的利维坦"
+            },
+            {
+              "id": "step_03_03",
+              "type": "save",
+              "content": "SAVE 8"
+            },
+            {
+              "id": "step_03_04",
+              "type": "choice",
+              "content": "告诉自己她们三人肯定没问题"
+            },
+            {
+              "id": "step_03_05",
+              "type": "save",
+              "content": "SAVE 9"
+            },
+            {
+              "id": "step_03_06",
+              "type": "choice",
+              "content": "将灵魂归还给连"
+            }
+          ]
+        },
+        {
+          "id": "ending_04",
+          "name": "BAD END1",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_04_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_04_02",
+              "type": "choice",
+              "content": "用出全力"
+            }
+          ]
+        },
+        {
+          "id": "ending_05",
+          "name": "BAD END2",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_05_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_05_02",
+              "type": "choice",
+              "content": "亚璃绘和久远也留下来"
+            }
+          ]
+        },
+        {
+          "id": "ending_06",
+          "name": "BAD END3",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_06_01",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_06_02",
+              "type": "choice",
+              "content": "让此方用结界封印住两只恶魔"
+            }
+          ]
+        },
+        {
+          "id": "ending_07",
+          "name": "BAD END4",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_07_01",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_07_02",
+              "type": "choice",
+              "content": "鼓起勇气去搜索"
+            }
+          ]
+        },
+        {
+          "id": "ending_08",
+          "name": "BAD END5",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_08_01",
+              "type": "load",
+              "content": "LOAD 5"
+            },
+            {
+              "id": "step_08_02",
+              "type": "choice",
+              "content": "不接受作战计划"
+            }
+          ]
+        },
+        {
+          "id": "ending_09",
+          "name": "BAD END6",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_09_01",
+              "type": "load",
+              "content": "LOAD 6"
+            },
+            {
+              "id": "step_09_02",
+              "type": "choice",
+              "content": "继续战斗尝试营救"
+            }
+          ]
+        },
+        {
+          "id": "ending_10",
+          "name": "BAD END7",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_10_01",
+              "type": "load",
+              "content": "LOAD 7"
+            },
+            {
+              "id": "step_10_02",
+              "type": "choice",
+              "content": "反击利维坦"
+            }
+          ]
+        },
+        {
+          "id": "ending_11",
+          "name": "BAD END8",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_11_01",
+              "type": "load",
+              "content": "LOAD 8"
+            },
+            {
+              "id": "step_11_02",
+              "type": "choice",
+              "content": "继续寻找三人"
+            }
+          ]
+        },
+        {
+          "id": "ending_12",
+          "name": "BAD END9",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_12_01",
+              "type": "load",
+              "content": "LOAD 9"
+            },
+            {
+              "id": "step_12_02",
+              "type": "choice",
+              "content": "不将灵魂归还给连"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

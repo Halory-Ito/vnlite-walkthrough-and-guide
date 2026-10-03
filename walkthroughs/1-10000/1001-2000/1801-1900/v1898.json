@@ -1,0 +1,231 @@
+{
+  "vid": "v1898",
+  "name": {
+    "zh-cn": "夏之雨",
+    "ja-jp": "夏ノ雨",
+    "ja-Latn": "natsu-no-ame"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-13",
+  "routes": [
+    {
+      "id": "route_1762439251520",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1762439327188",
+          "name": "理香子",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762439402078",
+              "type": "choice",
+              "content": "把伞给她"
+            },
+            {
+              "id": "step_1762439402274",
+              "type": "choice",
+              "content": "白看谁不看，看了！"
+            },
+            {
+              "id": "step_1762439402459",
+              "type": "choice",
+              "content": "立刻去追"
+            },
+            {
+              "id": "step_1762439402629",
+              "type": "choice",
+              "content": "很适合你哦"
+            },
+            {
+              "id": "step_1762439402864",
+              "type": "choice",
+              "content": "告诉她真相"
+            },
+            {
+              "id": "step_1762439403262",
+              "type": "choice",
+              "content": "翠"
+            },
+            {
+              "id": "step_1762439403458",
+              "type": "choice",
+              "content": "去烹饪部看看再说"
+            },
+            {
+              "id": "step_1762439454628",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1762439455137",
+              "type": "choice",
+              "content": "去甜甜圈店看看后再回去"
+            },
+            {
+              "id": "step_1762439455305",
+              "type": "choice",
+              "content": "让一志送日向姐回去"
+            },
+            {
+              "id": "step_1762439455474",
+              "type": "choice",
+              "content": "小熊胖次"
+            },
+            {
+              "id": "step_1762439455658",
+              "type": "choice",
+              "content": "去甜甜圈店看看后再回去"
+            },
+            {
+              "id": "step_1762439479402",
+              "type": "choice",
+              "content": "买避孕套"
+            },
+            {
+              "id": "step_1762439484757",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1762439489558",
+              "type": "choice",
+              "content": "留在这里"
+            },
+            {
+              "id": "step_1762439496903",
+              "type": "choice",
+              "content": "跪求理香子大人"
+            },
+            {
+              "id": "step_1762439497053",
+              "type": "choice",
+              "content": "我觉得挺好的啊"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762439327363",
+          "name": "翠",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762523699919",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1762523704755",
+              "type": "choice",
+              "content": "和翠一起去"
+            },
+            {
+              "id": "step_1762523710228",
+              "type": "choice",
+              "content": "和翠一起游泳"
+            },
+            {
+              "id": "step_1762523710400",
+              "type": "choice",
+              "content": "事到如今只好拜托翠了"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762439327487",
+          "name": "日向",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762523729594",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1762523730916",
+              "type": "choice",
+              "content": "去游泳池看看"
+            },
+            {
+              "id": "step_1762523731149",
+              "type": "choice",
+              "content": "自己也陪同他们一起回去"
+            },
+            {
+              "id": "step_1762523731269",
+              "type": "choice",
+              "content": "去看看游泳部那边"
+            },
+            {
+              "id": "step_1762523731444",
+              "type": "choice",
+              "content": "不买"
+            },
+            {
+              "id": "step_1762523731604",
+              "type": "choice",
+              "content": "和日向姐一起留下"
+            },
+            {
+              "id": "step_1762523731758",
+              "type": "choice",
+              "content": "还有其他的路可走"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762439327671",
+          "name": "美纱",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762523865390",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1762523867417",
+              "type": "choice",
+              "content": "去家庭料理室看一下"
+            },
+            {
+              "id": "step_1762523867588",
+              "type": "choice",
+              "content": "自己也陪同他们一起回去"
+            },
+            {
+              "id": "step_1762523867769",
+              "type": "choice",
+              "content": "去烹饪部那边看看吧"
+            },
+            {
+              "id": "step_1762523867915",
+              "type": "choice",
+              "content": "想吃蛋炒饭"
+            },
+            {
+              "id": "step_1762523868075",
+              "type": "choice",
+              "content": "不买"
+            },
+            {
+              "id": "step_1762523868232",
+              "type": "choice",
+              "content": "和翠一起游泳"
+            },
+            {
+              "id": "step_1762523890775",
+              "type": "choice",
+              "content": "还有其他的路可走"
+            },
+            {
+              "id": "step_1762523890971",
+              "type": "choice",
+              "content": "想拜托篠冈老师试一试"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

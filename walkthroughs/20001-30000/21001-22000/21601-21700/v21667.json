@@ -1,0 +1,626 @@
+{
+  "vid": "v21667",
+  "name": {
+    "zh-cn": "丑小鸭与文字祸",
+    "en-us": "Mojika: Truth Rears Its Ugly Head",
+    "ja-jp": "みにくいモジカの子",
+    "ja-Latn": "minikui-mojika-no-ko"
+  },
+  "level": 2,
+  "updatedAt": "2026-05-09",
+  "tips": [
+    "第一人称视角模式下，游戏剧情会根据你做出的视线上抬或是静待超时选择，展开不同变化",
+    "移动视线│点击：左键单击或按 Enter 键数次，直到抬起视线",
+    "移动视线│放弃：等待自动超时",
+    "☆放弃×标记的地方需要进行数次超时(用于回收TRUE的flag，请注意超时的次数，搞错会导致BAD END)",
+    "通关TRUE后，回到标题画面，移动鼠标将光标对准画面左上角不时闪烁的星星的位置， 长按左键可以进入附赠的打字小游戏"
+  ],
+  "routes": [
+    {
+      "id": "route_game",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_miyu",
+          "name": "实忧 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_001",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_002",
+              "type": "choice",
+              "content": "移动视线：实忧│点击"
+            },
+            {
+              "id": "step_003",
+              "type": "note",
+              "content": "播放OP",
+              "prefix": "※"
+            },
+            {
+              "id": "step_004",
+              "type": "choice",
+              "content": "移动视线：九鬼│点击(被殴打)"
+            },
+            {
+              "id": "step_005",
+              "type": "choice",
+              "content": "移动视线：实忧│点击"
+            },
+            {
+              "id": "step_006",
+              "type": "choice",
+              "content": "移动视线：九鬼│点击(呕吐)"
+            },
+            {
+              "id": "step_007",
+              "type": "choice",
+              "content": "移动视线：实忧│点击(后庭插入)"
+            },
+            {
+              "id": "step_008",
+              "type": "choice",
+              "content": "移动视线：四月一日│点击"
+            },
+            {
+              "id": "step_010",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_011",
+              "type": "choice",
+              "content": "移动视线：实忧│点击"
+            },
+            {
+              "id": "step_012",
+              "type": "choice",
+              "content": "移动视线：九鬼│点击"
+            },
+            {
+              "id": "step_013",
+              "type": "choice",
+              "content": "移动视线：许斐│点击"
+            },
+            {
+              "id": "step_014",
+              "type": "choice",
+              "content": "移动视线：实忧│点击"
+            }
+          ]
+        },
+        {
+          "id": "ending_gutuzi",
+          "name": "胡颓子 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_015",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_016",
+              "type": "choice",
+              "content": "移动视线：实忧│放弃"
+            },
+            {
+              "id": "step_017",
+              "type": "choice",
+              "content": "移动视线：？？(更衣柜)│点击"
+            },
+            {
+              "id": "step_018",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_019",
+              "type": "choice",
+              "content": "移动视线：？？(神社)│点击"
+            },
+            {
+              "id": "step_020",
+              "type": "choice",
+              "content": "移动视线：许斐│点击"
+            },
+            {
+              "id": "step_021",
+              "type": "choice",
+              "content": "移动视线：四月一日│点击"
+            },
+            {
+              "id": "step_022",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_023",
+              "type": "choice",
+              "content": "移动视线：四月一日│点击"
+            }
+          ]
+        },
+        {
+          "id": "ending_kirarara",
+          "name": "绮罗罗 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_027",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_028",
+              "type": "choice",
+              "content": "移动视线：四月一日│放弃"
+            },
+            {
+              "id": "step_029",
+              "type": "choice",
+              "content": "移动视线：九鬼│点击 (紧追不舍)"
+            },
+            {
+              "id": "step_030",
+              "type": "choice",
+              "content": "移动视线：九鬼│点击 (前)"
+            },
+            {
+              "id": "step_031",
+              "type": "save",
+              "content": "SAVE 5"
+            },
+            {
+              "id": "step_032",
+              "type": "choice",
+              "content": "移动视线：九鬼│点击 (中)"
+            },
+            {
+              "id": "step_033",
+              "type": "choice",
+              "content": "移动视线：九鬼│点击 (前)"
+            },
+            {
+              "id": "step_034",
+              "type": "choice",
+              "content": "移动视线：九鬼│点击 (嗑药OO)"
+            }
+          ]
+        },
+        {
+          "id": "ending_tsubaki",
+          "name": "椿 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_035",
+              "type": "load",
+              "content": "LOAD 5"
+            },
+            {
+              "id": "step_036",
+              "type": "choice",
+              "content": "移动视线：九鬼│放弃"
+            },
+            {
+              "id": "step_037",
+              "type": "choice",
+              "content": "移动视线：实忧│点击"
+            },
+            {
+              "id": "step_038",
+              "type": "choice",
+              "content": "移动视线：四月一日│点击"
+            },
+            {
+              "id": "step_039",
+              "type": "choice",
+              "content": "移动视线：九鬼│点击"
+            },
+            {
+              "id": "step_040",
+              "type": "choice",
+              "content": "移动视线：？？(集体)│点击"
+            },
+            {
+              "id": "step_041",
+              "type": "choice",
+              "content": "移动视线：？？(集体)│放弃"
+            },
+            {
+              "id": "step_042",
+              "type": "choice",
+              "content": "移动视线：许斐│点击"
+            },
+            {
+              "id": "step_043",
+              "type": "choice",
+              "content": "移动视线：？？(集体)│点击"
+            },
+            {
+              "id": "step_044",
+              "type": "choice",
+              "content": "移动视线：椿(巫女服)│点击"
+            },
+            {
+              "id": "step_047",
+              "type": "choice",
+              "content": "移动视线：椿│点击"
+            },
+            {
+              "id": "step_048",
+              "type": "choice",
+              "content": "移动视线：椿(巫女服)│点击"
+            },
+            {
+              "id": "step_049",
+              "type": "choice",
+              "content": "移动视线：御神体│点击"
+            },
+            {
+              "id": "step_050",
+              "type": "choice",
+              "content": "移动视线：椿│点击"
+            }
+          ]
+        },
+        {
+          "id": "ending_bad1",
+          "name": "BADEND(白房间实验)",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_051",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_052",
+              "type": "choice",
+              "content": "移动视线：？？(神社)│放弃"
+            },
+            {
+              "id": "step_053",
+              "type": "choice",
+              "content": "移动视线：许斐│点击"
+            },
+            {
+              "id": "step_054",
+              "type": "choice",
+              "content": "移动视线：四月一日│点击"
+            },
+            {
+              "id": "step_055",
+              "type": "choice",
+              "content": "移动视线：四月一日│放弃"
+            },
+            {
+              "id": "step_056",
+              "type": "choice",
+              "content": "移动视线：九鬼│点击"
+            },
+            {
+              "id": "step_057",
+              "type": "choice",
+              "content": "移动视线：九鬼│放弃"
+            },
+            {
+              "id": "step_058",
+              "type": "choice",
+              "content": "移动视线：实忧│点击"
+            },
+            {
+              "id": "step_059",
+              "type": "choice",
+              "content": "移动视线：四月一日│点击"
+            },
+            {
+              "id": "step_060",
+              "type": "choice",
+              "content": "移动视线：九鬼│点击"
+            },
+            {
+              "id": "step_061",
+              "type": "choice",
+              "content": "移动视线：？？(集体)│点击"
+            },
+            {
+              "id": "step_063",
+              "type": "choice",
+              "content": "移动视线：椿│点击"
+            },
+            {
+              "id": "step_065",
+              "type": "choice",
+              "content": "移动视线：实忧│点击"
+            }
+          ]
+        },
+        {
+          "id": "ending_bad2",
+          "name": "BADEND(御神体)",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_066",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_067",
+              "type": "choice",
+              "content": "移动视线：实忧│放弃×6次(风铃)",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_068",
+              "type": "choice",
+              "content": "移动视线：实忧│点击"
+            },
+            {
+              "id": "step_069",
+              "type": "note",
+              "content": "播放OP",
+              "prefix": "※"
+            },
+            {
+              "id": "step_070",
+              "type": "choice",
+              "content": "移动视线：九鬼│点击(被殴打)"
+            },
+            {
+              "id": "step_071",
+              "type": "choice",
+              "content": "移动视线：实忧│点击"
+            },
+            {
+              "id": "step_072",
+              "type": "choice",
+              "content": "移动视线：九鬼│点击(呕吐)"
+            },
+            {
+              "id": "step_073",
+              "type": "choice",
+              "content": "移动视线：实忧│放弃(体内)"
+            },
+            {
+              "id": "step_074",
+              "type": "save",
+              "content": "SAVE 6"
+            },
+            {
+              "id": "step_075",
+              "type": "choice",
+              "content": "移动视线：四月一日│放弃×3次(BAD的flag)",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_076",
+              "type": "choice",
+              "content": "移动视线：四月一日│点击"
+            },
+            {
+              "id": "step_077",
+              "type": "choice",
+              "content": "移动视线：四月一日│放弃×2次"
+            },
+            {
+              "id": "step_078",
+              "type": "choice",
+              "content": "移动视线：？？(更衣柜)│点击"
+            },
+            {
+              "id": "step_079",
+              "type": "choice",
+              "content": "移动视线：？？(神社)│点击"
+            },
+            {
+              "id": "step_080",
+              "type": "choice",
+              "content": "移动视线：许斐│点击"
+            },
+            {
+              "id": "step_081",
+              "type": "choice",
+              "content": "移动视线：四月一日│点击"
+            },
+            {
+              "id": "step_082",
+              "type": "choice",
+              "content": "移动视线：九鬼│点击"
+            },
+            {
+              "id": "step_083",
+              "type": "choice",
+              "content": "移动视线：九鬼│放弃"
+            },
+            {
+              "id": "step_084",
+              "type": "choice",
+              "content": "移动视线：实忧│点击"
+            },
+            {
+              "id": "step_085",
+              "type": "choice",
+              "content": "移动视线：四月一日│点击"
+            },
+            {
+              "id": "step_086",
+              "type": "choice",
+              "content": "移动视线：九鬼│点击"
+            },
+            {
+              "id": "step_087",
+              "type": "choice",
+              "content": "移动视线：？？(集体)│点击"
+            },
+            {
+              "id": "step_089",
+              "type": "choice",
+              "content": "移动视线：椿│点击"
+            }
+          ]
+        },
+        {
+          "id": "ending_true",
+          "name": "TRUE END(鸣子)",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_091",
+              "type": "load",
+              "content": "LOAD 6"
+            },
+            {
+              "id": "step_092",
+              "type": "choice",
+              "content": "移动视线：四月一日│放弃×2次(金鱼缸)",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_093",
+              "type": "choice",
+              "content": "移动视线：四月一日│点击"
+            },
+            {
+              "id": "step_094",
+              "type": "choice",
+              "content": "移动视线：四月一日│放弃×2次"
+            },
+            {
+              "id": "step_095",
+              "type": "choice",
+              "content": "移动视线：？？(更衣柜)│点击"
+            },
+            {
+              "id": "step_096",
+              "type": "choice",
+              "content": "移动视线：？？(神社)│放弃"
+            },
+            {
+              "id": "step_097",
+              "type": "choice",
+              "content": "移动视线：许斐│放弃"
+            },
+            {
+              "id": "step_098",
+              "type": "choice",
+              "content": "移动视线：四月一日│点击"
+            },
+            {
+              "id": "step_099",
+              "type": "choice",
+              "content": "移动视线：九鬼│放弃×3次(纸鹤)",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_100",
+              "type": "choice",
+              "content": "移动视线：九鬼│点击"
+            },
+            {
+              "id": "step_101",
+              "type": "choice",
+              "content": "移动视线：九鬼│放弃(前)"
+            },
+            {
+              "id": "step_102",
+              "type": "choice",
+              "content": "移动视线：实忧│点击"
+            },
+            {
+              "id": "step_103",
+              "type": "choice",
+              "content": "移动视线：四月一日│点击"
+            },
+            {
+              "id": "step_104",
+              "type": "choice",
+              "content": "移动视线：九鬼│点击"
+            },
+            {
+              "id": "step_105",
+              "type": "choice",
+              "content": "移动视线：？？(集体)│点击"
+            },
+            {
+              "id": "step_107",
+              "type": "choice",
+              "content": "移动视线：椿(巫女服)│点击"
+            },
+            {
+              "id": "step_109",
+              "type": "choice",
+              "content": "移动视线：实忧│放弃×3次(风铃声)"
+            },
+            {
+              "id": "step_110",
+              "type": "choice",
+              "content": "移动视线：实忧│点击"
+            },
+            {
+              "id": "step_111",
+              "type": "choice",
+              "content": "移动视线：许斐│点击"
+            },
+            {
+              "id": "step_112",
+              "type": "choice",
+              "content": "移动视线：许斐│点击(风铃)"
+            },
+            {
+              "id": "step_113",
+              "type": "choice",
+              "content": "移动视线：椿＆许斐│点击"
+            },
+            {
+              "id": "step_114",
+              "type": "choice",
+              "content": "移动视线：九鬼│点击"
+            },
+            {
+              "id": "step_115",
+              "type": "choice",
+              "content": "移动视线：四月一日│点击"
+            },
+            {
+              "id": "step_116",
+              "type": "choice",
+              "content": "移动视线：实忧│点击"
+            },
+            {
+              "id": "step_117",
+              "type": "choice",
+              "content": "移动视线：？？(集体)│点击"
+            },
+            {
+              "id": "step_118",
+              "type": "choice",
+              "content": "移动视线：许斐│点击"
+            },
+            {
+              "id": "step_119",
+              "type": "choice",
+              "content": "移动视线：男人(永业)│点击"
+            },
+            {
+              "id": "step_120",
+              "type": "choice",
+              "content": "移动视线：许斐│点击"
+            },
+            {
+              "id": "step_123",
+              "type": "choice",
+              "content": "移动视线：星空│点击"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

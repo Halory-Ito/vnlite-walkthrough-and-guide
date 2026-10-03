@@ -1,0 +1,79 @@
+{
+  "vid": "v47880",
+  "name": {
+    "zh-cn": "刹那绽放的恋之花火",
+    "ja-jp": "刹那にかける恋はなび",
+    "ja-Latn": "setsuna-ni-kakeru-koi-hanabi"
+  },
+  "level": 2,
+  "updatedAt": "2026-05-08",
+  "routes": [
+    {
+      "id": "route_game_guide",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_nadeshiko",
+          "name": "朱雀院 抚子 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_nadeshiko_02",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_nadeshiko_04",
+              "type": "choice",
+              "content": "让帕尔维实现自己的夙愿"
+            },
+            {
+              "id": "step_nadeshiko_05",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_nadeshiko_07",
+              "type": "choice",
+              "content": "如果是为了抚子的话我可以在这里结束"
+            }
+          ]
+        },
+        {
+          "id": "ending_komari",
+          "name": "泷川 小鞠 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_komari_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_komari_03",
+              "type": "choice",
+              "content": "不，还不能在这里结束"
+            }
+          ]
+        },
+        {
+          "id": "ending_palvi",
+          "name": "帕尔维 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_palvi_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_palvi_03",
+              "type": "choice",
+              "content": "推开帕尔维，自己做海堂"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

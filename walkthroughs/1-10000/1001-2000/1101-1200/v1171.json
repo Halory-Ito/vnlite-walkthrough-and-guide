@@ -1,0 +1,1636 @@
+{
+  "vid": "v1171",
+  "name": {
+    "zh-cn": "秋之回忆4 ～从今以后～",
+    "ja-jp": "Memories Off ～それから～",
+    "ja-Latn": "memories-off-4"
+  },
+  "level": 1,
+  "updatedAt": "2026-03-25",
+  "tips": [
+    "攻略完祈～不变的岁月～结局后，画面上会显示To be continue……，这时候必须继续攻略过梨果凛或小野的Good End，在游戏开头的选项中，会多出一个「True Story」，点选之后，才能继续祈的其他结局"
+  ],
+  "routes": [
+    {
+      "id": "route_memories_off",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_01",
+          "name": "祈～不变的岁月～",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_01_02",
+              "type": "choice",
+              "content": "不知道"
+            },
+            {
+              "id": "step_01_03",
+              "type": "choice",
+              "content": "平板巧克力"
+            },
+            {
+              "id": "step_01_04",
+              "type": "choice",
+              "content": "要她放"
+            },
+            {
+              "id": "step_01_05",
+              "type": "choice",
+              "content": "因为喜欢学校吧？"
+            },
+            {
+              "id": "step_01_06",
+              "type": "choice",
+              "content": "去见她"
+            },
+            {
+              "id": "step_01_07",
+              "type": "choice",
+              "content": "会去上班"
+            },
+            {
+              "id": "step_01_08",
+              "type": "choice",
+              "content": "危险！"
+            },
+            {
+              "id": "step_01_09",
+              "type": "choice",
+              "content": "想起一年前的那个骚动"
+            },
+            {
+              "id": "step_01_10",
+              "type": "choice",
+              "content": "快拯救静流姊！"
+            },
+            {
+              "id": "step_01_11",
+              "type": "choice",
+              "content": "听她说下去"
+            },
+            {
+              "id": "step_01_12",
+              "type": "choice",
+              "content": "还是不要好了"
+            },
+            {
+              "id": "step_01_13",
+              "type": "choice",
+              "content": "就带来吧"
+            },
+            {
+              "id": "step_01_14",
+              "type": "choice",
+              "content": "在学校吃中饭"
+            },
+            {
+              "id": "step_01_15",
+              "type": "choice",
+              "content": "离开"
+            },
+            {
+              "id": "step_01_16",
+              "type": "choice",
+              "content": "随便问问"
+            },
+            {
+              "id": "step_01_17",
+              "type": "choice",
+              "content": "打电话给祈"
+            },
+            {
+              "id": "step_01_18",
+              "type": "choice",
+              "content": "停止对话"
+            },
+            {
+              "id": "step_01_19",
+              "type": "choice",
+              "content": "不怎样"
+            },
+            {
+              "id": "step_01_20",
+              "type": "choice",
+              "content": "不收"
+            },
+            {
+              "id": "step_01_21",
+              "type": "choice",
+              "content": "不管她"
+            },
+            {
+              "id": "step_01_22",
+              "type": "choice",
+              "content": "回去！"
+            },
+            {
+              "id": "step_01_23",
+              "type": "choice",
+              "content": "不行！"
+            },
+            {
+              "id": "step_01_24",
+              "type": "choice",
+              "content": "询问有关飞田扉的事情"
+            },
+            {
+              "id": "step_01_25",
+              "type": "choice",
+              "content": "很在意"
+            },
+            {
+              "id": "step_01_26",
+              "type": "choice",
+              "content": "我试着尽力游说看看"
+            },
+            {
+              "id": "step_01_27",
+              "type": "choice",
+              "content": "走为上策"
+            },
+            {
+              "id": "step_01_28",
+              "type": "choice",
+              "content": "简单地提醒原因"
+            },
+            {
+              "id": "step_01_29",
+              "type": "choice",
+              "content": "因为我喜欢聆听祈的钢琴弹奏啊"
+            },
+            {
+              "id": "step_01_30",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_01_31",
+              "type": "choice",
+              "content": "断然拒绝"
+            },
+            {
+              "id": "step_01_32",
+              "type": "choice",
+              "content": "你以为我会中计吗！"
+            },
+            {
+              "id": "step_01_33",
+              "type": "choice",
+              "content": "装傻"
+            },
+            {
+              "id": "step_01_34",
+              "type": "choice",
+              "content": "死缠烂打"
+            },
+            {
+              "id": "step_01_35",
+              "type": "choice",
+              "content": "我再另外想想办法"
+            },
+            {
+              "id": "step_01_36",
+              "type": "choice",
+              "content": "打倒！鬼校长同盟成立？"
+            },
+            {
+              "id": "step_01_37",
+              "type": "choice",
+              "content": "顺着祈的意思放她离开"
+            },
+            {
+              "id": "step_01_38",
+              "type": "choice",
+              "content": "回想过去"
+            },
+            {
+              "id": "step_01_39",
+              "type": "choice",
+              "content": "跟静流姊商量"
+            },
+            {
+              "id": "step_01_40",
+              "type": "choice",
+              "content": "放弃继续扮演说服祈的角色"
+            },
+            {
+              "id": "step_01_41",
+              "type": "choice",
+              "content": "故作偶然"
+            },
+            {
+              "id": "step_01_42",
+              "type": "choice",
+              "content": "希望外头的雨赶快停"
+            },
+            {
+              "id": "step_01_43",
+              "type": "choice",
+              "content": "大摇大摆地坐了起来"
+            },
+            {
+              "id": "step_01_44",
+              "type": "choice",
+              "content": "我一睁开眼就坐在这里了啊"
+            },
+            {
+              "id": "step_01_45",
+              "type": "choice",
+              "content": "妳不用担心"
+            },
+            {
+              "id": "step_01_46",
+              "type": "choice",
+              "content": "确实挂念着她"
+            },
+            {
+              "id": "step_01_47",
+              "type": "save",
+              "content": "SAVE 2"
+            }
+          ]
+        },
+        {
+          "id": "ending_02",
+          "name": "缘～祝福之光～",
+          "type": "good",
+          "steps": [
+            {
+              "id": "step_02_01",
+              "type": "note",
+              "content": "New game"
+            },
+            {
+              "id": "step_02_02",
+              "type": "choice",
+              "content": "不知道"
+            },
+            {
+              "id": "step_02_03",
+              "type": "choice",
+              "content": "白板巧克力"
+            },
+            {
+              "id": "step_02_04",
+              "type": "choice",
+              "content": "装哭"
+            },
+            {
+              "id": "step_02_05",
+              "type": "choice",
+              "content": "那就给妳１分钟！"
+            },
+            {
+              "id": "step_02_06",
+              "type": "choice",
+              "content": "因为很闲吧？"
+            },
+            {
+              "id": "step_02_07",
+              "type": "choice",
+              "content": "不去见她"
+            },
+            {
+              "id": "step_02_08",
+              "type": "choice",
+              "content": "我想吃马铃薯炖肉"
+            },
+            {
+              "id": "step_02_09",
+              "type": "choice",
+              "content": "不去"
+            },
+            {
+              "id": "step_02_10",
+              "type": "choice",
+              "content": "危险！"
+            },
+            {
+              "id": "step_02_11",
+              "type": "choice",
+              "content": "与其想这个，不如快去工作"
+            },
+            {
+              "id": "step_02_12",
+              "type": "choice",
+              "content": "快拯救静流姊！"
+            },
+            {
+              "id": "step_02_13",
+              "type": "choice",
+              "content": "很自然地逃走"
+            },
+            {
+              "id": "step_02_14",
+              "type": "choice",
+              "content": "真拿你没办法......"
+            },
+            {
+              "id": "step_02_15",
+              "type": "choice",
+              "content": "还是不要好了"
+            },
+            {
+              "id": "step_02_16",
+              "type": "choice",
+              "content": "就带来吧"
+            },
+            {
+              "id": "step_02_17",
+              "type": "choice",
+              "content": "在学校吃中饭"
+            },
+            {
+              "id": "step_02_18",
+              "type": "choice",
+              "content": "躲起来看"
+            },
+            {
+              "id": "step_02_19",
+              "type": "choice",
+              "content": "说我很疼这个可爱的妹妹"
+            },
+            {
+              "id": "step_02_20",
+              "type": "choice",
+              "content": "丢掉吧"
+            },
+            {
+              "id": "step_02_21",
+              "type": "choice",
+              "content": "停止对话"
+            },
+            {
+              "id": "step_02_22",
+              "type": "choice",
+              "content": "不怎样"
+            },
+            {
+              "id": "step_02_23",
+              "type": "choice",
+              "content": "好啊"
+            },
+            {
+              "id": "step_02_24",
+              "type": "choice",
+              "content": "不管她"
+            },
+            {
+              "id": "step_02_25",
+              "type": "choice",
+              "content": "转３圈叫声「汪！」"
+            },
+            {
+              "id": "step_02_26",
+              "type": "choice",
+              "content": "好吧"
+            },
+            {
+              "id": "step_02_27",
+              "type": "choice",
+              "content": "不问"
+            },
+            {
+              "id": "step_02_28",
+              "type": "choice",
+              "content": "不在意"
+            },
+            {
+              "id": "step_02_29",
+              "type": "choice",
+              "content": "牵起缘的手"
+            },
+            {
+              "id": "step_02_30",
+              "type": "choice",
+              "content": "去电动游乐场"
+            },
+            {
+              "id": "step_02_31",
+              "type": "choice",
+              "content": "往旁边移"
+            },
+            {
+              "id": "step_02_33",
+              "type": "choice",
+              "content": "停在这里"
+            },
+            {
+              "id": "step_02_34",
+              "type": "choice",
+              "content": "往更里面移"
+            },
+            {
+              "id": "step_02_36",
+              "type": "choice",
+              "content": "就选定这个位置挑战！"
+            },
+            {
+              "id": "step_02_37",
+              "type": "choice",
+              "content": "星星挺漂亮的……"
+            },
+            {
+              "id": "step_02_38",
+              "type": "choice",
+              "content": "我办不到"
+            },
+            {
+              "id": "step_02_39",
+              "type": "choice",
+              "content": "好啊"
+            },
+            {
+              "id": "step_02_40",
+              "type": "choice",
+              "content": "抬起缘"
+            },
+            {
+              "id": "step_02_41",
+              "type": "choice",
+              "content": "摸摸她的头"
+            },
+            {
+              "id": "step_02_42",
+              "type": "choice",
+              "content": "等休息时间过后……"
+            },
+            {
+              "id": "step_02_43",
+              "type": "choice",
+              "content": "罗萨克"
+            },
+            {
+              "id": "step_02_44",
+              "type": "choice",
+              "content": "音乐教室"
+            },
+            {
+              "id": "step_02_45",
+              "type": "choice",
+              "content": "接听"
+            },
+            {
+              "id": "step_02_46",
+              "type": "choice",
+              "content": "马铃薯炖肉"
+            },
+            {
+              "id": "step_02_47",
+              "type": "choice",
+              "content": "就先保持这样"
+            },
+            {
+              "id": "step_02_48",
+              "type": "choice",
+              "content": "「缘怎么可能会做这种事......」"
+            },
+            {
+              "id": "step_02_49",
+              "type": "choice",
+              "content": "是缘吗？"
+            },
+            {
+              "id": "step_02_50",
+              "type": "choice",
+              "content": "不接吻"
+            },
+            {
+              "id": "step_02_51",
+              "type": "choice",
+              "content": "…………"
+            },
+            {
+              "id": "step_02_52",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_02_53",
+              "type": "choice",
+              "content": "缘"
+            }
+          ]
+        },
+        {
+          "id": "ending_03",
+          "name": "缘～切不断的羁绊～",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_03_01",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_03_02",
+              "type": "choice",
+              "content": "祈"
+            }
+          ]
+        },
+        {
+          "id": "ending_04",
+          "name": "缘～选择的代价～",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_04_01",
+              "type": "note",
+              "content": "主菜单 Shortcut 选择缘篇「无尾熊的拥抱」"
+            },
+            {
+              "id": "step_04_02",
+              "type": "choice",
+              "content": "牵起缘的手"
+            },
+            {
+              "id": "step_04_03",
+              "type": "choice",
+              "content": "去Marine Land"
+            },
+            {
+              "id": "step_04_04",
+              "type": "choice",
+              "content": "休息处的长椅"
+            },
+            {
+              "id": "step_04_05",
+              "type": "choice",
+              "content": "星星挺漂亮的……"
+            },
+            {
+              "id": "step_04_06",
+              "type": "choice",
+              "content": "我试着尽力游说看看"
+            },
+            {
+              "id": "step_04_07",
+              "type": "choice",
+              "content": "好啊"
+            },
+            {
+              "id": "step_04_08",
+              "type": "choice",
+              "content": "抬起缘"
+            },
+            {
+              "id": "step_04_09",
+              "type": "choice",
+              "content": "摸摸她的头"
+            },
+            {
+              "id": "step_04_10",
+              "type": "choice",
+              "content": "我现在就去找祈！"
+            },
+            {
+              "id": "step_04_11",
+              "type": "choice",
+              "content": "罗萨克"
+            },
+            {
+              "id": "step_04_12",
+              "type": "choice",
+              "content": "音乐教室"
+            },
+            {
+              "id": "step_04_13",
+              "type": "choice",
+              "content": "接听"
+            },
+            {
+              "id": "step_04_14",
+              "type": "choice",
+              "content": "马铃薯炖肉"
+            },
+            {
+              "id": "step_04_15",
+              "type": "choice",
+              "content": "就先保持这样"
+            },
+            {
+              "id": "step_04_16",
+              "type": "choice",
+              "content": "「你伤了梅莉莎吗？」"
+            },
+            {
+              "id": "step_04_17",
+              "type": "choice",
+              "content": "是缘吗？"
+            },
+            {
+              "id": "step_04_18",
+              "type": "choice",
+              "content": "接吻"
+            },
+            {
+              "id": "step_04_19",
+              "type": "choice",
+              "content": "当然啰"
+            },
+            {
+              "id": "step_04_20",
+              "type": "choice",
+              "content": "祈"
+            }
+          ]
+        },
+        {
+          "id": "ending_05",
+          "name": "雅～爱～",
+          "type": "good",
+          "steps": [
+            {
+              "id": "step_05_01",
+              "type": "choice",
+              "content": "不知道"
+            },
+            {
+              "id": "step_05_02",
+              "type": "choice",
+              "content": "白带鱼"
+            },
+            {
+              "id": "step_05_03",
+              "type": "choice",
+              "content": "要她放开"
+            },
+            {
+              "id": "step_05_04",
+              "type": "choice",
+              "content": "大概是有什么原因吧？"
+            },
+            {
+              "id": "step_05_05",
+              "type": "choice",
+              "content": "去见她"
+            },
+            {
+              "id": "step_05_06",
+              "type": "choice",
+              "content": "会去上班"
+            },
+            {
+              "id": "step_05_07",
+              "type": "choice",
+              "content": "......"
+            },
+            {
+              "id": "step_05_08",
+              "type": "choice",
+              "content": "想起一年前的那个骚动"
+            },
+            {
+              "id": "step_05_09",
+              "type": "choice",
+              "content": "快拯救静流姊！"
+            },
+            {
+              "id": "step_05_10",
+              "type": "choice",
+              "content": "很自然地逃走"
+            },
+            {
+              "id": "step_05_11",
+              "type": "choice",
+              "content": "叫她看看"
+            },
+            {
+              "id": "step_05_12",
+              "type": "choice",
+              "content": "不要带来"
+            },
+            {
+              "id": "step_05_13",
+              "type": "choice",
+              "content": "接受"
+            },
+            {
+              "id": "step_05_14",
+              "type": "choice",
+              "content": "马上去打工吧"
+            },
+            {
+              "id": "step_05_15",
+              "type": "choice",
+              "content": "随便问问"
+            },
+            {
+              "id": "step_05_16",
+              "type": "choice",
+              "content": "打电话给祈"
+            },
+            {
+              "id": "step_05_17",
+              "type": "choice",
+              "content": "继续交谈"
+            },
+            {
+              "id": "step_05_18",
+              "type": "choice",
+              "content": "很好吃"
+            },
+            {
+              "id": "step_05_19",
+              "type": "choice",
+              "content": "不收"
+            },
+            {
+              "id": "step_05_20",
+              "type": "choice",
+              "content": "出声叫她"
+            },
+            {
+              "id": "step_05_21",
+              "type": "choice",
+              "content": "不问"
+            },
+            {
+              "id": "step_05_22",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_05_23",
+              "type": "choice",
+              "content": "喜欢"
+            },
+            {
+              "id": "step_05_24",
+              "type": "choice",
+              "content": "转３圈叫声「汪！」"
+            },
+            {
+              "id": "step_05_25",
+              "type": "choice",
+              "content": "好吧"
+            },
+            {
+              "id": "step_05_26",
+              "type": "choice",
+              "content": "再叫她一次"
+            },
+            {
+              "id": "step_05_27",
+              "type": "choice",
+              "content": "邀请她去"
+            },
+            {
+              "id": "step_05_28",
+              "type": "choice",
+              "content": "很在意"
+            },
+            {
+              "id": "step_05_29",
+              "type": "choice",
+              "content": "伞"
+            },
+            {
+              "id": "step_05_30",
+              "type": "choice",
+              "content": "即使如此，还是帮忙找"
+            },
+            {
+              "id": "step_05_31",
+              "type": "choice",
+              "content": "发表感想"
+            },
+            {
+              "id": "step_05_32",
+              "type": "choice",
+              "content": "握着她的手"
+            },
+            {
+              "id": "step_05_33",
+              "type": "choice",
+              "content": "邀她去玩"
+            },
+            {
+              "id": "step_05_34",
+              "type": "choice",
+              "content": "直呼名字吧？"
+            },
+            {
+              "id": "step_05_35",
+              "type": "choice",
+              "content": "我试着尽力游说看看"
+            },
+            {
+              "id": "step_05_36",
+              "type": "choice",
+              "content": "前往游说祈"
+            },
+            {
+              "id": "step_05_37",
+              "type": "choice",
+              "content": "认真练习！"
+            },
+            {
+              "id": "step_05_38",
+              "type": "choice",
+              "content": "继续练习"
+            },
+            {
+              "id": "step_05_39",
+              "type": "choice",
+              "content": "提出信的说法"
+            },
+            {
+              "id": "step_05_40",
+              "type": "choice",
+              "content": "找人来接妳"
+            },
+            {
+              "id": "step_05_41",
+              "type": "choice",
+              "content": "自由"
+            },
+            {
+              "id": "step_05_42",
+              "type": "choice",
+              "content": "先睡一觉"
+            },
+            {
+              "id": "step_05_43",
+              "type": "choice",
+              "content": "单独两人的时候告白"
+            },
+            {
+              "id": "step_05_44",
+              "type": "choice",
+              "content": "是啊"
+            },
+            {
+              "id": "step_05_45",
+              "type": "choice",
+              "content": "拿出勇气说吧"
+            },
+            {
+              "id": "step_05_46",
+              "type": "choice",
+              "content": "雅？"
+            },
+            {
+              "id": "step_05_47",
+              "type": "choice",
+              "content": "别说这种……难为情的话"
+            },
+            {
+              "id": "step_05_48",
+              "type": "choice",
+              "content": "抱住雅"
+            },
+            {
+              "id": "step_05_49",
+              "type": "choice",
+              "content": "「…………」"
+            },
+            {
+              "id": "step_05_50",
+              "type": "choice",
+              "content": "只要祈开心就够了"
+            },
+            {
+              "id": "step_05_51",
+              "type": "choice",
+              "content": "说不出口"
+            },
+            {
+              "id": "step_05_52",
+              "type": "save",
+              "content": "SAVE 5"
+            },
+            {
+              "id": "step_05_53",
+              "type": "choice",
+              "content": "喜欢雅"
+            }
+          ]
+        },
+        {
+          "id": "ending_06",
+          "name": "雅～梦～",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_06_01",
+              "type": "load",
+              "content": "LOAD 5"
+            },
+            {
+              "id": "step_06_02",
+              "type": "choice",
+              "content": "喜欢祈"
+            }
+          ]
+        },
+        {
+          "id": "ending_07",
+          "name": "雅～绝～",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_07_01",
+              "type": "load",
+              "content": "LOAD 5"
+            },
+            {
+              "id": "step_07_02",
+              "type": "choice",
+              "content": "无法决定"
+            }
+          ]
+        },
+        {
+          "id": "ending_08",
+          "name": "果凛～在空白之中～",
+          "type": "good",
+          "steps": [
+            {
+              "id": "step_08_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_08_02",
+              "type": "choice",
+              "content": "屈服于胁迫"
+            },
+            {
+              "id": "step_08_03",
+              "type": "choice",
+              "content": "好，拜托你了"
+            },
+            {
+              "id": "step_08_04",
+              "type": "choice",
+              "content": "拼命否定一切"
+            },
+            {
+              "id": "step_08_05",
+              "type": "choice",
+              "content": "其实是我错过塔摩留俱乐部了"
+            },
+            {
+              "id": "step_08_06",
+              "type": "choice",
+              "content": "丢下她不管"
+            },
+            {
+              "id": "step_08_07",
+              "type": "choice",
+              "content": "就此放弃"
+            },
+            {
+              "id": "step_08_08",
+              "type": "choice",
+              "content": "说来都是爷不好"
+            },
+            {
+              "id": "step_08_09",
+              "type": "choice",
+              "content": "我也无计可施了"
+            },
+            {
+              "id": "step_08_10",
+              "type": "choice",
+              "content": "梨果凛爱上我了吗？"
+            },
+            {
+              "id": "step_08_11",
+              "type": "choice",
+              "content": "只是默默地看着事情的演变"
+            },
+            {
+              "id": "step_08_12",
+              "type": "choice",
+              "content": "梨果凛，振作起来啊！"
+            },
+            {
+              "id": "step_08_13",
+              "type": "choice",
+              "content": "别想了"
+            },
+            {
+              "id": "step_08_14",
+              "type": "choice",
+              "content": "不会啊，看起来很美"
+            },
+            {
+              "id": "step_08_15",
+              "type": "choice",
+              "content": "跟静流姊商量"
+            },
+            {
+              "id": "step_08_16",
+              "type": "save",
+              "content": "SAVE 6"
+            },
+            {
+              "id": "step_08_17",
+              "type": "choice",
+              "content": "找梨果凛商谈自己的烦恼"
+            },
+            {
+              "id": "step_08_18",
+              "type": "choice",
+              "content": "出手相助"
+            },
+            {
+              "id": "step_08_19",
+              "type": "choice",
+              "content": "梨果凛你不像是曾经被人甩过的样子"
+            },
+            {
+              "id": "step_08_20",
+              "type": "choice",
+              "content": "「我可以拿一个吃吗！？"
+            },
+            {
+              "id": "step_08_21",
+              "type": "choice",
+              "content": "叫醒她"
+            },
+            {
+              "id": "step_08_22",
+              "type": "choice",
+              "content": "想办法找藉口解围"
+            },
+            {
+              "id": "step_08_23",
+              "type": "choice",
+              "content": "和梨果凛一起行动"
+            },
+            {
+              "id": "step_08_24",
+              "type": "choice",
+              "content": "Ｏｋ－！"
+            },
+            {
+              "id": "step_08_25",
+              "type": "choice",
+              "content": "为了梨果凛，这点小事不足挂齿"
+            },
+            {
+              "id": "step_08_26",
+              "type": "choice",
+              "content": "戳她"
+            },
+            {
+              "id": "step_08_27",
+              "type": "choice",
+              "content": "之后再说给静流姊听"
+            },
+            {
+              "id": "step_08_28",
+              "type": "choice",
+              "content": "适当地敷衍"
+            },
+            {
+              "id": "step_08_29",
+              "type": "choice",
+              "content": "应该是中午开始的打工"
+            },
+            {
+              "id": "step_08_30",
+              "type": "choice",
+              "content": "不害怕吗？"
+            },
+            {
+              "id": "step_08_31",
+              "type": "choice",
+              "content": "应该是中午开始的打工"
+            },
+            {
+              "id": "step_08_32",
+              "type": "choice",
+              "content": "安慰她"
+            },
+            {
+              "id": "step_08_33",
+              "type": "choice",
+              "content": "无所谓吧"
+            },
+            {
+              "id": "step_08_34",
+              "type": "choice",
+              "content": "跟她说话"
+            },
+            {
+              "id": "step_08_35",
+              "type": "choice",
+              "content": "我也来帮忙"
+            },
+            {
+              "id": "step_08_36",
+              "type": "choice",
+              "content": "出去外面"
+            },
+            {
+              "id": "step_08_37",
+              "type": "choice",
+              "content": "还好"
+            },
+            {
+              "id": "step_08_38",
+              "type": "choice",
+              "content": "和梨果凛留下来看家"
+            },
+            {
+              "id": "step_08_39",
+              "type": "choice",
+              "content": "是啊"
+            },
+            {
+              "id": "step_08_40",
+              "type": "choice",
+              "content": "很严重的伤呢"
+            },
+            {
+              "id": "step_08_41",
+              "type": "choice",
+              "content": "以保护大家为优先"
+            },
+            {
+              "id": "step_08_43",
+              "type": "choice",
+              "content": "没有讨厌"
+            },
+            {
+              "id": "step_08_44",
+              "type": "choice",
+              "content": "不经意地放开手"
+            },
+            {
+              "id": "step_08_45",
+              "type": "choice",
+              "content": "不管她，等梨果凛"
+            },
+            {
+              "id": "step_08_46",
+              "type": "choice",
+              "content": "找梨果凛商量"
+            },
+            {
+              "id": "step_08_47",
+              "type": "choice",
+              "content": "不放手"
+            },
+            {
+              "id": "step_08_48",
+              "type": "choice",
+              "content": "很担心梨果凛"
+            },
+            {
+              "id": "step_08_49",
+              "type": "choice",
+              "content": "不去管她"
+            },
+            {
+              "id": "step_08_50",
+              "type": "choice",
+              "content": "目送她去"
+            },
+            {
+              "id": "step_08_51",
+              "type": "choice",
+              "content": "因为是朋友"
+            },
+            {
+              "id": "step_08_52",
+              "type": "choice",
+              "content": "今天的友人"
+            },
+            {
+              "id": "step_08_53",
+              "type": "choice",
+              "content": "礼仪无拘"
+            },
+            {
+              "id": "step_08_54",
+              "type": "save",
+              "content": "SAVE 7"
+            },
+            {
+              "id": "step_08_55",
+              "type": "choice",
+              "content": "喜欢梨果凛"
+            },
+            {
+              "id": "step_08_56",
+              "type": "choice",
+              "content": "海浪声"
+            },
+            {
+              "id": "step_08_57",
+              "type": "choice",
+              "content": "虽然很喜欢，但也会有不得不分开的理由吧"
+            },
+            {
+              "id": "step_08_58",
+              "type": "save",
+              "content": "SAVE 8"
+            },
+            {
+              "id": "step_08_59",
+              "type": "choice",
+              "content": "「……嗯」"
+            }
+          ]
+        },
+        {
+          "id": "ending_09",
+          "name": "果凛～愿望～",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_09_01",
+              "type": "load",
+              "content": "LOAD 8"
+            },
+            {
+              "id": "step_09_02",
+              "type": "choice",
+              "content": "「不知道」"
+            }
+          ]
+        },
+        {
+          "id": "ending_10",
+          "name": "叶夜～思念的灯火～",
+          "type": "good",
+          "steps": [
+            {
+              "id": "step_10_01",
+              "type": "load",
+              "content": "LOAD 6"
+            },
+            {
+              "id": "step_10_02",
+              "type": "choice",
+              "content": "比起那些杂事，更在意小野的秘密"
+            },
+            {
+              "id": "step_10_03",
+              "type": "choice",
+              "content": "也只能陪她一起去了"
+            },
+            {
+              "id": "step_10_04",
+              "type": "choice",
+              "content": "小野看起来就是一副不会料理的样子"
+            },
+            {
+              "id": "step_10_05",
+              "type": "choice",
+              "content": "第七号情报员续集"
+            },
+            {
+              "id": "step_10_06",
+              "type": "choice",
+              "content": "吃个一口好了"
+            },
+            {
+              "id": "step_10_07",
+              "type": "choice",
+              "content": "想办法找藉口解围"
+            },
+            {
+              "id": "step_10_08",
+              "type": "choice",
+              "content": "和小野一起行动"
+            },
+            {
+              "id": "step_10_09",
+              "type": "choice",
+              "content": "Ｏｋ－！"
+            },
+            {
+              "id": "step_10_10",
+              "type": "choice",
+              "content": "你该道谢的人应该是小野才对"
+            },
+            {
+              "id": "step_10_11",
+              "type": "choice",
+              "content": "搔她痒"
+            },
+            {
+              "id": "step_10_12",
+              "type": "choice",
+              "content": "之后我再听你说完"
+            },
+            {
+              "id": "step_10_13",
+              "type": "choice",
+              "content": "适当地敷衍"
+            },
+            {
+              "id": "step_10_14",
+              "type": "choice",
+              "content": "一定是早上开始的打工"
+            },
+            {
+              "id": "step_10_15",
+              "type": "choice",
+              "content": "你很喜欢爸爸吧？"
+            },
+            {
+              "id": "step_10_16",
+              "type": "choice",
+              "content": "一定是早上开始的打工"
+            },
+            {
+              "id": "step_10_17",
+              "type": "choice",
+              "content": "道歉"
+            },
+            {
+              "id": "step_10_18",
+              "type": "choice",
+              "content": "回送礼物给小野"
+            },
+            {
+              "id": "step_10_19",
+              "type": "choice",
+              "content": "熊阪秋沙鸟羽毛编的手套"
+            },
+            {
+              "id": "step_10_20",
+              "type": "choice",
+              "content": "先不要管她"
+            },
+            {
+              "id": "step_10_21",
+              "type": "choice",
+              "content": "绝对不行"
+            },
+            {
+              "id": "step_10_22",
+              "type": "choice",
+              "content": "我想看梨果凛的睡脸！"
+            },
+            {
+              "id": "step_10_23",
+              "type": "choice",
+              "content": "喜欢"
+            },
+            {
+              "id": "step_10_24",
+              "type": "choice",
+              "content": "和小野一起去买东西"
+            },
+            {
+              "id": "step_10_25",
+              "type": "choice",
+              "content": "比起玉蕈，珍珠菇更棒"
+            },
+            {
+              "id": "step_10_26",
+              "type": "choice",
+              "content": "跟我一样呢"
+            },
+            {
+              "id": "step_10_27",
+              "type": "choice",
+              "content": "以逃走为优先"
+            },
+            {
+              "id": "step_10_28",
+              "type": "choice",
+              "content": "以逃跑为优先"
+            },
+            {
+              "id": "step_10_29",
+              "type": "choice",
+              "content": "喜欢"
+            },
+            {
+              "id": "step_10_30",
+              "type": "choice",
+              "content": "就保持这样"
+            },
+            {
+              "id": "step_10_31",
+              "type": "choice",
+              "content": "阻止小野"
+            },
+            {
+              "id": "step_10_32",
+              "type": "choice",
+              "content": "找小野商量"
+            },
+            {
+              "id": "step_10_33",
+              "type": "choice",
+              "content": "那是什么？"
+            },
+            {
+              "id": "step_10_34",
+              "type": "choice",
+              "content": "我们是朋友吧"
+            },
+            {
+              "id": "step_10_35",
+              "type": "choice",
+              "content": "挽留她"
+            },
+            {
+              "id": "step_10_36",
+              "type": "choice",
+              "content": "一起去"
+            },
+            {
+              "id": "step_10_37",
+              "type": "choice",
+              "content": "因为我在意"
+            },
+            {
+              "id": "step_10_38",
+              "type": "choice",
+              "content": "今天的友人"
+            },
+            {
+              "id": "step_10_39",
+              "type": "choice",
+              "content": "礼仪无拘"
+            },
+            {
+              "id": "step_10_40",
+              "type": "choice",
+              "content": "喜欢小野"
+            },
+            {
+              "id": "step_10_41",
+              "type": "choice",
+              "content": "那我陪小野吧"
+            },
+            {
+              "id": "step_10_42",
+              "type": "save",
+              "content": "SAVE 9"
+            },
+            {
+              "id": "step_10_43",
+              "type": "choice",
+              "content": "打电话给彼方"
+            }
+          ]
+        },
+        {
+          "id": "ending_11",
+          "name": "叶夜～怨恨之声～",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_11_01",
+              "type": "load",
+              "content": "LOAD 9"
+            },
+            {
+              "id": "step_11_02",
+              "type": "choice",
+              "content": "打电话给信"
+            }
+          ]
+        },
+        {
+          "id": "ending_12",
+          "name": "叶夜～永远的秘密～",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_12_01",
+              "type": "load",
+              "content": "LOAD 7"
+            },
+            {
+              "id": "step_12_02",
+              "type": "choice",
+              "content": "喜欢小野"
+            },
+            {
+              "id": "step_12_03",
+              "type": "choice",
+              "content": "那我陪小野吧"
+            }
+          ]
+        },
+        {
+          "id": "ending_13",
+          "name": "纱代里～温暖的春天～",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_13_01",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_13_02",
+              "type": "choice",
+              "content": "喜欢"
+            },
+            {
+              "id": "step_13_03",
+              "type": "choice",
+              "content": "问看看"
+            }
+          ]
+        },
+        {
+          "id": "ending_14",
+          "name": "祈～之后～",
+          "type": "good",
+          "steps": [
+            {
+              "id": "step_1774420395091",
+              "type": "choice",
+              "content": "游戏开头选择True Story"
+            },
+            {
+              "id": "step_14_02",
+              "type": "choice",
+              "content": "「扫晴娘」娃娃"
+            },
+            {
+              "id": "step_14_03",
+              "type": "choice",
+              "content": "回送礼物给祈"
+            },
+            {
+              "id": "step_14_04",
+              "type": "choice",
+              "content": "天使音乐盒"
+            },
+            {
+              "id": "step_14_05",
+              "type": "choice",
+              "content": "「到底怎么回事？」"
+            },
+            {
+              "id": "step_14_06",
+              "type": "choice",
+              "content": "再等一下"
+            },
+            {
+              "id": "step_14_07",
+              "type": "choice",
+              "content": "握住她的手"
+            },
+            {
+              "id": "step_14_08",
+              "type": "choice",
+              "content": "这都是因为你握着我的手"
+            },
+            {
+              "id": "step_14_09",
+              "type": "choice",
+              "content": "静静地让她靠着自己"
+            },
+            {
+              "id": "step_14_10",
+              "type": "choice",
+              "content": "凯文实在太可怜了"
+            },
+            {
+              "id": "step_14_11",
+              "type": "choice",
+              "content": "谜语集"
+            },
+            {
+              "id": "step_14_12",
+              "type": "save",
+              "content": "SAVE 10"
+            },
+            {
+              "id": "step_14_13",
+              "type": "choice",
+              "content": "起床吧"
+            }
+          ]
+        },
+        {
+          "id": "ending_15",
+          "name": "祈～遥远的距离～",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_15_01",
+              "type": "load",
+              "content": "LOAD 10"
+            },
+            {
+              "id": "step_15_02",
+              "type": "choice",
+              "content": "继续睡"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

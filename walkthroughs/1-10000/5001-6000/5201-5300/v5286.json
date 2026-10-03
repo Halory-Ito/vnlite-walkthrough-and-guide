@@ -1,0 +1,512 @@
+{
+  "vid": "v5286",
+  "name": {
+    "zh-cn": "your diary+H",
+    "en-us": "your diary+H",
+    "ja-Latn": "your-diary-h"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-13",
+  "tips": [
+    "✲选项为PSP版的追加选项"
+  ],
+  "routes": [
+    {
+      "id": "route_1762429488086",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1762429488957",
+          "name": "由亚",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762429490786",
+              "type": "choice",
+              "content": "两个都买",
+              "prefix": "✲"
+            },
+            {
+              "id": "step_1762437590385",
+              "type": "choice",
+              "content": "我们在说榎本的事",
+              "prefix": "✲"
+            },
+            {
+              "id": "step_1762437590557",
+              "type": "choice",
+              "content": "去",
+              "prefix": "✲"
+            },
+            {
+              "id": "step_1762437590749",
+              "type": "choice",
+              "content": "在意是说……"
+            },
+            {
+              "id": "step_1762437591036",
+              "type": "choice",
+              "content": "沉默着接过她手上的书堆"
+            },
+            {
+              "id": "step_1762437593891",
+              "type": "choice",
+              "content": "转过身"
+            },
+            {
+              "id": "step_1762437594045",
+              "type": "choice",
+              "content": "在意",
+              "prefix": "✲"
+            },
+            {
+              "id": "step_1762437594211",
+              "type": "choice",
+              "content": "让她继续睡"
+            },
+            {
+              "id": "step_1762437594390",
+              "type": "choice",
+              "content": "随由亚怎么花"
+            },
+            {
+              "id": "step_1762437916630",
+              "type": "choice",
+              "content": "楼夕阳的肩"
+            },
+            {
+              "id": "step_1762437916871",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1762437917074",
+              "type": "choice",
+              "content": "自己来"
+            },
+            {
+              "id": "step_1762437917247",
+              "type": "choice",
+              "content": "果然还是不行"
+            },
+            {
+              "id": "step_1762437917409",
+              "type": "choice",
+              "content": "觉得困扰"
+            },
+            {
+              "id": "step_1762437917597",
+              "type": "choice",
+              "content": "类似于那种关系"
+            },
+            {
+              "id": "step_1762437920447",
+              "type": "choice",
+              "content": "不勉强"
+            },
+            {
+              "id": "step_1762437920654",
+              "type": "choice",
+              "content": "老实地回答",
+              "prefix": "✲"
+            },
+            {
+              "id": "step_1762437920833",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1762437921003",
+              "type": "choice",
+              "content": "由亚"
+            },
+            {
+              "id": "step_1762437921137",
+              "type": "choice",
+              "content": "把传单放到学生会办公室",
+              "prefix": "✲"
+            },
+            {
+              "id": "step_1762437921306",
+              "type": "choice",
+              "content": "还是不要了"
+            },
+            {
+              "id": "step_1762437921466",
+              "type": "choice",
+              "content": "由亚"
+            },
+            {
+              "id": "step_1762437921602",
+              "type": "choice",
+              "content": "让夕阳喂"
+            },
+            {
+              "id": "step_1762438142674",
+              "type": "choice",
+              "content": "有兄弟姐妹更好",
+              "prefix": "✲"
+            },
+            {
+              "id": "step_1762438142875",
+              "type": "choice",
+              "content": "就吃由亚那种"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762438175039",
+          "name": "绫濑纱雪",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762438190078",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1762438191048",
+              "type": "choice",
+              "content": "交给由亚"
+            },
+            {
+              "id": "step_1762438191199",
+              "type": "choice",
+              "content": "果然还是不行"
+            },
+            {
+              "id": "step_1762438191361",
+              "type": "choice",
+              "content": "觉得困扰"
+            },
+            {
+              "id": "step_1762438191491",
+              "type": "choice",
+              "content": "类似于那种关系"
+            },
+            {
+              "id": "step_1762438191651",
+              "type": "choice",
+              "content": "不勉强"
+            },
+            {
+              "id": "step_1762438191797",
+              "type": "choice",
+              "content": "蒙混过去",
+              "prefix": "✲"
+            },
+            {
+              "id": "step_1762438191929",
+              "type": "choice",
+              "content": "绫濑学姐"
+            },
+            {
+              "id": "step_1762438221712",
+              "type": "choice",
+              "content": "把传单放到学生会办公室",
+              "prefix": "✲"
+            },
+            {
+              "id": "step_1762438221877",
+              "type": "choice",
+              "content": "试一试"
+            },
+            {
+              "id": "step_1762438222037",
+              "type": "choice",
+              "content": "女生？"
+            },
+            {
+              "id": "step_1762438222199",
+              "type": "choice",
+              "content": "让夕阳喂"
+            },
+            {
+              "id": "step_1762438222332",
+              "type": "choice",
+              "content": "有兄弟姐妹更好",
+              "prefix": "✲"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762438367664",
+          "name": "深菜川夕阳",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762438494540",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1762438496019",
+              "type": "choice",
+              "content": "让她自己静一静"
+            },
+            {
+              "id": "step_1762438496185",
+              "type": "choice",
+              "content": "尊重夕阳的意愿"
+            },
+            {
+              "id": "step_1762438496328",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_1762438496468",
+              "type": "choice",
+              "content": "觉得困扰"
+            },
+            {
+              "id": "step_1762438496622",
+              "type": "choice",
+              "content": "类似于那种关系"
+            },
+            {
+              "id": "step_1762438496759",
+              "type": "choice",
+              "content": "当然想知道"
+            },
+            {
+              "id": "step_1762438548541",
+              "type": "choice",
+              "content": "蒙混过去",
+              "prefix": "✲"
+            },
+            {
+              "id": "step_1762438548731",
+              "type": "choice",
+              "content": "夕阳"
+            },
+            {
+              "id": "step_1762438548934",
+              "type": "choice",
+              "content": "把传单放到学生会办公室",
+              "prefix": "✲"
+            },
+            {
+              "id": "step_1762438549113",
+              "type": "choice",
+              "content": "还是不要了"
+            },
+            {
+              "id": "step_1762438549258",
+              "type": "choice",
+              "content": "女生？"
+            },
+            {
+              "id": "step_1762438549400",
+              "type": "choice",
+              "content": "自己动手"
+            },
+            {
+              "id": "step_1762438549588",
+              "type": "choice",
+              "content": "有兄弟姐妹更好",
+              "prefix": "✲"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762438367834",
+          "name": "广崎奏",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762438652204",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1762438664307",
+              "type": "choice",
+              "content": "不觉得困扰"
+            },
+            {
+              "id": "step_1762438664487",
+              "type": "choice",
+              "content": "不是"
+            },
+            {
+              "id": "step_1762438664669",
+              "type": "choice",
+              "content": "不勉强"
+            },
+            {
+              "id": "step_1762438664856",
+              "type": "choice",
+              "content": "蒙混过去",
+              "prefix": "✲"
+            },
+            {
+              "id": "step_1762438665024",
+              "type": "choice",
+              "content": "奏"
+            },
+            {
+              "id": "step_1762438665214",
+              "type": "choice",
+              "content": "把传单放到学生会办公室",
+              "prefix": "✲"
+            },
+            {
+              "id": "step_1762438665394",
+              "type": "choice",
+              "content": "还是不要了"
+            },
+            {
+              "id": "step_1762438666813",
+              "type": "choice",
+              "content": "由亚特制咖喱？"
+            },
+            {
+              "id": "step_1762438847366",
+              "type": "choice",
+              "content": "让夕阳喂"
+            },
+            {
+              "id": "step_1762438847524",
+              "type": "choice",
+              "content": "有兄弟姐妹更好",
+              "prefix": "✲"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762438367998",
+          "name": "榎本香穗",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762438930320",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1762438933165",
+              "type": "choice",
+              "content": "榎本"
+            },
+            {
+              "id": "step_1762438933339",
+              "type": "choice",
+              "content": "把传单放到学生会办公室",
+              "prefix": "✲"
+            },
+            {
+              "id": "step_1762438933524",
+              "type": "choice",
+              "content": "还是不要了"
+            },
+            {
+              "id": "step_1762438933710",
+              "type": "choice",
+              "content": "女生？"
+            },
+            {
+              "id": "step_1762438958868",
+              "type": "choice",
+              "content": "让夕阳喂"
+            },
+            {
+              "id": "step_1762438964617",
+              "type": "choice",
+              "content": "有兄弟姐妹更好",
+              "prefix": "✲"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762438368150",
+          "name": "藤村奈月",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762438982505",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1762438989678",
+              "type": "choice",
+              "content": "藤村"
+            },
+            {
+              "id": "step_1762438989872",
+              "type": "choice",
+              "content": "把传单放到学生会办公室",
+              "prefix": "✲"
+            },
+            {
+              "id": "step_1762438990055",
+              "type": "choice",
+              "content": "还是不要了"
+            },
+            {
+              "id": "step_1762438990255",
+              "type": "choice",
+              "content": "由亚特制咖喱？"
+            },
+            {
+              "id": "step_1762438990454",
+              "type": "choice",
+              "content": "让夕阳喂"
+            },
+            {
+              "id": "step_1762438991204",
+              "type": "choice",
+              "content": "不好说啊……",
+              "prefix": "✲"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762438464567",
+          "name": "一之濑畔",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762439029437",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1762439037064",
+              "type": "choice",
+              "content": "一之濑"
+            },
+            {
+              "id": "step_1762439037424",
+              "type": "choice",
+              "content": "自己去拿图钉",
+              "prefix": "✲"
+            },
+            {
+              "id": "step_1762439038493",
+              "type": "choice",
+              "content": "还是不要了"
+            },
+            {
+              "id": "step_1762439038681",
+              "type": "choice",
+              "content": "女生？"
+            },
+            {
+              "id": "step_1762439038945",
+              "type": "choice",
+              "content": "让夕阳喂"
+            },
+            {
+              "id": "step_1762439039273",
+              "type": "choice",
+              "content": "有兄弟姐妹更好",
+              "prefix": "✲"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

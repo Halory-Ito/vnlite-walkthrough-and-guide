@@ -1,0 +1,4143 @@
+{
+  "vid": "v236",
+  "name": {
+    "zh-cn": "白色相簿",
+    "en-us": "WHITE ALBUM: Memories like Falling Snow",
+    "ja-jp": "WHITE ALBUM",
+    "ja-Latn": "white-album"
+  },
+  "level": 2,
+  "updatedAt": "2026-04-09",
+  "routes": [
+    {
+      "id": "route_common",
+      "name": "共通线",
+      "endings": [
+        {
+          "id": "ending_common_main",
+          "name": "共通 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_common_001",
+              "type": "choice",
+              "content": "不肯善罢甘休",
+              "subfix": "麻奈好感度+1，累计1",
+              "group": "11月4日"
+            },
+            {
+              "id": "step_common_002",
+              "type": "choice",
+              "content": "选项随意",
+              "subfix": "无好感度变化",
+              "group": "11月5日"
+            },
+            {
+              "id": "step_common_003",
+              "type": "save",
+              "content": "SAVE 1",
+              "group": "11月6日"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_yuki",
+      "name": "森川 由绮",
+      "endings": [
+        {
+          "id": "ending_yuki_main",
+          "name": "由绮 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_yuki_001",
+              "type": "load",
+              "content": "LOAD 1",
+              "group": "11月6日"
+            },
+            {
+              "id": "step_yuki_002",
+              "type": "note",
+              "content": "麻奈事件01",
+              "prefix": "麻奈家",
+              "subfix": "通常事件",
+              "group": "11月7日"
+            },
+            {
+              "id": "step_yuki_003",
+              "type": "choice",
+              "content": "好。结束吧",
+              "subfix": "麻奈好感度+1，累计2",
+              "group": "11月7日"
+            },
+            {
+              "id": "step_yuki_004",
+              "type": "choice",
+              "content": "随意",
+              "subfix": "无好感度变化",
+              "group": "11月7日"
+            },
+            {
+              "id": "step_yuki_006",
+              "type": "note",
+              "content": "晚上强制发生由绮事件02",
+              "prefix": "自宅",
+              "subfix": "共通事件",
+              "group": "11月9日"
+            },
+            {
+              "id": "step_yuki_007",
+              "type": "note",
+              "content": "由绮事件03",
+              "subfix": "共通强制事件",
+              "group": "11月10日"
+            },
+            {
+              "id": "step_yuki_008",
+              "type": "note",
+              "content": "由绮文艺lv1-1 由绮好感度+1，累计1",
+              "prefix": "大学",
+              "subfix": "发生条件：11月11-20日之间由绮在大学",
+              "group": "11月11日"
+            },
+            {
+              "id": "step_yuki_009",
+              "type": "choice",
+              "content": "我替你去借吧",
+              "subfix": "由绮好感度+1，累计2",
+              "group": "11月11日"
+            },
+            {
+              "id": "step_yuki_010",
+              "type": "save",
+              "content": "SAVE 2",
+              "subfix": "由绮事件30 通常强制事件；发生条件：由绮文艺lv1-1选择第一个选项“我替你去借吧”",
+              "group": "11月12日"
+            },
+            {
+              "id": "step_yuki_011",
+              "type": "choice",
+              "content": "那就别看这些书了吧",
+              "group": "11月12日"
+            },
+            {
+              "id": "step_yuki_013",
+              "type": "note",
+              "content": "由绮兴趣lv1-1 由绮好感度+1，累计3",
+              "prefix": "公园",
+              "subfix": "发生条件：11月11日-12月6日之间",
+              "group": "11月14日"
+            },
+            {
+              "id": "step_yuki_014",
+              "type": "choice",
+              "content": "去吧",
+              "subfix": "由绮好感度+2，累计5",
+              "group": "11月14日"
+            },
+            {
+              "id": "step_yuki_015",
+              "type": "note",
+              "content": "麻奈事件25",
+              "subfix": "通常强制事件；发生条件：11月12日-12月20日之间，麻奈事件01发生、由绮任意约定发生",
+              "group": "11月15日"
+            },
+            {
+              "id": "step_yuki_016",
+              "type": "choice",
+              "content": "拒绝",
+              "group": "11月15日"
+            },
+            {
+              "id": "step_yuki_017",
+              "type": "note",
+              "content": "接着发生 由绮事件32",
+              "subfix": "通常强制事件；发生条件：由绮兴趣lv1-1选择第一个选项“去吧”",
+              "group": "11月15日"
+            },
+            {
+              "id": "step_yuki_018",
+              "type": "note",
+              "content": "彰文艺lv1-1",
+              "prefix": "公园",
+              "subfix": "发生条件：11月11日-28日之间",
+              "group": "11月16日"
+            },
+            {
+              "id": "step_yuki_019",
+              "type": "choice",
+              "content": "去",
+              "group": "11月16日"
+            },
+            {
+              "id": "step_yuki_020",
+              "type": "note",
+              "content": "由绮兴趣lv1-2 由绮好感度+1，累计6",
+              "prefix": "大学",
+              "subfix": "发生条件：11月13日-12月11日之间、周五周六以外，由绮事件32发生、麻奈事件01发生",
+              "group": "11月17日"
+            },
+            {
+              "id": "step_yuki_021",
+              "type": "choice",
+              "content": "会去的",
+              "subfix": "由绮好感度+1，累计7",
+              "group": "11月17日"
+            },
+            {
+              "id": "step_yuki_023",
+              "type": "note",
+              "content": "彰事件",
+              "subfix": "通常强制事件；发生条件：彰文艺lv1-1选择第一个选项“去”",
+              "group": "11月19日"
+            },
+            {
+              "id": "step_yuki_024",
+              "type": "note",
+              "content": "由绮文艺lv1-2 由绮好感度+1，累计8",
+              "prefix": "大学",
+              "subfix": "发生条件：11月15日-21日之间、周日以外，彰事件发生",
+              "group": "11月20日"
+            },
+            {
+              "id": "step_yuki_025",
+              "type": "choice",
+              "content": "去",
+              "subfix": "由绮好感度+1，累计9",
+              "group": "11月20日"
+            },
+            {
+              "id": "step_yuki_026",
+              "type": "note",
+              "content": "晚上强制发生遥事件21",
+              "prefix": "自宅",
+              "subfix": "发生条件：11月11日-12月19日之间，由绮任意约定发生",
+              "group": "11月21日"
+            },
+            {
+              "id": "step_yuki_027",
+              "type": "choice",
+              "content": "代我去吧",
+              "group": "11月21日"
+            },
+            {
+              "id": "step_yuki_028",
+              "type": "note",
+              "content": "由绮事件33",
+              "subfix": "通常强制发生(发生条件:由绮兴趣lv1-2选择第一个选项“会去的”)",
+              "group": "11月22日"
+            },
+            {
+              "id": "step_yuki_029",
+              "type": "note",
+              "content": "由绮事件31",
+              "subfix": "通常强制发生；发生条件：彰事件发生、由绮文艺lv1-2选择第一个选项“去”",
+              "group": "11月23日"
+            },
+            {
+              "id": "step_yuki_031",
+              "type": "note",
+              "content": "遥兴趣lv1-1 遥好感度+1，累计1",
+              "prefix": "运动场",
+              "subfix": "发生条件：11月28日之前",
+              "group": "11月27日"
+            },
+            {
+              "id": "step_yuki_032",
+              "type": "note",
+              "content": "遥兴趣lv1-2 遥好感度+1，累计2",
+              "prefix": "运动场",
+              "group": "11月28日"
+            },
+            {
+              "id": "step_yuki_033",
+              "type": "choice",
+              "content": "怎样都好",
+              "subfix": "遥好感度+2，累计4",
+              "group": "11月28日"
+            },
+            {
+              "id": "step_yuki_034",
+              "type": "save",
+              "content": "SAVE 3",
+              "subfix": "晚上强制发生遥事件02（发生条件：遥好感度3及以上）",
+              "group": "11月29日"
+            },
+            {
+              "id": "step_yuki_035",
+              "type": "choice",
+              "content": "没空",
+              "group": "11月29日"
+            },
+            {
+              "id": "step_yuki_036",
+              "type": "note",
+              "content": "接着发生 由绮事件04",
+              "subfix": "通常强制事件",
+              "group": "11月29日"
+            },
+            {
+              "id": "step_yuki_037",
+              "type": "choice",
+              "content": "没有",
+              "subfix": "由绮好感度+1，累计10",
+              "group": "11月29日"
+            },
+            {
+              "id": "step_yuki_038",
+              "type": "note",
+              "content": "由绮事件05",
+              "subfix": "通常强制发生；发生条件：由绮事件04发生并选择第二个选项“没有”",
+              "group": "11月30日"
+            },
+            {
+              "id": "step_yuki_039",
+              "type": "choice",
+              "content": "选项随意",
+              "subfix": "无好感度变化",
+              "group": "11月30日"
+            },
+            {
+              "id": "step_yuki_041",
+              "type": "note",
+              "content": "晚上强制发生由绮事件06 (发生条件:由绮好感度4及以上、12月1日-8日选择去TV局与任意角色对话；或者12月9日-10日由绮好感度4级及以上强制发生)",
+              "prefix": "自宅",
+              "group": "12月9日"
+            },
+            {
+              "id": "step_yuki_042",
+              "type": "choice",
+              "content": "接受",
+              "subfix": "由绮好感度+1，累计11",
+              "group": "12月9日"
+            },
+            {
+              "id": "step_yuki_043",
+              "type": "note",
+              "content": "由绮事件07",
+              "subfix": "通常强制事件；发生条件：由绮事件06发生并选择第一个选项“接受”",
+              "group": "12月10日-11日"
+            },
+            {
+              "id": "step_yuki_044",
+              "type": "choice",
+              "content": "…稍微有点事…",
+              "group": "12月10日-11日"
+            },
+            {
+              "id": "step_yuki_045",
+              "type": "note",
+              "content": "晚上强制发生由绮事件35",
+              "prefix": "自宅",
+              "subfix": "发生条件：12月12日-15日之间，由绮好感度8及以上且为各女主中好感度最高的、没有发生其他女主的看病事件",
+              "group": "12月12日"
+            },
+            {
+              "id": "step_yuki_046",
+              "type": "note",
+              "content": "晚上强制发生由绮事件08",
+              "prefix": "自宅",
+              "subfix": "发生条件:12月14日-17日之间，未发生弥生事件01",
+              "group": "12月15日"
+            },
+            {
+              "id": "step_yuki_048",
+              "type": "save",
+              "content": "SAVE 4",
+              "subfix": "由绮事件09 必须事件 （发生条件：没有发生弥生事件02从弥生那里获得门票；若由绮事件07选择第一个选项“当然会去”则在12月23日发生，其余所有情况下在12月18日发生）（只要未发生弥生事件02就强制发生，哪怕由绮好感度为0也会从这里获得门票）",
+              "group": "12月18日"
+            },
+            {
+              "id": "step_yuki_049",
+              "type": "note",
+              "content": "由绮艺能lv1-1 由绮好感度+1，累计12",
+              "prefix": "Echoes",
+              "subfix": "发生条件：由绮事件17未发生",
+              "group": "12月19日"
+            },
+            {
+              "id": "step_yuki_050",
+              "type": "note",
+              "content": "由绮艺能lv1-2 由绮好感度+1，累计13",
+              "prefix": "TV局",
+              "subfix": "发生条件：由绮事件17未发生、在TV局",
+              "group": "12月20日"
+            },
+            {
+              "id": "step_yuki_052",
+              "type": "note",
+              "content": "由绮事件11",
+              "subfix": "共通强制事件",
+              "group": "12月24日"
+            },
+            {
+              "id": "step_yuki_053",
+              "type": "note",
+              "content": "接着发生 由绮事件12",
+              "subfix": "必须事件 强制发生",
+              "group": "12月24日"
+            },
+            {
+              "id": "step_yuki_054",
+              "type": "choice",
+              "content": "也是没办法的事吧",
+              "subfix": "由绮好感度+1，累计14",
+              "group": "12月24日"
+            },
+            {
+              "id": "step_yuki_055",
+              "type": "choice",
+              "content": "随意",
+              "subfix": "无好感度变化",
+              "group": "12月24日"
+            },
+            {
+              "id": "step_yuki_057",
+              "type": "note",
+              "content": "由绮恋爱lv1-1 (发生条件:由绮事件17未发生) 由绮好感度+1，累计15",
+              "prefix": "TV局",
+              "group": "12月27日"
+            },
+            {
+              "id": "step_yuki_059",
+              "type": "note",
+              "content": "由绮家常话lv1-2 由绮好感度+1，累计16",
+              "prefix": "公园",
+              "subfix": "发生条件：12月30日之前，Echoes、TV局以外",
+              "group": "12月30日"
+            },
+            {
+              "id": "step_yuki_060",
+              "type": "note",
+              "content": "晚上强制发生由绮事件13",
+              "prefix": "自宅",
+              "subfix": "发生条件：由绮好感度12及以上、由绮事件12发生、没有发生理奈事件09",
+              "group": "12月31日"
+            },
+            {
+              "id": "step_yuki_061",
+              "type": "note",
+              "content": "由绮事件15",
+              "prefix": "TV局",
+              "subfix": "通常事件；相当于必须事件；发生条件：1月2日-1月15日之间",
+              "group": "1月2日"
+            },
+            {
+              "id": "step_yuki_063",
+              "type": "note",
+              "content": "由绮事件16",
+              "prefix": "Echoes",
+              "subfix": "必须事件；发生条件：1月5日-1月20日之间，由绮事件15、理奈事件12、弥生事件06三个满足任意一个即可，但发生了理奈事件12或者弥生事件06将无法达成由绮END，因此实际上发生条件只能是由绮事件15",
+              "group": "1月5日"
+            },
+            {
+              "id": "step_yuki_065",
+              "type": "note",
+              "content": "由绮兴趣lv1-3 由绮好感度+1，累计17",
+              "prefix": "Echoes",
+              "subfix": "发生条件：由绮事件05发生、遥事件02发生",
+              "group": "1月7日"
+            },
+            {
+              "id": "step_yuki_066",
+              "type": "note",
+              "content": "由绮兴趣lv2-2 由绮好感度+1，累计18",
+              "prefix": "TV局",
+              "subfix": "发生条件：由绮事件17未发生、美咲事件14未发生",
+              "group": "1月8日"
+            },
+            {
+              "id": "step_yuki_067",
+              "type": "note",
+              "content": "由绮家常话lv1-3 由绮好感度+1，累计19",
+              "prefix": "TV局",
+              "subfix": "发生条件：由绮事件25未发生",
+              "group": "1月9日"
+            },
+            {
+              "id": "step_yuki_069",
+              "type": "note",
+              "content": "由绮事件17",
+              "prefix": "Echoes",
+              "subfix": "必须事件；发生条件：1月19日-25日之间，由绮好感度15及以上、由绮事件12发生、由绮事件16发生、没有发生理奈事件09",
+              "group": "1月19日"
+            },
+            {
+              "id": "step_yuki_070",
+              "type": "choice",
+              "content": "让她留下来",
+              "subfix": "必须选项 由绮好感度+1，累计20",
+              "group": "1月19日"
+            },
+            {
+              "id": "step_yuki_072",
+              "type": "note",
+              "content": "晚上强制发生由绮事件18",
+              "prefix": "自宅",
+              "subfix": "必须事件；发生条件：由绮事件17发生并选择第一个选项“让她留下来”，由绮事件17的5日后发生",
+              "group": "1月24日"
+            },
+            {
+              "id": "step_yuki_074",
+              "type": "note",
+              "content": "晚上强制发生由绮事件19",
+              "prefix": "自宅",
+              "subfix": "必须事件；发生条件：1月29日-2月5日之间，由绮事件18发生",
+              "group": "1月29日"
+            },
+            {
+              "id": "step_yuki_076",
+              "type": "note",
+              "content": "由绮兴趣lv3-1 由绮好感度+1，累计21",
+              "prefix": "TV局",
+              "subfix": "发生条件：由绮事件17发生",
+              "group": "2月2日"
+            },
+            {
+              "id": "step_yuki_078",
+              "type": "note",
+              "content": "由绮家常话lv3-1 由绮好感度+1，累计22",
+              "prefix": "Echoes",
+              "subfix": "发生条件：由绮事件17发生、在Echoes",
+              "group": "2月4日"
+            },
+            {
+              "id": "step_yuki_080",
+              "type": "save",
+              "content": "SAVE 5",
+              "subfix": "由绮文艺lv3-2 (发生条件:由绮事件17发生) 由绮好感度+1，累计23",
+              "group": "2月12日"
+            },
+            {
+              "id": "step_yuki_081",
+              "type": "note",
+              "content": "接着发生 由绮事件20",
+              "subfix": "通常强制事件；发生条件：2月7日-13日之间，由绮好感度23及以上且为各女主中好感度最高的",
+              "group": "2月12日"
+            },
+            {
+              "id": "step_yuki_083",
+              "type": "save",
+              "content": "SAVE 6",
+              "subfix": "由绮事件21 通常事件 （发生条件：由绮好感度23及以上、由绮事件20发生）",
+              "group": "2月14日"
+            },
+            {
+              "id": "step_yuki_085",
+              "type": "note",
+              "content": "晚上强制发生由绮事件24",
+              "prefix": "自宅",
+              "subfix": "必须事件；发生条件：2月20日-21日之间，由绮事件19发生",
+              "group": "2月20日"
+            },
+            {
+              "id": "step_yuki_087",
+              "type": "note",
+              "content": "由绮事件25",
+              "prefix": "TV局",
+              "subfix": "必须事件；发生条件：2月22日-27日之间，由绮好感度20及以上、由绮事件24发生",
+              "group": "2月22日"
+            },
+            {
+              "id": "step_yuki_088",
+              "type": "choice",
+              "content": "去打个招呼",
+              "subfix": "必须选项",
+              "group": "2月22日"
+            },
+            {
+              "id": "step_yuki_090",
+              "type": "save",
+              "content": "SAVE 7",
+              "subfix": "晚上强制发生由绮事件26 必须事件（发生条件：由绮好感度20及以上、由绮事件25发生并选择第一个选项“去打个招呼”）",
+              "group": "2月27日"
+            },
+            {
+              "id": "step_yuki_091",
+              "type": "choice",
+              "content": "见面吧",
+              "subfix": "必须选项",
+              "group": "2月27日"
+            },
+            {
+              "id": "step_yuki_092",
+              "type": "note",
+              "content": "由绮事件27",
+              "subfix": "必须事件 强制发生；发生条件：由绮事件26发生并选择第一个选项“见面吧”",
+              "group": "2月28日"
+            },
+            {
+              "id": "step_yuki_093",
+              "type": "note",
+              "content": "接着发生 由绮事件28 由绮END",
+              "group": "2月28日"
+            }
+          ]
+        },
+        {
+          "id": "ending_yuki_part_2",
+          "name": "由绮 回收",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_yuki_094",
+              "type": "load",
+              "content": "LOAD 2",
+              "subfix": "由绮事件30 通常强制事件；发生条件：由绮文艺lv1-1选择第一个选项“我替你去接吧”",
+              "group": "11月12日"
+            },
+            {
+              "id": "step_yuki_095",
+              "type": "choice",
+              "content": "送去电视台",
+              "subfix": "由绮好感度+1，累计3；11月14日 事件回收了",
+              "group": "11月12日"
+            },
+            {
+              "id": "step_yuki_096",
+              "type": "load",
+              "content": "LOAD 3",
+              "subfix": "晚上强制发生遥事件02（发生条件：遥好感度3及以上）",
+              "group": "11月29日"
+            },
+            {
+              "id": "step_yuki_097",
+              "type": "choice",
+              "content": "闲着",
+              "group": "11月29日"
+            },
+            {
+              "id": "step_yuki_098",
+              "type": "choice",
+              "content": "去",
+              "subfix": "遥好感度+1，累计5",
+              "group": "11月29日"
+            },
+            {
+              "id": "step_yuki_099",
+              "type": "note",
+              "content": "接着发生 由绮事件04",
+              "subfix": "通常强制事件",
+              "group": "11月29日"
+            },
+            {
+              "id": "step_yuki_100",
+              "type": "choice",
+              "content": "已经有了",
+              "group": "11月29日"
+            },
+            {
+              "id": "step_yuki_101",
+              "type": "note",
+              "content": "遥事件03",
+              "subfix": "强制事件；发生条件：遥事件02发生并选择第一个选项“去”",
+              "group": "11月30日"
+            },
+            {
+              "id": "step_yuki_103",
+              "type": "note",
+              "content": "由绮兴趣lv1-4",
+              "prefix": "Echoes",
+              "subfix": "发生条件：由绮事件04发生、遥事件03发生；由绮好感度+1，累计10",
+              "group": "12月3日"
+            },
+            {
+              "id": "step_yuki_104",
+              "type": "note",
+              "content": "由绮兴趣lv2-1 由绮好感度+1，累计11",
+              "prefix": "大学",
+              "subfix": "发生条件：12月4日-19日之间，由绮兴趣lv1-2发生并已过去了7日及以上、由绮兴趣lv1-4发生、星期六以外、TV局以外",
+              "group": "12月4日"
+            },
+            {
+              "id": "step_yuki_105",
+              "type": "choice",
+              "content": "去",
+              "subfix": "由绮好感度+1，累计12",
+              "group": "12月4日"
+            },
+            {
+              "id": "step_yuki_107",
+              "type": "note",
+              "content": "由绮事件34",
+              "subfix": "通常强制事件；发生条件：由绮事件33发生并已过去了7日及以上、由绮兴趣lv2-1发生并选择第一个选项“去”；12月7日 事件回收了",
+              "group": "12月6日"
+            },
+            {
+              "id": "step_yuki_108",
+              "type": "load",
+              "content": "LOAD 4",
+              "subfix": "彰家常话lv1-1 （发生条件：12月23日之前）",
+              "group": "12月18日"
+            },
+            {
+              "id": "step_yuki_109",
+              "type": "note",
+              "content": "接着发生 由绮事件10",
+              "subfix": "必须事件；发生条件：没有发生弥生事件02从弥生那里获得门票、当天选择了自宅以外的选项；若由绮事件07选择第一个选项“当然会去”则在12月23日发生，其余所有情况下在12月18日发生",
+              "group": "12月18日"
+            },
+            {
+              "id": "step_yuki_111",
+              "type": "note",
+              "content": "由绮事件11",
+              "subfix": "共通强制事件",
+              "group": "12月24日"
+            },
+            {
+              "id": "step_yuki_112",
+              "type": "note",
+              "content": "接着发生 由绮事件12",
+              "subfix": "必须事件 强制发生",
+              "group": "12月24日"
+            },
+            {
+              "id": "step_yuki_113",
+              "type": "choice",
+              "content": "不想变成这样啊…",
+              "subfix": "这里不能选第一个选项“也是没办法的事吧”，要确保由绮好感度在11及以下，否则无法发生由绮事件14",
+              "group": "12月24日"
+            },
+            {
+              "id": "step_yuki_114",
+              "type": "choice",
+              "content": "随意",
+              "subfix": "无好感度变化",
+              "group": "12月24日"
+            },
+            {
+              "id": "step_yuki_116",
+              "type": "note",
+              "content": "晚上强制发生由绮事件14",
+              "prefix": "自宅",
+              "subfix": "发生条件：由绮好感度11及以下、由绮事件12发生、没有发生理奈事件09；1月2日 事件回收了",
+              "group": "12月31日"
+            },
+            {
+              "id": "step_yuki_117",
+              "type": "load",
+              "content": "LOAD 5",
+              "group": "2月12日-13日"
+            },
+            {
+              "id": "step_yuki_118",
+              "type": "note",
+              "content": "由绮事件22",
+              "prefix": "Echoes",
+              "subfix": "通常事件；发生条件：由绮好感度在8-22之间、弥生事件08未发生、弥生事件09未发生；2月15日 事件回收了",
+              "group": "2月14日"
+            },
+            {
+              "id": "step_yuki_119",
+              "type": "load",
+              "content": "LOAD 6",
+              "group": "2月14日"
+            },
+            {
+              "id": "step_yuki_120",
+              "type": "note",
+              "content": "由绮事件23",
+              "prefix": "Echoes",
+              "subfix": "通常事件；发生条件：2月15日-21日之间，由绮好感度在8及以上、弥生事件08未发生、弥生事件09未发生、由绮事件21未发生、由绮事件22未发生；2月16日 事件回收了",
+              "group": "2月15日"
+            },
+            {
+              "id": "step_yuki_121",
+              "type": "load",
+              "content": "LOAD 7",
+              "subfix": "晚上强制发生由绮事件26 必须事件（发生条件：由绮好感度20及以上、由绮事件25发生并选择第一个选项“去打个招呼”）",
+              "group": "2月27日"
+            },
+            {
+              "id": "step_yuki_122",
+              "type": "choice",
+              "content": "不行哦",
+              "group": "2月27日"
+            },
+            {
+              "id": "step_yuki_123",
+              "type": "note",
+              "content": "晚上强制发生由绮事件29 共通END",
+              "prefix": "自宅",
+              "subfix": "只要各女主的结局条件没有一个满足的就会强制进入共通END；由绮线事件回收完毕，由绮线全事件达成",
+              "group": "2月28日"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_rina",
+      "name": "绪方 理奈",
+      "endings": [
+        {
+          "id": "ending_rina_main",
+          "name": "理奈 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_rina_001",
+              "type": "load",
+              "content": "LOAD 1",
+              "subfix": "理奈艺能lv1-1 理奈好感度+1，累计1",
+              "group": "11月6日"
+            },
+            {
+              "id": "step_rina_002",
+              "type": "choice",
+              "content": "担心啊",
+              "subfix": "理奈好感度+1，累计2",
+              "group": "11月6日"
+            },
+            {
+              "id": "step_rina_004",
+              "type": "note",
+              "content": "晚上强制发生由绮事件02",
+              "prefix": "自宅",
+              "subfix": "共通事件",
+              "group": "11月9日"
+            },
+            {
+              "id": "step_rina_005",
+              "type": "note",
+              "content": "由绮事件03",
+              "subfix": "共通强制事件",
+              "group": "11月10日"
+            },
+            {
+              "id": "step_rina_006",
+              "type": "note",
+              "content": "理奈事件01",
+              "prefix": "TV局",
+              "subfix": "必须事件；发生条件：11月11日-18日之间，理奈好感度2及以上",
+              "group": "11月11日"
+            },
+            {
+              "id": "step_rina_007",
+              "type": "note",
+              "content": "理奈艺能lv1-2 理奈好感度+1，累计3",
+              "prefix": "Echoes",
+              "group": "11月12日"
+            },
+            {
+              "id": "step_rina_008",
+              "type": "note",
+              "content": "理奈兴趣lv1-1 理奈好感度+1，累计4",
+              "prefix": "TV局",
+              "group": "11月13日"
+            },
+            {
+              "id": "step_rina_009",
+              "type": "note",
+              "content": "理奈兴趣lv1-2 理奈好感度+1，累计5",
+              "prefix": "TV局",
+              "subfix": "发生条件：在TV局",
+              "group": "11月14日"
+            },
+            {
+              "id": "step_rina_011",
+              "type": "note",
+              "content": "理奈事件02",
+              "prefix": "繁华街",
+              "subfix": "通常事件",
+              "group": "11月19日"
+            },
+            {
+              "id": "step_rina_013",
+              "type": "note",
+              "content": "理奈事件04",
+              "prefix": "TV局",
+              "subfix": "必须事件；发生条件：11月22日-28日之间，理奈好感度3及以上、理奈事件01发生",
+              "group": "11月22日"
+            },
+            {
+              "id": "step_rina_014",
+              "type": "choice",
+              "content": "好呀",
+              "subfix": "必须选项",
+              "group": "11月22日"
+            },
+            {
+              "id": "step_rina_015",
+              "type": "save",
+              "content": "SAVE 8",
+              "subfix": "晚上强制发生理奈事件06 必须事件（发生条件：理奈好感度5及以下、理奈事件04发生并选择第一个选项“好呀”）",
+              "group": "11月23日"
+            },
+            {
+              "id": "step_rina_016",
+              "type": "choice",
+              "content": "当然会去",
+              "subfix": "必须选项 理奈好感度+1，累计6",
+              "group": "11月23日"
+            },
+            {
+              "id": "step_rina_018",
+              "type": "note",
+              "content": "理奈事件07",
+              "subfix": "必须事件 强制发生；发生条件：理奈事件05或者理奈事件06发生，并选择第一个选项“当然会去”",
+              "group": "11月25日"
+            },
+            {
+              "id": "step_rina_019",
+              "type": "note",
+              "content": "理奈事件03",
+              "subfix": "通常强制事件；发生条件：理奈事件02发生；理奈好感度+2，累计8",
+              "group": "11月26日"
+            },
+            {
+              "id": "step_rina_020",
+              "type": "note",
+              "content": "理奈文艺lv1-1 理奈好感度+1，累计9",
+              "prefix": "TV局",
+              "group": "11月27日"
+            },
+            {
+              "id": "step_rina_021",
+              "type": "note",
+              "content": "理奈文艺lv1-2 理奈好感度+1，累计10",
+              "prefix": "TV局",
+              "group": "11月28日"
+            },
+            {
+              "id": "step_rina_022",
+              "type": "note",
+              "content": "晚上强制发生由绮事件04 第一个选项",
+              "prefix": "自宅",
+              "subfix": "已经有了",
+              "group": "11月29日"
+            },
+            {
+              "id": "step_rina_024",
+              "type": "note",
+              "content": "由绮兴趣lv1-1 由绮好感度+1，累计1",
+              "prefix": "大学",
+              "subfix": "发生条件：11月11日-12月6日之间",
+              "group": "12月2日"
+            },
+            {
+              "id": "step_rina_025",
+              "type": "choice",
+              "content": "去吧",
+              "subfix": "由绮好感度+2，累计3",
+              "group": "12月2日"
+            },
+            {
+              "id": "step_rina_026",
+              "type": "note",
+              "content": "接着发生 理奈事件20",
+              "subfix": "通常强制事件；发生条件：12月2日-19日之间，理奈事件04发生、由绮任意约定发生",
+              "group": "12月2日"
+            },
+            {
+              "id": "step_rina_027",
+              "type": "choice",
+              "content": "答应",
+              "group": "12月2日"
+            },
+            {
+              "id": "step_rina_028",
+              "type": "choice",
+              "content": "推掉跟由绮的约定",
+              "subfix": "理奈好感度+1，累计11",
+              "group": "12月2日"
+            },
+            {
+              "id": "step_rina_029",
+              "type": "choice",
+              "content": "说谎",
+              "group": "12月2日"
+            },
+            {
+              "id": "step_rina_030",
+              "type": "note",
+              "content": "理奈事件21",
+              "subfix": "通常强制事件；发生条件：理奈事件20发生并选择第一个选项“推掉跟由绮的约定”",
+              "group": "12月3日"
+            },
+            {
+              "id": "step_rina_032",
+              "type": "note",
+              "content": "晚上强制发生由绮事件08",
+              "prefix": "自宅",
+              "subfix": "发生条件:12月14日-17日之间，未发生弥生事件01",
+              "group": "12月14日"
+            },
+            {
+              "id": "step_rina_034",
+              "type": "note",
+              "content": "由绮事件09",
+              "prefix": "自宅",
+              "subfix": "发生条件：没有发生弥生事件02从弥生那里获得门票；若由绮事件07选择第一个选项“当然会去”则在12月23日发生，其余所有情况下在12月18日发生；只要未发生弥生事件02就强制发生，哪怕由绮好感度为0也会从这里获得门票",
+              "group": "12月18日"
+            },
+            {
+              "id": "step_rina_035",
+              "type": "note",
+              "content": "晚上强制发生理奈事件08",
+              "prefix": "自宅",
+              "subfix": "必须事件；发生条件：12月19日-20日之间，理奈好感度10及以上、理奈事件07发生、已经获得了门票",
+              "group": "12月19日"
+            },
+            {
+              "id": "step_rina_036",
+              "type": "choice",
+              "content": "去",
+              "subfix": "必须选项 理奈好感度+1，累计12；因为必须事件理奈事件08的发生条件要求一定要在20日之前获得门票，这里再讲一下获得门票的方法。门票是一定会获得的，因为由绮事件11是共通强制事件，一共有两种获得门票的方法，第一种是发生弥生事件02从弥生那里获得门票，第二种是发生由绮事件09获得门票。这里强烈推荐用第二种方法，通过由绮事件09获得门票，因为只要没有发生弥生事件02从弥生那里获得门票，哪怕由绮好感度为0也会通过由绮事件09获得门票。但要注意的是，如果由绮事件07选择第一个选项“当然会去”就只能在12月23日送门票过来，会错过理奈事件08，但只要由绮好感度在3及以下就不会发生由绮事件07，由绮事件07自然也选不到第一个选项“当然会去”",
+              "group": "12月19日"
+            },
+            {
+              "id": "step_rina_037",
+              "type": "save",
+              "content": "SAVE 9",
+              "group": "12月20日"
+            },
+            {
+              "id": "step_rina_038",
+              "type": "note",
+              "content": "理奈事件09",
+              "subfix": "必须事件 强制发生；发生条件：理奈事件08发生并选择第一个选项“去”",
+              "group": "12月21日"
+            },
+            {
+              "id": "step_rina_040",
+              "type": "note",
+              "content": "由绮事件11",
+              "subfix": "共通强制事件",
+              "group": "12月24日"
+            },
+            {
+              "id": "step_rina_041",
+              "type": "note",
+              "content": "接着发生 由绮事件12",
+              "subfix": "强制事件",
+              "group": "12月24日"
+            },
+            {
+              "id": "step_rina_042",
+              "type": "choice",
+              "content": "不想变成这样啊…",
+              "group": "12月24日"
+            },
+            {
+              "id": "step_rina_043",
+              "type": "choice",
+              "content": "随意",
+              "subfix": "无好感度变化",
+              "group": "12月24日"
+            },
+            {
+              "id": "step_rina_045",
+              "type": "note",
+              "content": "晚上强制发生理奈事件11",
+              "prefix": "自宅",
+              "subfix": "必须事件；发生条件：理奈好感度12及以下、理奈事件09发生",
+              "group": "12月31日"
+            },
+            {
+              "id": "step_rina_046",
+              "type": "note",
+              "content": "理奈事件12",
+              "prefix": "TV局",
+              "subfix": "必须事件；发生条件：1月2日-15日之间，理奈事件10或者理奈事件11发生",
+              "group": "1月2日"
+            },
+            {
+              "id": "step_rina_048",
+              "type": "note",
+              "content": "理奈文艺lv1-3 理奈好感度+1，累计13",
+              "prefix": "TV局",
+              "group": "1月4日"
+            },
+            {
+              "id": "step_rina_050",
+              "type": "note",
+              "content": "理奈恋爱lv1-1 理奈好感度+1，累计14",
+              "prefix": "TV局",
+              "group": "1月7日"
+            },
+            {
+              "id": "step_rina_052",
+              "type": "note",
+              "content": "理奈恋爱lv1-2 理奈好感度+1，累计15",
+              "prefix": "TV局",
+              "subfix": "发生条件：11月27日-2月13日之间，理奈事件03发生、在TV局",
+              "group": "1月10日"
+            },
+            {
+              "id": "step_rina_053",
+              "type": "note",
+              "content": "接着发生 理奈事件22",
+              "subfix": "通常强制事件；发生条件：1月10日-16日之间，理奈好感度15及以上且为各女主中好感度最高的、没有发生其他女主的看病事件",
+              "group": "1月10日"
+            },
+            {
+              "id": "step_rina_055",
+              "type": "note",
+              "content": "理奈家常话lv3-3",
+              "prefix": "TV局",
+              "subfix": "发生条件：理奈事件10或者理奈事件11发生；理奈好感度+1，累计16",
+              "group": "1月14日"
+            },
+            {
+              "id": "step_rina_057",
+              "type": "note",
+              "content": "理奈事件13",
+              "prefix": "Echoes",
+              "subfix": "必须事件；发生条件：1月19日-2月5日，理奈好感度15及以上、理奈事件12发生",
+              "group": "1月19日"
+            },
+            {
+              "id": "step_rina_058",
+              "type": "choice",
+              "content": "你想太多了",
+              "subfix": "理奈好感度+1，累计17",
+              "group": "1月19日"
+            },
+            {
+              "id": "step_rina_060",
+              "type": "note",
+              "content": "晚上强制发生理奈事件14",
+              "prefix": "自宅",
+              "subfix": "必须事件；发生条件：理奈事件13发生的7日后",
+              "group": "1月26日"
+            },
+            {
+              "id": "step_rina_061",
+              "type": "choice",
+              "content": "叫住她",
+              "subfix": "必须选项",
+              "group": "1月26日"
+            },
+            {
+              "id": "step_rina_062",
+              "type": "note",
+              "content": "美咲文艺lv1-1 (发生条件:美咲事件14未发生) 美咲好感度+1，累计1",
+              "prefix": "Echoes",
+              "group": "1月27日"
+            },
+            {
+              "id": "step_rina_064",
+              "type": "note",
+              "content": "理奈文艺lv2-1 理奈好感度+1，累计18",
+              "prefix": "TV局",
+              "group": "1月30日"
+            },
+            {
+              "id": "step_rina_065",
+              "type": "choice",
+              "content": "你喜欢这种的啊",
+              "subfix": "理奈好感度+2，累计20",
+              "group": "1月30日"
+            },
+            {
+              "id": "step_rina_067",
+              "type": "note",
+              "content": "理奈事件15",
+              "subfix": "通常强制事件；行动前；发生条件：理奈好感度20及以上",
+              "group": "2月14日"
+            },
+            {
+              "id": "step_rina_068",
+              "type": "note",
+              "content": "自宅",
+              "group": "2月14日"
+            },
+            {
+              "id": "step_rina_070",
+              "type": "note",
+              "content": "晚上强制发生理奈事件16",
+              "prefix": "自宅",
+              "subfix": "必须事件；发生条件：2月20日-25日之间，理奈事件14发生并选择第一个选项“叫住她”",
+              "group": "2月20日"
+            },
+            {
+              "id": "step_rina_071",
+              "type": "choice",
+              "content": "去",
+              "subfix": "必须选项 理奈好感度+1，累计21",
+              "group": "2月20日"
+            },
+            {
+              "id": "step_rina_072",
+              "type": "note",
+              "content": "理奈事件17",
+              "subfix": "必须事件 强制发生；发生条件：理奈事件16发生并选择第一个选项“去”",
+              "group": "2月21日"
+            },
+            {
+              "id": "step_rina_073",
+              "type": "choice",
+              "content": "追上去",
+              "subfix": "必须选项",
+              "group": "2月21日"
+            },
+            {
+              "id": "step_rina_074",
+              "type": "note",
+              "content": "理奈事件18",
+              "subfix": "必须事件 强制发生；发生条件：理奈事件17发生并选择第一个选项“追上去”",
+              "group": "2月26日"
+            },
+            {
+              "id": "step_rina_075",
+              "type": "note",
+              "content": "接着发生 理奈事件19 理奈END",
+              "group": "2月26日"
+            }
+          ]
+        },
+        {
+          "id": "ending_rina_part_2",
+          "name": "理奈 回收",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_rina_076",
+              "type": "load",
+              "content": "LOAD 8",
+              "subfix": "理奈文艺lv1-1 理奈好感度+1，累计6",
+              "group": "11月23日"
+            },
+            {
+              "id": "step_rina_077",
+              "type": "note",
+              "content": "接着发生 理奈事件05",
+              "subfix": "必须事件 强制发生；发生条件：理奈好感度6及以上、理奈事件04发生并选择第一个选项“好呀”",
+              "group": "11月23日"
+            },
+            {
+              "id": "step_rina_078",
+              "type": "choice",
+              "content": "当然会去",
+              "subfix": "必须选项 理奈好感度+1，累计7；11月24日 事件回收了",
+              "group": "11月23日"
+            },
+            {
+              "id": "step_rina_079",
+              "type": "load",
+              "content": "LOAD 9",
+              "subfix": "理奈文艺lv1-3 理奈好感度+1，累计13",
+              "group": "12月20日"
+            },
+            {
+              "id": "step_rina_080",
+              "type": "note",
+              "content": "理奈事件09",
+              "subfix": "必须事件 强制发生；发生条件：理奈事件08发生并选择第一个选项“去”",
+              "group": "12月21日"
+            },
+            {
+              "id": "step_rina_082",
+              "type": "note",
+              "content": "由绮事件11",
+              "subfix": "共通强制事件",
+              "group": "12月24日"
+            },
+            {
+              "id": "step_rina_083",
+              "type": "note",
+              "content": "接着发生 由绮事件12",
+              "subfix": "强制事件",
+              "group": "12月24日"
+            },
+            {
+              "id": "step_rina_084",
+              "type": "choice",
+              "content": "不想变成这样啊…",
+              "group": "12月24日"
+            },
+            {
+              "id": "step_rina_085",
+              "type": "choice",
+              "content": "随意",
+              "subfix": "无好感度变化",
+              "group": "12月24日"
+            },
+            {
+              "id": "step_rina_087",
+              "type": "note",
+              "content": "晚上强制发生理奈事件10",
+              "prefix": "自宅",
+              "subfix": "必须事件；发生条件：理奈好感度13及以上、理奈事件09发生；1月2日 事件回收了 理奈线事件回收完毕，理奈线全事件达成",
+              "group": "12月31日"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_haruka",
+      "name": "河岛 遥",
+      "endings": [
+        {
+          "id": "ending_haruka_main",
+          "name": "遥 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_haruka_001",
+              "type": "load",
+              "content": "LOAD 1",
+              "group": "11月6日-8日"
+            },
+            {
+              "id": "step_haruka_002",
+              "type": "note",
+              "content": "晚上强制发生由绮事件02",
+              "prefix": "自宅",
+              "subfix": "共通事件",
+              "group": "11月9日"
+            },
+            {
+              "id": "step_haruka_003",
+              "type": "note",
+              "content": "由绮事件03",
+              "subfix": "共通强制事件",
+              "group": "11月10日"
+            },
+            {
+              "id": "step_haruka_004",
+              "type": "note",
+              "content": "由绮兴趣lv1-1 由绮好感度+1，累计1",
+              "prefix": "大学",
+              "subfix": "发生条件：11月11日-12月6日之间",
+              "group": "11月11日"
+            },
+            {
+              "id": "step_haruka_005",
+              "type": "choice",
+              "content": "去吧",
+              "subfix": "由绮好感度+2，累计3",
+              "group": "11月11日"
+            },
+            {
+              "id": "step_haruka_006",
+              "type": "note",
+              "content": "接着发生 遥事件21",
+              "subfix": "通常强制事件；发生条件：11月11日-12月19日之间，由绮任意约定发生",
+              "group": "11月11日"
+            },
+            {
+              "id": "step_haruka_007",
+              "type": "choice",
+              "content": "我自己去吧",
+              "group": "11月11日"
+            },
+            {
+              "id": "step_haruka_008",
+              "type": "choice",
+              "content": "推掉跟由绮的约定",
+              "subfix": "遥好感度+1，累计1",
+              "group": "11月11日"
+            },
+            {
+              "id": "step_haruka_009",
+              "type": "choice",
+              "content": "说谎",
+              "group": "11月11日"
+            },
+            {
+              "id": "step_haruka_010",
+              "type": "note",
+              "content": "遥事件22",
+              "subfix": "通常强制事件；发生条件：遥事件21发生并选择第一个选项“推掉跟由绮的约定”",
+              "group": "11月12日"
+            },
+            {
+              "id": "step_haruka_011",
+              "type": "note",
+              "content": "遥事件01",
+              "prefix": "大学",
+              "subfix": "通常事件；发生条件：11月12日-22日之间，遥好感度1及以上",
+              "group": "11月13日"
+            },
+            {
+              "id": "step_haruka_012",
+              "type": "note",
+              "content": "遥兴趣lv1-1 遥好感度+1，累计2",
+              "prefix": "运动场",
+              "subfix": "发生条件：11月28日之前",
+              "group": "11月14日"
+            },
+            {
+              "id": "step_haruka_014",
+              "type": "note",
+              "content": "遥兴趣lv1-2 遥好感度+1，累计3",
+              "prefix": "Echoes",
+              "group": "11月16日"
+            },
+            {
+              "id": "step_haruka_015",
+              "type": "choice",
+              "content": "怎样都好",
+              "subfix": "遥好感度+2，累计5",
+              "group": "11月16日"
+            },
+            {
+              "id": "step_haruka_017",
+              "type": "note",
+              "content": "遥兴趣lv1-3 遥好感度+1，累计6",
+              "prefix": "大学",
+              "group": "11月20日"
+            },
+            {
+              "id": "step_haruka_019",
+              "type": "note",
+              "content": "遥恋爱lv1-1 遥好感度+1，累计7",
+              "prefix": "运动场",
+              "group": "11月24日"
+            },
+            {
+              "id": "step_haruka_020",
+              "type": "choice",
+              "content": "觉得没有",
+              "subfix": "遥好感度+1，累计8",
+              "group": "11月24日"
+            },
+            {
+              "id": "step_haruka_022",
+              "type": "note",
+              "content": "晚上强制发生遥事件02",
+              "prefix": "自宅",
+              "subfix": "必须事件；发生条件：遥好感度3及以上",
+              "group": "11月29日"
+            },
+            {
+              "id": "step_haruka_023",
+              "type": "choice",
+              "content": "闲着",
+              "subfix": "必须选项",
+              "group": "11月29日"
+            },
+            {
+              "id": "step_haruka_024",
+              "type": "choice",
+              "content": "去",
+              "subfix": "必须选项 遥好感度+1，累计9",
+              "group": "11月29日"
+            },
+            {
+              "id": "step_haruka_025",
+              "type": "note",
+              "content": "接着发生 由绮事件04",
+              "subfix": "通常强制事件",
+              "group": "11月29日"
+            },
+            {
+              "id": "step_haruka_026",
+              "type": "choice",
+              "content": "已经有了",
+              "group": "11月29日"
+            },
+            {
+              "id": "step_haruka_027",
+              "type": "note",
+              "content": "遥事件03",
+              "subfix": "必须事件 强制发生；发生条件：遥事件02发生并选择第一个选项“去”",
+              "group": "11月30日"
+            },
+            {
+              "id": "step_haruka_028",
+              "type": "note",
+              "content": "遥兴趣lv2-1 遥好感度+1，累计10",
+              "prefix": "Echoes",
+              "subfix": "发生条件：12月1日-12日之间，遥事件03发生",
+              "group": "12月1日"
+            },
+            {
+              "id": "step_haruka_029",
+              "type": "choice",
+              "content": "去",
+              "subfix": "遥好感度+2，累计12",
+              "group": "12月1日"
+            },
+            {
+              "id": "step_haruka_031",
+              "type": "note",
+              "content": "晚上强制发生遥事件23",
+              "prefix": "自宅",
+              "subfix": "发生条件：12月3日-8日之间，遥好感度7及以上且为各女主中好感度最高的、没有发生其他女主的看病事件",
+              "group": "12月3日"
+            },
+            {
+              "id": "step_haruka_033",
+              "type": "note",
+              "content": "遥事件20",
+              "subfix": "通常强制事件 (发生条件:遥兴趣lv2-1发生并选择第一个选项“去”)",
+              "group": "12月10日"
+            },
+            {
+              "id": "step_haruka_034",
+              "type": "note",
+              "content": "遥事件04",
+              "prefix": "大学",
+              "subfix": "必须事件；发生条件：12月11日-23日之间，遥好感度6及以上、遥事件03发生",
+              "group": "12月11日"
+            },
+            {
+              "id": "step_haruka_035",
+              "type": "choice",
+              "content": "有什么事吗？",
+              "subfix": "必须选项 遥好感度+1，累计13",
+              "group": "12月11日"
+            },
+            {
+              "id": "step_haruka_037",
+              "type": "note",
+              "content": "晚上强制发生由绮事件08",
+              "prefix": "自宅",
+              "subfix": "发生条件:12月14日-17日之间，未发生弥生事件01",
+              "group": "12月14日"
+            },
+            {
+              "id": "step_haruka_039",
+              "type": "note",
+              "content": "由绮事件09",
+              "prefix": "自宅",
+              "subfix": "发生条件：没有发生弥生事件02从弥生那里获得门票；若由绮事件07选择第一个选项“当然会去”则在12月23日发生，其余所有情况下在12月18日发生；只要未发生弥生事件02就强制发生，哪怕由绮好感度为0也会从这里获得门票",
+              "group": "12月18日"
+            },
+            {
+              "id": "step_haruka_041",
+              "type": "note",
+              "content": "遥事件05",
+              "subfix": "必须事件 强制发生；发生条件：遥好感度比由绮和美咲高、遥事件04发生并选择第二个选项“有什么事吗？”",
+              "group": "12月24日"
+            },
+            {
+              "id": "step_haruka_042",
+              "type": "choice",
+              "content": "选项随意",
+              "subfix": "无好感度变化",
+              "group": "12月24日"
+            },
+            {
+              "id": "step_haruka_044",
+              "type": "note",
+              "content": "接着发生 由绮事件11",
+              "subfix": "共通强制事件",
+              "group": "12月24日"
+            },
+            {
+              "id": "step_haruka_045",
+              "type": "note",
+              "content": "再接着发生 遥事件06",
+              "subfix": "必须事件 强制发生；发生条件：遥事件05发生",
+              "group": "12月24日"
+            },
+            {
+              "id": "step_haruka_046",
+              "type": "choice",
+              "content": "选项随意",
+              "subfix": "无好感度变化",
+              "group": "12月24日"
+            },
+            {
+              "id": "step_haruka_048",
+              "type": "note",
+              "content": "遥事件07",
+              "subfix": "必须事件 强制发生；发生条件：遥事件05发生",
+              "group": "12月25日"
+            },
+            {
+              "id": "step_haruka_049",
+              "type": "choice",
+              "content": "去找她",
+              "subfix": "必须选项",
+              "group": "12月25日"
+            },
+            {
+              "id": "step_haruka_051",
+              "type": "note",
+              "content": "晚上强制发生遥事件08",
+              "prefix": "自宅",
+              "subfix": "必须事件；发生条件：遥事件07发生并选择第一个选项“去找她”",
+              "group": "12月31日"
+            },
+            {
+              "id": "step_haruka_053",
+              "type": "note",
+              "content": "遥事件09",
+              "prefix": "大学",
+              "subfix": "通常事件；发生条件：遥好感度9及以上、遥事件07发生并选择第一个选项“去找她”",
+              "group": "1月8日"
+            },
+            {
+              "id": "step_haruka_054",
+              "type": "choice",
+              "content": "若选择第二个选项“不回去”则出现选项2",
+              "subfix": "选项随意 无好感度变化",
+              "group": "1月8日"
+            },
+            {
+              "id": "step_haruka_055",
+              "type": "choice",
+              "content": "选项随意",
+              "subfix": "无好感度变化",
+              "group": "1月8日"
+            },
+            {
+              "id": "step_haruka_057",
+              "type": "note",
+              "content": "遥事件10",
+              "prefix": "大学",
+              "subfix": "必须事件；发生条件：1月12日-23日之间，遥好感度11及以上、遥事件08发生",
+              "group": "1月12日"
+            },
+            {
+              "id": "step_haruka_058",
+              "type": "choice",
+              "content": "追问下去",
+              "subfix": "必须选项 遥好感度+1，累计14",
+              "group": "1月12日"
+            },
+            {
+              "id": "step_haruka_060",
+              "type": "save",
+              "content": "SAVE 10",
+              "subfix": "遥文艺lv1-1 遥好感度+1，累计15",
+              "group": "1月25日"
+            },
+            {
+              "id": "step_haruka_061",
+              "type": "note",
+              "content": "遥事件11",
+              "prefix": "运动场",
+              "subfix": "必须事件；发生条件：1月26日-31日之间，遥好感度15及以上、遥事件10发生并选择第一个选项“追问下去”",
+              "group": "1月26日"
+            },
+            {
+              "id": "step_haruka_062",
+              "type": "choice",
+              "content": "去",
+              "subfix": "必须选项 遥好感度+1，累计16",
+              "group": "1月26日"
+            },
+            {
+              "id": "step_haruka_064",
+              "type": "note",
+              "content": "遥事件13",
+              "prefix": "繁华街",
+              "subfix": "通常事件；发生条件：遥好感度8及以上",
+              "group": "2月8日"
+            },
+            {
+              "id": "step_haruka_066",
+              "type": "note",
+              "content": "遥事件14",
+              "prefix": "伊吹町站",
+              "subfix": "必须事件；发生条件：遥好感度15及以上、遥事件11发生并选择第一个选项“去”或者遥事件12发生",
+              "group": "2月14日"
+            },
+            {
+              "id": "step_haruka_067",
+              "type": "choice",
+              "content": "去",
+              "subfix": "必须选项 遥好感度+1，累计17",
+              "group": "2月14日"
+            },
+            {
+              "id": "step_haruka_068",
+              "type": "note",
+              "content": "遥事件15",
+              "subfix": "通常强制事件 遥好感度+2，累计19；发生条件：遥事件13发生",
+              "group": "2月15日"
+            },
+            {
+              "id": "step_haruka_070",
+              "type": "note",
+              "content": "遥事件16",
+              "prefix": "伊吹町站",
+              "subfix": "必须事件；发生条件：2月20日-26日之间，遥好感度17及以上、遥事件14发生并选择第一个选项“去”",
+              "group": "2月20日"
+            },
+            {
+              "id": "step_haruka_071",
+              "type": "choice",
+              "content": "带她回自己家",
+              "subfix": "必须选项",
+              "group": "2月20日"
+            },
+            {
+              "id": "step_haruka_072",
+              "type": "choice",
+              "content": "没关系",
+              "subfix": "必须选项",
+              "group": "2月20日"
+            },
+            {
+              "id": "step_haruka_073",
+              "type": "note",
+              "content": "遥事件17",
+              "subfix": "必须事件 强制发生；发生条件：遥事件16发生并选择第一个选项“没关系”",
+              "group": "2月27日"
+            },
+            {
+              "id": "step_haruka_074",
+              "type": "choice",
+              "content": "选项随意",
+              "subfix": "无好感度变化",
+              "group": "2月27日"
+            },
+            {
+              "id": "step_haruka_075",
+              "type": "note",
+              "content": "遥事件18",
+              "subfix": "必须事件 强制发生；发生条件：遥事件17发生",
+              "group": "2月28日"
+            },
+            {
+              "id": "step_haruka_076",
+              "type": "note",
+              "content": "接着发生 遥事件19 遥END",
+              "group": "2月28日"
+            }
+          ]
+        },
+        {
+          "id": "ending_haruka_part_2",
+          "name": "遥 回收",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_haruka_077",
+              "type": "load",
+              "content": "LOAD 10",
+              "group": "1月25日"
+            },
+            {
+              "id": "step_haruka_078",
+              "type": "note",
+              "content": "遥事件12",
+              "prefix": "运动场",
+              "subfix": "必须事件；发生条件：1月26日-31日之间，遥好感度14及以下、遥事件10发生并选择第一个选项“追问下去”；1月27日 事件回收了 遥线事件回收完毕，遥线全事件达成",
+              "group": "1月26日"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_misaki",
+      "name": "泽仓 美咲",
+      "endings": [
+        {
+          "id": "ending_misaki_main",
+          "name": "美咲 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_misaki_001",
+              "type": "load",
+              "content": "LOAD 1",
+              "subfix": "美咲事件01 必须事件 （发生条件：11月6日-20日之间，11月9日之前无好感度要求，11月12日之后美咲好感度2及以上）",
+              "group": "11月6日"
+            },
+            {
+              "id": "step_misaki_002",
+              "type": "choice",
+              "content": "和美咲学姐去图书馆",
+              "subfix": "美咲好感度+1，累计1",
+              "group": "11月6日"
+            },
+            {
+              "id": "step_misaki_003",
+              "type": "note",
+              "content": "麻奈事件01",
+              "prefix": "麻奈家",
+              "subfix": "通常事件",
+              "group": "11月7日"
+            },
+            {
+              "id": "step_misaki_004",
+              "type": "choice",
+              "content": "不行。继续",
+              "group": "11月7日"
+            },
+            {
+              "id": "step_misaki_005",
+              "type": "choice",
+              "content": "随意",
+              "subfix": "无好感度变化",
+              "group": "11月7日"
+            },
+            {
+              "id": "step_misaki_007",
+              "type": "note",
+              "content": "美咲家常话lv1-1 美咲好感度+1，累计2",
+              "prefix": "繁华街",
+              "subfix": "发生条件：美咲事件14未发生",
+              "group": "11月9日"
+            },
+            {
+              "id": "step_misaki_008",
+              "type": "note",
+              "content": "接着发生 由绮事件02",
+              "subfix": "共通事件",
+              "group": "11月9日"
+            },
+            {
+              "id": "step_misaki_009",
+              "type": "note",
+              "content": "由绮事件03",
+              "subfix": "共通强制事件",
+              "group": "11月10日"
+            },
+            {
+              "id": "step_misaki_010",
+              "type": "save",
+              "content": "SAVE 11",
+              "subfix": "美咲家常话lv1-2 （发生条件：11月11日-15日之间）美咲好感度+1，累计3",
+              "group": "11月11日"
+            },
+            {
+              "id": "step_misaki_011",
+              "type": "choice",
+              "content": "去",
+              "subfix": "美咲好感度+2，累计5",
+              "group": "11月11日"
+            },
+            {
+              "id": "step_misaki_013",
+              "type": "note",
+              "content": "美咲事件02",
+              "prefix": "大学",
+              "subfix": "必须事件；发生条件：11月17日-21日之间，美咲好感度2及以上、美咲事件01发生",
+              "group": "11月17日"
+            },
+            {
+              "id": "step_misaki_014",
+              "type": "choice",
+              "content": "好呀",
+              "subfix": "必须选项 美咲好感度+1，累计6",
+              "group": "11月17日"
+            },
+            {
+              "id": "step_misaki_015",
+              "type": "choice",
+              "content": "那么我也帮忙呀",
+              "subfix": "必须选项 美咲好感度+1，累计7",
+              "group": "11月17日"
+            },
+            {
+              "id": "step_misaki_017",
+              "type": "save",
+              "content": "SAVE 12",
+              "subfix": "美咲事件03 必须事件 强制发生 （发生条件：美咲事件02发生并选择第一个选项“那么我也帮忙呀”）",
+              "group": "11月20日"
+            },
+            {
+              "id": "step_misaki_018",
+              "type": "choice",
+              "content": "没有",
+              "subfix": "必须选项 美咲好感度+1，累计8",
+              "group": "11月20日"
+            },
+            {
+              "id": "step_misaki_020",
+              "type": "note",
+              "content": "美咲事件28",
+              "subfix": "通常强制事件；发生条件：美咲家常话lv1-2发生并选择第一个选项“去”",
+              "group": "11月22日"
+            },
+            {
+              "id": "step_misaki_021",
+              "type": "note",
+              "content": "晚上强制发生美咲事件32",
+              "prefix": "自宅",
+              "subfix": "发生条件：11月23日-25日之间，美咲好感度6及以上且为各女主中好感度最高的、美咲事件03发生",
+              "group": "11月23日"
+            },
+            {
+              "id": "step_misaki_023",
+              "type": "note",
+              "content": "晚上强制发生由绮事件04 第一个选项",
+              "prefix": "自宅",
+              "subfix": "已经有了",
+              "group": "11月29日"
+            },
+            {
+              "id": "step_misaki_024",
+              "type": "note",
+              "content": "美咲事件04",
+              "prefix": "大学",
+              "subfix": "必须事件；发生条件：美咲事件03发生并选择第二个选项“没有”",
+              "group": "11月30日"
+            },
+            {
+              "id": "step_misaki_025",
+              "type": "note",
+              "content": "美咲事件06",
+              "prefix": "大学",
+              "subfix": "通常事件；图标为蓝色的“?”人的“!”；发生条件：12月1日-6日之间，美咲事件04发生",
+              "group": "12月1日"
+            },
+            {
+              "id": "step_misaki_026",
+              "type": "note",
+              "content": "美咲事件08",
+              "prefix": "自宅",
+              "subfix": "必须事件；发生条件：12月1日-6日之间，美咲事件04发生",
+              "group": "12月2日"
+            },
+            {
+              "id": "step_misaki_027",
+              "type": "choice",
+              "content": "打电话",
+              "subfix": "必须选项",
+              "group": "12月2日"
+            },
+            {
+              "id": "step_misaki_028",
+              "type": "note",
+              "content": "美咲事件09",
+              "prefix": "自宅",
+              "subfix": "必须事件；发生条件：12月2日-6日之间，美咲事件08发生",
+              "group": "12月3日"
+            },
+            {
+              "id": "step_misaki_029",
+              "type": "choice",
+              "content": "打电话",
+              "subfix": "必须选项",
+              "group": "12月3日"
+            },
+            {
+              "id": "step_misaki_030",
+              "type": "note",
+              "content": "美咲事件10",
+              "prefix": "自宅",
+              "subfix": "通常事件；发生条件：12月3日-6日之间，美咲事件09发生",
+              "group": "12月4日"
+            },
+            {
+              "id": "step_misaki_031",
+              "type": "choice",
+              "content": "打电话",
+              "group": "12月4日"
+            },
+            {
+              "id": "step_misaki_032",
+              "type": "note",
+              "content": "美咲事件11",
+              "prefix": "自宅",
+              "subfix": "通常事件；发生条件：12月4日-6日之间，美咲事件10发生",
+              "group": "12月5日"
+            },
+            {
+              "id": "step_misaki_033",
+              "type": "choice",
+              "content": "打电话",
+              "group": "12月5日"
+            },
+            {
+              "id": "step_misaki_034",
+              "type": "choice",
+              "content": "不打",
+              "prefix": "自宅",
+              "group": "12月6日"
+            },
+            {
+              "id": "step_misaki_035",
+              "type": "note",
+              "content": "晚上强制发生美咲事件12",
+              "prefix": "自宅",
+              "subfix": "必须事件；发生条件：美咲事件09发生",
+              "group": "12月7日"
+            },
+            {
+              "id": "step_misaki_036",
+              "type": "choice",
+              "content": "试着打电话",
+              "subfix": "必须选项",
+              "group": "12月7日"
+            },
+            {
+              "id": "step_misaki_037",
+              "type": "note",
+              "content": "美咲事件13",
+              "subfix": "必须事件 强制发生；发生条件：美咲事件12发生并选择第一个选项“试着打电话”",
+              "group": "12月8日"
+            },
+            {
+              "id": "step_misaki_038",
+              "type": "choice",
+              "content": "再见",
+              "subfix": "必须选项",
+              "group": "12月8日"
+            },
+            {
+              "id": "step_misaki_039",
+              "type": "choice",
+              "content": "送你到教室呀",
+              "group": "12月8日"
+            },
+            {
+              "id": "step_misaki_040",
+              "type": "choice",
+              "content": "玩玩再回去吧",
+              "subfix": "美咲好感度+1，累计9",
+              "group": "12月8日"
+            },
+            {
+              "id": "step_misaki_041",
+              "type": "choice",
+              "content": "圣诞平安夜邀请美咲学姐",
+              "subfix": "必须选项 美咲好感度+1，累计10",
+              "group": "12月8日"
+            },
+            {
+              "id": "step_misaki_043",
+              "type": "note",
+              "content": "由绮事件09",
+              "prefix": "自宅",
+              "subfix": "发生条件：没有发生弥生事件02从弥生那里获得门票；若由绮事件07选择第一个选项“当然会去”则在12月23日发生，其余所有情况下在12月18日发生；只要未发生弥生事件02就强制发生，哪怕由绮好感度为0也会从这里获得门票",
+              "group": "12月18日"
+            },
+            {
+              "id": "step_misaki_045",
+              "type": "save",
+              "content": "SAVE 13",
+              "subfix": "美咲事件14 必须事件 强制发生 （发生条件：美咲好感度比由绮和遥要高、美咲事件13发生并选择第一个选项“圣诞平安夜邀请美咲学姐”）",
+              "group": "12月24日"
+            },
+            {
+              "id": "step_misaki_046",
+              "type": "choice",
+              "content": "不去",
+              "subfix": "美咲好感度+1，累计11",
+              "group": "12月24日"
+            },
+            {
+              "id": "step_misaki_047",
+              "type": "note",
+              "content": "接着发生 由绮事件11",
+              "subfix": "共通强制事件",
+              "group": "12月24日"
+            },
+            {
+              "id": "step_misaki_048",
+              "type": "note",
+              "content": "再接着发生 遥事件06",
+              "subfix": "通常强制事件",
+              "group": "12月24日"
+            },
+            {
+              "id": "step_misaki_049",
+              "type": "choice",
+              "content": "选项随意",
+              "subfix": "无好感度变化",
+              "group": "12月24日"
+            },
+            {
+              "id": "step_misaki_051",
+              "type": "note",
+              "content": "美咲事件15",
+              "subfix": "必须事件 强制发生；发生条件：美咲好感度11及以上、美咲事件14发生",
+              "group": "12月25日"
+            },
+            {
+              "id": "step_misaki_052",
+              "type": "choice",
+              "content": "去找",
+              "subfix": "必须选项",
+              "group": "12月25日"
+            },
+            {
+              "id": "step_misaki_054",
+              "type": "note",
+              "content": "美咲事件17",
+              "prefix": "大学",
+              "subfix": "通常事件；发生条件：美咲事件14发生",
+              "group": "1月8日"
+            },
+            {
+              "id": "step_misaki_055",
+              "type": "choice",
+              "content": "选项随意",
+              "subfix": "无好感度变化",
+              "group": "1月8日"
+            },
+            {
+              "id": "step_misaki_057",
+              "type": "note",
+              "content": "彰家常话lv1-2",
+              "prefix": "伊吹町站",
+              "group": "1月12日"
+            },
+            {
+              "id": "step_misaki_058",
+              "type": "note",
+              "content": "接着发生 美咲事件19",
+              "subfix": "必须事件；发生条件：1月12日-25日之间，美咲好感度10及以上、美咲事件15或者美咲事件16发生、选择自宅以外的选项",
+              "group": "1月12日"
+            },
+            {
+              "id": "step_misaki_060",
+              "type": "note",
+              "content": "美咲事件20",
+              "prefix": "大学",
+              "subfix": "必须事件 (发生条件:2月2日-14日之间，美咲事件19发生)",
+              "group": "2月2日"
+            },
+            {
+              "id": "step_misaki_061",
+              "type": "choice",
+              "content": "追美咲学姐",
+              "subfix": "必须选项 美咲好感度+1，累计12",
+              "group": "2月2日"
+            },
+            {
+              "id": "step_misaki_062",
+              "type": "note",
+              "content": "接着发生 美咲事件18",
+              "subfix": "通常事件；发生条件：1月26日-2月13日之间，美咲事件19发生、麻奈事件01发生、选择自宅以外的选项",
+              "group": "2月2日"
+            },
+            {
+              "id": "step_misaki_063",
+              "type": "choice",
+              "content": "选项随意",
+              "subfix": "无好感度变化",
+              "group": "2月2日"
+            },
+            {
+              "id": "step_misaki_065",
+              "type": "save",
+              "content": "SAVE 14",
+              "subfix": "晚上强制发生美咲事件23 必须事件 (发生条件:美咲事件15发生并选择第一个选项“去找”、美咲事件20发生并选择第一个选项“追美咲学姐”、选择在自宅)",
+              "group": "2月14日"
+            },
+            {
+              "id": "step_misaki_066",
+              "type": "choice",
+              "content": "好",
+              "subfix": "必须选项",
+              "group": "2月14日"
+            },
+            {
+              "id": "step_misaki_067",
+              "type": "choice",
+              "content": "追赶",
+              "subfix": "必须选项",
+              "group": "2月14日"
+            },
+            {
+              "id": "step_misaki_069",
+              "type": "note",
+              "content": "晚上强制发生美咲事件25",
+              "prefix": "自宅",
+              "subfix": "必须事件 (发生条件:美咲事件21-24任意一个发生并选择第一个选项“追赶”)",
+              "group": "2月27日"
+            },
+            {
+              "id": "step_misaki_070",
+              "type": "choice",
+              "content": "选项随意",
+              "subfix": "无好感度变化",
+              "group": "2月27日"
+            },
+            {
+              "id": "step_misaki_071",
+              "type": "note",
+              "content": "美咲事件26",
+              "subfix": "必须事件 强制发生；发生条件：美咲事件25发生",
+              "group": "2月28日"
+            },
+            {
+              "id": "step_misaki_072",
+              "type": "choice",
+              "content": "选项随意",
+              "subfix": "无好感度变化",
+              "group": "2月28日"
+            },
+            {
+              "id": "step_misaki_073",
+              "type": "choice",
+              "content": "真心的呀",
+              "subfix": "必须选项",
+              "group": "2月28日"
+            },
+            {
+              "id": "step_misaki_074",
+              "type": "note",
+              "content": "接着发生 美咲事件27 美咲END",
+              "group": "2月28日"
+            }
+          ]
+        },
+        {
+          "id": "ending_misaki_part_2",
+          "name": "美咲 回收",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_misaki_075",
+              "type": "load",
+              "content": "LOAD 11",
+              "subfix": "美咲兴趣lv1-1 （发生条件：11月11日-15日之间）美咲好感度+1，累计3",
+              "group": "11月11日"
+            },
+            {
+              "id": "step_misaki_076",
+              "type": "choice",
+              "content": "我陪你吧",
+              "subfix": "美咲好感度+2，累计5",
+              "group": "11月11日"
+            },
+            {
+              "id": "step_misaki_078",
+              "type": "note",
+              "content": "美咲事件31",
+              "subfix": "通常强制事件；发生条件：美咲兴趣lv1-1发生并选择第一个选项“我陪你吧”；11月23日 事件回收了",
+              "group": "11月22日"
+            },
+            {
+              "id": "step_misaki_079",
+              "type": "load",
+              "content": "LOAD 12",
+              "subfix": "美咲事件03 必须事件 强制发生 （发生条件：美咲事件02发生并选择第一个选项“那么我也帮忙呀”）",
+              "group": "11月20日"
+            },
+            {
+              "id": "step_misaki_080",
+              "type": "choice",
+              "content": "有",
+              "group": "11月20日"
+            },
+            {
+              "id": "step_misaki_081",
+              "type": "note",
+              "content": "美咲兴趣lv1-2 美咲好感度+1，累计8",
+              "prefix": "伊吹町站",
+              "subfix": "发生条件：美咲事件14未发生",
+              "group": "11月21日"
+            },
+            {
+              "id": "step_misaki_082",
+              "type": "note",
+              "content": "美咲事件28",
+              "subfix": "通常强制事件；发生条件：美咲家常话lv1-2发生并选择第一个选项“去”",
+              "group": "11月22日"
+            },
+            {
+              "id": "step_misaki_083",
+              "type": "note",
+              "content": "美咲兴趣lv1-3 美咲好感度+1，累计9",
+              "prefix": "繁华街",
+              "subfix": "发生条件：美咲事件14未发生",
+              "group": "11月23日"
+            },
+            {
+              "id": "step_misaki_084",
+              "type": "note",
+              "content": "接着发生 美咲事件32",
+              "subfix": "通常强制事件；发生条件：11月23日-25日之间，美咲好感度6及以上且为各女主中好感度最高的、美咲事件03发生",
+              "group": "11月23日"
+            },
+            {
+              "id": "step_misaki_086",
+              "type": "note",
+              "content": "遥兴趣lv1-1 遥好感度+1，累计1",
+              "prefix": "运动场",
+              "subfix": "发生条件：11月28日之前",
+              "group": "11月27日"
+            },
+            {
+              "id": "step_misaki_087",
+              "type": "note",
+              "content": "遥兴趣lv1-2 遥好感度+1，累计2",
+              "prefix": "运动场",
+              "group": "11月28日"
+            },
+            {
+              "id": "step_misaki_088",
+              "type": "choice",
+              "content": "不高兴",
+              "group": "11月28日"
+            },
+            {
+              "id": "step_misaki_089",
+              "type": "note",
+              "content": "美咲事件05",
+              "prefix": "大学",
+              "subfix": "通常事件；发生条件：美咲事件03发生并选择第一个选项“有”",
+              "group": "11月29日"
+            },
+            {
+              "id": "step_misaki_091",
+              "type": "note",
+              "content": "遥兴趣lv1-3 遥好感度+1，累计3",
+              "prefix": "运动场",
+              "group": "12月12日"
+            },
+            {
+              "id": "step_misaki_092",
+              "type": "save",
+              "content": "SAVE 15",
+              "subfix": "美咲兴趣lv2-1 （发生条件：12月11日-20日之间） 美咲好感度+1，累计10",
+              "group": "12月13日"
+            },
+            {
+              "id": "step_misaki_093",
+              "type": "choice",
+              "content": "一起去吧",
+              "subfix": "美咲好感度+2，累计12",
+              "group": "12月13日"
+            },
+            {
+              "id": "step_misaki_094",
+              "type": "note",
+              "content": "美咲事件29",
+              "subfix": "通常强制事件；发生条件：美咲兴趣lv2-1发生并选择第一个选项“一起去吧”；12月15日 事件回收了",
+              "group": "12月14日"
+            },
+            {
+              "id": "step_misaki_095",
+              "type": "load",
+              "content": "LOAD 13",
+              "subfix": "美咲事件14 必须事件 强制发生 （发生条件：美咲好感度比由绮和遥要高、美咲事件13发生并选择第一个选项“圣诞平安夜邀请美咲学姐”）",
+              "group": "12月24日"
+            },
+            {
+              "id": "step_misaki_096",
+              "type": "choice",
+              "content": "去",
+              "group": "12月24日"
+            },
+            {
+              "id": "step_misaki_097",
+              "type": "note",
+              "content": "接着发生 由绮事件11",
+              "subfix": "共通强制事件",
+              "group": "12月24日"
+            },
+            {
+              "id": "step_misaki_098",
+              "type": "note",
+              "content": "再接着发生 遥事件06",
+              "subfix": "通常强制事件",
+              "group": "12月24日"
+            },
+            {
+              "id": "step_misaki_099",
+              "type": "choice",
+              "content": "选项随意",
+              "subfix": "无好感度变化",
+              "group": "12月24日"
+            },
+            {
+              "id": "step_misaki_101",
+              "type": "note",
+              "content": "美咲事件16",
+              "subfix": "必须事件 强制发生；发生条件：美咲好感度10及以下、美咲事件14发生",
+              "group": "12月25日"
+            },
+            {
+              "id": "step_misaki_102",
+              "type": "choice",
+              "content": "去找",
+              "subfix": "必须选项",
+              "group": "12月25日"
+            },
+            {
+              "id": "step_misaki_104",
+              "type": "note",
+              "content": "彰家常话lv1-2",
+              "prefix": "伊吹町站",
+              "group": "1月12日"
+            },
+            {
+              "id": "step_misaki_105",
+              "type": "note",
+              "content": "接着发生 美咲事件19",
+              "subfix": "必须事件；发生条件：1月12日-25日之间，美咲好感度10及以上、美咲事件15或者美咲事件16发生、选择自宅以外的选项",
+              "group": "1月12日"
+            },
+            {
+              "id": "step_misaki_107",
+              "type": "note",
+              "content": "美咲事件20",
+              "prefix": "大学",
+              "subfix": "必须事件 (发生条件:2月2日-14日之间，美咲事件19发生)",
+              "group": "2月2日"
+            },
+            {
+              "id": "step_misaki_108",
+              "type": "choice",
+              "content": "追美咲学姐",
+              "subfix": "必须选项 美咲好感度+1，累计11",
+              "group": "2月2日"
+            },
+            {
+              "id": "step_misaki_109",
+              "type": "note",
+              "content": "接着发生 美咲事件18",
+              "subfix": "通常事件；发生条件：1月26日-2月13日之间，美咲事件19发生、麻奈事件01发生、选择自宅以外的选项",
+              "group": "2月2日"
+            },
+            {
+              "id": "step_misaki_110",
+              "type": "choice",
+              "content": "选项随意",
+              "subfix": "无好感度变化",
+              "group": "2月2日"
+            },
+            {
+              "id": "step_misaki_112",
+              "type": "save",
+              "content": "SAVE 16",
+              "subfix": "晚上强制发生美咲事件24 必须事件 (发生条件:美咲事件16发生并选择第一个选项“去找”、美咲事件20发生并选择第一个选项“追美咲学姐”、选择在自宅)",
+              "group": "2月14日"
+            },
+            {
+              "id": "step_misaki_113",
+              "type": "choice",
+              "content": "好",
+              "subfix": "必须选项",
+              "group": "2月14日"
+            },
+            {
+              "id": "step_misaki_114",
+              "type": "choice",
+              "content": "追赶",
+              "subfix": "必须选项；2月15日 事件回收了",
+              "group": "2月14日"
+            },
+            {
+              "id": "step_misaki_115",
+              "type": "load",
+              "content": "LOAD 14",
+              "subfix": "彰家常话lv2-1",
+              "group": "2月14日"
+            },
+            {
+              "id": "step_misaki_116",
+              "type": "note",
+              "content": "接着发生 美咲事件21",
+              "subfix": "必须事件 (发生条件:美咲事件15发生并选择第一个选项“去找”、美咲事件20发生并选择第一个选项“追美咲学姐”、选择自宅以外的选项)",
+              "group": "2月14日"
+            },
+            {
+              "id": "step_misaki_117",
+              "type": "choice",
+              "content": "好",
+              "subfix": "必须选项",
+              "group": "2月14日"
+            },
+            {
+              "id": "step_misaki_118",
+              "type": "choice",
+              "content": "追赶",
+              "subfix": "必须选项；2月16日 事件回收了",
+              "group": "2月14日"
+            },
+            {
+              "id": "step_misaki_119",
+              "type": "load",
+              "content": "LOAD 15",
+              "subfix": "美咲兴趣lv2-1 （发生条件：12月11日-20日之间） 美咲好感度+1，累计10",
+              "group": "12月13日"
+            },
+            {
+              "id": "step_misaki_120",
+              "type": "choice",
+              "content": "去图书馆吧",
+              "subfix": "美咲好感度+1，累计11",
+              "group": "12月13日"
+            },
+            {
+              "id": "step_misaki_121",
+              "type": "note",
+              "content": "美咲事件30",
+              "subfix": "通常强制事件；发生条件：美咲兴趣lv2-1发生并选择第三个选项“去图书馆吧”；12月15日 事件回收了",
+              "group": "12月14日"
+            },
+            {
+              "id": "step_misaki_122",
+              "type": "load",
+              "content": "LOAD 16",
+              "subfix": "彰家常话lv1-3",
+              "group": "2月14日"
+            },
+            {
+              "id": "step_misaki_123",
+              "type": "note",
+              "content": "接着发生 美咲事件22",
+              "subfix": "必须事件 (发生条件:美咲事件16发生并选择第一个选项“去找”、美咲事件20发生并选择第一个选项“追美咲学姐”、选择自宅以外的选项)",
+              "group": "2月14日"
+            },
+            {
+              "id": "step_misaki_124",
+              "type": "choice",
+              "content": "好",
+              "subfix": "必须选项",
+              "group": "2月14日"
+            },
+            {
+              "id": "step_misaki_125",
+              "type": "choice",
+              "content": "追赶",
+              "subfix": "必须选项；2月15日 事件回收了 美咲线事件回收完毕，剩余的一个事件美咲事件07在麻奈线中12月2日回收",
+              "group": "2月14日"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_mana",
+      "name": "观月 麻奈",
+      "endings": [
+        {
+          "id": "ending_mana_main",
+          "name": "麻奈 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_mana_001",
+              "type": "load",
+              "content": "LOAD 1",
+              "subfix": "美咲事件01 通常事件 （发生条件：11月6日-20日之间，11月9日之前无好感度要求，11月12日之后美咲好感度2及以上）",
+              "group": "11月6日"
+            },
+            {
+              "id": "step_mana_002",
+              "type": "choice",
+              "content": "和美咲学姐去图书馆",
+              "subfix": "美咲好感度+1，累计1",
+              "group": "11月6日"
+            },
+            {
+              "id": "step_mana_003",
+              "type": "note",
+              "content": "麻奈事件01",
+              "prefix": "麻奈家",
+              "subfix": "必须事件；发生条件：11月7日-28日之间",
+              "group": "11月7日"
+            },
+            {
+              "id": "step_mana_004",
+              "type": "choice",
+              "content": "好。结束吧",
+              "subfix": "麻奈好感度+1，累计2",
+              "group": "11月7日"
+            },
+            {
+              "id": "step_mana_005",
+              "type": "choice",
+              "content": "随意",
+              "subfix": "无好感度变化",
+              "group": "11月7日"
+            },
+            {
+              "id": "step_mana_007",
+              "type": "note",
+              "content": "麻奈文艺lv1-2",
+              "prefix": "繁华街",
+              "subfix": "发生条件：11月30日之前，麻奈事件01发生；麻奈好感度+1，累计3",
+              "group": "11月9日"
+            },
+            {
+              "id": "step_mana_008",
+              "type": "note",
+              "content": "接着发生 由绮事件02",
+              "subfix": "共通事件",
+              "group": "11月9日"
+            },
+            {
+              "id": "step_mana_009",
+              "type": "note",
+              "content": "由绮事件03",
+              "subfix": "共通强制事件",
+              "group": "11月10日"
+            },
+            {
+              "id": "step_mana_010",
+              "type": "note",
+              "content": "麻奈文艺lv1-1 麻奈好感度+1，累计4",
+              "prefix": "公园",
+              "subfix": "发生条件：星期天以外",
+              "group": "11月11日"
+            },
+            {
+              "id": "step_mana_011",
+              "type": "note",
+              "content": "美咲文艺lv1-1 (发生条件:美咲事件14未发生) 美咲好感度+1，累计2",
+              "prefix": "大学",
+              "group": "11月12日"
+            },
+            {
+              "id": "step_mana_012",
+              "type": "note",
+              "content": "麻奈文艺lv1-3 麻奈好感度+1，累计5",
+              "prefix": "繁华街",
+              "group": "11月13日"
+            },
+            {
+              "id": "step_mana_013",
+              "type": "note",
+              "content": "麻奈事件02",
+              "prefix": "麻奈家",
+              "subfix": "必须事件；发生条件：11月14日-12月5日之间，麻奈事件01发生",
+              "group": "11月14日"
+            },
+            {
+              "id": "step_mana_014",
+              "type": "choice",
+              "content": "为什么不去学校？",
+              "subfix": "麻奈好感度+1，累计6",
+              "group": "11月14日"
+            },
+            {
+              "id": "step_mana_015",
+              "type": "note",
+              "content": "美咲文艺lv1-2 (发生条件:美咲事件14未发生) 美咲好感度+1，累计3",
+              "prefix": "大学",
+              "group": "11月15日"
+            },
+            {
+              "id": "step_mana_016",
+              "type": "note",
+              "content": "美咲文艺lv1-3 (发生条件:美咲事件14未发生)美咲好感度+1，累计4",
+              "prefix": "Echoes",
+              "group": "11月16日"
+            },
+            {
+              "id": "step_mana_017",
+              "type": "note",
+              "content": "麻奈文艺lv1-4 (发生条件:麻奈事件08未发生) 麻奈好感度+1，累计7",
+              "prefix": "公园",
+              "group": "11月17日"
+            },
+            {
+              "id": "step_mana_018",
+              "type": "note",
+              "content": "由绮兴趣lv1-1 由绮好感度+1，累计1",
+              "prefix": "公园",
+              "subfix": "发生条件：11月11日-12月6日之间",
+              "group": "11月18日"
+            },
+            {
+              "id": "step_mana_019",
+              "type": "choice",
+              "content": "去吧",
+              "subfix": "由绮好感度+2，累计3",
+              "group": "11月18日"
+            },
+            {
+              "id": "step_mana_020",
+              "type": "note",
+              "content": "麻奈事件25",
+              "subfix": "通常强制事件；发生条件：11月12日-12月20日之间，麻奈事件01发生、由绮任意约定发生",
+              "group": "11月19日"
+            },
+            {
+              "id": "step_mana_021",
+              "type": "choice",
+              "content": "带她去",
+              "subfix": "麻奈好感度+1，累计8",
+              "group": "11月19日"
+            },
+            {
+              "id": "step_mana_022",
+              "type": "choice",
+              "content": "说谎",
+              "group": "11月19日"
+            },
+            {
+              "id": "step_mana_023",
+              "type": "note",
+              "content": "接着发生 麻奈事件26",
+              "subfix": "通常强制事件；发生条件：麻奈事件25发生并选择第一个选项“带她去”",
+              "group": "11月19日"
+            },
+            {
+              "id": "step_mana_025",
+              "type": "note",
+              "content": "麻奈事件03",
+              "prefix": "麻奈家",
+              "subfix": "必须事件；发生条件：11月21日-12月12日之间，麻奈事件02发生",
+              "group": "11月21日"
+            },
+            {
+              "id": "step_mana_026",
+              "type": "choice",
+              "content": "选项随意",
+              "subfix": "无好感度变化",
+              "group": "11月21日"
+            },
+            {
+              "id": "step_mana_028",
+              "type": "note",
+              "content": "麻奈事件04",
+              "prefix": "麻奈家",
+              "subfix": "通常事件；发生条件：麻奈好感度3及以上、麻奈事件01发生",
+              "group": "11月28日"
+            },
+            {
+              "id": "step_mana_029",
+              "type": "choice",
+              "content": "是一个人",
+              "group": "11月28日"
+            },
+            {
+              "id": "step_mana_030",
+              "type": "choice",
+              "content": "一起去吗？",
+              "subfix": "麻奈好感度+1，累计9",
+              "group": "11月28日"
+            },
+            {
+              "id": "step_mana_031",
+              "type": "note",
+              "content": "麻奈事件05",
+              "subfix": "通常强制事件；发生条件：麻奈事件04发生并选择第一个选项“一起去吗？”",
+              "group": "11月29日"
+            },
+            {
+              "id": "step_mana_032",
+              "type": "choice",
+              "content": "演剧部公演",
+              "subfix": "麻奈好感度+1，累计10",
+              "group": "11月29日"
+            },
+            {
+              "id": "step_mana_033",
+              "type": "note",
+              "content": "麻奈文艺lv2-2 麻奈好感度+1，累计11",
+              "prefix": "繁华街",
+              "subfix": "发生条件：11月30日-12月11日之间，麻奈事件05发生并选择第二个选项“演剧部公演”",
+              "group": "11月30日"
+            },
+            {
+              "id": "step_mana_034",
+              "type": "choice",
+              "content": "去",
+              "subfix": "麻奈好感度+2，累计13",
+              "group": "11月30日"
+            },
+            {
+              "id": "step_mana_035",
+              "type": "note",
+              "content": "麻奈文艺lv2-1 麻奈好感度+1，累计14",
+              "prefix": "繁华街",
+              "subfix": "发生条件：12月19日之前，麻奈文艺lv1-3发生",
+              "group": "12月1日"
+            },
+            {
+              "id": "step_mana_036",
+              "type": "choice",
+              "content": "去",
+              "subfix": "麻奈好感度+2，累计16",
+              "group": "12月1日"
+            },
+            {
+              "id": "step_mana_037",
+              "type": "note",
+              "content": "美咲事件07",
+              "prefix": "大学",
+              "subfix": "通常事件；图标为蓝色的“?”人的“!”；发生条件：12月1日-6日之间，美咲事件04未发生",
+              "group": "12月2日"
+            },
+            {
+              "id": "step_mana_038",
+              "type": "choice",
+              "content": "打电话",
+              "group": "12月2日"
+            },
+            {
+              "id": "step_mana_040",
+              "type": "note",
+              "content": "麻奈事件23",
+              "subfix": "通常强制事件；发生条件：麻奈文艺lv2-2发生并选择第一个选项“去”",
+              "group": "12月5日"
+            },
+            {
+              "id": "step_mana_041",
+              "type": "note",
+              "content": "麻奈事件24",
+              "subfix": "通常强制事件；发生条件：麻奈文艺lv2-1发生并选择第一个选项“去”",
+              "group": "12月6日"
+            },
+            {
+              "id": "step_mana_043",
+              "type": "note",
+              "content": "麻奈事件06",
+              "prefix": "麻奈家",
+              "subfix": "通常事件；发生条件：12月12日-2月20日之间，麻奈事件03发生",
+              "group": "12月12日"
+            },
+            {
+              "id": "step_mana_044",
+              "type": "choice",
+              "content": "要聊天吗",
+              "subfix": "麻奈好感度+1，累计17",
+              "group": "12月12日"
+            },
+            {
+              "id": "step_mana_046",
+              "type": "note",
+              "content": "晚上强制发生由绮事件08",
+              "prefix": "自宅",
+              "subfix": "发生条件:12月14日-17日之间，未发生弥生事件01",
+              "group": "12月14日"
+            },
+            {
+              "id": "step_mana_048",
+              "type": "note",
+              "content": "由绮事件09",
+              "prefix": "自宅",
+              "subfix": "发生条件：没有发生弥生事件02从弥生那里获得门票；若由绮事件07选择第一个选项“当然会去”则在12月23日发生，其余所有情况下在12月18日发生；只要未发生弥生事件02就强制发生，哪怕由绮好感度为0也会从这里获得门票",
+              "group": "12月18日"
+            },
+            {
+              "id": "step_mana_049",
+              "type": "note",
+              "content": "麻奈事件07",
+              "prefix": "麻奈家",
+              "subfix": "必须事件；发生条件：麻奈好感度6及以上、麻奈事件03发生、已经获得了门票",
+              "group": "12月19日"
+            },
+            {
+              "id": "step_mana_050",
+              "type": "choice",
+              "content": "担心麻奈酱",
+              "subfix": "麻奈好感度+1，累计18",
+              "group": "12月19日"
+            },
+            {
+              "id": "step_mana_051",
+              "type": "choice",
+              "content": "一个人过",
+              "subfix": "必须选项 麻奈好感度+1，累计19；因为必须事件麻奈事件07的发生条件要求一定要在19日之前获得门票，这里再重复一次获得门票的方法。门票是一定会获得的，因为由绮事件11是共通强制事件，一共有两种获得门票的方法，第一种是发生弥生事件02从弥生那里获得门票，第二种是发生由绮事件09获得门票。这里强烈推荐用第二种方法，通过由绮事件09获得门票，因为只要没有发生弥生事件02从弥生那里获得门票，哪怕由绮好感度为0也会通过由绮事件09获得门票。但要注意的是，如果由绮事件07选择第一个选项“当然会去”就只能在12月23日送门票过来，会错过麻奈事件07，但只要由绮好感度在3及以下就不会发生由绮事件07，由绮事件07自然也选不到第一个选项“当然会去”",
+              "group": "12月19日"
+            },
+            {
+              "id": "step_mana_053",
+              "type": "note",
+              "content": "由绮事件11",
+              "subfix": "共通强制事件",
+              "group": "12月24日"
+            },
+            {
+              "id": "step_mana_054",
+              "type": "note",
+              "content": "接着发生 遥事件06",
+              "subfix": "通常强制事件",
+              "group": "12月24日"
+            },
+            {
+              "id": "step_mana_055",
+              "type": "choice",
+              "content": "选项随意",
+              "subfix": "无好感度变化",
+              "group": "12月24日"
+            },
+            {
+              "id": "step_mana_057",
+              "type": "note",
+              "content": "麻奈事件08",
+              "subfix": "必须事件 强制发生；发生条件：麻奈事件07发生并选择第二个选项“一个人过”",
+              "group": "12月25日"
+            },
+            {
+              "id": "step_mana_058",
+              "type": "choice",
+              "content": "让她吃鸡排",
+              "subfix": "麻奈好感度+1，累计20",
+              "group": "12月25日"
+            },
+            {
+              "id": "step_mana_059",
+              "type": "choice",
+              "content": "再在这待会儿也行",
+              "subfix": "麻奈好感度+1，累计21",
+              "group": "12月25日"
+            },
+            {
+              "id": "step_mana_060",
+              "type": "choice",
+              "content": "拿药来",
+              "subfix": "麻奈好感度+1，累计22",
+              "group": "12月25日"
+            },
+            {
+              "id": "step_mana_061",
+              "type": "choice",
+              "content": "明白了…",
+              "subfix": "麻奈好感度+1，累计23",
+              "group": "12月25日"
+            },
+            {
+              "id": "step_mana_062",
+              "type": "choice",
+              "content": "选项随意",
+              "subfix": "无好感度变化",
+              "group": "12月25日"
+            },
+            {
+              "id": "step_mana_063",
+              "type": "choice",
+              "content": "抓住她的手",
+              "subfix": "麻奈好感度+1，累计24",
+              "group": "12月25日"
+            },
+            {
+              "id": "step_mana_064",
+              "type": "choice",
+              "content": "今早的身体状况怎么样了？",
+              "subfix": "麻奈好感度+1，累计25",
+              "group": "12月25日"
+            },
+            {
+              "id": "step_mana_065",
+              "type": "note",
+              "content": "麻奈事件09",
+              "subfix": "必须事件 强制发生；发生条件：麻奈事件08发生",
+              "group": "12月29日"
+            },
+            {
+              "id": "step_mana_066",
+              "type": "choice",
+              "content": "选项随意",
+              "subfix": "无好感度变化",
+              "group": "12月29日"
+            },
+            {
+              "id": "step_mana_068",
+              "type": "save",
+              "content": "SAVE 17",
+              "subfix": "麻奈事件10 通常事件 （发生条件：1月9日-23日之间，麻奈事件09发生）",
+              "group": "1月9日"
+            },
+            {
+              "id": "step_mana_069",
+              "type": "choice",
+              "content": "为了恋爱…",
+              "subfix": "麻奈好感度+1，累计26",
+              "group": "1月9日"
+            },
+            {
+              "id": "step_mana_071",
+              "type": "note",
+              "content": "麻奈事件11",
+              "prefix": "繁华街",
+              "subfix": "通常事件；发生条件：给麻奈当家庭教师3次及以上",
+              "group": "1月11日"
+            },
+            {
+              "id": "step_mana_073",
+              "type": "note",
+              "content": "麻奈事件12",
+              "subfix": "通常强制事件 麻奈好感度+2，累计28；发生条件：麻奈事件11发生",
+              "group": "1月18日"
+            },
+            {
+              "id": "step_mana_075",
+              "type": "note",
+              "content": "晚上强制发生麻奈事件27",
+              "prefix": "自宅",
+              "subfix": "发生条件：1月21日或1月28日，麻奈好感度20及以上且为各女主中好感度最高的、没有发生其他女主的看病事件",
+              "group": "1月21日"
+            },
+            {
+              "id": "step_mana_077",
+              "type": "note",
+              "content": "晚上强制发生麻奈事件14",
+              "prefix": "自宅",
+              "subfix": "必须事件；发生条件：麻奈好感度18及以上、麻奈事件09发生、麻奈事件10发生",
+              "group": "2月1日"
+            },
+            {
+              "id": "step_mana_078",
+              "type": "choice",
+              "content": "有…",
+              "subfix": "必须选项",
+              "group": "2月1日"
+            },
+            {
+              "id": "step_mana_079",
+              "type": "choice",
+              "content": "陪你去吧",
+              "subfix": "必须选项 麻奈好感度+1，累计29",
+              "group": "2月1日"
+            },
+            {
+              "id": "step_mana_080",
+              "type": "note",
+              "content": "麻奈事件15",
+              "subfix": "必须事件 强制发生；发生条件：麻奈事件13或者麻奈事件14发生，并选择第一个选项“陪你去吧”",
+              "group": "2月2日"
+            },
+            {
+              "id": "step_mana_081",
+              "type": "note",
+              "content": "麻奈事件16",
+              "prefix": "Echoes",
+              "subfix": "通常事件；图标为蓝色的“?”人的“!”；发生条件：2月3日-13日之间，麻奈事件15发生",
+              "group": "2月3日"
+            },
+            {
+              "id": "step_mana_083",
+              "type": "note",
+              "content": "晚上强制发生麻奈事件17",
+              "prefix": "自宅",
+              "subfix": "发生条件：麻奈好感度23及以上",
+              "group": "2月13日"
+            },
+            {
+              "id": "step_mana_084",
+              "type": "choice",
+              "content": "没有",
+              "subfix": "麻奈好感度+1，累计30",
+              "group": "2月13日"
+            },
+            {
+              "id": "step_mana_085",
+              "type": "save",
+              "content": "SAVE 18",
+              "subfix": "麻奈事件18 通常事件 （发生条件：麻奈事件17发生并选择第一个选项“没有”、选择在自宅）",
+              "group": "2月14日"
+            },
+            {
+              "id": "step_mana_087",
+              "type": "note",
+              "content": "晚上强制发生麻奈事件20",
+              "prefix": "自宅",
+              "subfix": "必须事件；发生条件：2月16日-25日之间，麻奈好感度20及以上、麻奈事件15发生",
+              "group": "2月16日"
+            },
+            {
+              "id": "step_mana_088",
+              "type": "choice",
+              "content": "选项随意",
+              "subfix": "无好感度变化",
+              "group": "2月16日"
+            },
+            {
+              "id": "step_mana_089",
+              "type": "choice",
+              "content": "一起去看看吧",
+              "subfix": "麻奈好感度+1，累计31",
+              "group": "2月16日"
+            },
+            {
+              "id": "step_mana_090",
+              "type": "choice",
+              "content": "去追麻奈",
+              "subfix": "必须选项",
+              "group": "2月16日"
+            },
+            {
+              "id": "step_mana_091",
+              "type": "choice",
+              "content": "抱住麻奈",
+              "subfix": "必须选项",
+              "group": "2月16日"
+            },
+            {
+              "id": "step_mana_092",
+              "type": "note",
+              "content": "麻奈事件21",
+              "subfix": "必须事件 强制发生；发生条件：麻奈事件20发生并选择第一个选项“抱住麻奈”",
+              "group": "2月28日"
+            },
+            {
+              "id": "step_mana_093",
+              "type": "note",
+              "content": "接着发生 麻奈事件22 麻奈END",
+              "group": "2月28日"
+            }
+          ]
+        },
+        {
+          "id": "ending_mana_part_2",
+          "name": "麻奈 回收",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_mana_094",
+              "type": "load",
+              "content": "LOAD 17",
+              "group": "1月9日-20日"
+            },
+            {
+              "id": "step_mana_095",
+              "type": "note",
+              "content": "晚上强制发生麻奈事件27",
+              "prefix": "自宅",
+              "subfix": "发生条件：1月21日或1月28日，麻奈好感度20及以上且为各女主中好感度最高的、没有发生其他女主的看病事件",
+              "group": "1月21日"
+            },
+            {
+              "id": "step_mana_097",
+              "type": "note",
+              "content": "晚上强制发生麻奈事件13",
+              "prefix": "自宅",
+              "subfix": "必须事件；发生条件：麻奈好感度18及以上、麻奈事件09发生、麻奈事件10未发生",
+              "group": "2月1日"
+            },
+            {
+              "id": "step_mana_098",
+              "type": "choice",
+              "content": "有…",
+              "subfix": "必须选项 麻奈好感度+1，累计26",
+              "group": "2月1日"
+            },
+            {
+              "id": "step_mana_099",
+              "type": "choice",
+              "content": "陪你去吧",
+              "subfix": "必须选项 麻奈好感度+1，累计27；2月2日 事件回收了",
+              "group": "2月1日"
+            },
+            {
+              "id": "step_mana_100",
+              "type": "load",
+              "content": "LOAD 18",
+              "subfix": "彰家常话lv1-2",
+              "group": "2月14日"
+            },
+            {
+              "id": "step_mana_101",
+              "type": "note",
+              "content": "接着发生 麻奈事件19",
+              "subfix": "通常事件；发生条件：麻奈事件17发生并选择第一个选项“没有”、选择自宅以外的选项；2月15日 事件回收了 麻奈线事件回收完毕，麻奈线全事件达成",
+              "group": "2月14日"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_yayoi",
+      "name": "篠冢 弥生",
+      "endings": [
+        {
+          "id": "ending_yayoi_main",
+          "name": "弥生 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_yayoi_001",
+              "type": "load",
+              "content": "LOAD 1",
+              "subfix": "美咲事件01 通常事件 （发生条件：11月6日-20日之间，11月9日之前无好感度要求，11月12日之后美咲好感度2及以上）",
+              "group": "11月6日"
+            },
+            {
+              "id": "step_yayoi_002",
+              "type": "choice",
+              "content": "和美咲学姐去图书馆",
+              "subfix": "美咲好感度+1，累计1",
+              "group": "11月6日"
+            },
+            {
+              "id": "step_yayoi_003",
+              "type": "note",
+              "content": "理奈文艺lv1-1 理奈好感度+1，累计1",
+              "prefix": "Echoes",
+              "group": "11月7日"
+            },
+            {
+              "id": "step_yayoi_004",
+              "type": "note",
+              "content": "理奈文艺lv1-2 理奈好感度+1，累计2",
+              "prefix": "TV局",
+              "group": "11月8日"
+            },
+            {
+              "id": "step_yayoi_005",
+              "type": "note",
+              "content": "美咲文艺lv1-1 (发生条件:美咲事件14未发生) 美咲好感度+1，累计2",
+              "prefix": "繁华街",
+              "group": "11月9日"
+            },
+            {
+              "id": "step_yayoi_006",
+              "type": "note",
+              "content": "接着发生 由绮事件02",
+              "subfix": "共通事件",
+              "group": "11月9日"
+            },
+            {
+              "id": "step_yayoi_007",
+              "type": "note",
+              "content": "由绮事件03",
+              "subfix": "共通强制事件",
+              "group": "11月10日"
+            },
+            {
+              "id": "step_yayoi_008",
+              "type": "note",
+              "content": "美咲文艺lv1-2 (发生条件:美咲事件14未发生) 美咲好感度+1，累计3",
+              "prefix": "Echoes",
+              "group": "11月11日"
+            },
+            {
+              "id": "step_yayoi_009",
+              "type": "note",
+              "content": "由绮文艺lv1-1 由绮好感度+1，累计1",
+              "prefix": "大学",
+              "subfix": "发生条件：11月11-20日之间由绮在大学",
+              "group": "11月12日"
+            },
+            {
+              "id": "step_yayoi_010",
+              "type": "choice",
+              "content": "真没办法啊",
+              "group": "11月12日"
+            },
+            {
+              "id": "step_yayoi_011",
+              "type": "note",
+              "content": "弥生文艺lv1-1 弥生好感度+1，累计1",
+              "prefix": "Echoes",
+              "group": "11月13日"
+            },
+            {
+              "id": "step_yayoi_012",
+              "type": "note",
+              "content": "弥生文艺lv1-2 弥生好感度+1，累计2",
+              "prefix": "Echoes",
+              "group": "11月14日"
+            },
+            {
+              "id": "step_yayoi_013",
+              "type": "note",
+              "content": "美咲文艺lv1-3 (发生条件:美咲事件14未发生) 美咲好感度+1，累计4",
+              "prefix": "大学",
+              "group": "11月15日"
+            },
+            {
+              "id": "step_yayoi_014",
+              "type": "note",
+              "content": "彰文艺lv1-1",
+              "prefix": "公园",
+              "subfix": "发生条件：11月11日-28日之间",
+              "group": "11月16日"
+            },
+            {
+              "id": "step_yayoi_015",
+              "type": "choice",
+              "content": "下次吧",
+              "group": "11月16日"
+            },
+            {
+              "id": "step_yayoi_016",
+              "type": "note",
+              "content": "彰文艺lv1-2",
+              "prefix": "伊吹町站",
+              "group": "11月17日"
+            },
+            {
+              "id": "step_yayoi_017",
+              "type": "note",
+              "content": "由绮艺能lv1-1 (发生条件:由绮事件17未发生) 由绮好感度+1，累计2",
+              "prefix": "公园",
+              "group": "11月18日"
+            },
+            {
+              "id": "step_yayoi_018",
+              "type": "note",
+              "content": "遥文艺lv1-1 遥好感度+1，累计1",
+              "prefix": "运动场",
+              "group": "11月19日"
+            },
+            {
+              "id": "step_yayoi_020",
+              "type": "note",
+              "content": "由绮恋爱lv1-1 (发生条件:由绮事件17未发生) 由绮好感度+1，累计3",
+              "prefix": "TV局",
+              "group": "11月21日"
+            },
+            {
+              "id": "step_yayoi_022",
+              "type": "note",
+              "content": "弥生艺能lv1-1 弥生好感度+1，累计3",
+              "prefix": "Echoes",
+              "group": "11月27日"
+            },
+            {
+              "id": "step_yayoi_024",
+              "type": "note",
+              "content": "晚上强制发生由绮事件04",
+              "prefix": "自宅",
+              "subfix": "通常强制事件",
+              "group": "11月29日"
+            },
+            {
+              "id": "step_yayoi_025",
+              "type": "choice",
+              "content": "没有",
+              "subfix": "由绮好感度+1，累计4",
+              "group": "11月29日"
+            },
+            {
+              "id": "step_yayoi_026",
+              "type": "note",
+              "content": "由绮事件05",
+              "subfix": "通常强制发生；发生条件：由绮事件04发生并选择第二个选项“没有”",
+              "group": "11月30日"
+            },
+            {
+              "id": "step_yayoi_027",
+              "type": "choice",
+              "content": "选项随意",
+              "subfix": "无好感度变化",
+              "group": "11月30日"
+            },
+            {
+              "id": "step_yayoi_028",
+              "type": "note",
+              "content": "弥生艺能lv1-2 弥生好感度+1，累计4",
+              "prefix": "TV局",
+              "group": "12月1日"
+            },
+            {
+              "id": "step_yayoi_029",
+              "type": "note",
+              "content": "接着发生 由绮事件06",
+              "subfix": "必须事件 (发生条件:由绮好感度4及以上、12月1日-8日选择去TV局与任意角色对话；或者12月9日-10日由绮好感度4级及以上强制发生)",
+              "group": "12月1日"
+            },
+            {
+              "id": "step_yayoi_030",
+              "type": "choice",
+              "content": "接受",
+              "subfix": "必须选项 由绮好感度+1，累计5",
+              "group": "12月1日"
+            },
+            {
+              "id": "step_yayoi_031",
+              "type": "note",
+              "content": "由绮事件07",
+              "subfix": "必须事件 强制事件；发生条件：由绮事件06发生并选择第一个选项“接受”",
+              "group": "12月2日"
+            },
+            {
+              "id": "step_yayoi_032",
+              "type": "choice",
+              "content": "当然会去",
+              "subfix": "必须选项 由绮好感度+1，累计6",
+              "group": "12月2日"
+            },
+            {
+              "id": "step_yayoi_033",
+              "type": "note",
+              "content": "弥生事件01",
+              "subfix": "必须事件 强制发生；发生条件：由绮事件07发生并选择第一个选项“当然会去”",
+              "group": "12月3日"
+            },
+            {
+              "id": "step_yayoi_034",
+              "type": "save",
+              "content": "SAVE 19",
+              "group": "12月6日-14日"
+            },
+            {
+              "id": "step_yayoi_035",
+              "type": "note",
+              "content": "弥生事件02",
+              "prefix": "TV局",
+              "subfix": "必须事件；发生条件：12月15日-23日之间，弥生好感度1及以上、弥生事件01发生",
+              "group": "12月15日"
+            },
+            {
+              "id": "step_yayoi_037",
+              "type": "note",
+              "content": "由绮事件11",
+              "subfix": "共通强制事件",
+              "group": "12月24日"
+            },
+            {
+              "id": "step_yayoi_038",
+              "type": "note",
+              "content": "接着发生 弥生事件03",
+              "subfix": "必须事件 强制发生；发生条件：弥生事件02发生",
+              "group": "12月24日"
+            },
+            {
+              "id": "step_yayoi_039",
+              "type": "choice",
+              "content": "选项随意",
+              "subfix": "无好感度变化",
+              "group": "12月24日"
+            },
+            {
+              "id": "step_yayoi_040",
+              "type": "choice",
+              "content": "要上去坐一会儿吗？",
+              "subfix": "必须选项 弥生好感度+1，累计5",
+              "group": "12月24日"
+            },
+            {
+              "id": "step_yayoi_041",
+              "type": "choice",
+              "content": "接受",
+              "subfix": "必须选项",
+              "group": "12月24日"
+            },
+            {
+              "id": "step_yayoi_043",
+              "type": "note",
+              "content": "晚上强制发生弥生事件05",
+              "prefix": "自宅",
+              "subfix": "发生条件：弥生好感度5及以下、弥生事件03发生并选择第一个选项“接受”",
+              "group": "12月31日"
+            },
+            {
+              "id": "step_yayoi_044",
+              "type": "note",
+              "content": "弥生事件06",
+              "prefix": "TV局",
+              "subfix": "通常事件；发生条件：1月2日-15日之间，弥生事件02发生",
+              "group": "1月2日"
+            },
+            {
+              "id": "step_yayoi_045",
+              "type": "choice",
+              "content": "选项随意",
+              "subfix": "均增加1点好感度 弥生好感度+1，累计6",
+              "group": "1月2日"
+            },
+            {
+              "id": "step_yayoi_047",
+              "type": "note",
+              "content": "弥生文艺lv2-2 弥生好感度+1，累计7",
+              "prefix": "TV局",
+              "group": "1月14日"
+            },
+            {
+              "id": "step_yayoi_048",
+              "type": "note",
+              "content": "弥生恋爱lv1-1 弥生好感度+1，累计8",
+              "prefix": "TV局",
+              "group": "1月15日"
+            },
+            {
+              "id": "step_yayoi_049",
+              "type": "note",
+              "content": "弥生事件07",
+              "prefix": "Echoes",
+              "subfix": "必须事件；发生条件：1月16日-20日之间，弥生好感度6及以上、弥生事件03发生并选择第一个选项“接受”",
+              "group": "1月16日"
+            },
+            {
+              "id": "step_yayoi_050",
+              "type": "choice",
+              "content": "一起去",
+              "subfix": "必须选项 弥生好感度+1，累计9",
+              "group": "1月16日"
+            },
+            {
+              "id": "step_yayoi_052",
+              "type": "save",
+              "content": "SAVE 20",
+              "group": "1月19日"
+            },
+            {
+              "id": "step_yayoi_054",
+              "type": "note",
+              "content": "弥生事件09",
+              "prefix": "Echoes",
+              "subfix": "必须事件 弥生好感度+1，累计10；发生条件：弥生好感度9及以下、弥生事件07发生",
+              "group": "1月21日"
+            },
+            {
+              "id": "step_yayoi_056",
+              "type": "note",
+              "content": "晚上强制发生弥生事件20",
+              "prefix": "自宅",
+              "subfix": "发生条件：1月26日-28日之间，弥生好感度10及以上且为各女主中好感度最高的、没有发生其他女主的看病事件",
+              "group": "1月26日"
+            },
+            {
+              "id": "step_yayoi_058",
+              "type": "save",
+              "content": "SAVE 21",
+              "subfix": "弥生家常话lv1-1 弥生好感度+1，累计11",
+              "group": "2月3日"
+            },
+            {
+              "id": "step_yayoi_059",
+              "type": "note",
+              "content": "弥生事件11",
+              "prefix": "Echoes",
+              "subfix": "必须事件 弥生好感度+1，累计12；发生条件：2月4日或2月11日，弥生好感度11及以下、弥生事件08发生或者弥生事件09发生",
+              "group": "2月4日"
+            },
+            {
+              "id": "step_yayoi_061",
+              "type": "save",
+              "content": "SAVE 22",
+              "subfix": "弥生事件12 必须事件 （发生条件：弥生好感度12及以上、弥生事件10发生并选择第一个选项“好的”或者弥生事件11发生）",
+              "group": "2月11日"
+            },
+            {
+              "id": "step_yayoi_062",
+              "type": "choice",
+              "content": "选项随意",
+              "subfix": "无好感度变化",
+              "group": "2月11日"
+            },
+            {
+              "id": "step_yayoi_064",
+              "type": "note",
+              "content": "晚上强制发生弥生事件14",
+              "prefix": "自宅",
+              "subfix": "必须事件；发生条件：弥生事件12或者弥生事件13发生",
+              "group": "2月27日"
+            },
+            {
+              "id": "step_yayoi_065",
+              "type": "choice",
+              "content": "有时间",
+              "subfix": "必须选项",
+              "group": "2月27日"
+            },
+            {
+              "id": "step_yayoi_066",
+              "type": "note",
+              "content": "接着发生 弥生事件15 弥生END",
+              "group": "2月27日"
+            }
+          ]
+        },
+        {
+          "id": "ending_yayoi_part_2",
+          "name": "弥生 回收",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_yayoi_067",
+              "type": "load",
+              "content": "LOAD 19",
+              "subfix": "由绮兴趣lv1-1（发生条件：11月11日-12月6日之间） 由绮好感度+1，累计7",
+              "group": "12月6日"
+            },
+            {
+              "id": "step_yayoi_068",
+              "type": "choice",
+              "content": "去吧",
+              "subfix": "由绮好感度+2，累计9",
+              "group": "12月6日"
+            },
+            {
+              "id": "step_yayoi_069",
+              "type": "note",
+              "content": "接着发生 弥生事件18",
+              "subfix": "通常事件；发生条件：12月6日-19日之间，由绮事件07发生并选择第一个选项“当然会去”、由绮任意约定发生",
+              "group": "12月6日"
+            },
+            {
+              "id": "step_yayoi_070",
+              "type": "choice",
+              "content": "去",
+              "group": "12月6日"
+            },
+            {
+              "id": "step_yayoi_071",
+              "type": "choice",
+              "content": "推掉跟由绮的约定",
+              "subfix": "弥生好感度+1，累计5",
+              "group": "12月6日"
+            },
+            {
+              "id": "step_yayoi_072",
+              "type": "choice",
+              "content": "说谎",
+              "group": "12月6日"
+            },
+            {
+              "id": "step_yayoi_073",
+              "type": "note",
+              "content": "弥生事件19",
+              "subfix": "通常强制事件；发生条件：弥生事件18发生并选择第一个选项“推掉跟由绮的约定”",
+              "group": "12月7日"
+            },
+            {
+              "id": "step_yayoi_074",
+              "type": "note",
+              "content": "弥生文艺lv2-1 弥生好感度+1，累计6",
+              "prefix": "Echoes",
+              "subfix": "发生条件：12月8日-31日之间，弥生事件01发生",
+              "group": "12月8日"
+            },
+            {
+              "id": "step_yayoi_076",
+              "type": "note",
+              "content": "弥生文艺lv2-2 弥生好感度+1，累计7",
+              "prefix": "Echoes",
+              "group": "12月10日"
+            },
+            {
+              "id": "step_yayoi_077",
+              "type": "note",
+              "content": "弥生文艺lv2-3 弥生好感度+1，累计8",
+              "prefix": "Echoes",
+              "group": "12月11日"
+            },
+            {
+              "id": "step_yayoi_078",
+              "type": "choice",
+              "content": "也许说不定就是那样",
+              "subfix": "弥生好感度+2，累计10",
+              "group": "12月11日"
+            },
+            {
+              "id": "step_yayoi_079",
+              "type": "note",
+              "content": "弥生文艺lv3-1 弥生好感度+1，累计11",
+              "prefix": "TV局",
+              "subfix": "发生条件：12月8日-31日之间，弥生事件01发生、在TV局",
+              "group": "12月12日"
+            },
+            {
+              "id": "step_yayoi_080",
+              "type": "choice",
+              "content": "去",
+              "subfix": "弥生好感度+1，累计12",
+              "group": "12月12日"
+            },
+            {
+              "id": "step_yayoi_081",
+              "type": "note",
+              "content": "接着发生 弥生事件16",
+              "subfix": "通常事件 (发生条件:弥生文艺lv3-1发生并选择第一个选项“去”)",
+              "group": "12月12日"
+            },
+            {
+              "id": "step_yayoi_083",
+              "type": "note",
+              "content": "弥生事件02",
+              "prefix": "TV局",
+              "subfix": "必须事件；发生条件：12月15日-23日之间，弥生好感度1及以上、弥生事件01发生",
+              "group": "12月15日"
+            },
+            {
+              "id": "step_yayoi_085",
+              "type": "note",
+              "content": "弥生艺能lv2-1 弥生好感度+1，累计13",
+              "prefix": "TV局",
+              "subfix": "发生条件：12月8日-31日之间，弥生事件01发生",
+              "group": "12月19日"
+            },
+            {
+              "id": "step_yayoi_087",
+              "type": "note",
+              "content": "由绮事件11",
+              "subfix": "共通强制事件",
+              "group": "12月24日"
+            },
+            {
+              "id": "step_yayoi_088",
+              "type": "note",
+              "content": "接着发生 弥生事件03",
+              "subfix": "必须事件 强制发生；发生条件：弥生事件02发生",
+              "group": "12月24日"
+            },
+            {
+              "id": "step_yayoi_089",
+              "type": "choice",
+              "content": "选项随意",
+              "subfix": "无好感度变化",
+              "group": "12月24日"
+            },
+            {
+              "id": "step_yayoi_090",
+              "type": "choice",
+              "content": "要上去坐一会儿吗？",
+              "subfix": "必须选项 弥生好感度+1，累计14",
+              "group": "12月24日"
+            },
+            {
+              "id": "step_yayoi_091",
+              "type": "choice",
+              "content": "接受",
+              "subfix": "必须选项",
+              "group": "12月24日"
+            },
+            {
+              "id": "step_yayoi_093",
+              "type": "note",
+              "content": "弥生艺能lv2-2 弥生好感度+1，累计15",
+              "subfix": "发生条件：12月8日-31日之间，弥生事件01发生",
+              "group": "12月27日"
+            },
+            {
+              "id": "step_yayoi_094",
+              "type": "choice",
+              "content": "陪同",
+              "subfix": "弥生好感度+2，累计17",
+              "group": "12月27日"
+            },
+            {
+              "id": "step_yayoi_095",
+              "type": "note",
+              "content": "弥生事件17",
+              "subfix": "通常事件；发生条件：弥生艺能lv2-2发生并选择第一个选项“陪同”",
+              "group": "12月28日"
+            },
+            {
+              "id": "step_yayoi_097",
+              "type": "note",
+              "content": "晚上强制发生弥生事件04",
+              "prefix": "自宅",
+              "subfix": "发生条件：弥生好感度6及以上、弥生事件03发生并选择第一个选项“接受”；1月2日 事件回收了",
+              "group": "12月31日"
+            },
+            {
+              "id": "step_yayoi_098",
+              "type": "load",
+              "content": "LOAD 20",
+              "subfix": "弥生家常话lv1-1 弥生好感度+1，累计10",
+              "group": "1月19日"
+            },
+            {
+              "id": "step_yayoi_100",
+              "type": "note",
+              "content": "弥生事件08",
+              "prefix": "Echoes",
+              "subfix": "必须事件；发生条件：弥生好感度10及以上、弥生事件07发生",
+              "group": "1月21日"
+            },
+            {
+              "id": "step_yayoi_101",
+              "type": "choice",
+              "content": "好吧",
+              "subfix": "必须选项 弥生好感度+1，累计11；1月22日 事件回收了",
+              "group": "1月21日"
+            },
+            {
+              "id": "step_yayoi_102",
+              "type": "load",
+              "content": "LOAD 21",
+              "subfix": "弥生文艺lv2-3 弥生好感度+1，累计11",
+              "group": "2月3日"
+            },
+            {
+              "id": "step_yayoi_103",
+              "type": "choice",
+              "content": "也许说不定就是那样",
+              "subfix": "弥生好感度+2，累计13",
+              "group": "2月3日"
+            },
+            {
+              "id": "step_yayoi_104",
+              "type": "note",
+              "content": "弥生事件10",
+              "prefix": "Echoes",
+              "subfix": "必须事件；发生条件：2月4日或2月11日，弥生好感度12及以上、弥生事件08发生或者弥生事件09发生",
+              "group": "2月4日"
+            },
+            {
+              "id": "step_yayoi_105",
+              "type": "choice",
+              "content": "好的",
+              "subfix": "必须选项 弥生好感度+1，累计14；2月5日 事件回收了",
+              "group": "2月4日"
+            },
+            {
+              "id": "step_yayoi_106",
+              "type": "load",
+              "content": "LOAD 22",
+              "group": "2月11日-17日"
+            },
+            {
+              "id": "step_yayoi_107",
+              "type": "note",
+              "content": "弥生事件13",
+              "prefix": "Echoes",
+              "subfix": "必须事件；发生条件：弥生好感度12及以上、弥生事件10发生并选择第一个选项“好的”或者弥生事件11发生、弥生事件12未发生",
+              "group": "2月18日"
+            },
+            {
+              "id": "step_yayoi_108",
+              "type": "choice",
+              "content": "选项随意",
+              "subfix": "无好感度变化；2月19日 事件回收了 弥生线事件回收完毕，弥生线全事件达成",
+              "group": "2月18日"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_sayoko",
+      "name": "如月 小夜子",
+      "endings": [
+        {
+          "id": "ending_sayoko_main",
+          "name": "小夜子 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_sayoko_001",
+              "type": "note",
+              "content": "开始游戏→跳过序章",
+              "subfix": "小夜子线有剧情锁，必须在由绮END后或者理奈END后重新选择开始游戏才能攻略，不能用Load01来读档"
+            },
+            {
+              "id": "step_sayoko_002",
+              "type": "note",
+              "content": "小夜子事件01",
+              "prefix": "TV局",
+              "subfix": "必须事件 小夜子好感度+1，累计1；发生条件：11月6日-15日之间，由绮END或者理奈END达成、重新开始游戏",
+              "group": "11月6日"
+            },
+            {
+              "id": "step_sayoko_003",
+              "type": "choice",
+              "content": "选项随意",
+              "subfix": "无好感度变化",
+              "group": "11月6日"
+            },
+            {
+              "id": "step_sayoko_005",
+              "type": "note",
+              "content": "晚上强制发生由绮事件02",
+              "prefix": "自宅",
+              "subfix": "共通事件",
+              "group": "11月9日"
+            },
+            {
+              "id": "step_sayoko_006",
+              "type": "note",
+              "content": "由绮事件03",
+              "subfix": "共通强制事件",
+              "group": "11月10日"
+            },
+            {
+              "id": "step_sayoko_007",
+              "type": "note",
+              "content": "小夜子事件02",
+              "prefix": "大学",
+              "subfix": "必须事件 小夜子好感度+1，累计2；发生条件：11月11日-18日之间，小夜子事件01发生",
+              "group": "11月11日"
+            },
+            {
+              "id": "step_sayoko_009",
+              "type": "note",
+              "content": "小夜子事件03",
+              "prefix": "大学",
+              "subfix": "必须事件 小夜子好感度+1，累计3；发生条件：11月14日-24日之间，小夜子事件02发生",
+              "group": "11月14日"
+            },
+            {
+              "id": "step_sayoko_011",
+              "type": "note",
+              "content": "小夜子事件04",
+              "prefix": "大学",
+              "subfix": "必须事件 小夜子好感度+1，累计4；发生条件：11月17日-25日之间，小夜子事件03发生",
+              "group": "11月17日"
+            },
+            {
+              "id": "step_sayoko_013",
+              "type": "note",
+              "content": "小夜子事件05",
+              "prefix": "TV局",
+              "subfix": "必须事件 小夜子好感度+1，累计5；发生条件：11月22日-26日之间，小夜子事件04发生",
+              "group": "11月22日"
+            },
+            {
+              "id": "step_sayoko_015",
+              "type": "note",
+              "content": "小夜子事件06",
+              "prefix": "大学",
+              "subfix": "必须事件 小夜子好感度+1，累计6；发生条件：11月24日-27日之间，小夜子事件05发生",
+              "group": "11月24日"
+            },
+            {
+              "id": "step_sayoko_016",
+              "type": "note",
+              "content": "小夜子事件07",
+              "prefix": "大学",
+              "subfix": "必须事件；发生条件：11月25日-28日之间，小夜子事件06发生",
+              "group": "11月25日"
+            },
+            {
+              "id": "step_sayoko_017",
+              "type": "note",
+              "content": "小夜子恋爱lv1-1 小夜子好感度+1，累计7",
+              "prefix": "新美站",
+              "subfix": "发生条件：小夜子事件06发生",
+              "group": "11月26日"
+            },
+            {
+              "id": "step_sayoko_018",
+              "type": "note",
+              "content": "小夜子恋爱lv1-2 小夜子好感度+1，累计8",
+              "prefix": "新美站",
+              "subfix": "发生条件：小夜子事件06发生",
+              "group": "11月27日"
+            },
+            {
+              "id": "step_sayoko_019",
+              "type": "note",
+              "content": "小夜子恋爱lv1-3 小夜子好感度+1，累计9",
+              "prefix": "新美站",
+              "subfix": "发生条件：小夜子事件06发生",
+              "group": "11月28日"
+            },
+            {
+              "id": "step_sayoko_020",
+              "type": "note",
+              "content": "小夜子恋爱lv2-1 小夜子好感度+1，累计10",
+              "prefix": "TV局",
+              "subfix": "发生条件：小夜子事件06发生",
+              "group": "11月29日"
+            },
+            {
+              "id": "step_sayoko_021",
+              "type": "note",
+              "content": "接着发生 由绮事件04",
+              "subfix": "通常强制事件",
+              "group": "11月29日"
+            },
+            {
+              "id": "step_sayoko_022",
+              "type": "choice",
+              "content": "已经有了",
+              "group": "11月29日"
+            },
+            {
+              "id": "step_sayoko_024",
+              "type": "note",
+              "content": "晚上强制发生小夜子事件08",
+              "prefix": "自宅",
+              "subfix": "必须事件；发生条件：12月4日-6日之间，小夜子好感度7及以上、小夜子事件07发生",
+              "group": "12月4日"
+            },
+            {
+              "id": "step_sayoko_025",
+              "type": "choice",
+              "content": "好吧",
+              "subfix": "必须选项 小夜子好感度+1，累计11",
+              "group": "12月4日"
+            },
+            {
+              "id": "step_sayoko_026",
+              "type": "note",
+              "content": "小夜子恋爱lv2-2 小夜子好感度+1，累计12",
+              "prefix": "运动场",
+              "subfix": "发生条件：小夜子事件06发生",
+              "group": "12月5日"
+            },
+            {
+              "id": "step_sayoko_028",
+              "type": "note",
+              "content": "小夜子事件09",
+              "subfix": "必须事件 强制发生；发生条件：小夜子事件08发生并选择第一个选项“好吧”",
+              "group": "12月7日"
+            },
+            {
+              "id": "step_sayoko_030",
+              "type": "note",
+              "content": "小夜子事件10",
+              "prefix": "大学",
+              "subfix": "必须事件；发生条件：12月9日-13日之间，小夜子事件09发生",
+              "group": "12月9日"
+            },
+            {
+              "id": "step_sayoko_032",
+              "type": "note",
+              "content": "晚上强制发生小夜子事件11",
+              "prefix": "自宅",
+              "subfix": "必须事件；发生条件：12月12日-13日之间，小夜子事件10发生",
+              "group": "12月12日"
+            },
+            {
+              "id": "step_sayoko_033",
+              "type": "choice",
+              "content": "去找小夜子",
+              "subfix": "必须选项 小夜子好感度+1，累计13",
+              "group": "12月12日"
+            },
+            {
+              "id": "step_sayoko_034",
+              "type": "note",
+              "content": "小夜子事件12",
+              "subfix": "必须事件 强制发生；发生条件：小夜子事件11发生并选择第一个选项“去找小夜子”",
+              "group": "12月13日"
+            },
+            {
+              "id": "step_sayoko_035",
+              "type": "note",
+              "content": "晚上强制发生由绮事件08",
+              "prefix": "自宅",
+              "subfix": "发生条件:12月14日-17日之间，未发生弥生事件01",
+              "group": "12月14日"
+            },
+            {
+              "id": "step_sayoko_036",
+              "type": "note",
+              "content": "小夜子事件13",
+              "prefix": "TV局",
+              "subfix": "必须事件；发生条件：12月15日-20日之间，小夜子事件12发生、由绮事件08或者弥生事件01发生",
+              "group": "12月15日"
+            },
+            {
+              "id": "step_sayoko_038",
+              "type": "note",
+              "content": "由绮事件09",
+              "prefix": "自宅",
+              "subfix": "发生条件：没有发生弥生事件02从弥生那里获得门票；若由绮事件07选择第一个选项“当然会去”则在12月23日发生，其余所有情况下在12月18日发生；只要未发生弥生事件02就强制发生，哪怕由绮好感度为0也会从这里获得门票",
+              "group": "12月18日"
+            },
+            {
+              "id": "step_sayoko_039",
+              "type": "note",
+              "content": "小夜子事件14",
+              "prefix": "大学",
+              "subfix": "必须事件；发生条件：12月19日-21日之间，小夜子事件13发生",
+              "group": "12月19日"
+            },
+            {
+              "id": "step_sayoko_041",
+              "type": "note",
+              "content": "小夜子事件15",
+              "prefix": "TV局",
+              "subfix": "必须事件；发生条件：小夜子事件14发生",
+              "group": "12月22日"
+            },
+            {
+              "id": "step_sayoko_042",
+              "type": "note",
+              "content": "接着发生 小夜子事件16",
+              "subfix": "必须事件 强制发生；发生条件：小夜子好感度11及以上、小夜子事件15发生",
+              "group": "12月22日"
+            },
+            {
+              "id": "step_sayoko_043",
+              "type": "choice",
+              "content": "可以哦",
+              "subfix": "必须选项 小夜子好感度+1，累计14",
+              "group": "12月22日"
+            },
+            {
+              "id": "step_sayoko_045",
+              "type": "note",
+              "content": "由绮事件11",
+              "subfix": "共通强制事件",
+              "group": "12月24日"
+            },
+            {
+              "id": "step_sayoko_046",
+              "type": "note",
+              "content": "接着发生 由绮事件12",
+              "subfix": "强制事件",
+              "group": "12月24日"
+            },
+            {
+              "id": "step_sayoko_047",
+              "type": "choice",
+              "content": "不想变成这样啊…",
+              "group": "12月24日"
+            },
+            {
+              "id": "step_sayoko_048",
+              "type": "choice",
+              "content": "随意",
+              "subfix": "无好感度变化",
+              "group": "12月24日"
+            },
+            {
+              "id": "step_sayoko_050",
+              "type": "note",
+              "content": "晚上强制发生由绮事件14",
+              "prefix": "自宅",
+              "subfix": "发生条件：由绮好感度11及以下、由绮事件12发生、没有发生理奈事件09",
+              "group": "12月31日"
+            },
+            {
+              "id": "step_sayoko_052",
+              "type": "note",
+              "content": "小夜子事件17必须事件",
+              "subfix": "强制发生；发生条件：小夜子事件16发生并选择第一个选项“可以哦”",
+              "group": "1月3日"
+            },
+            {
+              "id": "step_sayoko_053",
+              "type": "choice",
+              "content": "去新美车站",
+              "subfix": "必须选项",
+              "group": "1月3日"
+            },
+            {
+              "id": "step_sayoko_055",
+              "type": "note",
+              "content": "小夜子事件18",
+              "prefix": "TV局",
+              "subfix": "必须事件；发生条件：1月10日-13日之间，小夜子事件17发生并选择第一个选项“去新美车站”",
+              "group": "1月10日"
+            },
+            {
+              "id": "step_sayoko_056",
+              "type": "choice",
+              "content": "追上去",
+              "subfix": "必须选项 小夜子好感度+1，累计15",
+              "group": "1月10日"
+            },
+            {
+              "id": "step_sayoko_058",
+              "type": "note",
+              "content": "小夜子事件19",
+              "prefix": "TV局",
+              "subfix": "必须事件；发生条件：1月15日-17日之间，小夜子事件18发生并选择第一个选项“追上去”",
+              "group": "1月15日"
+            },
+            {
+              "id": "step_sayoko_060",
+              "type": "note",
+              "content": "小夜子事件20",
+              "prefix": "TV局",
+              "subfix": "必须事件；发生条件：1月18日-21日之间，小夜子好感度13及以上、小夜子事件19发生",
+              "group": "1月21日"
+            },
+            {
+              "id": "step_sayoko_061",
+              "type": "note",
+              "content": "接着发生 小夜子事件25",
+              "subfix": "通常强制事件；发生条件：1月21日-28日之间，小夜子好感度10及以上且为各女主中好感度最高的、小夜子事件18发生并选择第一个选项“追上去”、没有发生其他女主的看病事件",
+              "group": "1月21日"
+            },
+            {
+              "id": "step_sayoko_063",
+              "type": "note",
+              "content": "小夜子事件21",
+              "prefix": "新美站",
+              "subfix": "必须事件；发生条件：2月3日-10日之间，小夜子好感度15及以上、小夜子事件20发生",
+              "group": "2月3日"
+            },
+            {
+              "id": "step_sayoko_065",
+              "type": "note",
+              "content": "小夜子事件22",
+              "subfix": "必须事件 强制发生；发生条件：2月11日-16日之间，小夜子事件21发生；小夜子事件21后与小夜子进行两次会话事件的第二天发生，否则2月16日强制发生",
+              "group": "2月16日"
+            },
+            {
+              "id": "step_sayoko_066",
+              "type": "note",
+              "content": "小夜子事件23",
+              "subfix": "必须事件 强制发生；发生条件：小夜子事件22发生",
+              "group": "2月28日"
+            },
+            {
+              "id": "step_sayoko_067",
+              "type": "note",
+              "content": "接着发生 小夜子事件24 小夜子END",
+              "subfix": "小夜子线全事件达成 至此所有角色的全事件均达成",
+              "group": "2月28日"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

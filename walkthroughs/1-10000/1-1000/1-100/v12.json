@@ -1,0 +1,370 @@
+{
+  "vid": "v12",
+  "name": {
+    "zh-cn": "智代After ～It's a Wonderful Life～",
+    "en-us": "Tomoyo After ~It's a Wonderful Life~",
+    "ja-jp": "智代アフター ～It’s a Wonderful Life～",
+    "ja-Latn": "tomoyo-after"
+  },
+  "level": 2,
+  "updatedAt": "2026-03-24",
+  "tips": [
+    "标记★的地方请自行存储，选择其他分支选项回收CG。"
+  ],
+  "routes": [
+    {
+      "id": "route_clannad_tomoyo_branch",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_bad",
+          "name": "BAD END",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_001",
+              "type": "save",
+              "content": "SAVE 1",
+              "group": "6月28日"
+            },
+            {
+              "id": "step_002",
+              "type": "choice",
+              "content": "普通地亲吻",
+              "group": "6月28日"
+            },
+            {
+              "id": "step_003",
+              "type": "choice",
+              "content": "用你的袜子",
+              "group": "6月29日"
+            },
+            {
+              "id": "step_004",
+              "type": "choice",
+              "content": "进一步要求",
+              "prefix": "★",
+              "group": "6月29日"
+            },
+            {
+              "id": "step_005",
+              "type": "choice",
+              "content": "就这样结束",
+              "prefix": "★",
+              "group": "6月29日"
+            },
+            {
+              "id": "step_006",
+              "type": "choice",
+              "content": "确认智代的下衣",
+              "group": "7月7日"
+            },
+            {
+              "id": "step_007",
+              "type": "choice",
+              "content": "在超市前面",
+              "group": "7月9日"
+            },
+            {
+              "id": "step_008",
+              "type": "choice",
+              "content": "我去找",
+              "group": "7月9日"
+            },
+            {
+              "id": "step_009",
+              "type": "choice",
+              "content": "默默忍耐",
+              "group": "7月10日"
+            },
+            {
+              "id": "step_010",
+              "type": "choice",
+              "content": "从后面抱住正在做饭的智代",
+              "group": "7月11日"
+            },
+            {
+              "id": "step_011",
+              "type": "choice",
+              "content": "学习",
+              "group": "7月14日"
+            },
+            {
+              "id": "step_012",
+              "type": "choice",
+              "content": "继续学习",
+              "group": "7月14日"
+            },
+            {
+              "id": "step_013",
+              "type": "choice",
+              "content": "前往烟火地点",
+              "group": "7月14日"
+            },
+            {
+              "id": "step_014",
+              "type": "choice",
+              "content": "代替智代",
+              "group": "7月14日"
+            },
+            {
+              "id": "step_015",
+              "type": "choice",
+              "content": "不好",
+              "group": "7月15日"
+            },
+            {
+              "id": "step_016",
+              "type": "choice",
+              "content": "学习",
+              "group": "7月15日"
+            },
+            {
+              "id": "step_017",
+              "type": "choice",
+              "content": "阻止",
+              "group": "7月15日"
+            },
+            {
+              "id": "step_018",
+              "type": "choice",
+              "content": "学习",
+              "group": "7月16日"
+            },
+            {
+              "id": "step_019",
+              "type": "choice",
+              "content": "拒绝",
+              "group": "7月16日"
+            },
+            {
+              "id": "step_020",
+              "type": "choice",
+              "content": "选手替换",
+              "group": "7月16日"
+            },
+            {
+              "id": "step_021",
+              "type": "choice",
+              "content": "避免那个",
+              "group": "7月20日"
+            },
+            {
+              "id": "step_022",
+              "type": "choice",
+              "content": "只能努力",
+              "group": "7月21日"
+            },
+            {
+              "id": "step_023",
+              "type": "choice",
+              "content": "表露出来",
+              "group": "7月23日"
+            },
+            {
+              "id": "step_024",
+              "type": "choice",
+              "content": "智代・河南子・我三人一起去",
+              "group": "8月7日"
+            },
+            {
+              "id": "step_025",
+              "type": "choice",
+              "content": "放着不管试试看",
+              "group": "8月11日"
+            },
+            {
+              "id": "step_026",
+              "type": "choice",
+              "content": "建造学校",
+              "group": "8月12日"
+            },
+            {
+              "id": "step_027",
+              "type": "choice",
+              "content": "寻求亲密",
+              "group": "8月14日"
+            }
+          ]
+        },
+        {
+          "id": "ending_cg_recovery",
+          "name": "END",
+          "type": "normal",
+          "requirements": "※从SAVE 1载入，追求不同亲密路线以回收CG",
+          "steps": [
+            {
+              "id": "step_101",
+              "type": "load",
+              "content": "LOAD SAVE 1"
+            },
+            {
+              "id": "step_102",
+              "type": "choice",
+              "content": "在意气息",
+              "group": "6月28日"
+            },
+            {
+              "id": "step_103",
+              "type": "choice",
+              "content": "用你的内裤",
+              "group": "6月29日"
+            },
+            {
+              "id": "step_104",
+              "type": "choice",
+              "content": "进一步要求",
+              "prefix": "★",
+              "group": "6月29日"
+            },
+            {
+              "id": "step_105",
+              "type": "choice",
+              "content": "确认友美的行李",
+              "group": "7月7日"
+            },
+            {
+              "id": "step_106",
+              "type": "choice",
+              "content": "在公寓前面",
+              "group": "7月9日"
+            },
+            {
+              "id": "step_107",
+              "type": "choice",
+              "content": "我去找",
+              "group": "7月9日"
+            },
+            {
+              "id": "step_108",
+              "type": "choice",
+              "content": "默默忍耐",
+              "group": "7月10日"
+            },
+            {
+              "id": "step_109",
+              "type": "choice",
+              "content": "在午睡的友美身边压低声音",
+              "group": "7月11日"
+            },
+            {
+              "id": "step_110",
+              "type": "choice",
+              "content": "学习",
+              "group": "7月14日"
+            },
+            {
+              "id": "step_111",
+              "type": "choice",
+              "content": "继续学习",
+              "group": "7月14日"
+            },
+            {
+              "id": "step_112",
+              "type": "choice",
+              "content": "不好",
+              "group": "7月15日"
+            },
+            {
+              "id": "step_113",
+              "type": "choice",
+              "content": "学习",
+              "group": "7月15日"
+            },
+            {
+              "id": "step_114",
+              "type": "choice",
+              "content": "让她做",
+              "group": "7月15日"
+            },
+            {
+              "id": "step_115",
+              "type": "choice",
+              "content": "学习",
+              "group": "7月16日"
+            },
+            {
+              "id": "step_116",
+              "type": "choice",
+              "content": "拒绝",
+              "group": "7月16日"
+            },
+            {
+              "id": "step_117",
+              "type": "choice",
+              "content": "选手替换",
+              "group": "7月16日"
+            },
+            {
+              "id": "step_118",
+              "type": "choice",
+              "content": "避免那个",
+              "group": "7月20日"
+            },
+            {
+              "id": "step_119",
+              "type": "choice",
+              "content": "只能努力",
+              "group": "7月21日"
+            },
+            {
+              "id": "step_120",
+              "type": "choice",
+              "content": "表露出来",
+              "group": "7月23日"
+            },
+            {
+              "id": "step_121",
+              "type": "choice",
+              "content": "智代・河南子・我三人一起去",
+              "group": "8月7日"
+            },
+            {
+              "id": "step_122",
+              "type": "choice",
+              "content": "直接插进去",
+              "group": "8月11日"
+            },
+            {
+              "id": "step_123",
+              "type": "choice",
+              "content": "建造学校",
+              "group": "8月12日"
+            },
+            {
+              "id": "step_124",
+              "type": "save",
+              "content": "SAVE 2",
+              "group": "8月14日"
+            },
+            {
+              "id": "step_125",
+              "type": "choice",
+              "content": "寻求亲密",
+              "group": "8月14日"
+            }
+          ]
+        },
+        {
+          "id": "ending_normal",
+          "name": "CG 回收",
+          "type": "normal",
+          "requirements": "※在8月14日选择拒绝，进入正常结局",
+          "steps": [
+            {
+              "id": "step_201",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_202",
+              "type": "choice",
+              "content": "拒绝",
+              "group": "8月14日"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

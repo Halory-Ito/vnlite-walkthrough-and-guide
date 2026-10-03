@@ -1,0 +1,125 @@
+{
+  "vid": "v20623",
+  "name": {
+    "zh-cn": "近月少女的礼仪2.1",
+    "ja-jp": "月に寄りそう乙女の作法2.1 E×S×PAR!!",
+    "ja-Latn": "tsuki-ni-yorisou-otome-no-sahou-2-1"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-14",
+  "tips": [
+    "完成全部After后，才可进入Before"
+  ],
+  "routes": [
+    {
+      "id": "route_ester_after",
+      "name": "艾斯特 After",
+      "endings": [
+        {
+          "id": "ending_ester_after_end1",
+          "name": "艾斯特 END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_ea1_01",
+              "type": "choice",
+              "content": "稍微再留在教室一会儿见守"
+            },
+            {
+              "id": "step_ea1_02",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_ea1_03",
+              "type": "choice",
+              "content": "想和艾斯特说话所以去她房间"
+            },
+            {
+              "id": "step_ea1_04",
+              "type": "choice",
+              "content": "现在就想和她完全结合"
+            },
+            {
+              "id": "step_ea1_05",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_ea1_06",
+              "type": "choice",
+              "content": "作为艾斯特的恋人见证她的荣耀"
+            }
+          ]
+        },
+        {
+          "id": "ending_ester_after_end2",
+          "name": "艾斯特 END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_ea2_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_ea2_02",
+              "type": "choice",
+              "content": "作为艾斯特的侍从见证她的荣耀"
+            },
+            {
+              "id": "step_ea2_03",
+              "type": "choice",
+              "content": "回应她的请求"
+            }
+          ]
+        },
+        {
+          "id": "ending_ester_after_cg",
+          "name": "サブイベCG回收",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_eacg_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_eacg_02",
+              "type": "choice",
+              "content": "见证使命"
+            },
+            {
+              "id": "step_eacg_03",
+              "type": "choice",
+              "content": "回应艾斯特的希望"
+            },
+            {
+              "id": "step_eacg_04",
+              "type": "choice",
+              "content": "去看艾斯特的情况"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_haruko_after",
+      "name": "春心 After",
+      "endings": [
+        {
+          "id": "ending_haruko_after_end",
+          "name": "春心 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_ha_01",
+              "type": "choice",
+              "content": "银发不良少女，出现在原宿"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

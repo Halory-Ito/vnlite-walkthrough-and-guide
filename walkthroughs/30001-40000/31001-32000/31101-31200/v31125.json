@@ -1,0 +1,2268 @@
+{
+  "vid": "v31125",
+  "name": {
+    "zh-cn": "怀揣思念同我再会!!",
+    "en-us": "Lead or Leash: Which Me Would You Like?",
+    "ja-jp": "思い出抱えてアイにコイ!!",
+    "ja-Latn": "omoide-kakaete-ai-ni-koi"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-14",
+  "routes": [
+    {
+      "id": "route_game",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_tomari",
+          "name": "栗山 兎鞠 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_tm_01",
+              "type": "choice",
+              "content": "从头开始",
+              "group": "Start"
+            },
+            {
+              "id": "step_tm_02",
+              "type": "save",
+              "content": "SAVE 1",
+              "group": "童年篇6"
+            },
+            {
+              "id": "step_tm_03",
+              "type": "choice",
+              "content": "兎鞠",
+              "group": "童年篇6"
+            },
+            {
+              "id": "step_tm_04",
+              "type": "choice",
+              "content": "兎鞠",
+              "group": "重逢篇1"
+            },
+            {
+              "id": "step_tm_05",
+              "type": "choice",
+              "content": "千圣姐",
+              "group": "重逢篇1"
+            },
+            {
+              "id": "step_tm_06",
+              "type": "choice",
+              "content": "郁",
+              "group": "重逢篇1"
+            },
+            {
+              "id": "step_tm_07",
+              "type": "choice",
+              "content": "春之原",
+              "group": "重逢篇1"
+            },
+            {
+              "id": "step_tm_08",
+              "type": "choice",
+              "content": "西渓",
+              "group": "重逢篇1"
+            },
+            {
+              "id": "step_tm_09",
+              "type": "choice",
+              "content": "红绳裤",
+              "group": "重逢篇1"
+            },
+            {
+              "id": "step_tm_10",
+              "type": "choice",
+              "content": "白色，上面带一个粉色丝带",
+              "group": "重逢篇1"
+            },
+            {
+              "id": "step_tm_11",
+              "type": "choice",
+              "content": "纯白配缎带",
+              "group": "重逢篇1"
+            },
+            {
+              "id": "step_tm_12",
+              "type": "choice",
+              "content": "粉绿色配上花刺绣",
+              "group": "重逢篇1"
+            },
+            {
+              "id": "step_tm_13",
+              "type": "choice",
+              "content": "淡蓝色的成熟设计",
+              "group": "重逢篇1"
+            },
+            {
+              "id": "step_tm_14",
+              "type": "choice",
+              "content": "尤其让人心跳加速",
+              "group": "相知篇1"
+            },
+            {
+              "id": "step_tm_15",
+              "type": "choice",
+              "content": "夸",
+              "group": "相知篇3"
+            },
+            {
+              "id": "step_tm_16",
+              "type": "choice",
+              "content": "夸兎鞠",
+              "group": "相知篇3"
+            },
+            {
+              "id": "step_tm_17",
+              "type": "choice",
+              "content": "摸摸她的手",
+              "group": "共通1"
+            },
+            {
+              "id": "step_tm_18",
+              "type": "choice",
+              "content": "交给兎鞠",
+              "group": "共通1"
+            },
+            {
+              "id": "step_tm_19",
+              "type": "choice",
+              "content": "捉弄她",
+              "group": "共通1"
+            },
+            {
+              "id": "step_tm_20",
+              "type": "choice",
+              "content": "不安慰",
+              "group": "共通1"
+            },
+            {
+              "id": "step_tm_21",
+              "type": "choice",
+              "content": "还是不问了",
+              "group": "共通1"
+            },
+            {
+              "id": "step_tm_22",
+              "type": "choice",
+              "content": "只是在捉弄我吧",
+              "group": "共通1"
+            },
+            {
+              "id": "step_tm_23",
+              "type": "choice",
+              "content": "一起回去│兎鞠",
+              "group": "共通1"
+            },
+            {
+              "id": "step_tm_24",
+              "type": "choice",
+              "content": "特别喜欢的事物",
+              "prefix": "★",
+              "group": "共通1"
+            },
+            {
+              "id": "step_tm_25",
+              "type": "choice",
+              "content": "挺像你的",
+              "group": "共通1"
+            },
+            {
+              "id": "step_tm_26",
+              "type": "choice",
+              "content": "生日",
+              "prefix": "★",
+              "group": "共通1"
+            },
+            {
+              "id": "step_tm_27",
+              "type": "choice",
+              "content": "我会准备好礼物的",
+              "group": "共通1"
+            },
+            {
+              "id": "step_tm_28",
+              "type": "choice",
+              "content": "你怎么知道的？",
+              "group": "共通1"
+            },
+            {
+              "id": "step_tm_29",
+              "type": "choice",
+              "content": "帮兎鞠解围│兎鞠",
+              "group": "共通2"
+            },
+            {
+              "id": "step_tm_30",
+              "type": "choice",
+              "content": "默默地守望着她",
+              "group": "共通2"
+            },
+            {
+              "id": "step_tm_31",
+              "type": "choice",
+              "content": "还是不要多嘴了",
+              "group": "共通2"
+            },
+            {
+              "id": "step_tm_32",
+              "type": "choice",
+              "content": "兎鞠",
+              "group": "共通2"
+            },
+            {
+              "id": "step_tm_33",
+              "type": "choice",
+              "content": "不要以卵击石了",
+              "group": "共通2"
+            },
+            {
+              "id": "step_tm_34",
+              "type": "choice",
+              "content": "什么都不说",
+              "group": "共通2"
+            },
+            {
+              "id": "step_tm_35",
+              "type": "choice",
+              "content": "一起回去│兎鞠",
+              "group": "共通2"
+            },
+            {
+              "id": "step_tm_36",
+              "type": "choice",
+              "content": "关于穿着",
+              "prefix": "★",
+              "group": "共通2"
+            },
+            {
+              "id": "step_tm_37",
+              "type": "choice",
+              "content": "我当然更中意现在的你",
+              "group": "共通2"
+            },
+            {
+              "id": "step_tm_38",
+              "type": "choice",
+              "content": "关于成績",
+              "prefix": "★",
+              "group": "共通2"
+            },
+            {
+              "id": "step_tm_39",
+              "type": "choice",
+              "content": "但你照旧值得我依靠",
+              "group": "共通2"
+            },
+            {
+              "id": "step_tm_40",
+              "type": "choice",
+              "content": "我相信你",
+              "group": "共通2"
+            },
+            {
+              "id": "step_tm_41",
+              "type": "choice",
+              "content": "脸",
+              "group": "共通3"
+            },
+            {
+              "id": "step_tm_42",
+              "type": "choice",
+              "content": "搪塞过去",
+              "group": "共通3"
+            },
+            {
+              "id": "step_tm_43",
+              "type": "choice",
+              "content": "顺着她说",
+              "group": "共通3"
+            },
+            {
+              "id": "step_tm_44",
+              "type": "choice",
+              "content": "兎鞠",
+              "group": "共通3"
+            },
+            {
+              "id": "step_tm_45",
+              "type": "choice",
+              "content": "委婉地拒绝",
+              "group": "共通3"
+            },
+            {
+              "id": "step_tm_46",
+              "type": "choice",
+              "content": "坦率地承认",
+              "group": "共通3"
+            },
+            {
+              "id": "step_tm_47",
+              "type": "choice",
+              "content": "一起回去│兎鞠",
+              "group": "共通3"
+            },
+            {
+              "id": "step_tm_48",
+              "type": "choice",
+              "content": "想做的事",
+              "prefix": "★",
+              "group": "共通3"
+            },
+            {
+              "id": "step_tm_49",
+              "type": "choice",
+              "content": "只要是你做的我什么都喜欢",
+              "group": "共通3"
+            },
+            {
+              "id": "step_tm_50",
+              "type": "choice",
+              "content": "关于兔子发卡",
+              "prefix": "★",
+              "group": "共通3"
+            },
+            {
+              "id": "step_tm_51",
+              "type": "choice",
+              "content": "小时候的回忆？",
+              "group": "共通3"
+            },
+            {
+              "id": "step_tm_52",
+              "type": "choice",
+              "content": "我明白",
+              "group": "共通3"
+            },
+            {
+              "id": "step_tm_53",
+              "type": "choice",
+              "content": "这不是在说兎鞠吗？",
+              "group": "共通4"
+            },
+            {
+              "id": "step_tm_54",
+              "type": "choice",
+              "content": "道歉",
+              "group": "共通4"
+            },
+            {
+              "id": "step_tm_55",
+              "type": "choice",
+              "content": "兎鞠",
+              "group": "共通4"
+            },
+            {
+              "id": "step_tm_56",
+              "type": "choice",
+              "content": "蒙混过去",
+              "group": "共通4"
+            },
+            {
+              "id": "step_tm_57",
+              "type": "choice",
+              "content": "没准还挺合适的",
+              "group": "共通4"
+            },
+            {
+              "id": "step_tm_58",
+              "type": "choice",
+              "content": "没兴趣",
+              "group": "共通4"
+            },
+            {
+              "id": "step_tm_59",
+              "type": "choice",
+              "content": "一起回去│兎鞠",
+              "group": "共通4"
+            },
+            {
+              "id": "step_tm_60",
+              "type": "choice",
+              "content": "现在大家一起出门的话",
+              "prefix": "★",
+              "group": "共通4"
+            },
+            {
+              "id": "step_tm_61",
+              "type": "choice",
+              "content": "现在最想要的东西",
+              "prefix": "★",
+              "group": "共通4"
+            },
+            {
+              "id": "step_tm_62",
+              "type": "choice",
+              "content": "请务必",
+              "group": "共通4"
+            },
+            {
+              "id": "step_tm_63",
+              "type": "choice",
+              "content": "是在说谁？",
+              "group": "共通5"
+            },
+            {
+              "id": "step_tm_64",
+              "type": "choice",
+              "content": "起码想让她先听听我的解释",
+              "group": "共通5"
+            },
+            {
+              "id": "step_tm_65",
+              "type": "choice",
+              "content": "恋人和排球哪边更重要？",
+              "group": "共通5"
+            },
+            {
+              "id": "step_tm_66",
+              "type": "choice",
+              "content": "这句话已经够沉重了！",
+              "group": "共通5"
+            },
+            {
+              "id": "step_tm_67",
+              "type": "choice",
+              "content": "指名兎鞠",
+              "group": "共通5"
+            },
+            {
+              "id": "step_tm_68",
+              "type": "choice",
+              "content": "兎鞠你不害羞吗？",
+              "group": "共通5"
+            },
+            {
+              "id": "step_tm_69",
+              "type": "choice",
+              "content": "一起回去│兎鞠",
+              "group": "共通5"
+            },
+            {
+              "id": "step_tm_70",
+              "type": "choice",
+              "content": "在乎的异性",
+              "prefix": "★",
+              "group": "共通5"
+            },
+            {
+              "id": "step_tm_71",
+              "type": "choice",
+              "content": "关于小时候的约定",
+              "prefix": "★",
+              "group": "共通5"
+            },
+            {
+              "id": "step_tm_72",
+              "type": "choice",
+              "content": "喜欢",
+              "group": "進展2"
+            },
+            {
+              "id": "step_tm_73",
+              "type": "choice",
+              "content": "寂寞了",
+              "group": "栗山 兎鞠 02"
+            },
+            {
+              "id": "step_tm_74",
+              "type": "choice",
+              "content": "里面/外面",
+              "group": "栗山 兎鞠 02"
+            },
+            {
+              "id": "step_tm_75",
+              "type": "choice",
+              "content": "花瓣发夹",
+              "group": "栗山 兎鞠 04"
+            },
+            {
+              "id": "step_tm_76",
+              "type": "choice",
+              "content": "星星发夹",
+              "group": "栗山 兎鞠 04"
+            },
+            {
+              "id": "step_tm_77",
+              "type": "choice",
+              "content": "心形发夹",
+              "group": "栗山 兎鞠 04"
+            },
+            {
+              "id": "step_tm_82",
+              "type": "choice",
+              "content": "希望与你重逢",
+              "group": "栗山 兎鞠 10"
+            },
+            {
+              "id": "step_tm_83",
+              "type": "choice",
+              "content": "无法抉择",
+              "group": "栗山 兎鞠 10"
+            },
+            {
+              "id": "step_tm_84",
+              "type": "choice",
+              "content": "栗山兎鞠",
+              "group": "栗山 兎鞠 10"
+            }
+          ]
+        },
+        {
+          "id": "ending_yuna",
+          "name": "春之原 優菜 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_yn_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_yn_02",
+              "type": "choice",
+              "content": "春之原"
+            },
+            {
+              "id": "step_yn_03",
+              "type": "choice",
+              "content": "春之原",
+              "group": "重逢篇1"
+            },
+            {
+              "id": "step_yn_04",
+              "type": "choice",
+              "content": "兎鞠",
+              "group": "重逢篇1"
+            },
+            {
+              "id": "step_yn_05",
+              "type": "choice",
+              "content": "千圣姐",
+              "group": "重逢篇1"
+            },
+            {
+              "id": "step_yn_06",
+              "type": "choice",
+              "content": "郁",
+              "group": "重逢篇1"
+            },
+            {
+              "id": "step_yn_07",
+              "type": "choice",
+              "content": "西渓",
+              "group": "重逢篇1"
+            },
+            {
+              "id": "step_yn_08",
+              "type": "choice",
+              "content": "深蓝色配上大花朵的成熟设计",
+              "group": "重逢篇1"
+            },
+            {
+              "id": "step_yn_09",
+              "type": "choice",
+              "content": "黄色花纹",
+              "group": "重逢篇1"
+            },
+            {
+              "id": "step_yn_10",
+              "type": "choice",
+              "content": "蓝色搭配粉色花纹",
+              "group": "重逢篇1"
+            },
+            {
+              "id": "step_yn_11",
+              "type": "choice",
+              "content": "意料之外的红色蕾丝性感系",
+              "group": "重逢篇1"
+            },
+            {
+              "id": "step_yn_12",
+              "type": "choice",
+              "content": "清纯系白色",
+              "group": "重逢篇1"
+            },
+            {
+              "id": "step_yn_13",
+              "type": "choice",
+              "content": "有种道不明的违和感",
+              "group": "相知篇1"
+            },
+            {
+              "id": "step_yn_14",
+              "type": "choice",
+              "content": "不夸",
+              "group": "相知篇3"
+            },
+            {
+              "id": "step_yn_15",
+              "type": "choice",
+              "content": "还是不摸了",
+              "group": "共通1"
+            },
+            {
+              "id": "step_yn_16",
+              "type": "choice",
+              "content": "交给春之原",
+              "group": "共通1"
+            },
+            {
+              "id": "step_yn_17",
+              "type": "choice",
+              "content": "捉弄她",
+              "group": "共通1"
+            },
+            {
+              "id": "step_yn_18",
+              "type": "choice",
+              "content": "不安慰",
+              "group": "共通1"
+            },
+            {
+              "id": "step_yn_19",
+              "type": "choice",
+              "content": "询问优菜的推荐",
+              "group": "共通1"
+            },
+            {
+              "id": "step_yn_20",
+              "type": "choice",
+              "content": "只是在捉弄我吧",
+              "group": "共通1"
+            },
+            {
+              "id": "step_yn_21",
+              "type": "choice",
+              "content": "一起回去│優菜",
+              "group": "共通1"
+            },
+            {
+              "id": "step_yn_22",
+              "type": "choice",
+              "content": "特别喜欢的事物",
+              "prefix": "★",
+              "group": "共通1"
+            },
+            {
+              "id": "step_yn_23",
+              "type": "choice",
+              "content": "我们已经不是小屁孩了",
+              "group": "共通1"
+            },
+            {
+              "id": "step_yn_24",
+              "type": "choice",
+              "content": "季節",
+              "prefix": "★",
+              "group": "共通1"
+            },
+            {
+              "id": "step_yn_25",
+              "type": "choice",
+              "content": "现在这样比较可爱",
+              "group": "共通1"
+            },
+            {
+              "id": "step_yn_26",
+              "type": "choice",
+              "content": "因为感觉你挺成熟的",
+              "group": "共通1"
+            },
+            {
+              "id": "step_yn_27",
+              "type": "choice",
+              "content": "捉弄兎鞠",
+              "group": "共通2"
+            },
+            {
+              "id": "step_yn_28",
+              "type": "choice",
+              "content": "默默地守望着她",
+              "group": "共通2"
+            },
+            {
+              "id": "step_yn_29",
+              "type": "choice",
+              "content": "向优菜搭话",
+              "group": "共通2"
+            },
+            {
+              "id": "step_yn_30",
+              "type": "choice",
+              "content": "春之原",
+              "group": "共通2"
+            },
+            {
+              "id": "step_yn_31",
+              "type": "choice",
+              "content": "不要以卵击石了",
+              "group": "共通2"
+            },
+            {
+              "id": "step_yn_32",
+              "type": "choice",
+              "content": "什么都不说",
+              "group": "共通2"
+            },
+            {
+              "id": "step_yn_33",
+              "type": "choice",
+              "content": "一起回去│優菜",
+              "group": "共通2"
+            },
+            {
+              "id": "step_yn_34",
+              "type": "choice",
+              "content": "关于穿着",
+              "prefix": "★",
+              "group": "共通2"
+            },
+            {
+              "id": "step_yn_35",
+              "type": "choice",
+              "content": "看起来确实很成熟",
+              "group": "共通2"
+            },
+            {
+              "id": "step_yn_36",
+              "type": "choice",
+              "content": "关于升学",
+              "prefix": "★",
+              "group": "共通2"
+            },
+            {
+              "id": "step_yn_37",
+              "type": "choice",
+              "content": "模特出道不再是梦想了呢",
+              "group": "共通2"
+            },
+            {
+              "id": "step_yn_38",
+              "type": "choice",
+              "content": "脸",
+              "group": "共通3"
+            },
+            {
+              "id": "step_yn_39",
+              "type": "choice",
+              "content": "搪塞过去",
+              "group": "共通3"
+            },
+            {
+              "id": "step_yn_40",
+              "type": "choice",
+              "content": "顺着她说",
+              "group": "共通3"
+            },
+            {
+              "id": "step_yn_41",
+              "type": "choice",
+              "content": "春之原",
+              "group": "共通3"
+            },
+            {
+              "id": "step_yn_42",
+              "type": "choice",
+              "content": "果断地拒绝",
+              "group": "共通3"
+            },
+            {
+              "id": "step_yn_43",
+              "type": "choice",
+              "content": "坦率地道谢",
+              "group": "共通3"
+            },
+            {
+              "id": "step_yn_44",
+              "type": "choice",
+              "content": "一起回去│優菜",
+              "group": "共通3"
+            },
+            {
+              "id": "step_yn_45",
+              "type": "choice",
+              "content": "要是养宠物的话",
+              "prefix": "★",
+              "group": "共通3"
+            },
+            {
+              "id": "step_yn_46",
+              "type": "choice",
+              "content": "那种不服输的地方",
+              "group": "共通3"
+            },
+            {
+              "id": "step_yn_47",
+              "type": "choice",
+              "content": "想做的事",
+              "prefix": "★",
+              "group": "共通3"
+            },
+            {
+              "id": "step_yn_48",
+              "type": "choice",
+              "content": "那可得好好锻炼了",
+              "group": "共通3"
+            },
+            {
+              "id": "step_yn_49",
+              "type": "choice",
+              "content": "有这份心就够了",
+              "group": "共通3"
+            },
+            {
+              "id": "step_yn_50",
+              "type": "choice",
+              "content": "只凭这点还不能确认",
+              "group": "共通4"
+            },
+            {
+              "id": "step_yn_51",
+              "type": "choice",
+              "content": "道歉",
+              "group": "共通4"
+            },
+            {
+              "id": "step_yn_52",
+              "type": "choice",
+              "content": "春之原",
+              "group": "共通4"
+            },
+            {
+              "id": "step_yn_53",
+              "type": "choice",
+              "content": "老实告诉她",
+              "group": "共通4"
+            },
+            {
+              "id": "step_yn_54",
+              "type": "choice",
+              "content": "没准还挺合适的",
+              "group": "共通4"
+            },
+            {
+              "id": "step_yn_55",
+              "type": "choice",
+              "content": "没兴趣",
+              "group": "共通4"
+            },
+            {
+              "id": "step_yn_56",
+              "type": "choice",
+              "content": "一起回去│優菜",
+              "group": "共通4"
+            },
+            {
+              "id": "step_yn_57",
+              "type": "choice",
+              "content": "现在最想要的东西",
+              "prefix": "★",
+              "group": "共通4"
+            },
+            {
+              "id": "step_yn_58",
+              "type": "choice",
+              "content": "关于现在的发型",
+              "prefix": "★",
+              "group": "共通4"
+            },
+            {
+              "id": "step_yn_59",
+              "type": "choice",
+              "content": "能清楚地看到脸蛋",
+              "group": "共通4"
+            },
+            {
+              "id": "step_yn_60",
+              "type": "choice",
+              "content": "我可是英雄哦？",
+              "group": "共通4"
+            },
+            {
+              "id": "step_yn_61",
+              "type": "choice",
+              "content": "是在说谁？",
+              "group": "共通5"
+            },
+            {
+              "id": "step_yn_62",
+              "type": "choice",
+              "content": "起码想让她先听听我的解释",
+              "group": "共通5"
+            },
+            {
+              "id": "step_yn_63",
+              "type": "choice",
+              "content": "恋人和排球哪边更重要？",
+              "group": "共通5"
+            },
+            {
+              "id": "step_yn_64",
+              "type": "choice",
+              "content": "不如说对我而言太轻了",
+              "group": "共通5"
+            },
+            {
+              "id": "step_yn_65",
+              "type": "choice",
+              "content": "指名春之原",
+              "group": "共通5"
+            },
+            {
+              "id": "step_yn_66",
+              "type": "choice",
+              "content": "别再把事态复杂化了",
+              "group": "共通5"
+            },
+            {
+              "id": "step_yn_67",
+              "type": "choice",
+              "content": "一起回去│優菜",
+              "group": "共通5"
+            },
+            {
+              "id": "step_yn_68",
+              "type": "choice",
+              "content": "在乎的异性",
+              "prefix": "★",
+              "group": "共通5"
+            },
+            {
+              "id": "step_yn_69",
+              "type": "choice",
+              "content": "关于小时候的约定",
+              "prefix": "★",
+              "group": "共通5"
+            },
+            {
+              "id": "step_yn_70",
+              "type": "choice",
+              "content": "早上好優菜",
+              "group": "春之原優菜 01"
+            }
+          ]
+        },
+        {
+          "id": "ending_chisato",
+          "name": "洲郷 千聖 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_cs_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_cs_02",
+              "type": "choice",
+              "content": "千圣姐"
+            },
+            {
+              "id": "step_cs_03",
+              "type": "choice",
+              "content": "千圣姐",
+              "group": "重逢篇1"
+            },
+            {
+              "id": "step_cs_04",
+              "type": "choice",
+              "content": "兎鞠",
+              "group": "重逢篇1"
+            },
+            {
+              "id": "step_cs_05",
+              "type": "choice",
+              "content": "郁",
+              "group": "重逢篇1"
+            },
+            {
+              "id": "step_cs_06",
+              "type": "choice",
+              "content": "春之原",
+              "group": "重逢篇1"
+            },
+            {
+              "id": "step_cs_07",
+              "type": "choice",
+              "content": "西渓",
+              "group": "重逢篇1"
+            },
+            {
+              "id": "step_cs_08",
+              "type": "choice",
+              "content": "红绳裤",
+              "group": "重逢篇1"
+            },
+            {
+              "id": "step_cs_09",
+              "type": "choice",
+              "content": "白色，上面带一个粉色丝带",
+              "group": "重逢篇1"
+            },
+            {
+              "id": "step_cs_10",
+              "type": "choice",
+              "content": "纯白配缎带",
+              "group": "重逢篇1"
+            },
+            {
+              "id": "step_cs_11",
+              "type": "choice",
+              "content": "粉绿色配上花刺绣",
+              "group": "重逢篇1"
+            },
+            {
+              "id": "step_cs_12",
+              "type": "choice",
+              "content": "淡蓝色的成熟设计",
+              "group": "重逢篇1"
+            },
+            {
+              "id": "step_cs_13",
+              "type": "choice",
+              "content": "有种道不明的违和感",
+              "group": "相知篇1"
+            },
+            {
+              "id": "step_cs_14",
+              "type": "choice",
+              "content": "不夸",
+              "group": "相知篇3"
+            },
+            {
+              "id": "step_cs_15",
+              "type": "choice",
+              "content": "还是不摸了",
+              "group": "共通1"
+            },
+            {
+              "id": "step_cs_16",
+              "type": "choice",
+              "content": "交给千圣姐",
+              "group": "共通1"
+            },
+            {
+              "id": "step_cs_17",
+              "type": "choice",
+              "content": "捉弄她",
+              "group": "共通1"
+            },
+            {
+              "id": "step_cs_18",
+              "type": "choice",
+              "content": "不安慰",
+              "group": "共通1"
+            },
+            {
+              "id": "step_cs_19",
+              "type": "choice",
+              "content": "还是不问了",
+              "group": "共通1"
+            },
+            {
+              "id": "step_cs_20",
+              "type": "choice",
+              "content": "突如其来的恋爱感？",
+              "group": "共通1"
+            },
+            {
+              "id": "step_cs_21",
+              "type": "choice",
+              "content": "一起回去│千聖",
+              "group": "共通1"
+            },
+            {
+              "id": "step_cs_22",
+              "type": "choice",
+              "content": "特别喜欢的事物",
+              "prefix": "★",
+              "group": "共通1"
+            },
+            {
+              "id": "step_cs_23",
+              "type": "choice",
+              "content": "千圣姐的标准风格",
+              "group": "共通1"
+            },
+            {
+              "id": "step_cs_24",
+              "type": "choice",
+              "content": "生日",
+              "prefix": "★",
+              "group": "共通1"
+            },
+            {
+              "id": "step_cs_25",
+              "type": "choice",
+              "content": "我记下了",
+              "group": "共通1"
+            },
+            {
+              "id": "step_cs_26",
+              "type": "choice",
+              "content": "我希望能帮到你",
+              "group": "共通1"
+            },
+            {
+              "id": "step_cs_27",
+              "type": "choice",
+              "content": "捉弄兎鞠",
+              "group": "共通2"
+            },
+            {
+              "id": "step_cs_28",
+              "type": "choice",
+              "content": "默默地守望着她",
+              "group": "共通2"
+            },
+            {
+              "id": "step_cs_29",
+              "type": "choice",
+              "content": "还是不要多嘴了",
+              "group": "共通2"
+            },
+            {
+              "id": "step_cs_30",
+              "type": "choice",
+              "content": "千圣姐",
+              "group": "共通2"
+            },
+            {
+              "id": "step_cs_31",
+              "type": "choice",
+              "content": "帮助琢磨",
+              "group": "共通2"
+            },
+            {
+              "id": "step_cs_32",
+              "type": "choice",
+              "content": "什么都不说",
+              "group": "共通2"
+            },
+            {
+              "id": "step_cs_33",
+              "type": "choice",
+              "content": "一起回去│千聖",
+              "group": "共通2"
+            },
+            {
+              "id": "step_cs_34",
+              "type": "choice",
+              "content": "关于穿着",
+              "prefix": "★",
+              "group": "共通2"
+            },
+            {
+              "id": "step_cs_35",
+              "type": "choice",
+              "content": "现在的千圣姐",
+              "group": "共通2"
+            },
+            {
+              "id": "step_cs_36",
+              "type": "choice",
+              "content": "关于发型",
+              "prefix": "★",
+              "group": "共通2"
+            },
+            {
+              "id": "step_cs_37",
+              "type": "choice",
+              "content": "现在的",
+              "group": "共通2"
+            },
+            {
+              "id": "step_cs_38",
+              "type": "choice",
+              "content": "也就是我只要告白你就会答应？",
+              "group": "共通2"
+            },
+            {
+              "id": "step_cs_39",
+              "type": "choice",
+              "content": "脸",
+              "group": "共通3"
+            },
+            {
+              "id": "step_cs_40",
+              "type": "choice",
+              "content": "坦率地回答",
+              "group": "共通3"
+            },
+            {
+              "id": "step_cs_41",
+              "type": "choice",
+              "content": "顺着她说",
+              "group": "共通3"
+            },
+            {
+              "id": "step_cs_42",
+              "type": "choice",
+              "content": "千圣姐",
+              "group": "共通3"
+            },
+            {
+              "id": "step_cs_43",
+              "type": "choice",
+              "content": "果断地拒绝",
+              "group": "共通3"
+            },
+            {
+              "id": "step_cs_44",
+              "type": "choice",
+              "content": "坦率地道谢",
+              "group": "共通3"
+            },
+            {
+              "id": "step_cs_45",
+              "type": "choice",
+              "content": "一起回去│千聖",
+              "group": "共通3"
+            },
+            {
+              "id": "step_cs_46",
+              "type": "choice",
+              "content": "要是养宠物的话",
+              "prefix": "★",
+              "group": "共通3"
+            },
+            {
+              "id": "step_cs_47",
+              "type": "choice",
+              "content": "你不就是猫么（会卖乖）",
+              "group": "共通3"
+            },
+            {
+              "id": "step_cs_48",
+              "type": "choice",
+              "content": "想做的事",
+              "prefix": "★",
+              "group": "共通3"
+            },
+            {
+              "id": "step_cs_49",
+              "type": "choice",
+              "content": "乐意至极",
+              "group": "共通3"
+            },
+            {
+              "id": "step_cs_50",
+              "type": "choice",
+              "content": "那实在是太难为情了",
+              "group": "共通3"
+            },
+            {
+              "id": "step_cs_51",
+              "type": "choice",
+              "content": "只凭这点还不能确认",
+              "group": "共通4"
+            },
+            {
+              "id": "step_cs_52",
+              "type": "choice",
+              "content": "等她出招",
+              "group": "共通4"
+            },
+            {
+              "id": "step_cs_53",
+              "type": "choice",
+              "content": "千圣姐",
+              "group": "共通4"
+            },
+            {
+              "id": "step_cs_54",
+              "type": "choice",
+              "content": "蒙混过去",
+              "group": "共通4"
+            },
+            {
+              "id": "step_cs_55",
+              "type": "choice",
+              "content": "没准还挺合适的",
+              "group": "共通4"
+            },
+            {
+              "id": "step_cs_56",
+              "type": "choice",
+              "content": "没兴趣",
+              "group": "共通4"
+            },
+            {
+              "id": "step_cs_57",
+              "type": "choice",
+              "content": "一起回去│千聖",
+              "group": "共通4"
+            },
+            {
+              "id": "step_cs_58",
+              "type": "choice",
+              "content": "现在大家一起出门的话",
+              "prefix": "★",
+              "group": "共通4"
+            },
+            {
+              "id": "step_cs_59",
+              "type": "choice",
+              "content": "对现在的自己来说最有自信的地方",
+              "prefix": "★",
+              "group": "共通4"
+            },
+            {
+              "id": "step_cs_60",
+              "type": "choice",
+              "content": "胸大了？",
+              "group": "共通4"
+            },
+            {
+              "id": "step_cs_61",
+              "type": "choice",
+              "content": "是在说千圣姐吧？",
+              "group": "共通5"
+            },
+            {
+              "id": "step_cs_62",
+              "type": "choice",
+              "content": "但那也就是说……？",
+              "group": "共通5"
+            },
+            {
+              "id": "step_cs_63",
+              "type": "choice",
+              "content": "恋人和排球哪边更重要？",
+              "group": "共通5"
+            },
+            {
+              "id": "step_cs_64",
+              "type": "choice",
+              "content": "这句话已经够沉重了！",
+              "group": "共通5"
+            },
+            {
+              "id": "step_cs_65",
+              "type": "choice",
+              "content": "指名千圣姐",
+              "group": "共通5"
+            },
+            {
+              "id": "step_cs_66",
+              "type": "choice",
+              "content": "别再把事态复杂化了",
+              "group": "共通5"
+            },
+            {
+              "id": "step_cs_67",
+              "type": "choice",
+              "content": "一起回去│千聖",
+              "group": "共通5"
+            },
+            {
+              "id": "step_cs_68",
+              "type": "choice",
+              "content": "在乎的异性",
+              "prefix": "★",
+              "group": "共通5"
+            },
+            {
+              "id": "step_cs_69",
+              "type": "choice",
+              "content": "关于小时候的约定",
+              "prefix": "★",
+              "group": "共通5"
+            },
+            {
+              "id": "step_cs_73",
+              "type": "choice",
+              "content": "港交所",
+              "group": "洲郷千聖 07"
+            },
+            {
+              "id": "step_cs_74",
+              "type": "choice",
+              "content": "肉包",
+              "group": "洲郷千聖 07"
+            }
+          ]
+        },
+        {
+          "id": "ending_shizuru",
+          "name": "西渓 静流 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_sr_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_sr_02",
+              "type": "choice",
+              "content": "西渓"
+            },
+            {
+              "id": "step_sr_03",
+              "type": "choice",
+              "content": "西渓",
+              "group": "重逢篇1"
+            },
+            {
+              "id": "step_sr_04",
+              "type": "choice",
+              "content": "兎鞠",
+              "group": "重逢篇1"
+            },
+            {
+              "id": "step_sr_05",
+              "type": "choice",
+              "content": "千圣姐",
+              "group": "重逢篇1"
+            },
+            {
+              "id": "step_sr_06",
+              "type": "choice",
+              "content": "郁",
+              "group": "重逢篇1"
+            },
+            {
+              "id": "step_sr_07",
+              "type": "choice",
+              "content": "春之原",
+              "group": "重逢篇1"
+            },
+            {
+              "id": "step_sr_08",
+              "type": "choice",
+              "content": "红绳裤",
+              "group": "重逢篇1"
+            },
+            {
+              "id": "step_sr_09",
+              "type": "choice",
+              "content": "白色，上面带一个粉色丝带",
+              "group": "重逢篇1"
+            },
+            {
+              "id": "step_sr_10",
+              "type": "choice",
+              "content": "纯白配缎带",
+              "group": "重逢篇1"
+            },
+            {
+              "id": "step_sr_11",
+              "type": "choice",
+              "content": "粉绿色配上花刺绣",
+              "group": "重逢篇1"
+            },
+            {
+              "id": "step_sr_12",
+              "type": "choice",
+              "content": "淡蓝色的成熟设计",
+              "group": "重逢篇1"
+            },
+            {
+              "id": "step_sr_13",
+              "type": "choice",
+              "content": "有种道不明的违和感",
+              "group": "相知篇1"
+            },
+            {
+              "id": "step_sr_14",
+              "type": "choice",
+              "content": "不夸",
+              "group": "相知篇3"
+            },
+            {
+              "id": "step_sr_15",
+              "type": "choice",
+              "content": "还是不摸了",
+              "group": "共通1"
+            },
+            {
+              "id": "step_sr_16",
+              "type": "choice",
+              "content": "交给西渓",
+              "group": "共通1"
+            },
+            {
+              "id": "step_sr_17",
+              "type": "choice",
+              "content": "袒护她",
+              "group": "共通1"
+            },
+            {
+              "id": "step_sr_18",
+              "type": "choice",
+              "content": "不安慰",
+              "group": "共通1"
+            },
+            {
+              "id": "step_sr_19",
+              "type": "choice",
+              "content": "还是不问了",
+              "group": "共通1"
+            },
+            {
+              "id": "step_sr_20",
+              "type": "choice",
+              "content": "只是在捉弄我吧",
+              "group": "共通1"
+            },
+            {
+              "id": "step_sr_21",
+              "type": "choice",
+              "content": "一起回去│静流",
+              "group": "共通1"
+            },
+            {
+              "id": "step_sr_22",
+              "type": "choice",
+              "content": "特别喜欢的事物",
+              "prefix": "★",
+              "group": "共通1"
+            },
+            {
+              "id": "step_sr_23",
+              "type": "choice",
+              "content": "不过今后就不同了",
+              "group": "共通1"
+            },
+            {
+              "id": "step_sr_24",
+              "type": "choice",
+              "content": "生日",
+              "prefix": "★",
+              "group": "共通1"
+            },
+            {
+              "id": "step_sr_25",
+              "type": "choice",
+              "content": "转换心情罢了",
+              "group": "共通1"
+            },
+            {
+              "id": "step_sr_26",
+              "type": "choice",
+              "content": "好像会很开心",
+              "group": "共通1"
+            },
+            {
+              "id": "step_sr_27",
+              "type": "choice",
+              "content": "捉弄兎鞠",
+              "group": "共通2"
+            },
+            {
+              "id": "step_sr_28",
+              "type": "choice",
+              "content": "表扬静流",
+              "group": "共通2"
+            },
+            {
+              "id": "step_sr_29",
+              "type": "choice",
+              "content": "还是不要多嘴了",
+              "group": "共通2"
+            },
+            {
+              "id": "step_sr_30",
+              "type": "choice",
+              "content": "西渓",
+              "group": "共通2"
+            },
+            {
+              "id": "step_sr_31",
+              "type": "choice",
+              "content": "不要以卵击石了",
+              "group": "共通2"
+            },
+            {
+              "id": "step_sr_32",
+              "type": "choice",
+              "content": "什么都不说",
+              "group": "共通2"
+            },
+            {
+              "id": "step_sr_33",
+              "type": "choice",
+              "content": "一起回去│静流",
+              "group": "共通2"
+            },
+            {
+              "id": "step_sr_34",
+              "type": "choice",
+              "content": "关于穿着",
+              "prefix": "★",
+              "group": "共通2"
+            },
+            {
+              "id": "step_sr_35",
+              "type": "choice",
+              "content": "保持原样就好",
+              "group": "共通2"
+            },
+            {
+              "id": "step_sr_36",
+              "type": "choice",
+              "content": "想做的事",
+              "prefix": "★",
+              "group": "共通2"
+            },
+            {
+              "id": "step_sr_37",
+              "type": "choice",
+              "content": "作为姐姐不振作起来的话",
+              "group": "共通2"
+            },
+            {
+              "id": "step_sr_38",
+              "type": "choice",
+              "content": "男人不能对可爱的女孩子置之不理",
+              "group": "共通2"
+            },
+            {
+              "id": "step_sr_39",
+              "type": "choice",
+              "content": "脸",
+              "group": "共通3"
+            },
+            {
+              "id": "step_sr_40",
+              "type": "choice",
+              "content": "坦率地回答",
+              "group": "共通3"
+            },
+            {
+              "id": "step_sr_41",
+              "type": "choice",
+              "content": "实话实说",
+              "group": "共通3"
+            },
+            {
+              "id": "step_sr_42",
+              "type": "choice",
+              "content": "西渓",
+              "group": "共通3"
+            },
+            {
+              "id": "step_sr_43",
+              "type": "choice",
+              "content": "果断地拒绝",
+              "group": "共通3"
+            },
+            {
+              "id": "step_sr_44",
+              "type": "choice",
+              "content": "坦率地承认",
+              "group": "共通3"
+            },
+            {
+              "id": "step_sr_45",
+              "type": "choice",
+              "content": "一起回去│静流",
+              "group": "共通3"
+            },
+            {
+              "id": "step_sr_46",
+              "type": "choice",
+              "content": "要是养宠物的话",
+              "prefix": "★",
+              "group": "共通3"
+            },
+            {
+              "id": "step_sr_47",
+              "type": "choice",
+              "content": "像是容易感到寂寞……",
+              "group": "共通3"
+            },
+            {
+              "id": "step_sr_48",
+              "type": "choice",
+              "content": "想做的事",
+              "prefix": "★",
+              "group": "共通3"
+            },
+            {
+              "id": "step_sr_49",
+              "type": "choice",
+              "content": "现在的西渓肯定没事的",
+              "group": "共通3"
+            },
+            {
+              "id": "step_sr_50",
+              "type": "choice",
+              "content": "悄悄告诉她",
+              "group": "共通3"
+            },
+            {
+              "id": "step_sr_51",
+              "type": "choice",
+              "content": "只凭这点还不能确认",
+              "group": "共通4"
+            },
+            {
+              "id": "step_sr_52",
+              "type": "choice",
+              "content": "道歉",
+              "group": "共通4"
+            },
+            {
+              "id": "step_sr_53",
+              "type": "choice",
+              "content": "西渓",
+              "group": "共通4"
+            },
+            {
+              "id": "step_sr_54",
+              "type": "choice",
+              "content": "蒙混过去",
+              "group": "共通4"
+            },
+            {
+              "id": "step_sr_55",
+              "type": "choice",
+              "content": "没准还挺合适的",
+              "group": "共通4"
+            },
+            {
+              "id": "step_sr_56",
+              "type": "choice",
+              "content": "是故意这么说的？",
+              "group": "共通4"
+            },
+            {
+              "id": "step_sr_57",
+              "type": "choice",
+              "content": "一起回去│静流",
+              "group": "共通4"
+            },
+            {
+              "id": "step_sr_58",
+              "type": "choice",
+              "content": "现在大家一起出门的话",
+              "prefix": "★",
+              "group": "共通4"
+            },
+            {
+              "id": "step_sr_59",
+              "type": "choice",
+              "content": "真像你的风格",
+              "group": "共通4"
+            },
+            {
+              "id": "step_sr_60",
+              "type": "choice",
+              "content": "现在最想要的东西",
+              "prefix": "★",
+              "group": "共通4"
+            },
+            {
+              "id": "step_sr_61",
+              "type": "choice",
+              "content": "到那个时候我会帮你找出来的",
+              "group": "共通4"
+            },
+            {
+              "id": "step_sr_62",
+              "type": "choice",
+              "content": "是在说谁？",
+              "group": "共通5"
+            },
+            {
+              "id": "step_sr_63",
+              "type": "choice",
+              "content": "但那也就是说……？",
+              "group": "共通5"
+            },
+            {
+              "id": "step_sr_64",
+              "type": "choice",
+              "content": "恋人和排球哪边更重要？",
+              "group": "共通5"
+            },
+            {
+              "id": "step_sr_65",
+              "type": "choice",
+              "content": "这句话已经够沉重了！",
+              "group": "共通5"
+            },
+            {
+              "id": "step_sr_66",
+              "type": "choice",
+              "content": "指名西渓",
+              "group": "共通5"
+            },
+            {
+              "id": "step_sr_67",
+              "type": "choice",
+              "content": "别再把事态复杂化了",
+              "group": "共通5"
+            },
+            {
+              "id": "step_sr_68",
+              "type": "choice",
+              "content": "一起回去│静流",
+              "group": "共通5"
+            },
+            {
+              "id": "step_sr_69",
+              "type": "choice",
+              "content": "在乎的异性",
+              "prefix": "★",
+              "group": "共通5"
+            },
+            {
+              "id": "step_sr_70",
+              "type": "choice",
+              "content": "关于小时候的约定",
+              "prefix": "★",
+              "group": "共通5"
+            }
+          ]
+        },
+        {
+          "id": "ending_iku",
+          "name": "所沢 郁 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_ik_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_ik_02",
+              "type": "choice",
+              "content": "郁"
+            },
+            {
+              "id": "step_ik_03",
+              "type": "choice",
+              "content": "郁",
+              "group": "重逢篇1"
+            },
+            {
+              "id": "step_ik_04",
+              "type": "choice",
+              "content": "兎鞠",
+              "group": "重逢篇1"
+            },
+            {
+              "id": "step_ik_05",
+              "type": "choice",
+              "content": "千圣姐",
+              "group": "重逢篇1"
+            },
+            {
+              "id": "step_ik_06",
+              "type": "choice",
+              "content": "春之原",
+              "group": "重逢篇1"
+            },
+            {
+              "id": "step_ik_07",
+              "type": "choice",
+              "content": "西渓",
+              "group": "重逢篇1"
+            },
+            {
+              "id": "step_ik_08",
+              "type": "choice",
+              "content": "深蓝色配上大花朵的成熟设计",
+              "group": "重逢篇1"
+            },
+            {
+              "id": "step_ik_09",
+              "type": "choice",
+              "content": "黄色花纹",
+              "group": "重逢篇1"
+            },
+            {
+              "id": "step_ik_10",
+              "type": "choice",
+              "content": "蓝色搭配粉色花纹",
+              "group": "重逢篇1"
+            },
+            {
+              "id": "step_ik_11",
+              "type": "choice",
+              "content": "意料之外的红色蕾丝性感系",
+              "group": "重逢篇1"
+            },
+            {
+              "id": "step_ik_12",
+              "type": "choice",
+              "content": "清纯系白色",
+              "group": "重逢篇1"
+            },
+            {
+              "id": "step_ik_13",
+              "type": "choice",
+              "content": "有种道不明的违和感",
+              "group": "相知篇1"
+            },
+            {
+              "id": "step_ik_14",
+              "type": "choice",
+              "content": "不夸",
+              "group": "相知篇3"
+            },
+            {
+              "id": "step_ik_15",
+              "type": "choice",
+              "content": "还是不摸了",
+              "group": "共通1"
+            },
+            {
+              "id": "step_ik_16",
+              "type": "choice",
+              "content": "交给郁",
+              "group": "共通1"
+            },
+            {
+              "id": "step_ik_17",
+              "type": "choice",
+              "content": "捉弄她",
+              "group": "共通1"
+            },
+            {
+              "id": "step_ik_18",
+              "type": "choice",
+              "content": "安慰郁",
+              "group": "共通1"
+            },
+            {
+              "id": "step_ik_19",
+              "type": "choice",
+              "content": "还是不问了",
+              "group": "共通1"
+            },
+            {
+              "id": "step_ik_20",
+              "type": "choice",
+              "content": "只是在捉弄我吧",
+              "group": "共通1"
+            },
+            {
+              "id": "step_ik_21",
+              "type": "choice",
+              "content": "一起回去│郁",
+              "group": "共通1"
+            },
+            {
+              "id": "step_ik_22",
+              "type": "choice",
+              "content": "特别喜欢的事物",
+              "prefix": "★",
+              "group": "共通1"
+            },
+            {
+              "id": "step_ik_23",
+              "type": "choice",
+              "content": "确实成长了",
+              "group": "共通1"
+            },
+            {
+              "id": "step_ik_24",
+              "type": "choice",
+              "content": "生日",
+              "prefix": "★",
+              "group": "共通1"
+            },
+            {
+              "id": "step_ik_25",
+              "type": "choice",
+              "content": "若按现在的印象……",
+              "group": "共通1"
+            },
+            {
+              "id": "step_ik_26",
+              "type": "choice",
+              "content": "我一定会去的",
+              "group": "共通1"
+            },
+            {
+              "id": "step_ik_27",
+              "type": "choice",
+              "content": "捉弄兎鞠",
+              "group": "共通2"
+            },
+            {
+              "id": "step_ik_28",
+              "type": "choice",
+              "content": "默默地守望着她",
+              "group": "共通2"
+            },
+            {
+              "id": "step_ik_29",
+              "type": "choice",
+              "content": "还是不要多嘴了",
+              "group": "共通2"
+            },
+            {
+              "id": "step_ik_30",
+              "type": "choice",
+              "content": "郁",
+              "group": "共通2"
+            },
+            {
+              "id": "step_ik_31",
+              "type": "choice",
+              "content": "不要以卵击石了",
+              "group": "共通2"
+            },
+            {
+              "id": "step_ik_32",
+              "type": "choice",
+              "content": "夸奖郁",
+              "group": "共通2"
+            },
+            {
+              "id": "step_ik_33",
+              "type": "choice",
+              "content": "一起回去│郁",
+              "group": "共通2"
+            },
+            {
+              "id": "step_ik_34",
+              "type": "choice",
+              "content": "关于穿着",
+              "prefix": "★",
+              "group": "共通2"
+            },
+            {
+              "id": "step_ik_35",
+              "type": "choice",
+              "content": "气味挺香的",
+              "group": "共通2"
+            },
+            {
+              "id": "step_ik_36",
+              "type": "choice",
+              "content": "关于成績",
+              "prefix": "★",
+              "group": "共通2"
+            },
+            {
+              "id": "step_ik_37",
+              "type": "choice",
+              "content": "郁好厉害",
+              "group": "共通2"
+            },
+            {
+              "id": "step_ik_38",
+              "type": "choice",
+              "content": "半信半疑",
+              "group": "共通2"
+            },
+            {
+              "id": "step_ik_39",
+              "type": "choice",
+              "content": "身材",
+              "group": "共通3"
+            },
+            {
+              "id": "step_ik_40",
+              "type": "choice",
+              "content": "坦率地回答",
+              "group": "共通3"
+            },
+            {
+              "id": "step_ik_41",
+              "type": "choice",
+              "content": "顺着她说",
+              "group": "共通3"
+            },
+            {
+              "id": "step_ik_42",
+              "type": "choice",
+              "content": "兎鞠",
+              "group": "共通3"
+            },
+            {
+              "id": "step_ik_43",
+              "type": "choice",
+              "content": "果断地拒绝",
+              "group": "共通3"
+            },
+            {
+              "id": "step_ik_44",
+              "type": "choice",
+              "content": "坦率地承认",
+              "group": "共通3"
+            },
+            {
+              "id": "step_ik_45",
+              "type": "choice",
+              "content": "一起回去│郁",
+              "group": "共通3"
+            },
+            {
+              "id": "step_ik_46",
+              "type": "choice",
+              "content": "要是养宠物的话",
+              "prefix": "★",
+              "group": "共通3"
+            },
+            {
+              "id": "step_ik_47",
+              "type": "choice",
+              "content": "偶尔的话……",
+              "group": "共通3"
+            },
+            {
+              "id": "step_ik_48",
+              "type": "choice",
+              "content": "现在想做的事",
+              "prefix": "★",
+              "group": "共通3"
+            },
+            {
+              "id": "step_ik_49",
+              "type": "choice",
+              "content": "备受感動",
+              "group": "共通3"
+            },
+            {
+              "id": "step_ik_50",
+              "type": "choice",
+              "content": "已经忘了",
+              "group": "共通3"
+            },
+            {
+              "id": "step_ik_51",
+              "type": "choice",
+              "content": "只凭这点还不能确认",
+              "group": "共通4"
+            },
+            {
+              "id": "step_ik_52",
+              "type": "choice",
+              "content": "道歉",
+              "group": "共通4"
+            },
+            {
+              "id": "step_ik_53",
+              "type": "choice",
+              "content": "郁",
+              "group": "共通4"
+            },
+            {
+              "id": "step_ik_54",
+              "type": "choice",
+              "content": "蒙混过去",
+              "group": "共通4"
+            },
+            {
+              "id": "step_ik_55",
+              "type": "choice",
+              "content": "太可惜了",
+              "group": "共通4"
+            },
+            {
+              "id": "step_ik_56",
+              "type": "choice",
+              "content": "没兴趣",
+              "group": "共通4"
+            },
+            {
+              "id": "step_ik_57",
+              "type": "choice",
+              "content": "一起回去│郁",
+              "group": "共通4"
+            },
+            {
+              "id": "step_ik_58",
+              "type": "choice",
+              "content": "现在大家一起出门的话",
+              "prefix": "★",
+              "group": "共通4"
+            },
+            {
+              "id": "step_ik_59",
+              "type": "choice",
+              "content": "暑假是个机会",
+              "group": "共通4"
+            },
+            {
+              "id": "step_ik_60",
+              "type": "choice",
+              "content": "放松的方法",
+              "prefix": "★",
+              "group": "共通4"
+            },
+            {
+              "id": "step_ik_61",
+              "type": "choice",
+              "content": "到时候会拜托你的",
+              "group": "共通4"
+            },
+            {
+              "id": "step_ik_62",
+              "type": "choice",
+              "content": "是在说谁？",
+              "group": "共通5"
+            },
+            {
+              "id": "step_ik_63",
+              "type": "choice",
+              "content": "起码想让她先听听我的解释",
+              "group": "共通5"
+            },
+            {
+              "id": "step_ik_64",
+              "type": "choice",
+              "content": "郁那边的情况反倒让人有点感动",
+              "group": "共通5"
+            },
+            {
+              "id": "step_ik_65",
+              "type": "choice",
+              "content": "这句话已经够沉重了！",
+              "group": "共通5"
+            },
+            {
+              "id": "step_ik_66",
+              "type": "choice",
+              "content": "指名郁",
+              "group": "共通5"
+            },
+            {
+              "id": "step_ik_67",
+              "type": "choice",
+              "content": "别再把事态复杂化了",
+              "group": "共通5"
+            },
+            {
+              "id": "step_ik_68",
+              "type": "choice",
+              "content": "一起回去│郁",
+              "group": "共通5"
+            },
+            {
+              "id": "step_ik_69",
+              "type": "choice",
+              "content": "在乎的异性",
+              "prefix": "★",
+              "group": "共通5"
+            },
+            {
+              "id": "step_ik_70",
+              "type": "choice",
+              "content": "关于小时候的约定",
+              "prefix": "★",
+              "group": "共通5"
+            },
+            {
+              "id": "step_ik_71",
+              "type": "choice",
+              "content": "不管是怎样的郁我都喜欢",
+              "group": "所沢 郁 02"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1756 @@
+{
+  "vid": "v2745",
+  "name": {
+    "zh-cn": "苍蓝的水滴-来自眼泪的呼唤-",
+    "ja-jp": "青と蒼のしずく-a calling from tears-",
+    "ja-Latn": "ao-to-ao-no-shizuku"
+  },
+  "level": 2,
+  "updatedAt": "2026-03-30",
+  "routes": [
+    {
+      "id": "route_aika",
+      "name": "岬爱夏",
+      "endings": [
+        {
+          "id": "ending_aika_end1",
+          "name": "岬爱夏 END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_aika_n_001",
+              "type": "choice",
+              "content": "美貌",
+              "group": "6/2"
+            },
+            {
+              "id": "step_aika_n_002",
+              "type": "choice",
+              "content": "天台",
+              "group": "6/2"
+            },
+            {
+              "id": "step_aika_n_003",
+              "type": "choice",
+              "content": "不，还是就这样直接回去吧",
+              "group": "6/2"
+            },
+            {
+              "id": "step_aika_n_004",
+              "type": "choice",
+              "content": "走廊",
+              "group": "6/3"
+            },
+            {
+              "id": "step_aika_n_005",
+              "type": "choice",
+              "content": "教室",
+              "group": "6/3"
+            },
+            {
+              "id": "step_aika_n_006",
+              "type": "choice",
+              "content": "走廊",
+              "group": "6/4"
+            },
+            {
+              "id": "step_aika_n_007",
+              "type": "choice",
+              "content": "校门前",
+              "group": "6/4"
+            },
+            {
+              "id": "step_aika_n_008",
+              "type": "choice",
+              "content": "商店街",
+              "group": "6/4"
+            },
+            {
+              "id": "step_aika_n_009",
+              "type": "choice",
+              "content": "抱歉，爱夏",
+              "group": "6/5"
+            },
+            {
+              "id": "step_aika_n_010",
+              "type": "choice",
+              "content": "教室",
+              "group": "6/6"
+            },
+            {
+              "id": "step_aika_n_011",
+              "type": "choice",
+              "content": "野上公园",
+              "group": "6/8"
+            },
+            {
+              "id": "step_aika_n_012",
+              "type": "choice",
+              "content": "商店街",
+              "group": "6/8"
+            },
+            {
+              "id": "step_aika_n_013",
+              "type": "choice",
+              "content": "教室",
+              "group": "6/9"
+            },
+            {
+              "id": "step_aika_n_014",
+              "type": "choice",
+              "content": "走廊",
+              "group": "6/10"
+            },
+            {
+              "id": "step_aika_n_015",
+              "type": "choice",
+              "content": "反驳",
+              "group": "6/10"
+            },
+            {
+              "id": "step_aika_n_016",
+              "type": "choice",
+              "content": "商店街",
+              "group": "6/10"
+            },
+            {
+              "id": "step_aika_n_017",
+              "type": "choice",
+              "content": "对小丫头没兴趣",
+              "group": "6/10"
+            },
+            {
+              "id": "step_aika_n_018",
+              "type": "choice",
+              "content": "走廊",
+              "group": "6/11"
+            },
+            {
+              "id": "step_aika_n_019",
+              "type": "choice",
+              "content": "（不帮忙）",
+              "group": "6/11"
+            },
+            {
+              "id": "step_aika_n_020",
+              "type": "choice",
+              "content": "教室",
+              "group": "6/12"
+            },
+            {
+              "id": "step_aika_n_021",
+              "type": "choice",
+              "content": "商量",
+              "group": "6/13"
+            },
+            {
+              "id": "step_aika_n_022",
+              "type": "choice",
+              "content": "没办法和果好好相处……",
+              "group": "6/13"
+            },
+            {
+              "id": "step_aika_n_023",
+              "type": "choice",
+              "content": "野上公园",
+              "group": "6/15"
+            },
+            {
+              "id": "step_aika_n_024",
+              "type": "choice",
+              "content": "她说不在，那应该就是不在吧",
+              "group": "6/15"
+            },
+            {
+              "id": "step_aika_n_025",
+              "type": "choice",
+              "content": "教室",
+              "group": "6/18"
+            },
+            {
+              "id": "step_aika_n_026",
+              "type": "choice",
+              "content": "命运工作室",
+              "group": "6/22"
+            },
+            {
+              "id": "step_aika_n_027",
+              "type": "choice",
+              "content": "……我喜欢你……",
+              "group": "6/27"
+            },
+            {
+              "id": "step_aika_n_028",
+              "type": "choice",
+              "content": "追问爱夏",
+              "group": "7/4"
+            },
+            {
+              "id": "step_aika_n_029",
+              "type": "choice",
+              "content": "去追爱夏",
+              "group": "7/7"
+            },
+            {
+              "id": "step_aika_n_030",
+              "type": "choice",
+              "content": "爱夏，对不起",
+              "group": "7/7"
+            }
+          ]
+        },
+        {
+          "id": "ending_aika_end2",
+          "name": "岬爱夏 END2",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_aika_t_001",
+              "type": "choice",
+              "content": "美貌",
+              "group": "6/2"
+            },
+            {
+              "id": "step_aika_t_002",
+              "type": "choice",
+              "content": "天台",
+              "group": "6/2"
+            },
+            {
+              "id": "step_aika_t_003",
+              "type": "choice",
+              "content": "不，还是就这样直接回去吧",
+              "group": "6/2"
+            },
+            {
+              "id": "step_aika_t_004",
+              "type": "choice",
+              "content": "走廊",
+              "group": "6/3"
+            },
+            {
+              "id": "step_aika_t_005",
+              "type": "choice",
+              "content": "教室",
+              "group": "6/3"
+            },
+            {
+              "id": "step_aika_t_006",
+              "type": "choice",
+              "content": "走廊",
+              "group": "6/4"
+            },
+            {
+              "id": "step_aika_t_007",
+              "type": "choice",
+              "content": "校门前",
+              "group": "6/4"
+            },
+            {
+              "id": "step_aika_t_008",
+              "type": "choice",
+              "content": "商店街",
+              "group": "6/4"
+            },
+            {
+              "id": "step_aika_t_009",
+              "type": "choice",
+              "content": "抱歉，爱夏",
+              "group": "6/5"
+            },
+            {
+              "id": "step_aika_t_010",
+              "type": "choice",
+              "content": "教室",
+              "group": "6/6"
+            },
+            {
+              "id": "step_aika_t_011",
+              "type": "choice",
+              "content": "野上公园",
+              "group": "6/8"
+            },
+            {
+              "id": "step_aika_t_012",
+              "type": "choice",
+              "content": "商店街",
+              "group": "6/8"
+            },
+            {
+              "id": "step_aika_t_013",
+              "type": "choice",
+              "content": "教室",
+              "group": "6/9"
+            },
+            {
+              "id": "step_aika_t_014",
+              "type": "choice",
+              "content": "走廊",
+              "group": "6/10"
+            },
+            {
+              "id": "step_aika_t_015",
+              "type": "choice",
+              "content": "反驳",
+              "group": "6/10"
+            },
+            {
+              "id": "step_aika_t_016",
+              "type": "choice",
+              "content": "商店街",
+              "group": "6/10"
+            },
+            {
+              "id": "step_aika_t_017",
+              "type": "choice",
+              "content": "对小丫头没兴趣",
+              "group": "6/10"
+            },
+            {
+              "id": "step_aika_t_018",
+              "type": "choice",
+              "content": "走廊",
+              "group": "6/11"
+            },
+            {
+              "id": "step_aika_t_019",
+              "type": "choice",
+              "content": "（不帮忙）",
+              "group": "6/11"
+            },
+            {
+              "id": "step_aika_t_020",
+              "type": "choice",
+              "content": "教室",
+              "group": "6/12"
+            },
+            {
+              "id": "step_aika_t_021",
+              "type": "choice",
+              "content": "商量",
+              "group": "6/13"
+            },
+            {
+              "id": "step_aika_t_022",
+              "type": "choice",
+              "content": "没办法和果好好相处……",
+              "group": "6/13"
+            },
+            {
+              "id": "step_aika_t_023",
+              "type": "choice",
+              "content": "野上公园",
+              "group": "6/15"
+            },
+            {
+              "id": "step_aika_t_024",
+              "type": "choice",
+              "content": "她说不在，那应该就是不在吧",
+              "group": "6/15"
+            },
+            {
+              "id": "step_aika_t_025",
+              "type": "choice",
+              "content": "教室",
+              "group": "6/18"
+            },
+            {
+              "id": "step_aika_t_026",
+              "type": "choice",
+              "content": "命运工作室",
+              "group": "6/22"
+            },
+            {
+              "id": "step_aika_t_027",
+              "type": "choice",
+              "content": "……我喜欢你……",
+              "group": "6/27"
+            },
+            {
+              "id": "step_aika_t_028",
+              "type": "choice",
+              "content": "追问爱夏",
+              "group": "7/4"
+            },
+            {
+              "id": "step_aika_t_029",
+              "type": "choice",
+              "content": "去追爱夏",
+              "group": "7/7"
+            },
+            {
+              "id": "step_aika_t_030",
+              "type": "choice",
+              "content": "爱夏，我想要你",
+              "group": "7/7"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_konomi",
+      "name": "鸣时果",
+      "endings": [
+        {
+          "id": "ending_konomi_end1",
+          "name": "鸣时果 END1",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_konomi_b_001",
+              "type": "choice",
+              "content": "美貌",
+              "group": "6/2"
+            },
+            {
+              "id": "step_konomi_b_002",
+              "type": "choice",
+              "content": "教室",
+              "group": "6/2"
+            },
+            {
+              "id": "step_konomi_b_003",
+              "type": "choice",
+              "content": "不，还是就这样直接回去吧",
+              "group": "6/2"
+            },
+            {
+              "id": "step_konomi_b_004",
+              "type": "choice",
+              "content": "走廊",
+              "group": "6/3"
+            },
+            {
+              "id": "step_konomi_b_005",
+              "type": "choice",
+              "content": "教室",
+              "group": "6/3"
+            },
+            {
+              "id": "step_konomi_b_006",
+              "type": "choice",
+              "content": "走廊",
+              "group": "6/4"
+            },
+            {
+              "id": "step_konomi_b_007",
+              "type": "choice",
+              "content": "校门前",
+              "group": "6/4"
+            },
+            {
+              "id": "step_konomi_b_008",
+              "type": "choice",
+              "content": "商店街",
+              "group": "6/4"
+            },
+            {
+              "id": "step_konomi_b_009",
+              "type": "choice",
+              "content": "抱歉，爱夏",
+              "group": "6/5"
+            },
+            {
+              "id": "step_konomi_b_010",
+              "type": "choice",
+              "content": "教室",
+              "group": "6/6"
+            },
+            {
+              "id": "step_konomi_b_011",
+              "type": "choice",
+              "content": "商店街",
+              "group": "6/8"
+            },
+            {
+              "id": "step_konomi_b_012",
+              "type": "choice",
+              "content": "野上公园",
+              "group": "6/8"
+            },
+            {
+              "id": "step_konomi_b_013",
+              "type": "choice",
+              "content": "教室",
+              "group": "6/9"
+            },
+            {
+              "id": "step_konomi_b_014",
+              "type": "choice",
+              "content": "走廊",
+              "group": "6/10"
+            },
+            {
+              "id": "step_konomi_b_015",
+              "type": "choice",
+              "content": "不反驳",
+              "group": "6/10"
+            },
+            {
+              "id": "step_konomi_b_016",
+              "type": "choice",
+              "content": "商店街",
+              "group": "6/10"
+            },
+            {
+              "id": "step_konomi_b_017",
+              "type": "choice",
+              "content": "我对果这个年纪的女孩子很感兴趣",
+              "group": "6/10"
+            },
+            {
+              "id": "step_konomi_b_018",
+              "type": "choice",
+              "content": "走廊",
+              "group": "6/11"
+            },
+            {
+              "id": "step_konomi_b_019",
+              "type": "choice",
+              "content": "（不帮忙）",
+              "group": "6/11"
+            },
+            {
+              "id": "step_konomi_b_020",
+              "type": "choice",
+              "content": "走廊",
+              "group": "6/12"
+            },
+            {
+              "id": "step_konomi_b_021",
+              "type": "choice",
+              "content": "努力和果搞好关系吧",
+              "group": "6/13"
+            },
+            {
+              "id": "step_konomi_b_022",
+              "type": "choice",
+              "content": "回房间睡觉",
+              "group": "6/15"
+            }
+          ]
+        },
+        {
+          "id": "ending_konomi_end2",
+          "name": "鸣时果 END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_konomi_n_001",
+              "type": "choice",
+              "content": "美貌",
+              "group": "6/2"
+            },
+            {
+              "id": "step_konomi_n_002",
+              "type": "choice",
+              "content": "教室",
+              "group": "6/2"
+            },
+            {
+              "id": "step_konomi_n_003",
+              "type": "choice",
+              "content": "不，还是就这样直接回去吧",
+              "group": "6/2"
+            },
+            {
+              "id": "step_konomi_n_004",
+              "type": "choice",
+              "content": "走廊",
+              "group": "6/3"
+            },
+            {
+              "id": "step_konomi_n_005",
+              "type": "choice",
+              "content": "教室",
+              "group": "6/3"
+            },
+            {
+              "id": "step_konomi_n_006",
+              "type": "choice",
+              "content": "走廊",
+              "group": "6/4"
+            },
+            {
+              "id": "step_konomi_n_007",
+              "type": "choice",
+              "content": "校门前",
+              "group": "6/4"
+            },
+            {
+              "id": "step_konomi_n_008",
+              "type": "choice",
+              "content": "商店街",
+              "group": "6/4"
+            },
+            {
+              "id": "step_konomi_n_009",
+              "type": "choice",
+              "content": "抱歉，爱夏",
+              "group": "6/5"
+            },
+            {
+              "id": "step_konomi_n_010",
+              "type": "choice",
+              "content": "教室",
+              "group": "6/6"
+            },
+            {
+              "id": "step_konomi_n_011",
+              "type": "choice",
+              "content": "商店街",
+              "group": "6/8"
+            },
+            {
+              "id": "step_konomi_n_012",
+              "type": "choice",
+              "content": "野上公园",
+              "group": "6/8"
+            },
+            {
+              "id": "step_konomi_n_013",
+              "type": "choice",
+              "content": "教室",
+              "group": "6/9"
+            },
+            {
+              "id": "step_konomi_n_014",
+              "type": "choice",
+              "content": "走廊",
+              "group": "6/10"
+            },
+            {
+              "id": "step_konomi_n_015",
+              "type": "choice",
+              "content": "不反驳",
+              "group": "6/10"
+            },
+            {
+              "id": "step_konomi_n_016",
+              "type": "choice",
+              "content": "商店街",
+              "group": "6/10"
+            },
+            {
+              "id": "step_konomi_n_017",
+              "type": "choice",
+              "content": "我对果这个年纪的女孩子很感兴趣",
+              "group": "6/10"
+            },
+            {
+              "id": "step_konomi_n_018",
+              "type": "choice",
+              "content": "走廊",
+              "group": "6/11"
+            },
+            {
+              "id": "step_konomi_n_019",
+              "type": "choice",
+              "content": "（不帮忙）",
+              "group": "6/11"
+            },
+            {
+              "id": "step_konomi_n_020",
+              "type": "choice",
+              "content": "走廊",
+              "group": "6/12"
+            },
+            {
+              "id": "step_konomi_n_021",
+              "type": "choice",
+              "content": "努力和果搞好关系吧",
+              "group": "6/13"
+            },
+            {
+              "id": "step_konomi_n_022",
+              "type": "choice",
+              "content": "做饭",
+              "group": "6/15"
+            },
+            {
+              "id": "step_konomi_n_023",
+              "type": "choice",
+              "content": "家里",
+              "group": "6/22"
+            },
+            {
+              "id": "step_konomi_n_024",
+              "type": "choice",
+              "content": "蛋包饭",
+              "group": "7/6"
+            },
+            {
+              "id": "step_konomi_n_025",
+              "type": "choice",
+              "content": "再休息一会儿再开始找",
+              "group": "7/7"
+            }
+          ]
+        },
+        {
+          "id": "ending_konomi_end3",
+          "name": "鸣时果 END3",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_konomi_t_001",
+              "type": "choice",
+              "content": "美貌",
+              "group": "6/2"
+            },
+            {
+              "id": "step_konomi_t_002",
+              "type": "choice",
+              "content": "教室",
+              "group": "6/2"
+            },
+            {
+              "id": "step_konomi_t_003",
+              "type": "choice",
+              "content": "不，还是就这样直接回去吧",
+              "group": "6/2"
+            },
+            {
+              "id": "step_konomi_t_004",
+              "type": "choice",
+              "content": "走廊",
+              "group": "6/3"
+            },
+            {
+              "id": "step_konomi_t_005",
+              "type": "choice",
+              "content": "教室",
+              "group": "6/3"
+            },
+            {
+              "id": "step_konomi_t_006",
+              "type": "choice",
+              "content": "走廊",
+              "group": "6/4"
+            },
+            {
+              "id": "step_konomi_t_007",
+              "type": "choice",
+              "content": "校门前",
+              "group": "6/4"
+            },
+            {
+              "id": "step_konomi_t_008",
+              "type": "choice",
+              "content": "商店街",
+              "group": "6/4"
+            },
+            {
+              "id": "step_konomi_t_009",
+              "type": "choice",
+              "content": "抱歉，爱夏",
+              "group": "6/5"
+            },
+            {
+              "id": "step_konomi_t_010",
+              "type": "choice",
+              "content": "教室",
+              "group": "6/6"
+            },
+            {
+              "id": "step_konomi_t_011",
+              "type": "choice",
+              "content": "商店街",
+              "group": "6/8"
+            },
+            {
+              "id": "step_konomi_t_012",
+              "type": "choice",
+              "content": "野上公园",
+              "group": "6/8"
+            },
+            {
+              "id": "step_konomi_t_013",
+              "type": "choice",
+              "content": "教室",
+              "group": "6/9"
+            },
+            {
+              "id": "step_konomi_t_014",
+              "type": "choice",
+              "content": "走廊",
+              "group": "6/10"
+            },
+            {
+              "id": "step_konomi_t_015",
+              "type": "choice",
+              "content": "不反驳",
+              "group": "6/10"
+            },
+            {
+              "id": "step_konomi_t_016",
+              "type": "choice",
+              "content": "商店街",
+              "group": "6/10"
+            },
+            {
+              "id": "step_konomi_t_017",
+              "type": "choice",
+              "content": "我对果这个年纪的女孩子很感兴趣",
+              "group": "6/10"
+            },
+            {
+              "id": "step_konomi_t_018",
+              "type": "choice",
+              "content": "走廊",
+              "group": "6/11"
+            },
+            {
+              "id": "step_konomi_t_019",
+              "type": "choice",
+              "content": "（不帮忙）",
+              "group": "6/11"
+            },
+            {
+              "id": "step_konomi_t_020",
+              "type": "choice",
+              "content": "走廊",
+              "group": "6/12"
+            },
+            {
+              "id": "step_konomi_t_021",
+              "type": "choice",
+              "content": "努力和果搞好关系吧",
+              "group": "6/13"
+            },
+            {
+              "id": "step_konomi_t_022",
+              "type": "choice",
+              "content": "做饭",
+              "group": "6/15"
+            },
+            {
+              "id": "step_konomi_t_023",
+              "type": "choice",
+              "content": "家里",
+              "group": "6/22"
+            },
+            {
+              "id": "step_konomi_t_024",
+              "type": "choice",
+              "content": "蛋包饭",
+              "group": "7/6"
+            },
+            {
+              "id": "step_konomi_t_025",
+              "type": "choice",
+              "content": "因为担心，马上开始找",
+              "group": "7/7"
+            },
+            {
+              "id": "step_konomi_t_026",
+              "type": "choice",
+              "content": "不答应士郎先生的请求",
+              "group": "7/17"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_rion",
+      "name": "深町璃音",
+      "endings": [
+        {
+          "id": "ending_rion_end",
+          "name": "深町璃音 END",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_rion_001",
+              "type": "choice",
+              "content": "美貌",
+              "group": "6/2"
+            },
+            {
+              "id": "step_rion_002",
+              "type": "choice",
+              "content": "教室",
+              "group": "6/2"
+            },
+            {
+              "id": "step_rion_003",
+              "type": "choice",
+              "content": "也是，我也正闲着，就去商店街吧",
+              "group": "6/2"
+            },
+            {
+              "id": "step_rion_004",
+              "type": "choice",
+              "content": "买",
+              "group": "6/2"
+            },
+            {
+              "id": "step_rion_005",
+              "type": "choice",
+              "content": "走廊",
+              "group": "6/3"
+            },
+            {
+              "id": "step_rion_007",
+              "type": "choice",
+              "content": "帮忙",
+              "group": "6/3"
+            },
+            {
+              "id": "step_rion_008",
+              "type": "choice",
+              "content": "图书室",
+              "group": "6/4"
+            },
+            {
+              "id": "step_rion_010",
+              "type": "choice",
+              "content": "商店街",
+              "group": "6/4"
+            },
+            {
+              "id": "step_rion_011",
+              "type": "choice",
+              "content": "抱歉，爱夏",
+              "group": "6/5"
+            },
+            {
+              "id": "step_rion_012",
+              "type": "choice",
+              "content": "图书室",
+              "group": "6/6"
+            },
+            {
+              "id": "step_rion_013",
+              "type": "choice",
+              "content": "也许说了伤人的话，先道歉",
+              "group": "6/6"
+            },
+            {
+              "id": "step_rion_014",
+              "type": "choice",
+              "content": "教室",
+              "group": "6/6"
+            },
+            {
+              "id": "step_rion_015",
+              "type": "choice",
+              "content": "商店街",
+              "group": "6/8"
+            },
+            {
+              "id": "step_rion_016",
+              "type": "choice",
+              "content": "野上公园",
+              "group": "6/8"
+            },
+            {
+              "id": "step_rion_017",
+              "type": "choice",
+              "content": "图书室",
+              "group": "6/9"
+            },
+            {
+              "id": "step_rion_018",
+              "type": "choice",
+              "content": "图书室",
+              "group": "6/10"
+            },
+            {
+              "id": "step_rion_019",
+              "type": "choice",
+              "content": "宇论堂",
+              "group": "6/10"
+            },
+            {
+              "id": "step_rion_020",
+              "type": "choice",
+              "content": "对小丫头没兴趣",
+              "group": "6/10"
+            },
+            {
+              "id": "step_rion_021",
+              "type": "choice",
+              "content": "图书室",
+              "group": "6/11"
+            },
+            {
+              "id": "step_rion_022",
+              "type": "choice",
+              "content": "（不帮忙）",
+              "group": "6/11"
+            },
+            {
+              "id": "step_rion_023",
+              "type": "choice",
+              "content": "没办法和果好好相处……",
+              "group": "6/13"
+            },
+            {
+              "id": "step_rion_024",
+              "type": "choice",
+              "content": "野上公园",
+              "group": "6/15"
+            },
+            {
+              "id": "step_rion_025",
+              "type": "choice",
+              "content": "图书室",
+              "group": "6/18"
+            },
+            {
+              "id": "step_rion_026",
+              "type": "choice",
+              "content": "宇论堂",
+              "group": "6/22"
+            },
+            {
+              "id": "step_rion_027",
+              "type": "choice",
+              "content": "去找璃音",
+              "group": "7/7"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_ayano",
+      "name": "白柳绫乃",
+      "endings": [
+        {
+          "id": "ending_ayano_end1",
+          "name": "白柳绫乃 END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_ayano_n_001",
+              "type": "choice",
+              "content": "美貌",
+              "group": "6/2"
+            },
+            {
+              "id": "step_ayano_n_002",
+              "type": "choice",
+              "content": "天台",
+              "group": "6/2"
+            },
+            {
+              "id": "step_ayano_n_003",
+              "type": "choice",
+              "content": "不，还是就这样直接回去吧",
+              "group": "6/2"
+            },
+            {
+              "id": "step_ayano_n_004",
+              "type": "choice",
+              "content": "天台",
+              "group": "6/3"
+            },
+            {
+              "id": "step_ayano_n_005",
+              "type": "choice",
+              "content": "教室",
+              "group": "6/3"
+            },
+            {
+              "id": "step_ayano_n_006",
+              "type": "choice",
+              "content": "走廊",
+              "group": "6/4"
+            },
+            {
+              "id": "step_ayano_n_007",
+              "type": "choice",
+              "content": "校门前",
+              "group": "6/4"
+            },
+            {
+              "id": "step_ayano_n_008",
+              "type": "choice",
+              "content": "野上公园",
+              "group": "6/4"
+            },
+            {
+              "id": "step_ayano_n_009",
+              "type": "choice",
+              "content": "猫的一个品种。",
+              "group": "6/4"
+            },
+            {
+              "id": "step_ayano_n_010",
+              "type": "choice",
+              "content": "抱歉，爱夏",
+              "group": "6/5"
+            },
+            {
+              "id": "step_ayano_n_011",
+              "type": "choice",
+              "content": "教室",
+              "group": "6/6"
+            },
+            {
+              "id": "step_ayano_n_012",
+              "type": "choice",
+              "content": "大概明白",
+              "group": "6/6"
+            },
+            {
+              "id": "step_ayano_n_013",
+              "type": "choice",
+              "content": "天台",
+              "group": "6/6"
+            },
+            {
+              "id": "step_ayano_n_014",
+              "type": "choice",
+              "content": "观景台",
+              "group": "6/8"
+            },
+            {
+              "id": "step_ayano_n_015",
+              "type": "choice",
+              "content": "野上公园",
+              "group": "6/8"
+            },
+            {
+              "id": "step_ayano_n_016",
+              "type": "choice",
+              "content": "走廊",
+              "group": "6/9"
+            },
+            {
+              "id": "step_ayano_n_017",
+              "type": "choice",
+              "content": "教室",
+              "group": "6/10"
+            },
+            {
+              "id": "step_ayano_n_018",
+              "type": "choice",
+              "content": "野上公园",
+              "group": "6/10"
+            },
+            {
+              "id": "step_ayano_n_019",
+              "type": "choice",
+              "content": "对小丫头没兴趣",
+              "group": "6/10"
+            },
+            {
+              "id": "step_ayano_n_020",
+              "type": "choice",
+              "content": "天台",
+              "group": "6/11"
+            },
+            {
+              "id": "step_ayano_n_021",
+              "type": "choice",
+              "content": "会被原谅",
+              "group": "6/11"
+            },
+            {
+              "id": "step_ayano_n_022",
+              "type": "choice",
+              "content": "（不帮忙）",
+              "group": "6/11"
+            },
+            {
+              "id": "step_ayano_n_023",
+              "type": "choice",
+              "content": "校门前",
+              "group": "6/12"
+            },
+            {
+              "id": "step_ayano_n_024",
+              "type": "choice",
+              "content": "同意",
+              "group": "6/13"
+            },
+            {
+              "id": "step_ayano_n_025",
+              "type": "choice",
+              "content": "没办法和果好好相处……",
+              "group": "6/13"
+            },
+            {
+              "id": "step_ayano_n_026",
+              "type": "choice",
+              "content": "观景台",
+              "group": "6/15"
+            },
+            {
+              "id": "step_ayano_n_027",
+              "type": "choice",
+              "content": "天台",
+              "group": "6/18"
+            },
+            {
+              "id": "step_ayano_n_028",
+              "type": "choice",
+              "content": "商店街",
+              "group": "6/22"
+            },
+            {
+              "id": "step_ayano_n_029",
+              "type": "save",
+              "content": "SAVE 1",
+              "group": "7/7"
+            },
+            {
+              "id": "step_ayano_n_030",
+              "type": "choice",
+              "content": "石姬神社",
+              "group": "7/7"
+            }
+          ]
+        },
+        {
+          "id": "ending_ayano_end2",
+          "name": "白柳绫乃 END2",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_ayano_t_001",
+              "type": "choice",
+              "content": "美貌",
+              "group": "6/2"
+            },
+            {
+              "id": "step_ayano_t_002",
+              "type": "choice",
+              "content": "天台",
+              "group": "6/2"
+            },
+            {
+              "id": "step_ayano_t_003",
+              "type": "choice",
+              "content": "不，还是就这样直接回去吧",
+              "group": "6/2"
+            },
+            {
+              "id": "step_ayano_t_004",
+              "type": "choice",
+              "content": "天台",
+              "group": "6/3"
+            },
+            {
+              "id": "step_ayano_t_005",
+              "type": "choice",
+              "content": "教室",
+              "group": "6/3"
+            },
+            {
+              "id": "step_ayano_t_006",
+              "type": "choice",
+              "content": "走廊",
+              "group": "6/4"
+            },
+            {
+              "id": "step_ayano_t_007",
+              "type": "choice",
+              "content": "校门前",
+              "group": "6/4"
+            },
+            {
+              "id": "step_ayano_t_008",
+              "type": "choice",
+              "content": "野上公园",
+              "group": "6/4"
+            },
+            {
+              "id": "step_ayano_t_009",
+              "type": "choice",
+              "content": "猫的一个品种。",
+              "group": "6/4"
+            },
+            {
+              "id": "step_ayano_t_010",
+              "type": "choice",
+              "content": "抱歉，爱夏",
+              "group": "6/5"
+            },
+            {
+              "id": "step_ayano_t_011",
+              "type": "choice",
+              "content": "教室",
+              "group": "6/6"
+            },
+            {
+              "id": "step_ayano_t_012",
+              "type": "choice",
+              "content": "大概明白",
+              "group": "6/6"
+            },
+            {
+              "id": "step_ayano_t_013",
+              "type": "choice",
+              "content": "天台",
+              "group": "6/6"
+            },
+            {
+              "id": "step_ayano_t_014",
+              "type": "choice",
+              "content": "观景台",
+              "group": "6/8"
+            },
+            {
+              "id": "step_ayano_t_015",
+              "type": "choice",
+              "content": "野上公园",
+              "group": "6/8"
+            },
+            {
+              "id": "step_ayano_t_016",
+              "type": "choice",
+              "content": "走廊",
+              "group": "6/9"
+            },
+            {
+              "id": "step_ayano_t_017",
+              "type": "choice",
+              "content": "教室",
+              "group": "6/10"
+            },
+            {
+              "id": "step_ayano_t_018",
+              "type": "choice",
+              "content": "野上公园",
+              "group": "6/10"
+            },
+            {
+              "id": "step_ayano_t_019",
+              "type": "choice",
+              "content": "对小丫头没兴趣",
+              "group": "6/10"
+            },
+            {
+              "id": "step_ayano_t_020",
+              "type": "choice",
+              "content": "天台",
+              "group": "6/11"
+            },
+            {
+              "id": "step_ayano_t_021",
+              "type": "choice",
+              "content": "会被原谅",
+              "group": "6/11"
+            },
+            {
+              "id": "step_ayano_t_022",
+              "type": "choice",
+              "content": "（不帮忙）",
+              "group": "6/11"
+            },
+            {
+              "id": "step_ayano_t_023",
+              "type": "choice",
+              "content": "校门前",
+              "group": "6/12"
+            },
+            {
+              "id": "step_ayano_t_024",
+              "type": "choice",
+              "content": "同意",
+              "group": "6/13"
+            },
+            {
+              "id": "step_ayano_t_025",
+              "type": "choice",
+              "content": "没办法和果好好相处……",
+              "group": "6/13"
+            },
+            {
+              "id": "step_ayano_t_026",
+              "type": "choice",
+              "content": "观景台",
+              "group": "6/15"
+            },
+            {
+              "id": "step_ayano_t_027",
+              "type": "choice",
+              "content": "天台",
+              "group": "6/18"
+            },
+            {
+              "id": "step_ayano_t_028",
+              "type": "choice",
+              "content": "商店街",
+              "group": "6/22"
+            },
+            {
+              "id": "step_ayano_t_029",
+              "type": "load",
+              "content": "LOAD 1",
+              "group": "7/7"
+            },
+            {
+              "id": "step_ayano_t_030",
+              "type": "choice",
+              "content": "废弃车站",
+              "group": "7/7"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_lou",
+      "name": "露",
+      "endings": [
+        {
+          "id": "ending_lou_end1",
+          "name": "露 END1",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_lou_b_001",
+              "type": "choice",
+              "content": "美貌",
+              "group": "6/2"
+            },
+            {
+              "id": "step_lou_b_002",
+              "type": "choice",
+              "content": "教室",
+              "group": "6/2"
+            },
+            {
+              "id": "step_lou_b_003",
+              "type": "choice",
+              "content": "不，还是就这样直接回去吧",
+              "group": "6/2"
+            },
+            {
+              "id": "step_lou_b_004",
+              "type": "choice",
+              "content": "走廊",
+              "group": "6/3"
+            },
+            {
+              "id": "step_lou_b_005",
+              "type": "choice",
+              "content": "教室",
+              "group": "6/3"
+            },
+            {
+              "id": "step_lou_b_006",
+              "type": "choice",
+              "content": "走廊",
+              "group": "6/4"
+            },
+            {
+              "id": "step_lou_b_007",
+              "type": "choice",
+              "content": "校门前",
+              "group": "6/4"
+            },
+            {
+              "id": "step_lou_b_008",
+              "type": "choice",
+              "content": "商店街",
+              "group": "6/4"
+            },
+            {
+              "id": "step_lou_b_009",
+              "type": "choice",
+              "content": "抱歉，爱夏",
+              "group": "6/5"
+            },
+            {
+              "id": "step_lou_b_010",
+              "type": "choice",
+              "content": "教室",
+              "group": "6/6"
+            },
+            {
+              "id": "step_lou_b_011",
+              "type": "choice",
+              "content": "商店街",
+              "group": "6/8"
+            },
+            {
+              "id": "step_lou_b_012",
+              "type": "choice",
+              "content": "野上公园",
+              "group": "6/8"
+            },
+            {
+              "id": "step_lou_b_013",
+              "type": "choice",
+              "content": "教室",
+              "group": "6/9"
+            },
+            {
+              "id": "step_lou_b_014",
+              "type": "choice",
+              "content": "走廊",
+              "group": "6/10"
+            },
+            {
+              "id": "step_lou_b_015",
+              "type": "choice",
+              "content": "不反驳",
+              "group": "6/10"
+            },
+            {
+              "id": "step_lou_b_016",
+              "type": "choice",
+              "content": "商店街",
+              "group": "6/10"
+            },
+            {
+              "id": "step_lou_b_017",
+              "type": "choice",
+              "content": "对小丫头没兴趣",
+              "group": "6/10"
+            },
+            {
+              "id": "step_lou_b_018",
+              "type": "choice",
+              "content": "走廊",
+              "group": "6/11"
+            },
+            {
+              "id": "step_lou_b_019",
+              "type": "choice",
+              "content": "（帮忙）",
+              "group": "6/11"
+            },
+            {
+              "id": "step_lou_b_020",
+              "type": "choice",
+              "content": "天台",
+              "group": "6/12"
+            },
+            {
+              "id": "step_lou_b_021",
+              "type": "choice",
+              "content": "没办法和果好好相处……",
+              "group": "6/13"
+            },
+            {
+              "id": "step_lou_b_022",
+              "type": "choice",
+              "content": "商店街",
+              "group": "6/15"
+            },
+            {
+              "id": "step_lou_b_023",
+              "type": "choice",
+              "content": "从悬崖上推下去",
+              "group": "6/15"
+            },
+            {
+              "id": "step_lou_b_024",
+              "type": "choice",
+              "content": "走廊",
+              "group": "6/18"
+            },
+            {
+              "id": "step_lou_b_025",
+              "type": "choice",
+              "content": "和露聊天",
+              "group": "6/18"
+            },
+            {
+              "id": "step_lou_b_026",
+              "type": "choice",
+              "content": "野上公园",
+              "group": "6/22"
+            },
+            {
+              "id": "step_lou_b_027",
+              "type": "choice",
+              "content": "有点在意，去看看那个地方吧",
+              "group": "7/7"
+            },
+            {
+              "id": "step_lou_b_028",
+              "type": "choice",
+              "content": "就算告诉阿宏也解决不了",
+              "group": "7/8"
+            }
+          ]
+        },
+        {
+          "id": "ending_lou_end2",
+          "name": "露 END2",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_lou_t_001",
+              "type": "choice",
+              "content": "美貌",
+              "group": "6/2"
+            },
+            {
+              "id": "step_lou_t_002",
+              "type": "choice",
+              "content": "教室",
+              "group": "6/2"
+            },
+            {
+              "id": "step_lou_t_003",
+              "type": "choice",
+              "content": "不，还是就这样直接回去吧",
+              "group": "6/2"
+            },
+            {
+              "id": "step_lou_t_004",
+              "type": "choice",
+              "content": "走廊",
+              "group": "6/3"
+            },
+            {
+              "id": "step_lou_t_005",
+              "type": "choice",
+              "content": "教室",
+              "group": "6/3"
+            },
+            {
+              "id": "step_lou_t_006",
+              "type": "choice",
+              "content": "走廊",
+              "group": "6/4"
+            },
+            {
+              "id": "step_lou_t_007",
+              "type": "choice",
+              "content": "校门前",
+              "group": "6/4"
+            },
+            {
+              "id": "step_lou_t_008",
+              "type": "choice",
+              "content": "商店街",
+              "group": "6/4"
+            },
+            {
+              "id": "step_lou_t_009",
+              "type": "choice",
+              "content": "抱歉，爱夏",
+              "group": "6/5"
+            },
+            {
+              "id": "step_lou_t_010",
+              "type": "choice",
+              "content": "教室",
+              "group": "6/6"
+            },
+            {
+              "id": "step_lou_t_011",
+              "type": "choice",
+              "content": "商店街",
+              "group": "6/8"
+            },
+            {
+              "id": "step_lou_t_012",
+              "type": "choice",
+              "content": "野上公园",
+              "group": "6/8"
+            },
+            {
+              "id": "step_lou_t_013",
+              "type": "choice",
+              "content": "教室",
+              "group": "6/9"
+            },
+            {
+              "id": "step_lou_t_014",
+              "type": "choice",
+              "content": "走廊",
+              "group": "6/10"
+            },
+            {
+              "id": "step_lou_t_015",
+              "type": "choice",
+              "content": "不反驳",
+              "group": "6/10"
+            },
+            {
+              "id": "step_lou_t_016",
+              "type": "choice",
+              "content": "商店街",
+              "group": "6/10"
+            },
+            {
+              "id": "step_lou_t_017",
+              "type": "choice",
+              "content": "对小丫头没兴趣",
+              "group": "6/10"
+            },
+            {
+              "id": "step_lou_t_018",
+              "type": "choice",
+              "content": "走廊",
+              "group": "6/11"
+            },
+            {
+              "id": "step_lou_t_019",
+              "type": "choice",
+              "content": "（帮忙）",
+              "group": "6/11"
+            },
+            {
+              "id": "step_lou_t_020",
+              "type": "choice",
+              "content": "天台",
+              "group": "6/12"
+            },
+            {
+              "id": "step_lou_t_021",
+              "type": "choice",
+              "content": "没办法和果好好相处……",
+              "group": "6/13"
+            },
+            {
+              "id": "step_lou_t_022",
+              "type": "choice",
+              "content": "商店街",
+              "group": "6/15"
+            },
+            {
+              "id": "step_lou_t_023",
+              "type": "choice",
+              "content": "从悬崖上推下去",
+              "group": "6/15"
+            },
+            {
+              "id": "step_lou_t_024",
+              "type": "choice",
+              "content": "走廊",
+              "group": "6/18"
+            },
+            {
+              "id": "step_lou_t_025",
+              "type": "choice",
+              "content": "和露聊天",
+              "group": "6/18"
+            },
+            {
+              "id": "step_lou_t_026",
+              "type": "choice",
+              "content": "野上公园",
+              "group": "6/22"
+            },
+            {
+              "id": "step_lou_t_027",
+              "type": "choice",
+              "content": "有点在意，去看看那个地方吧",
+              "group": "7/7"
+            },
+            {
+              "id": "step_lou_t_028",
+              "type": "choice",
+              "content": "把事情经过告诉阿宏",
+              "group": "7/8"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

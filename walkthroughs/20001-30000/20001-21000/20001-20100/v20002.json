@@ -1,0 +1,210 @@
+{
+  "vid": "v20002",
+  "name": {
+    "zh-cn": "你的眼眸命中我心头",
+    "ja-jp": "キミの瞳にヒットミー",
+    "ja-Latn": "kimi-no-hitomi-ni-hit-me"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-13",
+  "routes": [
+    {
+      "id": "route_1761224769824",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1761224870205",
+          "name": "日向 瞳 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1761225112062",
+              "type": "choice",
+              "content": "上学路"
+            },
+            {
+              "id": "step_1761225112243",
+              "type": "choice",
+              "content": "教室"
+            },
+            {
+              "id": "step_1761225112413",
+              "type": "choice",
+              "content": "学院正门"
+            },
+            {
+              "id": "step_1761225112581",
+              "type": "choice",
+              "content": "公园"
+            },
+            {
+              "id": "step_1761225112737",
+              "type": "choice",
+              "content": "瞳家的客厅"
+            }
+          ]
+        },
+        {
+          "id": "ending_1761225166939",
+          "name": "旗谷 诗菜 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1761225231993",
+              "type": "choice",
+              "content": "街道"
+            },
+            {
+              "id": "step_1761225232159",
+              "type": "choice",
+              "content": "走廊"
+            },
+            {
+              "id": "step_1761225232333",
+              "type": "choice",
+              "content": "公园"
+            },
+            {
+              "id": "step_1761225232519",
+              "type": "choice",
+              "content": "车站前"
+            },
+            {
+              "id": "step_1761225232704",
+              "type": "choice",
+              "content": "章的房间"
+            }
+          ]
+        },
+        {
+          "id": "ending_1761225312006",
+          "name": "黑濑 翼 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1761225368102",
+              "type": "choice",
+              "content": "学院正门"
+            },
+            {
+              "id": "step_1761225368293",
+              "type": "choice",
+              "content": "走廊"
+            },
+            {
+              "id": "step_1761225368473",
+              "type": "choice",
+              "content": "学院正门"
+            },
+            {
+              "id": "step_1761225368628",
+              "type": "choice",
+              "content": "上学路"
+            },
+            {
+              "id": "step_1761225368769",
+              "type": "choice",
+              "content": "商店街"
+            }
+          ]
+        },
+        {
+          "id": "ending_1761225398492",
+          "name": "冢端 未子 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1761225415930",
+              "type": "choice",
+              "content": "学院正门"
+            },
+            {
+              "id": "step_1761225416097",
+              "type": "choice",
+              "content": "教室"
+            },
+            {
+              "id": "step_1761225416313",
+              "type": "choice",
+              "content": "图书馆"
+            },
+            {
+              "id": "step_1761225416451",
+              "type": "choice",
+              "content": "走廊"
+            },
+            {
+              "id": "step_1761225416973",
+              "type": "choice",
+              "content": "活动室"
+            }
+          ]
+        },
+        {
+          "id": "ending_1761225509628",
+          "name": "桐原 步鸟 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1761225531296",
+              "type": "choice",
+              "content": "上学路"
+            },
+            {
+              "id": "step_1761225531468",
+              "type": "choice",
+              "content": "教室"
+            },
+            {
+              "id": "step_1761225531639",
+              "type": "choice",
+              "content": "公园"
+            },
+            {
+              "id": "step_1761225531826",
+              "type": "choice",
+              "content": "上学路"
+            },
+            {
+              "id": "step_1761225532160",
+              "type": "choice",
+              "content": "活动室"
+            }
+          ]
+        },
+        {
+          "id": "ending_1761225510089",
+          "name": "BAD END",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_1761225572477",
+              "type": "choice",
+              "content": "上学路"
+            },
+            {
+              "id": "step_1761225572668",
+              "type": "choice",
+              "content": "教室"
+            },
+            {
+              "id": "step_1761225572811",
+              "type": "choice",
+              "content": "公园"
+            },
+            {
+              "id": "step_1761225573001",
+              "type": "choice",
+              "content": "上学路"
+            },
+            {
+              "id": "step_1761225589971",
+              "type": "choice",
+              "content": "商店街"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

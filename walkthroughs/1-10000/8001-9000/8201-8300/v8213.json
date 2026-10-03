@@ -1,0 +1,222 @@
+{
+  "vid": "v8213",
+  "name": {
+    "zh-cn": "Dracu-Riot!",
+    "en-us": "Dracu-Riot!",
+    "ja-jp": "DRACU-RIOT！",
+    "ja-Latn": "dracu-riot"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-12",
+  "tips": [
+    "攻略顺序推荐： 矢来美羽=>稻丛莉音=>布良梓=>艾莉娜·欧莱乌娜·艾文=>尼古拉·凯菲尤丝",
+    "需注意设置，场景CG是否点了【选项固定】，若是点了，则部分差别CG无法自动回收。全CG回收要更改为【手动选择】，或在回想时手动选择另一个选项"
+  ],
+  "routes": [
+    {
+      "id": "route_1756022634799",
+      "name": "矢来 美羽",
+      "endings": [
+        {
+          "id": "ending_1756022640598",
+          "name": "美羽 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756022696411",
+              "type": "choice",
+              "content": "和美羽一起"
+            },
+            {
+              "id": "step_1756022696564",
+              "type": "choice",
+              "content": "巨R决定一切"
+            },
+            {
+              "id": "step_1756022696738",
+              "type": "choice",
+              "content": "还是算了"
+            },
+            {
+              "id": "step_1756022696953",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1756022697154",
+              "type": "choice",
+              "content": "没办法，打一下吧"
+            },
+            {
+              "id": "step_1756022715650",
+              "type": "choice",
+              "content": "帮忙涂"
+            },
+            {
+              "id": "step_1756022715936",
+              "type": "choice",
+              "content": "自己来帮忙涂"
+            },
+            {
+              "id": "step_1756022716117",
+              "type": "choice",
+              "content": "不想麻烦你们"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756022781010",
+      "name": "艾莉娜·欧莱乌娜·艾文",
+      "endings": [
+        {
+          "id": "ending_1756022784696",
+          "name": "艾莉娜 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756022795326",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1756022799875",
+              "type": "choice",
+              "content": "怎么可能下得去手"
+            },
+            {
+              "id": "step_1756022800723",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1756022801476",
+              "type": "choice",
+              "content": "帮忙涂"
+            },
+            {
+              "id": "step_1756022801783",
+              "type": "choice",
+              "content": "什么也不说"
+            },
+            {
+              "id": "step_1756022802147",
+              "type": "choice",
+              "content": "拜托艾莉娜"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756022824519",
+      "name": "稻丛 莉音",
+      "endings": [
+        {
+          "id": "ending_1756022831420",
+          "name": "莉音 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756022833249",
+              "type": "choice",
+              "content": "和布良小姐一起"
+            },
+            {
+              "id": "step_1756022833417",
+              "type": "choice",
+              "content": "不应以R量决定女性价值"
+            },
+            {
+              "id": "step_1756022833606",
+              "type": "choice",
+              "content": "试着邀请稻丛吧"
+            },
+            {
+              "id": "step_1756022833824",
+              "type": "choice",
+              "content": "怎么可能下得去手"
+            },
+            {
+              "id": "step_1756022833991",
+              "type": "choice",
+              "content": "思考别的方法"
+            },
+            {
+              "id": "step_1756022865983",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_1756022834191",
+              "type": "choice",
+              "content": "自己一个人就可以了"
+            },
+            {
+              "id": "step_1756022873815",
+              "type": "choice",
+              "content": "拜托稻丛"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756022892762",
+      "name": "布良梓",
+      "endings": [
+        {
+          "id": "ending_1756022895891",
+          "name": "梓 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756022901349",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1756022906637",
+              "type": "choice",
+              "content": "让布良一起来帮忙"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756022893579",
+      "name": "尼古拉·凯菲尤丝",
+      "endings": [
+        {
+          "id": "ending_1756022915024",
+          "name": "尼古拉 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756022921578",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1756022922629",
+              "type": "choice",
+              "content": "思考别的方法"
+            },
+            {
+              "id": "step_1756022922909",
+              "type": "choice",
+              "content": "让布良一起来帮忙"
+            },
+            {
+              "id": "step_1756022923225",
+              "type": "choice",
+              "content": "拜托稻丛"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

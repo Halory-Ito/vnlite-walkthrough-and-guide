@@ -1,0 +1,286 @@
+{
+  "vid": "v25366",
+  "name": {
+    "zh-cn": "恋爱，我就借走了",
+    "en-us": "Koikari - Love For Hire",
+    "ja-jp": "恋愛、借りちゃいました",
+    "ja-Latn": "renai-karichaimashita"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-11",
+  "routes": [
+    {
+      "id": "route_1755786119858",
+      "name": "濑川 绘未",
+      "endings": [
+        {
+          "id": "ending_1755786253657",
+          "name": "绘未 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755786255477",
+              "type": "choice",
+              "content": "酒店"
+            },
+            {
+              "id": "step_1755786348834",
+              "type": "choice",
+              "content": "拒绝"
+            },
+            {
+              "id": "step_1755786349117",
+              "type": "choice",
+              "content": "子夏"
+            },
+            {
+              "id": "step_1755786349584",
+              "type": "choice",
+              "content": "让千夏抱膝而坐"
+            },
+            {
+              "id": "step_1755786350006",
+              "type": "choice",
+              "content": "只对椿"
+            },
+            {
+              "id": "step_1755786351416",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1755786352128",
+              "type": "choice",
+              "content": "和绘未去游泳"
+            },
+            {
+              "id": "step_1755786352481",
+              "type": "choice",
+              "content": "和天满都有秘密关系"
+            },
+            {
+              "id": "step_1755786353484",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1755786354417",
+              "type": "choice",
+              "content": "大家一起去追"
+            },
+            {
+              "id": "step_1755786355066",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_1755786357506",
+              "type": "choice",
+              "content": "月"
+            },
+            {
+              "id": "step_1755786358874",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_1755786429618",
+              "type": "choice",
+              "content": "相信绘未，选择不动"
+            },
+            {
+              "id": "step_1755786430621",
+              "type": "save",
+              "content": "SAVE 5"
+            },
+            {
+              "id": "step_1755786431688",
+              "type": "choice",
+              "content": "已经决定了"
+            },
+            {
+              "id": "step_1755786432526",
+              "type": "save",
+              "content": "SAVE 6"
+            },
+            {
+              "id": "step_1755786434282",
+              "type": "choice",
+              "content": "存折：绘未"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755786617758",
+      "name": "天满 八纯",
+      "endings": [
+        {
+          "id": "ending_1755786621012",
+          "name": "天满 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755786622919",
+              "type": "load",
+              "content": "LOAD 6"
+            },
+            {
+              "id": "step_1755786623502",
+              "type": "choice",
+              "content": "现金：天满"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755786645644",
+      "name": "空路 椿",
+      "endings": [
+        {
+          "id": "ending_1755786647506",
+          "name": "椿 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755786688735",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1755786689319",
+              "type": "choice",
+              "content": "追上椿"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755786668112",
+      "name": "泉 千夏＆泉 子夏",
+      "endings": [
+        {
+          "id": "ending_1755786727804",
+          "name": "千夏＆子夏 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755786733822",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1755786734357",
+              "type": "choice",
+              "content": "千夏和子夏"
+            },
+            {
+              "id": "step_1755786763059",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1755786767719",
+              "type": "choice",
+              "content": "把子夏回收",
+              "subfix": "CG事件回收后结束"
+            },
+            {
+              "id": "step_1755786795930",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1755786797653",
+              "type": "choice",
+              "content": "和天满说话",
+              "subfix": "事件回收后结束"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755786749984",
+      "name": "美浜 咲希",
+      "endings": [
+        {
+          "id": "ending_1755786827982",
+          "name": "咲希 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755786835643",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_1755786837010",
+              "type": "choice",
+              "content": "姑且先让美滨的头脑冷静下来"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755786848749",
+      "name": "小関 桃子",
+      "endings": [
+        {
+          "id": "ending_1755786871942",
+          "name": "桃子 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755786890746",
+              "type": "load",
+              "content": "LOAD 5"
+            },
+            {
+              "id": "step_1755786895624",
+              "type": "choice",
+              "content": "对于我来说还无法选择"
+            },
+            {
+              "id": "step_1755786896057",
+              "type": "save",
+              "content": "SAVE 7"
+            },
+            {
+              "id": "step_1755786908811",
+              "type": "choice",
+              "content": "连我也不知道"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755786958211",
+      "name": "BAD END",
+      "endings": [
+        {
+          "id": "ending_1755786979876",
+          "name": "BAD END",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_1755786981884",
+              "type": "load",
+              "content": "LOAD 7"
+            },
+            {
+              "id": "step_1755786987512",
+              "type": "choice",
+              "content": "就想做一个关系好一点的熟人"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

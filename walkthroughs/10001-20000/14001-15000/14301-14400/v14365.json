@@ -1,0 +1,234 @@
+{
+  "vid": "v14365",
+  "name": {
+    "zh-cn": "美少女万华镜 -神明所创造的少女们-",
+    "ja-jp": "美少女万華鏡 -神が造りたもうた少女たち-",
+    "ja-Latn": "bishoujo-mangekyou-kami-ga-tsukuritamouta-shoujo-tachi"
+  },
+  "level": 2,
+  "updatedAt": "2026-02-27",
+  "routes": [
+    {
+      "id": "route_1748069425265",
+      "name": "亚璃子",
+      "endings": [
+        {
+          "id": "ending_1748069515252",
+          "name": "亚璃子 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1748069649486",
+              "type": "choice",
+              "content": "温柔地说"
+            },
+            {
+              "id": "step_1748069769968",
+              "type": "choice",
+              "content": "里面/颜射"
+            },
+            {
+              "id": "step_1748069785796",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1748069793526",
+              "type": "choice",
+              "content": "去找亚璃子"
+            },
+            {
+              "id": "step_1748069798442",
+              "type": "choice",
+              "content": "邀请亚璃子"
+            },
+            {
+              "id": "step_1748069805210",
+              "type": "choice",
+              "content": "向亚璃子打招呼"
+            },
+            {
+              "id": "step_1748069818866",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1748069830598",
+              "type": "choice",
+              "content": "亚璃子的脸"
+            },
+            {
+              "id": "step_1748069832834",
+              "type": "choice",
+              "content": "请亚璃子帮忙"
+            },
+            {
+              "id": "step_1748069845195",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_1748069859540",
+              "type": "choice",
+              "content": "拒绝莉莉的示爱"
+            },
+            {
+              "id": "step_1748069863370",
+              "type": "choice",
+              "content": "喜欢"
+            },
+            {
+              "id": "step_1748069871560",
+              "type": "choice",
+              "content": "肛门里/外面"
+            },
+            {
+              "id": "step_1748069880266",
+              "type": "choice",
+              "content": "感谢灯露椎然后过二人世界"
+            },
+            {
+              "id": "step_1748069888388",
+              "type": "choice",
+              "content": "里面/颜射"
+            },
+            {
+              "id": "step_1748069895098",
+              "type": "choice",
+              "content": "不交出她们两个"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1748070036438",
+      "name": "灯露椎",
+      "endings": [
+        {
+          "id": "ending_1748070082312",
+          "name": "灯露椎 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1748070134174",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1748070136809",
+              "type": "choice",
+              "content": "去找灯露椎"
+            },
+            {
+              "id": "step_1748070252074",
+              "type": "choice",
+              "content": "邀请灯露椎"
+            },
+            {
+              "id": "step_1748070281421",
+              "type": "choice",
+              "content": "向灯露椎打招呼"
+            },
+            {
+              "id": "step_1748070281643",
+              "type": "choice",
+              "content": "灯露椎的脸"
+            },
+            {
+              "id": "step_1748070281808",
+              "type": "choice",
+              "content": "请灯露椎帮忙"
+            },
+            {
+              "id": "step_1748070385568",
+              "type": "choice",
+              "content": "拒绝莉莉的示爱"
+            },
+            {
+              "id": "step_1748070385738",
+              "type": "choice",
+              "content": "里面/颜射"
+            },
+            {
+              "id": "step_1748070385923",
+              "type": "choice",
+              "content": "当然是灯露椎"
+            },
+            {
+              "id": "step_1748070440324",
+              "type": "choice",
+              "content": "不交出她们两个"
+            },
+            {
+              "id": "step_1748070471695",
+              "type": "choice",
+              "content": "里面/外面"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1748070531643",
+      "name": "亚璃子＆灯露椎",
+      "endings": [
+        {
+          "id": "ending_1748070554108",
+          "name": "亚璃子＆灯露椎 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1748070566679",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1748070591035",
+              "type": "choice",
+              "content": "灯露椎的脸"
+            },
+            {
+              "id": "step_1748070591185",
+              "type": "choice",
+              "content": "请灯露椎帮忙"
+            },
+            {
+              "id": "step_1748070593183",
+              "type": "choice",
+              "content": "拒绝莉莉的示爱"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1748070623995",
+      "name": "莉莉",
+      "endings": [
+        {
+          "id": "ending_1748070632178",
+          "name": "莉莉 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1748070646839",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1748070655240",
+              "type": "choice",
+              "content": "我喜欢莉莉"
+            },
+            {
+              "id": "step_1748070663019",
+              "type": "choice",
+              "content": "里面/顔射"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

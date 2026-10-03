@@ -1,0 +1,245 @@
+{
+  "vid": "v29666",
+  "name": {
+    "zh-cn": "海与雪的青蓝色",
+    "ja-jp": "海と雪のシアンブルー",
+    "ja-Latn": "umi-to-yuki-no-cyan-blue"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-13",
+  "tips": [
+    "女主好感度达2以上会自动进入女主路线",
+    "好感度一样时存在某种优先顺序",
+    "若任何角色的好感度达到2以上，则会默认进入琴羽路线"
+  ],
+  "routes": [
+    {
+      "id": "route_1762077935420",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1762077950802",
+          "name": "青野 七",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762078037084",
+              "type": "choice",
+              "content": "认真地介绍一下"
+            },
+            {
+              "id": "step_1762078037271",
+              "type": "choice",
+              "content": "发送过去"
+            },
+            {
+              "id": "step_1762078037703",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1762078067743",
+              "type": "choice",
+              "content": "「我最喜欢的是七的想法」"
+            },
+            {
+              "id": "step_1762078067945",
+              "type": "choice",
+              "content": "让萩野同学拍"
+            },
+            {
+              "id": "step_1762078068299",
+              "type": "choice",
+              "content": "向稻叶搭话"
+            },
+            {
+              "id": "step_1762078068570",
+              "type": "choice",
+              "content": "沉默不语"
+            },
+            {
+              "id": "step_1762078069380",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1762078088595",
+              "type": "choice",
+              "content": "「七」"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762077950943",
+          "name": "萩野 梦",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762078281268",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1762078299674",
+              "type": "choice",
+              "content": "「萩野同学」"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762077951225",
+          "name": "清木 琴羽",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762078327166",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1762078330668",
+              "type": "choice",
+              "content": "「清木同学的想法感觉不错」"
+            },
+            {
+              "id": "step_1762078330839",
+              "type": "choice",
+              "content": "自己拍│琴羽"
+            },
+            {
+              "id": "step_1762078331065",
+              "type": "choice",
+              "content": "向稻叶搭话"
+            },
+            {
+              "id": "step_1762078331455",
+              "type": "choice",
+              "content": "沉默不语"
+            },
+            {
+              "id": "step_1762078331854",
+              "type": "choice",
+              "content": "「清木同学」"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762077952006",
+          "name": "菜畑 稻叶",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762078374900",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1762078376601",
+              "type": "choice",
+              "content": "「稻叶同学的想法很亮眼呢」"
+            },
+            {
+              "id": "step_1762078376796",
+              "type": "choice",
+              "content": "自己拍"
+            },
+            {
+              "id": "step_1762078376999",
+              "type": "choice",
+              "content": "不向稻叶搭话"
+            },
+            {
+              "id": "step_1762078377184",
+              "type": "choice",
+              "content": "沉默不语"
+            },
+            {
+              "id": "step_1762078377350",
+              "type": "choice",
+              "content": "「稻叶」"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762078438407",
+          "name": "松木 衣良",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762078474253",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1762078477115",
+              "type": "choice",
+              "content": "「松木老师的方案也很好」"
+            },
+            {
+              "id": "step_1762078477299",
+              "type": "choice",
+              "content": "自己拍"
+            },
+            {
+              "id": "step_1762078477565",
+              "type": "choice",
+              "content": "向稻叶搭话"
+            },
+            {
+              "id": "step_1762078477797",
+              "type": "choice",
+              "content": "「真意外啊」"
+            },
+            {
+              "id": "step_1762078478290",
+              "type": "choice",
+              "content": "「松木老师」"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762078438581",
+          "name": "生日纪念语音触发日期",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762078545765",
+              "type": "note",
+              "content": "青野 七│5月25日"
+            },
+            {
+              "id": "step_1762078546137",
+              "type": "note",
+              "content": "清木 琴羽│9月3日"
+            },
+            {
+              "id": "step_1762078546485",
+              "type": "note",
+              "content": "菜畑 稻叶│3月28日"
+            },
+            {
+              "id": "step_1762078546704",
+              "type": "note",
+              "content": "萩野 梦│8月1日"
+            },
+            {
+              "id": "step_1762078546941",
+              "type": "note",
+              "content": "松木 衣良│4月21日"
+            },
+            {
+              "id": "step_1762078547200",
+              "type": "note",
+              "content": "空木 群青│8月19日"
+            },
+            {
+              "id": "step_1762078547571",
+              "type": "note",
+              "content": "青野 志音│10月25日"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

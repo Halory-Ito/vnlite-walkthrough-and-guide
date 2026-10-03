@@ -1,0 +1,1319 @@
+{
+  "vid": "v47",
+  "name": {
+    "zh-cn": "歌月十夜",
+    "ja-jp": "歌月十夜",
+    "ja-Latn": "kagetsu-tooya"
+  },
+  "level": 2,
+  "updatedAt": "2026-02-27",
+  "tips": [
+    "★=必要情节",
+    "☆=只出现一次，之后不再出现的情节",
+    "与レン见面增加好感度的场所，关系到结局"
+  ],
+  "routes": [
+    {
+      "id": "route_1758456346528",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1758456425132",
+          "name": "学校编",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1758456426783",
+              "type": "choice",
+              "content": "街の雑踏",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1758456656107",
+              "type": "choice",
+              "content": "「まっすぐ学校へ」 → 「一人で学校へ行く」"
+            },
+            {
+              "id": "step_1758456656388",
+              "type": "choice",
+              "content": "朝の中庭",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1758456656549",
+              "type": "choice",
+              "content": "お昼の中庭",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1758456656717",
+              "type": "note",
+              "content": "※条件：独自一人时"
+            },
+            {
+              "id": "step_1758456656880",
+              "type": "choice",
+              "content": "傍晚アルクェイド的公寓",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1758456657054",
+              "type": "note",
+              "content": "※条件：早晨时到过アルクェイド的公寓"
+            },
+            {
+              "id": "step_1758456657195",
+              "type": "choice",
+              "content": "文化祭的咖啡店（吃茶店）帮忙的情节"
+            },
+            {
+              "id": "step_1758456657359",
+              "type": "note",
+              "content": "※需要一定程度的好感度才能引发"
+            },
+            {
+              "id": "step_1758456657489",
+              "type": "choice",
+              "content": "放学后到“路地裏”",
+              "prefix": "★"
+            }
+          ]
+        },
+        {
+          "id": "ending_1758456821328",
+          "name": "屋敷编",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1758456840921",
+              "type": "choice",
+              "content": "午前，自己的房间（自室）",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1758456841067",
+              "type": "choice",
+              "content": "午前，中庭",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1758456841233",
+              "type": "choice",
+              "content": "午前，公园",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1758456841386",
+              "type": "note",
+              "content": "※根据阶段程度有2种CG，第4阶段不可"
+            },
+            {
+              "id": "step_1758456841526",
+              "type": "choice",
+              "content": "午前中到咖啡店，此后吃午饭"
+            },
+            {
+              "id": "step_1758456841687",
+              "type": "note",
+              "content": "※需要一定程度的好感度才能引发"
+            },
+            {
+              "id": "step_1758456841819",
+              "type": "choice",
+              "content": "午前中去公园和时南医院以外的地方",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1758456841966",
+              "type": "note",
+              "content": "※只能发生1次"
+            },
+            {
+              "id": "step_1758456842159",
+              "type": "choice",
+              "content": "下午，大道（大通り）",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1758456939725",
+              "type": "note",
+              "content": "※第1阶段必要情节"
+            },
+            {
+              "id": "step_1758456944308",
+              "type": "choice",
+              "content": "夜"
+            },
+            {
+              "id": "step_1758456956211",
+              "type": "choice",
+              "content": "夜，到街上散歩",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1758456956471",
+              "type": "note",
+              "content": "※第1阶段必要情节"
+            },
+            {
+              "id": "step_1758456956710",
+              "type": "choice",
+              "content": "自己的房间",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1758456956884",
+              "type": "note",
+              "content": "※需要相当高的好感度才能引发"
+            }
+          ]
+        },
+        {
+          "id": "ending_1758457168760",
+          "name": "第1阶段",
+          "type": "normal",
+          "requirements": "届于歌月十夜的游戏的特殊性。攻略按情节进程度说明",
+          "steps": [
+            {
+              "id": "step_1758457189891",
+              "type": "choice",
+              "content": "学校编与屋敷编与黒猫レン见面",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1758457190062",
+              "type": "choice",
+              "content": "与黑猫一次见面后，一个人去学校。CG1/3左上",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1758457190349",
+              "type": "choice",
+              "content": "学校编第五小时偷懒（五时间目 サボ）",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1758457190545",
+              "type": "choice",
+              "content": "屋敷编晚饭时去烤肉屋（夕食 焼肉屋）",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1758457190695",
+              "type": "choice",
+              "content": "以上条件满足下，屋敷编的午后去大道（大通り）。CG1/3左下",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1758457190854",
+              "type": "choice",
+              "content": "早晨和放课后到アルク的公寓去，听说猫的事情",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1758457191018",
+              "type": "choice",
+              "content": "夜晚选择",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_1758457191178",
+              "type": "choice",
+              "content": "「……えっと、梦？」→「……なぜか、あの子を思い描いた。」"
+            },
+            {
+              "id": "step_1758457191339",
+              "type": "note",
+              "content": "※需要相当高的好感度才会出现 CG3/3下，3/3右下"
+            },
+            {
+              "id": "step_1758457191492",
+              "type": "choice",
+              "content": "屋敷编，午前中到公园去(1)。CG1/3上",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_1758457191693",
+              "type": "choice",
+              "content": "文化祭时选择「吃茶店」，午后去帮忙"
+            },
+            {
+              "id": "step_1758457191881",
+              "type": "note",
+              "content": "※需要一定程度的好感度 CG1/3右下"
+            }
+          ]
+        },
+        {
+          "id": "ending_1758457368133",
+          "name": "第2阶段",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1758457383358",
+              "type": "choice",
+              "content": "夜晚选择",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1758457383605",
+              "type": "choice",
+              "content": "「忘れている何かのこと。」多次"
+            },
+            {
+              "id": "step_1758457383775",
+              "type": "choice",
+              "content": "夜晚选择",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1758457383965",
+              "type": "choice",
+              "content": "「夜の街を散歩すること。」"
+            },
+            {
+              "id": "step_1758457384156",
+              "type": "choice",
+              "content": "夜晚选择",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1758457384320",
+              "type": "choice",
+              "content": "「街で起きている杀人事件のこと。」或者"
+            },
+            {
+              "id": "step_1758457384484",
+              "type": "choice",
+              "content": "「世界の果ての幻视のこと。」"
+            },
+            {
+              "id": "step_1758457384670",
+              "type": "choice",
+              "content": "屋敷编与アルクェイド和シエル各自过一天",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1758457384824",
+              "type": "choice",
+              "content": "学校编，放课后到“路地裏”",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1758457384955",
+              "type": "note",
+              "content": "※早晨与アルク和シエル都见过面的条件下"
+            },
+            {
+              "id": "step_1758457504760",
+              "type": "choice",
+              "content": "屋敷编，到街上散步，去交叉路口",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1758457504904",
+              "type": "choice",
+              "content": "学校编，早晨到アルク或者シエル的家去，放课后再去一次",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1758457505053",
+              "type": "choice",
+              "content": "屋敷编，午前中到公园去(2)。CG1/3右上",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_1758457505298",
+              "type": "choice",
+              "content": "夜晚选择",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_1758457505472",
+              "type": "choice",
+              "content": "「……えっと、梦？」→「……なぜか、あの子を思い描いた。」"
+            },
+            {
+              "id": "step_1758457505640",
+              "type": "note",
+              "content": "※需要相当高的好感度才会出现 CG3/3下，3/3右下"
+            },
+            {
+              "id": "step_1758457505806",
+              "type": "note",
+              "content": "※需要一定程度的好感度 CG1/3右下"
+            }
+          ]
+        },
+        {
+          "id": "ending_1758457642804",
+          "name": "第3阶段",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1758457652305",
+              "type": "choice",
+              "content": "学校编，早晨到アルク或者シエル的家去，并且迟到，放课后再去一次",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1758457652493",
+              "type": "choice",
+              "content": "屋敷编，去交叉路口",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1758457652651",
+              "type": "choice",
+              "content": "夜晚选择",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1758457652820",
+              "type": "choice",
+              "content": "「忘れている何かのこと。」"
+            },
+            {
+              "id": "step_1758457652991",
+              "type": "choice",
+              "content": "屋敷编晚饭时去烤肉屋",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1758457653158",
+              "type": "choice",
+              "content": "从早晨开始到夜晚结束一次。（就是在一天中没有中断一日的剧情--被打针，被干掉，等等等等…………）CG2/3左上",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1758457653322",
+              "type": "choice",
+              "content": "屋敷编，午前中到公园去(2)。CG1/3右上",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_1758457653483",
+              "type": "choice",
+              "content": "夜晚选择",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_1758457654487",
+              "type": "choice",
+              "content": "「……えっと、梦？」→「……なぜか、あの子を思い描いた。」"
+            },
+            {
+              "id": "step_1758457654659",
+              "type": "note",
+              "content": "※需要相当高的好感度才会出现 CG3/3下，3/3右下"
+            },
+            {
+              "id": "step_1758457654972",
+              "type": "choice",
+              "content": "文化祭时选择「吃茶店」，午后去帮忙"
+            },
+            {
+              "id": "step_1758457846603",
+              "type": "note",
+              "content": "※需要一定程度的好感度 CG1/3右下"
+            }
+          ]
+        },
+        {
+          "id": "ending_1758457889894",
+          "name": "第4阶段",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1758457904638",
+              "type": "choice",
+              "content": "屋敷编，到七夜之森去（七夜の森）。CG2/3上",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1758457904811",
+              "type": "choice",
+              "content": "对能躲避的情节一律避开",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1758457904981",
+              "type": "choice",
+              "content": "屋敷编，到中庭。CG1/3中",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1758457905130",
+              "type": "note",
+              "content": "选择第2选择"
+            },
+            {
+              "id": "step_1758457905301",
+              "type": "note",
+              "content": "※需要相当高的好感度 CG3/3左上，3/3上，3/3右上，3/3左，3/3中，3/3右，3/3左下"
+            },
+            {
+              "id": "step_1758457905479",
+              "type": "choice",
+              "content": "开头时选择第2选择",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1758457905637",
+              "type": "choice",
+              "content": "见到结尾",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1758457905818",
+              "type": "note",
+              "content": "※“知得留先生”的话，结尾制作名单在“祭”之后出现"
+            },
+            {
+              "id": "step_1758457908508",
+              "type": "choice",
+              "content": "文化祭时选择「吃茶店」，午后去帮忙"
+            },
+            {
+              "id": "step_1758457908672",
+              "type": "note",
+              "content": "※需要一定程度的好感度 CG1/3右下"
+            },
+            {
+              "id": "step_1758457908845",
+              "type": "choice",
+              "content": "EVENT"
+            },
+            {
+              "id": "step_1758457909005",
+              "type": "choice",
+              "content": "文化祭"
+            },
+            {
+              "id": "step_1758457909166",
+              "type": "choice",
+              "content": "与秋叶一起去学校，放课后到秋叶的房间里去"
+            },
+            {
+              "id": "step_1758457909338",
+              "type": "choice",
+              "content": "屋敷编到咖啡店去"
+            },
+            {
+              "id": "step_1758457909509",
+              "type": "choice",
+              "content": "学校编到教室去，制作板报？（看板）"
+            },
+            {
+              "id": "step_1758458095392",
+              "type": "choice",
+              "content": "学校编，放课后留在教室中"
+            },
+            {
+              "id": "step_1758458095555",
+              "type": "choice",
+              "content": "以上条件全部满足下出现"
+            },
+            {
+              "id": "step_1758458095707",
+              "type": "note",
+              "content": "※之后，早晨教室追加迟到选择"
+            },
+            {
+              "id": "step_1758458095878",
+              "type": "choice",
+              "content": "体育祭"
+            },
+            {
+              "id": "step_1758458096024",
+              "type": "choice",
+              "content": "学校编，直接回家之后到琥珀的房间去，偷窥……（部屋の中を覗く）"
+            },
+            {
+              "id": "step_1758458133475",
+              "type": "note",
+              "content": "※之后，早晨教室追加迟到选择"
+            },
+            {
+              "id": "step_1758458133626",
+              "type": "choice",
+              "content": "アルクメイド（某人的女仆装…………）"
+            },
+            {
+              "id": "step_1758458133771",
+              "type": "choice",
+              "content": "屋敷编，午前中与アルクェイド见面，之后回家，午后与翡翠见面"
+            },
+            {
+              "id": "step_1758458133920",
+              "type": "choice",
+              "content": "月姫クイズ（问题）"
+            },
+            {
+              "id": "step_1758458134067",
+              "type": "choice",
+              "content": "屋敷编，午后到槙久的房间去。（答案见后……）"
+            },
+            {
+              "id": "step_1758458158999",
+              "type": "choice",
+              "content": "2本の键（2把钥匙）"
+            },
+            {
+              "id": "step_1758458159174",
+              "type": "choice",
+              "content": "月姫クイズ全部正确"
+            },
+            {
+              "id": "step_1758458159337",
+              "type": "note",
+              "content": "※以上情节后得到第1把钥匙"
+            },
+            {
+              "id": "step_1758458159514",
+              "type": "choice",
+              "content": "学校编与秋叶一起上学，午饭在中庭与秋叶一起"
+            },
+            {
+              "id": "step_1758458159788",
+              "type": "choice",
+              "content": "屋敷编，午前中到琥珀的房间去"
+            },
+            {
+              "id": "step_1758458159998",
+              "type": "note",
+              "content": "※以上情节后夜晚选择"
+            },
+            {
+              "id": "step_1758458160354",
+              "type": "choice",
+              "content": "「化け猫退治に行く」"
+            },
+            {
+              "id": "step_1758458160549",
+              "type": "choice",
+              "content": "屋敷编，午前中离开"
+            },
+            {
+              "id": "step_1758458160833",
+              "type": "note",
+              "content": "※以上情节后得到另1把钥匙"
+            },
+            {
+              "id": "step_1758458161031",
+              "type": "choice",
+              "content": "月姫クイズ答案"
+            }
+          ]
+        },
+        {
+          "id": "ending_1758458280151",
+          "name": "月姫本编",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1758458292034",
+              "type": "choice",
+              "content": "1 3.金色"
+            },
+            {
+              "id": "step_1758458292203",
+              "type": "choice",
+              "content": "2 3.シーズン外の観光パックで逃避行"
+            },
+            {
+              "id": "step_1758458292351",
+              "type": "choice",
+              "content": "3 2.赤色"
+            },
+            {
+              "id": "step_1758458292510",
+              "type": "choice",
+              "content": "4 3.浅上女学院"
+            },
+            {
+              "id": "step_1758458292675",
+              "type": "choice",
+              "content": "5 1.ネロ"
+            },
+            {
+              "id": "step_1758458294151",
+              "type": "choice",
+              "content": "6 3.八日目"
+            },
+            {
+              "id": "step_1758458294293",
+              "type": "choice",
+              "content": "7 1.されこうべ"
+            },
+            {
+              "id": "step_1758458294416",
+              "type": "choice",
+              "content": "8 5.有间"
+            },
+            {
+              "id": "step_1758458294570",
+              "type": "choice",
+              "content": "9 2.オオカミ"
+            },
+            {
+              "id": "step_1758458294744",
+              "type": "choice",
+              "content": "10 1.いつも素敌な琥珀さん 或者"
+            },
+            {
+              "id": "step_1758458294877",
+              "type": "choice",
+              "content": "5.ホウキ少女まじかるアンバー"
+            },
+            {
+              "id": "step_1758458295023",
+              "type": "choice",
+              "content": "月姫夏祭"
+            },
+            {
+              "id": "step_1758458295163",
+              "type": "choice",
+              "content": "1 1.一问目！"
+            },
+            {
+              "id": "step_1758458382452",
+              "type": "choice",
+              "content": "2 3.文福茶釜"
+            },
+            {
+              "id": "step_1758458382602",
+              "type": "choice",
+              "content": "3 2.ふたきれ"
+            },
+            {
+              "id": "step_1758458382745",
+              "type": "choice",
+              "content": "4 3.鉄线"
+            },
+            {
+              "id": "step_1758458382901",
+              "type": "choice",
+              "content": "5 5.立体忍者活剧"
+            },
+            {
+              "id": "step_1758458383033",
+              "type": "choice",
+              "content": "6 2.二回……？"
+            },
+            {
+              "id": "step_1758458383168",
+              "type": "choice",
+              "content": "7 4.ヒットマンスタイル"
+            },
+            {
+              "id": "step_1758458383304",
+              "type": "choice",
+              "content": "8 2.ホウキ少女まじかるアンバー"
+            },
+            {
+              "id": "step_1758458383441",
+              "type": "choice",
+              "content": "9 2.时南宗玄"
+            },
+            {
+              "id": "step_1758458383586",
+              "type": "choice",
+              "content": "10 4.カナダ"
+            },
+            {
+              "id": "step_1758458383747",
+              "type": "choice",
+              "content": "一般教养"
+            },
+            {
+              "id": "step_1758458445351",
+              "type": "choice",
+              "content": "1 3.金星"
+            },
+            {
+              "id": "step_1758458445514",
+              "type": "choice",
+              "content": "2 4.イタリア"
+            },
+            {
+              "id": "step_1758458445848",
+              "type": "choice",
+              "content": "3 1.コウ"
+            },
+            {
+              "id": "step_1758458446070",
+              "type": "choice",
+              "content": "4 4.巌流岛"
+            },
+            {
+              "id": "step_1758458446219",
+              "type": "choice",
+              "content": "5 5.落花生"
+            },
+            {
+              "id": "step_1758458446373",
+              "type": "choice",
+              "content": "6 3.约マイナス273度"
+            },
+            {
+              "id": "step_1758458446519",
+              "type": "choice",
+              "content": "7 4.桶屋"
+            },
+            {
+              "id": "step_1758458474658",
+              "type": "choice",
+              "content": "8 5.午"
+            },
+            {
+              "id": "step_1758458474878",
+              "type": "choice",
+              "content": "9 1.アブラナ科"
+            },
+            {
+              "id": "step_1758458475045",
+              "type": "choice",
+              "content": "10 2.きじ"
+            },
+            {
+              "id": "step_1758458475247",
+              "type": "note",
+              "content": "梦十夜发生条件"
+            },
+            {
+              "id": "step_1758458507977",
+              "type": "choice",
+              "content": "1.がんばれ知得留先生"
+            },
+            {
+              "id": "step_1758458508170",
+              "type": "choice",
+              "content": "学校编早晨到シエル公寓去，放课后再到シエル的公寓去"
+            },
+            {
+              "id": "step_1758458508343",
+              "type": "choice",
+              "content": "选择「学校の话」之后结束一天"
+            },
+            {
+              "id": "step_1758458508732",
+              "type": "choice",
+              "content": "以上条件满足之后，放课后留在学校"
+            },
+            {
+              "id": "step_1758458509148",
+              "type": "choice",
+              "content": "2.宵待闲话"
+            },
+            {
+              "id": "step_1758458561240",
+              "type": "choice",
+              "content": "听到数次浅上女学院的消息"
+            },
+            {
+              "id": "step_1758458561415",
+              "type": "note",
+              "content": "※就是多与秋叶和晶对话"
+            },
+            {
+              "id": "step_1758458561571",
+              "type": "choice",
+              "content": "3.朱い月"
+            },
+            {
+              "id": "step_1758458561726",
+              "type": "choice",
+              "content": "屋敷编，午前中与アルクェイド见面，之后选择"
+            },
+            {
+              "id": "step_1758458561880",
+              "type": "choice",
+              "content": "「ええい、もうなるようになれ！」"
+            },
+            {
+              "id": "step_1758458562022",
+              "type": "choice",
+              "content": "4.赤い鬼神"
+            },
+            {
+              "id": "step_1758458562173",
+              "type": "choice",
+              "content": "学校编时回到家中，到自己的房间去"
+            },
+            {
+              "id": "step_1758458562621",
+              "type": "choice",
+              "content": "屋敷编，午前中到时南医院去"
+            },
+            {
+              "id": "step_1758458562782",
+              "type": "choice",
+              "content": "5.ななこちゃんSOS！"
+            },
+            {
+              "id": "step_1758458597037",
+              "type": "choice",
+              "content": "与有彦多次对话听到关于ななこ的消息"
+            },
+            {
+              "id": "step_1758458597215",
+              "type": "note",
+              "content": "※放课后到“机动屋台”听取对话"
+            },
+            {
+              "id": "step_1758458597369",
+              "type": "choice",
+              "content": "6.妹切草"
+            },
+            {
+              "id": "step_1758458597526",
+              "type": "choice",
+              "content": "屋敷编，在家睡一天……"
+            },
+            {
+              "id": "step_1758458597664",
+              "type": "note",
+              "content": "※连续选择在自己房间"
+            },
+            {
+              "id": "step_1758458597813",
+              "type": "choice",
+              "content": "7.タナトスの花"
+            },
+            {
+              "id": "step_1758458636182",
+              "type": "choice",
+              "content": "夜晚选择"
+            },
+            {
+              "id": "step_1758458636554",
+              "type": "choice",
+              "content": "「……えっと、梦？」→「翡翠と琥珀さんというのはどうか」"
+            },
+            {
+              "id": "step_1758458636764",
+              "type": "choice",
+              "content": "见到EP"
+            },
+            {
+              "id": "step_1758458636923",
+              "type": "choice",
+              "content": "满足以上条件自动出现（充分暴露某贵邪恶本质的一章……）"
+            },
+            {
+              "id": "step_1758458637096",
+              "type": "choice",
+              "content": "8.翡翠ちゃん、反転冲动！"
+            },
+            {
+              "id": "step_1758458637273",
+              "type": "choice",
+              "content": "学校编早上到シエル公寓，放课后到アルクェイド公寓，调查床头（ベッドを调べる）"
+            },
+            {
+              "id": "step_1758458663383",
+              "type": "choice",
+              "content": "远野家のコン·ゲーム"
+            },
+            {
+              "id": "step_1758458663556",
+              "type": "choice",
+              "content": "学校编早上到アルクェイド公寓，放课后到シエル公寓打扰（お邪魔する）"
+            },
+            {
+              "id": "step_1758458663855",
+              "type": "choice",
+              "content": "黎明"
+            },
+            {
+              "id": "step_1758458664051",
+              "type": "choice",
+              "content": "到“路地裏”去"
+            },
+            {
+              "id": "step_1758458664540",
+              "type": "choice",
+              "content": "夏祭り"
+            },
+            {
+              "id": "step_1758458664755",
+              "type": "choice",
+              "content": "「梦十夜」全见到"
+            },
+            {
+              "id": "step_1758458664920",
+              "type": "choice",
+              "content": "酔梦月"
+            },
+            {
+              "id": "step_1758458665102",
+              "type": "choice",
+              "content": "见到“夏祭り”"
+            },
+            {
+              "id": "step_1758458712779",
+              "type": "note",
+              "content": "※出现在Contribution illustration*最后一页"
+            },
+            {
+              "id": "step_1758458712967",
+              "type": "choice",
+              "content": "教えろ！！アルク先生"
+            },
+            {
+              "id": "step_1758458713116",
+              "type": "choice",
+              "content": "点击“help”，见到知得留先生"
+            },
+            {
+              "id": "step_1758458713405",
+              "type": "note",
+              "content": "※没有任何隐藏剧情……"
+            },
+            {
+              "id": "step_1758458713589",
+              "type": "choice",
+              "content": "Contribution illustration跟随「歌月十夜」游戏次数增加"
+            },
+            {
+              "id": "step_1758458713747",
+              "type": "choice",
+              "content": "第12页最后一张与「夏祭り」一起出现"
+            },
+            {
+              "id": "step_1758458988963",
+              "type": "choice",
+              "content": "CG收集"
+            },
+            {
+              "id": "step_1758458989135",
+              "type": "choice",
+              "content": "顺序为左上，上，右上，左，中，右，左下，下，右下"
+            },
+            {
+              "id": "step_1758458989328",
+              "type": "choice",
+              "content": "DREAM CG"
+            },
+            {
+              "id": "step_1758459002164",
+              "type": "note",
+              "content": "1/4"
+            },
+            {
+              "id": "step_1758459002347",
+              "type": "choice",
+              "content": "完成「朱い月」"
+            },
+            {
+              "id": "step_1758459002528",
+              "type": "choice",
+              "content": "屋敷编，午前中到秋叶的房间去，阻止再次睡觉"
+            },
+            {
+              "id": "step_1758459002697",
+              "type": "choice",
+              "content": "学校编早上到シエル公寓去"
+            },
+            {
+              "id": "step_1758459002845",
+              "type": "choice",
+              "content": "文化祭情节发生。（见EVENT）"
+            },
+            {
+              "id": "step_1758459003006",
+              "type": "choice",
+              "content": "屋敷编，午后与翡翠关于文化祭对话"
+            },
+            {
+              "id": "step_1758459003168",
+              "type": "choice",
+              "content": "以上两条件满足时，文化祭时去散步"
+            },
+            {
+              "id": "step_1758459033375",
+              "type": "choice",
+              "content": "屋敷编，午后离开"
+            },
+            {
+              "id": "step_1758459033552",
+              "type": "note",
+              "content": "※午前中不去自己房间"
+            },
+            {
+              "id": "step_1758459033744",
+              "type": "choice",
+              "content": "黄昏草月必要情节"
+            },
+            {
+              "id": "step_1758459033915",
+              "type": "choice",
+              "content": "屋敷编，午前中に与翡翠见面"
+            },
+            {
+              "id": "step_1758459060538",
+              "type": "note",
+              "content": "2/4"
+            },
+            {
+              "id": "step_1758459060718",
+              "type": "choice",
+              "content": "在外吃饭到“机动屋台”去"
+            },
+            {
+              "id": "step_1758459060889",
+              "type": "choice",
+              "content": "2把钥匙全部入手条件下（见EVENT）"
+            },
+            {
+              "id": "step_1758459061115",
+              "type": "choice",
+              "content": "屋敷编，午前中见过アルクェイド与翡翠，午后见到琥珀"
+            },
+            {
+              "id": "step_1758459061292",
+              "type": "choice",
+              "content": "2把钥匙全部入手条件下"
+            },
+            {
+              "id": "step_1758459125884",
+              "type": "choice",
+              "content": "屋敷编，午前中见过翡翠，午后见到琥珀"
+            },
+            {
+              "id": "step_1758459126068",
+              "type": "choice",
+              "content": "2把钥匙全部入手条件下"
+            },
+            {
+              "id": "step_1758459126385",
+              "type": "choice",
+              "content": "屋敷编，午前中见过翡翠，午后见到琥珀"
+            },
+            {
+              "id": "step_1758459126581",
+              "type": "choice",
+              "content": "2把钥匙全部入手条件下"
+            },
+            {
+              "id": "step_1758459126753",
+              "type": "choice",
+              "content": "屋敷编，午前中见过アルクェイド，午后见到琥珀"
+            },
+            {
+              "id": "step_1758459126928",
+              "type": "choice",
+              "content": "屋敷编，午前中到アルクェイド公寓去"
+            },
+            {
+              "id": "step_1758459227782",
+              "type": "choice",
+              "content": "学校编早上到アルクェイド公寓去，然后迟到"
+            },
+            {
+              "id": "step_1758459227990",
+              "type": "choice",
+              "content": "完成「朱い月」"
+            },
+            {
+              "id": "step_1758459228178",
+              "type": "choice",
+              "content": "与有彦多次对话听到关于ななこ的消息"
+            },
+            {
+              "id": "step_1758459247633",
+              "type": "note",
+              "content": "※放课后到“机动屋台”听取对话"
+            },
+            {
+              "id": "step_1758459247815",
+              "type": "choice",
+              "content": "学校编早上到乾家去"
+            },
+            {
+              "id": "step_1758459248010",
+              "type": "choice",
+              "content": "屋敷编，午后到秋叶房间去"
+            },
+            {
+              "id": "step_1758459248192",
+              "type": "choice",
+              "content": "月姫クイズ回答错误（见EVENT）"
+            },
+            {
+              "id": "step_1758459248382",
+              "type": "note",
+              "content": "3/4"
+            },
+            {
+              "id": "step_1758459248572",
+              "type": "choice",
+              "content": "完成「宵待闲话」"
+            },
+            {
+              "id": "step_1758459354154",
+              "type": "choice",
+              "content": "学校编早上アルクェイド与シエル都见过面，白天到“茶道室”去"
+            },
+            {
+              "id": "step_1758459354340",
+              "type": "choice",
+              "content": "屋敷编，午前中到シエル公寓去，不努力（勉强しない）"
+            },
+            {
+              "id": "step_1758459354534",
+              "type": "choice",
+              "content": "体育祭发生。（见EVENT）"
+            },
+            {
+              "id": "step_1758459354757",
+              "type": "choice",
+              "content": "体育祭发生"
+            },
+            {
+              "id": "step_1758459354996",
+              "type": "choice",
+              "content": "学校编，直接回家之后到琥珀的房间去，偷窥"
+            },
+            {
+              "id": "step_1758459355218",
+              "type": "choice",
+              "content": "黄昏草月必要情节"
+            },
+            {
+              "id": "step_1758459394478",
+              "type": "note",
+              "content": "4/4"
+            },
+            {
+              "id": "step_1758459394748",
+              "type": "choice",
+              "content": "「タナトスの花」选择两人"
+            },
+            {
+              "id": "step_1758459395696",
+              "type": "choice",
+              "content": "「タナトスの花」选择翡翠"
+            },
+            {
+              "id": "step_1758459449525",
+              "type": "choice",
+              "content": "「タナトスの花」选择琥珀"
+            },
+            {
+              "id": "step_1758459449917",
+              "type": "choice",
+              "content": "Guest illustration CG"
+            },
+            {
+              "id": "step_1758459450148",
+              "type": "choice",
+              "content": "1/2"
+            },
+            {
+              "id": "step_1758459537768",
+              "type": "choice",
+              "content": "「Dream CG」1/4左CG出现"
+            },
+            {
+              "id": "step_1758459537959",
+              "type": "choice",
+              "content": "见过“远野大战”"
+            },
+            {
+              "id": "step_1758459538172",
+              "type": "note",
+              "content": "※黄昏草月固定发生情节"
+            },
+            {
+              "id": "step_1758459538368",
+              "type": "choice",
+              "content": "アルクメイド发生（见EVENT）"
+            },
+            {
+              "id": "step_1758459538589",
+              "type": "choice",
+              "content": "「Dream CG」1/4中与3/4下的CG出现"
+            },
+            {
+              "id": "step_1758459538805",
+              "type": "choice",
+              "content": "与秋叶一起上学"
+            },
+            {
+              "id": "step_1758459539003",
+              "type": "choice",
+              "content": "完成「朱い月」"
+            },
+            {
+              "id": "step_1758459539315",
+              "type": "choice",
+              "content": "学校编早上与アルク或者シエル见面"
+            },
+            {
+              "id": "step_1758459539524",
+              "type": "choice",
+              "content": "之后，放课后到“路地裏”去"
+            },
+            {
+              "id": "step_1758459539822",
+              "type": "note",
+              "content": "※需要第3阶段"
+            },
+            {
+              "id": "step_1758459540028",
+              "type": "choice",
+              "content": "夜晚选择"
+            },
+            {
+              "id": "step_1758459628878",
+              "type": "choice",
+              "content": "「街で起きている杀人事件のこと。」"
+            },
+            {
+              "id": "step_1758459629082",
+              "type": "choice",
+              "content": "情节「杀人鬼2」"
+            },
+            {
+              "id": "step_1758459629301",
+              "type": "choice",
+              "content": "レン必要情节"
+            },
+            {
+              "id": "step_1758459629505",
+              "type": "choice",
+              "content": "2/2"
+            },
+            {
+              "id": "step_1758459629692",
+              "type": "choice",
+              "content": "「Dream CG」2/4左上CG出现"
+            },
+            {
+              "id": "step_1758459629888",
+              "type": "choice",
+              "content": "完成「ななこちゃんSOS！」"
+            },
+            {
+              "id": "step_1758459650299",
+              "type": "choice",
+              "content": "完成「夏祭り」"
+            },
+            {
+              "id": "step_1758459650484",
+              "type": "choice",
+              "content": "「Dream CG」1/4上CG出现"
+            },
+            {
+              "id": "step_1758459650826",
+              "type": "choice",
+              "content": "学校编，白天去食堂吃饭"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,352 @@
+{
+  "vid": "v532",
+  "name": {
+    "zh-cn": "管乐恋曲！",
+    "ja-jp": "ぶらばん！",
+    "ja-Latn": "bra-ban"
+  },
+  "level": 2,
+  "updatedAt": "2026-02-27",
+  "routes": [
+    {
+      "id": "route_1748843486155",
+      "name": "中之岛 妙",
+      "endings": [
+        {
+          "id": "ending_1748844034166",
+          "name": "妙 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1748844059432",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1748844060314",
+              "type": "choice",
+              "content": "妙"
+            },
+            {
+              "id": "step_1748844113578",
+              "type": "choice",
+              "content": "那就答应她的请求吧……"
+            },
+            {
+              "id": "step_1748844167484",
+              "type": "choice",
+              "content": "妙/水濑/纪子/由贵 /须美"
+            },
+            {
+              "id": "step_1748844408908",
+              "type": "choice",
+              "content": "和妙一起走"
+            },
+            {
+              "id": "step_1748844422669",
+              "type": "choice",
+              "content": "妙/水濑/纪子/由贵 /须美"
+            },
+            {
+              "id": "step_1748844456240",
+              "type": "choice",
+              "content": "妙"
+            },
+            {
+              "id": "step_1748844536198",
+              "type": "choice",
+              "content": "健太郎藏起来了/ 健太郎偷走了/健 太郎卖了/健太郎烧了/反正健太郎肯定做什么了"
+            },
+            {
+              "id": "step_1748844993857",
+              "type": "choice",
+              "content": "妙/水濑/纪子/由贵 /须美"
+            },
+            {
+              "id": "step_1748844994195",
+              "type": "choice",
+              "content": "妙/水濑/[纪子]/由贵 /[须美]"
+            },
+            {
+              "id": "step_1748845069495",
+              "type": "choice",
+              "content": "妙"
+            },
+            {
+              "id": "step_1748845081577",
+              "type": "choice",
+              "content": "妙/[水濑]/纪子/由贵 /[须美]"
+            },
+            {
+              "id": "step_1748845081927",
+              "type": "choice",
+              "content": "妙/水濑/纪子/[由贵] /须美"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1748845480050",
+      "name": "海老原 水濑",
+      "endings": [
+        {
+          "id": "ending_1748845714228",
+          "name": "水濑 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1748845749724",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1748845751206",
+              "type": "choice",
+              "content": "妙/水濑/纪子/由贵"
+            },
+            {
+              "id": "step_1748845952164",
+              "type": "choice",
+              "content": "那就答应她的请求吧……/对不起妙，我……"
+            },
+            {
+              "id": "step_1748846026576",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1748846056587",
+              "type": "choice",
+              "content": "妙/水濑/纪子/由贵 /须美"
+            },
+            {
+              "id": "step_1748846138651",
+              "type": "choice",
+              "content": "[和妙一起走]/和水濑一起走/和纪子一起走/自己走/和健太郎一起走"
+            },
+            {
+              "id": "step_1748846459111",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_1748846466143",
+              "type": "choice",
+              "content": "水濑"
+            },
+            {
+              "id": "step_1748846580499",
+              "type": "choice",
+              "content": "妙/水濑/纪子/由贵 /须美"
+            },
+            {
+              "id": "step_1748846670353",
+              "type": "choice",
+              "content": "健太郎藏起来了/ 健太郎偷走了/健 太郎卖了/健太郎烧了/反正健太郎肯定做什么了"
+            },
+            {
+              "id": "step_1748846741276",
+              "type": "choice",
+              "content": "妙/水濑/纪子/由贵 /须美"
+            },
+            {
+              "id": "step_1748846799436",
+              "type": "choice",
+              "content": "妙/水濑/[纪子]/由贵 /[须美]"
+            },
+            {
+              "id": "step_1748846820697",
+              "type": "choice",
+              "content": "水濑"
+            },
+            {
+              "id": "step_1748846826085",
+              "type": "choice",
+              "content": "妙/水濑/纪子/[由贵] /[须美]"
+            },
+            {
+              "id": "step_1748846904841",
+              "type": "choice",
+              "content": "跟在水濑身后"
+            },
+            {
+              "id": "step_1748846941963",
+              "type": "choice",
+              "content": "水濑"
+            },
+            {
+              "id": "step_1748846942193",
+              "type": "choice",
+              "content": "……稍微绕个远路吧"
+            },
+            {
+              "id": "step_1748846942519",
+              "type": "choice",
+              "content": "妙/水濑/纪子/[由贵] /须美"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1748847036421",
+      "name": "今宫 纪子",
+      "endings": [
+        {
+          "id": "ending_1748847049587",
+          "name": "纪子 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1748847975010",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1748847980668",
+              "type": "choice",
+              "content": "妙/水濑/纪子/由贵 /须美"
+            },
+            {
+              "id": "step_1748848004498",
+              "type": "choice",
+              "content": "纪子"
+            },
+            {
+              "id": "step_1748848004644",
+              "type": "choice",
+              "content": "妙/水濑/纪子/由贵 /须美"
+            },
+            {
+              "id": "step_1748848004784",
+              "type": "choice",
+              "content": "健太郎藏起来了/ 健太郎偷走了/健 太郎卖了/健太郎烧了/反正健太郎肯定做什么了"
+            },
+            {
+              "id": "step_1748848004932",
+              "type": "choice",
+              "content": "纪子"
+            },
+            {
+              "id": "step_1748848076820",
+              "type": "choice",
+              "content": "妙/[水濑]/纪子/由贵 /[须美]"
+            },
+            {
+              "id": "step_1748848077503",
+              "type": "choice",
+              "content": "妙/水濑/纪子/[由贵] /须美"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1748848269722",
+      "name": "云雀丘 由贵",
+      "endings": [
+        {
+          "id": "ending_1748848304809",
+          "name": "由贵",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1748848313386",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1748848404118",
+              "type": "choice",
+              "content": "由贵"
+            },
+            {
+              "id": "step_1748848405975",
+              "type": "choice",
+              "content": "[和妙一起走]/和水濑一起走/和纪子一起走/自己走/和健太郎一起走"
+            },
+            {
+              "id": "step_1748848406095",
+              "type": "choice",
+              "content": "妙/水濑/纪子/由贵 /须美"
+            },
+            {
+              "id": "step_1748848490472",
+              "type": "choice",
+              "content": "健太郎藏起来了/ 健太郎偷走了/健 太郎卖了/健太郎烧了/反正健太郎肯定做什么了"
+            },
+            {
+              "id": "step_1748848490618",
+              "type": "choice",
+              "content": "妙/水濑/纪子/由贵 /须美"
+            },
+            {
+              "id": "step_1748848490743",
+              "type": "choice",
+              "content": "由贵"
+            },
+            {
+              "id": "step_1748848521671",
+              "type": "choice",
+              "content": "妙/[水濑]/纪子/由贵 /[须美]"
+            },
+            {
+              "id": "step_1748848521895",
+              "type": "choice",
+              "content": "由贵"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1748848606871",
+      "name": "御影 须美",
+      "endings": [
+        {
+          "id": "ending_1748848665035",
+          "name": "须美 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1748848687426",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1748848693424",
+              "type": "choice",
+              "content": "须美"
+            },
+            {
+              "id": "step_1748848693867",
+              "type": "choice",
+              "content": "健太郎藏起来了/ 健太郎偷走了/健 太郎卖了/健太郎烧了/反正健太郎肯定做什么了"
+            },
+            {
+              "id": "step_1748848694026",
+              "type": "choice",
+              "content": "妙/水濑/纪子/由贵/须美"
+            },
+            {
+              "id": "step_1748848694165",
+              "type": "choice",
+              "content": "妙/水濑/[纪子]/由贵 /[须美]"
+            },
+            {
+              "id": "step_1748848694389",
+              "type": "choice",
+              "content": "须美"
+            },
+            {
+              "id": "step_1748848824267",
+              "type": "choice",
+              "content": "妙/水濑/纪子/[由贵]/须美"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "vid": "v15064",
+  "name": {
+    "zh-cn": "雪恋交融",
+    "en-us": "Yukikoi Melt",
+    "ja-jp": "ゆきこいめると",
+    "ja-Latn": "yukimel"
+  },
+  "level": 2,
+  "updatedAt": "2026-02-27",
+  "routes": [
+    {
+      "id": "route_1755265951302",
+      "name": "姬巡 樽火",
+      "endings": [
+        {
+          "id": "ending_1755266168260",
+          "name": "樽火 END 1",
+          "type": "good",
+          "steps": [
+            {
+              "id": "step_1755266302519",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1755266303923",
+              "type": "choice",
+              "content": "拂去积雪"
+            },
+            {
+              "id": "step_1755266304612",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1755266305876",
+              "type": "choice",
+              "content": "「姬巡 樽火」"
+            },
+            {
+              "id": "step_1755266307005",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_1755266308658",
+              "type": "choice",
+              "content": "还是顺从欲望用润滑液吧"
+            },
+            {
+              "id": "step_1755266309051",
+              "type": "choice",
+              "content": "直接内射（拔出后射在肛门上）"
+            },
+            {
+              "id": "step_1755266309488",
+              "type": "choice",
+              "content": "在阴道内射精（射在身上）（让她更撒娇）"
+            }
+          ]
+        },
+        {
+          "id": "ending_1755267024594",
+          "name": "樽火 END 2",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_1755267039463",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1755267040676",
+              "type": "choice",
+              "content": "捏住她翘起的头发（兽耳？）"
+            }
+          ]
+        },
+        {
+          "id": "ending_1755267085211",
+          "name": "CG回收‌",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755267091319",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1755267100704",
+              "type": "choice",
+              "content": "两人一起去集章活动吧"
+            },
+            {
+              "id": "step_1755267101303",
+              "type": "choice",
+              "content": "直接注入内部（拔出后射在制服上）"
+            },
+            {
+              "id": "step_1755267101780",
+              "type": "choice",
+              "content": "（稍微挑逗后再内射）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755267289187",
+      "name": "烈风寺 华音",
+      "endings": [
+        {
+          "id": "ending_1755267291812",
+          "name": "华音 END 1",
+          "type": "good",
+          "steps": [
+            {
+              "id": "step_1755267334666",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1755267406978",
+              "type": "choice",
+              "content": "「烈风寺 华音」"
+            }
+          ]
+        },
+        {
+          "id": "ending_1755267433914",
+          "name": "华音 END 2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755267536778",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1755267557605",
+              "type": "choice",
+              "content": "画面右上角的「三桥小姐」"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755267583165",
+      "name": "宇奈月 雫里",
+      "endings": [
+        {
+          "id": "ending_1755267592959",
+          "name": "雫里 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755267598710",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1755267608726",
+              "type": "choice",
+              "content": "「宇奈月 雫里」"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755267659103",
+      "name": "白 雪姬",
+      "endings": [
+        {
+          "id": "ending_1755267670123",
+          "name": "雪姬 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755267677989",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1755267685079",
+              "type": "choice",
+              "content": "「白 雪姬」"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

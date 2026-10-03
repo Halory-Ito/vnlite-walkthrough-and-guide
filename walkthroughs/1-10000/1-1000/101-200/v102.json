@@ -1,0 +1,408 @@
+{
+  "vid": "v102",
+  "name": {
+    "zh-cn": "月光嘉年华",
+    "ja-jp": "月光のカルネヴァーレ",
+    "ja-Latn": "gekkou-no-carnevale"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-15",
+  "routes": [
+    {
+      "id": "route_game",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_anna_bad",
+          "name": "BAD END",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_anna_01",
+              "type": "choice",
+              "content": "去救人"
+            },
+            {
+              "id": "step_anna_02",
+              "type": "choice",
+              "content": "进入建筑物"
+            },
+            {
+              "id": "step_anna_03",
+              "type": "choice",
+              "content": "收下",
+              "prefix": "★"
+            },
+            {
+              "id": "step_anna_04",
+              "type": "choice",
+              "content": "挑衅卡尔梅罗"
+            },
+            {
+              "id": "step_anna_05",
+              "type": "choice",
+              "content": "为了安娜"
+            },
+            {
+              "id": "step_anna_06",
+              "type": "choice",
+              "content": "不承认曾经学过"
+            },
+            {
+              "id": "step_anna_07",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_anna_08",
+              "type": "choice",
+              "content": "自己带着"
+            }
+          ]
+        },
+        {
+          "id": "ending_anna_end1",
+          "name": "安娜 END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_anna_end1_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_anna_end1_02",
+              "type": "choice",
+              "content": "交给诺艾露"
+            },
+            {
+              "id": "step_anna_end1_03",
+              "type": "choice",
+              "content": "现在，在贝尔蒙特的理由",
+              "prefix": "★"
+            },
+            {
+              "id": "step_anna_end1_04",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_anna_end1_05",
+              "type": "choice",
+              "content": "带她逃走"
+            },
+            {
+              "id": "step_anna_end1_06",
+              "type": "choice",
+              "content": "跟露娜莉亚说话"
+            },
+            {
+              "id": "step_anna_end1_07",
+              "type": "choice",
+              "content": "不理睬无聊的问题"
+            },
+            {
+              "id": "step_anna_end1_08",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_anna_end1_09",
+              "type": "choice",
+              "content": "搪塞"
+            },
+            {
+              "id": "step_anna_end1_10",
+              "type": "choice",
+              "content": "冲进去",
+              "prefix": "★"
+            },
+            {
+              "id": "step_anna_end1_11",
+              "type": "choice",
+              "content": "拾起匕首",
+              "prefix": "★"
+            },
+            {
+              "id": "step_anna_end1_12",
+              "type": "choice",
+              "content": "冲到舞台边缘",
+              "prefix": "★"
+            },
+            {
+              "id": "step_anna_end1_13",
+              "type": "choice",
+              "content": "呼唤安娜",
+              "prefix": "★"
+            },
+            {
+              "id": "step_anna_end1_14",
+              "type": "choice",
+              "content": "留在家里",
+              "prefix": "★"
+            },
+            {
+              "id": "step_anna_end1_15",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_anna_end1_16",
+              "type": "choice",
+              "content": "这是梦"
+            }
+          ]
+        },
+        {
+          "id": "ending_anna_end2",
+          "name": "安娜 END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_anna_end2_01",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_anna_end2_02",
+              "type": "choice",
+              "content": "这不是梦"
+            }
+          ]
+        },
+        {
+          "id": "ending_noel_end1",
+          "name": "诺艾露 END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_noel_end1_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_noel_end1_02",
+              "type": "choice",
+              "content": "让她下车"
+            },
+            {
+              "id": "step_noel_end1_03",
+              "type": "save",
+              "content": "SAVE 5"
+            },
+            {
+              "id": "step_noel_end1_04",
+              "type": "choice",
+              "content": "分别",
+              "prefix": "★"
+            },
+            {
+              "id": "step_noel_end1_05",
+              "type": "choice",
+              "content": "同意成为助手"
+            },
+            {
+              "id": "step_noel_end1_06",
+              "type": "choice",
+              "content": "点头",
+              "prefix": "★"
+            },
+            {
+              "id": "step_noel_end1_07",
+              "type": "save",
+              "content": "SAVE 6"
+            },
+            {
+              "id": "step_noel_end1_08",
+              "type": "choice",
+              "content": "告诉她地点"
+            }
+          ]
+        },
+        {
+          "id": "ending_noel_end2",
+          "name": "诺艾露 END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_noel_end2_01",
+              "type": "load",
+              "content": "LOAD 6"
+            },
+            {
+              "id": "step_noel_end2_02",
+              "type": "choice",
+              "content": "不告诉她地点"
+            }
+          ]
+        },
+        {
+          "id": "ending_lunalia_bad",
+          "name": "BAD END2",
+          "type": "bad",
+          "requirements": "安娜END后",
+          "steps": [
+            {
+              "id": "step_lunalia_02",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_lunalia_03",
+              "type": "choice",
+              "content": "承认"
+            },
+            {
+              "id": "step_lunalia_04",
+              "type": "choice",
+              "content": "陪她"
+            },
+            {
+              "id": "step_lunalia_05",
+              "type": "choice",
+              "content": "冲进去"
+            },
+            {
+              "id": "step_lunalia_06",
+              "type": "choice",
+              "content": "拾起匕首"
+            },
+            {
+              "id": "step_lunalia_07",
+              "type": "choice",
+              "content": "冲到舞台边缘"
+            },
+            {
+              "id": "step_lunalia_08",
+              "type": "choice",
+              "content": "不知道理由",
+              "prefix": "★"
+            },
+            {
+              "id": "step_lunalia_09",
+              "type": "save",
+              "content": "SAVE 7"
+            },
+            {
+              "id": "step_lunalia_10",
+              "type": "choice",
+              "content": "安娜"
+            }
+          ]
+        },
+        {
+          "id": "ending_lunalia_end1",
+          "name": "露娜莉亚 END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_lunalia_end1_01",
+              "type": "load",
+              "content": "LOAD 7"
+            },
+            {
+              "id": "step_lunalia_end1_02",
+              "type": "choice",
+              "content": "露娜莉亚"
+            },
+            {
+              "id": "step_lunalia_end1_03",
+              "type": "choice",
+              "content": "不摘护身符",
+              "prefix": "★"
+            },
+            {
+              "id": "step_lunalia_end1_04",
+              "type": "choice",
+              "content": "拿出Granfia",
+              "prefix": "★"
+            },
+            {
+              "id": "step_lunalia_end1_05",
+              "type": "save",
+              "content": "SAVE 8"
+            },
+            {
+              "id": "step_lunalia_end1_06",
+              "type": "choice",
+              "content": "制止露娜莉亚"
+            }
+          ]
+        },
+        {
+          "id": "ending_lunalia_end2",
+          "name": "露娜莉亚 END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_lunalia_end2_01",
+              "type": "load",
+              "content": "LOAD 8"
+            },
+            {
+              "id": "step_lunalia_end2_02",
+              "type": "choice",
+              "content": "不制止露娜莉亚"
+            }
+          ]
+        },
+        {
+          "id": "ending_rebecca_end1",
+          "name": "蕾贝卡 END1",
+          "type": "normal",
+          "requirements": "诺艾露END后",
+          "steps": [
+            {
+              "id": "step_rebecca_02",
+              "type": "load",
+              "content": "LOAD 5"
+            },
+            {
+              "id": "step_rebecca_03",
+              "type": "choice",
+              "content": "分别"
+            },
+            {
+              "id": "step_rebecca_04",
+              "type": "choice",
+              "content": "夺枪"
+            },
+            {
+              "id": "step_rebecca_05",
+              "type": "choice",
+              "content": "让船加速",
+              "prefix": "★"
+            },
+            {
+              "id": "step_rebecca_06",
+              "type": "save",
+              "content": "SAVE 9"
+            },
+            {
+              "id": "step_rebecca_07",
+              "type": "choice",
+              "content": "允许"
+            }
+          ]
+        },
+        {
+          "id": "ending_rebecca_end2",
+          "name": "蕾贝卡 END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_rebecca_end2_01",
+              "type": "load",
+              "content": "LOAD 9"
+            },
+            {
+              "id": "step_rebecca_end2_02",
+              "type": "choice",
+              "content": "不允许"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

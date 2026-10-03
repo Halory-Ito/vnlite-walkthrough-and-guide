@@ -1,0 +1,361 @@
+{
+  "vid": "v35899",
+  "name": {
+    "zh-cn": "夏之终熄",
+    "ja-jp": "夏ノ終熄",
+    "ja-Latn": "natsu-no-owari"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-13",
+  "routes": [
+    {
+      "id": "route_1762074913082",
+      "name": "一周目",
+      "endings": [
+        {
+          "id": "ending_1762075946139",
+          "name": "END 1",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_1762075978951",
+              "type": "choice",
+              "content": "山"
+            },
+            {
+              "id": "step_1762075979133",
+              "type": "choice",
+              "content": "就把这当成自己家吧"
+            },
+            {
+              "id": "step_1762075980130",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1762075991260",
+              "type": "choice",
+              "content": "河"
+            },
+            {
+              "id": "step_1762075991434",
+              "type": "choice",
+              "content": "开心的回忆呢？"
+            },
+            {
+              "id": "step_1762075991736",
+              "type": "choice",
+              "content": "空房子（干货）"
+            },
+            {
+              "id": "step_1762075992293",
+              "type": "choice",
+              "content": "对的"
+            },
+            {
+              "id": "step_1762076025172",
+              "type": "choice",
+              "content": "实话实说，没有"
+            },
+            {
+              "id": "step_1762076025358",
+              "type": "choice",
+              "content": "山"
+            },
+            {
+              "id": "step_1762076025510",
+              "type": "choice",
+              "content": "劝她尝尝"
+            },
+            {
+              "id": "step_1762076025641",
+              "type": "choice",
+              "content": "不帮"
+            },
+            {
+              "id": "step_1762076025835",
+              "type": "choice",
+              "content": "野生的美少女出现啦"
+            },
+            {
+              "id": "step_1762076026137",
+              "type": "choice",
+              "content": "河"
+            },
+            {
+              "id": "step_1762076026313",
+              "type": "choice",
+              "content": "喜欢吃什么"
+            },
+            {
+              "id": "step_1762076026495",
+              "type": "choice",
+              "content": "像你一样的"
+            },
+            {
+              "id": "step_1762076026655",
+              "type": "choice",
+              "content": "里面/外面"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762076102781",
+          "name": "END 2",
+          "type": "good",
+          "steps": [
+            {
+              "id": "step_1762076108687",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1762076112311",
+              "type": "choice",
+              "content": "山"
+            },
+            {
+              "id": "step_1762076112503",
+              "type": "choice",
+              "content": "劝她尝尝"
+            },
+            {
+              "id": "step_1762076112737",
+              "type": "choice",
+              "content": "朋友呢"
+            },
+            {
+              "id": "step_1762076113091",
+              "type": "choice",
+              "content": "山"
+            },
+            {
+              "id": "step_1762076113331",
+              "type": "choice",
+              "content": "再劝她尝尝"
+            },
+            {
+              "id": "step_1762076113680",
+              "type": "choice",
+              "content": "对的"
+            },
+            {
+              "id": "step_1762076114618",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1762076139641",
+              "type": "choice",
+              "content": "山"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762076267967",
+          "name": "END 3",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_1762076282538",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1762076290954",
+              "type": "choice",
+              "content": "空房子（干货）"
+            },
+            {
+              "id": "step_1762076291129",
+              "type": "choice",
+              "content": "帮"
+            },
+            {
+              "id": "step_1762076291317",
+              "type": "choice",
+              "content": "要面子，说有过"
+            },
+            {
+              "id": "step_1762076291730",
+              "type": "choice",
+              "content": "山"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1762076342225",
+      "name": "二周目",
+      "endings": [
+        {
+          "id": "ending_1762076368802",
+          "name": "END 4",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762076393503",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_1762076404777",
+              "type": "choice",
+              "content": "空房子（捕猎）"
+            },
+            {
+              "id": "step_1762076405012",
+              "type": "choice",
+              "content": "就把这当成自己家吧"
+            },
+            {
+              "id": "step_1762076405404",
+              "type": "choice",
+              "content": "空房子（干货）"
+            },
+            {
+              "id": "step_1762076405668",
+              "type": "choice",
+              "content": "开心的回忆呢？"
+            },
+            {
+              "id": "step_1762076405969",
+              "type": "choice",
+              "content": "实话实说，没有"
+            },
+            {
+              "id": "step_1762076406293",
+              "type": "choice",
+              "content": "山"
+            },
+            {
+              "id": "step_1762076406652",
+              "type": "choice",
+              "content": "对的"
+            },
+            {
+              "id": "step_1762076407001",
+              "type": "choice",
+              "content": "野生的美少女出现啦"
+            },
+            {
+              "id": "step_1762076407381",
+              "type": "choice",
+              "content": "山"
+            },
+            {
+              "id": "step_1762076407876",
+              "type": "choice",
+              "content": "不帮"
+            },
+            {
+              "id": "step_1762076408213",
+              "type": "choice",
+              "content": "像你一样的"
+            },
+            {
+              "id": "step_1762076408564",
+              "type": "choice",
+              "content": "山"
+            },
+            {
+              "id": "step_1762076408949",
+              "type": "choice",
+              "content": "中chu"
+            },
+            {
+              "id": "step_1762076502817",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_1762076507712",
+              "type": "choice",
+              "content": "外面"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762076553026",
+          "name": "END 5",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_1762076562332",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1762076569395",
+              "type": "choice",
+              "content": "空房子（钓鱼）"
+            },
+            {
+              "id": "step_1762076569578",
+              "type": "choice",
+              "content": "就把这当成自己家吧"
+            },
+            {
+              "id": "step_1762076569744",
+              "type": "choice",
+              "content": "河"
+            },
+            {
+              "id": "step_1762076569867",
+              "type": "choice",
+              "content": "开心的回忆呢？"
+            },
+            {
+              "id": "step_1762076569997",
+              "type": "choice",
+              "content": "河"
+            },
+            {
+              "id": "step_1762076614044",
+              "type": "choice",
+              "content": "对的"
+            },
+            {
+              "id": "step_1762076614251",
+              "type": "choice",
+              "content": "河"
+            },
+            {
+              "id": "step_1762076614809",
+              "type": "choice",
+              "content": "里面"
+            },
+            {
+              "id": "step_1762076625849",
+              "type": "save",
+              "content": "SAVE 5"
+            },
+            {
+              "id": "step_1762076632235",
+              "type": "choice",
+              "content": "里面"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762076674134",
+          "name": "END 6",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_1762076680407",
+              "type": "load",
+              "content": "LOAD 5"
+            },
+            {
+              "id": "step_1762076686896",
+              "type": "choice",
+              "content": "外面"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,374 @@
+{
+  "vid": "v37",
+  "name": {
+    "zh-cn": "腐姫 ～euthanasia～",
+    "en-us": "The Rotting Princess ~Euthanasia~",
+    "ja-jp": "腐り姫 ～euthanasia～",
+    "ja-Latn": "kusarihime-euthanasia"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-13",
+  "routes": [
+    {
+      "id": "route_1767428716813",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1767428760745",
+          "name": "一周目",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1767428814116",
+              "type": "choice",
+              "content": "不关上收音机的话……"
+            },
+            {
+              "id": "step_1767428814282",
+              "type": "choice",
+              "content": "…………"
+            },
+            {
+              "id": "step_1767428814444",
+              "type": "choice",
+              "content": "………………"
+            },
+            {
+              "id": "step_1767428814669",
+              "type": "choice",
+              "content": "……让润带她回去吧。"
+            },
+            {
+              "id": "step_1767428814857",
+              "type": "choice",
+              "content": "果然还是送到旅馆吧。"
+            },
+            {
+              "id": "step_1767428815059",
+              "type": "choice",
+              "content": "听我说树里的事情。"
+            },
+            {
+              "id": "step_1767428815253",
+              "type": "choice",
+              "content": "老实自报姓名/装作是润/盯向母亲"
+            },
+            {
+              "id": "step_1767428815535",
+              "type": "choice",
+              "content": "开门警告她"
+            },
+            {
+              "id": "step_1767428815768",
+              "type": "choice",
+              "content": "…………"
+            },
+            {
+              "id": "step_1767428920941",
+              "type": "choice",
+              "content": "…………还，还差一点……"
+            },
+            {
+              "id": "step_1767428923331",
+              "type": "choice",
+              "content": "……想要见你。伊势。"
+            },
+            {
+              "id": "step_1767428925968",
+              "type": "choice",
+              "content": "……伊势!"
+            },
+            {
+              "id": "step_1767428926204",
+              "type": "choice",
+              "content": "免费畅饮的酒国小镇"
+            },
+            {
+              "id": "step_1767428926353",
+              "type": "choice",
+              "content": "等等。我现在就开灯。"
+            },
+            {
+              "id": "step_1767428926524",
+              "type": "choice",
+              "content": "你不是我的恋人吗。"
+            },
+            {
+              "id": "step_1767428926753",
+              "type": "choice",
+              "content": "只是你的心意就足够了。"
+            },
+            {
+              "id": "step_1767428926965",
+              "type": "choice",
+              "content": "母亲"
+            },
+            {
+              "id": "step_1767428927154",
+              "type": "choice",
+              "content": "尽管如此我还在迷惑"
+            },
+            {
+              "id": "step_1767428927591",
+              "type": "choice",
+              "content": "感到身心畅快的幸福"
+            },
+            {
+              "id": "step_1767428980410",
+              "type": "choice",
+              "content": "无论何时，我都会原谅姐的哟"
+            },
+            {
+              "id": "step_1767428980626",
+              "type": "choice",
+              "content": "见"
+            },
+            {
+              "id": "step_1767428980836",
+              "type": "choice",
+              "content": "肯定"
+            },
+            {
+              "id": "step_1767428981057",
+              "type": "choice",
+              "content": "我相信树里"
+            },
+            {
+              "id": "step_1767428981505",
+              "type": "choice",
+              "content": "感受到了同青磁之间的羁绊"
+            },
+            {
+              "id": "step_1767428981750",
+              "type": "choice",
+              "content": "不同意"
+            },
+            {
+              "id": "step_1767428981992",
+              "type": "choice",
+              "content": "因能实现，方为梦想"
+            },
+            {
+              "id": "step_1767429037303",
+              "type": "choice",
+              "content": "先选第3个……这不是终结"
+            }
+          ]
+        },
+        {
+          "id": "ending_1767428761385",
+          "name": "二周目",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1767429078949",
+              "type": "choice",
+              "content": "第二遍用快进到选择支几分钟就好了"
+            },
+            {
+              "id": "step_1767429079145",
+              "type": "choice",
+              "content": "第二遍到润那里会多出选项第一遍的时候没有"
+            },
+            {
+              "id": "step_1767429079377",
+              "type": "choice",
+              "content": "给润一个吻"
+            },
+            {
+              "id": "step_1767429079585",
+              "type": "choice",
+              "content": "把润当成自己的妹妹"
+            },
+            {
+              "id": "step_1767429079771",
+              "type": "choice",
+              "content": "选第一个给润一个吻"
+            },
+            {
+              "id": "step_1767429079936",
+              "type": "choice",
+              "content": "接着快进到最后三选一"
+            },
+            {
+              "id": "step_1767429080286",
+              "type": "choice",
+              "content": "第二周目选第二个：结束这一切。"
+            }
+          ]
+        },
+        {
+          "id": "ending_1767428761737",
+          "name": "三周目",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1767429133285",
+              "type": "choice",
+              "content": "第三周目重复第二周目的过程唯一不同的是三选一。"
+            },
+            {
+              "id": "step_1767429133515",
+              "type": "choice",
+              "content": "第三周目三选一的时候选：和藏女一起活下去。"
+            }
+          ]
+        },
+        {
+          "id": "ending_1767428762210",
+          "name": "四周目",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1767429199545",
+              "type": "choice",
+              "content": "我也下楼吧。"
+            },
+            {
+              "id": "step_1767429199703",
+              "type": "choice",
+              "content": "我自己带她去。"
+            },
+            {
+              "id": "step_1767429199881",
+              "type": "choice",
+              "content": "嗯，打电话来的是…"
+            },
+            {
+              "id": "step_1767429200046",
+              "type": "choice",
+              "content": "老实自报姓名/装作是润/盯向母亲"
+            },
+            {
+              "id": "step_1767429200221",
+              "type": "choice",
+              "content": "收集记忆的断片"
+            },
+            {
+              "id": "step_1767429200368",
+              "type": "choice",
+              "content": "免费畅饮的酒国小镇"
+            },
+            {
+              "id": "step_1767429200517",
+              "type": "choice",
+              "content": "等等。我现在就开灯。"
+            },
+            {
+              "id": "step_1767429200676",
+              "type": "choice",
+              "content": "你不是我的恋人吗。"
+            },
+            {
+              "id": "step_1767429200842",
+              "type": "choice",
+              "content": "只是你的心意就足够了。"
+            },
+            {
+              "id": "step_1767429201003",
+              "type": "choice",
+              "content": "母亲"
+            },
+            {
+              "id": "step_1767429201152",
+              "type": "choice",
+              "content": "不犹豫"
+            },
+            {
+              "id": "step_1767429274949",
+              "type": "choice",
+              "content": "感到非常的不安"
+            },
+            {
+              "id": "step_1767429275120",
+              "type": "choice",
+              "content": "感觉到自己不幸的过去"
+            },
+            {
+              "id": "step_1767429275275",
+              "type": "choice",
+              "content": "紧抱住润"
+            },
+            {
+              "id": "step_1767429275640",
+              "type": "choice",
+              "content": "无论何时，我都会原谅姐的哟"
+            },
+            {
+              "id": "step_1767429286005",
+              "type": "choice",
+              "content": "把润当成自己的妹妹"
+            }
+          ]
+        },
+        {
+          "id": "ending_1767428762577",
+          "name": "五周目",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1767429371630",
+              "type": "choice",
+              "content": "用快进到选择支"
+            },
+            {
+              "id": "step_1767429371819",
+              "type": "choice",
+              "content": "同样跟四周目一样"
+            },
+            {
+              "id": "step_1767429372001",
+              "type": "choice",
+              "content": "到青磁二选一那"
+            },
+            {
+              "id": "step_1767429372181",
+              "type": "choice",
+              "content": "感受到了同青磁之间的羁绊"
+            },
+            {
+              "id": "step_1767429372365",
+              "type": "choice",
+              "content": "无论何时，我都会原谅姐的哟"
+            },
+            {
+              "id": "step_1767429372530",
+              "type": "choice",
+              "content": "追寻家人的身影"
+            },
+            {
+              "id": "step_1767429372718",
+              "type": "choice",
+              "content": "见"
+            },
+            {
+              "id": "step_1767429372908",
+              "type": "choice",
+              "content": "答不上来"
+            },
+            {
+              "id": "step_1767429373166",
+              "type": "choice",
+              "content": "将此身沉溺于她的。。之中。"
+            },
+            {
+              "id": "step_1767429374996",
+              "type": "choice",
+              "content": "积极地吐露出自己的欲望。"
+            },
+            {
+              "id": "step_1767429375279",
+              "type": "choice",
+              "content": "让此身随波逐流"
+            },
+            {
+              "id": "step_1767429375634",
+              "type": "choice",
+              "content": "把润当成自己的妹妹"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

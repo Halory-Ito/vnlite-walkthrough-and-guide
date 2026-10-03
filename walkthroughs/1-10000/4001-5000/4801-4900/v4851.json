@@ -1,0 +1,905 @@
+{
+  "vid": "v4851",
+  "name": {
+    "zh-cn": "如月金★星",
+    "ja-jp": "キサラギGOLD★STAR",
+    "ja-Latn": "kisaragi-gold-star"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-14",
+  "routes": [
+    {
+      "id": "route_1772955216628",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1772955432415",
+          "name": "远藤沙弥 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1772955439945",
+              "type": "choice",
+              "content": "去放着吉祥物角色的门口",
+              "group": "9月13日"
+            },
+            {
+              "id": "step_1772955440100",
+              "type": "choice",
+              "content": "去挂着很时尚的牌子的门口",
+              "group": "9月13日"
+            },
+            {
+              "id": "step_1772955440277",
+              "type": "choice",
+              "content": "去装饰着不起眼的花的门口",
+              "group": "9月13日"
+            },
+            {
+              "id": "step_1772955440435",
+              "type": "choice",
+              "content": "去不知为何摆设着一排排蘑菇的门口",
+              "group": "9月13日"
+            },
+            {
+              "id": "step_1772955440582",
+              "type": "choice",
+              "content": "不知道我家里的情况怎么样了",
+              "group": "9月13日"
+            },
+            {
+              "id": "step_1772955440741",
+              "type": "choice",
+              "content": "是你不认识的女孩子",
+              "group": "9月13日"
+            },
+            {
+              "id": "step_1772955440896",
+              "type": "choice",
+              "content": "「小一!加油啊!」",
+              "group": "9月14日"
+            },
+            {
+              "id": "step_1772955441039",
+              "type": "choice",
+              "content": "问翼",
+              "group": "9月15日"
+            },
+            {
+              "id": "step_1772955856529",
+              "type": "choice",
+              "content": "问一歌",
+              "group": "9月15日"
+            },
+            {
+              "id": "step_1772955856702",
+              "type": "choice",
+              "content": "问命",
+              "group": "9月15日"
+            },
+            {
+              "id": "step_1772955856880",
+              "type": "choice",
+              "content": "问瞳",
+              "group": "9月15日"
+            },
+            {
+              "id": "step_1772955857046",
+              "type": "choice",
+              "content": "求之不得，来就来",
+              "group": "9月15日"
+            },
+            {
+              "id": "step_1772955857211",
+              "type": "choice",
+              "content": "秋樱庄",
+              "prefix": "☆",
+              "group": "9月15日"
+            },
+            {
+              "id": "step_1772955857376",
+              "type": "choice",
+              "content": "商店街",
+              "prefix": "☆",
+              "group": "9月15日"
+            },
+            {
+              "id": "step_1772955857489",
+              "type": "choice",
+              "content": "姬见站",
+              "prefix": "☆",
+              "group": "9月15日"
+            },
+            {
+              "id": "step_1772955857645",
+              "type": "choice",
+              "content": "高级住宅街",
+              "prefix": "☆",
+              "group": "9月15日"
+            },
+            {
+              "id": "step_1772955857789",
+              "type": "choice",
+              "content": "沙弥如何?",
+              "group": "9月15日"
+            },
+            {
+              "id": "step_1772955857927",
+              "type": "choice",
+              "content": "翼如何?",
+              "group": "9月15日"
+            },
+            {
+              "id": "step_1772955858209",
+              "type": "choice",
+              "content": "一歌如何?",
+              "group": "9月15日"
+            },
+            {
+              "id": "step_1772955976508",
+              "type": "choice",
+              "content": "命如何?",
+              "group": "9月15日"
+            },
+            {
+              "id": "step_1772955976798",
+              "type": "choice",
+              "content": "瞳如何?",
+              "group": "9月15日"
+            },
+            {
+              "id": "step_1772955978138",
+              "type": "save",
+              "content": "SAVE 1",
+              "group": "9月24日"
+            },
+            {
+              "id": "step_1772956047618",
+              "type": "choice",
+              "content": "沙弥",
+              "prefix": "★",
+              "group": "9月25日"
+            },
+            {
+              "id": "step_1772956047809",
+              "type": "choice",
+              "content": "沙弥",
+              "prefix": "★",
+              "group": "9月26日"
+            },
+            {
+              "id": "step_1772956047990",
+              "type": "choice",
+              "content": "沙弥",
+              "prefix": "★",
+              "group": "9月27日"
+            },
+            {
+              "id": "step_1772956048176",
+              "type": "choice",
+              "content": "大腿",
+              "group": "10月4日"
+            },
+            {
+              "id": "step_1772956048885",
+              "type": "choice",
+              "content": "就像兄妹一样",
+              "group": "10月9日"
+            },
+            {
+              "id": "step_1772956492011",
+              "type": "choice",
+              "content": "被打败了",
+              "group": "10月10日"
+            },
+            {
+              "id": "step_1772956492208",
+              "type": "save",
+              "content": "SAVE 2",
+              "group": "10月12日"
+            },
+            {
+              "id": "step_1772956492378",
+              "type": "choice",
+              "content": "快说我爱二见",
+              "group": "10月12日"
+            },
+            {
+              "id": "step_1772956862186",
+              "type": "note",
+              "content": "沙弥END后"
+            },
+            {
+              "id": "step_1772956866510",
+              "type": "load",
+              "content": "LOAD 2",
+              "group": "10月12日"
+            },
+            {
+              "id": "step_1772956926115",
+              "type": "choice",
+              "content": "嘎噢",
+              "group": "10月12日"
+            },
+            {
+              "id": "step_1772956934633",
+              "type": "choice",
+              "content": "一边叫着她的名字，再稍微积存一会儿",
+              "group": "10月12日"
+            }
+          ]
+        },
+        {
+          "id": "ending_1772955432583",
+          "name": "羽音音翼 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1772957025322",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1772957026422",
+              "type": "choice",
+              "content": "翼",
+              "prefix": "★",
+              "group": "9月24日"
+            },
+            {
+              "id": "step_1772957026784",
+              "type": "choice",
+              "content": "先自己做自我介绍",
+              "group": "9月24日"
+            },
+            {
+              "id": "step_1772957026974",
+              "type": "choice",
+              "content": "翼",
+              "prefix": "★",
+              "group": "9月25日"
+            },
+            {
+              "id": "step_1772957027416",
+              "type": "choice",
+              "content": "明天也来帮酒铺的忙",
+              "group": "9月25日"
+            },
+            {
+              "id": "step_1772957029183",
+              "type": "save",
+              "content": "SAVE 3",
+              "group": "9月26日"
+            },
+            {
+              "id": "step_1772958240897",
+              "type": "choice",
+              "content": "翼",
+              "prefix": "★",
+              "group": "9月26日"
+            },
+            {
+              "id": "step_1772958241055",
+              "type": "choice",
+              "content": "翼",
+              "prefix": "★",
+              "group": "9月27日"
+            },
+            {
+              "id": "step_1772958241211",
+              "type": "choice",
+              "content": "去istanbul咖啡店",
+              "group": "9月27日"
+            },
+            {
+              "id": "step_1772958241376",
+              "type": "choice",
+              "content": "去羽音音酒铺",
+              "group": "9月27日"
+            },
+            {
+              "id": "step_1772958259232",
+              "type": "save",
+              "content": "SAVE 4",
+              "group": "10月14日"
+            },
+            {
+              "id": "step_1772958259394",
+              "type": "note",
+              "content": "翼END后"
+            },
+            {
+              "id": "step_1772958259534",
+              "type": "load",
+              "content": "LOAD 4",
+              "group": "10月14日"
+            },
+            {
+              "id": "step_1772958259699",
+              "type": "choice",
+              "content": "真想吃翼的咖喱啊……",
+              "group": "10月14日"
+            }
+          ]
+        },
+        {
+          "id": "ending_1772955432813",
+          "name": "蓬田奈奈子 END",
+          "type": "normal",
+          "requirements": "翼END后",
+          "steps": [
+            {
+              "id": "step_1772958449961",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1772958453256",
+              "type": "choice",
+              "content": "翼",
+              "prefix": "★",
+              "group": "9月26日"
+            },
+            {
+              "id": "step_1772958556070",
+              "type": "choice",
+              "content": "我也想被奈奈子抚摸脑袋",
+              "group": "9月26日"
+            },
+            {
+              "id": "step_1772958556256",
+              "type": "choice",
+              "content": "翼",
+              "prefix": "★",
+              "group": "9月27日"
+            },
+            {
+              "id": "step_1772958556487",
+              "type": "choice",
+              "content": "去istanbul咖啡店",
+              "group": "9月27日"
+            },
+            {
+              "id": "step_1772958556669",
+              "type": "choice",
+              "content": "奈奈子真是温柔啊……",
+              "group": "9月27日"
+            }
+          ]
+        },
+        {
+          "id": "ending_1772958578834",
+          "name": "藤丸命 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1772958609485",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1772958611632",
+              "type": "choice",
+              "content": "命",
+              "prefix": "★",
+              "group": "9月24日"
+            },
+            {
+              "id": "step_1772958611801",
+              "type": "choice",
+              "content": "命",
+              "prefix": "★",
+              "group": "9月25日"
+            },
+            {
+              "id": "step_1772958611944",
+              "type": "choice",
+              "content": "玩杂耍进入",
+              "group": "9月25日"
+            },
+            {
+              "id": "step_1772958612103",
+              "type": "choice",
+              "content": "命",
+              "prefix": "★",
+              "group": "9月26日"
+            },
+            {
+              "id": "step_1772958612370",
+              "type": "choice",
+              "content": "正是如此!",
+              "group": "9月26日"
+            },
+            {
+              "id": "step_1772958612583",
+              "type": "choice",
+              "content": "命",
+              "prefix": "★",
+              "group": "9月27日"
+            },
+            {
+              "id": "step_1772958612746",
+              "type": "choice",
+              "content": "让她看看我帅气的一面!",
+              "group": "9月27日"
+            },
+            {
+              "id": "step_1772958612985",
+              "type": "choice",
+              "content": "奈奈子",
+              "prefix": "★",
+              "group": "9月28日"
+            },
+            {
+              "id": "step_1772958661084",
+              "type": "choice",
+              "content": "命",
+              "prefix": "★",
+              "group": "9月29日"
+            },
+            {
+              "id": "step_1772958661268",
+              "type": "choice",
+              "content": "不假思索地拒绝",
+              "group": "9月29日"
+            },
+            {
+              "id": "step_1772958661394",
+              "type": "save",
+              "content": "SAVE 5",
+              "group": "10月11日"
+            },
+            {
+              "id": "step_1772958661606",
+              "type": "note",
+              "content": "命END后",
+              "group": "10月11日"
+            },
+            {
+              "id": "step_1772958722487",
+              "type": "load",
+              "content": "LOAD 5",
+              "group": "10月11日"
+            },
+            {
+              "id": "step_1772958729695",
+              "type": "choice",
+              "content": "二话不说亲上去",
+              "group": "10月11日"
+            }
+          ]
+        },
+        {
+          "id": "ending_1772958753944",
+          "name": "雾岛冬理 END",
+          "type": "normal",
+          "requirements": "沙弥、命END后，从最初开始",
+          "steps": [
+            {
+              "id": "step_1772958815902",
+              "type": "note",
+              "content": "跳过序章"
+            },
+            {
+              "id": "step_1772958820093",
+              "type": "choice",
+              "content": "声乐",
+              "group": "9月24日"
+            },
+            {
+              "id": "step_1772958820283",
+              "type": "choice",
+              "content": "冬理",
+              "prefix": "★",
+              "group": "9月24日"
+            },
+            {
+              "id": "step_1772958820445",
+              "type": "choice",
+              "content": "奈奈子",
+              "prefix": "★",
+              "group": "9月25日"
+            },
+            {
+              "id": "step_1772958820605",
+              "type": "choice",
+              "content": "奈奈子",
+              "prefix": "★",
+              "group": "9月26日"
+            },
+            {
+              "id": "step_1772958820748",
+              "type": "choice",
+              "content": "冬理",
+              "prefix": "★",
+              "group": "9月27日"
+            },
+            {
+              "id": "step_1772958820901",
+              "type": "choice",
+              "content": "奈奈子",
+              "prefix": "★",
+              "group": "9月28日"
+            },
+            {
+              "id": "step_1772958821092",
+              "type": "choice",
+              "content": "冬理",
+              "prefix": "★",
+              "group": "9月29日"
+            }
+          ]
+        },
+        {
+          "id": "ending_1772958949179",
+          "name": "新田一歌 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1772958964617",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1772958966089",
+              "type": "choice",
+              "content": "一歌",
+              "prefix": "★",
+              "group": "9月24日"
+            },
+            {
+              "id": "step_1772958966301",
+              "type": "choice",
+              "content": "一歌加油!",
+              "group": "9月24日"
+            },
+            {
+              "id": "step_1772958966545",
+              "type": "choice",
+              "content": "一歌",
+              "prefix": "★",
+              "group": "9月25日"
+            },
+            {
+              "id": "step_1772958966766",
+              "type": "choice",
+              "content": "一歌",
+              "prefix": "★",
+              "group": "9月26日"
+            },
+            {
+              "id": "step_1772958966952",
+              "type": "choice",
+              "content": "一歌",
+              "prefix": "★",
+              "group": "9月27日"
+            },
+            {
+              "id": "step_1772958967123",
+              "type": "choice",
+              "content": "哪儿也不让她去",
+              "subfix": "【选择“让她去集训”，进入一歌线惊悚结局1】",
+              "group": "10月2日"
+            },
+            {
+              "id": "step_1772958967313",
+              "type": "choice",
+              "content": "一歌，好可爱!",
+              "group": "10月4日"
+            },
+            {
+              "id": "step_1772959038166",
+              "type": "save",
+              "content": "SAVE 6",
+              "group": "10月4日"
+            },
+            {
+              "id": "step_1772959046691",
+              "type": "choice",
+              "content": "外国人果然很激烈啊",
+              "group": "10月4日"
+            },
+            {
+              "id": "step_1772959051507",
+              "type": "choice",
+              "content": "小汪",
+              "group": "10月6日"
+            },
+            {
+              "id": "step_1772959051816",
+              "type": "choice",
+              "content": "已经变成了1个女孩子",
+              "subfix": "【选择“是最重要的妹妹”，进入一歌线惊悚结局2】",
+              "group": "10月9日"
+            },
+            {
+              "id": "step_1772959133377",
+              "type": "save",
+              "content": "SAVE 7",
+              "group": "10月15日"
+            },
+            {
+              "id": "step_1772959154818",
+              "type": "note",
+              "content": "一歌END后"
+            },
+            {
+              "id": "step_1772959161412",
+              "type": "load",
+              "content": "LOAD 7",
+              "group": "10月15日"
+            },
+            {
+              "id": "step_1772959169627",
+              "type": "choice",
+              "content": "先去澡堂",
+              "group": "10月15日"
+            }
+          ]
+        },
+        {
+          "id": "ending_1772959201764",
+          "name": "月咏三剑士 END",
+          "type": "normal",
+          "requirements": "沙弥线、一歌线END后",
+          "steps": [
+            {
+              "id": "step_1772959395216",
+              "type": "load",
+              "content": "LOAD 6"
+            },
+            {
+              "id": "step_1772959399135",
+              "type": "choice",
+              "content": "一脸淡定地换频道"
+            },
+            {
+              "id": "step_1772959399368",
+              "type": "choice",
+              "content": "还是一个人去澡堂洗澡吧"
+            },
+            {
+              "id": "step_1772959399589",
+              "type": "choice",
+              "content": "今晚无论如何都想洗澡"
+            },
+            {
+              "id": "step_1772959399919",
+              "type": "choice",
+              "content": "事到如今，岂能抽手?"
+            },
+            {
+              "id": "step_1772959400151",
+              "type": "save",
+              "content": "SAVE 8",
+              "group": "10月17日"
+            },
+            {
+              "id": "step_1772959400383",
+              "type": "choice",
+              "content": "去英子身边",
+              "group": "10月17日"
+            },
+            {
+              "id": "step_1772960111867",
+              "type": "note",
+              "content": "英子 END",
+              "group": "10月17日"
+            },
+            {
+              "id": "step_1772960116340",
+              "type": "load",
+              "content": "LOAD 8",
+              "group": "10月17日"
+            },
+            {
+              "id": "step_1772960127414",
+              "type": "choice",
+              "content": "去桂子身边",
+              "group": "10月17日"
+            },
+            {
+              "id": "step_1772960132382",
+              "type": "note",
+              "content": "桂子 END",
+              "group": "10月17日"
+            },
+            {
+              "id": "step_1772960140093",
+              "type": "load",
+              "content": "LOAD 8",
+              "group": "10月17日"
+            },
+            {
+              "id": "step_1772960156215",
+              "type": "choice",
+              "content": "去一穴身边",
+              "group": "10月17日"
+            }
+          ]
+        },
+        {
+          "id": "ending_1772960235684",
+          "name": "真结局",
+          "type": "true",
+          "requirements": "以上所有END后，从最初开始",
+          "steps": [
+            {
+              "id": "step_1772960295858",
+              "type": "choice",
+              "content": "观看序章"
+            },
+            {
+              "id": "step_1772960297739",
+              "type": "choice",
+              "content": "伸手",
+              "group": "9月13日"
+            },
+            {
+              "id": "step_1772960331817",
+              "type": "choice",
+              "content": "醒来",
+              "group": "9月14日"
+            },
+            {
+              "id": "step_1772960298036",
+              "type": "choice",
+              "content": "「一歌!我爱你哦!」",
+              "group": "9月14日"
+            },
+            {
+              "id": "step_1772960298276",
+              "type": "choice",
+              "content": "问翼",
+              "group": "9月15日"
+            },
+            {
+              "id": "step_1772960372818",
+              "type": "choice",
+              "content": "问一歌",
+              "group": "9月15日"
+            },
+            {
+              "id": "step_1772960373039",
+              "type": "choice",
+              "content": "问命",
+              "group": "9月15日"
+            },
+            {
+              "id": "step_1772960373252",
+              "type": "choice",
+              "content": "问瞳",
+              "group": "9月15日"
+            },
+            {
+              "id": "step_1772960373423",
+              "type": "choice",
+              "content": "这怎么行?",
+              "group": "9月15日"
+            },
+            {
+              "id": "step_1772960373713",
+              "type": "choice",
+              "content": "秋樱庄",
+              "prefix": "☆",
+              "group": "9月15日"
+            },
+            {
+              "id": "step_1772960373922",
+              "type": "choice",
+              "content": "商店街",
+              "prefix": "☆",
+              "group": "9月15日"
+            },
+            {
+              "id": "step_1772960374109",
+              "type": "choice",
+              "content": "姬见站",
+              "prefix": "☆",
+              "group": "9月15日"
+            },
+            {
+              "id": "step_1772960374271",
+              "type": "choice",
+              "content": "高级住宅街",
+              "prefix": "☆",
+              "group": "9月15日"
+            },
+            {
+              "id": "step_1772960374435",
+              "type": "choice",
+              "content": "河岸地",
+              "prefix": "☆",
+              "group": "9月15日"
+            },
+            {
+              "id": "step_1772960374603",
+              "type": "choice",
+              "content": "沙弥",
+              "group": "9月26日"
+            },
+            {
+              "id": "step_1772960374767",
+              "type": "choice",
+              "content": "翼",
+              "group": "9月26日"
+            },
+            {
+              "id": "step_1772960374922",
+              "type": "choice",
+              "content": "命",
+              "group": "9月26日"
+            },
+            {
+              "id": "step_1772960375095",
+              "type": "choice",
+              "content": "一歌",
+              "group": "9月26日"
+            }
+          ]
+        },
+        {
+          "id": "ending_1772960449456",
+          "name": "田边叶月 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1772960473331",
+              "type": "note",
+              "content": "从9月24日起，人物全部选择奈奈子，进入通常结局"
+            },
+            {
+              "id": "step_1772960482432",
+              "type": "choice",
+              "content": "奈奈子",
+              "prefix": "★",
+              "group": "9月24日"
+            },
+            {
+              "id": "step_1772960482629",
+              "type": "choice",
+              "content": "奈奈子",
+              "prefix": "★",
+              "group": "9月25日"
+            },
+            {
+              "id": "step_1772960482797",
+              "type": "choice",
+              "content": "奈奈子",
+              "prefix": "★",
+              "group": "9月26日"
+            },
+            {
+              "id": "step_1772960482954",
+              "type": "choice",
+              "content": "冬理",
+              "prefix": "★",
+              "group": "9月27日"
+            },
+            {
+              "id": "step_1772960483132",
+              "type": "choice",
+              "content": "翼",
+              "prefix": "★",
+              "group": "9月28日"
+            },
+            {
+              "id": "step_1772960483314",
+              "type": "choice",
+              "content": "一歌",
+              "prefix": "★",
+              "group": "9月29日"
+            },
+            {
+              "id": "step_1772960483484",
+              "type": "choice",
+              "content": "冬理",
+              "prefix": "★",
+              "group": "9月30日"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

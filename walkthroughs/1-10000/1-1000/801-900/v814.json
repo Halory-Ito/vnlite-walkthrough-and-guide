@@ -1,0 +1,380 @@
+{
+  "vid": "v814",
+  "name": {
+    "zh-cn": "HimeのちHoney",
+    "ja-jp": "HimeのちHoney",
+    "ja-Latn": "hime-nochi-honey"
+  },
+  "level": 2,
+  "updatedAt": "2026-02-27",
+  "routes": [
+    {
+      "id": "route_1755616174625",
+      "name": "清良",
+      "endings": [
+        {
+          "id": "ending_1755616214422",
+          "name": "清良 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755616225608",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1755616228464",
+              "type": "choice",
+              "content": "没什么特别的事就回家"
+            },
+            {
+              "id": "step_1755616228630",
+              "type": "choice",
+              "content": "今天就早点睡吧"
+            },
+            {
+              "id": "step_1755616228863",
+              "type": "choice",
+              "content": "没什么特别的事就回家"
+            },
+            {
+              "id": "step_1755616229030",
+              "type": "choice",
+              "content": "今天就早点睡吧"
+            },
+            {
+              "id": "step_1755616229268",
+              "type": "choice",
+              "content": "没什么特别的事就回家"
+            },
+            {
+              "id": "step_1755616229430",
+              "type": "choice",
+              "content": "今天就早点睡吧"
+            },
+            {
+              "id": "step_1755616266947",
+              "type": "choice",
+              "content": "没什么特别的事就回家"
+            },
+            {
+              "id": "step_1755616267295",
+              "type": "choice",
+              "content": "今天就早点睡吧"
+            },
+            {
+              "id": "step_1755616275906",
+              "type": "choice",
+              "content": "没什么特别的事就回家"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755616286987",
+      "name": "鹤未",
+      "endings": [
+        {
+          "id": "ending_1755616289397",
+          "name": "鹤未 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755616294631",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1755616295497",
+              "type": "choice",
+              "content": "去管理部露个脸"
+            },
+            {
+              "id": "step_1755616295766",
+              "type": "choice",
+              "content": "今天就早点睡吧"
+            },
+            {
+              "id": "step_1755616295942",
+              "type": "choice",
+              "content": "去管理部露个脸"
+            },
+            {
+              "id": "step_1755616296091",
+              "type": "choice",
+              "content": "今天就早点睡吧"
+            },
+            {
+              "id": "step_1755616296257",
+              "type": "choice",
+              "content": "去管理部露个脸"
+            },
+            {
+              "id": "step_1755616296420",
+              "type": "choice",
+              "content": "今天就早点睡吧"
+            },
+            {
+              "id": "step_1755616296561",
+              "type": "choice",
+              "content": "去管理部露个脸"
+            },
+            {
+              "id": "step_1755616328732",
+              "type": "choice",
+              "content": "今天就早点睡吧"
+            },
+            {
+              "id": "step_1755616328888",
+              "type": "choice",
+              "content": "去管理部露个脸"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755616346323",
+      "name": "惠理栖",
+      "endings": [
+        {
+          "id": "ending_1755616353929",
+          "name": "惠理栖 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755616374835",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1755616375688",
+              "type": "choice",
+              "content": "总觉得肚子饿了"
+            },
+            {
+              "id": "step_1755616375875",
+              "type": "choice",
+              "content": "今天就早点睡吧"
+            },
+            {
+              "id": "step_1755616376192",
+              "type": "choice",
+              "content": "总觉得肚子饿了"
+            },
+            {
+              "id": "step_1755616376373",
+              "type": "choice",
+              "content": "今天就早点睡吧"
+            },
+            {
+              "id": "step_1755616376510",
+              "type": "choice",
+              "content": "总觉得肚子饿了"
+            },
+            {
+              "id": "step_1755616376659",
+              "type": "choice",
+              "content": "今天就早点睡吧"
+            },
+            {
+              "id": "step_1755616407216",
+              "type": "choice",
+              "content": "还是闲逛着回去吧"
+            },
+            {
+              "id": "step_1755616407395",
+              "type": "choice",
+              "content": "去中庭"
+            },
+            {
+              "id": "step_1755616407575",
+              "type": "choice",
+              "content": "今天就早点睡吧"
+            },
+            {
+              "id": "step_1755616416716",
+              "type": "choice",
+              "content": "去管理部露个脸"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755616424712",
+      "name": "心爱",
+      "endings": [
+        {
+          "id": "ending_1755616430733",
+          "name": "心爱 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755616435731",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1755616436575",
+              "type": "choice",
+              "content": "找个地方逛逛再回"
+            },
+            {
+              "id": "step_1755616436733",
+              "type": "choice",
+              "content": "上街去"
+            },
+            {
+              "id": "step_1755616436868",
+              "type": "choice",
+              "content": "今天就早点睡吧"
+            },
+            {
+              "id": "step_1755616437004",
+              "type": "choice",
+              "content": "走廊那边好像很吵啊"
+            },
+            {
+              "id": "step_1755616437158",
+              "type": "choice",
+              "content": "今天就早点睡吧"
+            },
+            {
+              "id": "step_1755616437467",
+              "type": "choice",
+              "content": "挑战塞西尔的课题"
+            },
+            {
+              "id": "step_1755616473062",
+              "type": "choice",
+              "content": "今天就早点睡吧"
+            },
+            {
+              "id": "step_1755616473212",
+              "type": "choice",
+              "content": "总觉得有点吵闹啊"
+            },
+            {
+              "id": "step_1755616473384",
+              "type": "choice",
+              "content": "挑战塞西尔的课题"
+            },
+            {
+              "id": "step_1755616473533",
+              "type": "choice",
+              "content": "今天就早点睡吧"
+            },
+            {
+              "id": "step_1755616473684",
+              "type": "choice",
+              "content": "给塞西尔打电话"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755616501523",
+      "name": "芹",
+      "endings": [
+        {
+          "id": "ending_1755616510922",
+          "name": "芹 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755616521475",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1755616522592",
+              "type": "choice",
+              "content": "找个地方逛逛再回"
+            },
+            {
+              "id": "step_1755616522761",
+              "type": "choice",
+              "content": "去劳伦斯女学院"
+            },
+            {
+              "id": "step_1755616522922",
+              "type": "choice",
+              "content": "听广播"
+            },
+            {
+              "id": "step_1755616523037",
+              "type": "choice",
+              "content": "好想去厕所！"
+            },
+            {
+              "id": "step_1755616541681",
+              "type": "choice",
+              "content": "听广播"
+            },
+            {
+              "id": "step_1755616542122",
+              "type": "choice",
+              "content": "说起来好像忘了什么…"
+            },
+            {
+              "id": "step_1755616542306",
+              "type": "choice",
+              "content": "听广播"
+            },
+            {
+              "id": "step_1755616542454",
+              "type": "choice",
+              "content": "试着回想芹的话"
+            },
+            {
+              "id": "step_1755616542611",
+              "type": "choice",
+              "content": "给芹打电话"
+            },
+            {
+              "id": "step_1755616562261",
+              "type": "choice",
+              "content": "听广播"
+            },
+            {
+              "id": "step_1755616565983",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1755616576596",
+              "type": "choice",
+              "content": "去劳伦斯"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755616586220",
+      "name": "娜娜",
+      "endings": [
+        {
+          "id": "ending_1755616605057",
+          "name": "娜娜 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755616611552",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1755616620509",
+              "type": "choice",
+              "content": "总觉得肚子饿了"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

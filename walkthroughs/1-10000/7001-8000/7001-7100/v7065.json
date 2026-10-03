@@ -1,0 +1,61 @@
+{
+  "vid": "v7065",
+  "name": {
+    "zh-cn": "Tiny Dungeon～BIRTH for YOURS～",
+    "ja-Latn": "tiny-dungeon-birth-for-yours"
+  },
+  "level": 2,
+  "updatedAt": "2026-05-07",
+  "routes": [
+    {
+      "id": "route_1778155137857",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1778155150607",
+          "name": "END 1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1778155166829",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1778155167800",
+              "type": "choice",
+              "content": "回房間鑽被窩睡覺"
+            },
+            {
+              "id": "step_1778155168047",
+              "type": "choice",
+              "content": "不與兀露露說話"
+            }
+          ]
+        },
+        {
+          "id": "ending_1778155180980",
+          "name": "END 2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1778155200870",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1778155204291",
+              "type": "choice",
+              "content": "去大浴場歇一會兒"
+            },
+            {
+              "id": "step_1778155204542",
+              "type": "choice",
+              "content": "過去與兀露露說話"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

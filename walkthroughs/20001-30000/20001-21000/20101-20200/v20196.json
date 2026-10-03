@@ -1,0 +1,142 @@
+{
+  "vid": "v20196",
+  "name": {
+    "zh-cn": "甜糖热恋",
+    "en-us": "Sugar Sweet Temptation",
+    "ja-jp": "しゅがてん！-sugarfull tempering-",
+    "ja-Latn": "shugaten-sugarfull-tempering"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-13",
+  "routes": [
+    {
+      "id": "route_1771758546482",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1771758558213",
+          "name": "圣代桥冰织 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1771758606951",
+              "type": "choice",
+              "content": "也盯着他看"
+            },
+            {
+              "id": "step_1771758607156",
+              "type": "choice",
+              "content": "撤退不行的话就推过去吧"
+            },
+            {
+              "id": "step_1771758607573",
+              "type": "choice",
+              "content": "接下来"
+            },
+            {
+              "id": "step_1771758608658",
+              "type": "choice",
+              "content": "非常合适啊"
+            },
+            {
+              "id": "step_1771758609008",
+              "type": "choice",
+              "content": "冰织"
+            },
+            {
+              "id": "step_1771758609327",
+              "type": "choice",
+              "content": "向她搭话"
+            }
+          ]
+        },
+        {
+          "id": "ending_1771758558570",
+          "name": "古仓芽瑠 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1771758703774",
+              "type": "choice",
+              "content": "也盯着他看"
+            },
+            {
+              "id": "step_1771758704567",
+              "type": "choice",
+              "content": "撤退不行的话就推过去吧"
+            },
+            {
+              "id": "step_1771758704749",
+              "type": "choice",
+              "content": "接下来"
+            },
+            {
+              "id": "step_1771758704926",
+              "type": "choice",
+              "content": "非常合适啊"
+            },
+            {
+              "id": "step_1771758705110",
+              "type": "choice",
+              "content": "芽瑠"
+            },
+            {
+              "id": "step_1771758706059",
+              "type": "choice",
+              "content": "挠她"
+            }
+          ]
+        },
+        {
+          "id": "ending_1771758558923",
+          "name": "巧克拉尼居 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1771758798708",
+              "type": "choice",
+              "content": "也盯着他看"
+            },
+            {
+              "id": "step_1771758798917",
+              "type": "choice",
+              "content": "撤退不行的话就推过去吧"
+            },
+            {
+              "id": "step_1771758799218",
+              "type": "choice",
+              "content": "接下来"
+            },
+            {
+              "id": "step_1771758799403",
+              "type": "choice",
+              "content": "非常合适啊"
+            },
+            {
+              "id": "step_1771758799655",
+              "type": "choice",
+              "content": "巧克拉"
+            },
+            {
+              "id": "step_1771758799923",
+              "type": "choice",
+              "content": "玩雪"
+            }
+          ]
+        },
+        {
+          "id": "ending_1771758897330",
+          "name": "TRUE END",
+          "type": "true",
+          "requirements": "3人攻略后，从标题画面点击EPILOGUE",
+          "steps": [
+            {
+              "type": "choice",
+              "content": "（源站步骤均为空）"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

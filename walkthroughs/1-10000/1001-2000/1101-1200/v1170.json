@@ -1,0 +1,1417 @@
+{
+  "vid": "v1170",
+  "name": {
+    "zh-cn": "想君：秋之回忆3",
+    "ja-jp": "想い出にかわる君 ～メモリーズオフ～",
+    "ja-Latn": "memories-off-3"
+  },
+  "level": 1,
+  "updatedAt": "2026-03-25",
+  "tips": [
+    "完成后解锁开始菜单界面的Memories和后日谈"
+  ],
+  "routes": [
+    {
+      "id": "route_memories_off_3",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_otsu_good",
+          "name": "音绪 END1",
+          "type": "good",
+          "steps": [
+            {
+              "id": "step_otsu_good_03",
+              "type": "choice",
+              "content": "2）该怎么说呢......",
+              "group": "7/9"
+            },
+            {
+              "id": "step_otsu_good_04",
+              "type": "choice",
+              "content": "2）怎么说呢？",
+              "group": "7/9"
+            },
+            {
+              "id": "step_otsu_good_07",
+              "type": "choice",
+              "content": "2）该怎么说呢......",
+              "group": "7/10"
+            },
+            {
+              "id": "step_otsu_good_09",
+              "type": "choice",
+              "content": "1）很稀奇呢",
+              "group": "7/10"
+            },
+            {
+              "id": "step_otsu_good_10",
+              "type": "choice",
+              "content": "1）一定要借",
+              "group": "7/10"
+            },
+            {
+              "id": "step_otsu_good_12",
+              "type": "choice",
+              "content": "2）理解能力真差啊",
+              "group": "7/11"
+            },
+            {
+              "id": "step_otsu_good_13",
+              "type": "choice",
+              "content": "1）一鼓作气读吧",
+              "group": "7/11"
+            },
+            {
+              "id": "step_otsu_good_15",
+              "type": "choice",
+              "content": "1）再好好仔细地读吧",
+              "group": "7/12"
+            },
+            {
+              "id": "step_otsu_good_16",
+              "type": "choice",
+              "content": "1）加油，音绪！！ 我支持你。",
+              "group": "7/12"
+            },
+            {
+              "id": "step_otsu_good_17",
+              "type": "choice",
+              "content": "1）音绪跟店长......",
+              "group": "7/12"
+            },
+            {
+              "id": "step_otsu_good_19",
+              "type": "choice",
+              "content": "2）呜~~嗯......",
+              "group": "7/12"
+            },
+            {
+              "id": "step_otsu_good_21",
+              "type": "choice",
+              "content": "1）越来越觉得有趣......",
+              "group": "7/13"
+            },
+            {
+              "id": "step_otsu_good_22",
+              "type": "choice",
+              "content": "2）一点也不",
+              "group": "7/14"
+            },
+            {
+              "id": "step_otsu_good_24",
+              "type": "choice",
+              "content": "2）快乐的事。",
+              "group": "7/15"
+            },
+            {
+              "id": "step_otsu_good_25",
+              "type": "choice",
+              "content": "2）那边......",
+              "group": "7/15"
+            },
+            {
+              "id": "step_otsu_good_26",
+              "type": "choice",
+              "content": "2）老实说是不怎么喜欢啦，可是......",
+              "group": "7/15"
+            },
+            {
+              "id": "step_otsu_good_28",
+              "type": "choice",
+              "content": "1）去学校",
+              "group": "7/16"
+            },
+            {
+              "id": "step_otsu_good_29",
+              "type": "choice",
+              "content": "1）她是指教授的理论与毕卡索很像？",
+              "group": "7/16"
+            },
+            {
+              "id": "step_otsu_good_31",
+              "type": "choice",
+              "content": "2）答应她的邀约......",
+              "group": "7/16"
+            },
+            {
+              "id": "step_otsu_good_33",
+              "type": "choice",
+              "content": "1）「PA」",
+              "group": "7/16"
+            },
+            {
+              "id": "step_otsu_good_34",
+              "type": "choice",
+              "content": "2）我想想......",
+              "group": "7/16"
+            },
+            {
+              "id": "step_otsu_good_35",
+              "type": "choice",
+              "content": "2）不去学校",
+              "group": "7/17"
+            },
+            {
+              "id": "step_otsu_good_37",
+              "type": "choice",
+              "content": "2）压抑着冲动犹豫着......",
+              "group": "7/17"
+            },
+            {
+              "id": "step_otsu_good_38",
+              "type": "choice",
+              "content": "1）得赶紧先读「银河铁道之夜」",
+              "group": "7/17"
+            },
+            {
+              "id": "step_otsu_good_39",
+              "type": "choice",
+              "content": "2）啊，等等",
+              "group": "7/18"
+            },
+            {
+              "id": "step_otsu_good_41",
+              "type": "choice",
+              "content": "2）与音绪有同感。",
+              "group": "7/19"
+            },
+            {
+              "id": "step_otsu_good_42",
+              "type": "choice",
+              "content": "2）不知道要讲什么好。",
+              "group": "7/19"
+            },
+            {
+              "id": "step_otsu_good_44",
+              "type": "choice",
+              "content": "1）回家睡觉吧",
+              "group": "7/21"
+            },
+            {
+              "id": "step_otsu_good_45",
+              "type": "choice",
+              "content": "1）音绪的房间",
+              "group": "7/21"
+            },
+            {
+              "id": "step_otsu_good_46",
+              "type": "choice",
+              "content": "1）深步的房间",
+              "group": "7/21"
+            },
+            {
+              "id": "step_otsu_good_48",
+              "type": "choice",
+              "content": "1）当然会，可是……",
+              "group": "7/23"
+            },
+            {
+              "id": "step_otsu_good_50",
+              "type": "choice",
+              "content": "1）通知音绪吧",
+              "group": "7/23"
+            },
+            {
+              "id": "step_otsu_good_51",
+              "type": "choice",
+              "content": "1）询问他和深步的关系",
+              "group": "7/24"
+            },
+            {
+              "id": "step_otsu_good_53",
+              "type": "save",
+              "content": "SAVE 1",
+              "group": "7/27"
+            },
+            {
+              "id": "step_otsu_good_54",
+              "type": "choice",
+              "content": "1）打给音绪......",
+              "group": "7/27"
+            },
+            {
+              "id": "step_otsu_good_55",
+              "type": "choice",
+              "content": "1）会发现。",
+              "group": "7/28"
+            },
+            {
+              "id": "step_otsu_good_57",
+              "type": "choice",
+              "content": "1）打手机看看",
+              "group": "8/1"
+            },
+            {
+              "id": "step_otsu_good_58",
+              "type": "choice",
+              "content": "2）还是要赌猜中机率高的水果类",
+              "group": "8/6"
+            },
+            {
+              "id": "step_otsu_good_62",
+              "type": "choice",
+              "content": "1）想再次仔细地阅览留言版上的留言。",
+              "group": "8/9"
+            },
+            {
+              "id": "step_otsu_good_63",
+              "type": "choice",
+              "content": "2）太狡猾了，深步。",
+              "group": "8/9"
+            },
+            {
+              "id": "step_otsu_good_66",
+              "type": "save",
+              "content": "SAVE 2",
+              "group": "8/10"
+            },
+            {
+              "id": "step_otsu_good_67",
+              "type": "choice",
+              "content": "2）管他电影好不好看，当然想跟音绪一起去。",
+              "group": "8/10"
+            }
+          ]
+        },
+        {
+          "id": "ending_otsu_bad",
+          "name": "音绪 END2",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_otsu_bad_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_otsu_bad_02",
+              "type": "choice",
+              "content": "1）怎么办？ 对这部电影实在没兴趣。",
+              "group": "8/10"
+            }
+          ]
+        },
+        {
+          "id": "ending_miyu_good",
+          "name": "深步 END1",
+          "type": "good",
+          "steps": [
+            {
+              "id": "step_miyu_good_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_miyu_good_02",
+              "type": "choice",
+              "content": "2）打给深步......",
+              "group": "7/27"
+            },
+            {
+              "id": "step_miyu_good_04",
+              "type": "save",
+              "content": "SAVE 3",
+              "group": "7/29"
+            },
+            {
+              "id": "step_miyu_good_05",
+              "type": "choice",
+              "content": "2）想独自去追深步",
+              "group": "7/29"
+            }
+          ]
+        },
+        {
+          "id": "ending_miyu_bad",
+          "name": "深步 END2",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_miyu_bad_01",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_miyu_bad_02",
+              "type": "choice",
+              "content": "1）希望音绪帮忙"
+            }
+          ]
+        },
+        {
+          "id": "ending_shazi_good",
+          "name": "沙子 END1",
+          "type": "good",
+          "steps": [
+            {
+              "id": "step_shazi_good_02",
+              "type": "choice",
+              "content": "2）无所谓"
+            },
+            {
+              "id": "step_shazi_good_05",
+              "type": "choice",
+              "content": "2）无所谓......"
+            },
+            {
+              "id": "step_shazi_good_06",
+              "type": "choice",
+              "content": "2）无所谓"
+            },
+            {
+              "id": "step_shazi_good_07",
+              "type": "choice",
+              "content": "1）是个很漂亮的女孩子",
+              "group": "7/9"
+            },
+            {
+              "id": "step_shazi_good_08",
+              "type": "choice",
+              "content": "2）怎么说呢？",
+              "group": "7/9"
+            },
+            {
+              "id": "step_shazi_good_09",
+              "type": "choice",
+              "content": "2）该怎么说呢......",
+              "group": "7/10"
+            },
+            {
+              "id": "step_shazi_good_10",
+              "type": "choice",
+              "content": "2）不是很普通的名字",
+              "group": "7/10"
+            },
+            {
+              "id": "step_shazi_good_11",
+              "type": "choice",
+              "content": "2）无所谓",
+              "group": "7/10"
+            },
+            {
+              "id": "step_shazi_good_12",
+              "type": "choice",
+              "content": "2）理解能力真差啊",
+              "group": "7/11"
+            },
+            {
+              "id": "step_shazi_good_13",
+              "type": "choice",
+              "content": "2）现在实在没这个心情",
+              "group": "7/11"
+            },
+            {
+              "id": "step_shazi_good_14",
+              "type": "choice",
+              "content": "2）得赶快看完还她",
+              "group": "7/12"
+            },
+            {
+              "id": "step_shazi_good_15",
+              "type": "choice",
+              "content": "2）音绪……没想到她还真不服输。",
+              "group": "7/12"
+            },
+            {
+              "id": "step_shazi_good_16",
+              "type": "choice",
+              "content": "1）音绪跟店长......",
+              "group": "7/12"
+            },
+            {
+              "id": "step_shazi_good_17",
+              "type": "choice",
+              "content": "2）呜~~嗯......",
+              "group": "7/12"
+            },
+            {
+              "id": "step_shazi_good_18",
+              "type": "choice",
+              "content": "2）无所谓",
+              "group": "7/12"
+            },
+            {
+              "id": "step_shazi_good_19",
+              "type": "choice",
+              "content": "2）也不是这么说......",
+              "group": "7/13"
+            },
+            {
+              "id": "step_shazi_good_20",
+              "type": "choice",
+              "content": "2）一点也不",
+              "group": "7/14"
+            },
+            {
+              "id": "step_shazi_good_21",
+              "type": "choice",
+              "content": "1）刺激的事。",
+              "group": "7/15"
+            },
+            {
+              "id": "step_shazi_good_22",
+              "type": "choice",
+              "content": "1）这边......",
+              "group": "7/15"
+            },
+            {
+              "id": "step_shazi_good_23",
+              "type": "choice",
+              "content": "2）我刚才会不会说的太过分了？",
+              "group": "7/15"
+            },
+            {
+              "id": "step_shazi_good_25",
+              "type": "choice",
+              "content": "2）老实说……是不怎么喜欢啦，可是……",
+              "group": "7/15"
+            },
+            {
+              "id": "step_shazi_good_26",
+              "type": "choice",
+              "content": "1）去学校",
+              "group": "7/16"
+            },
+            {
+              "id": "step_shazi_good_27",
+              "type": "choice",
+              "content": "3）该不会只是说长相而已？",
+              "group": "7/16"
+            },
+            {
+              "id": "step_shazi_good_28",
+              "type": "choice",
+              "content": "2）答应她的邀约......",
+              "group": "7/16"
+            },
+            {
+              "id": "step_shazi_good_29",
+              "type": "choice",
+              "content": "3）「PU」",
+              "group": "7/16"
+            },
+            {
+              "id": "step_shazi_good_30",
+              "type": "choice",
+              "content": "2）我想想......",
+              "group": "7/16"
+            },
+            {
+              "id": "step_shazi_good_31",
+              "type": "choice",
+              "content": "1）去学校",
+              "group": "7/17"
+            },
+            {
+              "id": "step_shazi_good_32",
+              "type": "choice",
+              "content": "1）随着冲动拿起手机。",
+              "group": "7/17"
+            },
+            {
+              "id": "step_shazi_good_33",
+              "type": "choice",
+              "content": "2）边听ＭＤ，边读「PUCHIPOCHI」吧",
+              "group": "7/17"
+            },
+            {
+              "id": "step_shazi_good_35",
+              "type": "choice",
+              "content": "1）受不了......",
+              "group": "7/18"
+            },
+            {
+              "id": "step_shazi_good_36",
+              "type": "choice",
+              "content": "2）......等等。",
+              "group": "7/18"
+            },
+            {
+              "id": "step_shazi_good_38",
+              "type": "choice",
+              "content": "1）可能帮得上那由的忙。",
+              "group": "7/21"
+            },
+            {
+              "id": "step_shazi_good_39",
+              "type": "choice",
+              "content": "1）骗人，这是有点伤人的玩笑吗？",
+              "group": "7/22"
+            },
+            {
+              "id": "step_shazi_good_40",
+              "type": "save",
+              "content": "SAVE 4",
+              "group": "7/22"
+            },
+            {
+              "id": "step_shazi_good_41",
+              "type": "choice",
+              "content": "2）可以的话……也跟沙子面对面谈谈看。",
+              "group": "7/22"
+            },
+            {
+              "id": "step_shazi_good_43",
+              "type": "choice",
+              "content": "2）认真地回想看看。",
+              "group": "7/27"
+            },
+            {
+              "id": "step_shazi_good_44",
+              "type": "choice",
+              "content": "1）找沙子。",
+              "group": "7/29"
+            },
+            {
+              "id": "step_shazi_good_46",
+              "type": "choice",
+              "content": "1）选择沙子",
+              "group": "9/2"
+            },
+            {
+              "id": "step_shazi_good_50",
+              "type": "save",
+              "content": "SAVE 5",
+              "group": "9/5"
+            },
+            {
+              "id": "step_shazi_good_51",
+              "type": "choice",
+              "content": "2）无罪",
+              "group": "9/5"
+            }
+          ]
+        },
+        {
+          "id": "ending_shazi_normal",
+          "name": "沙子 END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_shazi_normal_01",
+              "type": "load",
+              "content": "LOAD 5"
+            },
+            {
+              "id": "step_shazi_normal_02",
+              "type": "choice",
+              "content": "3）不知道"
+            }
+          ]
+        },
+        {
+          "id": "ending_shazi_bad",
+          "name": "沙子 END3",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_shazi_bad_01",
+              "type": "load",
+              "content": "LOAD 5"
+            },
+            {
+              "id": "step_shazi_bad_02",
+              "type": "choice",
+              "content": "1）有罪"
+            }
+          ]
+        },
+        {
+          "id": "ending_nayuta_good",
+          "name": "那由多 END1",
+          "type": "good",
+          "steps": [
+            {
+              "id": "step_nayuta_good_01",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_nayuta_good_02",
+              "type": "choice",
+              "content": "1）首先还是跟那由道歉比较好。",
+              "group": "7/23"
+            },
+            {
+              "id": "step_nayuta_good_03",
+              "type": "choice",
+              "content": "1）说点特别的好了",
+              "group": "7/27"
+            },
+            {
+              "id": "step_nayuta_good_04",
+              "type": "choice",
+              "content": "1）就算如此，我也要去。",
+              "group": "7/29"
+            },
+            {
+              "id": "step_nayuta_good_05",
+              "type": "choice",
+              "content": "1）小夜美。",
+              "group": "7/29"
+            },
+            {
+              "id": "step_nayuta_good_06",
+              "type": "choice",
+              "content": "1）那由",
+              "group": "9/2"
+            },
+            {
+              "id": "step_nayuta_good_08",
+              "type": "save",
+              "content": "SAVE 6",
+              "group": "9/6"
+            },
+            {
+              "id": "step_nayuta_good_09",
+              "type": "choice",
+              "content": "3）这好像没有什么关系。",
+              "group": "9/6"
+            }
+          ]
+        },
+        {
+          "id": "ending_nayuta_normal",
+          "name": "那由多 END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_nayuta_normal_01",
+              "type": "load",
+              "content": "LOAD 6"
+            },
+            {
+              "id": "step_nayuta_normal_02",
+              "type": "choice",
+              "content": "1）我会讨厌她吗？"
+            }
+          ]
+        },
+        {
+          "id": "ending_nayuta_bad",
+          "name": "那由多 END3",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_nayuta_bad_01",
+              "type": "load",
+              "content": "LOAD 6"
+            },
+            {
+              "id": "step_nayuta_bad_02",
+              "type": "choice",
+              "content": "2）不知道。"
+            }
+          ]
+        },
+        {
+          "id": "ending_hibiki_good",
+          "name": "响 END1",
+          "type": "good",
+          "steps": [
+            {
+              "id": "step_hibiki_good_02",
+              "type": "choice",
+              "content": "2）无所谓"
+            },
+            {
+              "id": "step_hibiki_good_05",
+              "type": "choice",
+              "content": "2）无所谓......"
+            },
+            {
+              "id": "step_hibiki_good_06",
+              "type": "choice",
+              "content": "2）无所谓"
+            },
+            {
+              "id": "step_hibiki_good_07",
+              "type": "choice",
+              "content": "2）该怎么说呢......",
+              "group": "7/9"
+            },
+            {
+              "id": "step_hibiki_good_08",
+              "type": "choice",
+              "content": "1）还挺可爱的",
+              "group": "7/9"
+            },
+            {
+              "id": "step_hibiki_good_09",
+              "type": "choice",
+              "content": "1）挺适合的，还挺喜欢的啦......",
+              "group": "7/10"
+            },
+            {
+              "id": "step_hibiki_good_10",
+              "type": "choice",
+              "content": "2）不是很普通的名字",
+              "group": "7/10"
+            },
+            {
+              "id": "step_hibiki_good_11",
+              "type": "choice",
+              "content": "2）无所谓",
+              "group": "7/10"
+            },
+            {
+              "id": "step_hibiki_good_12",
+              "type": "choice",
+              "content": "1）告诉她吧",
+              "group": "7/11"
+            },
+            {
+              "id": "step_hibiki_good_13",
+              "type": "choice",
+              "content": "2）现在实在没这个心情",
+              "group": "7/11"
+            },
+            {
+              "id": "step_hibiki_good_14",
+              "type": "choice",
+              "content": "2）得赶快看完还她",
+              "group": "7/12"
+            },
+            {
+              "id": "step_hibiki_good_15",
+              "type": "choice",
+              "content": "2）音绪……没想到她还真不服输。",
+              "group": "7/12"
+            },
+            {
+              "id": "step_hibiki_good_16",
+              "type": "choice",
+              "content": "2）深步跟扉",
+              "group": "7/12"
+            },
+            {
+              "id": "step_hibiki_good_17",
+              "type": "choice",
+              "content": "1）没有",
+              "group": "7/12"
+            },
+            {
+              "id": "step_hibiki_good_18",
+              "type": "choice",
+              "content": "2）无所谓",
+              "group": "7/12"
+            },
+            {
+              "id": "step_hibiki_good_19",
+              "type": "choice",
+              "content": "2）也不是这么说……",
+              "group": "7/13"
+            },
+            {
+              "id": "step_hibiki_good_20",
+              "type": "choice",
+              "content": "1）是挺可爱的",
+              "group": "7/14"
+            },
+            {
+              "id": "step_hibiki_good_21",
+              "type": "choice",
+              "content": "2）快乐的事。",
+              "group": "7/15"
+            },
+            {
+              "id": "step_hibiki_good_22",
+              "type": "choice",
+              "content": "1）这边......",
+              "group": "7/15"
+            },
+            {
+              "id": "step_hibiki_good_23",
+              "type": "choice",
+              "content": "1）她一个人走到校门口了吗？",
+              "group": "7/15"
+            },
+            {
+              "id": "step_hibiki_good_24",
+              "type": "choice",
+              "content": "2）老实说……是不怎么喜欢啦，可是……",
+              "group": "7/15"
+            },
+            {
+              "id": "step_hibiki_good_25",
+              "type": "choice",
+              "content": "1）去学校",
+              "group": "7/16"
+            },
+            {
+              "id": "step_hibiki_good_26",
+              "type": "choice",
+              "content": "2）还是教授个人的作品很像？",
+              "group": "7/16"
+            },
+            {
+              "id": "step_hibiki_good_27",
+              "type": "choice",
+              "content": "1）委婉的拒绝",
+              "group": "7/16"
+            },
+            {
+              "id": "step_hibiki_good_28",
+              "type": "choice",
+              "content": "1）也对，明天去见响。",
+              "group": "7/16"
+            },
+            {
+              "id": "step_hibiki_good_29",
+              "type": "choice",
+              "content": "2）不去学校",
+              "group": "7/17"
+            },
+            {
+              "id": "step_hibiki_good_30",
+              "type": "choice",
+              "content": "1）好啊",
+              "group": "7/18"
+            },
+            {
+              "id": "step_hibiki_good_32",
+              "type": "choice",
+              "content": "1）竹夹鱼",
+              "group": "7/19"
+            },
+            {
+              "id": "step_hibiki_good_33",
+              "type": "choice",
+              "content": "1）鲔鱼",
+              "group": "7/19"
+            },
+            {
+              "id": "step_hibiki_good_34",
+              "type": "choice",
+              "content": "1）虾子",
+              "group": "7/19"
+            },
+            {
+              "id": "step_hibiki_good_35",
+              "type": "choice",
+              "content": "1）墨鱼",
+              "group": "7/19"
+            },
+            {
+              "id": "step_hibiki_good_36",
+              "type": "choice",
+              "content": "1）海胆",
+              "group": "7/19"
+            },
+            {
+              "id": "step_hibiki_good_38",
+              "type": "choice",
+              "content": "1）星星",
+              "group": "7/19"
+            },
+            {
+              "id": "step_hibiki_good_39",
+              "type": "save",
+              "content": "SAVE 7",
+              "group": "7/20"
+            },
+            {
+              "id": "step_hibiki_good_40",
+              "type": "choice",
+              "content": "2）在梦里是不会沉的",
+              "group": "7/20"
+            },
+            {
+              "id": "step_hibiki_good_41",
+              "type": "choice",
+              "content": "2）不让她发现。",
+              "group": "7/20"
+            },
+            {
+              "id": "step_hibiki_good_42",
+              "type": "choice",
+              "content": "2）讨厌扉的感觉",
+              "group": "7/21"
+            },
+            {
+              "id": "step_hibiki_good_44",
+              "type": "choice",
+              "content": "1）我想说些什么......",
+              "group": "7/21"
+            },
+            {
+              "id": "step_hibiki_good_45",
+              "type": "choice",
+              "content": "1）星星",
+              "group": "7/21"
+            },
+            {
+              "id": "step_hibiki_good_47",
+              "type": "choice",
+              "content": "1）去追响",
+              "group": "7/21"
+            },
+            {
+              "id": "step_hibiki_good_49",
+              "type": "choice",
+              "content": "1）当然是打给响",
+              "group": "7/22"
+            },
+            {
+              "id": "step_hibiki_good_52",
+              "type": "choice",
+              "content": "1）响？",
+              "group": "8/7"
+            }
+          ]
+        },
+        {
+          "id": "ending_hibiki_normal",
+          "name": "响 END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_hibiki_normal_01",
+              "type": "load",
+              "content": "LOAD 7"
+            },
+            {
+              "id": "step_hibiki_normal_02",
+              "type": "choice",
+              "content": "2）在梦里是不会沉的",
+              "group": "7/20"
+            },
+            {
+              "id": "step_hibiki_normal_03",
+              "type": "choice",
+              "content": "1）跟她套看看。",
+              "group": "7/20"
+            },
+            {
+              "id": "step_hibiki_normal_04",
+              "type": "choice",
+              "content": "1）环太可怜了",
+              "group": "7/21"
+            },
+            {
+              "id": "step_hibiki_normal_05",
+              "type": "choice",
+              "content": "2）我一定要说些什么......",
+              "group": "7/21"
+            },
+            {
+              "id": "step_hibiki_normal_06",
+              "type": "choice",
+              "content": "1）星星",
+              "group": "7/21"
+            },
+            {
+              "id": "step_hibiki_normal_07",
+              "type": "choice",
+              "content": "1）去追响",
+              "group": "7/21"
+            },
+            {
+              "id": "step_hibiki_normal_08",
+              "type": "choice",
+              "content": "1）当然是打给响",
+              "group": "7/22"
+            },
+            {
+              "id": "step_hibiki_normal_09",
+              "type": "choice",
+              "content": "2）彼方？",
+              "group": "8/7"
+            }
+          ]
+        },
+        {
+          "id": "ending_tamaki_good",
+          "name": "环 END1",
+          "type": "good",
+          "steps": [
+            {
+              "id": "step_tamaki_good_01",
+              "type": "load",
+              "content": "LOAD 7"
+            },
+            {
+              "id": "step_tamaki_good_02",
+              "type": "choice",
+              "content": "1）事实上是沉了",
+              "group": "7/20"
+            },
+            {
+              "id": "step_tamaki_good_03",
+              "type": "choice",
+              "content": "1）跟她套看看。",
+              "group": "7/20"
+            },
+            {
+              "id": "step_tamaki_good_04",
+              "type": "choice",
+              "content": "1）环太可怜了",
+              "group": "7/21"
+            },
+            {
+              "id": "step_tamaki_good_05",
+              "type": "choice",
+              "content": "2）我一定要说些什么......",
+              "group": "7/21"
+            },
+            {
+              "id": "step_tamaki_good_06",
+              "type": "choice",
+              "content": "1）星星",
+              "group": "7/21"
+            },
+            {
+              "id": "step_tamaki_good_07",
+              "type": "choice",
+              "content": "2）又担心环......",
+              "group": "7/21"
+            },
+            {
+              "id": "step_tamaki_good_09",
+              "type": "choice",
+              "content": "2）也问一下环好了",
+              "group": "7/22"
+            },
+            {
+              "id": "step_tamaki_good_12",
+              "type": "choice",
+              "content": "1）我是不知道！ 也不想知道！！",
+              "group": "7/29"
+            },
+            {
+              "id": "step_tamaki_good_13",
+              "type": "save",
+              "content": "SAVE 8",
+              "group": "7/29"
+            },
+            {
+              "id": "step_tamaki_good_14",
+              "type": "choice",
+              "content": "2）平常摆地摊的道路......",
+              "group": "7/29"
+            },
+            {
+              "id": "step_tamaki_good_15",
+              "type": "choice",
+              "content": "2）登波离桥......",
+              "group": "7/29"
+            },
+            {
+              "id": "step_tamaki_good_16",
+              "type": "choice",
+              "content": "1）打给响",
+              "group": "7/29"
+            }
+          ]
+        },
+        {
+          "id": "ending_tamaki_bad",
+          "name": "环 END2",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_tamaki_bad_01",
+              "type": "load",
+              "content": "LOAD 8"
+            },
+            {
+              "id": "step_tamaki_bad_02",
+              "type": "choice",
+              "content": "1）千羽谷商店街公园......",
+              "group": "7/29"
+            },
+            {
+              "id": "step_tamaki_bad_03",
+              "type": "choice",
+              "content": "2）登波离桥......",
+              "group": "7/29"
+            }
+          ]
+        },
+        {
+          "id": "ending_otsu_true",
+          "name": "音绪 END3",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_otsu_true_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_otsu_true_02",
+              "type": "choice",
+              "content": "2）管他电影好不好看，当然想跟音绪一起去",
+              "group": "8/10"
+            },
+            {
+              "id": "step_otsu_true_03",
+              "type": "save",
+              "content": "SAVE 9",
+              "group": "9/3"
+            },
+            {
+              "id": "step_otsu_true_04",
+              "type": "choice",
+              "content": "1）好，麻烦你帮我换一杯。",
+              "group": "9/3"
+            },
+            {
+              "id": "step_otsu_true_05",
+              "type": "choice",
+              "content": "2）还是照上次那样就好？",
+              "group": "9/3"
+            },
+            {
+              "id": "step_otsu_true_06",
+              "type": "choice",
+              "content": "2）算了，不管了，忽视她吧，用态度表明一切！",
+              "group": "9/3"
+            },
+            {
+              "id": "step_otsu_true_07",
+              "type": "choice",
+              "content": "1）梅内洋介吧，炙手可热的年轻演员",
+              "group": "9/3"
+            },
+            {
+              "id": "step_otsu_true_08",
+              "type": "choice",
+              "content": "1）「变成回忆的你」",
+              "group": "9/3"
+            },
+            {
+              "id": "step_otsu_true_09",
+              "type": "choice",
+              "content": "1）那就毫不犹豫地选择梅内洋介",
+              "group": "9/7"
+            },
+            {
+              "id": "step_otsu_true_11",
+              "type": "choice",
+              "content": "1）可是……音绪……",
+              "group": "9/7"
+            },
+            {
+              "id": "step_otsu_true_15",
+              "type": "choice",
+              "content": "2）如果松懈了，那就大事不妙。",
+              "group": "11/26"
+            },
+            {
+              "id": "step_otsu_true_16",
+              "type": "choice",
+              "content": "2）才不念......",
+              "group": "11/26"
+            },
+            {
+              "id": "step_otsu_true_17",
+              "type": "choice",
+              "content": "1）切换到「即使如此依然想念你」",
+              "group": "11/26"
+            },
+            {
+              "id": "step_otsu_true_18",
+              "type": "choice",
+              "content": "1）那就麻烦你啰",
+              "group": "11/27"
+            },
+            {
+              "id": "step_otsu_true_20",
+              "type": "choice",
+              "content": "1）拒绝吧，好好地跟她说清楚。",
+              "group": "11/27"
+            },
+            {
+              "id": "step_otsu_true_22",
+              "type": "choice",
+              "content": "2）虽然这么做有点对不起音绪，可是跟彼方……",
+              "group": "11/27"
+            },
+            {
+              "id": "step_otsu_true_24",
+              "type": "choice",
+              "content": "1）伤害了音绪......",
+              "group": "11/27"
+            },
+            {
+              "id": "step_otsu_true_25",
+              "type": "choice",
+              "content": "2）接电话",
+              "group": "11/27"
+            },
+            {
+              "id": "step_otsu_true_26",
+              "type": "save",
+              "content": "SAVE 10",
+              "group": "11/27"
+            },
+            {
+              "id": "step_otsu_true_27",
+              "type": "choice",
+              "content": "2）诚实回答",
+              "group": "11/27"
+            },
+            {
+              "id": "step_otsu_true_28",
+              "type": "choice",
+              "content": "2）决断的时候就是现在！",
+              "group": "11/27"
+            }
+          ]
+        },
+        {
+          "id": "ending_otsu_true_bad",
+          "name": "音绪 END4",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_otsu_true_bad_01",
+              "type": "load",
+              "content": "LOAD 10"
+            },
+            {
+              "id": "step_otsu_true_bad_02",
+              "type": "choice",
+              "content": "1）找个理由",
+              "group": "11/27"
+            }
+          ]
+        },
+        {
+          "id": "ending_kanata_true",
+          "name": "彼方 END1",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_kanata_true_01",
+              "type": "load",
+              "content": "LOAD 9"
+            },
+            {
+              "id": "step_kanata_true_02",
+              "type": "choice",
+              "content": "2）虽然不喜欢，不过还是可以接受。",
+              "group": "9/3"
+            },
+            {
+              "id": "step_kanata_true_03",
+              "type": "choice",
+              "content": "1）要找她一起去吗？",
+              "group": "9/3"
+            },
+            {
+              "id": "step_kanata_true_04",
+              "type": "choice",
+              "content": "1）那我就不客气了！",
+              "group": "9/3"
+            },
+            {
+              "id": "step_kanata_true_05",
+              "type": "choice",
+              "content": "2）当然是塔摩留啊，我的英雄非他莫属。",
+              "group": "9/3"
+            },
+            {
+              "id": "step_kanata_true_06",
+              "type": "choice",
+              "content": "2）「塔摩留乓卜ＴＶ」",
+              "group": "9/3"
+            },
+            {
+              "id": "step_kanata_true_07",
+              "type": "choice",
+              "content": "2）我想对她说些话",
+              "group": "9/7"
+            },
+            {
+              "id": "step_kanata_true_08",
+              "type": "choice",
+              "content": "2）可是……彼方跟店长之间……",
+              "group": "9/7"
+            },
+            {
+              "id": "step_kanata_true_09",
+              "type": "choice",
+              "content": "1）啊，刚刚是不是有点冷淡呢。",
+              "group": "11/26"
+            },
+            {
+              "id": "step_kanata_true_10",
+              "type": "choice",
+              "content": "1）真拿她没办法",
+              "group": "11/26"
+            },
+            {
+              "id": "step_kanata_true_11",
+              "type": "choice",
+              "content": "2）就看「塔摩留乓卜ＴＶ」也不赖......",
+              "group": "11/26"
+            },
+            {
+              "id": "step_kanata_true_12",
+              "type": "choice",
+              "content": "2）其实很不好意思......",
+              "group": "11/27"
+            },
+            {
+              "id": "step_kanata_true_13",
+              "type": "choice",
+              "content": "2）好，等她来就把事情做个了断吧。",
+              "group": "11/27"
+            },
+            {
+              "id": "step_kanata_true_14",
+              "type": "choice",
+              "content": "1）一想彼方的事，就无法跳......",
+              "group": "11/27"
+            },
+            {
+              "id": "step_kanata_true_16",
+              "type": "save",
+              "content": "SAVE 11",
+              "group": "11/27"
+            },
+            {
+              "id": "step_kanata_true_17",
+              "type": "choice",
+              "content": "1）自己也搞不清楚",
+              "group": "11/27"
+            },
+            {
+              "id": "step_kanata_true_18",
+              "type": "choice",
+              "content": "1）不能接",
+              "group": "11/27"
+            },
+            {
+              "id": "step_kanata_true_21",
+              "type": "choice",
+              "content": "2）不过，我还是蛮在意彼方的。",
+              "group": "11/27"
+            }
+          ]
+        },
+        {
+          "id": "ending_kanata_true_bad",
+          "name": "彼方 END2",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_kanata_true_bad_01",
+              "type": "load",
+              "content": "LOAD 11"
+            },
+            {
+              "id": "step_kanata_true_bad_02",
+              "type": "choice",
+              "content": "3）不是那样的",
+              "group": "11/27"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

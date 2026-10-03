@@ -1,0 +1,113 @@
+{
+  "vid": "v23908",
+  "name": {
+    "zh-cn": "印刻天际的Parallelogram",
+    "ja-jp": "空に刻んだパラレログラム",
+    "ja-Latn": "sora-ni-kizanda-parallelogram"
+  },
+  "level": 2,
+  "updatedAt": "2026-05-08",
+  "routes": [
+    {
+      "id": "route_game_guide",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_yuzu",
+          "name": "柚 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_2",
+              "type": "choice",
+              "content": "重在参与的地方。"
+            },
+            {
+              "id": "step_3",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_4",
+              "type": "choice",
+              "content": "在意柚的事情。"
+            }
+          ]
+        },
+        {
+          "id": "ending_ria",
+          "name": "里亚 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_5",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_6",
+              "type": "choice",
+              "content": "在意里亚的事情。"
+            }
+          ]
+        },
+        {
+          "id": "ending_glass",
+          "name": "玻璃 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_7",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_8",
+              "type": "choice",
+              "content": "在意玻璃的事情。"
+            }
+          ]
+        },
+        {
+          "id": "ending_hotaru",
+          "name": "萤 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_9",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_10",
+              "type": "choice",
+              "content": "在意萤的事情。"
+            }
+          ]
+        },
+        {
+          "id": "ending_true",
+          "name": "TRUE END",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_11",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_12",
+              "type": "choice",
+              "content": "一心向往的地方。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

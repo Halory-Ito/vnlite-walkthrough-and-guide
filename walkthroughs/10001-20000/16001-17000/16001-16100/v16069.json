@@ -1,0 +1,201 @@
+{
+  "vid": "v16069",
+  "name": {
+    "zh-cn": "追忆夏色年华",
+    "ja-jp": "夏の色のノスタルジア",
+    "ja-Latn": "natsu-no-iro-no-nostalgia"
+  },
+  "level": 2,
+  "updatedAt": "2026-05-11",
+  "routes": [
+    {
+      "id": "route_misaki",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_misaki_end",
+          "name": "真鹤美纱季 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_misaki_01",
+              "type": "choice",
+              "content": "鼓励她和大家一起行动"
+            },
+            {
+              "id": "step_misaki_02",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_misaki_03",
+              "type": "choice",
+              "content": "拒绝"
+            },
+            {
+              "id": "step_misaki_04",
+              "type": "choice",
+              "content": "尝试寻找出口的线索"
+            },
+            {
+              "id": "step_misaki_05",
+              "type": "choice",
+              "content": "的确有点兴趣吧"
+            },
+            {
+              "id": "step_misaki_06",
+              "type": "choice",
+              "content": "我想看"
+            },
+            {
+              "id": "step_misaki_07",
+              "type": "choice",
+              "content": "和真鹤一起"
+            },
+            {
+              "id": "step_misaki_08",
+              "type": "choice",
+              "content": "真鹤"
+            }
+          ]
+        },
+        {
+          "id": "ending_fumine_end",
+          "name": "真乘寺文音 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_fumine_01",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_fumine_02",
+              "type": "choice",
+              "content": "前往钟楼"
+            },
+            {
+              "id": "step_fumine_03",
+              "type": "choice",
+              "content": "是这样吧？"
+            },
+            {
+              "id": "step_fumine_04",
+              "type": "choice",
+              "content": "不要这样做"
+            },
+            {
+              "id": "step_fumine_05",
+              "type": "choice",
+              "content": "和文音一起"
+            },
+            {
+              "id": "step_fumine_06",
+              "type": "choice",
+              "content": "文音"
+            },
+            {
+              "id": "step_fumine_07",
+              "type": "choice",
+              "content": "确认一下她的意图"
+            },
+            {
+              "id": "step_fumine_08",
+              "type": "choice",
+              "content": "文音"
+            }
+          ]
+        },
+        {
+          "id": "ending_miu_end",
+          "name": "折口美羽 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_miu_01",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_miu_02",
+              "type": "choice",
+              "content": "陪美羽去"
+            },
+            {
+              "id": "step_miu_03",
+              "type": "choice",
+              "content": "是这样吗？"
+            },
+            {
+              "id": "step_miu_04",
+              "type": "choice",
+              "content": "不要这样做"
+            },
+            {
+              "id": "step_miu_05",
+              "type": "choice",
+              "content": "和美羽一起"
+            },
+            {
+              "id": "step_miu_06",
+              "type": "choice",
+              "content": "美羽"
+            },
+            {
+              "id": "step_miu_07",
+              "type": "choice",
+              "content": "不去确认她的想法"
+            },
+            {
+              "id": "step_miu_08",
+              "type": "choice",
+              "content": "美羽"
+            }
+          ]
+        },
+        {
+          "id": "ending_shoko_end",
+          "name": "摩庭祥子 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_shoko_01",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_shoko_02",
+              "type": "choice",
+              "content": "拒绝"
+            },
+            {
+              "id": "step_shoko_03",
+              "type": "choice",
+              "content": "前往饲育社"
+            },
+            {
+              "id": "step_shoko_04",
+              "type": "choice",
+              "content": "是这样吧？"
+            },
+            {
+              "id": "step_shoko_05",
+              "type": "choice",
+              "content": "不能这样做"
+            },
+            {
+              "id": "step_shoko_06",
+              "type": "choice",
+              "content": "和摩庭一起"
+            },
+            {
+              "id": "step_shoko_07",
+              "type": "choice",
+              "content": "摩庭"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

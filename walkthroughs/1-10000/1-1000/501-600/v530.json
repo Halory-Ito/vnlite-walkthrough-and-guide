@@ -1,0 +1,286 @@
+{
+  "vid": "v530",
+  "name": {
+    "zh-cn": "秋色恋華",
+    "ja-jp": "秋色恋華",
+    "ja-Latn": "akiiro-renka"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-14",
+  "routes": [
+    {
+      "id": "route_game",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_aoi_end",
+          "name": "葵 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_aoi_01",
+              "type": "choice",
+              "content": "让葵叫我“芥末”",
+              "group": "10月4日"
+            },
+            {
+              "id": "step_aoi_02",
+              "type": "choice",
+              "content": "接受",
+              "group": "10月4日"
+            },
+            {
+              "id": "step_aoi_03",
+              "type": "choice",
+              "content": "拜托身边的人",
+              "group": "10月5日"
+            },
+            {
+              "id": "step_aoi_04",
+              "type": "save",
+              "content": "SAVE 1",
+              "group": "10月5日"
+            },
+            {
+              "id": "step_aoi_05",
+              "type": "choice",
+              "content": "让她给我做便当",
+              "group": "10月5日"
+            },
+            {
+              "id": "step_aoi_06",
+              "type": "choice",
+              "content": "去问英里子小姐",
+              "group": "10月8日"
+            },
+            {
+              "id": "step_aoi_07",
+              "type": "choice",
+              "content": "在意周围人的目光",
+              "group": "10月8日"
+            },
+            {
+              "id": "step_aoi_08",
+              "type": "choice",
+              "content": "直接向户仓诉说",
+              "group": "10月8日"
+            },
+            {
+              "id": "step_aoi_09",
+              "type": "choice",
+              "content": "手帕的话题",
+              "group": "10月8日"
+            },
+            {
+              "id": "step_aoi_10",
+              "type": "choice",
+              "content": "向户仓道谢",
+              "group": "10月9日"
+            },
+            {
+              "id": "step_aoi_11",
+              "type": "choice",
+              "content": "其实我也想一起去，不过……",
+              "group": "10月11日"
+            },
+            {
+              "id": "step_aoi_12",
+              "type": "choice",
+              "content": "只是碰巧偶然罢了",
+              "group": "10月11日"
+            },
+            {
+              "id": "step_aoi_13",
+              "type": "choice",
+              "content": "想吃葵亲手做的东西",
+              "group": "10月12日"
+            },
+            {
+              "id": "step_aoi_14",
+              "type": "choice",
+              "content": "加油，别失败了",
+              "group": "10月13日"
+            },
+            {
+              "id": "step_aoi_15",
+              "type": "choice",
+              "content": "因为已经很晚了所以拒绝",
+              "group": "10月13日"
+            },
+            {
+              "id": "step_aoi_16",
+              "type": "save",
+              "content": "SAVE 2",
+              "group": "10月14日"
+            },
+            {
+              "id": "step_aoi_17",
+              "type": "choice",
+              "content": "那倒没有",
+              "group": "10月14日"
+            },
+            {
+              "id": "step_aoi_18",
+              "type": "choice",
+              "content": "还不知道",
+              "group": "10月14日"
+            }
+          ]
+        },
+        {
+          "id": "ending_eriko_end",
+          "name": "英里子 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_eriko_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_eriko_02",
+              "type": "choice",
+              "content": "其实是这样的",
+              "group": "10月14日"
+            },
+            {
+              "id": "step_eriko_03",
+              "type": "save",
+              "content": "SAVE 3",
+              "group": "10月14日"
+            },
+            {
+              "id": "step_eriko_04",
+              "type": "choice",
+              "content": "还不知道",
+              "group": "10月14日"
+            }
+          ]
+        },
+        {
+          "id": "ending_mayu_end",
+          "name": "真由 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_mayu_01",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_mayu_02",
+              "type": "choice",
+              "content": "不讨厌",
+              "group": "10月14日"
+            }
+          ]
+        },
+        {
+          "id": "ending_kasumi_end",
+          "name": "香澄 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_kasumi_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_kasumi_02",
+              "type": "choice",
+              "content": "拒绝便当",
+              "group": "10月5日"
+            },
+            {
+              "id": "step_kasumi_03",
+              "type": "choice",
+              "content": "去问世良",
+              "group": "10月8日"
+            },
+            {
+              "id": "step_kasumi_04",
+              "type": "save",
+              "content": "SAVE 4",
+              "group": "10月8日"
+            },
+            {
+              "id": "step_kasumi_05",
+              "type": "choice",
+              "content": "心怀感激地收下",
+              "group": "10月8日"
+            },
+            {
+              "id": "step_kasumi_06",
+              "type": "choice",
+              "content": "季节的话题",
+              "group": "10月8日"
+            },
+            {
+              "id": "step_kasumi_07",
+              "type": "choice",
+              "content": "斥责伊吹",
+              "group": "10月9日"
+            },
+            {
+              "id": "step_kasumi_08",
+              "type": "choice",
+              "content": "每天都有进去哦",
+              "group": "10月20日"
+            },
+            {
+              "id": "step_kasumi_09",
+              "type": "choice",
+              "content": "（两边都选）",
+              "prefix": "★",
+              "group": "10月22日"
+            }
+          ]
+        },
+        {
+          "id": "ending_ibuki_end",
+          "name": "伊吹 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_ibuki_01",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_ibuki_02",
+              "type": "choice",
+              "content": "郑重拒绝",
+              "group": "10月5日"
+            },
+            {
+              "id": "step_ibuki_03",
+              "type": "choice",
+              "content": "季节的话题",
+              "group": "10月5日"
+            },
+            {
+              "id": "step_ibuki_04",
+              "type": "choice",
+              "content": "斥责伊吹",
+              "group": "10月9日"
+            },
+            {
+              "id": "step_ibuki_05",
+              "type": "choice",
+              "content": "（两边都选）",
+              "prefix": "★",
+              "group": "10月19日"
+            },
+            {
+              "id": "step_ibuki_06",
+              "type": "choice",
+              "content": "（两边都选）",
+              "prefix": "★",
+              "group": "10月22日"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

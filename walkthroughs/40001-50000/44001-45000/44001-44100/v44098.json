@@ -1,0 +1,162 @@
+{
+  "vid": "v44098",
+  "name": {
+    "zh-cn": "我的眼睛看光光！不可知的未来与透视的命运",
+    "ja-jp": "俺の瞳で丸裸！不可知な未来と視透かす運命",
+    "ja-Latn": "ore-no-hitomi-de-maruhadaka"
+  },
+  "level": 2,
+  "updatedAt": "2026-03-09",
+  "routes": [
+    {
+      "id": "route_1773047959720",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1773047968026",
+          "name": "神爱 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1773047988689",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1773047988858",
+              "type": "choice",
+              "content": "神爱"
+            },
+            {
+              "id": "step_1773047989036",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1773048002471",
+              "type": "choice",
+              "content": "神爱"
+            }
+          ]
+        },
+        {
+          "id": "ending_1773048005295",
+          "name": "光流 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1773048012402",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1773048013178",
+              "type": "choice",
+              "content": "光流"
+            }
+          ]
+        },
+        {
+          "id": "ending_1773048005565",
+          "name": "仄华 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1773048029941",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1773048030134",
+              "type": "choice",
+              "content": "仄华"
+            },
+            {
+              "id": "step_1773048038933",
+              "type": "choice",
+              "content": "什么都不说/停止摘下眼镜"
+            }
+          ]
+        },
+        {
+          "id": "ending_1773048052534",
+          "name": "水映 END",
+          "type": "normal",
+          "requirements": "完成以上其中一人的攻略后",
+          "steps": [
+            {
+              "id": "step_1773048061417",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_1773048064804",
+              "type": "choice",
+              "content": "水映"
+            }
+          ]
+        },
+        {
+          "id": "ending_1773048091037",
+          "name": "穗紫 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1773048100222",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1773048102181",
+              "type": "choice",
+              "content": "穗紫"
+            }
+          ]
+        },
+        {
+          "id": "ending_1773048105882",
+          "name": "路西 END",
+          "type": "normal",
+          "requirements": "完成以上角色END后，从最初开始",
+          "steps": [
+            {
+              "id": "step_1773048139596",
+              "type": "choice",
+              "content": "路西"
+            }
+          ]
+        },
+        {
+          "id": "ending_1773048155208",
+          "name": "伊利斯卡",
+          "type": "normal",
+          "requirements": "完成6人END后",
+          "steps": [
+            {
+              "id": "step_1773048177389",
+              "type": "choice",
+              "content": "伊利斯卡"
+            }
+          ]
+        },
+        {
+          "id": "ending_1773048191439",
+          "name": "路西 END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1773048200340",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1773048204949",
+              "type": "choice",
+              "content": "路西"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,287 @@
+{
+  "vid": "v24803",
+  "name": {
+    "zh-cn": "在月之彼岸邂逅",
+    "ja-jp": "月の彼方で逢いましょう",
+    "ja-Latn": "tsuki-no-kanata-de-aimashou"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-14",
+  "routes": [
+    {
+      "id": "route_game",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_touka",
+          "name": "灯华 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_touka_01",
+              "type": "choice",
+              "content": "说不准去"
+            },
+            {
+              "id": "step_touka_02",
+              "type": "choice",
+              "content": "让她帮自己占卜一下"
+            },
+            {
+              "id": "step_touka_03",
+              "type": "choice",
+              "content": "有没有什么可以擦的东西......"
+            },
+            {
+              "id": "step_touka_04",
+              "type": "choice",
+              "content": "查一下摩斯密码"
+            },
+            {
+              "id": "step_touka_05",
+              "type": "choice",
+              "content": "不想被莺学姐知道"
+            },
+            {
+              "id": "step_touka_06",
+              "type": "choice",
+              "content": "出于对圣衣良的教育，否认"
+            },
+            {
+              "id": "step_touka_07",
+              "type": "choice",
+              "content": "去拿毛巾"
+            },
+            {
+              "id": "step_touka_08",
+              "type": "choice",
+              "content": "从外表看不出来，你还挺少女的"
+            },
+            {
+              "id": "step_touka_09",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_touka_10",
+              "type": "choice",
+              "content": "提高小说完成度"
+            },
+            {
+              "id": "step_touka_11",
+              "type": "choice",
+              "content": "回到标题选择 AFTER PART"
+            },
+            {
+              "id": "step_touka_12",
+              "type": "choice",
+              "content": "月洞光莉"
+            },
+            {
+              "id": "step_touka_13",
+              "type": "choice",
+              "content": "述说自己的梦想"
+            },
+            {
+              "id": "step_touka_14",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_touka_15",
+              "type": "choice",
+              "content": "试试看"
+            }
+          ]
+        },
+        {
+          "id": "ending_shiori",
+          "name": "栞菜 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_shiori_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_shiori_02",
+              "type": "choice",
+              "content": "算了"
+            },
+            {
+              "id": "step_shiori_03",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_shiori_04",
+              "type": "choice",
+              "content": "有兴趣"
+            },
+            {
+              "id": "step_shiori_05",
+              "type": "choice",
+              "content": "不好"
+            }
+          ]
+        },
+        {
+          "id": "ending_kiriko",
+          "name": "雾子 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_kiriko_01",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_kiriko_02",
+              "type": "choice",
+              "content": "想专心于自己的企划"
+            },
+            {
+              "id": "step_kiriko_03",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_kiriko_04",
+              "type": "choice",
+              "content": "想做只有自己才能做的企划"
+            }
+          ]
+        },
+        {
+          "id": "ending_kouki",
+          "name": "光莉 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_kouki_01",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_kouki_02",
+              "type": "choice",
+              "content": "我想出月洞老师的书"
+            }
+          ]
+        },
+        {
+          "id": "ending_seira",
+          "name": "圣衣良 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_seira_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_seira_02",
+              "type": "choice",
+              "content": "思考一个完全不同的展开"
+            },
+            {
+              "id": "step_seira_03",
+              "type": "note",
+              "content": "后篇 圣衣良路线"
+            }
+          ]
+        },
+        {
+          "id": "ending_amane",
+          "name": "雨音 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_amane_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_amane_02",
+              "type": "choice",
+              "content": "冷静下来重新想想"
+            },
+            {
+              "id": "step_amane_03",
+              "type": "choice",
+              "content": "深暗的...火焰...地狱...虚空"
+            },
+            {
+              "id": "step_amane_04",
+              "type": "choice",
+              "content": "再去邀请佐仓一次试试看吧"
+            },
+            {
+              "id": "step_amane_05",
+              "type": "choice",
+              "content": "换吧"
+            },
+            {
+              "id": "step_amane_06",
+              "type": "choice",
+              "content": "邪眼是指什么"
+            },
+            {
+              "id": "step_amane_07",
+              "type": "choice",
+              "content": "差不多该阻止他们了"
+            },
+            {
+              "id": "step_amane_08",
+              "type": "choice",
+              "content": "果然还是去教室接你吧"
+            },
+            {
+              "id": "step_amane_09",
+              "type": "choice",
+              "content": "我也喜欢你"
+            },
+            {
+              "id": "step_amane_10",
+              "type": "note",
+              "content": "后篇 雨音路线"
+            }
+          ]
+        },
+        {
+          "id": "ending_ougi",
+          "name": "莺 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_ougi_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_ougi_02",
+              "type": "choice",
+              "content": "写下心意"
+            },
+            {
+              "id": "step_ougi_03",
+              "type": "choice",
+              "content": "这样简直完美"
+            },
+            {
+              "id": "step_ougi_04",
+              "type": "choice",
+              "content": "莺"
+            },
+            {
+              "id": "step_ougi_05",
+              "type": "note",
+              "content": "后篇 莺路线"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

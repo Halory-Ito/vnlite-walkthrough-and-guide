@@ -1,0 +1,281 @@
+{
+  "vid": "v23448",
+  "name": {
+    "zh-cn": "奇异恩典 -What color is your attribute?-",
+    "en-us": "Amazing Grace -What color is your attribute?-",
+    "ja-jp": "アメイジング・グレイス -What color is your attribute?-",
+    "ja-Latn": "amazing-grace"
+  },
+  "level": 1,
+  "updatedAt": "2026-07-14",
+  "routes": [
+    {
+      "id": "route_tonghui",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_tonghui_end",
+          "name": "桐惠 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_tonghui_001",
+              "type": "choice",
+              "content": "攸茵"
+            },
+            {
+              "id": "step_tonghui_002",
+              "type": "choice",
+              "content": "桐惠"
+            },
+            {
+              "id": "step_tonghui_003",
+              "type": "choice",
+              "content": "妍夜"
+            },
+            {
+              "id": "step_tonghui_004",
+              "type": "choice",
+              "content": "肖烨",
+              "subfix": "此处可任选三"
+            },
+            {
+              "id": "step_tonghui_005",
+              "type": "choice",
+              "content": "将绘画右移"
+            },
+            {
+              "id": "step_tonghui_006",
+              "type": "choice",
+              "content": "确定绘画位置",
+              "subfix": "第5章第1节"
+            },
+            {
+              "id": "step_tonghui_007",
+              "type": "choice",
+              "content": "将绘画右移"
+            },
+            {
+              "id": "step_tonghui_008",
+              "type": "choice",
+              "content": "确定绘画位置",
+              "subfix": "第6章第1节"
+            },
+            {
+              "id": "step_tonghui_009",
+              "type": "choice",
+              "content": "将绘画右移"
+            },
+            {
+              "id": "step_tonghui_010",
+              "type": "choice",
+              "content": "确定绘画位置",
+              "subfix": "第8章第1节"
+            },
+            {
+              "id": "step_tonghui_011",
+              "type": "choice",
+              "content": "将绘画右移"
+            },
+            {
+              "id": "step_tonghui_012",
+              "type": "choice",
+              "content": "确定绘画位置",
+              "subfix": "第9章第1节"
+            },
+            {
+              "id": "step_tonghui_013",
+              "type": "choice",
+              "content": "确定绘画位置(桐惠)",
+              "subfix": "第4章第1节"
+            },
+            {
+              "id": "step_tonghui_014",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_tonghui_015",
+              "type": "choice",
+              "content": "我也喜欢你"
+            }
+          ]
+        },
+        {
+          "id": "ending_yanye_end",
+          "name": "妍夜 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_yanye_001",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_yanye_002",
+              "type": "choice",
+              "content": "对不起"
+            },
+            {
+              "id": "step_yanye_003",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_yanye_004",
+              "type": "choice",
+              "content": "不接受这样的命运"
+            },
+            {
+              "id": "step_yanye_005",
+              "type": "choice",
+              "content": "确定绘画位置(肖烨)",
+              "subfix": "第7章第1节"
+            },
+            {
+              "id": "step_yanye_006",
+              "type": "choice",
+              "content": "猜乳头游戏"
+            },
+            {
+              "id": "step_yanye_007",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_yanye_008",
+              "type": "choice",
+              "content": "拒绝这个命运"
+            },
+            {
+              "id": "step_yanye_009",
+              "type": "choice",
+              "content": "确定绘画位置(妍夜)",
+              "subfix": "第10章第1节"
+            },
+            {
+              "id": "step_yanye_010",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_yanye_011",
+              "type": "choice",
+              "content": "想着妍夜学姐的事情"
+            },
+            {
+              "id": "step_yanye_012",
+              "type": "choice",
+              "content": "可以(不行)"
+            }
+          ]
+        },
+        {
+          "id": "ending_xiaoye_end",
+          "name": "肖烨 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_xiaoye_001",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_xiaoye_002",
+              "type": "choice",
+              "content": "将她当成优秀的学姐仰慕着她"
+            },
+            {
+              "id": "step_xiaoye_003",
+              "type": "save",
+              "content": "SAVE 5"
+            },
+            {
+              "id": "step_xiaoye_004",
+              "type": "choice",
+              "content": "不接受这个命运"
+            },
+            {
+              "id": "step_xiaoye_005",
+              "type": "save",
+              "content": "SAVE 6"
+            },
+            {
+              "id": "step_xiaoye_006",
+              "type": "choice",
+              "content": "吻她"
+            }
+          ]
+        },
+        {
+          "id": "ending_youyin_end",
+          "name": "攸茵 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_youyin_001",
+              "type": "load",
+              "content": "LOAD 6"
+            },
+            {
+              "id": "step_youyin_002",
+              "type": "choice",
+              "content": "不吻"
+            }
+          ]
+        },
+        {
+          "id": "ending_normal_end1",
+          "name": "普通 END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_normal1_001",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_normal1_002",
+              "type": "choice",
+              "content": "接受这个命运"
+            }
+          ]
+        },
+        {
+          "id": "ending_normal_end2",
+          "name": "普通 END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_normal2_001",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_normal2_002",
+              "type": "choice",
+              "content": "接受这个命运"
+            }
+          ]
+        },
+        {
+          "id": "ending_normal_end3",
+          "name": "普通 END3",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_normal3_001",
+              "type": "load",
+              "content": "LOAD 5"
+            },
+            {
+              "id": "step_normal3_002",
+              "type": "choice",
+              "content": "接受这个命运"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

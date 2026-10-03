@@ -1,0 +1,264 @@
+{
+  "vid": "v18759",
+  "name": {
+    "zh-cn": "Liber_7 献给在永劫终末等待着的你",
+    "ja-jp": "Liber_7 永劫の終わりを待つ君へ",
+    "ja-Latn": "liber-7"
+  },
+  "level": 2,
+  "updatedAt": "2026-03-31",
+  "tips": [
+    "未来END2后，标题画面标题画面的CG回想等阅览模式会消失，需要完成TE后才会重新开放"
+  ],
+  "routes": [
+    {
+      "id": "route_moe",
+      "name": "广原 萌生",
+      "endings": [
+        {
+          "id": "ending_moe_end",
+          "name": "萌生 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_moe_01",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_moe_02",
+              "type": "choice",
+              "content": "抱歉……"
+            },
+            {
+              "id": "step_moe_03",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_moe_04",
+              "type": "choice",
+              "content": "不抱一条"
+            },
+            {
+              "id": "step_moe_05",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_moe_06",
+              "type": "choice",
+              "content": "不抱一条"
+            },
+            {
+              "id": "step_moe_07",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_moe_08",
+              "type": "choice",
+              "content": "见萌生"
+            },
+            {
+              "id": "step_moe_09",
+              "type": "save",
+              "content": "SAVE 5"
+            },
+            {
+              "id": "step_moe_10",
+              "type": "choice",
+              "content": "我也喜欢广原你"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_saya",
+      "name": "楠瀬 沙绫",
+      "endings": [
+        {
+          "id": "ending_saya_end",
+          "name": "沙绫 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_saya_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_saya_02",
+              "type": "choice",
+              "content": "我喜欢沙绫"
+            },
+            {
+              "id": "step_saya_03",
+              "type": "choice",
+              "content": "不抱一条"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_kurea",
+      "name": "一条 紅愛",
+      "endings": [
+        {
+          "id": "ending_kurea_end",
+          "name": "紅愛 END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_kurea_end_01",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_kurea_end_02",
+              "type": "choice",
+              "content": "见一条"
+            },
+            {
+              "id": "step_kurea_end_03",
+              "type": "save",
+              "content": "SAVE 6"
+            },
+            {
+              "id": "step_kurea_end_04",
+              "type": "choice",
+              "content": "正因为喜欢才不能这么做"
+            }
+          ]
+        },
+        {
+          "id": "ending_kurea_end1",
+          "name": "紅愛 END2",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_kurea_bad1_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_kurea_bad1_02",
+              "type": "choice",
+              "content": "抱向一条"
+            }
+          ]
+        },
+        {
+          "id": "ending_kurea_end2",
+          "name": "紅愛 END3",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_kurea_bad2_01",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_kurea_bad2_02",
+              "type": "choice",
+              "content": "抱向一条"
+            }
+          ]
+        },
+        {
+          "id": "ending_kurea_end3",
+          "name": "紅愛 END4",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_kurea_bad3_01",
+              "type": "load",
+              "content": "LOAD 6"
+            },
+            {
+              "id": "step_kurea_bad3_02",
+              "type": "choice",
+              "content": "抱向一条"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_mirai",
+      "name": "天塚 未來",
+      "endings": [
+        {
+          "id": "ending_mirai_end1",
+          "name": "未來 END1",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_mirai_end1_01",
+              "type": "load",
+              "content": "LOAD 5"
+            },
+            {
+              "id": "step_mirai_end1_02",
+              "type": "choice",
+              "content": "抱歉……"
+            },
+            {
+              "id": "step_mirai_end1_03",
+              "type": "save",
+              "content": "SAVE 7"
+            },
+            {
+              "id": "step_mirai_end1_04",
+              "type": "choice",
+              "content": "不同意"
+            }
+          ]
+        },
+        {
+          "id": "ending_mirai_end2",
+          "name": "未來 END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_mirai_end2_01",
+              "type": "load",
+              "content": "LOAD 7"
+            },
+            {
+              "id": "step_mirai_end2_02",
+              "type": "choice",
+              "content": "同意"
+            },
+            {
+              "id": "step_mirai_end2_03",
+              "type": "note",
+              "content": "会回到标题画面",
+              "prefix": "※"
+            }
+          ]
+        },
+        {
+          "id": "ending_mirai_true_end",
+          "name": "未來 END3",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_mirai_true_01",
+              "type": "note",
+              "content": "以上END后，从最初开始",
+              "prefix": "※"
+            },
+            {
+              "id": "step_mirai_true_02",
+              "type": "note",
+              "content": "完成未来TE"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

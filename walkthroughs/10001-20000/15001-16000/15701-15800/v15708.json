@@ -1,0 +1,134 @@
+{
+  "vid": "v15708",
+  "name": {
+    "zh-cn": "千之刃涛，桃花染之皇姬",
+    "en-us": "Senmomo: Through Billows of Blades, A Peachbloom Princess",
+    "ja-jp": "千の刃濤、桃花染の皇姫",
+    "ja-Latn": "sen-no-hatou-tsukisome-no-kouki"
+  },
+  "level": 2,
+  "updatedAt": "2026-05-09",
+  "routes": [
+    {
+      "id": "route_main",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_uchina",
+          "name": "稻生 浒 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_uchina_01",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_uchina_02",
+              "type": "choice",
+              "content": "和浒一起走"
+            }
+          ]
+        },
+        {
+          "id": "ending_kanami",
+          "name": "鸨田 奏海 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_kanami_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_kanami_02",
+              "type": "choice",
+              "content": "和朱璃一起走"
+            },
+            {
+              "id": "step_kanami_03",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_kanami_04",
+              "type": "choice",
+              "content": "回应奏海的热情也是义兄的义务"
+            }
+          ]
+        },
+        {
+          "id": "ending_elsa",
+          "name": "艾尔莎・瓦伦丁 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_elsa_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_elsa_02",
+              "type": "choice",
+              "content": "自不用说，一切都是为了皇国的复兴。"
+            },
+            {
+              "id": "step_elsa_03",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_elsa_04",
+              "type": "choice",
+              "content": "赶往夜鸦街"
+            }
+          ]
+        },
+        {
+          "id": "ending_kotone",
+          "name": "椎叶 古杜音 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_kotone_01",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_kotone_02",
+              "type": "choice",
+              "content": "完成自己的职责"
+            },
+            {
+              "id": "step_kotone_03",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_kotone_04",
+              "type": "choice",
+              "content": "我不想白白伤害古杜音"
+            }
+          ]
+        },
+        {
+          "id": "ending_shuri",
+          "name": "宫国 朱璃 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_shuri_01",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_shuri_02",
+              "type": "choice",
+              "content": "古杜音的提案没有效果"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,309 @@
+{
+  "vid": "v16397",
+  "name": {
+    "zh-cn": "未来女友",
+    "ja-jp": "ミライカノジョ",
+    "ja-Latn": "mirai-kanojo"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-14",
+  "routes": [
+    {
+      "id": "route_game_guide",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_koyuki_yugiri_end",
+          "name": "小雪＆夕雾 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_koyuki_yugiri_01",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_koyuki_yugiri_02",
+              "type": "choice",
+              "content": "小雪"
+            },
+            {
+              "id": "step_koyuki_yugiri_03",
+              "type": "choice",
+              "content": "和夕雾先生商量"
+            },
+            {
+              "id": "step_koyuki_yugiri_05",
+              "type": "choice",
+              "content": "感觉很别扭"
+            },
+            {
+              "id": "step_koyuki_yugiri_06",
+              "type": "choice",
+              "content": "小雪"
+            },
+            {
+              "id": "step_koyuki_yugiri_07",
+              "type": "choice",
+              "content": "在小雪的店里帮忙"
+            },
+            {
+              "id": "step_koyuki_yugiri_08",
+              "type": "choice",
+              "content": "放出去"
+            }
+          ]
+        },
+        {
+          "id": "ending_koyuki_scene_recovery",
+          "name": "小雪 场景回收",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_koyuki_scene_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_koyuki_scene_02",
+              "type": "choice",
+              "content": "小雪"
+            },
+            {
+              "id": "step_koyuki_scene_03",
+              "type": "choice",
+              "content": "对不起，我拒绝了"
+            },
+            {
+              "id": "step_koyuki_scene_04",
+              "type": "choice",
+              "content": "再考虑一下"
+            },
+            {
+              "id": "step_koyuki_scene_05",
+              "type": "choice",
+              "content": "小雪说要去店里帮忙"
+            }
+          ]
+        },
+        {
+          "id": "ending_kanae_kana_end",
+          "name": "佳苗＆加奈 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_kanae_kana_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_kanae_kana_02",
+              "type": "choice",
+              "content": "佳苗老师"
+            },
+            {
+              "id": "step_kanae_kana_03",
+              "type": "choice",
+              "content": "听佳苗老师的请求一起巡视"
+            },
+            {
+              "id": "step_kanae_kana_04",
+              "type": "choice",
+              "content": "不让乃乃华卷入"
+            },
+            {
+              "id": "step_kanae_kana_05",
+              "type": "choice",
+              "content": "去确认正门那边"
+            },
+            {
+              "id": "step_kanae_kana_06",
+              "type": "choice",
+              "content": "感觉很别扭"
+            },
+            {
+              "id": "step_kanae_kana_07",
+              "type": "choice",
+              "content": "佳苗老师"
+            },
+            {
+              "id": "step_kanae_kana_08",
+              "type": "choice",
+              "content": "听佳苗老师的请求一起巡视"
+            },
+            {
+              "id": "step_kanae_kana_09",
+              "type": "choice",
+              "content": "请乃乃华帮忙"
+            },
+            {
+              "id": "step_kanae_kana_10",
+              "type": "choice",
+              "content": "对不起，我能拜托你吗？"
+            }
+          ]
+        },
+        {
+          "id": "ending_kanae_scene_recovery",
+          "name": "佳苗 场景回收",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_kanae_scene_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_kanae_scene_02",
+              "type": "choice",
+              "content": "佳苗老师"
+            },
+            {
+              "id": "step_kanae_scene_03",
+              "type": "choice",
+              "content": "听佳苗老师的请求一起巡视"
+            },
+            {
+              "id": "step_kanae_scene_04",
+              "type": "choice",
+              "content": "请乃乃华帮忙"
+            },
+            {
+              "id": "step_kanae_scene_05",
+              "type": "choice",
+              "content": "……真的可以吗？"
+            }
+          ]
+        },
+        {
+          "id": "ending_nonoka_nonoka_end",
+          "name": "乃乃华＆乃乃香 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_nonoka_nonoka_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_nonoka_nonoka_02",
+              "type": "choice",
+              "content": "乃乃华"
+            },
+            {
+              "id": "step_nonoka_nonoka_03",
+              "type": "choice",
+              "content": "以防万一，去确认一下"
+            },
+            {
+              "id": "step_nonoka_nonoka_04",
+              "type": "choice",
+              "content": "好吧。我们约会吧"
+            },
+            {
+              "id": "step_nonoka_nonoka_05",
+              "type": "choice",
+              "content": "与乃乃华交往"
+            },
+            {
+              "id": "step_nonoka_nonoka_07",
+              "type": "choice",
+              "content": "感觉很别扭"
+            },
+            {
+              "id": "step_nonoka_nonoka_08",
+              "type": "choice",
+              "content": "乃乃华"
+            },
+            {
+              "id": "step_nonoka_nonoka_09",
+              "type": "choice",
+              "content": "以防万一，去确认一下"
+            },
+            {
+              "id": "step_nonoka_nonoka_10",
+              "type": "choice",
+              "content": "好吧，我们约会吧"
+            },
+            {
+              "id": "step_nonoka_nonoka_11",
+              "type": "choice",
+              "content": "我先回去"
+            }
+          ]
+        },
+        {
+          "id": "ending_nonoka_scene_recovery",
+          "name": "乃乃华 场景回收",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_nonoka_scene_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_nonoka_scene_02",
+              "type": "choice",
+              "content": "乃乃华"
+            },
+            {
+              "id": "step_nonoka_scene_03",
+              "type": "choice",
+              "content": "以防万一，去确认一下"
+            },
+            {
+              "id": "step_nonoka_scene_04",
+              "type": "choice",
+              "content": "今天的乃乃华，果然很奇怪啊？"
+            }
+          ]
+        },
+        {
+          "id": "ending_yuzuki_harem_end",
+          "name": "唯月·后宫 END",
+          "type": "normal",
+          "requirements": "3 人攻略后从最初开始",
+          "steps": [
+            {
+              "id": "step_yuzuki_harem_02",
+              "type": "choice",
+              "content": "我觉得我能想起来"
+            },
+            {
+              "id": "step_yuzuki_harem_03",
+              "type": "choice",
+              "content": "唯月"
+            },
+            {
+              "id": "step_yuzuki_harem_05",
+              "type": "note",
+              "content": "以下的选择只在加入梦之后宫补丁的情况下出现",
+              "prefix": "※"
+            },
+            {
+              "id": "step_yuzuki_harem_06",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_yuzuki_harem_07",
+              "type": "choice",
+              "content": "小佳苗"
+            },
+            {
+              "id": "step_yuzuki_harem_08",
+              "type": "choice",
+              "content": "乃乃香"
+            },
+            {
+              "id": "step_yuzuki_harem_09",
+              "type": "choice",
+              "content": "夕雾"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

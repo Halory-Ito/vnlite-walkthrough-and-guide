@@ -1,0 +1,267 @@
+{
+  "vid": "v21852",
+  "name": {
+    "zh-cn": "金辉恋曲四重奏",
+    "en-us": "Kinkoi: Golden Loveriche",
+    "ja-jp": "金色ラブリッチェ",
+    "ja-Latn": "kiniro-loveriche"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-14",
+  "tips": [
+    "汉化组建议攻略顺序——希尔维之外3人、希尔维、理亚",
+    "特殊日期打开游戏有彩蛋",
+    "01月01日：元旦, 02月14日：情人节 ,03月03日：希尔维娅生日, 03月03日：理亚生日 ,03月14日：白色情人节 ,04月01日：愚人节 ,05月25日：艾尔生日, 08月01日：玲奈生日 ,09月13日：茜生日 ,10月31日：万圣节, 12月25日：圣诞节"
+  ],
+  "routes": [
+    {
+      "id": "route_1772864941800",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1772865198603",
+          "name": "序章",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1772865325428",
+              "type": "note",
+              "content": "【序章三个选项，不会影响到攻略路线】"
+            },
+            {
+              "id": "step_1772865332958",
+              "type": "choice",
+              "content": "希尔维娅，带我一起去吧"
+            },
+            {
+              "id": "step_1772865333132",
+              "type": "choice",
+              "content": "玲奈到底是做什么呢"
+            },
+            {
+              "id": "step_1772865335263",
+              "type": "choice",
+              "content": "剑道是男人的浪漫"
+            },
+            {
+              "id": "step_1772865573652",
+              "type": "note",
+              "content": "OP动画过后"
+            },
+            {
+              "id": "step_1772865589445",
+              "type": "save",
+              "content": "SAVE 1"
+            }
+          ]
+        },
+        {
+          "id": "ending_1772865599693",
+          "name": "玲奈",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1772865650572",
+              "type": "choice",
+              "content": "玲奈"
+            },
+            {
+              "id": "step_1772865650734",
+              "type": "choice",
+              "content": "你穿围裙蛮好看的啊"
+            },
+            {
+              "id": "step_1772865651193",
+              "type": "choice",
+              "content": "天好红啊"
+            }
+          ]
+        },
+        {
+          "id": "ending_1772865600201",
+          "name": "茜",
+          "type": "normal",
+          "requirements": "※１人攻略完毕后",
+          "steps": [
+            {
+              "id": "step_1772866243709",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1772866244584",
+              "type": "choice",
+              "content": "茜"
+            }
+          ]
+        },
+        {
+          "id": "ending_1772865600755",
+          "name": "艾尔",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1772866853018",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1772867064660",
+              "type": "choice",
+              "content": "艾尔"
+            },
+            {
+              "id": "step_1772867065176",
+              "type": "choice",
+              "content": "你是谁"
+            },
+            {
+              "id": "step_1772867106990",
+              "type": "choice",
+              "content": "就让希尔维娅也经历经历吧"
+            }
+          ]
+        },
+        {
+          "id": "ending_1772865605879",
+          "name": "希尔维娅",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1772867529879",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1772867532168",
+              "type": "choice",
+              "content": "希尔维娅"
+            },
+            {
+              "id": "step_1772867542914",
+              "type": "choice",
+              "content": "亲爱的"
+            },
+            {
+              "id": "step_1772867566993",
+              "type": "choice",
+              "content": "很可爱啊"
+            },
+            {
+              "id": "step_1772867584873",
+              "type": "choice",
+              "content": "尝试与之交流"
+            },
+            {
+              "id": "step_1772867585076",
+              "type": "choice",
+              "content": "拿起最外侧的叉子和刀",
+              "subfix": "【※SDCG差别回收：拿起最外侧的叉子/要一双筷子】"
+            },
+            {
+              "id": "step_1772867585441",
+              "type": "choice",
+              "content": "抬起汤碟内侧",
+              "subfix": "【※SDCG差别回收：抬起汤碟外侧】"
+            },
+            {
+              "id": "step_1772867660712",
+              "type": "choice",
+              "content": "还是不了",
+              "subfix": "【※SDCG差别回收：用面包将碟子擦干净】"
+            },
+            {
+              "id": "step_1772867660902",
+              "type": "choice",
+              "content": "暂时不喝",
+              "subfix": "【※SDCG差别回收：喝吧/等米娜喝时再喝】"
+            },
+            {
+              "id": "step_1772867661266",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1772867716797",
+              "type": "choice",
+              "content": "静观其变"
+            },
+            {
+              "id": "step_1772867716966",
+              "type": "choice",
+              "content": "横向放置"
+            },
+            {
+              "id": "step_1772867717164",
+              "type": "choice",
+              "content": "叫哥哥",
+              "subfix": "【※HCG差别回收：其他不用做，屁股朝向我就好】"
+            },
+            {
+              "id": "step_1772867717354",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1772867717537",
+              "type": "choice",
+              "content": "捡起来"
+            },
+            {
+              "id": "step_1772867717764",
+              "type": "choice",
+              "content": "略微斜向放置"
+            },
+            {
+              "id": "step_1772867717945",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_1772867718142",
+              "type": "choice",
+              "content": "忍耐"
+            }
+          ]
+        },
+        {
+          "id": "ending_1772865606142",
+          "name": "理亚",
+          "type": "normal",
+          "requirements": "※４人攻略完毕后标题画面选GOLDEN TIME开始",
+          "steps": [
+            {
+              "id": "step_1772867840742",
+              "type": "choice",
+              "content": "理亚"
+            },
+            {
+              "id": "step_1772867841345",
+              "type": "choice",
+              "content": "罪恶感",
+              "subfix": "【※HCG差别回收：兴奋感】"
+            }
+          ]
+        },
+        {
+          "id": "ending_1772865606449",
+          "name": "希尔维娅 END2",
+          "type": "normal",
+          "requirements": "理亚END后",
+          "steps": [
+            {
+              "id": "step_1772867910428",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1772867915833",
+              "type": "choice",
+              "content": "打扰了"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

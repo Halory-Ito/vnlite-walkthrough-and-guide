@@ -1,0 +1,46 @@
+{
+  "vid": "v925",
+  "name": {
+    "zh-cn": "花吻在上 ～恋人的羁绊～",
+    "en-us": "A Kiss For The Petals - Joined In Love With You",
+    "ja-jp": "その花びらにくちづけを　あなたと恋人つなぎ",
+    "ja-Latn": "sono-hanabira-ni-kuchizuke-o-anata-to-koibito-tsunagi"
+  },
+  "level": 2,
+  "updatedAt": "2026-05-06",
+  "routes": [
+    {
+      "id": "route_1778062020299",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1778062028859",
+          "name": "END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1778062033523",
+              "type": "choice",
+              "content": "昨天真是谢谢了"
+            },
+            {
+              "id": "step_1778062034395",
+              "type": "choice",
+              "content": "是，是这样的，谢谢"
+            },
+            {
+              "id": "step_1778062035354",
+              "type": "choice",
+              "content": "叫她猪肝女/天然女"
+            },
+            {
+              "id": "step_1778062036019",
+              "type": "choice",
+              "content": "公主肚子饿扁了"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

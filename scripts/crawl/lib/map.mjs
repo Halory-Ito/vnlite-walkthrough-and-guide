@@ -104,16 +104,41 @@ function resolveUpdatedAt(game, lastmod) {
 const stepSignature = (step) =>
   [step.type, step.content, step.prefix ?? '', step.subfix ?? '', step.group ?? ''].join('\u0000');
 
-function mapStep(raw, warn) {
+/**
+ * 源站的 id 只是「行内序号」，并不唯一：常见情况是每个结局都从 step_01 重新编号，
+ * 甚至同一结局内出现两个 step_end12_001。本库要求同级 id 唯一，因此重复时追加
+ * 确定性后缀（step_01 -> step_01_2），既保留可追溯性，又保证多次抓取结果完全一致。
+ *
+ * @returns {string|undefined} 去重后的 id；原本无 id 则返回 undefined
+ */
+function claimId(rawId, seen, kind, renames) {
+  const id = cleanText(rawId);
+  if (!id) return undefined;
+  if (!seen.has(id)) {
+    seen.add(id);
+    return id;
+  }
+  let n = 1;
+  let candidate = `${id}_${n}`;
+  while (seen.has(candidate)) {
+    n += 1;
+    candidate = `${id}_${n}`;
+  }
+  seen.add(candidate);
+  renames.push(`${kind}: ${id} -> ${candidate}`);
+  return candidate;
+}
+
+function mapStep(raw, ctx) {
   const source = raw && typeof raw === 'object' && !Array.isArray(raw) ? raw : {};
   const content = cleanContent(source.content, true);
   if (!content) {
-    warn('步骤 content 为空，已跳过');
+    ctx.warnings.push('步骤 content 为空，已跳过');
     return null;
   }
 
   const step = {};
-  const id = cleanText(source.id);
+  const id = claimId(source.id, ctx.ids.step, 'step', ctx.renamedIds);
   if (id) step.id = id;
   step.type = STEP_TYPES.includes(source.type) ? source.type : TYPE_FALLBACK.step;
   step.content = content;
@@ -133,7 +158,7 @@ function mapSteps(rawSteps, ctx, scopeLabel) {
 
   const steps = [];
   for (const raw of rawSteps) {
-    const step = mapStep(raw, warn);
+    const step = mapStep(raw, ctx);
     if (!step) continue;
     const previous = steps[steps.length - 1];
     if (ctx.dedupeSteps && previous && stepSignature(previous) === stepSignature(step)) {
@@ -152,11 +177,12 @@ function mapSteps(rawSteps, ctx, scopeLabel) {
 
 function mapEnding(raw, ctx, index, scopeLabel) {
   const source = raw && typeof raw === 'object' && !Array.isArray(raw) ? raw : {};
-  const name = cleanContent(source.name, true) || `未命名结局 ${index + 1}`;
-  if (!cleanContent(source.name, true)) ctx.warnings.push(`${scopeLabel}: 结局缺少名称，已使用占位名`);
+  const rawName = cleanContent(source.name, true);
+  const name = rawName || `未命名结局 ${index + 1}`;
+  if (!rawName) ctx.warnings.push(`${scopeLabel}: 结局缺少名称，已使用占位名`);
 
   const ending = {};
-  const id = cleanText(source.id);
+  const id = claimId(source.id, ctx.ids.ending, 'ending', ctx.renamedIds);
   if (id) ending.id = id;
   ending.name = name;
   ending.type = ENDING_TYPES.includes(source.type) ? source.type : TYPE_FALLBACK.ending;
@@ -168,8 +194,9 @@ function mapEnding(raw, ctx, index, scopeLabel) {
 
 function mapRoute(raw, ctx, index) {
   const source = raw && typeof raw === 'object' && !Array.isArray(raw) ? raw : {};
-  const name = cleanContent(source.name, true) || `未命名路线 ${index + 1}`;
-  if (!cleanContent(source.name, true)) ctx.warnings.push(`routes[${index}]: 路线缺少名称，已使用占位名`);
+  const rawName = cleanContent(source.name, true);
+  const name = rawName || `未命名路线 ${index + 1}`;
+  if (!rawName) ctx.warnings.push(`routes[${index}]: 路线缺少名称，已使用占位名`);
 
   const rawEndings = Array.isArray(source.endings) ? source.endings : [];
   const endings = rawEndings.map((e, i) => mapEnding(e, ctx, i, `routes[${index}]「${name}」`));
@@ -180,7 +207,7 @@ function mapRoute(raw, ctx, index) {
   }
 
   const route = {};
-  const id = cleanText(source.id);
+  const id = claimId(source.id, ctx.ids.route, 'route', ctx.renamedIds);
   if (id) route.id = id;
   route.name = name;
   route.endings = endings;
@@ -213,7 +240,13 @@ export function mapGameToWalkthrough(game, ctx) {
   const vid = vidOverride ?? vndbIds[0] ?? null;
   if (!vid) throw new SkipError('缺少 vndb_id，无法确定 VNDB 编号（可用 --vid vN 手动指定）');
 
-  const state = { warnings: [], dedupeSteps, duplicatedSteps: 0 };
+  const state = {
+    warnings: [],
+    dedupeSteps,
+    duplicatedSteps: 0,
+    renamedIds: [],
+    ids: { route: new Set(), ending: new Set(), step: new Set() },
+  };
   const routes = (Array.isArray(game.routes) ? game.routes : []).map((r, i) => mapRoute(r, state, i));
 
   if (routes.length === 0) throw new SkipError('源站没有 routes 数据');
@@ -236,6 +269,12 @@ export function mapGameToWalkthrough(game, ctx) {
     stepsCount: routes.reduce((n, r) => n + r.endings.reduce((m, e) => m + e.steps.length, 0), 0),
   };
 
+  if (state.renamedIds.length > 0) {
+    state.warnings.push(
+      `源站 id 重复，已自动追加后缀 ${state.renamedIds.length} 处（例：${state.renamedIds.slice(0, 3).join('；')}）`,
+    );
+  }
+
   return {
     doc,
     source: {
@@ -246,6 +285,7 @@ export function mapGameToWalkthrough(game, ctx) {
       ...stats,
       warnings: state.warnings,
       duplicatedSteps: state.duplicatedSteps,
+      renamedIds: state.renamedIds.length,
     },
   };
 }

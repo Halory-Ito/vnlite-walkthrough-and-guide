@@ -1,0 +1,97 @@
+{
+  "vid": "v16845",
+  "name": {
+    "zh-cn": "妹的圣域",
+    "en-us": "My Little Sister's Special Place",
+    "ja-jp": "妹のセイイキ",
+    "ja-Latn": "imouto-no-seiiki"
+  },
+  "level": 2,
+  "updatedAt": "2026-05-12",
+  "routes": [
+    {
+      "id": "route_1778565903003",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1778565931890",
+          "name": "END1",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_1778565935453",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1778565935709",
+              "type": "choice",
+              "content": "无法回应"
+            }
+          ]
+        },
+        {
+          "id": "ending_1778565971108",
+          "name": "END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1778565975443",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1778565998203",
+              "type": "choice",
+              "content": "回应由佳奈的心意"
+            },
+            {
+              "id": "step_1778566010078",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1778566012625",
+              "type": "choice",
+              "content": "想要变成像恋人那样的关系"
+            }
+          ]
+        },
+        {
+          "id": "ending_1778566025370",
+          "name": "END3",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1778566031530",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1778566034071",
+              "type": "choice",
+              "content": "想回到像兄妹一样的关系"
+            }
+          ]
+        },
+        {
+          "id": "ending_1778566042493",
+          "name": "END4",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_1778566054724",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1778566055885",
+              "type": "choice",
+              "content": "都不是"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

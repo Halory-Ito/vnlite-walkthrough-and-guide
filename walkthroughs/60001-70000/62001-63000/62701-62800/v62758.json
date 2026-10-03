@@ -1,0 +1,103 @@
+{
+  "vid": "v62758",
+  "name": {
+    "zh-cn": "折翼之蝶的情人节",
+    "ja-jp": "飛べない蝶のバレンタイン",
+    "ja-Latn": "tobenai-chou-no-valentine"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-14",
+  "routes": [
+    {
+      "id": "route_tobenai_chou_valentine",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_bad",
+          "name": "END 1",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_bad_002",
+              "type": "choice",
+              "content": "主街"
+            },
+            {
+              "id": "step_bad_003",
+              "type": "choice",
+              "content": "教室"
+            },
+            {
+              "id": "step_bad_004",
+              "type": "choice",
+              "content": "甜品店"
+            },
+            {
+              "id": "step_bad_005",
+              "type": "note",
+              "content": "以上三个地点需要全部选择，选择顺序不影响攻略。"
+            },
+            {
+              "id": "step_bad_006",
+              "type": "choice",
+              "content": "任选一个地点"
+            },
+            {
+              "id": "step_bad_007",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_bad_008",
+              "type": "note",
+              "content": "初次游玩时，在下一次地点选择前保存。TRUE END 解锁后读取此存档，会追加新的地点。"
+            },
+            {
+              "id": "step_bad_009",
+              "type": "choice",
+              "content": "任选一个地点"
+            },
+            {
+              "id": "step_bad_010",
+              "type": "choice",
+              "content": "就这样睡觉"
+            },
+            {
+              "id": "step_bad_011",
+              "type": "note",
+              "content": "该选项只会在不循环的地点选择中选择过甜品店时出现；如果没有出现，可以忽略。"
+            }
+          ]
+        },
+        {
+          "id": "ending_true",
+          "name": "END 2",
+          "type": "true",
+          "requirements": "主界面通关 JURIs’ Episode 后解锁 TRUE END",
+          "steps": [
+            {
+              "id": "step_true_002",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_true_003",
+              "type": "choice",
+              "content": "甜品店"
+            },
+            {
+              "id": "step_true_004",
+              "type": "note",
+              "content": "如果上一次地点选择已经选择了甜品店，这里可以任选；如果上一次没有选择甜品店，这里选择甜品店。"
+            },
+            {
+              "id": "step_true_005",
+              "type": "choice",
+              "content": "阅读笔记"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

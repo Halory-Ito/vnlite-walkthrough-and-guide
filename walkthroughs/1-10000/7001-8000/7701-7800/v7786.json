@@ -1,0 +1,71 @@
+{
+  "vid": "v7786",
+  "name": {
+    "zh-cn": "春季限定Poco·A·Poco",
+    "ja-jp": "春季限定ポコ・ア・ポコ!",
+    "ja-Latn": "shunki-gentei-poco-a-poco"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-13",
+  "tips": [
+    "☆选项为追加选项，初次游戏时无视即可",
+    "括号标注的选项请自行选择回收CG"
+  ],
+  "routes": [
+    {
+      "id": "route_1769331270507",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1769331301491",
+          "name": "一樱 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1769331568218",
+              "type": "choice",
+              "content": "（不需要）",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_1769331568400",
+              "type": "choice",
+              "content": "去追樱"
+            }
+          ]
+        },
+        {
+          "id": "ending_1769331303669",
+          "name": "野野宫蓝 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1769331672364",
+              "type": "choice",
+              "content": "（不需要）",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_1769331672535",
+              "type": "choice",
+              "content": "一个人也没问题"
+            }
+          ]
+        },
+        {
+          "id": "ending_1769331304110",
+          "name": "悠木夏海 END",
+          "type": "normal",
+          "requirements": "2周目后从序章开始",
+          "steps": [
+            {
+              "id": "step_1769331764013",
+              "type": "choice",
+              "content": "……"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

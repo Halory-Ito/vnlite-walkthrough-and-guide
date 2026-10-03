@@ -1,0 +1,184 @@
+{
+  "vid": "v4429",
+  "name": {
+    "zh-cn": "11eyes－Resona Forma－",
+    "ja-jp": "11eyes－Resona Forma－",
+    "ja-Latn": "11eyes-resona-forma"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-14",
+  "routes": [
+    {
+      "id": "route_game",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_yuka_end",
+          "name": "ゆか END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_yuka_001",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_yuka_002",
+              "type": "choice",
+              "content": "水奈瀬ゆか"
+            }
+          ]
+        },
+        {
+          "id": "ending_misuzu_end",
+          "name": "美鈴 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_misuzu_001",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_misuzu_002",
+              "type": "choice",
+              "content": "草壁美鈴"
+            }
+          ]
+        },
+        {
+          "id": "ending_kikuri_end",
+          "name": "菊理 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_kikuri_001",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_kikuri_002",
+              "type": "choice",
+              "content": "橘菊理"
+            }
+          ]
+        },
+        {
+          "id": "ending_apostle_end",
+          "name": "使徒 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_apostle_001",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_apostle_002",
+              "type": "choice",
+              "content": "禁書目録聖省の使徒"
+            }
+          ]
+        },
+        {
+          "id": "ending_lisette_end",
+          "name": "リゼット END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_lisette_001",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_lisette_002",
+              "type": "choice",
+              "content": "リゼット・ヴェルトール"
+            }
+          ]
+        },
+        {
+          "id": "ending_yukiko_end",
+          "name": "雪子 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_yukiko_001",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_yukiko_002",
+              "type": "choice",
+              "content": "広原雪子"
+            }
+          ]
+        },
+        {
+          "id": "ending_shiori_end",
+          "name": "栞 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_shiori_001",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_shiori_002",
+              "type": "choice",
+              "content": "百野栞"
+            },
+            {
+              "id": "step_shiori_015",
+              "type": "note",
+              "content": "ユーザーSS"
+            },
+            {
+              "id": "step_shiori_016",
+              "type": "note",
+              "content": "1、野郎だけのクリスマスイブ"
+            },
+            {
+              "id": "step_shiori_017",
+              "type": "note",
+              "content": "2、死闘の裏で…"
+            },
+            {
+              "id": "step_shiori_018",
+              "type": "note",
+              "content": "3、彼女らの事情"
+            },
+            {
+              "id": "step_shiori_019",
+              "type": "note",
+              "content": "4、悪夢の世界"
+            },
+            {
+              "id": "step_shiori_020",
+              "type": "note",
+              "content": "SPECIAL"
+            }
+          ]
+        },
+        {
+          "id": "ending_yoshihisa_end",
+          "name": "賢久 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_yoshihisa_001",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_yoshihisa_002",
+              "type": "choice",
+              "content": "田島賢久"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

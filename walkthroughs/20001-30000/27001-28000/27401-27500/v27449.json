@@ -1,0 +1,196 @@
+{
+  "vid": "v27449",
+  "name": {
+    "zh-cn": "常轨脱离Creative",
+    "ja-jp": "ハミダシクリエイティブ",
+    "ja-Latn": "hamidashi-creative"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-14",
+  "tips": [
+    "基于白井木学园汉化组1.1汉化版本的攻略"
+  ],
+  "routes": [
+    {
+      "id": "route_1772366199398",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1772366211726",
+          "name": "和泉 妃爱",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1772366229870",
+              "type": "choice",
+              "content": "喜欢"
+            },
+            {
+              "id": "step_1772366231290",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1772366232115",
+              "type": "choice",
+              "content": "拜托常磐"
+            },
+            {
+              "id": "step_1772366232288",
+              "type": "choice",
+              "content": "先去说服常磐"
+            },
+            {
+              "id": "step_1772366232489",
+              "type": "choice",
+              "content": "雅典娜式"
+            },
+            {
+              "id": "step_1772366242350",
+              "type": "choice",
+              "content": "和常磐一起走"
+            },
+            {
+              "id": "step_1772366247157",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1772366252338",
+              "type": "choice",
+              "content": "养我一辈子"
+            },
+            {
+              "id": "step_1772366252523",
+              "type": "choice",
+              "content": "去钓鱼"
+            }
+          ]
+        },
+        {
+          "id": "ending_1772366211909",
+          "name": "锦 亚澄",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1772366281678",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1772366282715",
+              "type": "choice",
+              "content": "先去挽留锦"
+            },
+            {
+              "id": "step_1772366282908",
+              "type": "choice",
+              "content": "先去说服常磐"
+            },
+            {
+              "id": "step_1772366283134",
+              "type": "choice",
+              "content": "斯巴达式"
+            },
+            {
+              "id": "step_1772366283372",
+              "type": "choice",
+              "content": "和诗樱学姐一起走"
+            },
+            {
+              "id": "step_1772366283579",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_1772366305603",
+              "type": "choice",
+              "content": "不去"
+            },
+            {
+              "id": "step_1772366305776",
+              "type": "choice",
+              "content": "我总有一天要独立"
+            },
+            {
+              "id": "step_1772366312529",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_1772366319608",
+              "type": "choice",
+              "content": "去买西瓜"
+            }
+          ]
+        },
+        {
+          "id": "ending_1772366212137",
+          "name": "常磐 华乃",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1772366399602",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1772366403364",
+              "type": "choice",
+              "content": "我总有一天要独立"
+            },
+            {
+              "id": "step_1772366403525",
+              "type": "choice",
+              "content": "去钓鱼"
+            }
+          ]
+        },
+        {
+          "id": "ending_1772366212574",
+          "name": "镰仓 诗樱",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1772366467068",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1772366471463",
+              "type": "choice",
+              "content": "去"
+            },
+            {
+              "id": "step_1772366471770",
+              "type": "choice",
+              "content": "我总有一天要独立"
+            },
+            {
+              "id": "step_1772366472122",
+              "type": "choice",
+              "content": "去钓鱼"
+            }
+          ]
+        },
+        {
+          "id": "ending_1772366519034",
+          "name": "普通END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1772366533042",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1772366533683",
+              "type": "choice",
+              "content": "去钓鱼"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

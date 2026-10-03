@@ -1,0 +1,3403 @@
+{
+  "vid": "v12830",
+  "name": {
+    "zh-cn": "Melty Moment",
+    "ja-jp": "MeltyMoment ～メルティモーメント～",
+    "ja-Latn": "melty-moment"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-14",
+  "tips": [
+    "地图移动☆标注的为地图选项，其后可在特定时间与对应女主相遇",
+    "在移动结束前选项可随意选择，需要回收对话的请自行存档",
+    "如找不着地方点击左上方在“到校外去”和“回到学校”间切换",
+    "▲标注为女生间的谈话Girly Talking",
+    "RTC:标注选项会读秒，即使不选也不会影响攻略",
+    "★标注选项为解锁“秘密的信”所需选项，每个END后会解锁一封秘密的信，在鉴赏里观看"
+  ],
+  "routes": [
+    {
+      "id": "route_game",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_001",
+          "name": "织惠 夕花 END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_0001",
+              "type": "choice",
+              "content": "RTC:道谢"
+            },
+            {
+              "id": "step_0002",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_0003",
+              "type": "note",
+              "content": "多功能室：夕花",
+              "prefix": "■"
+            },
+            {
+              "id": "step_0004",
+              "type": "note",
+              "content": "千恵美&夕花&堇",
+              "prefix": "▲"
+            },
+            {
+              "id": "step_0005",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_0006",
+              "type": "note",
+              "content": "地图移动01",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_0007",
+              "type": "choice",
+              "content": "到校外去"
+            },
+            {
+              "id": "step_0008",
+              "type": "choice",
+              "content": "16:20 街区：商店街"
+            },
+            {
+              "id": "step_0009",
+              "type": "choice",
+              "content": "17:20 街区：小区"
+            },
+            {
+              "id": "step_0010",
+              "type": "choice",
+              "content": "18:00 街区：健的家"
+            },
+            {
+              "id": "step_0011",
+              "type": "note",
+              "content": "移动结束"
+            },
+            {
+              "id": "step_0012",
+              "type": "choice",
+              "content": "RTC:不选"
+            },
+            {
+              "id": "step_0014",
+              "type": "note",
+              "content": "教室：夕花",
+              "prefix": "■"
+            },
+            {
+              "id": "step_0015",
+              "type": "choice",
+              "content": "RTC:不选"
+            },
+            {
+              "id": "step_0017",
+              "type": "note",
+              "content": "夕花&堇&操&菜月",
+              "prefix": "▲"
+            },
+            {
+              "id": "step_0018",
+              "type": "note",
+              "content": "地图移动02",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_0019",
+              "type": "choice",
+              "content": "15:40 学园：教室"
+            },
+            {
+              "id": "step_0020",
+              "type": "choice",
+              "content": "到校外去"
+            },
+            {
+              "id": "step_0021",
+              "type": "choice",
+              "content": "17:20 街区：小区附近的公园"
+            },
+            {
+              "id": "step_0022",
+              "type": "choice",
+              "content": "18:00 街区：夕花的家"
+            },
+            {
+              "id": "step_0023",
+              "type": "note",
+              "content": "移动结束"
+            },
+            {
+              "id": "step_0024",
+              "type": "note",
+              "content": "地图移动03",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_0025",
+              "type": "choice",
+              "content": "07:30 街区：夕花的家"
+            },
+            {
+              "id": "step_0026",
+              "type": "choice",
+              "content": "07:50 街区：上学路"
+            },
+            {
+              "id": "step_0027",
+              "type": "choice",
+              "content": "08:10 学园：走廊"
+            },
+            {
+              "id": "step_0028",
+              "type": "note",
+              "content": "移动结束"
+            },
+            {
+              "id": "step_0029",
+              "type": "choice",
+              "content": "RTC:不选"
+            },
+            {
+              "id": "step_0031",
+              "type": "note",
+              "content": "地图移动04",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_0032",
+              "type": "choice",
+              "content": "12:20 学园：教室"
+            },
+            {
+              "id": "step_0033",
+              "type": "choice",
+              "content": "12:50 学园：走廊"
+            },
+            {
+              "id": "step_0034",
+              "type": "choice",
+              "content": "13:20 学园：教室"
+            },
+            {
+              "id": "step_0035",
+              "type": "note",
+              "content": "移动结束"
+            },
+            {
+              "id": "step_0036",
+              "type": "choice",
+              "content": "陪她一起"
+            },
+            {
+              "id": "step_0037",
+              "type": "choice",
+              "content": "RTC:否定"
+            },
+            {
+              "id": "step_0038",
+              "type": "note",
+              "content": "夕花&五十铃&葵",
+              "prefix": "▲"
+            },
+            {
+              "id": "step_0039",
+              "type": "note",
+              "content": "教室：夕花",
+              "prefix": "■"
+            },
+            {
+              "id": "step_0040",
+              "type": "note",
+              "content": "夕花&堇",
+              "prefix": "▲"
+            },
+            {
+              "id": "step_0041",
+              "type": "note",
+              "content": "以下地点随意选择"
+            },
+            {
+              "id": "step_0042",
+              "type": "choice",
+              "content": "10:30 商店街：夕花"
+            },
+            {
+              "id": "step_0043",
+              "type": "choice",
+              "content": "12:30 小区：夕花"
+            },
+            {
+              "id": "step_0044",
+              "type": "choice",
+              "content": "13:30 小区附近的公园：夕花"
+            },
+            {
+              "id": "step_0045",
+              "type": "choice",
+              "content": "15:30 夕花的房间：夕花"
+            },
+            {
+              "id": "step_0046",
+              "type": "note",
+              "content": "选择完毕"
+            },
+            {
+              "id": "step_0047",
+              "type": "choice",
+              "content": "RTC:不选"
+            },
+            {
+              "id": "step_0048",
+              "type": "choice",
+              "content": "RTC:回答想吃的东西"
+            },
+            {
+              "id": "step_0049",
+              "type": "note",
+              "content": "地图移动06",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_0050",
+              "type": "choice",
+              "content": "到校外去"
+            },
+            {
+              "id": "step_0051",
+              "type": "choice",
+              "content": "16:00 街区：上学路坡道"
+            },
+            {
+              "id": "step_0052",
+              "type": "choice",
+              "content": "16:40 街区：商店街"
+            },
+            {
+              "id": "step_0053",
+              "type": "choice",
+              "content": "17:00 街区：堇家"
+            },
+            {
+              "id": "step_0054",
+              "type": "choice",
+              "content": "18:00 街区：小区"
+            },
+            {
+              "id": "step_0055",
+              "type": "note",
+              "content": "移动结束"
+            },
+            {
+              "id": "step_0056",
+              "type": "note",
+              "content": "多功能室：夕花",
+              "prefix": "■"
+            },
+            {
+              "id": "step_0057",
+              "type": "choice",
+              "content": "RTC:叫醒她"
+            },
+            {
+              "id": "step_0058",
+              "type": "choice",
+              "content": "RTC:不选"
+            },
+            {
+              "id": "step_0059",
+              "type": "note",
+              "content": "地图移动07",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_0060",
+              "type": "choice",
+              "content": "18:00 学园：操场"
+            },
+            {
+              "id": "step_0061",
+              "type": "choice",
+              "content": "18:30 学园：教室"
+            },
+            {
+              "id": "step_0062",
+              "type": "choice",
+              "content": "19:00 学园：走廊"
+            },
+            {
+              "id": "step_0063",
+              "type": "choice",
+              "content": "到校外去"
+            },
+            {
+              "id": "step_0064",
+              "type": "choice",
+              "content": "19:30 街区：小区"
+            },
+            {
+              "id": "step_0065",
+              "type": "choice",
+              "content": "19:45 街区：健的家"
+            },
+            {
+              "id": "step_0066",
+              "type": "note",
+              "content": "移动结束"
+            },
+            {
+              "id": "step_0067",
+              "type": "choice",
+              "content": "RTC:抬起头"
+            },
+            {
+              "id": "step_0068",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_0069",
+              "type": "choice",
+              "content": "12:30 走廊：夕花"
+            },
+            {
+              "id": "step_0070",
+              "type": "choice",
+              "content": "RTC:不选"
+            },
+            {
+              "id": "step_0072",
+              "type": "choice",
+              "content": "RTC:恶作剧"
+            },
+            {
+              "id": "step_0073",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_0074",
+              "type": "choice",
+              "content": "16:00 商店街：夕花"
+            },
+            {
+              "id": "step_0077",
+              "type": "choice",
+              "content": "RTC:吻她"
+            },
+            {
+              "id": "step_0078",
+              "type": "save",
+              "content": "SAVE 5"
+            },
+            {
+              "id": "step_0079",
+              "type": "choice",
+              "content": "13:00 咖啡厅：夕花"
+            },
+            {
+              "id": "step_0082",
+              "type": "save",
+              "content": "SAVE 6"
+            },
+            {
+              "id": "step_0083",
+              "type": "choice",
+              "content": "07:00 小区附近的公园：夕花",
+              "subfix": "★信件02"
+            }
+          ]
+        },
+        {
+          "id": "ending_002",
+          "name": "织惠 夕花 END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_0086",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_0087",
+              "type": "choice",
+              "content": "13:20 教室：夕花",
+              "subfix": "★信件05"
+            },
+            {
+              "id": "step_0088",
+              "type": "choice",
+              "content": "RTC:不选"
+            },
+            {
+              "id": "step_0090",
+              "type": "choice",
+              "content": "RTC:恶作剧"
+            },
+            {
+              "id": "step_0091",
+              "type": "choice",
+              "content": "16:00 商店街：夕花"
+            },
+            {
+              "id": "step_0094",
+              "type": "choice",
+              "content": "RTC:吻她"
+            },
+            {
+              "id": "step_0095",
+              "type": "choice",
+              "content": "13:00 咖啡厅：夕花"
+            },
+            {
+              "id": "step_0098",
+              "type": "choice",
+              "content": "07:00 小区附近的公园：夕花"
+            }
+          ]
+        },
+        {
+          "id": "ending_003",
+          "name": "织惠 夕花 END3",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_0101",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_0102",
+              "type": "choice",
+              "content": "17:00 小区附近的公园：夕花",
+              "subfix": "★信件03"
+            },
+            {
+              "id": "step_0105",
+              "type": "choice",
+              "content": "RTC:吻她"
+            },
+            {
+              "id": "step_0106",
+              "type": "choice",
+              "content": "13:00 咖啡厅：夕花"
+            },
+            {
+              "id": "step_0109",
+              "type": "choice",
+              "content": "07:00 小区附近的公园：夕花"
+            }
+          ]
+        },
+        {
+          "id": "ending_004",
+          "name": "织惠 夕花 END4",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_0112",
+              "type": "load",
+              "content": "LOAD 5"
+            },
+            {
+              "id": "step_0113",
+              "type": "choice",
+              "content": "14:30 商店街：夕花",
+              "subfix": "★信件04"
+            },
+            {
+              "id": "step_0116",
+              "type": "choice",
+              "content": "07:00 小区附近的公园：夕花"
+            }
+          ]
+        },
+        {
+          "id": "ending_005",
+          "name": "织惠 夕花 END5",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_0119",
+              "type": "load",
+              "content": "LOAD 6"
+            },
+            {
+              "id": "step_0120",
+              "type": "choice",
+              "content": "08:00 校门：夕花"
+            }
+          ]
+        },
+        {
+          "id": "ending_006",
+          "name": "彩咲 堇 END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_0123",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_0124",
+              "type": "note",
+              "content": "教室：堇",
+              "prefix": "■"
+            },
+            {
+              "id": "step_0125",
+              "type": "choice",
+              "content": "RTC:不选"
+            },
+            {
+              "id": "step_0126",
+              "type": "note",
+              "content": "千恵美&夕花&堇",
+              "prefix": "▲"
+            },
+            {
+              "id": "step_0127",
+              "type": "note",
+              "content": "地图移动01",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_0128",
+              "type": "choice",
+              "content": "16:00 学园：楼顶"
+            },
+            {
+              "id": "step_0129",
+              "type": "choice",
+              "content": "到校外去"
+            },
+            {
+              "id": "step_0130",
+              "type": "choice",
+              "content": "16:40 街区：上学路坡道"
+            },
+            {
+              "id": "step_0131",
+              "type": "choice",
+              "content": "17:00 街区：上学路土堤"
+            },
+            {
+              "id": "step_0132",
+              "type": "choice",
+              "content": "17:40 街区：上学路"
+            },
+            {
+              "id": "step_0133",
+              "type": "note",
+              "content": "移动结束"
+            },
+            {
+              "id": "step_0134",
+              "type": "choice",
+              "content": "RTC:不选"
+            },
+            {
+              "id": "step_0136",
+              "type": "note",
+              "content": "教室：堇",
+              "prefix": "■"
+            },
+            {
+              "id": "step_0137",
+              "type": "choice",
+              "content": "RTC:吃掉它"
+            },
+            {
+              "id": "step_0138",
+              "type": "choice",
+              "content": "RTC:不选"
+            },
+            {
+              "id": "step_0140",
+              "type": "note",
+              "content": "夕花&堇&操&菜月",
+              "prefix": "▲"
+            },
+            {
+              "id": "step_0141",
+              "type": "note",
+              "content": "地图移动02",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_0142",
+              "type": "choice",
+              "content": "到校外去"
+            },
+            {
+              "id": "step_0143",
+              "type": "choice",
+              "content": "16:20 街区：商店街"
+            },
+            {
+              "id": "step_0144",
+              "type": "choice",
+              "content": "17:00 街区：上学路"
+            },
+            {
+              "id": "step_0145",
+              "type": "choice",
+              "content": "17:40 街区：堇家"
+            },
+            {
+              "id": "step_0146",
+              "type": "note",
+              "content": "移动结束"
+            },
+            {
+              "id": "step_0147",
+              "type": "note",
+              "content": "地图移动03",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_0148",
+              "type": "choice",
+              "content": "08:10 街区：商店街"
+            },
+            {
+              "id": "step_0149",
+              "type": "choice",
+              "content": "回到学校"
+            },
+            {
+              "id": "step_0150",
+              "type": "choice",
+              "content": "08:30 学园：鞋柜"
+            },
+            {
+              "id": "step_0151",
+              "type": "note",
+              "content": "移动结束"
+            },
+            {
+              "id": "step_0152",
+              "type": "choice",
+              "content": "RTC:移开目光"
+            },
+            {
+              "id": "step_0153",
+              "type": "choice",
+              "content": "RTC:不选"
+            },
+            {
+              "id": "step_0154",
+              "type": "note",
+              "content": "地图移动04白天",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_0155",
+              "type": "choice",
+              "content": "12:30 学园：走廊"
+            },
+            {
+              "id": "step_0156",
+              "type": "choice",
+              "content": "13:00 学园：楼顶"
+            },
+            {
+              "id": "step_0157",
+              "type": "choice",
+              "content": "13:10 学园：教室"
+            },
+            {
+              "id": "step_0158",
+              "type": "note",
+              "content": "移动结束"
+            },
+            {
+              "id": "step_0159",
+              "type": "choice",
+              "content": "给她加油"
+            },
+            {
+              "id": "step_0160",
+              "type": "choice",
+              "content": "RTC:否定"
+            },
+            {
+              "id": "step_0161",
+              "type": "note",
+              "content": "千恵美&堇&菜月",
+              "prefix": "▲"
+            },
+            {
+              "id": "step_0162",
+              "type": "note",
+              "content": "地图移动04放学后",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_0163",
+              "type": "choice",
+              "content": "17:15 学园：走廊"
+            },
+            {
+              "id": "step_0164",
+              "type": "choice",
+              "content": "17:45 学园：多功能图书室"
+            },
+            {
+              "id": "step_0165",
+              "type": "choice",
+              "content": "18:30 学园：鞋柜",
+              "subfix": "CG回收"
+            },
+            {
+              "id": "step_0166",
+              "type": "note",
+              "content": "移动结束"
+            },
+            {
+              "id": "step_0167",
+              "type": "note",
+              "content": "屋顶：堇",
+              "prefix": "■"
+            },
+            {
+              "id": "step_0168",
+              "type": "note",
+              "content": "夕花&堇",
+              "prefix": "▲"
+            },
+            {
+              "id": "step_0169",
+              "type": "note",
+              "content": "以下地点随意选择"
+            },
+            {
+              "id": "step_0170",
+              "type": "choice",
+              "content": "11:30 小区附近的公园：堇"
+            },
+            {
+              "id": "step_0171",
+              "type": "choice",
+              "content": "12:30 咖啡厅：堇"
+            },
+            {
+              "id": "step_0172",
+              "type": "choice",
+              "content": "14:30 堇的家：堇"
+            },
+            {
+              "id": "step_0173",
+              "type": "choice",
+              "content": "16:30 商店街：堇"
+            },
+            {
+              "id": "step_0174",
+              "type": "note",
+              "content": "选择完毕"
+            },
+            {
+              "id": "step_0175",
+              "type": "choice",
+              "content": "去看她"
+            },
+            {
+              "id": "step_0176",
+              "type": "choice",
+              "content": "RTC:不选"
+            },
+            {
+              "id": "step_0177",
+              "type": "note",
+              "content": "教室：堇",
+              "prefix": "■"
+            },
+            {
+              "id": "step_0178",
+              "type": "choice",
+              "content": "RTC:邀请她去占卜"
+            },
+            {
+              "id": "step_0179",
+              "type": "choice",
+              "content": "RTC:不选"
+            },
+            {
+              "id": "step_0180",
+              "type": "note",
+              "content": "地图移动07",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_0181",
+              "type": "choice",
+              "content": "18:00 学园：楼顶"
+            },
+            {
+              "id": "step_0182",
+              "type": "choice",
+              "content": "18:45 学园：教室"
+            },
+            {
+              "id": "step_0183",
+              "type": "choice",
+              "content": "19:15 学园：校门"
+            },
+            {
+              "id": "step_0184",
+              "type": "choice",
+              "content": "19:30 街区：商店街"
+            },
+            {
+              "id": "step_0185",
+              "type": "choice",
+              "content": "19:45 街区：上学路"
+            },
+            {
+              "id": "step_0186",
+              "type": "note",
+              "content": "移动结束"
+            },
+            {
+              "id": "step_0187",
+              "type": "choice",
+              "content": "RTC:不选"
+            },
+            {
+              "id": "step_0188",
+              "type": "note",
+              "content": "以下地点随意选择"
+            },
+            {
+              "id": "step_0189",
+              "type": "choice",
+              "content": "12:30 走廊：堇"
+            },
+            {
+              "id": "step_0190",
+              "type": "choice",
+              "content": "13:00 鞋箱：堇"
+            },
+            {
+              "id": "step_0191",
+              "type": "choice",
+              "content": "13:20 教室：堇"
+            },
+            {
+              "id": "step_0192",
+              "type": "note",
+              "content": "选择完毕"
+            },
+            {
+              "id": "step_0193",
+              "type": "choice",
+              "content": "RTC:抓住了她的手"
+            },
+            {
+              "id": "step_0194",
+              "type": "save",
+              "content": "SAVE 7"
+            },
+            {
+              "id": "step_0195",
+              "type": "choice",
+              "content": "12:40 教室：堇",
+              "subfix": "★信件02"
+            },
+            {
+              "id": "step_0196",
+              "type": "choice",
+              "content": "RTC:不选"
+            },
+            {
+              "id": "step_0198",
+              "type": "save",
+              "content": "SAVE 8"
+            },
+            {
+              "id": "step_0199",
+              "type": "choice",
+              "content": "10:00 图书室：堇"
+            },
+            {
+              "id": "step_0201",
+              "type": "choice",
+              "content": "RTC:向堇求婚！"
+            },
+            {
+              "id": "step_0204",
+              "type": "choice",
+              "content": "RTC:亲她一下"
+            },
+            {
+              "id": "step_0206",
+              "type": "save",
+              "content": "SAVE 9"
+            },
+            {
+              "id": "step_0207",
+              "type": "choice",
+              "content": "20:05 走廊：堇"
+            }
+          ]
+        },
+        {
+          "id": "ending_007",
+          "name": "彩咲 堇 END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_0209",
+              "type": "load",
+              "content": "LOAD 7"
+            },
+            {
+              "id": "step_0210",
+              "type": "choice",
+              "content": "12:50 屋顶：堇",
+              "subfix": "★信件01"
+            },
+            {
+              "id": "step_0211",
+              "type": "choice",
+              "content": "RTC:不选"
+            },
+            {
+              "id": "step_0213",
+              "type": "choice",
+              "content": "10:00 图书室：堇"
+            },
+            {
+              "id": "step_0215",
+              "type": "choice",
+              "content": "RTC:向堇求婚！"
+            },
+            {
+              "id": "step_0218",
+              "type": "choice",
+              "content": "RTC:亲她一下"
+            },
+            {
+              "id": "step_0220",
+              "type": "choice",
+              "content": "20:05 走廊：堇"
+            }
+          ]
+        },
+        {
+          "id": "ending_008",
+          "name": "彩咲 堇 END3",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_0222",
+              "type": "load",
+              "content": "LOAD 7"
+            },
+            {
+              "id": "step_0223",
+              "type": "choice",
+              "content": "13:20 游泳池：堇",
+              "subfix": "★信件04"
+            },
+            {
+              "id": "step_0224",
+              "type": "choice",
+              "content": "RTC:不选"
+            },
+            {
+              "id": "step_0226",
+              "type": "choice",
+              "content": "10:00 图书室：堇"
+            },
+            {
+              "id": "step_0228",
+              "type": "choice",
+              "content": "RTC:向堇求婚！"
+            },
+            {
+              "id": "step_0231",
+              "type": "choice",
+              "content": "RTC:亲她一下"
+            },
+            {
+              "id": "step_0233",
+              "type": "choice",
+              "content": "20:05 走廊：堇"
+            }
+          ]
+        },
+        {
+          "id": "ending_009",
+          "name": "彩咲 堇 END4",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_0235",
+              "type": "load",
+              "content": "LOAD 8"
+            },
+            {
+              "id": "step_0236",
+              "type": "choice",
+              "content": "11:30 商店街：堇",
+              "subfix": "★信件05"
+            },
+            {
+              "id": "step_0238",
+              "type": "choice",
+              "content": "RTC:向堇求婚！"
+            },
+            {
+              "id": "step_0241",
+              "type": "choice",
+              "content": "RTC:亲她一下"
+            },
+            {
+              "id": "step_0243",
+              "type": "choice",
+              "content": "20:20 教室：堇"
+            }
+          ]
+        },
+        {
+          "id": "ending_010",
+          "name": "彩咲 堇 END5",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_0245",
+              "type": "load",
+              "content": "LOAD 9"
+            },
+            {
+              "id": "step_0246",
+              "type": "choice",
+              "content": "20:25 鞋箱：堇",
+              "subfix": "★信件03"
+            }
+          ]
+        },
+        {
+          "id": "ending_011",
+          "name": "藤林 操 END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_0248",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_0249",
+              "type": "note",
+              "content": "走廊：操",
+              "prefix": "■"
+            },
+            {
+              "id": "step_0250",
+              "type": "note",
+              "content": "操&由爱",
+              "prefix": "▲"
+            },
+            {
+              "id": "step_0251",
+              "type": "note",
+              "content": "地图移动01",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_0252",
+              "type": "choice",
+              "content": "回家"
+            },
+            {
+              "id": "step_0253",
+              "type": "note",
+              "content": "移动结束"
+            },
+            {
+              "id": "step_0254",
+              "type": "choice",
+              "content": "RTC:不选"
+            },
+            {
+              "id": "step_0255",
+              "type": "choice",
+              "content": "RTC:一笑了之"
+            },
+            {
+              "id": "step_0256",
+              "type": "note",
+              "content": "图书室：操",
+              "prefix": "■"
+            },
+            {
+              "id": "step_0257",
+              "type": "choice",
+              "content": "RTC:不选"
+            },
+            {
+              "id": "step_0260",
+              "type": "note",
+              "content": "夕花&堇&操&菜月",
+              "prefix": "▲"
+            },
+            {
+              "id": "step_0261",
+              "type": "note",
+              "content": "地图移动02",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_0262",
+              "type": "choice",
+              "content": "16:00 学园：多功能图书室"
+            },
+            {
+              "id": "step_0263",
+              "type": "choice",
+              "content": "到校外去"
+            },
+            {
+              "id": "step_0264",
+              "type": "choice",
+              "content": "16:40 街区：上学路坡道"
+            },
+            {
+              "id": "step_0265",
+              "type": "choice",
+              "content": "17:00 街区：道口"
+            },
+            {
+              "id": "step_0266",
+              "type": "note",
+              "content": "移动结束"
+            },
+            {
+              "id": "step_0267",
+              "type": "note",
+              "content": "地图移动03",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_0268",
+              "type": "choice",
+              "content": "07:30 街区：商店街"
+            },
+            {
+              "id": "step_0269",
+              "type": "choice",
+              "content": "07:50 街区：上学路土堤"
+            },
+            {
+              "id": "step_0270",
+              "type": "note",
+              "content": "移动结束"
+            },
+            {
+              "id": "step_0271",
+              "type": "choice",
+              "content": "RTC:移开目光"
+            },
+            {
+              "id": "step_0272",
+              "type": "choice",
+              "content": "RTC:夸奖她"
+            },
+            {
+              "id": "step_0273",
+              "type": "note",
+              "content": "地图移动04白天",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_0274",
+              "type": "choice",
+              "content": "12:40 学园：多功能图书室"
+            },
+            {
+              "id": "step_0275",
+              "type": "choice",
+              "content": "13:10 学园：鞋柜"
+            },
+            {
+              "id": "step_0276",
+              "type": "note",
+              "content": "移动结束"
+            },
+            {
+              "id": "step_0277",
+              "type": "choice",
+              "content": "给她加油"
+            },
+            {
+              "id": "step_0278",
+              "type": "choice",
+              "content": "RTC:否定"
+            },
+            {
+              "id": "step_0279",
+              "type": "note",
+              "content": "操&由爱",
+              "prefix": "▲"
+            },
+            {
+              "id": "step_0280",
+              "type": "note",
+              "content": "地图移动04放学后",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_0281",
+              "type": "choice",
+              "content": "到校外去"
+            },
+            {
+              "id": "step_0282",
+              "type": "choice",
+              "content": "17:30 街区：上学路坡道"
+            },
+            {
+              "id": "step_0283",
+              "type": "choice",
+              "content": "18:15 街区：商店街"
+            },
+            {
+              "id": "step_0284",
+              "type": "choice",
+              "content": "18:45 街区：道口"
+            },
+            {
+              "id": "step_0285",
+              "type": "note",
+              "content": "移动结束"
+            },
+            {
+              "id": "step_0286",
+              "type": "note",
+              "content": "多功能室：操",
+              "prefix": "■"
+            },
+            {
+              "id": "step_0287",
+              "type": "note",
+              "content": "操&葵&菜月",
+              "prefix": "▲"
+            },
+            {
+              "id": "step_0288",
+              "type": "choice",
+              "content": "RTC:再次询问"
+            },
+            {
+              "id": "step_0289",
+              "type": "note",
+              "content": "地图移动06",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_0290",
+              "type": "choice",
+              "content": "15:40 学园：走廊"
+            },
+            {
+              "id": "step_0291",
+              "type": "choice",
+              "content": "16:00 学园：教室"
+            },
+            {
+              "id": "step_0292",
+              "type": "choice",
+              "content": "16:20 学园：校门"
+            },
+            {
+              "id": "step_0293",
+              "type": "choice",
+              "content": "到校外去"
+            },
+            {
+              "id": "step_0294",
+              "type": "choice",
+              "content": "17:20 街区：小区"
+            },
+            {
+              "id": "step_0295",
+              "type": "note",
+              "content": "移动结束"
+            },
+            {
+              "id": "step_0296",
+              "type": "note",
+              "content": "走廊：操",
+              "prefix": "■"
+            },
+            {
+              "id": "step_0297",
+              "type": "choice",
+              "content": "RTC:不选"
+            },
+            {
+              "id": "step_0298",
+              "type": "note",
+              "content": "地图移动07",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_0299",
+              "type": "choice",
+              "content": "18:15 学园：操场"
+            },
+            {
+              "id": "step_0300",
+              "type": "choice",
+              "content": "18:45 学园：操场"
+            },
+            {
+              "id": "step_0301",
+              "type": "choice",
+              "content": "到校外去"
+            },
+            {
+              "id": "step_0302",
+              "type": "choice",
+              "content": "19:15 街区：上学路坡道"
+            },
+            {
+              "id": "step_0303",
+              "type": "choice",
+              "content": "19:30 街区：上学路土堤"
+            },
+            {
+              "id": "step_0304",
+              "type": "choice",
+              "content": "19:45 街区：道口"
+            },
+            {
+              "id": "step_0305",
+              "type": "note",
+              "content": "移动结束"
+            },
+            {
+              "id": "step_0306",
+              "type": "choice",
+              "content": "RTC:把手拿开"
+            },
+            {
+              "id": "step_0307",
+              "type": "save",
+              "content": "SAVE 10"
+            },
+            {
+              "id": "step_0308",
+              "type": "choice",
+              "content": "12:20 教室：操"
+            },
+            {
+              "id": "step_0309",
+              "type": "choice",
+              "content": "RTC:介绍说是我的恋人"
+            },
+            {
+              "id": "step_0310",
+              "type": "save",
+              "content": "SAVE 11"
+            },
+            {
+              "id": "step_0311",
+              "type": "choice",
+              "content": "12:00 快餐店：操"
+            },
+            {
+              "id": "step_0312",
+              "type": "choice",
+              "content": "RTC:说说感想"
+            },
+            {
+              "id": "step_0313",
+              "type": "choice",
+              "content": "RTC:不选"
+            },
+            {
+              "id": "step_0315",
+              "type": "save",
+              "content": "SAVE 12"
+            },
+            {
+              "id": "step_0316",
+              "type": "choice",
+              "content": "16:00 上学路·坡道：操"
+            },
+            {
+              "id": "step_0320",
+              "type": "choice",
+              "content": "RTC:夸奖她"
+            },
+            {
+              "id": "step_0322",
+              "type": "save",
+              "content": "SAVE 13"
+            },
+            {
+              "id": "step_0323",
+              "type": "choice",
+              "content": "15:40 游泳池：操"
+            }
+          ]
+        },
+        {
+          "id": "ending_012",
+          "name": "藤林 操 END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_0325",
+              "type": "load",
+              "content": "LOAD 10"
+            },
+            {
+              "id": "step_0326",
+              "type": "choice",
+              "content": "13:00 图书室：操",
+              "subfix": "★信件04"
+            },
+            {
+              "id": "step_0327",
+              "type": "choice",
+              "content": "RTC:介绍说是我的恋人"
+            },
+            {
+              "id": "step_0328",
+              "type": "choice",
+              "content": "13:00 商店街：操"
+            },
+            {
+              "id": "step_0329",
+              "type": "choice",
+              "content": "RTC:说说感想"
+            },
+            {
+              "id": "step_0330",
+              "type": "choice",
+              "content": "RTC:不选"
+            },
+            {
+              "id": "step_0332",
+              "type": "choice",
+              "content": "16:00 上学路·坡道：操"
+            },
+            {
+              "id": "step_0336",
+              "type": "choice",
+              "content": "RTC:夸奖她"
+            },
+            {
+              "id": "step_0338",
+              "type": "choice",
+              "content": "15:40 游泳池：操"
+            }
+          ]
+        },
+        {
+          "id": "ending_013",
+          "name": "藤林 操 END3",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_0340",
+              "type": "load",
+              "content": "LOAD 11",
+              "subfix": "★信件02"
+            },
+            {
+              "id": "step_0341",
+              "type": "choice",
+              "content": "14:30 上学路·土堤：操"
+            },
+            {
+              "id": "step_0342",
+              "type": "choice",
+              "content": "RTC:说说感想"
+            },
+            {
+              "id": "step_0343",
+              "type": "choice",
+              "content": "RTC:不选"
+            },
+            {
+              "id": "step_0345",
+              "type": "choice",
+              "content": "16:00 上学路·坡道：操"
+            },
+            {
+              "id": "step_0349",
+              "type": "choice",
+              "content": "RTC:夸奖她"
+            },
+            {
+              "id": "step_0351",
+              "type": "choice",
+              "content": "15:40 游泳池：操"
+            }
+          ]
+        },
+        {
+          "id": "ending_014",
+          "name": "藤林 操 END4",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_0353",
+              "type": "load",
+              "content": "LOAD 12"
+            },
+            {
+              "id": "step_0354",
+              "type": "choice",
+              "content": "17:00 道口：操",
+              "subfix": "★信件05"
+            },
+            {
+              "id": "step_0358",
+              "type": "choice",
+              "content": "RTC:夸奖她"
+            },
+            {
+              "id": "step_0360",
+              "type": "choice",
+              "content": "17:20 小区附近的公园：操"
+            }
+          ]
+        },
+        {
+          "id": "ending_015",
+          "name": "藤林 操 END5",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_0362",
+              "type": "load",
+              "content": "LOAD 13"
+            },
+            {
+              "id": "step_0363",
+              "type": "choice",
+              "content": "16:40 咖啡厅：操",
+              "subfix": "★信件03"
+            }
+          ]
+        },
+        {
+          "id": "ending_016",
+          "name": "天音 菜月 END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_0365",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_0366",
+              "type": "note",
+              "content": "图书室：菜月",
+              "prefix": "■"
+            },
+            {
+              "id": "step_0367",
+              "type": "note",
+              "content": "操&由爱",
+              "prefix": "▲"
+            },
+            {
+              "id": "step_0368",
+              "type": "note",
+              "content": "地图移动01",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_0369",
+              "type": "choice",
+              "content": "15:40 学园：走廊"
+            },
+            {
+              "id": "step_0370",
+              "type": "choice",
+              "content": "16:40 学园：教室"
+            },
+            {
+              "id": "step_0371",
+              "type": "note",
+              "content": "移动结束"
+            },
+            {
+              "id": "step_0372",
+              "type": "choice",
+              "content": "RTC:再多摸摸她的头"
+            },
+            {
+              "id": "step_0373",
+              "type": "choice",
+              "content": "RTC:不选"
+            },
+            {
+              "id": "step_0374",
+              "type": "note",
+              "content": "走廊：菜月",
+              "prefix": "■"
+            },
+            {
+              "id": "step_0375",
+              "type": "choice",
+              "content": "RTC:向她搭话"
+            },
+            {
+              "id": "step_0376",
+              "type": "choice",
+              "content": "RTC:不选"
+            },
+            {
+              "id": "step_0377",
+              "type": "note",
+              "content": "夕花&堇&操&菜月",
+              "prefix": "▲"
+            },
+            {
+              "id": "step_0378",
+              "type": "note",
+              "content": "地图移动02",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_0379",
+              "type": "choice",
+              "content": "16:00 学园：走廊"
+            },
+            {
+              "id": "step_0380",
+              "type": "choice",
+              "content": "16:20 学园：校门"
+            },
+            {
+              "id": "step_0381",
+              "type": "choice",
+              "content": "到校外去"
+            },
+            {
+              "id": "step_0382",
+              "type": "choice",
+              "content": "17:20 街区：快餐店"
+            },
+            {
+              "id": "step_0383",
+              "type": "note",
+              "content": "移动结束"
+            },
+            {
+              "id": "step_0384",
+              "type": "note",
+              "content": "地图移动03",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_0385",
+              "type": "choice",
+              "content": "07:50 街区：商店街"
+            },
+            {
+              "id": "step_0386",
+              "type": "choice",
+              "content": "08:10 街区：上学路坡道"
+            },
+            {
+              "id": "step_0387",
+              "type": "note",
+              "content": "移动结束"
+            },
+            {
+              "id": "step_0388",
+              "type": "choice",
+              "content": "RTC:移开目光"
+            },
+            {
+              "id": "step_0389",
+              "type": "choice",
+              "content": "RTC:不选"
+            },
+            {
+              "id": "step_0390",
+              "type": "note",
+              "content": "地图移动04白天",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_0391",
+              "type": "choice",
+              "content": "12:20 学园：多功能图书室"
+            },
+            {
+              "id": "step_0392",
+              "type": "choice",
+              "content": "12:40 学园：走廊"
+            },
+            {
+              "id": "step_0393",
+              "type": "choice",
+              "content": "12:50 学园：教室"
+            },
+            {
+              "id": "step_0394",
+              "type": "note",
+              "content": "移动结束"
+            },
+            {
+              "id": "step_0395",
+              "type": "choice",
+              "content": "给她加油"
+            },
+            {
+              "id": "step_0396",
+              "type": "choice",
+              "content": "RTC:否定"
+            },
+            {
+              "id": "step_0397",
+              "type": "note",
+              "content": "千恵美&菜月&堇",
+              "prefix": "▲"
+            },
+            {
+              "id": "step_0398",
+              "type": "save",
+              "content": "SAVE 14"
+            },
+            {
+              "id": "step_0399",
+              "type": "note",
+              "content": "地图移动04放学后",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_0400",
+              "type": "choice",
+              "content": "17:15 学园：教室"
+            },
+            {
+              "id": "step_0401",
+              "type": "choice",
+              "content": "到校外去"
+            },
+            {
+              "id": "step_0402",
+              "type": "choice",
+              "content": "18:00 街区：上学路土堤",
+              "subfix": "★信件02"
+            },
+            {
+              "id": "step_0403",
+              "type": "choice",
+              "content": "18:45 街区：商店街"
+            },
+            {
+              "id": "step_0404",
+              "type": "note",
+              "content": "移动结束"
+            },
+            {
+              "id": "step_0405",
+              "type": "note",
+              "content": "图书室：菜月",
+              "prefix": "■"
+            },
+            {
+              "id": "step_0406",
+              "type": "note",
+              "content": "操&葵&菜月",
+              "prefix": "▲"
+            },
+            {
+              "id": "step_0407",
+              "type": "choice",
+              "content": "RTC:不选"
+            },
+            {
+              "id": "step_0408",
+              "type": "note",
+              "content": "地图移动06",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_0409",
+              "type": "choice",
+              "content": "15:40 学园：教室"
+            },
+            {
+              "id": "step_0410",
+              "type": "choice",
+              "content": "16:20 学园：鞋柜"
+            },
+            {
+              "id": "step_0411",
+              "type": "choice",
+              "content": "到校外去"
+            },
+            {
+              "id": "step_0412",
+              "type": "choice",
+              "content": "17:00 街区：道口"
+            },
+            {
+              "id": "step_0413",
+              "type": "choice",
+              "content": "17:40 街区：商店街"
+            },
+            {
+              "id": "step_0414",
+              "type": "note",
+              "content": "移动结束"
+            },
+            {
+              "id": "step_0415",
+              "type": "note",
+              "content": "屋顶：菜月",
+              "prefix": "■"
+            },
+            {
+              "id": "step_0416",
+              "type": "choice",
+              "content": "RTC:不选"
+            },
+            {
+              "id": "step_0417",
+              "type": "note",
+              "content": "地图移动07",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_0418",
+              "type": "choice",
+              "content": "18:15 学园：教室"
+            },
+            {
+              "id": "step_0419",
+              "type": "choice",
+              "content": "18:30 学园：走廊"
+            },
+            {
+              "id": "step_0420",
+              "type": "choice",
+              "content": "18:45 学园：楼顶"
+            },
+            {
+              "id": "step_0421",
+              "type": "choice",
+              "content": "到校外去"
+            },
+            {
+              "id": "step_0422",
+              "type": "choice",
+              "content": "19:15 街区：道口"
+            },
+            {
+              "id": "step_0423",
+              "type": "choice",
+              "content": "19:45 街区：商店街"
+            },
+            {
+              "id": "step_0424",
+              "type": "note",
+              "content": "移动结束"
+            },
+            {
+              "id": "step_0425",
+              "type": "choice",
+              "content": "RTC:道谢"
+            },
+            {
+              "id": "step_0426",
+              "type": "choice",
+              "content": "RTC:给菜月酱加油"
+            },
+            {
+              "id": "step_0427",
+              "type": "choice",
+              "content": "16:00 教室：菜月"
+            },
+            {
+              "id": "step_0428",
+              "type": "choice",
+              "content": "RTC:停下手"
+            },
+            {
+              "id": "step_0429",
+              "type": "choice",
+              "content": "RTC:放开手"
+            },
+            {
+              "id": "step_0430",
+              "type": "save",
+              "content": "SAVE 15"
+            },
+            {
+              "id": "step_0431",
+              "type": "choice",
+              "content": "13:30 小区附近的公园：菜月"
+            },
+            {
+              "id": "step_0434",
+              "type": "save",
+              "content": "SAVE 16"
+            },
+            {
+              "id": "step_0435",
+              "type": "choice",
+              "content": "12:20 游泳池：菜月",
+              "subfix": "★信件05"
+            },
+            {
+              "id": "step_0436",
+              "type": "choice",
+              "content": "RTC:喂给她"
+            },
+            {
+              "id": "step_0440",
+              "type": "save",
+              "content": "SAVE 17"
+            },
+            {
+              "id": "step_0441",
+              "type": "choice",
+              "content": "13:20 百货店：菜月",
+              "subfix": "★信件01"
+            }
+          ]
+        },
+        {
+          "id": "ending_017",
+          "name": "天音 菜月 END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_0443",
+              "type": "load",
+              "content": "LOAD 14"
+            },
+            {
+              "id": "step_0444",
+              "type": "note",
+              "content": "地图移动04放学后",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_0445",
+              "type": "choice",
+              "content": "到校外去"
+            },
+            {
+              "id": "step_0446",
+              "type": "choice",
+              "content": "18:00 街区：上学路土堤",
+              "subfix": "★信件02"
+            },
+            {
+              "id": "step_0447",
+              "type": "note",
+              "content": "移动结束"
+            },
+            {
+              "id": "step_0448",
+              "type": "note",
+              "content": "图书室：菜月",
+              "prefix": "■"
+            },
+            {
+              "id": "step_0449",
+              "type": "note",
+              "content": "操&葵&菜月",
+              "prefix": "▲"
+            },
+            {
+              "id": "step_0450",
+              "type": "choice",
+              "content": "RTC:不选"
+            },
+            {
+              "id": "step_0451",
+              "type": "note",
+              "content": "地图移动06",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_0452",
+              "type": "choice",
+              "content": "15:40 学园：教室"
+            },
+            {
+              "id": "step_0453",
+              "type": "note",
+              "content": "移动结束"
+            },
+            {
+              "id": "step_0454",
+              "type": "note",
+              "content": "屋顶：菜月",
+              "prefix": "■"
+            },
+            {
+              "id": "step_0455",
+              "type": "choice",
+              "content": "RTC:不选"
+            },
+            {
+              "id": "step_0456",
+              "type": "note",
+              "content": "地图移动07",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_0457",
+              "type": "choice",
+              "content": "18:15 学园：教室"
+            },
+            {
+              "id": "step_0458",
+              "type": "note",
+              "content": "移动结束"
+            },
+            {
+              "id": "step_0459",
+              "type": "choice",
+              "content": "RTC:道谢"
+            },
+            {
+              "id": "step_0460",
+              "type": "choice",
+              "content": "RTC:给菜月酱加油"
+            },
+            {
+              "id": "step_0461",
+              "type": "choice",
+              "content": "16:00 教室：菜月"
+            },
+            {
+              "id": "step_0462",
+              "type": "choice",
+              "content": "RTC:停下手"
+            },
+            {
+              "id": "step_0463",
+              "type": "choice",
+              "content": "RTC:放开手"
+            },
+            {
+              "id": "step_0464",
+              "type": "choice",
+              "content": "13:30 小区附近的公园：菜月"
+            },
+            {
+              "id": "step_0467",
+              "type": "choice",
+              "content": "13:00 楼顶：菜月"
+            },
+            {
+              "id": "step_0468",
+              "type": "choice",
+              "content": "RTC:喂给她"
+            },
+            {
+              "id": "step_0472",
+              "type": "choice",
+              "content": "14:00 展望台：菜月"
+            }
+          ]
+        },
+        {
+          "id": "ending_018",
+          "name": "天音 菜月 END3",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_0474",
+              "type": "load",
+              "content": "LOAD 15"
+            },
+            {
+              "id": "step_0475",
+              "type": "choice",
+              "content": "14:30 商店街：菜月",
+              "subfix": "★信件03"
+            },
+            {
+              "id": "step_0478",
+              "type": "choice",
+              "content": "13:00 楼顶：菜月"
+            },
+            {
+              "id": "step_0479",
+              "type": "choice",
+              "content": "RTC:喂给她"
+            },
+            {
+              "id": "step_0483",
+              "type": "choice",
+              "content": "14:00 展望台：菜月"
+            }
+          ]
+        },
+        {
+          "id": "ending_019",
+          "name": "天音 菜月 END4",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_0485",
+              "type": "load",
+              "content": "LOAD 16"
+            },
+            {
+              "id": "step_0486",
+              "type": "choice",
+              "content": "12:30 走廊：菜月"
+            },
+            {
+              "id": "step_0487",
+              "type": "choice",
+              "content": "RTC:喂给她"
+            },
+            {
+              "id": "step_0491",
+              "type": "choice",
+              "content": "14:20 商店街：菜月"
+            }
+          ]
+        },
+        {
+          "id": "ending_020",
+          "name": "天音 菜月 END5",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_0493",
+              "type": "load",
+              "content": "LOAD 17"
+            },
+            {
+              "id": "step_0494",
+              "type": "choice",
+              "content": "14:00 展望台：菜月"
+            }
+          ]
+        },
+        {
+          "id": "ending_021",
+          "name": "一条 葵 END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_0496",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_0497",
+              "type": "note",
+              "content": "地图移动01",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_0498",
+              "type": "choice",
+              "content": "16:00 学园：鞋柜"
+            },
+            {
+              "id": "step_0499",
+              "type": "note",
+              "content": "移动结束"
+            },
+            {
+              "id": "step_0500",
+              "type": "choice",
+              "content": "RTC:不选"
+            },
+            {
+              "id": "step_0502",
+              "type": "note",
+              "content": "操场：葵",
+              "prefix": "■"
+            },
+            {
+              "id": "step_0503",
+              "type": "choice",
+              "content": "RTC:不选"
+            },
+            {
+              "id": "step_0504",
+              "type": "choice",
+              "content": "RTC:把脸靠近她"
+            },
+            {
+              "id": "step_0505",
+              "type": "note",
+              "content": "镜水&葵",
+              "prefix": "▲"
+            },
+            {
+              "id": "step_0506",
+              "type": "note",
+              "content": "地图移动02",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_0507",
+              "type": "choice",
+              "content": "到校外去"
+            },
+            {
+              "id": "step_0508",
+              "type": "choice",
+              "content": "15:40 街区：上学路坡道"
+            },
+            {
+              "id": "step_0509",
+              "type": "choice",
+              "content": "16:40 街区：上学路土堤"
+            },
+            {
+              "id": "step_0510",
+              "type": "choice",
+              "content": "17:40 街区：商店街车站"
+            },
+            {
+              "id": "step_0511",
+              "type": "note",
+              "content": "移动结束"
+            },
+            {
+              "id": "step_0512",
+              "type": "note",
+              "content": "地图移动03",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_0513",
+              "type": "choice",
+              "content": "07:50 街区：商店街车站"
+            },
+            {
+              "id": "step_0514",
+              "type": "choice",
+              "content": "08:10 街区：上学路土堤"
+            },
+            {
+              "id": "step_0515",
+              "type": "choice",
+              "content": "回到学校"
+            },
+            {
+              "id": "step_0516",
+              "type": "choice",
+              "content": "08:30 学园：教室",
+              "subfix": "CG回收"
+            },
+            {
+              "id": "step_0517",
+              "type": "note",
+              "content": "移动结束"
+            },
+            {
+              "id": "step_0518",
+              "type": "choice",
+              "content": "RTC:移开目光"
+            },
+            {
+              "id": "step_0519",
+              "type": "choice",
+              "content": "RTC:不选"
+            },
+            {
+              "id": "step_0520",
+              "type": "note",
+              "content": "地图移动04白天",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_0521",
+              "type": "choice",
+              "content": "12:30 学园：体育馆"
+            },
+            {
+              "id": "step_0522",
+              "type": "choice",
+              "content": "13:00 学园：鞋柜"
+            },
+            {
+              "id": "step_0523",
+              "type": "choice",
+              "content": "13:10 学园：走廊"
+            },
+            {
+              "id": "step_0524",
+              "type": "note",
+              "content": "移动结束"
+            },
+            {
+              "id": "step_0525",
+              "type": "choice",
+              "content": "给她加油"
+            },
+            {
+              "id": "step_0526",
+              "type": "choice",
+              "content": "RTC:不选"
+            },
+            {
+              "id": "step_0527",
+              "type": "note",
+              "content": "夕花&五十铃&葵",
+              "prefix": "▲"
+            },
+            {
+              "id": "step_0528",
+              "type": "note",
+              "content": "地图移动04放学后",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_0529",
+              "type": "choice",
+              "content": "17:30 学园：操场"
+            },
+            {
+              "id": "step_0530",
+              "type": "choice",
+              "content": "到校外去"
+            },
+            {
+              "id": "step_0531",
+              "type": "choice",
+              "content": "18:30 街区：道口"
+            },
+            {
+              "id": "step_0532",
+              "type": "choice",
+              "content": "19:00 街区：商店街车站"
+            },
+            {
+              "id": "step_0533",
+              "type": "note",
+              "content": "移动结束"
+            },
+            {
+              "id": "step_0534",
+              "type": "note",
+              "content": "走廊：葵",
+              "prefix": "■"
+            },
+            {
+              "id": "step_0535",
+              "type": "choice",
+              "content": "RTC:不选"
+            },
+            {
+              "id": "step_0536",
+              "type": "note",
+              "content": "操&葵&菜月",
+              "prefix": "▲"
+            },
+            {
+              "id": "step_0537",
+              "type": "save",
+              "content": "SAVE 18"
+            },
+            {
+              "id": "step_0538",
+              "type": "choice",
+              "content": "10:30 商店街·车站：葵"
+            },
+            {
+              "id": "step_0539",
+              "type": "choice",
+              "content": "RTC:不选"
+            },
+            {
+              "id": "step_0540",
+              "type": "note",
+              "content": "地图移动06",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_0541",
+              "type": "choice",
+              "content": "16:00 学园：楼顶"
+            },
+            {
+              "id": "step_0542",
+              "type": "choice",
+              "content": "16:40 学园：走廊"
+            },
+            {
+              "id": "step_0543",
+              "type": "choice",
+              "content": "到校外去"
+            },
+            {
+              "id": "step_0544",
+              "type": "choice",
+              "content": "17:20 街区：上学路土堤"
+            },
+            {
+              "id": "step_0545",
+              "type": "choice",
+              "content": "18:00 街区：商店街车站"
+            },
+            {
+              "id": "step_0546",
+              "type": "note",
+              "content": "移动结束"
+            },
+            {
+              "id": "step_0547",
+              "type": "note",
+              "content": "体育馆：葵",
+              "prefix": "■"
+            },
+            {
+              "id": "step_0548",
+              "type": "choice",
+              "content": "RTC:举起手"
+            },
+            {
+              "id": "step_0549",
+              "type": "note",
+              "content": "地图移动07",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_0550",
+              "type": "choice",
+              "content": "18:00 学园：操场"
+            },
+            {
+              "id": "step_0551",
+              "type": "choice",
+              "content": "18:30 学园：鞋柜"
+            },
+            {
+              "id": "step_0552",
+              "type": "choice",
+              "content": "到校外去"
+            },
+            {
+              "id": "step_0553",
+              "type": "choice",
+              "content": "19:00 街区：道口"
+            },
+            {
+              "id": "step_0554",
+              "type": "choice",
+              "content": "19:15 街区：商店街"
+            },
+            {
+              "id": "step_0555",
+              "type": "choice",
+              "content": "19:30 街区：咖啡厅"
+            },
+            {
+              "id": "step_0556",
+              "type": "note",
+              "content": "移动结束"
+            },
+            {
+              "id": "step_0557",
+              "type": "save",
+              "content": "SAVE 19"
+            },
+            {
+              "id": "step_0558",
+              "type": "choice",
+              "content": "16:00 体育馆：葵"
+            },
+            {
+              "id": "step_0559",
+              "type": "choice",
+              "content": "RTC:一口咬下"
+            },
+            {
+              "id": "step_0560",
+              "type": "choice",
+              "content": "RTC:回答"
+            },
+            {
+              "id": "step_0561",
+              "type": "choice",
+              "content": "12:20 走廊：葵"
+            },
+            {
+              "id": "step_0562",
+              "type": "choice",
+              "content": "RTC:不选"
+            },
+            {
+              "id": "step_0563",
+              "type": "choice",
+              "content": "10:00 咖啡厅：葵"
+            },
+            {
+              "id": "step_0564",
+              "type": "choice",
+              "content": "RTC:自己吻学姐"
+            },
+            {
+              "id": "step_0569",
+              "type": "save",
+              "content": "SAVE 20"
+            },
+            {
+              "id": "step_0570",
+              "type": "choice",
+              "content": "15:40 教室：葵"
+            },
+            {
+              "id": "step_0571",
+              "type": "choice",
+              "content": "RTC:抱紧她。"
+            }
+          ]
+        },
+        {
+          "id": "ending_022",
+          "name": "一条 葵 END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_0574",
+              "type": "load",
+              "content": "LOAD 18"
+            },
+            {
+              "id": "step_0575",
+              "type": "choice",
+              "content": "14:30 商店街：葵",
+              "subfix": "★信件05"
+            },
+            {
+              "id": "step_0576",
+              "type": "choice",
+              "content": "RTC:不选"
+            },
+            {
+              "id": "step_0577",
+              "type": "note",
+              "content": "地图移动06",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_0578",
+              "type": "choice",
+              "content": "到校外去"
+            },
+            {
+              "id": "step_0579",
+              "type": "choice",
+              "content": "17:20 街区：上学路土堤"
+            },
+            {
+              "id": "step_0580",
+              "type": "note",
+              "content": "移动结束"
+            },
+            {
+              "id": "step_0581",
+              "type": "note",
+              "content": "体育馆：葵",
+              "prefix": "■"
+            },
+            {
+              "id": "step_0582",
+              "type": "choice",
+              "content": "RTC:举起手"
+            },
+            {
+              "id": "step_0583",
+              "type": "note",
+              "content": "地图移动07",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_0584",
+              "type": "choice",
+              "content": "到校外去"
+            },
+            {
+              "id": "step_0585",
+              "type": "choice",
+              "content": "19:00 街区：道口"
+            },
+            {
+              "id": "step_0586",
+              "type": "note",
+              "content": "移动结束"
+            },
+            {
+              "id": "step_0587",
+              "type": "choice",
+              "content": "16:00 体育馆：葵"
+            },
+            {
+              "id": "step_0588",
+              "type": "choice",
+              "content": "RTC:不选"
+            },
+            {
+              "id": "step_0590",
+              "type": "choice",
+              "content": "12:20 走廊：葵"
+            },
+            {
+              "id": "step_0591",
+              "type": "choice",
+              "content": "RTC:不选"
+            },
+            {
+              "id": "step_0592",
+              "type": "choice",
+              "content": "10:00 咖啡厅：葵"
+            },
+            {
+              "id": "step_0593",
+              "type": "choice",
+              "content": "RTC:自己吻学姐"
+            },
+            {
+              "id": "step_0598",
+              "type": "choice",
+              "content": "15:40 教室：葵"
+            },
+            {
+              "id": "step_0599",
+              "type": "choice",
+              "content": "RTC:抱紧她。"
+            }
+          ]
+        },
+        {
+          "id": "ending_023",
+          "name": "一条 葵 END3",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_0602",
+              "type": "load",
+              "content": "LOAD 19"
+            },
+            {
+              "id": "step_0603",
+              "type": "choice",
+              "content": "17:00 鞋柜：葵",
+              "subfix": "★信件03"
+            },
+            {
+              "id": "step_0604",
+              "type": "choice",
+              "content": "RTC:一口咬下"
+            },
+            {
+              "id": "step_0605",
+              "type": "choice",
+              "content": "RTC:回答"
+            },
+            {
+              "id": "step_0606",
+              "type": "choice",
+              "content": "13:10 楼顶：葵"
+            },
+            {
+              "id": "step_0607",
+              "type": "choice",
+              "content": "RTC:不选"
+            },
+            {
+              "id": "step_0608",
+              "type": "choice",
+              "content": "10:30 道口：葵"
+            },
+            {
+              "id": "step_0609",
+              "type": "choice",
+              "content": "RTC:不选"
+            },
+            {
+              "id": "step_0614",
+              "type": "choice",
+              "content": "15:40 教室：葵"
+            },
+            {
+              "id": "step_0615",
+              "type": "choice",
+              "content": "RTC:不选"
+            }
+          ]
+        },
+        {
+          "id": "ending_024",
+          "name": "一条 葵 END4",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_0618",
+              "type": "load",
+              "content": "LOAD 20"
+            },
+            {
+              "id": "step_0619",
+              "type": "choice",
+              "content": "16:40 游泳池：葵",
+              "subfix": "★信件02"
+            },
+            {
+              "id": "step_0620",
+              "type": "choice",
+              "content": "RTC:不选"
+            }
+          ]
+        },
+        {
+          "id": "ending_025",
+          "name": "一条 葵 END5",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_0623",
+              "type": "load",
+              "content": "LOAD 20"
+            },
+            {
+              "id": "step_0624",
+              "type": "choice",
+              "content": "17:20 多功能室：葵",
+              "subfix": "★信件04"
+            },
+            {
+              "id": "step_0625",
+              "type": "choice",
+              "content": "RTC:不选"
+            }
+          ]
+        },
+        {
+          "id": "ending_026",
+          "name": "柊 千惠美 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_0628",
+              "type": "note",
+              "content": "5人攻略完毕后可攻略柊 千惠美、樱井 由爱、荻嶋 镜水三人"
+            },
+            {
+              "id": "step_0629",
+              "type": "note",
+              "content": "从最初开始"
+            },
+            {
+              "id": "step_0630",
+              "type": "note",
+              "content": "从日常部分开始"
+            },
+            {
+              "id": "step_0631",
+              "type": "choice",
+              "content": "RTC:道谢"
+            },
+            {
+              "id": "step_0632",
+              "type": "note",
+              "content": "多功能室：夕花",
+              "prefix": "■"
+            },
+            {
+              "id": "step_0633",
+              "type": "note",
+              "content": "千恵美&夕花&堇",
+              "prefix": "▲"
+            },
+            {
+              "id": "step_0634",
+              "type": "note",
+              "content": "地图移动01",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_0635",
+              "type": "choice",
+              "content": "16:00 学园：教室"
+            },
+            {
+              "id": "step_0636",
+              "type": "choice",
+              "content": "到校外去"
+            },
+            {
+              "id": "step_0637",
+              "type": "choice",
+              "content": "17:00 街区：商店街"
+            },
+            {
+              "id": "step_0638",
+              "type": "choice",
+              "content": "17:20 街区：商店街车站"
+            },
+            {
+              "id": "step_0639",
+              "type": "note",
+              "content": "移动结束"
+            },
+            {
+              "id": "step_0640",
+              "type": "choice",
+              "content": "RTC:不选"
+            },
+            {
+              "id": "step_0642",
+              "type": "note",
+              "content": "教室：堇",
+              "prefix": "■"
+            },
+            {
+              "id": "step_0643",
+              "type": "choice",
+              "content": "RTC:不选"
+            },
+            {
+              "id": "step_0646",
+              "type": "note",
+              "content": "镜水&葵",
+              "prefix": "▲"
+            },
+            {
+              "id": "step_0647",
+              "type": "save",
+              "content": "SAVE 21"
+            },
+            {
+              "id": "step_0648",
+              "type": "note",
+              "content": "地图移动02",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_0649",
+              "type": "choice",
+              "content": "16:00 学园：教室"
+            },
+            {
+              "id": "step_0650",
+              "type": "choice",
+              "content": "到校外去"
+            },
+            {
+              "id": "step_0651",
+              "type": "choice",
+              "content": "17:20 街区：商店街"
+            },
+            {
+              "id": "step_0652",
+              "type": "choice",
+              "content": "18:00 街区：商店街车站"
+            },
+            {
+              "id": "step_0653",
+              "type": "note",
+              "content": "移动结束"
+            },
+            {
+              "id": "step_0654",
+              "type": "note",
+              "content": "地图移动03",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_0655",
+              "type": "choice",
+              "content": "07:30 街区：上学路土堤"
+            },
+            {
+              "id": "step_0656",
+              "type": "choice",
+              "content": "回到学校"
+            },
+            {
+              "id": "step_0657",
+              "type": "choice",
+              "content": "08:10 学园：教室"
+            },
+            {
+              "id": "step_0658",
+              "type": "choice",
+              "content": "08:30 学园：走廊"
+            },
+            {
+              "id": "step_0659",
+              "type": "note",
+              "content": "移动结束"
+            },
+            {
+              "id": "step_0660",
+              "type": "choice",
+              "content": "RTC:不选"
+            },
+            {
+              "id": "step_0662",
+              "type": "note",
+              "content": "地图移动04白天",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_0663",
+              "type": "choice",
+              "content": "上学"
+            },
+            {
+              "id": "step_0664",
+              "type": "note",
+              "content": "移动结束"
+            },
+            {
+              "id": "step_0665",
+              "type": "choice",
+              "content": "给她加油"
+            },
+            {
+              "id": "step_0666",
+              "type": "choice",
+              "content": "RTC:不选"
+            },
+            {
+              "id": "step_0667",
+              "type": "note",
+              "content": "操&由爱",
+              "prefix": "▲"
+            },
+            {
+              "id": "step_0668",
+              "type": "note",
+              "content": "地图移动04放学后",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_0669",
+              "type": "choice",
+              "content": "17:45 学园：楼顶"
+            },
+            {
+              "id": "step_0670",
+              "type": "choice",
+              "content": "18:00 学园：鞋柜"
+            },
+            {
+              "id": "step_0671",
+              "type": "choice",
+              "content": "到校外去"
+            },
+            {
+              "id": "step_0672",
+              "type": "choice",
+              "content": "18:30 街区：咖啡厅"
+            },
+            {
+              "id": "step_0673",
+              "type": "note",
+              "content": "移动结束"
+            },
+            {
+              "id": "step_0674",
+              "type": "note",
+              "content": "多功能室：操",
+              "prefix": "■"
+            },
+            {
+              "id": "step_0675",
+              "type": "note",
+              "content": "操&葵&菜月",
+              "prefix": "▲"
+            },
+            {
+              "id": "step_0676",
+              "type": "choice",
+              "content": "RTC:不选"
+            },
+            {
+              "id": "step_0677",
+              "type": "save",
+              "content": "SAVE 22"
+            },
+            {
+              "id": "step_0678",
+              "type": "note",
+              "content": "地图移动06",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_0679",
+              "type": "choice",
+              "content": "16:20 学园：教室"
+            },
+            {
+              "id": "step_0680",
+              "type": "choice",
+              "content": "16:40 学园：鞋柜"
+            },
+            {
+              "id": "step_0681",
+              "type": "choice",
+              "content": "到校外去"
+            },
+            {
+              "id": "step_0682",
+              "type": "choice",
+              "content": "17:20 街区：道口"
+            },
+            {
+              "id": "step_0683",
+              "type": "note",
+              "content": "移动结束"
+            },
+            {
+              "id": "step_0684",
+              "type": "note",
+              "content": "屋顶：菜月",
+              "prefix": "■"
+            },
+            {
+              "id": "step_0685",
+              "type": "choice",
+              "content": "RTC:不选"
+            },
+            {
+              "id": "step_0686",
+              "type": "note",
+              "content": "地图移动07",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_0687",
+              "type": "choice",
+              "content": "18:00 学园：教室"
+            },
+            {
+              "id": "step_0688",
+              "type": "choice",
+              "content": "18:45 学园：校门"
+            },
+            {
+              "id": "step_0689",
+              "type": "choice",
+              "content": "到校外去"
+            },
+            {
+              "id": "step_0690",
+              "type": "choice",
+              "content": "19:15 街区：商店街车站"
+            },
+            {
+              "id": "step_0691",
+              "type": "note",
+              "content": "移动结束"
+            }
+          ]
+        },
+        {
+          "id": "ending_027",
+          "name": "樱井 由爱 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_0695",
+              "type": "load",
+              "content": "LOAD 22"
+            },
+            {
+              "id": "step_0696",
+              "type": "note",
+              "content": "地图移动06",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_0697",
+              "type": "choice",
+              "content": "16:00 学园：校门"
+            },
+            {
+              "id": "step_0698",
+              "type": "choice",
+              "content": "到校外去"
+            },
+            {
+              "id": "step_0699",
+              "type": "choice",
+              "content": "17:00 街区：商店街"
+            },
+            {
+              "id": "step_0700",
+              "type": "choice",
+              "content": "17:40 街区：通学路土堤"
+            },
+            {
+              "id": "step_0701",
+              "type": "note",
+              "content": "移动结束"
+            },
+            {
+              "id": "step_0702",
+              "type": "note",
+              "content": "屋顶：菜月",
+              "prefix": "■"
+            },
+            {
+              "id": "step_0703",
+              "type": "choice",
+              "content": "RTC:不选"
+            },
+            {
+              "id": "step_0704",
+              "type": "note",
+              "content": "地图移动07",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_0705",
+              "type": "choice",
+              "content": "18:15 学园：操场"
+            },
+            {
+              "id": "step_0706",
+              "type": "choice",
+              "content": "到校外去"
+            },
+            {
+              "id": "step_0707",
+              "type": "choice",
+              "content": "19:00 街区：咖啡厅"
+            },
+            {
+              "id": "step_0708",
+              "type": "choice",
+              "content": "19:30 街区：商店街车站"
+            },
+            {
+              "id": "step_0709",
+              "type": "note",
+              "content": "移动结束"
+            }
+          ]
+        },
+        {
+          "id": "ending_028",
+          "name": "荻嶋 镜水 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_0712",
+              "type": "load",
+              "content": "LOAD 21"
+            },
+            {
+              "id": "step_0713",
+              "type": "note",
+              "content": "地图移动02",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_0714",
+              "type": "choice",
+              "content": "15:40 学园：走廊"
+            },
+            {
+              "id": "step_0715",
+              "type": "choice",
+              "content": "16:20 学园：鞋柜"
+            },
+            {
+              "id": "step_0716",
+              "type": "choice",
+              "content": "到校外去"
+            },
+            {
+              "id": "step_0717",
+              "type": "choice",
+              "content": "17:00 街区：商店街"
+            },
+            {
+              "id": "step_0718",
+              "type": "note",
+              "content": "移动结束"
+            },
+            {
+              "id": "step_0719",
+              "type": "note",
+              "content": "地图移动03",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_0720",
+              "type": "choice",
+              "content": "上学"
+            },
+            {
+              "id": "step_0721",
+              "type": "note",
+              "content": "移动结束"
+            },
+            {
+              "id": "step_0722",
+              "type": "choice",
+              "content": "RTC:不选"
+            },
+            {
+              "id": "step_0724",
+              "type": "note",
+              "content": "地图移动04白天",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_0725",
+              "type": "choice",
+              "content": "12:20 学园：操场"
+            },
+            {
+              "id": "step_0726",
+              "type": "choice",
+              "content": "12:40 学园：鞋柜"
+            },
+            {
+              "id": "step_0727",
+              "type": "choice",
+              "content": "13:00 学园：走廊"
+            },
+            {
+              "id": "step_0728",
+              "type": "note",
+              "content": "移动结束"
+            },
+            {
+              "id": "step_0729",
+              "type": "choice",
+              "content": "给她加油"
+            },
+            {
+              "id": "step_0730",
+              "type": "choice",
+              "content": "RTC:不选"
+            },
+            {
+              "id": "step_0731",
+              "type": "note",
+              "content": "夕花&五十铃&葵",
+              "prefix": "▲"
+            },
+            {
+              "id": "step_0732",
+              "type": "note",
+              "content": "多功能室：操",
+              "prefix": "■"
+            },
+            {
+              "id": "step_0733",
+              "type": "note",
+              "content": "操&葵&菜月",
+              "prefix": "▲"
+            },
+            {
+              "id": "step_0734",
+              "type": "choice",
+              "content": "RTC:不选"
+            },
+            {
+              "id": "step_0735",
+              "type": "note",
+              "content": "地图移动06",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_0736",
+              "type": "choice",
+              "content": "15:40 学园：操场"
+            },
+            {
+              "id": "step_0737",
+              "type": "choice",
+              "content": "17:00 学园：走廊"
+            },
+            {
+              "id": "step_0738",
+              "type": "choice",
+              "content": "到校外去"
+            },
+            {
+              "id": "step_0739",
+              "type": "choice",
+              "content": "18:00 街区：商店街"
+            },
+            {
+              "id": "step_0740",
+              "type": "note",
+              "content": "移动结束"
+            },
+            {
+              "id": "step_0741",
+              "type": "note",
+              "content": "屋顶：菜月",
+              "prefix": "■"
+            },
+            {
+              "id": "step_0742",
+              "type": "choice",
+              "content": "RTC:不选"
+            },
+            {
+              "id": "step_0743",
+              "type": "note",
+              "content": "地图移动07",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_0744",
+              "type": "choice",
+              "content": "18:00 学园：操场"
+            },
+            {
+              "id": "step_0745",
+              "type": "choice",
+              "content": "19:00 学园：校门"
+            },
+            {
+              "id": "step_0746",
+              "type": "choice",
+              "content": "到校外去"
+            },
+            {
+              "id": "step_0747",
+              "type": "choice",
+              "content": "19:45 街区：商店街车站"
+            },
+            {
+              "id": "step_0748",
+              "type": "note",
+              "content": "移动结束"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

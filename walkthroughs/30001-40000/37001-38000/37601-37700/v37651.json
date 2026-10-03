@@ -1,0 +1,46 @@
+{
+  "vid": "v37651",
+  "name": {
+    "zh-cn": "纯白交响曲 SANA EDITION",
+    "en-us": "Mashiroiro Symphony HD -Sana Edition-",
+    "ja-jp": "ましろ色シンフォニー SANA EDITION",
+    "ja-Latn": "mashiro-iro-symphony-sana"
+  },
+  "level": 2,
+  "updatedAt": "2026-05-12",
+  "routes": [
+    {
+      "id": "route_1778550126764",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1778550134251",
+          "name": "乾纱凪 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1778550137084",
+              "type": "choice",
+              "content": "谢谢你让我进房间"
+            },
+            {
+              "id": "step_1778550137247",
+              "type": "choice",
+              "content": "果然还是想帮她的忙"
+            },
+            {
+              "id": "step_1778550137423",
+              "type": "choice",
+              "content": "跟樱乃相处很放松"
+            },
+            {
+              "id": "step_1778550137572",
+              "type": "choice",
+              "content": "我也被肉吸引了"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

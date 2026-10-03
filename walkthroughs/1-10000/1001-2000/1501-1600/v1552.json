@@ -1,0 +1,122 @@
+{
+  "vid": "v1552",
+  "name": {
+    "zh-cn": "纯白交响曲",
+    "en-us": "Mashiroiro Symphony HD -Love is Pure White-",
+    "ja-jp": "ましろ色シンフォニー",
+    "ja-Latn": "mashiro-iro-symphony"
+  },
+  "level": 2,
+  "updatedAt": "2026-05-12",
+  "routes": [
+    {
+      "id": "route_game",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_airi",
+          "name": "爱理 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_airi_1",
+              "type": "choice",
+              "content": "谢谢你能招待我来你的房间",
+              "group": "10月8日"
+            },
+            {
+              "id": "step_airi_2",
+              "type": "choice",
+              "content": "果然还是想助学姐一臂之力",
+              "group": "10月9日"
+            },
+            {
+              "id": "step_airi_3",
+              "type": "choice",
+              "content": "不要在别人面前说这样的话哦",
+              "group": "10月10日"
+            },
+            {
+              "id": "step_airi_4",
+              "type": "save",
+              "content": "SAVE 1",
+              "group": "10月16日"
+            },
+            {
+              "id": "step_airi_5",
+              "type": "choice",
+              "content": "果然还是在意今晚的菜单",
+              "group": "10月16日"
+            }
+          ]
+        },
+        {
+          "id": "ending_sakura",
+          "name": "樱乃 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_sakura_1",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_sakura_2",
+              "type": "choice",
+              "content": "即使这样和樱乃在一起很轻松",
+              "group": "10月10日"
+            },
+            {
+              "id": "step_sakura_4",
+              "type": "save",
+              "content": "SAVE 2",
+              "group": "10月16日"
+            },
+            {
+              "id": "step_sakura_3",
+              "type": "choice",
+              "content": "果然还是在意今晚的菜单",
+              "group": "10月16日"
+            }
+          ]
+        },
+        {
+          "id": "ending_angel",
+          "name": "安洁 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_angel_1",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_angel_2",
+              "type": "choice",
+              "content": "偶然去看看凉粉的材料也不错",
+              "group": "10月16日"
+            }
+          ]
+        },
+        {
+          "id": "ending_miyu",
+          "name": "美羽 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_miyu_1",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_miyu_2",
+              "type": "choice",
+              "content": "我也对肉类很中意",
+              "group": "10月16日"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,270 @@
+{
+  "vid": "v26307",
+  "name": {
+    "zh-cn": "甜蜜女友2",
+    "ja-jp": "アマカノ２",
+    "ja-Latn": "amakano-2"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-11",
+  "routes": [
+    {
+      "id": "route_1755950062328",
+      "name": "黒姫 結灯",
+      "endings": [
+        {
+          "id": "ending_1755950081869",
+          "name": "結灯 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755950133078",
+              "type": "choice",
+              "content": "走廊│黒姫結灯"
+            },
+            {
+              "id": "step_1755950133243",
+              "type": "choice",
+              "content": "白鹭站│黒姫結灯"
+            },
+            {
+              "id": "step_1755950133398",
+              "type": "choice",
+              "content": "中庭│黒姫結灯"
+            },
+            {
+              "id": "step_1755950133583",
+              "type": "choice",
+              "content": "走廊│黒姫結灯"
+            },
+            {
+              "id": "step_1755950133929",
+              "type": "choice",
+              "content": "立町大街│黒姫結灯"
+            },
+            {
+              "id": "step_1755950134209",
+              "type": "choice",
+              "content": "教室│黒姫結灯"
+            },
+            {
+              "id": "step_1755950225446",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1755950243856",
+              "type": "choice",
+              "content": "传达心意"
+            }
+          ]
+        },
+        {
+          "id": "ending_1755950283382",
+          "name": "逆告白 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755950580178",
+              "type": "load",
+              "content": "LOAD 1",
+              "subfix": "不点传达心意"
+            },
+            {
+              "id": "step_1755950326241",
+              "type": "choice",
+              "content": "白鹭学园⇒教室│黒姫結灯"
+            },
+            {
+              "id": "step_1755950326402",
+              "type": "choice",
+              "content": "白鹭学园⇒中庭│黒姫結灯"
+            },
+            {
+              "id": "step_1755950326576",
+              "type": "choice",
+              "content": "流转茶馆街│黒姫結灯"
+            },
+            {
+              "id": "step_1755950326790",
+              "type": "choice",
+              "content": "白鹭学园⇒中庭│黒姫結灯"
+            },
+            {
+              "id": "step_1755950327076",
+              "type": "choice",
+              "content": "白鹭学园⇒教室│黒姫結灯"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755950269359",
+      "name": "茑町 千岁",
+      "endings": [
+        {
+          "id": "ending_1755950460101",
+          "name": "千岁 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755950483792",
+              "type": "choice",
+              "content": "教室│茑町千岁"
+            },
+            {
+              "id": "step_1755950483961",
+              "type": "choice",
+              "content": "白鹭学园⇒家庭科室│茑町千岁"
+            },
+            {
+              "id": "step_1755950484154",
+              "type": "choice",
+              "content": "家务课教室│茑町千岁"
+            },
+            {
+              "id": "step_1755950484355",
+              "type": "choice",
+              "content": "中庭│茑町千岁"
+            },
+            {
+              "id": "step_1755950484609",
+              "type": "choice",
+              "content": "流转茶馆街│茑町千岁"
+            },
+            {
+              "id": "step_1755950484901",
+              "type": "choice",
+              "content": "中庭│茑町千岁"
+            },
+            {
+              "id": "step_1755950507364",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1755950531707",
+              "type": "choice",
+              "content": "传达心意"
+            }
+          ]
+        },
+        {
+          "id": "ending_1755950545276",
+          "name": "逆告白 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755950565052",
+              "type": "load",
+              "content": "LOAD 2",
+              "subfix": "不点传达心意"
+            },
+            {
+              "id": "step_1755950634018",
+              "type": "choice",
+              "content": "流转茶馆街│茑町千岁"
+            },
+            {
+              "id": "step_1755950634181",
+              "type": "choice",
+              "content": "白鹭学园⇒走廊│茑町千岁"
+            },
+            {
+              "id": "step_1755950634386",
+              "type": "choice",
+              "content": "上学路上│茑町 千岁"
+            },
+            {
+              "id": "step_1755950634573",
+              "type": "choice",
+              "content": "白鹭学园⇒中庭│茑町千岁"
+            },
+            {
+              "id": "step_1755950634838",
+              "type": "choice",
+              "content": "流转茶馆街│茑町千岁"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755950681265",
+      "name": "冰见山 玲",
+      "endings": [
+        {
+          "id": "ending_1755950693183",
+          "name": "玲 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755950702128",
+              "type": "choice",
+              "content": "屋顶│玲"
+            },
+            {
+              "id": "step_1755950702289",
+              "type": "choice",
+              "content": "上学路上│玲"
+            },
+            {
+              "id": "step_1755950702448",
+              "type": "choice",
+              "content": "走廊│玲"
+            },
+            {
+              "id": "step_1755950702610",
+              "type": "choice",
+              "content": "屋顶│玲"
+            },
+            {
+              "id": "step_1755950702762",
+              "type": "choice",
+              "content": "流转茶馆街│玲"
+            },
+            {
+              "id": "step_1755950703332",
+              "type": "choice",
+              "content": "屋顶│玲"
+            },
+            {
+              "id": "step_1755950738858",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_1755950751484",
+              "type": "choice",
+              "content": "传达心意"
+            }
+          ]
+        },
+        {
+          "id": "ending_1755950771345",
+          "name": "逆告白 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755950780700",
+              "type": "load",
+              "content": "LOAD 3",
+              "subfix": "不点传达心意"
+            },
+            {
+              "id": "step_1755950803188",
+              "type": "choice",
+              "content": "白鹭学园⇒走廊│玲"
+            },
+            {
+              "id": "step_1755950803356",
+              "type": "choice",
+              "content": "流转茶馆街│玲"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

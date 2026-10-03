@@ -1,0 +1,427 @@
+{
+  "vid": "v14265",
+  "name": {
+    "zh-cn": "星织梦未来",
+    "en-us": "Hoshi Ori Yume Mirai",
+    "ja-jp": "星織ユメミライ",
+    "ja-Latn": "hoshi-ori-yume-mirai"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-14",
+  "routes": [
+    {
+      "id": "route_sora",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_sora_end",
+          "name": "逢坂空 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_sora_01",
+              "type": "choice",
+              "content": "等她"
+            },
+            {
+              "id": "step_sora_02",
+              "type": "choice",
+              "content": "不论什么时候都能见面的吧？"
+            },
+            {
+              "id": "step_sora_03",
+              "type": "choice",
+              "content": "接受夏希的邀请"
+            },
+            {
+              "id": "step_sora_04",
+              "type": "choice",
+              "content": "帮她拿望远镜"
+            },
+            {
+              "id": "step_sora_05",
+              "type": "choice",
+              "content": "一起行动"
+            },
+            {
+              "id": "step_sora_06",
+              "type": "choice",
+              "content": "向她打招呼"
+            },
+            {
+              "id": "step_sora_07",
+              "type": "choice",
+              "content": "不放弃"
+            },
+            {
+              "id": "step_sora_08",
+              "type": "choice",
+              "content": "试着说服她"
+            },
+            {
+              "id": "step_sora_09",
+              "type": "choice",
+              "content": "送她到家门口"
+            },
+            {
+              "id": "step_sora_10",
+              "type": "choice",
+              "content": "也可以算是一种约会···？"
+            },
+            {
+              "id": "step_sora_11",
+              "type": "choice",
+              "content": "再稍微坚持一下"
+            },
+            {
+              "id": "step_sora_12",
+              "type": "choice",
+              "content": "再试着打一次电话"
+            },
+            {
+              "id": "step_sora_13",
+              "type": "choice",
+              "content": "发个LIME试试"
+            },
+            {
+              "id": "step_sora_14",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_sora_15",
+              "type": "choice",
+              "content": "逢坂"
+            },
+            {
+              "id": "step_sora_16",
+              "type": "choice",
+              "content": "濑川比较大"
+            },
+            {
+              "id": "step_sora_17",
+              "type": "choice",
+              "content": "熊猫"
+            },
+            {
+              "id": "step_sora_18",
+              "type": "choice",
+              "content": "从上半身开始挖"
+            },
+            {
+              "id": "step_sora_19",
+              "type": "choice",
+              "content": "喊只有我能听懂的话"
+            }
+          ]
+        },
+        {
+          "id": "ending_ritsuka_end",
+          "name": "鸣泽律佳 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_ritsuka_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_ritsuka_02",
+              "type": "choice",
+              "content": "鸣泽"
+            },
+            {
+              "id": "step_ritsuka_03",
+              "type": "choice",
+              "content": "就这样尝味道"
+            },
+            {
+              "id": "step_ritsuka_04",
+              "type": "choice",
+              "content": "濑川比较大"
+            },
+            {
+              "id": "step_ritsuka_05",
+              "type": "choice",
+              "content": "莫扎特"
+            },
+            {
+              "id": "step_ritsuka_06",
+              "type": "choice",
+              "content": "想拉近关系没错！Yeah！"
+            },
+            {
+              "id": "step_ritsuka_07",
+              "type": "choice",
+              "content": "真的好合适啊"
+            },
+            {
+              "id": "step_ritsuka_08",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_ritsuka_09",
+              "type": "choice",
+              "content": "想要被早安咬叫醒"
+            },
+            {
+              "id": "step_ritsuka_10",
+              "type": "choice",
+              "content": "右边！"
+            },
+            {
+              "id": "step_ritsuka_11",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_ritsuka_12",
+              "type": "choice",
+              "content": "在律佳的口中！"
+            }
+          ]
+        },
+        {
+          "id": "ending_ritsuka_extra1",
+          "name": "鸣泽律佳 EXTRA1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_ritsuka_extra1_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_ritsuka_extra1_02",
+              "type": "choice",
+              "content": "想要被早安吻叫醒"
+            },
+            {
+              "id": "step_ritsuka_extra1_03",
+              "type": "choice",
+              "content": "以为右边实际是左边！"
+            }
+          ]
+        },
+        {
+          "id": "ending_ritsuka_extra2",
+          "name": "律鸣泽律佳佳 EXTRA2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_ritsuka_extra2_01",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_ritsuka_extra2_02",
+              "type": "choice",
+              "content": "在律佳的脸上！"
+            }
+          ]
+        },
+        {
+          "id": "ending_toko_end",
+          "name": "雪村透子 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_toko_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_toko_02",
+              "type": "choice",
+              "content": "雪村"
+            },
+            {
+              "id": "step_toko_03",
+              "type": "choice",
+              "content": "雪村比较大"
+            },
+            {
+              "id": "step_toko_04",
+              "type": "choice",
+              "content": "熊猫"
+            },
+            {
+              "id": "step_toko_05",
+              "type": "choice",
+              "content": "把雪村叫起来"
+            },
+            {
+              "id": "step_toko_06",
+              "type": "choice",
+              "content": "商量一下吧"
+            },
+            {
+              "id": "step_toko_07",
+              "type": "choice",
+              "content": "破釜沉舟"
+            },
+            {
+              "id": "step_toko_08",
+              "type": "choice",
+              "content": "再上一次"
+            },
+            {
+              "id": "step_toko_09",
+              "type": "choice",
+              "content": "还是就这样待在旧教学楼"
+            },
+            {
+              "id": "step_toko_10",
+              "type": "choice",
+              "content": "陪她玩游戏"
+            },
+            {
+              "id": "step_toko_13",
+              "type": "choice",
+              "content": "说真实的感想"
+            },
+            {
+              "id": "step_toko_14",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_toko_15",
+              "type": "choice",
+              "content": "自己一个人去找钥匙"
+            },
+            {
+              "id": "step_toko_16",
+              "type": "choice",
+              "content": "就这样"
+            }
+          ]
+        },
+        {
+          "id": "ending_toko_extra",
+          "name": "雪村透子转校END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_toko_extra_01",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_toko_extra_02",
+              "type": "choice",
+              "content": "和透子一起去找"
+            }
+          ]
+        },
+        {
+          "id": "ending_misa_end",
+          "name": "沖原美砂 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_misa_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_misa_02",
+              "type": "choice",
+              "content": "沖原学姐"
+            },
+            {
+              "id": "step_misa_03",
+              "type": "choice",
+              "content": "濑川比较大"
+            },
+            {
+              "id": "step_misa_04",
+              "type": "choice",
+              "content": "熊猫"
+            }
+          ]
+        },
+        {
+          "id": "ending_marika_end",
+          "name": "篠崎真里花 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_marika_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_marika_02",
+              "type": "choice",
+              "content": "篠崎"
+            },
+            {
+              "id": "step_marika_03",
+              "type": "choice",
+              "content": "濑川比较大"
+            },
+            {
+              "id": "step_marika_04",
+              "type": "choice",
+              "content": "熊猫"
+            }
+          ]
+        },
+        {
+          "id": "ending_natsuki_end",
+          "name": "濑川夏希 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_natsuki_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_natsuki_02",
+              "type": "choice",
+              "content": "濑川"
+            },
+            {
+              "id": "step_natsuki_03",
+              "type": "choice",
+              "content": "濑川比较大"
+            },
+            {
+              "id": "step_natsuki_04",
+              "type": "choice",
+              "content": "ＵＭＡ"
+            },
+            {
+              "id": "step_natsuki_05",
+              "type": "choice",
+              "content": "吃・夏・希"
+            },
+            {
+              "id": "step_natsuki_06",
+              "type": "choice",
+              "content": "拿出真本事捞金鱼！"
+            },
+            {
+              "id": "step_natsuki_07",
+              "type": "choice",
+              "content": "拿出真本事扔套环！"
+            },
+            {
+              "id": "step_natsuki_08",
+              "type": "choice",
+              "content": "认真地射击！"
+            },
+            {
+              "id": "step_natsuki_09",
+              "type": "choice",
+              "content": "亲吻的日子"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

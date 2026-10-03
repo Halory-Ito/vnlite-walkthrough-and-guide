@@ -1,0 +1,247 @@
+{
+  "vid": "v14895",
+  "name": {
+    "zh-cn": "友爱俱乐部",
+    "ja-jp": "フラテルニテ",
+    "ja-Latn": "fraternite"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-14",
+  "tips": [
+    "按攻略的顺序游玩"
+  ],
+  "routes": [
+    {
+      "id": "route_common",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_kokone_end",
+          "name": "心音 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_kokone_01",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_kokone_02",
+              "type": "choice",
+              "content": "不回去"
+            },
+            {
+              "id": "step_kokone_03",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_kokone_04",
+              "type": "choice",
+              "content": "再次劝说心音"
+            }
+          ]
+        },
+        {
+          "id": "ending_bad_1",
+          "name": "BAD END1",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_bad1_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_bad1_02",
+              "type": "choice",
+              "content": "在外面等"
+            }
+          ]
+        },
+        {
+          "id": "ending_saeko_end",
+          "name": "紗英子 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_saeko_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_saeko_02",
+              "type": "choice",
+              "content": "不和心音说话"
+            },
+            {
+              "id": "step_saeko_04",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_saeko_05",
+              "type": "choice",
+              "content": "答应紗英子"
+            }
+          ]
+        },
+        {
+          "id": "ending_common_end",
+          "name": "共通线 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_common_end_01",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_common_end_02",
+              "type": "choice",
+              "content": "拒绝紗英子"
+            }
+          ]
+        },
+        {
+          "id": "ending_common_end2",
+          "name": "共通线 END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_common_end2_01",
+              "type": "note",
+              "content": "共通线结束后,回到标题界面"
+            },
+            {
+              "id": "step_common_end2_02",
+              "type": "choice",
+              "content": "从别的视角开始"
+            }
+          ]
+        },
+        {
+          "id": "ending_mio_mei_end",
+          "name": "美桜＆芽生 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_mio_mei_01",
+              "type": "note",
+              "content": "共通线 END2结束之后,回到标题界面"
+            },
+            {
+              "id": "step_mio_mei_02",
+              "type": "choice",
+              "content": "继续追踪"
+            },
+            {
+              "id": "step_mio_mei_04",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_mio_mei_05",
+              "type": "choice",
+              "content": "回家"
+            },
+            {
+              "id": "step_mio_mei_06",
+              "type": "save",
+              "content": "SAVE 5"
+            },
+            {
+              "id": "step_mio_mei_07",
+              "type": "choice",
+              "content": "接受"
+            }
+          ]
+        },
+        {
+          "id": "ending_mei_end",
+          "name": "芽生 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_mei_01",
+              "type": "load",
+              "content": "LOAD 5"
+            },
+            {
+              "id": "step_mei_02",
+              "type": "choice",
+              "content": "拒绝"
+            }
+          ]
+        },
+        {
+          "id": "ending_daichi_bad",
+          "name": "大智 END",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_daichi_bad_01",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_daichi_bad_02",
+              "type": "choice",
+              "content": "去俱乐部"
+            },
+            {
+              "id": "step_daichi_bad_03",
+              "type": "save",
+              "content": "SAVE 6"
+            },
+            {
+              "id": "step_daichi_bad_04",
+              "type": "choice",
+              "content": "不叫爱出来"
+            }
+          ]
+        },
+        {
+          "id": "ending_ai_end",
+          "name": "爱 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_ai_01",
+              "type": "load",
+              "content": "LOAD 6"
+            },
+            {
+              "id": "step_ai_02",
+              "type": "choice",
+              "content": "叫爱出来"
+            }
+          ]
+        },
+        {
+          "id": "ending_true_end",
+          "name": "TRUE END",
+          "type": "true",
+          "requirements": "爱 END结束后回到标题界面",
+          "steps": [
+            {
+              "id": "step_true_02",
+              "type": "choice",
+              "content": "最后的结局"
+            },
+            {
+              "id": "step_true_03",
+              "type": "choice",
+              "content": "温柔的"
+            },
+            {
+              "id": "step_true_04",
+              "type": "note",
+              "content": "粗暴的⇒爱END"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

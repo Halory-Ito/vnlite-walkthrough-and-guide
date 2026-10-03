@@ -1,0 +1,288 @@
+{
+  "vid": "v19444",
+  "name": {
+    "zh-cn": "青春×好奇相伴的三角恋爱",
+    "en-us": "Sankaku Renai: Love Triangle Trouble",
+    "ja-jp": "スキとスキとでサンカク恋愛",
+    "ja-Latn": "suki-to-suki-to-de-sankaku-renai"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-11",
+  "tips": [
+    "★为推荐选项"
+  ],
+  "routes": [
+    {
+      "id": "route_1755764600136",
+      "name": "小森江 七瑠",
+      "endings": [
+        {
+          "id": "ending_1755776854028",
+          "name": "七瑠 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755776979883",
+              "type": "choice",
+              "content": "听听【志衣菜会亲自告诉你如何进她的线】／不听"
+            },
+            {
+              "id": "step_1755776984716",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1755776988771",
+              "type": "choice",
+              "content": "选青梅竹马的女孩子"
+            },
+            {
+              "id": "step_1755776988950",
+              "type": "choice",
+              "content": "这样的话，就一直找到发现为止"
+            },
+            {
+              "id": "step_1755776989176",
+              "type": "choice",
+              "content": "跟真帆一起坠入魔道"
+            },
+            {
+              "id": "step_1755777004289",
+              "type": "choice",
+              "content": "留在七瑠身边",
+              "subfix": "—＞进入【妹▲ 线】"
+            },
+            {
+              "id": "step_1755777355215",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1755777381149",
+              "type": "choice",
+              "content": "帮下踱步的七瑠",
+              "subfix": "—＞■：七瑠 线"
+            },
+            {
+              "id": "step_1755777545244",
+              "type": "choice",
+              "content": "40度/180度/360度"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755777611440",
+      "name": "小森江 铃",
+      "endings": [
+        {
+          "id": "ending_1755777685560",
+          "name": "铃 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755777698395",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1755777705217",
+              "type": "choice",
+              "content": "帮正在做炒面的玲",
+              "subfix": "—＞■：铃 线"
+            },
+            {
+              "id": "step_1755777716044",
+              "type": "choice",
+              "content": "左/上空/中/右"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755777745525",
+      "name": "吕田 茜",
+      "endings": [
+        {
+          "id": "ending_1755777749414",
+          "name": "茜 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755777768041",
+              "type": "choice",
+              "content": "听听【志衣菜会亲自告诉你如何进她的线】／不听"
+            },
+            {
+              "id": "step_1755777887442",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1755777889537",
+              "type": "choice",
+              "content": "选最近在意的女孩子"
+            },
+            {
+              "id": "step_1755777903184",
+              "type": "choice",
+              "content": "看气氛"
+            },
+            {
+              "id": "step_1755777912311",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_1755777918917",
+              "type": "choice",
+              "content": "留在七瑠身边",
+              "subfix": "—＞进入【妹▲ 线】"
+            },
+            {
+              "id": "step_1755777935256",
+              "type": "choice",
+              "content": "帮正在做炒面的玲",
+              "subfix": "—＞■：茜 线"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755777976623",
+      "name": "木須 志衣菜",
+      "endings": [
+        {
+          "id": "ending_1755777978186",
+          "name": "志衣菜 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755777981319",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1755777987064",
+              "type": "choice",
+              "content": "邀请七瑠一起玩",
+              "subfix": "—＞进入【恋▲ 线】"
+            },
+            {
+              "id": "step_1755778000606",
+              "type": "choice",
+              "content": "跟店长打小报告让他夸我／帮助她好感度up，以在人气投票中成为副主角第一为目标／放弃奇怪的语癖从此以女主角为目标"
+            },
+            {
+              "id": "step_1755778000838",
+              "type": "choice",
+              "content": "那个人名字叫什么来着？总之先用前辈来混过去／我在一瞬间又想了一下"
+            },
+            {
+              "id": "step_1755778007584",
+              "type": "choice",
+              "content": "哥哥，哥哥，哥哥！／哥哥在困扰，得去帮他／……比起哥哥，叫欧尼酱会更有人气吗"
+            },
+            {
+              "id": "step_1755778008200",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_1755778024682",
+              "type": "choice",
+              "content": "给木须前辈发短信看看吧",
+              "subfix": "—＞■：志衣菜 线"
+            },
+            {
+              "id": "step_1755778039846",
+              "type": "choice",
+              "content": "把你弄成我的女奴隶"
+            },
+            {
+              "id": "step_1755778040005",
+              "type": "choice",
+              "content": "宗介君为什么没有对我出手？"
+            },
+            {
+              "id": "step_1755778040162",
+              "type": "choice",
+              "content": "才、才不是想了呢！"
+            },
+            {
+              "id": "step_1755778040461",
+              "type": "choice",
+              "content": "海中？"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755778068666",
+      "name": "鳴滝 真帆",
+      "endings": [
+        {
+          "id": "ending_1755778073708",
+          "name": "真帆 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755778075490",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_1755778080185",
+              "type": "choice",
+              "content": "真帆的话感觉可以轻松的邀请"
+            },
+            {
+              "id": "step_1755778084286",
+              "type": "save",
+              "content": "SAVE 5"
+            },
+            {
+              "id": "step_1755778089997",
+              "type": "choice",
+              "content": "果然平常绝对不cosplay的真帆……反而更诱人",
+              "subfix": "—＞■：真帆 线"
+            },
+            {
+              "id": "step_1755778097361",
+              "type": "choice",
+              "content": "等一下、怎么这个时候出现……"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755778121842",
+      "name": "卡拉·奥利维亚",
+      "endings": [
+        {
+          "id": "ending_1755778125200",
+          "name": "奥利维亚 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755778127295",
+              "type": "load",
+              "content": "LOAD 5"
+            },
+            {
+              "id": "step_1755778135157",
+              "type": "choice",
+              "content": "但是卡拉扮演的角色，也真的是超级可爱",
+              "subfix": "—＞■：卡拉 线"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

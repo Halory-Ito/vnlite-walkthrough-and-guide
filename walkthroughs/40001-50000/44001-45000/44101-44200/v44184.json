@@ -1,0 +1,153 @@
+{
+  "vid": "v44184",
+  "name": {
+    "zh-cn": "美少女万华镜异闻 雪女",
+    "ja-jp": "美少女万華鏡異聞 雪おんな",
+    "ja-Latn": "bishoujo-mangekyou-ibun-yuki-onna"
+  },
+  "level": 2,
+  "updatedAt": "2026-05-20",
+  "routes": [
+    {
+      "id": "route_1748072594057",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1748072605995",
+          "name": "END 1",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_1748072700405",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1748072701857",
+              "type": "choice",
+              "content": "救助小动物"
+            },
+            {
+              "id": "step_1748072709343",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1748072715030",
+              "type": "choice",
+              "content": "接受按摩"
+            },
+            {
+              "id": "step_1748072724957",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_1748072730335",
+              "type": "choice",
+              "content": "安抚姬大人继续下去"
+            },
+            {
+              "id": "step_1748072739725",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_1748072746921",
+              "type": "choice",
+              "content": "不再隐藏了"
+            },
+            {
+              "id": "step_1748072775029",
+              "type": "save",
+              "content": "SAVE 5"
+            },
+            {
+              "id": "step_1748072826005",
+              "type": "choice",
+              "content": "想要撒娇"
+            }
+          ]
+        },
+        {
+          "id": "ending_1748072832375",
+          "name": "END 2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1748072859783",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1748072860889",
+              "type": "choice",
+              "content": "不去救助"
+            }
+          ]
+        },
+        {
+          "id": "ending_1748072879207",
+          "name": "END 3",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1748072897109",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1748072906043",
+              "type": "choice",
+              "content": "不接受按摩"
+            }
+          ]
+        },
+        {
+          "id": "ending_1748072925171",
+          "name": "END 4",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1748072947651",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1748072951201",
+              "type": "choice",
+              "content": "心疼姬大人今天就此打住"
+            }
+          ]
+        },
+        {
+          "id": "ending_1748072980907",
+          "name": "END 5",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_1748073018543",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_1748073030717",
+              "type": "choice",
+              "content": "修行更重要"
+            },
+            {
+              "id": "step_1748073202719",
+              "type": "load",
+              "content": "LOAD 5"
+            },
+            {
+              "id": "step_1748073209529",
+              "type": "choice",
+              "content": "想要欺负她"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,528 @@
+{
+  "vid": "v14523",
+  "name": {
+    "zh-cn": "迷途的二人与世界的全部",
+    "ja-jp": "迷える2人とセカイのすべて",
+    "ja-Latn": "mayoeru-futari-to-sekai-no-subete"
+  },
+  "level": 2,
+  "updatedAt": "2026-04-24",
+  "routes": [
+    {
+      "id": "route_game",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_otuha_end",
+          "name": "共通线",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_otuha_01",
+              "type": "choice",
+              "content": "重要的朋友"
+            },
+            {
+              "id": "step_otuha_02",
+              "type": "choice",
+              "content": "因为你和我很像"
+            },
+            {
+              "id": "step_otuha_03",
+              "type": "choice",
+              "content": "谢谢你替我解围"
+            },
+            {
+              "id": "step_otuha_04",
+              "type": "choice",
+              "content": "要去看看吗"
+            },
+            {
+              "id": "step_otuha_05",
+              "type": "choice",
+              "content": "和你说也可以"
+            },
+            {
+              "id": "step_otuha_06",
+              "type": "choice",
+              "content": "我知道了，一起探索吧"
+            },
+            {
+              "id": "step_otuha_07",
+              "type": "choice",
+              "content": "那么，就拜托你了"
+            },
+            {
+              "id": "step_otuha_08",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_otuha_09",
+              "type": "choice",
+              "content": "和广原一起搜索"
+            },
+            {
+              "id": "step_otuha_10",
+              "type": "choice",
+              "content": "喜欢的话可以哦"
+            },
+            {
+              "id": "step_otuha_11",
+              "type": "choice",
+              "content": "已经没事了"
+            },
+            {
+              "id": "step_otuha_12",
+              "type": "choice",
+              "content": "我知道了，一起睡吧"
+            },
+            {
+              "id": "step_otuha_13",
+              "type": "choice",
+              "content": "结城，一起加油吧"
+            },
+            {
+              "id": "step_otuha_14",
+              "type": "choice",
+              "content": "没事吧，菲娅"
+            },
+            {
+              "id": "step_otuha_15",
+              "type": "choice",
+              "content": "抚摸菲娅的头"
+            },
+            {
+              "id": "step_otuha_16",
+              "type": "choice",
+              "content": "谢谢你前来帮助我"
+            },
+            {
+              "id": "step_otuha_17",
+              "type": "choice",
+              "content": "菲娅由我来守护"
+            },
+            {
+              "id": "step_otuha_18",
+              "type": "choice",
+              "content": "我接受"
+            },
+            {
+              "id": "step_otuha_19",
+              "type": "choice",
+              "content": "可以和我说说是怎么回事吗"
+            },
+            {
+              "id": "step_otuha_20",
+              "type": "choice",
+              "content": "谢谢什么的不用了"
+            },
+            {
+              "id": "step_otuha_21",
+              "type": "choice",
+              "content": "因为要考虑到菲娅"
+            },
+            {
+              "id": "step_otuha_22",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_otuha_23",
+              "type": "choice",
+              "content": "和铃兰一起行动"
+            },
+            {
+              "id": "step_otuha_24",
+              "type": "choice",
+              "content": "冴木才是不要逞强"
+            },
+            {
+              "id": "step_otuha_25",
+              "type": "choice",
+              "content": "广原的那件"
+            },
+            {
+              "id": "step_otuha_26",
+              "type": "choice",
+              "content": "交给铃兰"
+            },
+            {
+              "id": "step_otuha_27",
+              "type": "choice",
+              "content": "想拥有守护大家的能力"
+            },
+            {
+              "id": "step_otuha_28",
+              "type": "choice",
+              "content": "麻烦你了"
+            },
+            {
+              "id": "step_otuha_29",
+              "type": "choice",
+              "content": "那，加油吧"
+            },
+            {
+              "id": "step_otuha_30",
+              "type": "choice",
+              "content": "力所能及的范围的话"
+            },
+            {
+              "id": "step_otuha_31",
+              "type": "choice",
+              "content": "……不，什么都没有"
+            },
+            {
+              "id": "step_otuha_32",
+              "type": "choice",
+              "content": "炸鸡块"
+            },
+            {
+              "id": "step_otuha_33",
+              "type": "choice",
+              "content": "还真是特别喜欢神秘呢"
+            },
+            {
+              "id": "step_otuha_34",
+              "type": "choice",
+              "content": "会不会有点操之过急了？"
+            },
+            {
+              "id": "step_otuha_35",
+              "type": "save",
+              "content": "SAVE 3"
+            }
+          ]
+        },
+        {
+          "id": "ending_1774950946507",
+          "name": "乙羽 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1774950987993",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1774950990497",
+              "type": "choice",
+              "content": "和乙羽去游泳"
+            },
+            {
+              "id": "step_1774950990688",
+              "type": "choice",
+              "content": "发信息给乙羽"
+            },
+            {
+              "id": "step_1774950990949",
+              "type": "choice",
+              "content": "和精灵一起进入温泉"
+            }
+          ]
+        },
+        {
+          "id": "ending_taohua_end",
+          "name": "桃华 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_taohua_01",
+              "type": "load",
+              "content": "LOAD 3",
+              "group": "主角个别路线"
+            },
+            {
+              "id": "step_taohua_02",
+              "type": "choice",
+              "content": "和冴木一起战斗训练",
+              "group": "主角个别路线"
+            },
+            {
+              "id": "step_taohua_03",
+              "type": "choice",
+              "content": "我觉得特训要紧？",
+              "group": "主角个别路线"
+            },
+            {
+              "id": "step_taohua_04",
+              "type": "choice",
+              "content": "发信息给桃华",
+              "group": "主角个别路线"
+            }
+          ]
+        },
+        {
+          "id": "ending_nayuta_end",
+          "name": "那由他 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_nayuta_01",
+              "type": "load",
+              "content": "LOAD 3",
+              "group": "主角个别路线"
+            },
+            {
+              "id": "step_nayuta_02",
+              "type": "choice",
+              "content": "去看看广原的样子",
+              "group": "主角个别路线"
+            },
+            {
+              "id": "step_nayuta_03",
+              "type": "choice",
+              "content": "发信息给那由他",
+              "group": "主角个别路线"
+            }
+          ]
+        },
+        {
+          "id": "ending_linglan_end",
+          "name": "铃兰 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_linglan_01",
+              "type": "load",
+              "content": "LOAD 3",
+              "group": "主角个别路线"
+            },
+            {
+              "id": "step_linglan_02",
+              "type": "choice",
+              "content": "去帮助结城干体力活",
+              "group": "主角个别路线"
+            },
+            {
+              "id": "step_linglan_03",
+              "type": "choice",
+              "content": "发信息给铃兰",
+              "group": "主角个别路线"
+            }
+          ]
+        },
+        {
+          "id": "ending_nainai_end",
+          "name": "奈奈 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_nainai_01",
+              "type": "load",
+              "content": "LOAD 3",
+              "group": "主角个别路线"
+            },
+            {
+              "id": "step_nainai_02",
+              "type": "choice",
+              "content": "一个人去买东西",
+              "group": "主角个别路线"
+            },
+            {
+              "id": "step_nainai_03",
+              "type": "choice",
+              "content": "清纯型",
+              "group": "主角个别路线"
+            },
+            {
+              "id": "step_nainai_04",
+              "type": "choice",
+              "content": "1个人散步",
+              "group": "主角个别路线"
+            }
+          ]
+        },
+        {
+          "id": "ending_fiya_end",
+          "name": "菲娅 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_fiya_01",
+              "type": "note",
+              "content": "5人攻略完毕后，从标题画面选择【菲娅】开始"
+            }
+          ]
+        },
+        {
+          "id": "ending_event_1_end",
+          "name": "事件回收1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_event1_01",
+              "type": "load",
+              "content": "LOAD 1",
+              "group": "事件回收1"
+            },
+            {
+              "id": "step_event1_02",
+              "type": "choice",
+              "content": "和乙羽一起搜索",
+              "group": "事件回收1"
+            },
+            {
+              "id": "step_event1_03",
+              "type": "choice",
+              "content": "要试试看吗？",
+              "group": "事件回收1"
+            },
+            {
+              "id": "step_event1_04",
+              "type": "note",
+              "content": "事件回收结束",
+              "prefix": "※",
+              "group": "事件回收1"
+            },
+            {
+              "id": "step_event1_05",
+              "type": "load",
+              "content": "LOAD 1",
+              "group": "事件回收1"
+            },
+            {
+              "id": "step_event1_06",
+              "type": "choice",
+              "content": "和铃兰一起搜索",
+              "group": "事件回收1"
+            },
+            {
+              "id": "step_event1_07",
+              "type": "choice",
+              "content": "没想到我的喜好也被你知道了啊",
+              "group": "事件回收1"
+            },
+            {
+              "id": "step_event1_08",
+              "type": "note",
+              "content": "事件回收结束",
+              "prefix": "※",
+              "group": "事件回收1"
+            },
+            {
+              "id": "step_event1_09",
+              "type": "load",
+              "content": "LOAD 1",
+              "group": "事件回收1"
+            },
+            {
+              "id": "step_event1_10",
+              "type": "choice",
+              "content": "和六连星一起搜索",
+              "group": "事件回收1"
+            },
+            {
+              "id": "step_event1_11",
+              "type": "choice",
+              "content": "不来帮忙吗？",
+              "group": "事件回收1"
+            },
+            {
+              "id": "step_event1_12",
+              "type": "choice",
+              "content": "那我就收下了",
+              "group": "事件回收1"
+            },
+            {
+              "id": "step_event1_13",
+              "type": "note",
+              "content": "事件回收结束",
+              "prefix": "※",
+              "group": "事件回收1"
+            }
+          ]
+        },
+        {
+          "id": "ending_event_2_end",
+          "name": "事件回收2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_event2_01",
+              "type": "load",
+              "content": "LOAD 2",
+              "group": "事件回收2"
+            },
+            {
+              "id": "step_event2_02",
+              "type": "choice",
+              "content": "和乙羽一起行动",
+              "group": "事件回收2"
+            },
+            {
+              "id": "step_event2_03",
+              "type": "note",
+              "content": "事件回收结束(有CG)",
+              "prefix": "※",
+              "group": "事件回收2"
+            },
+            {
+              "id": "step_event2_04",
+              "type": "load",
+              "content": "LOAD 2",
+              "group": "事件回收2"
+            },
+            {
+              "id": "step_event2_05",
+              "type": "choice",
+              "content": "和桃华一起行动",
+              "group": "事件回收2"
+            },
+            {
+              "id": "step_event2_06",
+              "type": "choice",
+              "content": "问一问菲娅",
+              "group": "事件回收2"
+            },
+            {
+              "id": "step_event2_07",
+              "type": "note",
+              "content": "事件回收结束",
+              "prefix": "※",
+              "group": "事件回收2"
+            },
+            {
+              "id": "step_event2_08",
+              "type": "load",
+              "content": "LOAD 2",
+              "group": "事件回收2"
+            },
+            {
+              "id": "step_event2_09",
+              "type": "choice",
+              "content": "和那由他一起行动",
+              "group": "事件回收2"
+            },
+            {
+              "id": "step_event2_10",
+              "type": "note",
+              "content": "事件回收结束(有CG)",
+              "prefix": "※",
+              "group": "事件回收2"
+            },
+            {
+              "id": "step_event2_11",
+              "type": "load",
+              "content": "LOAD 2",
+              "group": "事件回收2"
+            },
+            {
+              "id": "step_event2_12",
+              "type": "choice",
+              "content": "一个人行动",
+              "group": "事件回收2"
+            },
+            {
+              "id": "step_event2_13",
+              "type": "note",
+              "content": "事件回收结束",
+              "prefix": "※",
+              "group": "事件回收2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

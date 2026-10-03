@@ -1,0 +1,176 @@
+{
+  "vid": "v12602",
+  "name": {
+    "zh-cn": "うそつき王子と悩めるお姫さま -Princess syndrome-",
+    "ja-jp": "うそつき王子と悩めるお姫さま –Princess syndrome–",
+    "ja-Latn": "usotsuki-ouji-to-nayameru-ohime-sama"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-14",
+  "routes": [
+    {
+      "id": "route_game_guide",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_izumi",
+          "name": "泉 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_izumi_01",
+              "type": "choice",
+              "content": "注意一下她"
+            },
+            {
+              "id": "step_izumi_02",
+              "type": "choice",
+              "content": "追问"
+            },
+            {
+              "id": "step_izumi_03",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_izumi_04",
+              "type": "choice",
+              "content": "泉"
+            },
+            {
+              "id": "step_izumi_05",
+              "type": "choice",
+              "content": "算了"
+            },
+            {
+              "id": "step_izumi_06",
+              "type": "choice",
+              "content": "不交往"
+            },
+            {
+              "id": "step_izumi_07",
+              "type": "choice",
+              "content": "泉"
+            },
+            {
+              "id": "step_izumi_08",
+              "type": "choice",
+              "content": "高兴"
+            }
+          ]
+        },
+        {
+          "id": "ending_mikan",
+          "name": "美柑 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_mikan_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_mikan_02",
+              "type": "choice",
+              "content": "美柑"
+            },
+            {
+              "id": "step_mikan_03",
+              "type": "choice",
+              "content": "算了"
+            },
+            {
+              "id": "step_mikan_04",
+              "type": "choice",
+              "content": "不交往"
+            },
+            {
+              "id": "step_mikan_05",
+              "type": "choice",
+              "content": "美柑"
+            },
+            {
+              "id": "step_mikan_06",
+              "type": "choice",
+              "content": "不高兴"
+            }
+          ]
+        },
+        {
+          "id": "ending_riina",
+          "name": "莉娜 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_riina_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_riina_02",
+              "type": "choice",
+              "content": "莉娜"
+            },
+            {
+              "id": "step_riina_03",
+              "type": "choice",
+              "content": "试试看"
+            },
+            {
+              "id": "step_riina_04",
+              "type": "choice",
+              "content": "不交往"
+            },
+            {
+              "id": "step_riina_05",
+              "type": "choice",
+              "content": "莉娜"
+            },
+            {
+              "id": "step_riina_06",
+              "type": "choice",
+              "content": "不高兴"
+            }
+          ]
+        },
+        {
+          "id": "ending_hoshiko",
+          "name": "星子 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_hoshiko_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_hoshiko_02",
+              "type": "choice",
+              "content": "星子"
+            },
+            {
+              "id": "step_hoshiko_03",
+              "type": "choice",
+              "content": "算了"
+            },
+            {
+              "id": "step_hoshiko_04",
+              "type": "choice",
+              "content": "交往"
+            },
+            {
+              "id": "step_hoshiko_05",
+              "type": "choice",
+              "content": "星子"
+            },
+            {
+              "id": "step_hoshiko_06",
+              "type": "choice",
+              "content": "不高兴"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,384 @@
+{
+  "vid": "v28",
+  "name": {
+    "zh-cn": "shuffle！",
+    "ja-Latn": "shuffle"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-14",
+  "routes": [
+    {
+      "id": "route_game",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_sia_end1",
+          "name": "希娅 END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_sia1_01",
+              "type": "choice",
+              "content": "去问关于希娅的事",
+              "group": "6月15日"
+            },
+            {
+              "id": "step_sia1_02",
+              "type": "save",
+              "content": "SAVE 1",
+              "group": "6月15日"
+            },
+            {
+              "id": "step_sia1_03",
+              "type": "choice",
+              "content": "莉希安萨斯",
+              "group": "6月16日"
+            },
+            {
+              "id": "step_sia1_04",
+              "type": "choice",
+              "content": "接受普莉姆拉",
+              "group": "6月20日"
+            },
+            {
+              "id": "step_sia1_05",
+              "type": "choice",
+              "content": "确实很闲",
+              "group": "6月21日"
+            },
+            {
+              "id": "step_sia1_06",
+              "type": "choice",
+              "content": "和其他朋友回去",
+              "group": "6月23日"
+            },
+            {
+              "id": "step_sia1_07",
+              "type": "choice",
+              "content": "再看一下风景",
+              "group": "6月24日"
+            },
+            {
+              "id": "step_sia1_08",
+              "type": "choice",
+              "content": "正好买点东西",
+              "group": "7月4日"
+            },
+            {
+              "id": "step_sia1_09",
+              "type": "choice",
+              "content": "里面/外面",
+              "group": "8月11日"
+            },
+            {
+              "id": "step_sia1_10",
+              "type": "choice",
+              "content": "默默的接受",
+              "group": "8月24日"
+            },
+            {
+              "id": "step_sia1_11",
+              "type": "save",
+              "content": "SAVE 2",
+              "group": "9月6日"
+            },
+            {
+              "id": "step_sia1_12",
+              "type": "choice",
+              "content": "接住",
+              "group": "9月6日"
+            }
+          ]
+        },
+        {
+          "id": "ending_sia_end2",
+          "name": "希娅 END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_sia2_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_sia2_02",
+              "type": "choice",
+              "content": "躲开",
+              "group": "9月6日"
+            }
+          ]
+        },
+        {
+          "id": "ending_nerine_end",
+          "name": "奈莉奈 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_nerine_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_nerine_02",
+              "type": "choice",
+              "content": "先听听奈莉奈的事",
+              "group": "6月15日"
+            },
+            {
+              "id": "step_nerine_03",
+              "type": "save",
+              "content": "SAVE 3",
+              "group": "6月16日"
+            },
+            {
+              "id": "step_nerine_04",
+              "type": "choice",
+              "content": "奈莉奈",
+              "group": "6月16日"
+            },
+            {
+              "id": "step_nerine_05",
+              "type": "choice",
+              "content": "接受普莉姆拉",
+              "group": "6月20日"
+            },
+            {
+              "id": "step_nerine_06",
+              "type": "choice",
+              "content": "的确很闲",
+              "group": "6月21日"
+            },
+            {
+              "id": "step_nerine_07",
+              "type": "choice",
+              "content": "和枫一起回去",
+              "group": "6月23日"
+            },
+            {
+              "id": "step_nerine_08",
+              "type": "choice",
+              "content": "迅速回家",
+              "group": "4月24日"
+            },
+            {
+              "id": "step_nerine_09",
+              "type": "choice",
+              "content": "给普莉姆拉买点什么……",
+              "group": "7月4日"
+            }
+          ]
+        },
+        {
+          "id": "ending_kaede_end",
+          "name": "枫 END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_kaede_01",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_kaede_02",
+              "type": "choice",
+              "content": "枫",
+              "group": "6月16日"
+            },
+            {
+              "id": "step_kaede_03",
+              "type": "choice",
+              "content": "接受普莉姆拉",
+              "group": "6月20日"
+            },
+            {
+              "id": "step_kaede_04",
+              "type": "save",
+              "content": "SAVE 4",
+              "group": "6月21日"
+            },
+            {
+              "id": "step_kaede_05",
+              "type": "choice",
+              "content": "有其他事",
+              "group": "6月21日"
+            },
+            {
+              "id": "step_kaede_06",
+              "type": "choice",
+              "content": "枫的话是没问题的",
+              "group": "6月21日"
+            },
+            {
+              "id": "step_kaede_07",
+              "type": "choice",
+              "content": "和枫一起回去",
+              "group": "6月23日"
+            },
+            {
+              "id": "step_kaede_08",
+              "type": "choice",
+              "content": "迅速回家",
+              "group": "6月24日"
+            },
+            {
+              "id": "step_kaede_09",
+              "type": "choice",
+              "content": "正好买点东西",
+              "group": "7月4日"
+            }
+          ]
+        },
+        {
+          "id": "ending_kaede_cg_end",
+          "name": "枫 END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_kaede_cg_01",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_kaede_cg_02",
+              "type": "choice",
+              "content": "确实很闲",
+              "group": "6月21日"
+            },
+            {
+              "id": "step_kaede_cg_03",
+              "type": "choice",
+              "content": "和枫一起回去",
+              "group": "6月23日"
+            },
+            {
+              "id": "step_kaede_cg_04",
+              "type": "choice",
+              "content": "再看一下风景",
+              "group": "6月24日"
+            },
+            {
+              "id": "step_kaede_cg_05",
+              "type": "choice",
+              "content": "给普莉姆拉买点什么……",
+              "group": "7月4日"
+            }
+          ]
+        },
+        {
+          "id": "ending_primula_end",
+          "name": "普莉姆拉 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_primula_01",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_primula_02",
+              "type": "choice",
+              "content": "其他人",
+              "group": "6月16日"
+            },
+            {
+              "id": "step_primula_03",
+              "type": "save",
+              "content": "SAVE 5",
+              "group": "6月20日"
+            },
+            {
+              "id": "step_primula_04",
+              "type": "choice",
+              "content": "接受普莉姆拉",
+              "group": "6月20日"
+            },
+            {
+              "id": "step_primula_05",
+              "type": "choice",
+              "content": "有其他事",
+              "group": "6月21日"
+            },
+            {
+              "id": "step_primula_06",
+              "type": "choice",
+              "content": "可别受伤了哦",
+              "group": "6月21日"
+            },
+            {
+              "id": "step_primula_07",
+              "type": "choice",
+              "content": "和枫一起回去",
+              "group": "6月23日"
+            },
+            {
+              "id": "step_primula_08",
+              "type": "choice",
+              "content": "迅速回家",
+              "group": "6月24日"
+            },
+            {
+              "id": "step_primula_09",
+              "type": "choice",
+              "content": "给普莉姆拉买点什么……",
+              "group": "7月4日"
+            }
+          ]
+        },
+        {
+          "id": "ending_asa_end",
+          "name": "亚沙 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_asa_01",
+              "type": "load",
+              "content": "LOAD 5"
+            },
+            {
+              "id": "step_asa_02",
+              "type": "choice",
+              "content": "不接受普莉姆拉",
+              "group": "6月20日"
+            },
+            {
+              "id": "step_asa_03",
+              "type": "choice",
+              "content": "有其他事",
+              "group": "6月21日"
+            },
+            {
+              "id": "step_asa_04",
+              "type": "choice",
+              "content": "要叫亚沙学姐吗？",
+              "group": "6月21日"
+            },
+            {
+              "id": "step_asa_05",
+              "type": "choice",
+              "content": "和其他朋友回去",
+              "group": "6月23日"
+            },
+            {
+              "id": "step_asa_06",
+              "type": "choice",
+              "content": "迅速回家",
+              "group": "6月24日"
+            },
+            {
+              "id": "step_asa_07",
+              "type": "choice",
+              "content": "正好买点东西",
+              "group": "7月4日"
+            },
+            {
+              "id": "step_asa_08",
+              "type": "choice",
+              "content": "上衣/裙子",
+              "group": "8月2日"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

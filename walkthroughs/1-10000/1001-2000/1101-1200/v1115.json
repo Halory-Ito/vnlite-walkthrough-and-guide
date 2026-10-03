@@ -1,0 +1,1523 @@
+{
+  "vid": "v1115",
+  "name": {
+    "zh-cn": "繁花落舞恋如樱",
+    "ja-jp": "それは舞い散る桜のように",
+    "ja-Latn": "sore-wa-maichiru-sakura-no-you-ni"
+  },
+  "level": 2,
+  "updatedAt": "2026-04-06",
+  "routes": [
+    {
+      "id": "route_main",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_hoshizaki",
+          "name": "星崎希望 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_01",
+              "type": "choice",
+              "content": "作壁上观",
+              "group": "4月7日"
+            },
+            {
+              "id": "step_02",
+              "type": "choice",
+              "content": "恭敬不如从命",
+              "group": "4月7日"
+            },
+            {
+              "id": "step_03",
+              "type": "choice",
+              "content": "在最后时刻，就促膝长谈一次吧",
+              "group": "4月8日"
+            },
+            {
+              "id": "step_04",
+              "type": "choice",
+              "content": "姑且带着她离开",
+              "group": "4月8日"
+            },
+            {
+              "id": "step_05",
+              "type": "choice",
+              "content": "与青叶共进退",
+              "group": "4月9日"
+            },
+            {
+              "id": "step_06",
+              "type": "choice",
+              "content": "称赞",
+              "group": "4月9日"
+            },
+            {
+              "id": "step_07",
+              "type": "choice",
+              "content": "去樱花大道",
+              "group": "4月9日"
+            },
+            {
+              "id": "step_08",
+              "type": "choice",
+              "content": "随便把她打发走",
+              "group": "4月9日"
+            },
+            {
+              "id": "step_09",
+              "type": "choice",
+              "content": "接受她的邀请",
+              "group": "4月10日"
+            },
+            {
+              "id": "step_10",
+              "type": "choice",
+              "content": "等她",
+              "group": "4月10日"
+            },
+            {
+              "id": "step_11",
+              "type": "choice",
+              "content": "随山彦的选择",
+              "group": "4月10日"
+            },
+            {
+              "id": "step_12",
+              "type": "choice",
+              "content": "我周日很忙",
+              "group": "4月10日"
+            },
+            {
+              "id": "step_13",
+              "type": "choice",
+              "content": "自己去图书室",
+              "group": "4月13日"
+            },
+            {
+              "id": "step_14",
+              "type": "choice",
+              "content": "跟雪村打招呼",
+              "group": "4月13日"
+            },
+            {
+              "id": "step_15",
+              "type": "choice",
+              "content": "出门吧",
+              "group": "4月14日"
+            },
+            {
+              "id": "step_16",
+              "type": "choice",
+              "content": "没在做兼职",
+              "group": "4月15日"
+            },
+            {
+              "id": "step_17",
+              "type": "choice",
+              "content": "当然会去",
+              "group": "4月15日"
+            },
+            {
+              "id": "step_18",
+              "type": "choice",
+              "content": "算是吧",
+              "group": "4月18日"
+            },
+            {
+              "id": "step_19",
+              "type": "choice",
+              "content": "岔开话题",
+              "group": "4月20日"
+            },
+            {
+              "id": "step_20",
+              "type": "choice",
+              "content": "使出必杀无声驱逐术",
+              "group": "4月20日"
+            },
+            {
+              "id": "step_21",
+              "type": "choice",
+              "content": "和山彦一起去咖啡店",
+              "group": "4月21日"
+            },
+            {
+              "id": "step_22",
+              "type": "choice",
+              "content": "老实认输",
+              "group": "4月24日"
+            },
+            {
+              "id": "step_23",
+              "type": "choice",
+              "content": "不，吃个可丽饼吧",
+              "group": "4月28日"
+            },
+            {
+              "id": "step_24",
+              "type": "choice",
+              "content": "陪他们去",
+              "group": "5月2日"
+            },
+            {
+              "id": "step_25",
+              "type": "choice",
+              "content": "向她们搭话",
+              "group": "5月6日"
+            },
+            {
+              "id": "step_26",
+              "type": "choice",
+              "content": "忘记刚才的情景",
+              "group": "5月10日"
+            },
+            {
+              "id": "step_27",
+              "type": "choice",
+              "content": "团结",
+              "group": "5月14日"
+            },
+            {
+              "id": "step_28",
+              "type": "choice",
+              "content": "是喜欢吧？",
+              "group": "5月14日"
+            },
+            {
+              "id": "step_29",
+              "type": "choice",
+              "content": "是什么呢？",
+              "group": "5月18日"
+            },
+            {
+              "id": "step_30",
+              "type": "choice",
+              "content": "找个理由告辞",
+              "group": "5月22日"
+            },
+            {
+              "id": "step_31",
+              "type": "choice",
+              "content": "我喜欢她啊",
+              "group": "5月22日"
+            },
+            {
+              "id": "step_32",
+              "type": "choice",
+              "content": "那就外出吧",
+              "group": "5月26日"
+            },
+            {
+              "id": "step_33",
+              "type": "choice",
+              "content": "给星崎打怪声电话",
+              "group": "5月26日"
+            },
+            {
+              "id": "step_34",
+              "type": "choice",
+              "content": "看上去更幼稚了",
+              "group": "5月29日"
+            },
+            {
+              "id": "step_35",
+              "type": "choice",
+              "content": "那就拜托了",
+              "group": "6月1日"
+            },
+            {
+              "id": "step_36",
+              "type": "choice",
+              "content": "给你个教我的机会",
+              "group": "6月1日"
+            },
+            {
+              "id": "step_37",
+              "type": "choice",
+              "content": "为她庆祝",
+              "group": "6月2日"
+            },
+            {
+              "id": "step_38",
+              "type": "choice",
+              "content": "肯定很适合你",
+              "group": "6月2日"
+            },
+            {
+              "id": "step_39",
+              "type": "choice",
+              "content": "进去打发时间",
+              "group": "6月2日"
+            },
+            {
+              "id": "step_40",
+              "type": "choice",
+              "content": "去看看情况",
+              "group": "6月6日"
+            },
+            {
+              "id": "step_41",
+              "type": "choice",
+              "content": "捉弄她",
+              "group": "6月11日"
+            },
+            {
+              "id": "step_42",
+              "type": "choice",
+              "content": "传统的纳凉方式",
+              "group": "6月16日"
+            },
+            {
+              "id": "step_43",
+              "type": "choice",
+              "content": "没有夸你",
+              "group": "6月16日"
+            },
+            {
+              "id": "step_44",
+              "type": "choice",
+              "content": "关照她小心点",
+              "group": "6月16日"
+            },
+            {
+              "id": "step_45",
+              "type": "choice",
+              "content": "有一点点",
+              "group": "6月17日"
+            },
+            {
+              "id": "step_46",
+              "type": "choice",
+              "content": "和星崎一起回去",
+              "group": "6月22日"
+            },
+            {
+              "id": "step_47",
+              "type": "choice",
+              "content": "我喜欢长的",
+              "group": "6月24日"
+            },
+            {
+              "id": "step_48",
+              "type": "choice",
+              "content": "阻止她离去",
+              "group": "8月11日"
+            }
+          ]
+        },
+        {
+          "id": "ending_yukimura",
+          "name": "雪村小町 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_01_1",
+              "type": "choice",
+              "content": "作壁上观",
+              "group": "4月7日"
+            },
+            {
+              "id": "step_02_1",
+              "type": "choice",
+              "content": "恭敬不如从命",
+              "group": "4月7日"
+            },
+            {
+              "id": "step_03_1",
+              "type": "choice",
+              "content": "在最后时刻，就促膝长谈一次吧",
+              "group": "4月8日"
+            },
+            {
+              "id": "step_04_1",
+              "type": "choice",
+              "content": "姑且带着她离开",
+              "group": "4月8日"
+            },
+            {
+              "id": "step_05_1",
+              "type": "choice",
+              "content": "与青叶共进退",
+              "group": "4月9日"
+            },
+            {
+              "id": "step_06_1",
+              "type": "choice",
+              "content": "称赞",
+              "group": "4月9日"
+            },
+            {
+              "id": "step_07_1",
+              "type": "choice",
+              "content": "去樱花大道",
+              "group": "4月9日"
+            },
+            {
+              "id": "step_08_1",
+              "type": "choice",
+              "content": "随便把她打发走",
+              "group": "4月9日"
+            },
+            {
+              "id": "step_09_1",
+              "type": "choice",
+              "content": "接受她的邀请",
+              "group": "4月10日"
+            },
+            {
+              "id": "step_10_1",
+              "type": "choice",
+              "content": "等她",
+              "group": "4月10日"
+            },
+            {
+              "id": "step_11_1",
+              "type": "choice",
+              "content": "随山彦的选择",
+              "group": "4月10日"
+            },
+            {
+              "id": "step_12_1",
+              "type": "choice",
+              "content": "我周日很忙",
+              "group": "4月10日"
+            },
+            {
+              "id": "step_13_1",
+              "type": "choice",
+              "content": "自己去图书室",
+              "group": "4月13日"
+            },
+            {
+              "id": "step_14_1",
+              "type": "choice",
+              "content": "跟雪村打招呼",
+              "group": "4月13日"
+            },
+            {
+              "id": "step_15_1",
+              "type": "choice",
+              "content": "出门吧",
+              "group": "4月14日"
+            },
+            {
+              "id": "step_16_1",
+              "type": "choice",
+              "content": "没在做兼职",
+              "group": "4月15日"
+            },
+            {
+              "id": "step_17_1",
+              "type": "choice",
+              "content": "当然会去",
+              "group": "4月15日"
+            },
+            {
+              "id": "step_18_1",
+              "type": "choice",
+              "content": "算是吧",
+              "group": "4月18日"
+            },
+            {
+              "id": "step_19_1",
+              "type": "choice",
+              "content": "岔开话题",
+              "group": "4月20日"
+            },
+            {
+              "id": "step_20_1",
+              "type": "choice",
+              "content": "使出必杀无声驱逐术",
+              "group": "4月20日"
+            },
+            {
+              "id": "step_21_1",
+              "type": "choice",
+              "content": "和山彦一起去咖啡店",
+              "group": "4月21日"
+            },
+            {
+              "id": "step_22_1",
+              "type": "choice",
+              "content": "老实认输",
+              "group": "4月24日"
+            },
+            {
+              "id": "step_23_1",
+              "type": "choice",
+              "content": "不，吃个可丽饼吧",
+              "group": "4月28日"
+            },
+            {
+              "id": "step_24_1",
+              "type": "choice",
+              "content": "陪他们去",
+              "group": "5月2日"
+            },
+            {
+              "id": "step_25_1",
+              "type": "choice",
+              "content": "向她们搭话",
+              "group": "5月6日"
+            },
+            {
+              "id": "step_26_1",
+              "type": "choice",
+              "content": "忘记刚才的情景",
+              "group": "5月10日"
+            },
+            {
+              "id": "step_27_1",
+              "type": "choice",
+              "content": "团结",
+              "group": "5月14日"
+            },
+            {
+              "id": "step_28_1",
+              "type": "choice",
+              "content": "是喜欢吧？",
+              "group": "5月14日"
+            },
+            {
+              "id": "step_29_1",
+              "type": "choice",
+              "content": "是什么呢？",
+              "group": "5月18日"
+            },
+            {
+              "id": "step_30_1",
+              "type": "choice",
+              "content": "找个理由告辞",
+              "group": "5月22日"
+            },
+            {
+              "id": "step_31_1",
+              "type": "choice",
+              "content": "我喜欢她啊",
+              "group": "5月22日"
+            },
+            {
+              "id": "step_32_1",
+              "type": "choice",
+              "content": "那就洗衣服吧",
+              "group": "5月26日"
+            },
+            {
+              "id": "step_33_1",
+              "type": "choice",
+              "content": "看上去更成熟了",
+              "group": "5月29日"
+            },
+            {
+              "id": "step_34_1",
+              "type": "choice",
+              "content": "那就拜托了",
+              "group": "6月1日"
+            },
+            {
+              "id": "step_35_1",
+              "type": "choice",
+              "content": "请教教我",
+              "group": "6月1日"
+            },
+            {
+              "id": "step_36_1",
+              "type": "choice",
+              "content": "为她庆祝",
+              "group": "6月2日"
+            },
+            {
+              "id": "step_37_1",
+              "type": "choice",
+              "content": "肯定很适合你",
+              "group": "6月2日"
+            },
+            {
+              "id": "step_38_1",
+              "type": "choice",
+              "content": "现在没这闲工夫",
+              "group": "6月2日"
+            },
+            {
+              "id": "step_39_1",
+              "type": "choice",
+              "content": "发短信催他",
+              "group": "6月6日"
+            },
+            {
+              "id": "step_40_1",
+              "type": "choice",
+              "content": "捉弄她",
+              "group": "6月11日"
+            },
+            {
+              "id": "step_41_1",
+              "type": "choice",
+              "content": "传统的纳凉方式",
+              "group": "6月16日"
+            },
+            {
+              "id": "step_42_1",
+              "type": "choice",
+              "content": "是在夸你",
+              "group": "6月16日"
+            },
+            {
+              "id": "step_43_1",
+              "type": "choice",
+              "content": "关照她小心点",
+              "group": "6月16日"
+            },
+            {
+              "id": "step_44_1",
+              "type": "choice",
+              "content": "有一点点",
+              "group": "6月17日"
+            },
+            {
+              "id": "step_45_1",
+              "type": "choice",
+              "content": "老老实实地道谢",
+              "group": "6月22日"
+            },
+            {
+              "id": "step_46_1",
+              "type": "choice",
+              "content": "随你便吧",
+              "group": "6月24日"
+            },
+            {
+              "id": "step_47_1",
+              "type": "choice",
+              "content": "我喜欢短的",
+              "group": "6月24日"
+            },
+            {
+              "id": "step_48_1",
+              "type": "choice",
+              "content": "同意在自家吃",
+              "group": "7月6日"
+            },
+            {
+              "id": "step_49",
+              "type": "choice",
+              "content": "我生待明日，万事成蹉跎",
+              "group": "7月19日"
+            },
+            {
+              "id": "step_50",
+              "type": "choice",
+              "content": "陪他玩玩",
+              "group": "8月9日"
+            },
+            {
+              "id": "step_51",
+              "type": "choice",
+              "content": "给雪村打电话",
+              "group": "8月26日"
+            },
+            {
+              "id": "step_52",
+              "type": "choice",
+              "content": "参合进去",
+              "group": "9月8日"
+            }
+          ]
+        },
+        {
+          "id": "ending_yagasaki",
+          "name": "八重樫翼 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_01_2",
+              "type": "choice",
+              "content": "作壁上观",
+              "group": "4月7日"
+            },
+            {
+              "id": "step_02_2",
+              "type": "choice",
+              "content": "恭敬不如从命",
+              "group": "4月7日"
+            },
+            {
+              "id": "step_03_2",
+              "type": "choice",
+              "content": "在最后时刻，就促膝长谈一次吧",
+              "group": "4月8日"
+            },
+            {
+              "id": "step_04_2",
+              "type": "choice",
+              "content": "姑且带着她离开",
+              "group": "4月8日"
+            },
+            {
+              "id": "step_05_2",
+              "type": "choice",
+              "content": "与青叶共进退",
+              "group": "4月9日"
+            },
+            {
+              "id": "step_06_2",
+              "type": "choice",
+              "content": "称赞",
+              "group": "4月9日"
+            },
+            {
+              "id": "step_07_2",
+              "type": "choice",
+              "content": "去樱花大道",
+              "group": "4月9日"
+            },
+            {
+              "id": "step_08_2",
+              "type": "choice",
+              "content": "随便把她打发走",
+              "group": "4月9日"
+            },
+            {
+              "id": "step_09_2",
+              "type": "choice",
+              "content": "接受她的邀请",
+              "group": "4月10日"
+            },
+            {
+              "id": "step_10_2",
+              "type": "choice",
+              "content": "等她",
+              "group": "4月10日"
+            },
+            {
+              "id": "step_11_2",
+              "type": "choice",
+              "content": "随山彦的选择",
+              "group": "4月10日"
+            },
+            {
+              "id": "step_12_2",
+              "type": "choice",
+              "content": "我周日很忙",
+              "group": "4月10日"
+            },
+            {
+              "id": "step_13_2",
+              "type": "choice",
+              "content": "自己去图书室",
+              "group": "4月13日"
+            },
+            {
+              "id": "step_14_2",
+              "type": "choice",
+              "content": "跟雪村打招呼",
+              "group": "4月13日"
+            },
+            {
+              "id": "step_15_2",
+              "type": "choice",
+              "content": "出门吧",
+              "group": "4月14日"
+            },
+            {
+              "id": "step_16_2",
+              "type": "choice",
+              "content": "没在做兼职",
+              "group": "4月15日"
+            },
+            {
+              "id": "step_17_2",
+              "type": "choice",
+              "content": "当然会去",
+              "group": "4月15日"
+            },
+            {
+              "id": "step_18_2",
+              "type": "choice",
+              "content": "算是吧",
+              "group": "4月18日"
+            },
+            {
+              "id": "step_19_2",
+              "type": "choice",
+              "content": "岔开话题",
+              "group": "4月20日"
+            },
+            {
+              "id": "step_20_2",
+              "type": "choice",
+              "content": "使出必杀无声驱逐术",
+              "group": "4月20日"
+            },
+            {
+              "id": "step_21_2",
+              "type": "choice",
+              "content": "和山彦一起去咖啡店",
+              "group": "4月21日"
+            },
+            {
+              "id": "step_22_2",
+              "type": "choice",
+              "content": "老实认输",
+              "group": "4月24日"
+            },
+            {
+              "id": "step_23_2",
+              "type": "choice",
+              "content": "不，吃个可丽饼吧",
+              "group": "4月28日"
+            },
+            {
+              "id": "step_24_2",
+              "type": "choice",
+              "content": "陪他们去",
+              "group": "5月2日"
+            },
+            {
+              "id": "step_25_2",
+              "type": "choice",
+              "content": "向她们搭话",
+              "group": "5月6日"
+            },
+            {
+              "id": "step_26_2",
+              "type": "choice",
+              "content": "忘记刚才的情景",
+              "group": "5月10日"
+            },
+            {
+              "id": "step_27_2",
+              "type": "choice",
+              "content": "团结",
+              "group": "5月14日"
+            },
+            {
+              "id": "step_28_2",
+              "type": "choice",
+              "content": "是喜欢吧？",
+              "group": "5月14日"
+            },
+            {
+              "id": "step_29_2",
+              "type": "choice",
+              "content": "是什么呢？",
+              "group": "5月18日"
+            },
+            {
+              "id": "step_30_2",
+              "type": "choice",
+              "content": "找个理由告辞",
+              "group": "5月22日"
+            },
+            {
+              "id": "step_31_2",
+              "type": "choice",
+              "content": "我喜欢她啊",
+              "group": "5月22日"
+            },
+            {
+              "id": "step_32_2",
+              "type": "choice",
+              "content": "那就洗衣服吧",
+              "group": "5月26日"
+            },
+            {
+              "id": "step_33_2",
+              "type": "choice",
+              "content": "看上去更成熟了",
+              "group": "5月29日"
+            },
+            {
+              "id": "step_34_2",
+              "type": "choice",
+              "content": "那就拜托了",
+              "group": "6月1日"
+            },
+            {
+              "id": "step_35_2",
+              "type": "choice",
+              "content": "请教教我",
+              "group": "6月1日"
+            },
+            {
+              "id": "step_36_2",
+              "type": "choice",
+              "content": "为她庆祝",
+              "group": "6月2日"
+            },
+            {
+              "id": "step_37_2",
+              "type": "choice",
+              "content": "肯定很适合你",
+              "group": "6月2日"
+            },
+            {
+              "id": "step_38_2",
+              "type": "choice",
+              "content": "现在没这闲工夫",
+              "group": "6月2日"
+            },
+            {
+              "id": "step_39_2",
+              "type": "choice",
+              "content": "发短信催他",
+              "group": "6月6日"
+            },
+            {
+              "id": "step_40_2",
+              "type": "choice",
+              "content": "捉弄她",
+              "group": "6月11日"
+            },
+            {
+              "id": "step_41_2",
+              "type": "choice",
+              "content": "年轻人的纳凉方式",
+              "group": "6月16日"
+            },
+            {
+              "id": "step_42_2",
+              "type": "choice",
+              "content": "关照她小心点",
+              "group": "6月16日"
+            },
+            {
+              "id": "step_43_2",
+              "type": "choice",
+              "content": "没有问题",
+              "group": "6月17日"
+            },
+            {
+              "id": "step_44_2",
+              "type": "choice",
+              "content": "鼓励八重樫",
+              "group": "6月22日"
+            },
+            {
+              "id": "step_45_2",
+              "type": "choice",
+              "content": "我喜欢短的",
+              "group": "6月24日"
+            },
+            {
+              "id": "step_46_2",
+              "type": "choice",
+              "content": "横穿操场",
+              "group": "7月6日"
+            },
+            {
+              "id": "step_47_2",
+              "type": "choice",
+              "content": "一天而已，不要紧",
+              "group": "7月19日"
+            }
+          ]
+        },
+        {
+          "id": "ending_satomi",
+          "name": "里见小玉 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_01_3",
+              "type": "choice",
+              "content": "作壁上观",
+              "group": "4月7日"
+            },
+            {
+              "id": "step_02_3",
+              "type": "choice",
+              "content": "恭敬不如从命",
+              "group": "4月7日"
+            },
+            {
+              "id": "step_03_3",
+              "type": "choice",
+              "content": "在最后时刻，就促膝长谈一次吧",
+              "group": "4月8日"
+            },
+            {
+              "id": "step_04_3",
+              "type": "choice",
+              "content": "姑且带着她离开",
+              "group": "4月8日"
+            },
+            {
+              "id": "step_05_3",
+              "type": "choice",
+              "content": "与青叶共进退",
+              "group": "4月9日"
+            },
+            {
+              "id": "step_06_3",
+              "type": "choice",
+              "content": "称赞",
+              "group": "4月9日"
+            },
+            {
+              "id": "step_07_3",
+              "type": "choice",
+              "content": "去樱花大道",
+              "group": "4月9日"
+            },
+            {
+              "id": "step_08_3",
+              "type": "choice",
+              "content": "随便把她打发走",
+              "group": "4月9日"
+            },
+            {
+              "id": "step_09_3",
+              "type": "choice",
+              "content": "接受她的邀请",
+              "group": "4月10日"
+            },
+            {
+              "id": "step_10_3",
+              "type": "choice",
+              "content": "等她",
+              "group": "4月10日"
+            },
+            {
+              "id": "step_11_3",
+              "type": "choice",
+              "content": "随山彦的选择",
+              "group": "4月10日"
+            },
+            {
+              "id": "step_12_3",
+              "type": "choice",
+              "content": "我周日很忙",
+              "group": "4月10日"
+            },
+            {
+              "id": "step_13_3",
+              "type": "choice",
+              "content": "自己去图书室",
+              "group": "4月13日"
+            },
+            {
+              "id": "step_14_3",
+              "type": "choice",
+              "content": "跟雪村打招呼",
+              "group": "4月13日"
+            },
+            {
+              "id": "step_15_3",
+              "type": "choice",
+              "content": "出门吧",
+              "group": "4月14日"
+            },
+            {
+              "id": "step_16_3",
+              "type": "choice",
+              "content": "没在做兼职",
+              "group": "4月15日"
+            },
+            {
+              "id": "step_17_3",
+              "type": "choice",
+              "content": "当然会去",
+              "group": "4月15日"
+            },
+            {
+              "id": "step_18_3",
+              "type": "choice",
+              "content": "算是吧",
+              "group": "4月18日"
+            },
+            {
+              "id": "step_19_3",
+              "type": "choice",
+              "content": "岔开话题",
+              "group": "4月20日"
+            },
+            {
+              "id": "step_20_3",
+              "type": "choice",
+              "content": "使出必杀无声驱逐术",
+              "group": "4月20日"
+            },
+            {
+              "id": "step_21_3",
+              "type": "choice",
+              "content": "和山彦一起去咖啡店",
+              "group": "4月21日"
+            },
+            {
+              "id": "step_22_3",
+              "type": "choice",
+              "content": "老实认输",
+              "group": "4月24日"
+            },
+            {
+              "id": "step_23_3",
+              "type": "choice",
+              "content": "不，吃个可丽饼吧",
+              "group": "4月28日"
+            },
+            {
+              "id": "step_24_3",
+              "type": "choice",
+              "content": "陪他们去",
+              "group": "5月2日"
+            },
+            {
+              "id": "step_25_3",
+              "type": "choice",
+              "content": "向她们搭话",
+              "group": "5月6日"
+            },
+            {
+              "id": "step_26_3",
+              "type": "choice",
+              "content": "忘记刚才的情景",
+              "group": "5月10日"
+            },
+            {
+              "id": "step_27_3",
+              "type": "choice",
+              "content": "团结",
+              "group": "5月14日"
+            },
+            {
+              "id": "step_28_3",
+              "type": "choice",
+              "content": "是喜欢吧？",
+              "group": "5月14日"
+            },
+            {
+              "id": "step_29_3",
+              "type": "choice",
+              "content": "是什么呢？",
+              "group": "5月18日"
+            },
+            {
+              "id": "step_30_3",
+              "type": "choice",
+              "content": "找个理由告辞",
+              "group": "5月22日"
+            },
+            {
+              "id": "step_31_3",
+              "type": "choice",
+              "content": "我喜欢她啊",
+              "group": "5月22日"
+            },
+            {
+              "id": "step_32_3",
+              "type": "choice",
+              "content": "那就洗衣服吧",
+              "group": "5月26日"
+            },
+            {
+              "id": "step_33_3",
+              "type": "choice",
+              "content": "看上去更成熟了",
+              "group": "5月29日"
+            },
+            {
+              "id": "step_34_3",
+              "type": "choice",
+              "content": "那就拜托了",
+              "group": "6月1日"
+            },
+            {
+              "id": "step_35_3",
+              "type": "choice",
+              "content": "请教教我",
+              "group": "6月1日"
+            },
+            {
+              "id": "step_36_3",
+              "type": "choice",
+              "content": "为她庆祝",
+              "group": "6月2日"
+            },
+            {
+              "id": "step_37_3",
+              "type": "choice",
+              "content": "肯定很适合你",
+              "group": "6月2日"
+            },
+            {
+              "id": "step_38_3",
+              "type": "choice",
+              "content": "现在没这闲工夫",
+              "group": "6月2日"
+            },
+            {
+              "id": "step_39_3",
+              "type": "choice",
+              "content": "发短信催他",
+              "group": "6月6日"
+            },
+            {
+              "id": "step_40_3",
+              "type": "choice",
+              "content": "安慰她",
+              "group": "6月11日"
+            },
+            {
+              "id": "step_41_3",
+              "type": "choice",
+              "content": "传统的纳凉方式",
+              "group": "6月16日"
+            },
+            {
+              "id": "step_42_3",
+              "type": "choice",
+              "content": "没有夸你",
+              "group": "6月16日"
+            },
+            {
+              "id": "step_43_3",
+              "type": "choice",
+              "content": "关照她小心点",
+              "group": "6月16日"
+            },
+            {
+              "id": "step_44_3",
+              "type": "choice",
+              "content": "没有问题",
+              "group": "6月17日"
+            },
+            {
+              "id": "step_45_3",
+              "type": "choice",
+              "content": "帮她撑开",
+              "group": "6月22日"
+            },
+            {
+              "id": "step_46_3",
+              "type": "choice",
+              "content": "我喜欢短的",
+              "group": "6月24日"
+            },
+            {
+              "id": "step_47_3",
+              "type": "choice",
+              "content": "努力读下去",
+              "group": "6月29日"
+            },
+            {
+              "id": "step_48_2",
+              "type": "choice",
+              "content": "一天而已，不要紧",
+              "group": "7月19日"
+            },
+            {
+              "id": "step_49_1",
+              "type": "choice",
+              "content": "承认",
+              "group": "8月5日"
+            }
+          ]
+        },
+        {
+          "id": "ending_mori",
+          "name": "森青叶 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_01_4",
+              "type": "choice",
+              "content": "作壁上观",
+              "group": "4月7日"
+            },
+            {
+              "id": "step_02_4",
+              "type": "choice",
+              "content": "恭敬不如从命",
+              "group": "4月7日"
+            },
+            {
+              "id": "step_03_4",
+              "type": "choice",
+              "content": "在最后时刻，就促膝长谈一次吧",
+              "group": "4月8日"
+            },
+            {
+              "id": "step_04_4",
+              "type": "choice",
+              "content": "姑且带着她离开",
+              "group": "4月8日"
+            },
+            {
+              "id": "step_05_4",
+              "type": "choice",
+              "content": "与青叶共进退",
+              "group": "4月9日"
+            },
+            {
+              "id": "step_06_4",
+              "type": "choice",
+              "content": "称赞",
+              "group": "4月9日"
+            },
+            {
+              "id": "step_07_4",
+              "type": "choice",
+              "content": "去樱花大道",
+              "group": "4月9日"
+            },
+            {
+              "id": "step_08_4",
+              "type": "choice",
+              "content": "随便把她打发走",
+              "group": "4月9日"
+            },
+            {
+              "id": "step_09_4",
+              "type": "choice",
+              "content": "接受她的邀请",
+              "group": "4月10日"
+            },
+            {
+              "id": "step_10_4",
+              "type": "choice",
+              "content": "等她",
+              "group": "4月10日"
+            },
+            {
+              "id": "step_11_4",
+              "type": "choice",
+              "content": "随山彦的选择",
+              "group": "4月10日"
+            },
+            {
+              "id": "step_12_4",
+              "type": "choice",
+              "content": "我周日很忙",
+              "group": "4月10日"
+            },
+            {
+              "id": "step_13_4",
+              "type": "choice",
+              "content": "自己去图书室",
+              "group": "4月13日"
+            },
+            {
+              "id": "step_14_4",
+              "type": "choice",
+              "content": "跟雪村打招呼",
+              "group": "4月13日"
+            },
+            {
+              "id": "step_15_4",
+              "type": "choice",
+              "content": "出门吧",
+              "group": "4月14日"
+            },
+            {
+              "id": "step_16_4",
+              "type": "choice",
+              "content": "没在做兼职",
+              "group": "4月15日"
+            },
+            {
+              "id": "step_17_4",
+              "type": "choice",
+              "content": "当然会去",
+              "group": "4月15日"
+            },
+            {
+              "id": "step_18_4",
+              "type": "choice",
+              "content": "算是吧",
+              "group": "4月18日"
+            },
+            {
+              "id": "step_19_4",
+              "type": "choice",
+              "content": "岔开话题",
+              "group": "4月20日"
+            },
+            {
+              "id": "step_20_4",
+              "type": "choice",
+              "content": "使出必杀无声驱逐术",
+              "group": "4月20日"
+            },
+            {
+              "id": "step_21_4",
+              "type": "choice",
+              "content": "和山彦一起去咖啡店",
+              "group": "4月21日"
+            },
+            {
+              "id": "step_22_4",
+              "type": "choice",
+              "content": "老实认输",
+              "group": "4月24日"
+            },
+            {
+              "id": "step_23_4",
+              "type": "choice",
+              "content": "不，吃个可丽饼吧",
+              "group": "4月28日"
+            },
+            {
+              "id": "step_24_4",
+              "type": "choice",
+              "content": "陪他们去",
+              "group": "5月2日"
+            },
+            {
+              "id": "step_25_4",
+              "type": "choice",
+              "content": "向她们搭话",
+              "group": "5月6日"
+            },
+            {
+              "id": "step_26_4",
+              "type": "choice",
+              "content": "忘记刚才的情景",
+              "group": "5月10日"
+            },
+            {
+              "id": "step_27_4",
+              "type": "choice",
+              "content": "团结",
+              "group": "5月14日"
+            },
+            {
+              "id": "step_28_4",
+              "type": "choice",
+              "content": "是喜欢吧？",
+              "group": "5月14日"
+            },
+            {
+              "id": "step_29_4",
+              "type": "choice",
+              "content": "是什么呢？",
+              "group": "5月18日"
+            },
+            {
+              "id": "step_30_4",
+              "type": "choice",
+              "content": "找个理由告辞",
+              "group": "5月22日"
+            },
+            {
+              "id": "step_31_4",
+              "type": "choice",
+              "content": "我喜欢她啊",
+              "group": "5月22日"
+            },
+            {
+              "id": "step_32_4",
+              "type": "choice",
+              "content": "那就洗衣服吧",
+              "group": "5月26日"
+            },
+            {
+              "id": "step_33_4",
+              "type": "choice",
+              "content": "看上去更成熟了",
+              "group": "5月29日"
+            },
+            {
+              "id": "step_34_4",
+              "type": "choice",
+              "content": "那就拜托了",
+              "group": "6月1日"
+            },
+            {
+              "id": "step_35_4",
+              "type": "choice",
+              "content": "请教教我",
+              "group": "6月1日"
+            },
+            {
+              "id": "step_36_4",
+              "type": "choice",
+              "content": "为她庆祝",
+              "group": "6月2日"
+            },
+            {
+              "id": "step_37_4",
+              "type": "choice",
+              "content": "肯定很适合你",
+              "group": "6月2日"
+            },
+            {
+              "id": "step_38_4",
+              "type": "choice",
+              "content": "现在没这闲工夫",
+              "group": "6月2日"
+            },
+            {
+              "id": "step_39_4",
+              "type": "choice",
+              "content": "发短信催他",
+              "group": "6月6日"
+            },
+            {
+              "id": "step_40_4",
+              "type": "choice",
+              "content": "捉弄她",
+              "group": "6月11日"
+            },
+            {
+              "id": "step_41_4",
+              "type": "choice",
+              "content": "传统的纳凉方式",
+              "group": "6月16日"
+            },
+            {
+              "id": "step_42_4",
+              "type": "choice",
+              "content": "没有夸你",
+              "group": "6月16日"
+            },
+            {
+              "id": "step_43_4",
+              "type": "choice",
+              "content": "跟她一起去",
+              "group": "6月16日"
+            },
+            {
+              "id": "step_44_4",
+              "type": "choice",
+              "content": "没有问题",
+              "group": "6月17日"
+            },
+            {
+              "id": "step_45_4",
+              "type": "choice",
+              "content": "见好就收",
+              "group": "6月22日"
+            },
+            {
+              "id": "step_46_4",
+              "type": "choice",
+              "content": "我喜欢短的",
+              "group": "6月24日"
+            },
+            {
+              "id": "step_47_4",
+              "type": "choice",
+              "content": "敲敲森家的门",
+              "group": "6月29日"
+            },
+            {
+              "id": "step_48_3",
+              "type": "choice",
+              "content": "选孩子气一点的",
+              "group": "7月11日"
+            },
+            {
+              "id": "step_49_2",
+              "type": "choice",
+              "content": "一天而已，不要紧",
+              "group": "7月19日"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

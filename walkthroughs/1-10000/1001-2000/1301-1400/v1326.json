@@ -1,0 +1,437 @@
+{
+  "vid": "v1326",
+  "name": {
+    "zh-cn": "秋之回忆5 安可",
+    "en-us": "メモリーズオフ#5 encore",
+    "ja-jp": "メモリーズオフ#5 アンコール",
+    "ja-Latn": "memories-off-5-fd"
+  },
+  "level": 1,
+  "updatedAt": "2026-03-25",
+  "tips": [
+    "明日香→麻寻→秋名的通关顺序攻略，秋名路线需先通关明日香或麻寻结局后解锁。"
+  ],
+  "routes": [
+    {
+      "id": "route_memories_off_5_encore",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_asuka_end",
+          "name": "明日香 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_asuka_002",
+              "type": "choice",
+              "content": "那还用说……",
+              "group": "共通篇"
+            },
+            {
+              "id": "step_asuka_003",
+              "type": "choice",
+              "content": "虽然没办法但接受",
+              "group": "共通篇"
+            },
+            {
+              "id": "step_asuka_004",
+              "type": "choice",
+              "content": "帮忙",
+              "group": "共通篇"
+            },
+            {
+              "id": "step_asuka_005",
+              "type": "choice",
+              "content": "不等",
+              "group": "共通篇"
+            },
+            {
+              "id": "step_asuka_006",
+              "type": "choice",
+              "content": "追问麻寻",
+              "group": "共通篇"
+            },
+            {
+              "id": "step_asuka_007",
+              "type": "choice",
+              "content": "只有实在困扰的时候才行",
+              "group": "共通篇"
+            },
+            {
+              "id": "step_asuka_008",
+              "type": "choice",
+              "content": "反对",
+              "group": "共通篇"
+            },
+            {
+              "id": "step_asuka_009",
+              "type": "choice",
+              "content": "先暂时搁置",
+              "group": "共通篇"
+            },
+            {
+              "id": "step_asuka_010",
+              "type": "save",
+              "content": "SAVE 1",
+              "group": "共通篇"
+            },
+            {
+              "id": "step_asuka_011",
+              "type": "choice",
+              "content": "说教春人",
+              "group": "共通篇"
+            },
+            {
+              "id": "step_asuka_012",
+              "type": "choice",
+              "content": "带明日香一起去",
+              "group": "共通篇"
+            },
+            {
+              "id": "step_asuka_013",
+              "type": "choice",
+              "content": "我很高兴。谢谢你",
+              "group": "共通篇"
+            },
+            {
+              "id": "step_asuka_014",
+              "type": "choice",
+              "content": "毛遂自荐",
+              "group": "共通篇"
+            },
+            {
+              "id": "step_asuka_015",
+              "type": "choice",
+              "content": "可以",
+              "group": "共通篇"
+            },
+            {
+              "id": "step_asuka_017",
+              "type": "choice",
+              "content": "确实很可爱",
+              "group": "共通篇"
+            },
+            {
+              "id": "step_asuka_018",
+              "type": "choice",
+              "content": "我明天中午前会回来的",
+              "group": "明日香篇"
+            },
+            {
+              "id": "step_asuka_019",
+              "type": "choice",
+              "content": "慌忙拉开距离",
+              "group": "明日香篇"
+            },
+            {
+              "id": "step_asuka_020",
+              "type": "choice",
+              "content": "明日香的事由我来想办法",
+              "group": "明日香篇"
+            },
+            {
+              "id": "step_asuka_021",
+              "type": "choice",
+              "content": "你是不是不喜欢明日香？",
+              "group": "明日香篇"
+            },
+            {
+              "id": "step_asuka_022",
+              "type": "choice",
+              "content": "叫住她",
+              "group": "明日香篇"
+            },
+            {
+              "id": "step_asuka_023",
+              "type": "choice",
+              "content": "那你就重现给我看看",
+              "group": "明日香篇"
+            },
+            {
+              "id": "step_asuka_024",
+              "type": "choice",
+              "content": "给我更小心地保管啊",
+              "group": "明日香篇"
+            },
+            {
+              "id": "step_asuka_025",
+              "type": "choice",
+              "content": "反抗",
+              "group": "明日香篇"
+            },
+            {
+              "id": "step_asuka_026",
+              "type": "choice",
+              "content": "中止拍摄",
+              "group": "明日香篇"
+            },
+            {
+              "id": "step_asuka_027",
+              "type": "choice",
+              "content": "总之还是先由我来主持比较好",
+              "group": "明日香篇"
+            }
+          ]
+        },
+        {
+          "id": "ending_mahiro_end",
+          "name": "麻寻 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_mahiro_001",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_mahiro_002",
+              "type": "choice",
+              "content": "总之先让他去追麻寻",
+              "group": "共通篇"
+            },
+            {
+              "id": "step_mahiro_003",
+              "type": "save",
+              "content": "SAVE 2",
+              "group": "共通篇"
+            },
+            {
+              "id": "step_mahiro_004",
+              "type": "choice",
+              "content": "带麻寻一起去",
+              "group": "共通篇"
+            },
+            {
+              "id": "step_mahiro_005",
+              "type": "choice",
+              "content": "立刻伸手去拿小盘子",
+              "group": "共通篇"
+            },
+            {
+              "id": "step_mahiro_006",
+              "type": "choice",
+              "content": "你该不会生气了吧？",
+              "group": "共通篇"
+            },
+            {
+              "id": "step_mahiro_007",
+              "type": "choice",
+              "content": "先看看情况",
+              "group": "共通篇"
+            },
+            {
+              "id": "step_mahiro_008",
+              "type": "choice",
+              "content": "驳回",
+              "group": "共通篇"
+            },
+            {
+              "id": "step_mahiro_010",
+              "type": "choice",
+              "content": "石头",
+              "group": "共通篇"
+            },
+            {
+              "id": "step_mahiro_011",
+              "type": "choice",
+              "content": "谢谢你！",
+              "group": "麻寻篇"
+            },
+            {
+              "id": "step_mahiro_012",
+              "type": "choice",
+              "content": "那是在猜谜吗？",
+              "group": "麻寻篇"
+            },
+            {
+              "id": "step_mahiro_013",
+              "type": "choice",
+              "content": "顾不上淋湿继续赶路",
+              "group": "麻寻篇"
+            },
+            {
+              "id": "step_mahiro_014",
+              "type": "choice",
+              "content": "可以",
+              "group": "麻寻篇"
+            },
+            {
+              "id": "step_mahiro_015",
+              "type": "choice",
+              "content": "强行让她闭嘴",
+              "group": "麻寻篇"
+            },
+            {
+              "id": "step_mahiro_016",
+              "type": "choice",
+              "content": "希望明日香能顺利考上大学",
+              "group": "麻寻篇"
+            },
+            {
+              "id": "step_mahiro_017",
+              "type": "choice",
+              "content": "没那回事",
+              "group": "麻寻篇"
+            },
+            {
+              "id": "step_mahiro_018",
+              "type": "choice",
+              "content": "麻寻真有趣啊",
+              "group": "麻寻篇"
+            },
+            {
+              "id": "step_mahiro_019",
+              "type": "choice",
+              "content": "喝",
+              "group": "麻寻篇"
+            },
+            {
+              "id": "step_mahiro_020",
+              "type": "choice",
+              "content": "叫帮手来",
+              "group": "麻寻篇"
+            },
+            {
+              "id": "step_mahiro_021",
+              "type": "choice",
+              "content": "索要离别之吻",
+              "group": "麻寻篇"
+            },
+            {
+              "id": "step_mahiro_022",
+              "type": "choice",
+              "content": "能帮我擦背吗？",
+              "group": "麻寻篇"
+            },
+            {
+              "id": "step_mahiro_023",
+              "type": "choice",
+              "content": "对我再温柔一点",
+              "group": "麻寻篇"
+            },
+            {
+              "id": "step_mahiro_024",
+              "type": "choice",
+              "content": "我在捡磁带",
+              "group": "麻寻篇"
+            },
+            {
+              "id": "step_mahiro_025",
+              "type": "choice",
+              "content": "那边有终极啾啾星人！",
+              "group": "麻寻篇"
+            },
+            {
+              "id": "step_mahiro_026",
+              "type": "choice",
+              "content": "仙辈",
+              "group": "麻寻篇"
+            },
+            {
+              "id": "step_mahiro_027",
+              "type": "choice",
+              "content": "没那回事",
+              "group": "麻寻篇"
+            },
+            {
+              "id": "step_mahiro_028",
+              "type": "choice",
+              "content": "恭喜",
+              "group": "麻寻篇"
+            }
+          ]
+        },
+        {
+          "id": "ending_akina_end",
+          "name": "秋名 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_akina_001",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_akina_002",
+              "type": "choice",
+              "content": "带一条小姐一起去",
+              "group": "共通篇"
+            },
+            {
+              "id": "step_akina_003",
+              "type": "choice",
+              "content": "我觉得试着挑战一下也不错",
+              "group": "共通篇"
+            },
+            {
+              "id": "step_akina_004",
+              "type": "choice",
+              "content": "拜托店员先帮忙留着",
+              "group": "共通篇"
+            },
+            {
+              "id": "step_akina_005",
+              "type": "choice",
+              "content": "毛遂自荐",
+              "group": "共通篇"
+            },
+            {
+              "id": "step_akina_006",
+              "type": "choice",
+              "content": "可以",
+              "group": "共通篇"
+            },
+            {
+              "id": "step_akina_008",
+              "type": "choice",
+              "content": "那件衣服有个重大缺点……",
+              "group": "共通篇"
+            },
+            {
+              "id": "step_akina_009",
+              "type": "choice",
+              "content": "回答一条小姐",
+              "group": "秋名篇"
+            },
+            {
+              "id": "step_akina_010",
+              "type": "choice",
+              "content": "帮她找点事情做",
+              "group": "秋名篇"
+            },
+            {
+              "id": "step_akina_011",
+              "type": "choice",
+              "content": "指出来给她听",
+              "group": "秋名篇"
+            },
+            {
+              "id": "step_akina_012",
+              "type": "choice",
+              "content": "你为什么会变得这么喜欢？",
+              "group": "秋名篇"
+            },
+            {
+              "id": "step_akina_013",
+              "type": "choice",
+              "content": "敷衍说是你想多了",
+              "group": "秋名篇"
+            },
+            {
+              "id": "step_akina_014",
+              "type": "choice",
+              "content": "马上追上去",
+              "group": "秋名篇"
+            },
+            {
+              "id": "step_akina_015",
+              "type": "choice",
+              "content": "附和麻寻",
+              "group": "秋名篇"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

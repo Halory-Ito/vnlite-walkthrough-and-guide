@@ -1,0 +1,3732 @@
+{
+  "vid": "v17012",
+  "name": {
+    "zh-cn": "天之少女",
+    "en-us": "The Shell Part III: Paradiso",
+    "ja-jp": "天ノ少女",
+    "ja-Latn": "kara-no-shoujo-the-last-episode"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-14",
+  "routes": [
+    {
+      "id": "route_tenshi_no_shoujo_prequel",
+      "name": "前日谭",
+      "endings": [
+        {
+          "id": "ending_prequel",
+          "name": "前日谭 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "prequel_step_002",
+              "type": "choice",
+              "content": "新宿站│八木沼了一",
+              "prefix": "●",
+              "group": "2月11日"
+            },
+            {
+              "id": "prequel_step_003",
+              "type": "choice",
+              "content": "遗体的躯体",
+              "group": "2月16日"
+            },
+            {
+              "id": "prequel_step_004",
+              "type": "choice",
+              "content": "遗体的头部",
+              "group": "2月16日"
+            },
+            {
+              "id": "prequel_step_005",
+              "type": "choice",
+              "content": "遗体的胳膊",
+              "group": "2月16日"
+            },
+            {
+              "id": "prequel_step_006",
+              "type": "choice",
+              "content": "遗体的腿",
+              "group": "2月16日"
+            },
+            {
+              "id": "prequel_step_007",
+              "type": "choice",
+              "content": "遗体的羽翼",
+              "group": "2月16日"
+            },
+            {
+              "id": "prequel_step_008",
+              "type": "choice",
+              "content": "血泊",
+              "group": "2月16日"
+            },
+            {
+              "id": "prequel_step_009",
+              "type": "choice",
+              "content": "血泊：左",
+              "group": "2月16日"
+            },
+            {
+              "id": "prequel_step_010",
+              "type": "choice",
+              "content": "绘画道具",
+              "group": "2月16日"
+            },
+            {
+              "id": "prequel_step_011",
+              "type": "choice",
+              "content": "墙角的架子(右侧)",
+              "group": "2月16日"
+            },
+            {
+              "id": "prequel_step_012",
+              "type": "note",
+              "content": "结束搜查",
+              "prefix": "⇒",
+              "subfix": "OK",
+              "group": "2月16日"
+            },
+            {
+              "id": "prequel_step_013",
+              "type": "note",
+              "content": "前日谭剧情结束",
+              "prefix": "※",
+              "group": "2月16日"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_tenshi_no_shoujo",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_one",
+          "name": "END1 消失的线索 BADEND",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "tenshi_step_01_001",
+              "type": "note",
+              "content": "1周目路线"
+            },
+            {
+              "id": "tenshi_step_01_002",
+              "type": "note",
+              "content": "从最初开始"
+            },
+            {
+              "id": "tenshi_step_01_003",
+              "type": "choice",
+              "content": "吉祥寺站│时坂紫",
+              "prefix": "●",
+              "group": "2月20日"
+            },
+            {
+              "id": "tenshi_step_01_004",
+              "type": "choice",
+              "content": "遗体的躯体",
+              "group": "2月21日"
+            },
+            {
+              "id": "tenshi_step_01_005",
+              "type": "choice",
+              "content": "遗体的头部",
+              "group": "2月21日"
+            },
+            {
+              "id": "tenshi_step_01_006",
+              "type": "choice",
+              "content": "遗体的胳膊",
+              "group": "2月21日"
+            },
+            {
+              "id": "tenshi_step_01_007",
+              "type": "choice",
+              "content": "遗体的腿",
+              "group": "2月21日"
+            },
+            {
+              "id": "tenshi_step_01_008",
+              "type": "choice",
+              "content": "遗体的羽翼",
+              "group": "2月21日"
+            },
+            {
+              "id": "tenshi_step_01_009",
+              "type": "choice",
+              "content": "遗体的周围",
+              "group": "2月21日"
+            },
+            {
+              "id": "tenshi_step_01_010",
+              "type": "choice",
+              "content": "地面的雪",
+              "group": "2月21日"
+            },
+            {
+              "id": "tenshi_step_01_011",
+              "type": "note",
+              "content": "结束搜查",
+              "prefix": "⇒",
+              "subfix": "OK",
+              "group": "2月21日"
+            },
+            {
+              "id": "tenshi_step_01_012",
+              "type": "choice",
+              "content": "吉祥寺站│佐东步",
+              "prefix": "●",
+              "group": "2月21日"
+            },
+            {
+              "id": "tenshi_step_01_013",
+              "type": "choice",
+              "content": "吉祥寺站│叶月杏子",
+              "prefix": "●",
+              "group": "2月22日"
+            },
+            {
+              "id": "tenshi_step_01_014",
+              "type": "choice",
+              "content": "吉祥寺站│佐东步",
+              "prefix": "●",
+              "group": "2月23日"
+            },
+            {
+              "id": "tenshi_step_01_015",
+              "type": "choice",
+              "content": "有必要调查",
+              "group": "2月24日"
+            },
+            {
+              "id": "tenshi_step_01_016",
+              "type": "choice",
+              "content": "新宿站│时坂玲人",
+              "prefix": "●",
+              "group": "2月24日"
+            },
+            {
+              "id": "tenshi_step_01_017",
+              "type": "choice",
+              "content": "憎恨壳之少女",
+              "group": "2月25日"
+            },
+            {
+              "id": "tenshi_step_01_018",
+              "type": "choice",
+              "content": "想要收集间宫心像的画作",
+              "group": "2月25日"
+            },
+            {
+              "id": "tenshi_step_01_019",
+              "type": "choice",
+              "content": "是同一个犯人",
+              "group": "2月25日"
+            },
+            {
+              "id": "tenshi_step_01_020",
+              "type": "choice",
+              "content": "没有关联",
+              "group": "2月25日"
+            },
+            {
+              "id": "tenshi_step_01_021",
+              "type": "choice",
+              "content": "遗体的躯体",
+              "group": "2月26日"
+            },
+            {
+              "id": "tenshi_step_01_022",
+              "type": "choice",
+              "content": "遗体的头部",
+              "group": "2月26日"
+            },
+            {
+              "id": "tenshi_step_01_023",
+              "type": "choice",
+              "content": "遗体的胳膊",
+              "group": "2月26日"
+            },
+            {
+              "id": "tenshi_step_01_024",
+              "type": "choice",
+              "content": "遗体的腿",
+              "group": "2月26日"
+            },
+            {
+              "id": "tenshi_step_01_025",
+              "type": "choice",
+              "content": "遗体的羽翼",
+              "group": "2月26日"
+            },
+            {
+              "id": "tenshi_step_01_026",
+              "type": "choice",
+              "content": "遗体的周围(芦苇)",
+              "group": "2月26日"
+            },
+            {
+              "id": "tenshi_step_01_027",
+              "type": "choice",
+              "content": "遗体的周围：左下",
+              "group": "2月26日"
+            },
+            {
+              "id": "tenshi_step_01_028",
+              "type": "note",
+              "content": "结束搜查",
+              "prefix": "⇒",
+              "subfix": "OK",
+              "group": "2月26日"
+            },
+            {
+              "id": "tenshi_step_01_029",
+              "type": "choice",
+              "content": "前园静是在自己家里被袭击的",
+              "group": "2月26日"
+            },
+            {
+              "id": "tenshi_step_01_030",
+              "type": "choice",
+              "content": "笹仓启太",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "2月26日"
+            },
+            {
+              "id": "tenshi_step_01_031",
+              "type": "choice",
+              "content": "前园静想要自杀",
+              "group": "2月26日"
+            },
+            {
+              "id": "tenshi_step_01_032",
+              "type": "choice",
+              "content": "吉祥寺站│佐东步",
+              "prefix": "●",
+              "group": "2月27日"
+            },
+            {
+              "id": "tenshi_step_01_033",
+              "type": "choice",
+              "content": "假设是自杀",
+              "group": "2月28日"
+            },
+            {
+              "id": "tenshi_step_01_034",
+              "type": "choice",
+              "content": "是在自己家里自杀的",
+              "group": "2月28日"
+            },
+            {
+              "id": "tenshi_step_01_035",
+              "type": "choice",
+              "content": "吉祥寺站│叶月杏子",
+              "prefix": "●",
+              "group": "2月28日"
+            },
+            {
+              "id": "tenshi_step_01_036",
+              "type": "choice",
+              "content": "遗体的头部",
+              "group": "3月1日"
+            },
+            {
+              "id": "tenshi_step_01_037",
+              "type": "choice",
+              "content": "遗体的躯体",
+              "group": "3月1日"
+            },
+            {
+              "id": "tenshi_step_01_038",
+              "type": "choice",
+              "content": "遗体的胳膊",
+              "group": "3月1日"
+            },
+            {
+              "id": "tenshi_step_01_039",
+              "type": "choice",
+              "content": "遗体的腿",
+              "group": "3月1日"
+            },
+            {
+              "id": "tenshi_step_01_040",
+              "type": "choice",
+              "content": "遗体的后颈(背后)",
+              "group": "3月1日"
+            },
+            {
+              "id": "tenshi_step_01_041",
+              "type": "choice",
+              "content": "遗体周边的血泊",
+              "group": "3月1日"
+            },
+            {
+              "id": "tenshi_step_01_042",
+              "type": "choice",
+              "content": "右下的菜刀",
+              "group": "3月1日"
+            },
+            {
+              "id": "tenshi_step_01_043",
+              "type": "note",
+              "content": "结束搜查",
+              "prefix": "⇒",
+              "subfix": "OK",
+              "group": "3月1日"
+            },
+            {
+              "id": "tenshi_step_01_044",
+              "type": "choice",
+              "content": "女性",
+              "group": "3月1日"
+            },
+            {
+              "id": "tenshi_step_01_045",
+              "type": "choice",
+              "content": "有关系",
+              "group": "3月1日"
+            },
+            {
+              "id": "tenshi_step_01_046",
+              "type": "choice",
+              "content": "说得通",
+              "group": "3月1日"
+            },
+            {
+              "id": "tenshi_step_01_047",
+              "type": "choice",
+              "content": "没错",
+              "group": "3月1日"
+            },
+            {
+              "id": "tenshi_step_01_048",
+              "type": "choice",
+              "content": "笹仓启太",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "3月1日"
+            },
+            {
+              "id": "tenshi_step_01_049",
+              "type": "choice",
+              "content": "有可能",
+              "group": "3月1日"
+            },
+            {
+              "id": "tenshi_step_01_050",
+              "type": "choice",
+              "content": "前园静还活着",
+              "group": "3月1日"
+            },
+            {
+              "id": "tenshi_step_01_051",
+              "type": "save",
+              "content": "SAVE 1",
+              "prefix": "◆",
+              "group": "3月1日"
+            },
+            {
+              "id": "tenshi_step_01_052",
+              "type": "choice",
+              "content": "新宿",
+              "group": "3月1日"
+            }
+          ]
+        },
+        {
+          "id": "ending_two",
+          "name": "END2 静的罪孽 BADEND",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "tenshi_step_02_001",
+              "type": "load",
+              "content": "LOAD 1",
+              "prefix": "◆"
+            },
+            {
+              "id": "tenshi_step_02_002",
+              "type": "choice",
+              "content": "调布"
+            },
+            {
+              "id": "tenshi_step_02_003",
+              "type": "choice",
+              "content": "静试图自杀"
+            },
+            {
+              "id": "tenshi_step_02_004",
+              "type": "save",
+              "content": "SAVE 2",
+              "prefix": "◆",
+              "group": "3月2日"
+            },
+            {
+              "id": "tenshi_step_02_005",
+              "type": "choice",
+              "content": "静伪造了赝品",
+              "group": "3月2日"
+            }
+          ]
+        },
+        {
+          "id": "ending_three",
+          "name": "END3 合二为一 BADEND",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "tenshi_step_03_001",
+              "type": "load",
+              "content": "LOAD 2",
+              "prefix": "◆"
+            },
+            {
+              "id": "tenshi_step_03_002",
+              "type": "choice",
+              "content": "画廊里的画是真迹"
+            },
+            {
+              "id": "tenshi_step_03_003",
+              "type": "choice",
+              "content": "没杀"
+            },
+            {
+              "id": "tenshi_step_03_004",
+              "type": "choice",
+              "content": "可以指出"
+            },
+            {
+              "id": "tenshi_step_03_005",
+              "type": "choice",
+              "content": "洼井千绘",
+              "prefix": "▼",
+              "subfix": "决定"
+            },
+            {
+              "id": "tenshi_step_03_006",
+              "type": "choice",
+              "content": "杂志",
+              "prefix": "▼",
+              "subfix": "决定"
+            },
+            {
+              "id": "tenshi_step_03_007",
+              "type": "choice",
+              "content": "交给警察",
+              "prefix": "★",
+              "subfix": "１周目不会出现的选项"
+            },
+            {
+              "id": "tenshi_step_03_008",
+              "type": "choice",
+              "content": "千绘画的画",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "3月4日"
+            },
+            {
+              "id": "tenshi_step_03_009",
+              "type": "choice",
+              "content": "朽木医院",
+              "prefix": "●",
+              "group": "3月12日"
+            },
+            {
+              "id": "tenshi_step_03_010",
+              "type": "choice",
+              "content": "美砂的壳之少女",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "3月12日"
+            },
+            {
+              "id": "tenshi_step_03_011",
+              "type": "choice",
+              "content": "沙发",
+              "group": "3月15日"
+            },
+            {
+              "id": "tenshi_step_03_012",
+              "type": "choice",
+              "content": "桌上的红酒瓶",
+              "group": "3月15日"
+            },
+            {
+              "id": "tenshi_step_03_013",
+              "type": "choice",
+              "content": "打翻的观叶植物",
+              "group": "3月15日"
+            },
+            {
+              "id": "tenshi_step_03_014",
+              "type": "choice",
+              "content": "右下的木箱",
+              "group": "3月15日"
+            },
+            {
+              "id": "tenshi_step_03_015",
+              "type": "choice",
+              "content": "书架上的电话",
+              "group": "3月15日"
+            },
+            {
+              "id": "tenshi_step_03_016",
+              "type": "choice",
+              "content": "书架上的酒",
+              "group": "3月15日"
+            },
+            {
+              "id": "tenshi_step_03_017",
+              "type": "choice",
+              "content": "书架最上面从左数第二栏中间",
+              "group": "3月15日"
+            },
+            {
+              "id": "tenshi_step_03_018",
+              "type": "choice",
+              "content": "书架上第二层从左数第二个",
+              "group": "3月15日"
+            },
+            {
+              "id": "tenshi_step_03_019",
+              "type": "choice",
+              "content": "花盆里的观叶植物",
+              "group": "3月15日"
+            },
+            {
+              "id": "tenshi_step_03_020",
+              "type": "choice",
+              "content": "相架",
+              "group": "3月15日"
+            },
+            {
+              "id": "tenshi_step_03_021",
+              "type": "choice",
+              "content": "照片旁的书",
+              "group": "3月15日"
+            },
+            {
+              "id": "tenshi_step_03_022",
+              "type": "note",
+              "content": "结束搜查",
+              "prefix": "⇒",
+              "subfix": "OK",
+              "group": "3月15日"
+            },
+            {
+              "id": "tenshi_step_03_023",
+              "type": "save",
+              "content": "SAVE 3",
+              "prefix": "◆",
+              "group": "3月15日"
+            },
+            {
+              "id": "tenshi_step_03_024",
+              "type": "choice",
+              "content": "没有共犯",
+              "group": "3月15日"
+            }
+          ]
+        },
+        {
+          "id": "ending_four",
+          "name": "END4 八木沼之死 BADEND",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "tenshi_step_04_001",
+              "type": "load",
+              "content": "LOAD 3",
+              "prefix": "◆"
+            },
+            {
+              "id": "tenshi_step_04_002",
+              "type": "choice",
+              "content": "有共犯"
+            },
+            {
+              "id": "tenshi_step_04_003",
+              "type": "choice",
+              "content": "英理子诱拐·证词",
+              "prefix": "▼",
+              "subfix": "决定"
+            },
+            {
+              "id": "tenshi_step_04_004",
+              "type": "choice",
+              "content": "英理子诱拐·文件",
+              "prefix": "▼",
+              "subfix": "决定"
+            },
+            {
+              "id": "tenshi_step_04_005",
+              "type": "choice",
+              "content": "有"
+            },
+            {
+              "id": "tenshi_step_04_006",
+              "type": "choice",
+              "content": "朽木文弥",
+              "prefix": "▼",
+              "subfix": "决定"
+            },
+            {
+              "id": "tenshi_step_04_007",
+              "type": "choice",
+              "content": "诊查台"
+            },
+            {
+              "id": "tenshi_step_04_008",
+              "type": "choice",
+              "content": "四方形的包裹(天罚)"
+            },
+            {
+              "id": "tenshi_step_04_009",
+              "type": "choice",
+              "content": "窗外"
+            },
+            {
+              "id": "tenshi_step_04_010",
+              "type": "choice",
+              "content": "药柜"
+            },
+            {
+              "id": "tenshi_step_04_011",
+              "type": "choice",
+              "content": "桌上的抽屉"
+            },
+            {
+              "id": "tenshi_step_04_012",
+              "type": "choice",
+              "content": "桌上的手术器械"
+            },
+            {
+              "id": "tenshi_step_04_013",
+              "type": "choice",
+              "content": "桌上的纸条"
+            },
+            {
+              "id": "tenshi_step_04_014",
+              "type": "choice",
+              "content": "不需要"
+            },
+            {
+              "id": "tenshi_step_04_015",
+              "type": "note",
+              "content": "结束搜查",
+              "prefix": "⇒",
+              "subfix": "OK"
+            },
+            {
+              "id": "tenshi_step_04_016",
+              "type": "save",
+              "content": "SAVE 4",
+              "prefix": "◆"
+            },
+            {
+              "id": "tenshi_step_04_017",
+              "type": "choice",
+              "content": "偶然"
+            }
+          ]
+        },
+        {
+          "id": "ending_five",
+          "name": "END5 迁怒 BADEND",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "tenshi_step_05_001",
+              "type": "load",
+              "content": "LOAD 4",
+              "prefix": "◆"
+            },
+            {
+              "id": "tenshi_step_05_002",
+              "type": "choice",
+              "content": "必然"
+            },
+            {
+              "id": "tenshi_step_05_003",
+              "type": "choice",
+              "content": "文弥的证词",
+              "prefix": "▼",
+              "subfix": "决定"
+            },
+            {
+              "id": "tenshi_step_05_004",
+              "type": "choice",
+              "content": "八木沼了一",
+              "prefix": "▼",
+              "subfix": "决定"
+            },
+            {
+              "id": "tenshi_step_05_005",
+              "type": "choice",
+              "content": "八木沼"
+            },
+            {
+              "id": "tenshi_step_05_006",
+              "type": "choice",
+              "content": "在准备逃跑"
+            },
+            {
+              "id": "tenshi_step_05_007",
+              "type": "choice",
+              "content": "八木沼家·报纸",
+              "prefix": "▼",
+              "subfix": "决定"
+            },
+            {
+              "id": "tenshi_step_05_008",
+              "type": "choice",
+              "content": "书架上的书"
+            },
+            {
+              "id": "tenshi_step_05_009",
+              "type": "choice",
+              "content": "遗体的躯体",
+              "group": "2月15日"
+            },
+            {
+              "id": "tenshi_step_05_010",
+              "type": "choice",
+              "content": "遗体的头部",
+              "group": "2月15日"
+            },
+            {
+              "id": "tenshi_step_05_011",
+              "type": "choice",
+              "content": "遗体的脖颈",
+              "group": "2月15日"
+            },
+            {
+              "id": "tenshi_step_05_012",
+              "type": "choice",
+              "content": "遗体的胳膊",
+              "group": "2月15日"
+            },
+            {
+              "id": "tenshi_step_05_013",
+              "type": "choice",
+              "content": "遗体的腿",
+              "group": "2月15日"
+            },
+            {
+              "id": "tenshi_step_05_014",
+              "type": "choice",
+              "content": "遗体的羽翼",
+              "group": "2月15日"
+            },
+            {
+              "id": "tenshi_step_05_015",
+              "type": "choice",
+              "content": "遗体周围的地面",
+              "group": "2月15日"
+            },
+            {
+              "id": "tenshi_step_05_016",
+              "type": "note",
+              "content": "结束搜查",
+              "prefix": "⇒",
+              "subfix": "OK",
+              "group": "2月15日"
+            },
+            {
+              "id": "tenshi_step_05_017",
+              "type": "choice",
+              "content": "窗帘",
+              "group": "2月17日"
+            },
+            {
+              "id": "tenshi_step_05_018",
+              "type": "choice",
+              "content": "地上的榻榻米",
+              "group": "2月17日"
+            },
+            {
+              "id": "tenshi_step_05_019",
+              "type": "choice",
+              "content": "墙壁",
+              "group": "2月17日"
+            },
+            {
+              "id": "tenshi_step_05_020",
+              "type": "choice",
+              "content": "左边的壁橱",
+              "group": "2月17日"
+            },
+            {
+              "id": "tenshi_step_05_021",
+              "type": "choice",
+              "content": "天花板",
+              "group": "2月17日"
+            },
+            {
+              "id": "tenshi_step_05_022",
+              "type": "note",
+              "content": "搜查结束",
+              "prefix": "⇒",
+              "subfix": "OK",
+              "group": "2月17日"
+            },
+            {
+              "id": "tenshi_step_05_023",
+              "type": "choice",
+              "content": "没关系",
+              "group": "2月17日"
+            },
+            {
+              "id": "tenshi_step_05_024",
+              "type": "choice",
+              "content": "冬子的事",
+              "group": "2月17日"
+            },
+            {
+              "id": "tenshi_step_05_025",
+              "type": "choice",
+              "content": "『天罚』也是静画的",
+              "group": "2月21日"
+            },
+            {
+              "id": "tenshi_step_05_026",
+              "type": "choice",
+              "content": "用空的遗体伪装成静的死亡",
+              "group": "2月21日"
+            },
+            {
+              "id": "tenshi_step_05_027",
+              "type": "choice",
+              "content": "遗体的躯体",
+              "group": "2月22日"
+            },
+            {
+              "id": "tenshi_step_05_028",
+              "type": "choice",
+              "content": "遗体的头部",
+              "group": "2月22日"
+            },
+            {
+              "id": "tenshi_step_05_029",
+              "type": "choice",
+              "content": "遗体的胳膊",
+              "group": "2月22日"
+            },
+            {
+              "id": "tenshi_step_05_030",
+              "type": "choice",
+              "content": "遗体的手",
+              "group": "2月22日"
+            },
+            {
+              "id": "tenshi_step_05_031",
+              "type": "choice",
+              "content": "遗体下的毯子",
+              "group": "2月22日"
+            },
+            {
+              "id": "tenshi_step_05_032",
+              "type": "choice",
+              "content": "遗体旁边的洞穴",
+              "group": "2月22日"
+            },
+            {
+              "id": "tenshi_step_05_033",
+              "type": "note",
+              "content": "结束搜查",
+              "prefix": "⇒",
+              "subfix": "OK",
+              "group": "2月22日"
+            },
+            {
+              "id": "tenshi_step_05_034",
+              "type": "choice",
+              "content": "虫腿",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "2月22日"
+            },
+            {
+              "id": "tenshi_step_05_035",
+              "type": "choice",
+              "content": "土当归洞的尸体·指甲里的土",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "2月22日"
+            },
+            {
+              "id": "tenshi_step_05_036",
+              "type": "choice",
+              "content": "没有",
+              "group": "2月22日"
+            },
+            {
+              "id": "tenshi_step_05_037",
+              "type": "choice",
+              "content": "脸",
+              "group": "2月22日"
+            },
+            {
+              "id": "tenshi_step_05_038",
+              "type": "choice",
+              "content": "进去",
+              "group": "2月23日"
+            },
+            {
+              "id": "tenshi_step_05_039",
+              "type": "choice",
+              "content": "他不是凶手",
+              "group": "2月24日"
+            },
+            {
+              "id": "tenshi_step_05_040",
+              "type": "save",
+              "content": "SAVE 5",
+              "prefix": "◆",
+              "group": "2月24日"
+            },
+            {
+              "id": "tenshi_step_05_041",
+              "type": "choice",
+              "content": "有错",
+              "group": "2月24日"
+            },
+            {
+              "id": "tenshi_step_05_042",
+              "type": "save",
+              "content": "SAVE 6",
+              "prefix": "◆",
+              "group": "2月24日"
+            },
+            {
+              "id": "tenshi_step_05_043",
+              "type": "choice",
+              "content": "土当归洞的尸体",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "2月24日"
+            },
+            {
+              "id": "tenshi_step_05_044",
+              "type": "choice",
+              "content": "多邑勇作",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "2月24日"
+            }
+          ]
+        },
+        {
+          "id": "ending_six",
+          "name": "END6 陷入迷宫 BADEND",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "tenshi_step_06_001",
+              "type": "load",
+              "content": "LOAD 6",
+              "prefix": "◆"
+            },
+            {
+              "id": "tenshi_step_06_002",
+              "type": "choice",
+              "content": "天罚",
+              "prefix": "▼",
+              "subfix": "随便选一个错误选项"
+            }
+          ]
+        },
+        {
+          "id": "ending_seven",
+          "name": "END7 谴责 BADEND",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "tenshi_step_07_001",
+              "type": "load",
+              "content": "LOAD 5",
+              "prefix": "◆"
+            },
+            {
+              "id": "tenshi_step_07_002",
+              "type": "choice",
+              "content": "正确"
+            },
+            {
+              "id": "tenshi_step_07_003",
+              "type": "choice",
+              "content": "鸣子昭之",
+              "prefix": "▼",
+              "subfix": "决定"
+            },
+            {
+              "id": "tenshi_step_07_004",
+              "type": "choice",
+              "content": "目击证词",
+              "prefix": "▼",
+              "subfix": "决定"
+            },
+            {
+              "id": "tenshi_step_07_005",
+              "type": "save",
+              "content": "SAVE 7",
+              "prefix": "◆"
+            },
+            {
+              "id": "tenshi_step_07_006",
+              "type": "choice",
+              "content": "说得通"
+            }
+          ]
+        },
+        {
+          "id": "ending_eight",
+          "name": "END8 真相在黑暗中 BADEND",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "tenshi_step_08_001",
+              "type": "load",
+              "content": "LOAD 7",
+              "prefix": "◆"
+            },
+            {
+              "id": "tenshi_step_08_002",
+              "type": "choice",
+              "content": "说不通"
+            },
+            {
+              "id": "tenshi_step_08_004",
+              "type": "choice",
+              "content": "道路施工",
+              "prefix": "▼",
+              "subfix": "决定"
+            },
+            {
+              "id": "tenshi_step_08_005",
+              "type": "choice",
+              "content": "被翻开的榻榻米"
+            },
+            {
+              "id": "tenshi_step_08_006",
+              "type": "choice",
+              "content": "昏倒的女性"
+            },
+            {
+              "id": "tenshi_step_08_007",
+              "type": "choice",
+              "content": "散落的面包棒"
+            },
+            {
+              "id": "tenshi_step_08_008",
+              "type": "choice",
+              "content": "地板上的洞"
+            },
+            {
+              "id": "tenshi_step_08_009",
+              "type": "choice",
+              "content": "书桌"
+            },
+            {
+              "id": "tenshi_step_08_010",
+              "type": "choice",
+              "content": "纸拉门"
+            },
+            {
+              "id": "tenshi_step_08_011",
+              "type": "note",
+              "content": "结束搜查",
+              "prefix": "⇒",
+              "subfix": "OK"
+            },
+            {
+              "id": "tenshi_step_08_012",
+              "type": "choice",
+              "content": "发现了"
+            },
+            {
+              "id": "tenshi_step_08_013",
+              "type": "choice",
+              "content": "抢劫"
+            },
+            {
+              "id": "tenshi_step_08_014",
+              "type": "choice",
+              "content": "熟人作案"
+            },
+            {
+              "id": "tenshi_step_08_015",
+              "type": "choice",
+              "content": "防空壕等设施",
+              "prefix": "▼",
+              "subfix": "决定"
+            },
+            {
+              "id": "tenshi_step_08_016",
+              "type": "save",
+              "content": "SAVE 8",
+              "prefix": "◆"
+            },
+            {
+              "id": "tenshi_step_08_017",
+              "type": "choice",
+              "content": "他搞错了"
+            }
+          ]
+        },
+        {
+          "id": "ending_nine",
+          "name": "END9 Unsolved case END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "tenshi_step_09_001",
+              "type": "load",
+              "content": "LOAD 8",
+              "prefix": "◆"
+            },
+            {
+              "id": "tenshi_step_09_002",
+              "type": "choice",
+              "content": "里面确实有什么东西"
+            },
+            {
+              "id": "tenshi_step_09_003",
+              "type": "choice",
+              "content": "虫腿",
+              "prefix": "▼",
+              "subfix": "决定"
+            },
+            {
+              "id": "tenshi_step_09_004",
+              "type": "choice",
+              "content": "鸣子家·刚出炉的面包",
+              "prefix": "▼",
+              "subfix": "决定"
+            },
+            {
+              "id": "tenshi_step_09_005",
+              "type": "choice",
+              "content": "给被监禁的少女吃的"
+            },
+            {
+              "id": "tenshi_step_09_006",
+              "type": "choice",
+              "content": "仓库",
+              "prefix": "●"
+            }
+          ]
+        },
+        {
+          "id": "ending_ten",
+          "name": "END10 文弥的偏执 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "tenshi_step_10_001",
+              "type": "note",
+              "content": "2周目路线"
+            },
+            {
+              "id": "tenshi_step_10_002",
+              "type": "note",
+              "content": "完成END(Unsolved case)之后从最初开始游戏",
+              "prefix": "※"
+            },
+            {
+              "id": "tenshi_step_10_003",
+              "type": "choice",
+              "content": "吉祥寺站│时坂紫",
+              "prefix": "●",
+              "group": "2月20日"
+            },
+            {
+              "id": "tenshi_step_10_004",
+              "type": "note",
+              "content": "紫事件标志",
+              "prefix": "※",
+              "group": "2月20日"
+            },
+            {
+              "id": "tenshi_step_10_005",
+              "type": "choice",
+              "content": "遗体的躯体",
+              "group": "2月21日"
+            },
+            {
+              "id": "tenshi_step_10_006",
+              "type": "choice",
+              "content": "遗体的头部",
+              "group": "2月21日"
+            },
+            {
+              "id": "tenshi_step_10_007",
+              "type": "choice",
+              "content": "遗体的胳膊",
+              "group": "2月21日"
+            },
+            {
+              "id": "tenshi_step_10_008",
+              "type": "choice",
+              "content": "遗体的腿",
+              "group": "2月21日"
+            },
+            {
+              "id": "tenshi_step_10_009",
+              "type": "choice",
+              "content": "遗体的羽翼",
+              "group": "2月21日"
+            },
+            {
+              "id": "tenshi_step_10_010",
+              "type": "choice",
+              "content": "遗体的周围",
+              "group": "2月21日"
+            },
+            {
+              "id": "tenshi_step_10_011",
+              "type": "choice",
+              "content": "地面的雪",
+              "group": "2月21日"
+            },
+            {
+              "id": "tenshi_step_10_012",
+              "type": "note",
+              "content": "结束搜查",
+              "prefix": "⇒",
+              "subfix": "OK",
+              "group": "2月21日"
+            },
+            {
+              "id": "tenshi_step_10_013",
+              "type": "choice",
+              "content": "朽木医院│棉贯枫",
+              "prefix": "●",
+              "group": "2月21日"
+            },
+            {
+              "id": "tenshi_step_10_014",
+              "type": "choice",
+              "content": "新宿站│洼井千绘",
+              "prefix": "●",
+              "group": "2月22日"
+            },
+            {
+              "id": "tenshi_step_10_015",
+              "type": "choice",
+              "content": "新宿站│玛丽丝·史黛拉",
+              "prefix": "●",
+              "group": "2月23日"
+            },
+            {
+              "id": "tenshi_step_10_016",
+              "type": "choice",
+              "content": "有必要调查",
+              "group": "2月24日"
+            },
+            {
+              "id": "tenshi_step_10_017",
+              "type": "choice",
+              "content": "朽木医院│棉贯枫",
+              "prefix": "●",
+              "group": "2月24日"
+            },
+            {
+              "id": "tenshi_step_10_018",
+              "type": "choice",
+              "content": "憎恨壳之少女",
+              "group": "2月25日"
+            },
+            {
+              "id": "tenshi_step_10_019",
+              "type": "choice",
+              "content": "想要收集间宫心像的画作",
+              "group": "2月25日"
+            },
+            {
+              "id": "tenshi_step_10_020",
+              "type": "choice",
+              "content": "是同一个犯人",
+              "group": "2月25日"
+            },
+            {
+              "id": "tenshi_step_10_021",
+              "type": "choice",
+              "content": "没有关联",
+              "group": "2月25日"
+            },
+            {
+              "id": "tenshi_step_10_022",
+              "type": "choice",
+              "content": "遗体的躯体",
+              "group": "2月26日"
+            },
+            {
+              "id": "tenshi_step_10_023",
+              "type": "choice",
+              "content": "遗体的头部",
+              "group": "2月26日"
+            },
+            {
+              "id": "tenshi_step_10_024",
+              "type": "choice",
+              "content": "遗体的胳膊",
+              "group": "2月26日"
+            },
+            {
+              "id": "tenshi_step_10_025",
+              "type": "choice",
+              "content": "遗体的腿",
+              "group": "2月26日"
+            },
+            {
+              "id": "tenshi_step_10_026",
+              "type": "choice",
+              "content": "遗体的羽翼",
+              "group": "2月26日"
+            },
+            {
+              "id": "tenshi_step_10_027",
+              "type": "choice",
+              "content": "遗体的周围(芦苇)",
+              "group": "2月26日"
+            },
+            {
+              "id": "tenshi_step_10_028",
+              "type": "choice",
+              "content": "遗体的周围：左下",
+              "group": "2月26日"
+            },
+            {
+              "id": "tenshi_step_10_029",
+              "type": "note",
+              "content": "结束搜查",
+              "prefix": "⇒",
+              "subfix": "OK",
+              "group": "2月26日"
+            },
+            {
+              "id": "tenshi_step_10_030",
+              "type": "choice",
+              "content": "前园静是在自己家里被袭击的",
+              "group": "2月26日"
+            },
+            {
+              "id": "tenshi_step_10_031",
+              "type": "choice",
+              "content": "笹仓启太",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "2月26日"
+            },
+            {
+              "id": "tenshi_step_10_032",
+              "type": "choice",
+              "content": "前园静想要自杀",
+              "group": "2月26日"
+            },
+            {
+              "id": "tenshi_step_10_033",
+              "type": "choice",
+              "content": "新宿站│八木沼了一",
+              "prefix": "●",
+              "group": "2月27日"
+            },
+            {
+              "id": "tenshi_step_10_034",
+              "type": "choice",
+              "content": "假设是自杀",
+              "group": "2月28日"
+            },
+            {
+              "id": "tenshi_step_10_035",
+              "type": "choice",
+              "content": "是在自己家里自杀的",
+              "group": "2月28日"
+            },
+            {
+              "id": "tenshi_step_10_036",
+              "type": "choice",
+              "content": "新宿站│笹仓启太",
+              "prefix": "●",
+              "group": "2月28日"
+            },
+            {
+              "id": "tenshi_step_10_037",
+              "type": "choice",
+              "content": "遗体的头部",
+              "group": "3月1日"
+            },
+            {
+              "id": "tenshi_step_10_038",
+              "type": "choice",
+              "content": "遗体的躯体",
+              "group": "3月1日"
+            },
+            {
+              "id": "tenshi_step_10_039",
+              "type": "choice",
+              "content": "遗体的胳膊",
+              "group": "3月1日"
+            },
+            {
+              "id": "tenshi_step_10_040",
+              "type": "choice",
+              "content": "遗体的腿",
+              "group": "3月1日"
+            },
+            {
+              "id": "tenshi_step_10_041",
+              "type": "choice",
+              "content": "遗体的后颈(背后)",
+              "group": "3月1日"
+            },
+            {
+              "id": "tenshi_step_10_042",
+              "type": "choice",
+              "content": "遗体周边的血泊",
+              "group": "3月1日"
+            },
+            {
+              "id": "tenshi_step_10_043",
+              "type": "choice",
+              "content": "右下的菜刀",
+              "group": "3月1日"
+            },
+            {
+              "id": "tenshi_step_10_044",
+              "type": "note",
+              "content": "结束搜查",
+              "prefix": "⇒",
+              "subfix": "OK",
+              "group": "3月1日"
+            },
+            {
+              "id": "tenshi_step_10_045",
+              "type": "choice",
+              "content": "女性",
+              "group": "3月1日"
+            },
+            {
+              "id": "tenshi_step_10_046",
+              "type": "choice",
+              "content": "有关系",
+              "group": "3月1日"
+            },
+            {
+              "id": "tenshi_step_10_047",
+              "type": "choice",
+              "content": "说不通",
+              "group": "3月1日"
+            },
+            {
+              "id": "tenshi_step_10_048",
+              "type": "choice",
+              "content": "没错",
+              "group": "3月1日"
+            },
+            {
+              "id": "tenshi_step_10_049",
+              "type": "choice",
+              "content": "笹仓启太",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "3月1日"
+            },
+            {
+              "id": "tenshi_step_10_050",
+              "type": "choice",
+              "content": "有可能",
+              "group": "3月1日"
+            },
+            {
+              "id": "tenshi_step_10_051",
+              "type": "choice",
+              "content": "前园静还活着",
+              "group": "3月1日"
+            },
+            {
+              "id": "tenshi_step_10_052",
+              "type": "choice",
+              "content": "调布",
+              "group": "3月1日"
+            },
+            {
+              "id": "tenshi_step_10_053",
+              "type": "choice",
+              "content": "静试图自杀",
+              "group": "3月1日"
+            },
+            {
+              "id": "tenshi_step_10_054",
+              "type": "choice",
+              "content": "画廊里的画是真迹",
+              "group": "3月2日"
+            },
+            {
+              "id": "tenshi_step_10_055",
+              "type": "choice",
+              "content": "没杀",
+              "group": "3月2日"
+            },
+            {
+              "id": "tenshi_step_10_056",
+              "type": "choice",
+              "content": "可以指出",
+              "group": "3月2日"
+            },
+            {
+              "id": "tenshi_step_10_057",
+              "type": "choice",
+              "content": "洼井千绘",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "3月2日"
+            },
+            {
+              "id": "tenshi_step_10_058",
+              "type": "choice",
+              "content": "杂志",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "3月2日"
+            },
+            {
+              "id": "tenshi_step_10_059",
+              "type": "choice",
+              "content": "我们也去",
+              "prefix": "★",
+              "group": "3月2日"
+            },
+            {
+              "id": "tenshi_step_10_060",
+              "type": "choice",
+              "content": "笹仓的遗体·菜刀",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "3月2日"
+            },
+            {
+              "id": "tenshi_step_10_061",
+              "type": "choice",
+              "content": "千绘画的画",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "3月4日"
+            },
+            {
+              "id": "tenshi_step_10_062",
+              "type": "choice",
+              "content": "东京都美术馆│CG回收",
+              "prefix": "●",
+              "group": "3月12日"
+            },
+            {
+              "id": "tenshi_step_10_063",
+              "type": "choice",
+              "content": "美砂的壳之少女",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "3月12日"
+            },
+            {
+              "id": "tenshi_step_10_064",
+              "type": "choice",
+              "content": "沙发",
+              "group": "3月15日"
+            },
+            {
+              "id": "tenshi_step_10_065",
+              "type": "choice",
+              "content": "桌上的红酒瓶",
+              "group": "3月15日"
+            },
+            {
+              "id": "tenshi_step_10_066",
+              "type": "choice",
+              "content": "打翻的观叶植物",
+              "group": "3月15日"
+            },
+            {
+              "id": "tenshi_step_10_067",
+              "type": "choice",
+              "content": "右下的木箱",
+              "group": "3月15日"
+            },
+            {
+              "id": "tenshi_step_10_068",
+              "type": "choice",
+              "content": "书架上的电话",
+              "group": "3月15日"
+            },
+            {
+              "id": "tenshi_step_10_069",
+              "type": "choice",
+              "content": "书架上的酒",
+              "group": "3月15日"
+            },
+            {
+              "id": "tenshi_step_10_070",
+              "type": "choice",
+              "content": "书架最上面从左数第二栏中间",
+              "group": "3月15日"
+            },
+            {
+              "id": "tenshi_step_10_071",
+              "type": "choice",
+              "content": "书架上第二层从左数第二个",
+              "group": "3月15日"
+            },
+            {
+              "id": "tenshi_step_10_072",
+              "type": "choice",
+              "content": "花盆里的观叶植物",
+              "group": "3月15日"
+            },
+            {
+              "id": "tenshi_step_10_073",
+              "type": "choice",
+              "content": "相架",
+              "group": "3月15日"
+            },
+            {
+              "id": "tenshi_step_10_074",
+              "type": "choice",
+              "content": "照片旁的书",
+              "group": "3月15日"
+            },
+            {
+              "id": "tenshi_step_10_075",
+              "type": "note",
+              "content": "结束搜查",
+              "prefix": "⇒",
+              "subfix": "OK",
+              "group": "3月15日"
+            },
+            {
+              "id": "tenshi_step_10_076",
+              "type": "choice",
+              "content": "有共犯",
+              "group": "3月15日"
+            },
+            {
+              "id": "tenshi_step_10_077",
+              "type": "choice",
+              "content": "英理子诱拐·证词",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "3月15日"
+            },
+            {
+              "id": "tenshi_step_10_078",
+              "type": "choice",
+              "content": "英理子诱拐·文件",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "3月15日"
+            },
+            {
+              "id": "tenshi_step_10_079",
+              "type": "choice",
+              "content": "有",
+              "group": "3月15日"
+            },
+            {
+              "id": "tenshi_step_10_080",
+              "type": "choice",
+              "content": "朽木文弥",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "3月15日"
+            },
+            {
+              "id": "tenshi_step_10_081",
+              "type": "choice",
+              "content": "诊察台",
+              "group": "3月15日"
+            },
+            {
+              "id": "tenshi_step_10_082",
+              "type": "choice",
+              "content": "四方形的包裹(天罚)",
+              "group": "3月15日"
+            },
+            {
+              "id": "tenshi_step_10_083",
+              "type": "choice",
+              "content": "窗外",
+              "group": "3月15日"
+            },
+            {
+              "id": "tenshi_step_10_084",
+              "type": "choice",
+              "content": "药柜",
+              "group": "3月15日"
+            },
+            {
+              "id": "tenshi_step_10_085",
+              "type": "choice",
+              "content": "桌上的抽屉",
+              "group": "3月15日"
+            },
+            {
+              "id": "tenshi_step_10_086",
+              "type": "choice",
+              "content": "桌上的手术器械",
+              "group": "3月15日"
+            },
+            {
+              "id": "tenshi_step_10_087",
+              "type": "choice",
+              "content": "桌上的纸条",
+              "group": "3月15日"
+            },
+            {
+              "id": "tenshi_step_10_088",
+              "type": "choice",
+              "content": "不需要",
+              "group": "3月15日"
+            },
+            {
+              "id": "tenshi_step_10_089",
+              "type": "note",
+              "content": "结束搜查",
+              "prefix": "⇒",
+              "subfix": "OK",
+              "group": "3月15日"
+            },
+            {
+              "id": "tenshi_step_10_090",
+              "type": "choice",
+              "content": "必然",
+              "group": "3月15日"
+            },
+            {
+              "id": "tenshi_step_10_091",
+              "type": "choice",
+              "content": "文弥的证词",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "3月15日"
+            },
+            {
+              "id": "tenshi_step_10_092",
+              "type": "choice",
+              "content": "八木沼了一",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "3月15日"
+            },
+            {
+              "id": "tenshi_step_10_093",
+              "type": "choice",
+              "content": "八木沼",
+              "group": "3月15日"
+            },
+            {
+              "id": "tenshi_step_10_094",
+              "type": "choice",
+              "content": "在准备逃跑",
+              "group": "3月15日"
+            },
+            {
+              "id": "tenshi_step_10_095",
+              "type": "choice",
+              "content": "八木沼家·报纸",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "3月15日"
+            },
+            {
+              "id": "tenshi_step_10_096",
+              "type": "choice",
+              "content": "书架上的书",
+              "group": "3月15日"
+            },
+            {
+              "id": "tenshi_step_10_097",
+              "type": "choice",
+              "content": "遗体的躯体",
+              "group": "2月15日"
+            },
+            {
+              "id": "tenshi_step_10_098",
+              "type": "choice",
+              "content": "遗体的头部",
+              "group": "2月15日"
+            },
+            {
+              "id": "tenshi_step_10_099",
+              "type": "choice",
+              "content": "遗体的脖颈",
+              "group": "2月15日"
+            },
+            {
+              "id": "tenshi_step_10_100",
+              "type": "choice",
+              "content": "遗体的胳膊",
+              "group": "2月15日"
+            },
+            {
+              "id": "tenshi_step_10_101",
+              "type": "choice",
+              "content": "遗体的腿",
+              "group": "2月15日"
+            },
+            {
+              "id": "tenshi_step_10_102",
+              "type": "choice",
+              "content": "遗体的羽翼",
+              "group": "2月15日"
+            },
+            {
+              "id": "tenshi_step_10_103",
+              "type": "choice",
+              "content": "遗体周围的地面",
+              "group": "2月15日"
+            },
+            {
+              "id": "tenshi_step_10_104",
+              "type": "note",
+              "content": "结束搜查",
+              "prefix": "⇒",
+              "subfix": "OK",
+              "group": "2月15日"
+            },
+            {
+              "id": "tenshi_step_10_105",
+              "type": "choice",
+              "content": "窗帘",
+              "group": "2月17日"
+            },
+            {
+              "id": "tenshi_step_10_106",
+              "type": "choice",
+              "content": "地上的榻榻米",
+              "group": "2月17日"
+            },
+            {
+              "id": "tenshi_step_10_107",
+              "type": "choice",
+              "content": "墙壁",
+              "group": "2月17日"
+            },
+            {
+              "id": "tenshi_step_10_108",
+              "type": "choice",
+              "content": "左边的壁橱",
+              "group": "2月17日"
+            },
+            {
+              "id": "tenshi_step_10_109",
+              "type": "choice",
+              "content": "天花板",
+              "group": "2月17日"
+            },
+            {
+              "id": "tenshi_step_10_110",
+              "type": "note",
+              "content": "搜查结束",
+              "prefix": "⇒",
+              "subfix": "OK",
+              "group": "2月17日"
+            },
+            {
+              "id": "tenshi_step_10_111",
+              "type": "choice",
+              "content": "有关系",
+              "group": "2月17日"
+            },
+            {
+              "id": "tenshi_step_10_112",
+              "type": "choice",
+              "content": "冬子的事",
+              "group": "2月17日"
+            },
+            {
+              "id": "tenshi_step_10_113",
+              "type": "note",
+              "content": "紫事件标志(紫＆真崎)CG回收",
+              "prefix": "※",
+              "group": "2月20日"
+            },
+            {
+              "id": "tenshi_step_10_114",
+              "type": "choice",
+              "content": "『天罚』也是静画的",
+              "group": "2月21日"
+            },
+            {
+              "id": "tenshi_step_10_115",
+              "type": "choice",
+              "content": "用空的遗体伪装成静的死亡",
+              "group": "2月21日"
+            },
+            {
+              "id": "tenshi_step_10_116",
+              "type": "choice",
+              "content": "遗体的躯体",
+              "group": "2月22日"
+            },
+            {
+              "id": "tenshi_step_10_117",
+              "type": "choice",
+              "content": "遗体的头部",
+              "group": "2月22日"
+            },
+            {
+              "id": "tenshi_step_10_118",
+              "type": "choice",
+              "content": "遗体的胳膊",
+              "group": "2月22日"
+            },
+            {
+              "id": "tenshi_step_10_119",
+              "type": "choice",
+              "content": "遗体的手",
+              "group": "2月22日"
+            },
+            {
+              "id": "tenshi_step_10_120",
+              "type": "choice",
+              "content": "遗体下的毯子",
+              "group": "2月22日"
+            },
+            {
+              "id": "tenshi_step_10_121",
+              "type": "choice",
+              "content": "遗体旁边的洞穴",
+              "group": "2月22日"
+            },
+            {
+              "id": "tenshi_step_10_122",
+              "type": "note",
+              "content": "结束搜查",
+              "prefix": "⇒",
+              "subfix": "OK",
+              "group": "2月22日"
+            },
+            {
+              "id": "tenshi_step_10_123",
+              "type": "note",
+              "content": "达成grand flag则出现选项",
+              "prefix": "※",
+              "group": "2月22日"
+            },
+            {
+              "id": "tenshi_step_10_124",
+              "type": "choice",
+              "content": "有可能",
+              "prefix": "★",
+              "group": "2月22日"
+            },
+            {
+              "id": "tenshi_step_10_125",
+              "type": "choice",
+              "content": "虫腿",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "2月22日"
+            },
+            {
+              "id": "tenshi_step_10_126",
+              "type": "choice",
+              "content": "土当归洞的尸体·指甲里的土",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "2月22日"
+            },
+            {
+              "id": "tenshi_step_10_127",
+              "type": "choice",
+              "content": "没有",
+              "group": "2月22日"
+            },
+            {
+              "id": "tenshi_step_10_128",
+              "type": "choice",
+              "content": "脸",
+              "group": "2月22日"
+            },
+            {
+              "id": "tenshi_step_10_129",
+              "type": "choice",
+              "content": "进去",
+              "group": "2月23日"
+            },
+            {
+              "id": "tenshi_step_10_130",
+              "type": "choice",
+              "content": "他不是凶手",
+              "group": "2月24日"
+            },
+            {
+              "id": "tenshi_step_10_131",
+              "type": "choice",
+              "content": "正确",
+              "group": "2月24日"
+            },
+            {
+              "id": "tenshi_step_10_132",
+              "type": "choice",
+              "content": "鸣子昭之",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "2月24日"
+            },
+            {
+              "id": "tenshi_step_10_133",
+              "type": "choice",
+              "content": "目击证词",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "2月24日"
+            },
+            {
+              "id": "tenshi_step_10_134",
+              "type": "choice",
+              "content": "说不通",
+              "group": "2月24日"
+            },
+            {
+              "id": "tenshi_step_10_136",
+              "type": "choice",
+              "content": "道路施工",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "2月24日"
+            },
+            {
+              "id": "tenshi_step_10_137",
+              "type": "choice",
+              "content": "被翻开的榻榻米",
+              "group": "2月24日"
+            },
+            {
+              "id": "tenshi_step_10_138",
+              "type": "choice",
+              "content": "昏倒的女性",
+              "group": "2月24日"
+            },
+            {
+              "id": "tenshi_step_10_139",
+              "type": "choice",
+              "content": "散落的面包棒",
+              "group": "2月24日"
+            },
+            {
+              "id": "tenshi_step_10_140",
+              "type": "choice",
+              "content": "地板上的洞",
+              "group": "2月24日"
+            },
+            {
+              "id": "tenshi_step_10_141",
+              "type": "choice",
+              "content": "书桌",
+              "group": "2月24日"
+            },
+            {
+              "id": "tenshi_step_10_142",
+              "type": "choice",
+              "content": "纸拉门",
+              "group": "2月24日"
+            },
+            {
+              "id": "tenshi_step_10_143",
+              "type": "note",
+              "content": "结束搜查",
+              "prefix": "⇒",
+              "subfix": "OK",
+              "group": "2月24日"
+            },
+            {
+              "id": "tenshi_step_10_144",
+              "type": "choice",
+              "content": "发现了",
+              "group": "2月24日"
+            },
+            {
+              "id": "tenshi_step_10_145",
+              "type": "choice",
+              "content": "抢劫",
+              "group": "2月24日"
+            },
+            {
+              "id": "tenshi_step_10_146",
+              "type": "choice",
+              "content": "熟人作案",
+              "group": "2月24日"
+            },
+            {
+              "id": "tenshi_step_10_147",
+              "type": "choice",
+              "content": "防空壕等设施",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "2月24日"
+            },
+            {
+              "id": "tenshi_step_10_148",
+              "type": "choice",
+              "content": "里面确实有什么东西",
+              "group": "2月24日"
+            },
+            {
+              "id": "tenshi_step_10_149",
+              "type": "choice",
+              "content": "虫腿",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "2月24日"
+            },
+            {
+              "id": "tenshi_step_10_150",
+              "type": "choice",
+              "content": "鸣子家·刚出炉的面包",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "2月24日"
+            },
+            {
+              "id": "tenshi_step_10_151",
+              "type": "choice",
+              "content": "给被监禁的少女吃的",
+              "group": "2月24日"
+            },
+            {
+              "id": "tenshi_step_10_152",
+              "type": "choice",
+              "content": "仓库",
+              "prefix": "●",
+              "group": "2月24日"
+            },
+            {
+              "id": "tenshi_step_10_153",
+              "type": "choice",
+              "content": "监禁了自己的女儿",
+              "group": "2月24日"
+            },
+            {
+              "id": "tenshi_step_10_154",
+              "type": "choice",
+              "content": "鸣子爱美",
+              "group": "2月24日"
+            },
+            {
+              "id": "tenshi_step_10_155",
+              "type": "choice",
+              "content": "多邑春花",
+              "group": "2月24日"
+            },
+            {
+              "id": "tenshi_step_10_156",
+              "type": "note",
+              "content": "达成grand flag则出现选项",
+              "prefix": "※",
+              "group": "2月24日"
+            },
+            {
+              "id": "tenshi_step_10_157",
+              "type": "choice",
+              "content": "土当归洞的尸体：鞋印",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "2月24日"
+            },
+            {
+              "id": "tenshi_step_10_158",
+              "type": "choice",
+              "content": "佐枝色羽",
+              "group": "2月24日"
+            },
+            {
+              "id": "tenshi_step_10_159",
+              "type": "choice",
+              "content": "我考虑一下　※TRUE flag",
+              "group": "2月24日"
+            },
+            {
+              "id": "tenshi_step_10_160",
+              "type": "choice",
+              "content": "引起对案件的关注",
+              "group": "2月25日"
+            },
+            {
+              "id": "tenshi_step_10_161",
+              "type": "choice",
+              "content": "天使的尸体·脖颈",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "2月25日"
+            },
+            {
+              "id": "tenshi_step_10_162",
+              "type": "choice",
+              "content": "鸣子爱美",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "2月25日"
+            },
+            {
+              "id": "tenshi_step_10_163",
+              "type": "choice",
+              "content": "爱美有前科",
+              "group": "2月25日"
+            },
+            {
+              "id": "tenshi_step_10_164",
+              "type": "choice",
+              "content": "六识命",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "2月25日"
+            },
+            {
+              "id": "tenshi_step_10_165",
+              "type": "save",
+              "content": "SAVE 9",
+              "prefix": "◆",
+              "group": "2月26日"
+            },
+            {
+              "id": "tenshi_step_10_166",
+              "type": "choice",
+              "content": "六识命",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "2月26日"
+            }
+          ]
+        },
+        {
+          "id": "ending_eleven",
+          "name": "END11 千鹤的偏执 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "tenshi_step_11_001",
+              "type": "load",
+              "content": "LOAD 9",
+              "prefix": "◆"
+            },
+            {
+              "id": "tenshi_step_11_002",
+              "type": "choice",
+              "content": "朽木千鹤",
+              "prefix": "▼",
+              "subfix": "决定"
+            }
+          ]
+        },
+        {
+          "id": "ending_twelve",
+          "name": "END12 Grand END",
+          "type": "good",
+          "steps": [
+            {
+              "id": "tenshi_step_12_001",
+              "type": "load",
+              "content": "LOAD 9",
+              "prefix": "◆"
+            },
+            {
+              "id": "tenshi_step_12_002",
+              "type": "choice",
+              "content": "朽木文弥",
+              "prefix": "▼",
+              "subfix": "决定"
+            },
+            {
+              "id": "tenshi_step_12_003",
+              "type": "choice",
+              "content": "拔枪",
+              "prefix": "★",
+              "subfix": "第一次不会出现",
+              "group": "2月27日"
+            }
+          ]
+        },
+        {
+          "id": "ending_thirteen",
+          "name": "END13 各自的天堂 END",
+          "type": "good",
+          "steps": [
+            {
+              "id": "tenshi_step_13_001",
+              "type": "note",
+              "content": "Grand END看完之后",
+              "prefix": "※"
+            },
+            {
+              "id": "tenshi_step_13_002",
+              "type": "load",
+              "content": "LOAD 9",
+              "prefix": "◆"
+            },
+            {
+              "id": "tenshi_step_13_003",
+              "type": "choice",
+              "content": "朽木文弥",
+              "prefix": "▼",
+              "subfix": "决定"
+            },
+            {
+              "id": "tenshi_step_13_004",
+              "type": "choice",
+              "content": "忍耐",
+              "group": "2月27日"
+            },
+            {
+              "id": "tenshi_step_13_005",
+              "type": "save",
+              "content": "SAVE 10",
+              "prefix": "◆",
+              "group": "2月27日"
+            },
+            {
+              "id": "tenshi_step_13_006",
+              "type": "choice",
+              "content": "让他继续",
+              "group": "2月27日"
+            }
+          ]
+        },
+        {
+          "id": "ending_fourteen",
+          "name": "END14 True END",
+          "type": "true",
+          "steps": [
+            {
+              "id": "tenshi_step_14_001",
+              "type": "load",
+              "content": "LOAD 10",
+              "prefix": "◆"
+            },
+            {
+              "id": "tenshi_step_14_002",
+              "type": "choice",
+              "content": "阻止真崎"
+            }
+          ]
+        },
+        {
+          "id": "ending_nine_third_run",
+          "name": "END9 Unsolved case END（3周目回收）",
+          "type": "normal",
+          "requirements": "2周目路线全部回收后，从最初开始",
+          "steps": [
+            {
+              "id": "tenshi_step_15_001",
+              "type": "note",
+              "content": "3周目路线"
+            },
+            {
+              "id": "tenshi_step_15_003",
+              "type": "choice",
+              "content": "新宿站│八木沼了一",
+              "prefix": "●",
+              "group": "2月11日"
+            },
+            {
+              "id": "tenshi_step_15_004",
+              "type": "choice",
+              "content": "遗体的躯体",
+              "group": "2月16日"
+            },
+            {
+              "id": "tenshi_step_15_005",
+              "type": "choice",
+              "content": "遗体的头部",
+              "group": "2月16日"
+            },
+            {
+              "id": "tenshi_step_15_006",
+              "type": "choice",
+              "content": "遗体的胳膊",
+              "group": "2月16日"
+            },
+            {
+              "id": "tenshi_step_15_007",
+              "type": "choice",
+              "content": "遗体的腿",
+              "group": "2月16日"
+            },
+            {
+              "id": "tenshi_step_15_008",
+              "type": "choice",
+              "content": "遗体的羽翼",
+              "group": "2月16日"
+            },
+            {
+              "id": "tenshi_step_15_009",
+              "type": "choice",
+              "content": "血泊",
+              "group": "2月16日"
+            },
+            {
+              "id": "tenshi_step_15_010",
+              "type": "choice",
+              "content": "血泊：左",
+              "group": "2月16日"
+            },
+            {
+              "id": "tenshi_step_15_011",
+              "type": "choice",
+              "content": "绘画道具",
+              "group": "2月16日"
+            },
+            {
+              "id": "tenshi_step_15_012",
+              "type": "choice",
+              "content": "墙角的架子(右侧)",
+              "group": "2月16日"
+            },
+            {
+              "id": "tenshi_step_15_013",
+              "type": "note",
+              "content": "结束搜查",
+              "prefix": "⇒",
+              "subfix": "OK",
+              "group": "2月16日"
+            },
+            {
+              "id": "tenshi_step_15_014",
+              "type": "choice",
+              "content": "吉祥寺站│时坂紫",
+              "prefix": "●",
+              "group": "2月20日"
+            },
+            {
+              "id": "tenshi_step_15_015",
+              "type": "note",
+              "content": "紫事件flag条件",
+              "prefix": "※",
+              "group": "2月20日"
+            },
+            {
+              "id": "tenshi_step_15_016",
+              "type": "choice",
+              "content": "遗体的躯体",
+              "group": "2月21日"
+            },
+            {
+              "id": "tenshi_step_15_017",
+              "type": "choice",
+              "content": "遗体的头部",
+              "group": "2月21日"
+            },
+            {
+              "id": "tenshi_step_15_018",
+              "type": "choice",
+              "content": "遗体的胳膊",
+              "group": "2月21日"
+            },
+            {
+              "id": "tenshi_step_15_019",
+              "type": "choice",
+              "content": "遗体的腿",
+              "group": "2月21日"
+            },
+            {
+              "id": "tenshi_step_15_020",
+              "type": "choice",
+              "content": "遗体的羽翼",
+              "group": "2月21日"
+            },
+            {
+              "id": "tenshi_step_15_021",
+              "type": "choice",
+              "content": "遗体的周围",
+              "group": "2月21日"
+            },
+            {
+              "id": "tenshi_step_15_022",
+              "type": "choice",
+              "content": "地面的雪",
+              "group": "2月21日"
+            },
+            {
+              "id": "tenshi_step_15_023",
+              "type": "note",
+              "content": "结束搜查",
+              "prefix": "⇒",
+              "subfix": "OK",
+              "group": "2月21日"
+            },
+            {
+              "id": "tenshi_step_15_024",
+              "type": "choice",
+              "content": "朽木医院│棉贯枫",
+              "prefix": "●",
+              "group": "2月21日"
+            },
+            {
+              "id": "tenshi_step_15_025",
+              "type": "choice",
+              "content": "新宿站│洼井千绘",
+              "prefix": "●",
+              "group": "2月22日"
+            },
+            {
+              "id": "tenshi_step_15_026",
+              "type": "choice",
+              "content": "新宿站│玛丽丝·史黛拉",
+              "prefix": "●",
+              "group": "2月23日"
+            },
+            {
+              "id": "tenshi_step_15_027",
+              "type": "choice",
+              "content": "有必要调查",
+              "group": "2月24日"
+            },
+            {
+              "id": "tenshi_step_15_028",
+              "type": "choice",
+              "content": "朽木医院│棉贯枫",
+              "prefix": "●",
+              "group": "2月24日"
+            },
+            {
+              "id": "tenshi_step_15_029",
+              "type": "note",
+              "content": "3周目追加剧情(文弥视角)",
+              "prefix": "※",
+              "group": "2月24日"
+            },
+            {
+              "id": "tenshi_step_15_030",
+              "type": "note",
+              "content": "CG回收",
+              "prefix": "※",
+              "group": "2月24日"
+            },
+            {
+              "id": "tenshi_step_15_031",
+              "type": "choice",
+              "content": "憎恨壳之少女",
+              "group": "2月25日"
+            },
+            {
+              "id": "tenshi_step_15_032",
+              "type": "choice",
+              "content": "想要收集间宫心像的画作",
+              "group": "2月25日"
+            },
+            {
+              "id": "tenshi_step_15_033",
+              "type": "choice",
+              "content": "是同一个犯人",
+              "group": "2月25日"
+            },
+            {
+              "id": "tenshi_step_15_034",
+              "type": "choice",
+              "content": "没有关联",
+              "group": "2月25日"
+            },
+            {
+              "id": "tenshi_step_15_035",
+              "type": "choice",
+              "content": "遗体的躯体",
+              "group": "2月26日"
+            },
+            {
+              "id": "tenshi_step_15_036",
+              "type": "choice",
+              "content": "遗体的头部",
+              "group": "2月26日"
+            },
+            {
+              "id": "tenshi_step_15_037",
+              "type": "choice",
+              "content": "遗体的胳膊",
+              "group": "2月26日"
+            },
+            {
+              "id": "tenshi_step_15_038",
+              "type": "choice",
+              "content": "遗体的腿",
+              "group": "2月26日"
+            },
+            {
+              "id": "tenshi_step_15_039",
+              "type": "choice",
+              "content": "遗体的羽翼",
+              "group": "2月26日"
+            },
+            {
+              "id": "tenshi_step_15_040",
+              "type": "choice",
+              "content": "遗体的周围(芦苇)",
+              "group": "2月26日"
+            },
+            {
+              "id": "tenshi_step_15_041",
+              "type": "choice",
+              "content": "遗体的周围：左下",
+              "group": "2月26日"
+            },
+            {
+              "id": "tenshi_step_15_042",
+              "type": "note",
+              "content": "结束搜查",
+              "prefix": "⇒",
+              "subfix": "OK",
+              "group": "2月26日"
+            },
+            {
+              "id": "tenshi_step_15_043",
+              "type": "choice",
+              "content": "前园静是在自己家里被袭击的",
+              "group": "2月26日"
+            },
+            {
+              "id": "tenshi_step_15_044",
+              "type": "choice",
+              "content": "笹仓启太",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "2月26日"
+            },
+            {
+              "id": "tenshi_step_15_045",
+              "type": "choice",
+              "content": "前园静想要自杀",
+              "group": "2月26日"
+            },
+            {
+              "id": "tenshi_step_15_046",
+              "type": "choice",
+              "content": "新宿站│八木沼了一",
+              "prefix": "●",
+              "group": "2月27日"
+            },
+            {
+              "id": "tenshi_step_15_047",
+              "type": "choice",
+              "content": "假设是自杀",
+              "group": "2月28日"
+            },
+            {
+              "id": "tenshi_step_15_048",
+              "type": "choice",
+              "content": "是在自己家里自杀的",
+              "group": "2月28日"
+            },
+            {
+              "id": "tenshi_step_15_049",
+              "type": "choice",
+              "content": "新宿站│笹仓启太",
+              "prefix": "●",
+              "group": "2月28日"
+            },
+            {
+              "id": "tenshi_step_15_050",
+              "type": "choice",
+              "content": "遗体的头部",
+              "group": "3月1日"
+            },
+            {
+              "id": "tenshi_step_15_051",
+              "type": "choice",
+              "content": "遗体的躯体",
+              "group": "3月1日"
+            },
+            {
+              "id": "tenshi_step_15_052",
+              "type": "choice",
+              "content": "遗体的胳膊",
+              "group": "3月1日"
+            },
+            {
+              "id": "tenshi_step_15_053",
+              "type": "choice",
+              "content": "遗体的腿",
+              "group": "3月1日"
+            },
+            {
+              "id": "tenshi_step_15_054",
+              "type": "choice",
+              "content": "遗体的后颈(背后)",
+              "group": "3月1日"
+            },
+            {
+              "id": "tenshi_step_15_055",
+              "type": "choice",
+              "content": "遗体周边的血泊",
+              "group": "3月1日"
+            },
+            {
+              "id": "tenshi_step_15_056",
+              "type": "choice",
+              "content": "右下的菜刀",
+              "group": "3月1日"
+            },
+            {
+              "id": "tenshi_step_15_057",
+              "type": "note",
+              "content": "结束搜查",
+              "prefix": "⇒",
+              "subfix": "OK",
+              "group": "3月1日"
+            },
+            {
+              "id": "tenshi_step_15_058",
+              "type": "choice",
+              "content": "女性",
+              "group": "3月1日"
+            },
+            {
+              "id": "tenshi_step_15_059",
+              "type": "choice",
+              "content": "有关系",
+              "group": "3月1日"
+            },
+            {
+              "id": "tenshi_step_15_060",
+              "type": "choice",
+              "content": "说不通",
+              "group": "3月1日"
+            },
+            {
+              "id": "tenshi_step_15_061",
+              "type": "choice",
+              "content": "没错",
+              "group": "3月1日"
+            },
+            {
+              "id": "tenshi_step_15_062",
+              "type": "choice",
+              "content": "笹仓启太",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "3月1日"
+            },
+            {
+              "id": "tenshi_step_15_063",
+              "type": "choice",
+              "content": "有可能",
+              "group": "3月1日"
+            },
+            {
+              "id": "tenshi_step_15_064",
+              "type": "choice",
+              "content": "前园静还活着",
+              "group": "3月1日"
+            },
+            {
+              "id": "tenshi_step_15_065",
+              "type": "choice",
+              "content": "调布",
+              "group": "3月1日"
+            },
+            {
+              "id": "tenshi_step_15_066",
+              "type": "choice",
+              "content": "静试图自杀",
+              "group": "3月1日"
+            },
+            {
+              "id": "tenshi_step_15_067",
+              "type": "choice",
+              "content": "画廊里的画是真迹",
+              "group": "3月2日"
+            },
+            {
+              "id": "tenshi_step_15_068",
+              "type": "choice",
+              "content": "没杀",
+              "group": "3月2日"
+            },
+            {
+              "id": "tenshi_step_15_069",
+              "type": "choice",
+              "content": "可以指出",
+              "group": "3月2日"
+            },
+            {
+              "id": "tenshi_step_15_070",
+              "type": "choice",
+              "content": "洼井千绘",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "3月2日"
+            },
+            {
+              "id": "tenshi_step_15_071",
+              "type": "choice",
+              "content": "杂志",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "3月2日"
+            },
+            {
+              "id": "tenshi_step_15_072",
+              "type": "choice",
+              "content": "交给警察",
+              "group": "3月2日"
+            },
+            {
+              "id": "tenshi_step_15_073",
+              "type": "note",
+              "content": "千绘逃亡海外flag",
+              "prefix": "※",
+              "group": "3月2日"
+            },
+            {
+              "id": "tenshi_step_15_074",
+              "type": "choice",
+              "content": "千绘画的画",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "3月4日"
+            },
+            {
+              "id": "tenshi_step_15_075",
+              "type": "choice",
+              "content": "东京都美术馆",
+              "prefix": "●",
+              "group": "3月12日"
+            },
+            {
+              "id": "tenshi_step_15_076",
+              "type": "choice",
+              "content": "美砂的壳之少女",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "3月12日"
+            },
+            {
+              "id": "tenshi_step_15_077",
+              "type": "choice",
+              "content": "沙发",
+              "group": "3月15日"
+            },
+            {
+              "id": "tenshi_step_15_078",
+              "type": "choice",
+              "content": "桌上的红酒瓶",
+              "group": "3月15日"
+            },
+            {
+              "id": "tenshi_step_15_079",
+              "type": "choice",
+              "content": "打翻的观叶植物",
+              "group": "3月15日"
+            },
+            {
+              "id": "tenshi_step_15_080",
+              "type": "choice",
+              "content": "右下的木箱",
+              "group": "3月15日"
+            },
+            {
+              "id": "tenshi_step_15_081",
+              "type": "choice",
+              "content": "书架上的电话",
+              "group": "3月15日"
+            },
+            {
+              "id": "tenshi_step_15_082",
+              "type": "choice",
+              "content": "书架上的酒",
+              "group": "3月15日"
+            },
+            {
+              "id": "tenshi_step_15_083",
+              "type": "choice",
+              "content": "书架最上面从左数第二栏中间",
+              "group": "3月15日"
+            },
+            {
+              "id": "tenshi_step_15_084",
+              "type": "choice",
+              "content": "书架上第二层从左数第二个",
+              "group": "3月15日"
+            },
+            {
+              "id": "tenshi_step_15_085",
+              "type": "choice",
+              "content": "花盆里的观叶植物",
+              "group": "3月15日"
+            },
+            {
+              "id": "tenshi_step_15_086",
+              "type": "choice",
+              "content": "相架",
+              "group": "3月15日"
+            },
+            {
+              "id": "tenshi_step_15_087",
+              "type": "choice",
+              "content": "照片旁的书",
+              "group": "3月15日"
+            },
+            {
+              "id": "tenshi_step_15_088",
+              "type": "note",
+              "content": "结束搜查",
+              "prefix": "⇒",
+              "subfix": "OK",
+              "group": "3月15日"
+            },
+            {
+              "id": "tenshi_step_15_089",
+              "type": "choice",
+              "content": "有共犯",
+              "group": "3月15日"
+            },
+            {
+              "id": "tenshi_step_15_090",
+              "type": "choice",
+              "content": "英理子诱拐·证词",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "3月15日"
+            },
+            {
+              "id": "tenshi_step_15_091",
+              "type": "choice",
+              "content": "英理子诱拐·文件",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "3月15日"
+            },
+            {
+              "id": "tenshi_step_15_092",
+              "type": "choice",
+              "content": "有",
+              "group": "3月15日"
+            },
+            {
+              "id": "tenshi_step_15_093",
+              "type": "choice",
+              "content": "朽木文弥",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "3月15日"
+            },
+            {
+              "id": "tenshi_step_15_094",
+              "type": "choice",
+              "content": "诊察台",
+              "group": "3月15日"
+            },
+            {
+              "id": "tenshi_step_15_095",
+              "type": "choice",
+              "content": "四方形的包裹(天罚)",
+              "group": "3月15日"
+            },
+            {
+              "id": "tenshi_step_15_096",
+              "type": "choice",
+              "content": "窗外",
+              "group": "3月15日"
+            },
+            {
+              "id": "tenshi_step_15_097",
+              "type": "choice",
+              "content": "药柜",
+              "group": "3月15日"
+            },
+            {
+              "id": "tenshi_step_15_098",
+              "type": "choice",
+              "content": "桌上的抽屉",
+              "group": "3月15日"
+            },
+            {
+              "id": "tenshi_step_15_099",
+              "type": "choice",
+              "content": "桌上的手术器械",
+              "group": "3月15日"
+            },
+            {
+              "id": "tenshi_step_15_100",
+              "type": "choice",
+              "content": "桌上的纸条",
+              "group": "3月15日"
+            },
+            {
+              "id": "tenshi_step_15_101",
+              "type": "choice",
+              "content": "不需要",
+              "group": "3月15日"
+            },
+            {
+              "id": "tenshi_step_15_102",
+              "type": "note",
+              "content": "结束搜查",
+              "prefix": "⇒",
+              "subfix": "OK",
+              "group": "3月15日"
+            },
+            {
+              "id": "tenshi_step_15_103",
+              "type": "choice",
+              "content": "必然",
+              "group": "3月15日"
+            },
+            {
+              "id": "tenshi_step_15_104",
+              "type": "choice",
+              "content": "文弥的证词",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "3月15日"
+            },
+            {
+              "id": "tenshi_step_15_105",
+              "type": "choice",
+              "content": "八木沼了一",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "3月15日"
+            },
+            {
+              "id": "tenshi_step_15_106",
+              "type": "choice",
+              "content": "八木沼",
+              "group": "3月15日"
+            },
+            {
+              "id": "tenshi_step_15_107",
+              "type": "choice",
+              "content": "在准备逃跑",
+              "group": "3月15日"
+            },
+            {
+              "id": "tenshi_step_15_108",
+              "type": "choice",
+              "content": "八木沼家·报纸",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "3月15日"
+            },
+            {
+              "id": "tenshi_step_15_109",
+              "type": "choice",
+              "content": "书架上的书",
+              "group": "3月15日"
+            },
+            {
+              "id": "tenshi_step_15_110",
+              "type": "note",
+              "content": "3周目追加剧情(色羽)",
+              "prefix": "※",
+              "group": "3月15日"
+            },
+            {
+              "id": "tenshi_step_15_111",
+              "type": "choice",
+              "content": "遗体的躯体",
+              "group": "2月15日"
+            },
+            {
+              "id": "tenshi_step_15_112",
+              "type": "choice",
+              "content": "遗体的头部",
+              "group": "2月15日"
+            },
+            {
+              "id": "tenshi_step_15_113",
+              "type": "choice",
+              "content": "遗体的脖颈",
+              "group": "2月15日"
+            },
+            {
+              "id": "tenshi_step_15_114",
+              "type": "choice",
+              "content": "遗体的胳膊",
+              "group": "2月15日"
+            },
+            {
+              "id": "tenshi_step_15_115",
+              "type": "choice",
+              "content": "遗体的腿",
+              "group": "2月15日"
+            },
+            {
+              "id": "tenshi_step_15_116",
+              "type": "choice",
+              "content": "遗体的羽翼",
+              "group": "2月15日"
+            },
+            {
+              "id": "tenshi_step_15_117",
+              "type": "choice",
+              "content": "遗体周围的地面",
+              "group": "2月15日"
+            },
+            {
+              "id": "tenshi_step_15_118",
+              "type": "note",
+              "content": "结束搜查",
+              "prefix": "⇒",
+              "subfix": "OK",
+              "group": "2月15日"
+            },
+            {
+              "id": "tenshi_step_15_119",
+              "type": "note",
+              "content": "3周目追加剧情(色羽)",
+              "prefix": "※",
+              "group": "2月15日"
+            },
+            {
+              "id": "tenshi_step_15_120",
+              "type": "note",
+              "content": "3周目追加剧情(色羽)",
+              "prefix": "※",
+              "group": "2月16日"
+            },
+            {
+              "id": "tenshi_step_15_121",
+              "type": "choice",
+              "content": "窗帘",
+              "group": "2月17日"
+            },
+            {
+              "id": "tenshi_step_15_122",
+              "type": "choice",
+              "content": "地上的榻榻米",
+              "group": "2月17日"
+            },
+            {
+              "id": "tenshi_step_15_123",
+              "type": "choice",
+              "content": "墙壁",
+              "group": "2月17日"
+            },
+            {
+              "id": "tenshi_step_15_124",
+              "type": "choice",
+              "content": "左边的壁橱",
+              "group": "2月17日"
+            },
+            {
+              "id": "tenshi_step_15_125",
+              "type": "choice",
+              "content": "天花板",
+              "group": "2月17日"
+            },
+            {
+              "id": "tenshi_step_15_126",
+              "type": "note",
+              "content": "搜查结束",
+              "prefix": "⇒",
+              "subfix": "OK",
+              "group": "2月17日"
+            },
+            {
+              "id": "tenshi_step_15_127",
+              "type": "choice",
+              "content": "有关系",
+              "group": "2月17日"
+            },
+            {
+              "id": "tenshi_step_15_128",
+              "type": "choice",
+              "content": "冬子的事",
+              "group": "2月17日"
+            },
+            {
+              "id": "tenshi_step_15_129",
+              "type": "note",
+              "content": "3周目追加剧情(色羽)",
+              "prefix": "※",
+              "group": "2月17日"
+            },
+            {
+              "id": "tenshi_step_15_130",
+              "type": "note",
+              "content": "3周目追加剧情(色羽)CG回收",
+              "prefix": "※",
+              "group": "2月18日"
+            },
+            {
+              "id": "tenshi_step_15_131",
+              "type": "note",
+              "content": "3周目追加剧情(色羽)CG回收",
+              "prefix": "※",
+              "group": "2月19日"
+            },
+            {
+              "id": "tenshi_step_15_132",
+              "type": "note",
+              "content": "紫flag必须(紫＆真崎)CG回收",
+              "prefix": "※",
+              "group": "2月20日"
+            },
+            {
+              "id": "tenshi_step_15_133",
+              "type": "note",
+              "content": "3周目追加剧情(色羽)",
+              "prefix": "※",
+              "group": "2月20日"
+            },
+            {
+              "id": "tenshi_step_15_134",
+              "type": "choice",
+              "content": "『天罚』也是静画的",
+              "group": "2月21日"
+            },
+            {
+              "id": "tenshi_step_15_135",
+              "type": "choice",
+              "content": "用空的遗体伪装成静的死亡",
+              "group": "2月21日"
+            },
+            {
+              "id": "tenshi_step_15_136",
+              "type": "note",
+              "content": "3周目追加剧情(色羽视角)CG回收",
+              "prefix": "※",
+              "group": "2月21日"
+            },
+            {
+              "id": "tenshi_step_15_137",
+              "type": "choice",
+              "content": "遗体的躯体",
+              "group": "2月22日"
+            },
+            {
+              "id": "tenshi_step_15_138",
+              "type": "choice",
+              "content": "遗体的头部",
+              "group": "2月22日"
+            },
+            {
+              "id": "tenshi_step_15_139",
+              "type": "choice",
+              "content": "遗体的胳膊",
+              "group": "2月22日"
+            },
+            {
+              "id": "tenshi_step_15_140",
+              "type": "choice",
+              "content": "遗体的手",
+              "group": "2月22日"
+            },
+            {
+              "id": "tenshi_step_15_141",
+              "type": "choice",
+              "content": "遗体下的毯子",
+              "group": "2月22日"
+            },
+            {
+              "id": "tenshi_step_15_142",
+              "type": "choice",
+              "content": "遗体旁边的洞穴",
+              "group": "2月22日"
+            },
+            {
+              "id": "tenshi_step_15_143",
+              "type": "note",
+              "content": "结束搜查",
+              "prefix": "⇒",
+              "subfix": "OK",
+              "group": "2月22日"
+            },
+            {
+              "id": "tenshi_step_15_144",
+              "type": "note",
+              "content": "达成grand flag则出现选项",
+              "prefix": "※",
+              "group": "2月22日"
+            },
+            {
+              "id": "tenshi_step_15_145",
+              "type": "choice",
+              "content": "有可能",
+              "prefix": "★",
+              "group": "2月22日"
+            },
+            {
+              "id": "tenshi_step_15_146",
+              "type": "choice",
+              "content": "虫腿",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "2月22日"
+            },
+            {
+              "id": "tenshi_step_15_147",
+              "type": "choice",
+              "content": "土当归洞的尸体·指甲里的土",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "2月22日"
+            },
+            {
+              "id": "tenshi_step_15_148",
+              "type": "choice",
+              "content": "没有",
+              "group": "2月22日"
+            },
+            {
+              "id": "tenshi_step_15_149",
+              "type": "choice",
+              "content": "脸",
+              "group": "2月22日"
+            },
+            {
+              "id": "tenshi_step_15_150",
+              "type": "note",
+              "content": "3周目追加剧情(色羽视角)",
+              "prefix": "※",
+              "group": "2月22日"
+            },
+            {
+              "id": "tenshi_step_15_151",
+              "type": "choice",
+              "content": "进去",
+              "group": "2月23日"
+            },
+            {
+              "id": "tenshi_step_15_152",
+              "type": "note",
+              "content": "3周目追加剧情(色羽视角)",
+              "prefix": "※",
+              "group": "2月23日"
+            },
+            {
+              "id": "tenshi_step_15_153",
+              "type": "choice",
+              "content": "他不是凶手",
+              "group": "2月24日"
+            },
+            {
+              "id": "tenshi_step_15_154",
+              "type": "choice",
+              "content": "正确",
+              "group": "2月24日"
+            },
+            {
+              "id": "tenshi_step_15_155",
+              "type": "choice",
+              "content": "鸣子昭之",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "2月24日"
+            },
+            {
+              "id": "tenshi_step_15_156",
+              "type": "choice",
+              "content": "目击证词",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "2月24日"
+            },
+            {
+              "id": "tenshi_step_15_157",
+              "type": "choice",
+              "content": "说不通",
+              "group": "2月24日"
+            },
+            {
+              "id": "tenshi_step_15_159",
+              "type": "choice",
+              "content": "道路施工",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "2月24日"
+            },
+            {
+              "id": "tenshi_step_15_160",
+              "type": "choice",
+              "content": "被翻开的榻榻米",
+              "group": "2月24日"
+            },
+            {
+              "id": "tenshi_step_15_161",
+              "type": "choice",
+              "content": "昏倒的女性",
+              "group": "2月24日"
+            },
+            {
+              "id": "tenshi_step_15_162",
+              "type": "choice",
+              "content": "散落的面包棒",
+              "group": "2月24日"
+            },
+            {
+              "id": "tenshi_step_15_163",
+              "type": "choice",
+              "content": "地板上的洞",
+              "group": "2月24日"
+            },
+            {
+              "id": "tenshi_step_15_164",
+              "type": "choice",
+              "content": "书桌",
+              "group": "2月24日"
+            },
+            {
+              "id": "tenshi_step_15_165",
+              "type": "choice",
+              "content": "纸拉门",
+              "group": "2月24日"
+            },
+            {
+              "id": "tenshi_step_15_166",
+              "type": "note",
+              "content": "结束搜查",
+              "prefix": "⇒",
+              "subfix": "OK",
+              "group": "2月24日"
+            },
+            {
+              "id": "tenshi_step_15_167",
+              "type": "choice",
+              "content": "发现了",
+              "group": "2月24日"
+            },
+            {
+              "id": "tenshi_step_15_168",
+              "type": "choice",
+              "content": "抢劫",
+              "group": "2月24日"
+            },
+            {
+              "id": "tenshi_step_15_169",
+              "type": "choice",
+              "content": "熟人作案",
+              "group": "2月24日"
+            },
+            {
+              "id": "tenshi_step_15_170",
+              "type": "choice",
+              "content": "防空壕等设施",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "2月24日"
+            },
+            {
+              "id": "tenshi_step_15_171",
+              "type": "choice",
+              "content": "里面确实有什么东西",
+              "group": "2月24日"
+            },
+            {
+              "id": "tenshi_step_15_172",
+              "type": "choice",
+              "content": "虫腿",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "2月24日"
+            },
+            {
+              "id": "tenshi_step_15_173",
+              "type": "choice",
+              "content": "鸣子家·刚出炉的面包",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "2月24日"
+            },
+            {
+              "id": "tenshi_step_15_174",
+              "type": "choice",
+              "content": "给被监禁的少女吃的",
+              "group": "2月24日"
+            },
+            {
+              "id": "tenshi_step_15_175",
+              "type": "choice",
+              "content": "仓库",
+              "prefix": "●",
+              "group": "2月24日"
+            },
+            {
+              "id": "tenshi_step_15_176",
+              "type": "note",
+              "content": "3周目追加剧情(色羽视角)CG回收",
+              "prefix": "※",
+              "group": "2月24日"
+            },
+            {
+              "id": "tenshi_step_15_177",
+              "type": "choice",
+              "content": "监禁了自己的女儿",
+              "group": "2月24日"
+            },
+            {
+              "id": "tenshi_step_15_178",
+              "type": "choice",
+              "content": "鸣子爱美",
+              "group": "2月24日"
+            },
+            {
+              "id": "tenshi_step_15_179",
+              "type": "choice",
+              "content": "多邑春花",
+              "group": "2月24日"
+            },
+            {
+              "id": "tenshi_step_15_180",
+              "type": "note",
+              "content": "达成grand flag则出现选项",
+              "prefix": "※",
+              "group": "2月24日"
+            },
+            {
+              "id": "tenshi_step_15_181",
+              "type": "save",
+              "content": "SAVE 11",
+              "prefix": "◆",
+              "group": "2月24日"
+            },
+            {
+              "id": "tenshi_step_15_182",
+              "type": "choice",
+              "content": "天罚",
+              "prefix": "▼",
+              "subfix": "随便选一个错误选项",
+              "group": "2月24日"
+            },
+            {
+              "id": "tenshi_step_15_184",
+              "type": "note",
+              "content": "3周目追加剧情(千绘视角)CG回收",
+              "prefix": "※",
+              "group": "2月24日"
+            }
+          ]
+        },
+        {
+          "id": "ending_thirteen_third_run",
+          "name": "END13 各自的天堂 END（3周目回收）",
+          "type": "good",
+          "steps": [
+            {
+              "id": "tenshi_step_16_001",
+              "type": "load",
+              "content": "LOAD 11",
+              "prefix": "◆"
+            },
+            {
+              "id": "tenshi_step_16_002",
+              "type": "choice",
+              "content": "土当归洞的尸体：鞋印",
+              "prefix": "▼",
+              "subfix": "决定"
+            },
+            {
+              "id": "tenshi_step_16_003",
+              "type": "choice",
+              "content": "佐枝色羽",
+              "group": "2月24日"
+            },
+            {
+              "id": "tenshi_step_16_004",
+              "type": "choice",
+              "content": "调查一下吧",
+              "group": "2月24日"
+            },
+            {
+              "id": "tenshi_step_16_005",
+              "type": "choice",
+              "content": "引起对案件的关注",
+              "group": "2月25日"
+            },
+            {
+              "id": "tenshi_step_16_006",
+              "type": "choice",
+              "content": "天使的尸体·脖颈",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "2月25日"
+            },
+            {
+              "id": "tenshi_step_16_007",
+              "type": "choice",
+              "content": "鸣子爱美",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "2月25日"
+            },
+            {
+              "id": "tenshi_step_16_008",
+              "type": "choice",
+              "content": "爱美有前科",
+              "group": "2月25日"
+            },
+            {
+              "id": "tenshi_step_16_009",
+              "type": "choice",
+              "content": "六识命",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "2月25日"
+            },
+            {
+              "id": "tenshi_step_16_010",
+              "type": "choice",
+              "content": "朽木文弥",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "2月26日"
+            },
+            {
+              "id": "tenshi_step_16_011",
+              "type": "choice",
+              "content": "忍耐",
+              "group": "2月27日"
+            },
+            {
+              "id": "tenshi_step_16_012",
+              "type": "save",
+              "content": "SAVE 12",
+              "prefix": "◆",
+              "group": "2月27日"
+            },
+            {
+              "id": "tenshi_step_16_013",
+              "type": "choice",
+              "content": "让他继续",
+              "group": "2月27日"
+            },
+            {
+              "id": "tenshi_step_16_014",
+              "type": "note",
+              "content": "3周目追加剧情(黑矢尚织＆二见忧)CG回收",
+              "prefix": "※",
+              "group": "2月27日"
+            }
+          ]
+        },
+        {
+          "id": "ending_fifteen",
+          "name": "END15 NORMAL END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "tenshi_step_17_001",
+              "type": "load",
+              "content": "LOAD 12",
+              "prefix": "◆"
+            },
+            {
+              "id": "tenshi_step_17_002",
+              "type": "choice",
+              "content": "阻止真崎"
+            },
+            {
+              "id": "tenshi_step_17_003",
+              "type": "note",
+              "content": "CG回收(紫)",
+              "prefix": "※"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

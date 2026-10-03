@@ -1,0 +1,931 @@
+{
+  "vid": "v14267",
+  "name": {
+    "zh-cn": "FLOWERS 春篇",
+    "en-us": "Flowers -Le volume sur printemps-",
+    "ja-jp": "FLOWERS 春篇",
+    "ja-Latn": "flowers-le-volume-sur-printemps"
+  },
+  "level": 1,
+  "updatedAt": "2026-05-07",
+  "tips": [
+    "一周目中只能达成真由理结局，立花结局需要从头开始二周目"
+  ],
+  "routes": [
+    {
+      "id": "route_flowers_spring",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_yuri_end",
+          "name": "匂坂真由理 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_yuri_000",
+              "type": "choice",
+              "content": "还是帮她取下花瓣比较好"
+            },
+            {
+              "id": "step_yuri_0011",
+              "type": "choice",
+              "content": "向她解释是自己先向真由理搭话的"
+            },
+            {
+              "id": "step_yuri_001",
+              "type": "choice",
+              "content": "做出对方似乎会中意的回答"
+            },
+            {
+              "id": "step_yuri_002",
+              "type": "choice",
+              "content": "第一印象最重要"
+            },
+            {
+              "id": "step_yuri_003",
+              "type": "choice",
+              "content": "草莓同学的话肯定合适"
+            },
+            {
+              "id": "step_yuri_004",
+              "type": "choice",
+              "content": "是"
+            },
+            {
+              "id": "step_yuri_010",
+              "type": "choice",
+              "content": "询问她想要怎样的友人"
+            },
+            {
+              "id": "step_yuri_011",
+              "type": "choice",
+              "content": "匂坂真由理比较好"
+            },
+            {
+              "id": "step_yuri_012",
+              "type": "choice",
+              "content": "坦陈实情"
+            },
+            {
+              "id": "step_yuri_013",
+              "type": "choice",
+              "content": "增进关系的绝好机会啊！"
+            },
+            {
+              "id": "step_yuri_014",
+              "type": "choice",
+              "content": "因为有约在先"
+            },
+            {
+              "id": "step_yuri_015",
+              "type": "choice",
+              "content": "喜欢斯嘉丽·奥哈拉吧"
+            },
+            {
+              "id": "step_yuri_016",
+              "type": "choice",
+              "content": "告诉老师自己身体僵硬"
+            },
+            {
+              "id": "step_yuri_017",
+              "type": "choice",
+              "content": "说自己在人前更衣很害羞"
+            },
+            {
+              "id": "step_yuri_018",
+              "type": "choice",
+              "content": "说这件事由我来调查"
+            },
+            {
+              "id": "step_yuri_019",
+              "type": "choice",
+              "content": "两人独处的热血指导之类的？"
+            },
+            {
+              "id": "step_yuri_020",
+              "type": "choice",
+              "content": "把书藏到身后"
+            },
+            {
+              "id": "step_yuri_023",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_yuri_021",
+              "type": "choice",
+              "content": "因为坐着轮椅，只好放在了最下铺的床上"
+            },
+            {
+              "id": "step_yuri_022",
+              "type": "choice",
+              "content": "《呼啸山庄》"
+            },
+            {
+              "id": "step_yuri_024",
+              "type": "choice",
+              "content": "艾莉卡"
+            },
+            {
+              "id": "step_yuri_025",
+              "type": "choice",
+              "content": "既然她们都来依靠我了"
+            },
+            {
+              "id": "step_yuri_026",
+              "type": "choice",
+              "content": "进了文艺部……"
+            },
+            {
+              "id": "step_yuri_027",
+              "type": "choice",
+              "content": "我们再去其他社团转转吧"
+            },
+            {
+              "id": "step_yuri_028",
+              "type": "choice",
+              "content": "如果真由理同学也入部的话……"
+            },
+            {
+              "id": "step_yuri_029",
+              "type": "choice",
+              "content": "难道是沙沙贵同学说的那位前辈？"
+            },
+            {
+              "id": "step_yuri_030",
+              "type": "choice",
+              "content": "钢琴的话能弹一些"
+            },
+            {
+              "id": "step_yuri_031",
+              "type": "choice",
+              "content": "反抗"
+            },
+            {
+              "id": "step_yuri_032",
+              "type": "choice",
+              "content": "坦诚"
+            },
+            {
+              "id": "step_yuri_033",
+              "type": "choice",
+              "content": "意大利"
+            },
+            {
+              "id": "step_yuri_034",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_yuri_035",
+              "type": "choice",
+              "content": "17"
+            },
+            {
+              "id": "step_yuri_036",
+              "type": "choice",
+              "content": "该上前打招呼"
+            },
+            {
+              "id": "step_yuri_037",
+              "type": "choice",
+              "content": "介入调停"
+            },
+            {
+              "id": "step_yuri_038",
+              "type": "choice",
+              "content": "和真由理同学关系更好"
+            },
+            {
+              "id": "step_yuri_039",
+              "type": "choice",
+              "content": "接受她的善意"
+            },
+            {
+              "id": "step_yuri_040",
+              "type": "choice",
+              "content": "我觉得还是草莓同学的腿比较漂亮"
+            },
+            {
+              "id": "step_yuri_041",
+              "type": "choice",
+              "content": "还是希望她回归原来的她"
+            },
+            {
+              "id": "step_yuri_042",
+              "type": "choice",
+              "content": "也许是真的想跟我成为朋友"
+            },
+            {
+              "id": "step_yuri_043",
+              "type": "choice",
+              "content": "再等等吧"
+            },
+            {
+              "id": "step_yuri_044",
+              "type": "choice",
+              "content": "一笑而过，原谅她们"
+            },
+            {
+              "id": "step_yuri_045",
+              "type": "choice",
+              "content": "我喜欢辣的"
+            },
+            {
+              "id": "step_yuri_046",
+              "type": "choice",
+              "content": "没怎么读过"
+            },
+            {
+              "id": "step_yuri_047",
+              "type": "choice",
+              "content": "指出罐头已过了最佳食用日期"
+            },
+            {
+              "id": "step_yuri_048",
+              "type": "choice",
+              "content": "大概猜到了"
+            },
+            {
+              "id": "step_yuri_049",
+              "type": "choice",
+              "content": "既然立花同学害怕，就不要太强硬了"
+            },
+            {
+              "id": "step_yuri_050",
+              "type": "choice",
+              "content": "请让我考虑一下"
+            },
+            {
+              "id": "step_yuri_051",
+              "type": "choice",
+              "content": "将偷窥报告给真由理"
+            },
+            {
+              "id": "step_yuri_052",
+              "type": "choice",
+              "content": "问她是不是喜欢怪谈"
+            },
+            {
+              "id": "step_yuri_056",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_yuri_053",
+              "type": "choice",
+              "content": "自导自演的“失踪”"
+            },
+            {
+              "id": "step_yuri_054",
+              "type": "choice",
+              "content": "看起来像直到刚才还在饮用的碳酸饮料"
+            },
+            {
+              "id": "step_yuri_055",
+              "type": "choice",
+              "content": "明明并不冷却被拉上了的窗帘"
+            },
+            {
+              "id": "step_yuri_057",
+              "type": "choice",
+              "content": "沙沙贵莓"
+            },
+            {
+              "id": "step_yuri_058",
+              "type": "choice",
+              "content": "那圣母役是八代前辈来担当吗？"
+            },
+            {
+              "id": "step_yuri_059",
+              "type": "choice",
+              "content": "让同学们二选一就好"
+            },
+            {
+              "id": "step_yuri_060",
+              "type": "choice",
+              "content": "我一定帮忙"
+            },
+            {
+              "id": "step_yuri_061",
+              "type": "choice",
+              "content": "给立花同学倒茶"
+            },
+            {
+              "id": "step_yuri_062",
+              "type": "choice",
+              "content": "“沙沙贵同学她们其实没有恶意”"
+            },
+            {
+              "id": "step_yuri_063",
+              "type": "choice",
+              "content": "断然拒绝"
+            },
+            {
+              "id": "step_yuri_064",
+              "type": "choice",
+              "content": "我自己去说"
+            },
+            {
+              "id": "step_yuri_065",
+              "type": "choice",
+              "content": "不能因为我让她们再次失和"
+            },
+            {
+              "id": "step_yuri_066",
+              "type": "choice",
+              "content": "做出肯定回答"
+            },
+            {
+              "id": "step_yuri_067",
+              "type": "choice",
+              "content": "名字后不加敬称了？"
+            },
+            {
+              "id": "step_yuri_068",
+              "type": "choice",
+              "content": "稍微游过泳"
+            },
+            {
+              "id": "step_yuri_069",
+              "type": "choice",
+              "content": "不能去打扰她学习"
+            },
+            {
+              "id": "step_yuri_070",
+              "type": "choice",
+              "content": "我认为是必要的"
+            },
+            {
+              "id": "step_yuri_071",
+              "type": "choice",
+              "content": "相信八重垣同学"
+            },
+            {
+              "id": "step_yuri_072",
+              "type": "choice",
+              "content": "真卑鄙……"
+            },
+            {
+              "id": "step_yuri_073",
+              "type": "choice",
+              "content": "和八代前辈的事有关？"
+            },
+            {
+              "id": "step_yuri_077",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_yuri_074",
+              "type": "choice",
+              "content": "八代前辈因不注意而发生了事故"
+            },
+            {
+              "id": "step_yuri_075",
+              "type": "choice",
+              "content": "温室"
+            },
+            {
+              "id": "step_yuri_076",
+              "type": "choice",
+              "content": "“樱”是某种事物的隐语"
+            },
+            {
+              "id": "step_yuri_078",
+              "type": "choice",
+              "content": "书包"
+            },
+            {
+              "id": "step_yuri_079",
+              "type": "choice",
+              "content": "宿舍的变形怪"
+            },
+            {
+              "id": "step_yuri_080",
+              "type": "choice",
+              "content": "为了真由理"
+            },
+            {
+              "id": "step_yuri_081",
+              "type": "choice",
+              "content": "集中精神"
+            },
+            {
+              "id": "step_yuri_082",
+              "type": "choice",
+              "content": "谢谢你，艾莉卡同学"
+            },
+            {
+              "id": "step_yuri_083",
+              "type": "choice",
+              "content": "八代前辈之类的"
+            },
+            {
+              "id": "step_yuri_084",
+              "type": "choice",
+              "content": "没事的"
+            },
+            {
+              "id": "step_yuri_085",
+              "type": "choice",
+              "content": "怎么可能"
+            }
+          ]
+        },
+        {
+          "id": "ending_bad_01",
+          "name": "BADEND01",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_bad01_001",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_bad01_002",
+              "type": "choice",
+              "content": "选非正确选项"
+            }
+          ]
+        },
+        {
+          "id": "ending_bad_02",
+          "name": "BADEND02",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_bad02_001",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_bad02_002",
+              "type": "choice",
+              "content": "选非正确选项"
+            }
+          ]
+        },
+        {
+          "id": "ending_bad_03",
+          "name": "BADEND03",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_bad03_001",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_bad03_002",
+              "type": "choice",
+              "content": "选非正确选项"
+            }
+          ]
+        },
+        {
+          "id": "ending_bad_04",
+          "name": "BADEND04",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_bad04_001",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_bad04_002",
+              "type": "choice",
+              "content": "选非正确选项"
+            }
+          ]
+        },
+        {
+          "id": "ending_rikka_end",
+          "name": "花菱立花 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_rikka_001",
+              "type": "choice",
+              "content": "不，这不正好往火坑里跳了吗"
+            },
+            {
+              "id": "step_rikka_002",
+              "type": "choice",
+              "content": "陷入了沉默"
+            },
+            {
+              "id": "step_rikka_003",
+              "type": "choice",
+              "content": "应该照实回答"
+            },
+            {
+              "id": "step_rikka_004",
+              "type": "choice",
+              "content": "做稳妥的自我介绍"
+            },
+            {
+              "id": "step_rikka_005",
+              "type": "choice",
+              "content": "只要是女生都合适"
+            },
+            {
+              "id": "step_rikka_006",
+              "type": "choice",
+              "content": "不是"
+            },
+            {
+              "id": "step_rikka_012",
+              "type": "choice",
+              "content": "道歉并接过自己的卷子"
+            },
+            {
+              "id": "step_rikka_013",
+              "type": "choice",
+              "content": "花菱立花比较好"
+            },
+            {
+              "id": "step_rikka_014",
+              "type": "choice",
+              "content": "因为吓了一跳"
+            },
+            {
+              "id": "step_rikka_015",
+              "type": "choice",
+              "content": "好像有点害羞"
+            },
+            {
+              "id": "step_rikka_016",
+              "type": "choice",
+              "content": "确实，立花同学说得有道理"
+            },
+            {
+              "id": "step_rikka_017",
+              "type": "choice",
+              "content": "大概是梅勒妮吧"
+            },
+            {
+              "id": "step_rikka_018",
+              "type": "choice",
+              "content": "顺从地回应"
+            },
+            {
+              "id": "step_rikka_019",
+              "type": "choice",
+              "content": "说自己因为不擅长芭蕾而很失落"
+            },
+            {
+              "id": "step_rikka_020",
+              "type": "choice",
+              "content": "说可能是我的错觉"
+            },
+            {
+              "id": "step_rikka_021",
+              "type": "choice",
+              "content": "普通的补习吧？"
+            },
+            {
+              "id": "step_rikka_022",
+              "type": "choice",
+              "content": "大声叫“不是这样的”"
+            },
+            {
+              "id": "step_rikka_023",
+              "type": "choice",
+              "content": "因为坐着轮椅，只好放在了最下铺的床上"
+            },
+            {
+              "id": "step_rikka_024",
+              "type": "choice",
+              "content": "《呼啸山庄》"
+            },
+            {
+              "id": "step_rikka_025",
+              "type": "choice",
+              "content": "艾莉卡"
+            },
+            {
+              "id": "step_rikka_026",
+              "type": "choice",
+              "content": "不好意思，还是和amitié一起……"
+            },
+            {
+              "id": "step_rikka_027",
+              "type": "choice",
+              "content": "我没加入社团"
+            },
+            {
+              "id": "step_rikka_028",
+              "type": "choice",
+              "content": "立花同学的话一定没问题的"
+            },
+            {
+              "id": "step_rikka_029",
+              "type": "choice",
+              "content": "这个有点……"
+            },
+            {
+              "id": "step_rikka_030",
+              "type": "choice",
+              "content": "是八重垣同学的朋友吗？"
+            },
+            {
+              "id": "step_rikka_031",
+              "type": "choice",
+              "content": "从没有任何经验"
+            },
+            {
+              "id": "step_rikka_032",
+              "type": "choice",
+              "content": "还是赶快平复比较重要"
+            },
+            {
+              "id": "step_rikka_033",
+              "type": "choice",
+              "content": "说谎"
+            },
+            {
+              "id": "step_rikka_034",
+              "type": "choice",
+              "content": "意大利"
+            },
+            {
+              "id": "step_rikka_035",
+              "type": "choice",
+              "content": "17"
+            },
+            {
+              "id": "step_rikka_036",
+              "type": "choice",
+              "content": "怎么可能上去搭话"
+            },
+            {
+              "id": "step_rikka_037",
+              "type": "choice",
+              "content": "什么都不做"
+            },
+            {
+              "id": "step_rikka_038",
+              "type": "choice",
+              "content": "和立花同学关系更好"
+            },
+            {
+              "id": "step_rikka_039",
+              "type": "choice",
+              "content": "拒绝她的好意"
+            },
+            {
+              "id": "step_rikka_040",
+              "type": "choice",
+              "content": "胸大又能怎么样……"
+            },
+            {
+              "id": "step_rikka_041",
+              "type": "choice",
+              "content": "把她弄成宅有点……"
+            },
+            {
+              "id": "step_rikka_042",
+              "type": "choice",
+              "content": "一定又会被捉弄的"
+            },
+            {
+              "id": "step_rikka_043",
+              "type": "choice",
+              "content": "现在走的话，可能不用见面就能收场了"
+            },
+            {
+              "id": "step_rikka_044",
+              "type": "choice",
+              "content": "因太伤心而说不出话"
+            },
+            {
+              "id": "step_rikka_045",
+              "type": "choice",
+              "content": "就用盐吧"
+            },
+            {
+              "id": "step_rikka_046",
+              "type": "choice",
+              "content": "普通地喜欢吧"
+            },
+            {
+              "id": "step_rikka_047",
+              "type": "choice",
+              "content": "还是不戳破了吧"
+            },
+            {
+              "id": "step_rikka_048",
+              "type": "choice",
+              "content": "不敢肯定"
+            },
+            {
+              "id": "step_rikka_049",
+              "type": "choice",
+              "content": "说服二人"
+            },
+            {
+              "id": "step_rikka_050",
+              "type": "choice",
+              "content": "请容我拒绝"
+            },
+            {
+              "id": "step_rikka_051",
+              "type": "choice",
+              "content": "忠告双子趁现在快回去"
+            },
+            {
+              "id": "step_rikka_052",
+              "type": "choice",
+              "content": "“要陪着她们瞎闹也挺头疼的吧？"
+            },
+            {
+              "id": "step_rikka_053",
+              "type": "choice",
+              "content": "自导自演的“失踪”"
+            },
+            {
+              "id": "step_rikka_054",
+              "type": "choice",
+              "content": "看起来像直到刚才还在饮用的碳酸饮料"
+            },
+            {
+              "id": "step_rikka_055",
+              "type": "choice",
+              "content": "明明并不冷却被拉上了的窗帘"
+            },
+            {
+              "id": "step_rikka_056",
+              "type": "choice",
+              "content": "沙沙贵莓"
+            },
+            {
+              "id": "step_rikka_057",
+              "type": "choice",
+              "content": "尼西亚会会有什么展示呢？"
+            },
+            {
+              "id": "step_rikka_058",
+              "type": "choice",
+              "content": "利用班长的权限决定"
+            },
+            {
+              "id": "step_rikka_059",
+              "type": "choice",
+              "content": "如果在我有空时帮忙就好的话……"
+            },
+            {
+              "id": "step_rikka_060",
+              "type": "choice",
+              "content": "制止真由理同学"
+            },
+            {
+              "id": "step_rikka_061",
+              "type": "choice",
+              "content": "“真由理同学说得太过了”"
+            },
+            {
+              "id": "step_rikka_062",
+              "type": "choice",
+              "content": "询问是否有其他候补人员"
+            },
+            {
+              "id": "step_rikka_063",
+              "type": "choice",
+              "content": "到时候就麻烦您了"
+            },
+            {
+              "id": "step_rikka_064",
+              "type": "choice",
+              "content": "只能这样了吧"
+            },
+            {
+              "id": "step_rikka_065",
+              "type": "choice",
+              "content": "默不作声"
+            },
+            {
+              "id": "step_rikka_066",
+              "type": "choice",
+              "content": "给对方取个昵称？"
+            },
+            {
+              "id": "step_rikka_067",
+              "type": "choice",
+              "content": "慢跑之类的"
+            },
+            {
+              "id": "step_rikka_068",
+              "type": "choice",
+              "content": "时间不长的话……"
+            },
+            {
+              "id": "step_rikka_069",
+              "type": "choice",
+              "content": "如果是以前那种制度就很好"
+            },
+            {
+              "id": "step_rikka_070",
+              "type": "choice",
+              "content": "相信小御门前辈"
+            },
+            {
+              "id": "step_rikka_071",
+              "type": "choice",
+              "content": "你不会那么做的"
+            },
+            {
+              "id": "step_rikka_072",
+              "type": "save",
+              "content": "SAVE 5"
+            },
+            {
+              "id": "step_rikka_073",
+              "type": "choice",
+              "content": "接受立花"
+            }
+          ]
+        },
+        {
+          "id": "ending_bad_05",
+          "name": "BADEND05",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_bad05_001",
+              "type": "load",
+              "content": "LOAD 5"
+            },
+            {
+              "id": "step_bad05_002",
+              "type": "choice",
+              "content": "不接受"
+            },
+            {
+              "id": "step_bad05_003",
+              "type": "choice",
+              "content": "她要退学？"
+            },
+            {
+              "id": "step_bad05_004",
+              "type": "choice",
+              "content": "八代前辈因不注意而发生了事故"
+            },
+            {
+              "id": "step_bad05_005",
+              "type": "choice",
+              "content": "温室"
+            },
+            {
+              "id": "step_bad05_006",
+              "type": "choice",
+              "content": "“樱”是某种事物的隐语"
+            },
+            {
+              "id": "step_bad05_007",
+              "type": "choice",
+              "content": "书包"
+            },
+            {
+              "id": "step_bad05_008",
+              "type": "choice",
+              "content": "真实的女神"
+            },
+            {
+              "id": "step_bad05_009",
+              "type": "choice",
+              "content": "为了八代前辈"
+            },
+            {
+              "id": "step_bad05_010",
+              "type": "choice",
+              "content": "紧紧握住右手"
+            },
+            {
+              "id": "step_bad05_011",
+              "type": "choice",
+              "content": "真的还能挽回吗"
+            },
+            {
+              "id": "step_bad05_012",
+              "type": "choice",
+              "content": "教职员之类的"
+            },
+            {
+              "id": "step_bad05_013",
+              "type": "choice",
+              "content": "真不行时就拜托你们了"
+            },
+            {
+              "id": "step_bad05_014",
+              "type": "choice",
+              "content": "我们看着……像在交往？"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

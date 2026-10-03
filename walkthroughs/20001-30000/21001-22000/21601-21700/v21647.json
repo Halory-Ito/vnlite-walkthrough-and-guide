@@ -1,0 +1,389 @@
+{
+  "vid": "v21647",
+  "name": {
+    "zh-cn": "交汇协奏曲",
+    "ja-jp": "クロスコンチェルト",
+    "ja-Latn": "cross-concerto"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-16",
+  "routes": [
+    {
+      "id": "route_game",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_mika_bad",
+          "name": "西条美加 END1",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_mika_bad_01",
+              "type": "note",
+              "content": "帮助",
+              "prefix": "*"
+            },
+            {
+              "id": "step_mika_bad_02",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_mika_bad_03",
+              "type": "choice",
+              "content": "我们自己想办法"
+            },
+            {
+              "id": "step_mika_bad_04",
+              "type": "choice",
+              "content": "冲进大楼"
+            },
+            {
+              "id": "step_mika_bad_05",
+              "type": "choice",
+              "content": "从下面接住她"
+            },
+            {
+              "id": "step_mika_bad_06",
+              "type": "choice",
+              "content": "再想别的办法"
+            },
+            {
+              "id": "step_mika_bad_07",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_mika_bad_08",
+              "type": "choice",
+              "content": "大声叫住她"
+            }
+          ]
+        },
+        {
+          "id": "ending_mika",
+          "name": "西条美加 END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_mika_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_mika_02",
+              "type": "choice",
+              "content": "急忙抓住她的手臂"
+            }
+          ]
+        },
+        {
+          "id": "ending_kanae",
+          "name": "初芝香苗 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_kanae_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_kanae_02",
+              "type": "choice",
+              "content": "寻找帮手"
+            },
+            {
+              "id": "step_kanae_03",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_kanae_04",
+              "type": "choice",
+              "content": "找初芝老师帮忙"
+            }
+          ]
+        },
+        {
+          "id": "ending_aya",
+          "name": "中野绫 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_aya_01",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_aya_02",
+              "type": "choice",
+              "content": "找同班同学绫帮忙"
+            }
+          ]
+        },
+        {
+          "id": "ending_normal",
+          "name": "Normal END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_normal_01",
+              "type": "note",
+              "content": "上面3名角色完成攻略后，从最初开始",
+              "prefix": "※"
+            },
+            {
+              "id": "step_normal_02",
+              "type": "choice",
+              "content": "看看情况"
+            },
+            {
+              "id": "step_normal_03",
+              "type": "choice",
+              "content": "第一次见面时的事情"
+            },
+            {
+              "id": "step_normal_04",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_normal_05",
+              "type": "choice",
+              "content": "回到村子里"
+            }
+          ]
+        },
+        {
+          "id": "ending_toko_normal",
+          "name": "西宫透子 END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_toko_normal_01",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_toko_normal_02",
+              "type": "choice",
+              "content": "留在这里"
+            },
+            {
+              "id": "step_toko_normal_03",
+              "type": "save",
+              "content": "SAVE 5"
+            },
+            {
+              "id": "step_toko_normal_04",
+              "type": "choice",
+              "content": "和透子学姐前往废墟"
+            },
+            {
+              "id": "step_toko_normal_05",
+              "type": "save",
+              "content": "SAVE 6"
+            },
+            {
+              "id": "step_toko_normal_06",
+              "type": "choice",
+              "content": "无法深入发展到那种关系"
+            }
+          ]
+        },
+        {
+          "id": "ending_toko",
+          "name": "西宫透子 END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_toko_01",
+              "type": "load",
+              "content": "LOAD 6"
+            },
+            {
+              "id": "step_toko_02",
+              "type": "choice",
+              "content": "想和学姐交往"
+            }
+          ]
+        },
+        {
+          "id": "ending_mirai_bad",
+          "name": "初芝未来 END1",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_mirai_bad_01",
+              "type": "load",
+              "content": "LOAD 5"
+            },
+            {
+              "id": "step_mirai_bad_02",
+              "type": "choice",
+              "content": "日后再说"
+            },
+            {
+              "id": "step_mirai_bad_03",
+              "type": "save",
+              "content": "SAVE 7"
+            },
+            {
+              "id": "step_mirai_bad_04",
+              "type": "choice",
+              "content": "去学校"
+            },
+            {
+              "id": "step_mirai_bad_05",
+              "type": "save",
+              "content": "SAVE 8"
+            },
+            {
+              "id": "step_mirai_bad_06",
+              "type": "choice",
+              "content": "我无法伤害学姐"
+            }
+          ]
+        },
+        {
+          "id": "ending_mirai",
+          "name": "初芝未来 END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_mirai_01",
+              "type": "load",
+              "content": "LOAD 8"
+            },
+            {
+              "id": "step_mirai_02",
+              "type": "choice",
+              "content": "接受学姐的温柔"
+            }
+          ]
+        },
+        {
+          "id": "ending_kyoka_normal",
+          "name": "稻田镜花 END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_kyoka_normal_01",
+              "type": "load",
+              "content": "LOAD 7"
+            },
+            {
+              "id": "step_kyoka_normal_02",
+              "type": "choice",
+              "content": "等待瑠璃"
+            },
+            {
+              "id": "step_kyoka_normal_03",
+              "type": "save",
+              "content": "SAVE 9"
+            },
+            {
+              "id": "step_kyoka_normal_04",
+              "type": "choice",
+              "content": "说服镜花"
+            },
+            {
+              "id": "step_kyoka_normal_05",
+              "type": "choice",
+              "content": "她说预知了未来"
+            },
+            {
+              "id": "step_kyoka_normal_06",
+              "type": "choice",
+              "content": "喜欢"
+            },
+            {
+              "id": "step_kyoka_normal_07",
+              "type": "save",
+              "content": "SAVE 10"
+            },
+            {
+              "id": "step_kyoka_normal_08",
+              "type": "choice",
+              "content": "逃离这座城市"
+            }
+          ]
+        },
+        {
+          "id": "ending_kyoka",
+          "name": "稻田镜花 END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_kyoka_01",
+              "type": "load",
+              "content": "LOAD 10"
+            },
+            {
+              "id": "step_kyoka_02",
+              "type": "choice",
+              "content": "面对灵异"
+            }
+          ]
+        },
+        {
+          "id": "ending_ruri_normal",
+          "name": "八重垣瑠璃 END1",
+          "type": "normal",
+          "requirements": "其他角色攻略后",
+          "steps": [
+            {
+              "id": "step_ruri_normal_02",
+              "type": "load",
+              "content": "LOAD 9"
+            },
+            {
+              "id": "step_ruri_normal_03",
+              "type": "choice",
+              "content": "和瑠璃一起行动"
+            },
+            {
+              "id": "step_ruri_normal_04",
+              "type": "save",
+              "content": "SAVE 11"
+            },
+            {
+              "id": "step_ruri_normal_05",
+              "type": "choice",
+              "content": "送她离开"
+            }
+          ]
+        },
+        {
+          "id": "ending_ruri",
+          "name": "八重垣瑠璃 END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_ruri_01",
+              "type": "load",
+              "content": "LOAD 11"
+            },
+            {
+              "id": "step_ruri_02",
+              "type": "choice",
+              "content": "叫住瑠璃"
+            }
+          ]
+        },
+        {
+          "id": "ending_true",
+          "name": "Lapis Lazuli",
+          "type": "true",
+          "requirements": "瑠璃END后自动进入",
+          "steps": [
+            {
+              "type": "choice",
+              "content": "（源站步骤均为空）"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "vid": "v828",
+  "name": {
+    "zh-cn": "游魂 -Kiss on my Deity-",
+    "en-us": "Tayutama: Kiss on my Deity",
+    "ja-jp": "タユタマ -kiss on my deity-",
+    "ja-Latn": "tayutama-kiss-on-my-deity"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-12",
+  "tips": [
+    "关闭动画效果会导致一些CG不被填补，所以请务必打开动画效果"
+  ],
+  "routes": [
+    {
+      "id": "route_1756448235802",
+      "name": "泉户 真白",
+      "endings": [
+        {
+          "id": "ending_1756448241769",
+          "name": "真白 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756448257284",
+              "type": "choice",
+              "content": "如果可以我当然也不想离开啦"
+            },
+            {
+              "id": "step_1756448257689",
+              "type": "choice",
+              "content": "关于创圣学院自己自言自语"
+            },
+            {
+              "id": "step_1756448258638",
+              "type": "choice",
+              "content": "那当然有兴趣咯"
+            },
+            {
+              "id": "step_1756448259162",
+              "type": "choice",
+              "content": "真期待春天呢"
+            },
+            {
+              "id": "step_1756448259654",
+              "type": "choice",
+              "content": "要有成人的样子说YES接受吧"
+            },
+            {
+              "id": "step_1756448260724",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1756448262303",
+              "type": "choice",
+              "content": "原来这话这么没分量啊…"
+            },
+            {
+              "id": "step_1756448262889",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1756448264119",
+              "type": "choice",
+              "content": "真白你真的行吗？"
+            },
+            {
+              "id": "step_1756448264624",
+              "type": "choice",
+              "content": "接受"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756448334321",
+      "name": "河合 亚芽里",
+      "endings": [
+        {
+          "id": "ending_1756448359431",
+          "name": "亚芽里 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756448365059",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1756448367699",
+              "type": "choice",
+              "content": "我可是在担心你啊"
+            },
+            {
+              "id": "step_1756448368104",
+              "type": "choice",
+              "content": "对真白来说也是有关的话题吧？"
+            },
+            {
+              "id": "step_1756448368574",
+              "type": "choice",
+              "content": "拒绝"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756448410006",
+      "name": "小鸟游 由美奈",
+      "endings": [
+        {
+          "id": "ending_1756448413388",
+          "name": "由美奈 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756448418625",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1756448421711",
+              "type": "choice",
+              "content": "由美奈，你考进这种地方了吗…"
+            },
+            {
+              "id": "step_1756448421927",
+              "type": "choice",
+              "content": "拒绝"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756448447110",
+      "name": "如月 美冬",
+      "endings": [
+        {
+          "id": "ending_1756448461837",
+          "name": "美冬 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756448463815",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1756448465087",
+              "type": "choice",
+              "content": "如月小姐是这里的米雷蒂啊，真厉害"
+            },
+            {
+              "id": "step_1756448483181",
+              "type": "choice",
+              "content": "拒绝"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

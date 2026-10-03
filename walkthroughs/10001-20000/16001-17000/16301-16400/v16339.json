@@ -1,0 +1,235 @@
+{
+  "vid": "v16339",
+  "name": {
+    "zh-cn": "正负战争",
+    "ja-jp": "プラマイウォーズ",
+    "ja-Latn": "puramai-wars"
+  },
+  "level": 2,
+  "updatedAt": "2026-02-27",
+  "routes": [
+    {
+      "id": "route_1755698314966",
+      "name": "喜多 境子",
+      "endings": [
+        {
+          "id": "ending_1755698402869",
+          "name": "境子 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755698427605",
+              "type": "choice",
+              "content": "去厨房看看"
+            },
+            {
+              "id": "step_1755698427773",
+              "type": "choice",
+              "content": "去一楼走廊"
+            },
+            {
+              "id": "step_1755698427929",
+              "type": "choice",
+              "content": "去二楼走廊"
+            },
+            {
+              "id": "step_1755698428075",
+              "type": "choice",
+              "content": "去阳台"
+            },
+            {
+              "id": "step_1755698428674",
+              "type": "choice",
+              "content": "产生了情欲！"
+            },
+            {
+              "id": "step_1755698430694",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1755698431656",
+              "type": "choice",
+              "content": "注意到眼神躲闪的芽衣"
+            },
+            {
+              "id": "step_1755698431842",
+              "type": "choice",
+              "content": "试着推荐实乃璃喜欢的风格"
+            },
+            {
+              "id": "step_1755698432101",
+              "type": "choice",
+              "content": "赶往惨叫声的方向"
+            },
+            {
+              "id": "step_1755698432691",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1755698433546",
+              "type": "choice",
+              "content": "和境子一起玩"
+            },
+            {
+              "id": "step_1755698434155",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_1755698435391",
+              "type": "choice",
+              "content": "境子"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755698561359",
+      "name": "神宮 巴",
+      "endings": [
+        {
+          "id": "ending_1755698570860",
+          "name": "巴 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755698744646",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1755698748223",
+              "type": "choice",
+              "content": "屈服于巴的威严"
+            },
+            {
+              "id": "step_1755698748418",
+              "type": "choice",
+              "content": "我个人喜欢的可爱系"
+            },
+            {
+              "id": "step_1755698748723",
+              "type": "choice",
+              "content": "保护女孩们"
+            },
+            {
+              "id": "step_1755698753982",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_1755698775285",
+              "type": "choice",
+              "content": "和巴一起玩"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755698782960",
+      "name": "神宫 实乃璃",
+      "endings": [
+        {
+          "id": "ending_1755698790625",
+          "name": "实乃璃 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755698797073",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1755698802036",
+              "type": "choice",
+              "content": "和实乃璃玩"
+            },
+            {
+              "id": "step_1755698802307",
+              "type": "choice",
+              "content": "实乃璃"
+            },
+            {
+              "id": "step_1755698802729",
+              "type": "choice",
+              "content": "你被网络文化毒害太深"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755698818689",
+      "name": "喜多芽衣",
+      "endings": [
+        {
+          "id": "ending_1755698823649",
+          "name": "芽衣 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755698835337",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1755698835824",
+              "type": "choice",
+              "content": "芽衣"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755698846553",
+      "name": "神宮 蓝咲",
+      "endings": [
+        {
+          "id": "ending_1755698852968",
+          "name": "蓝咲 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755698861902",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_1755698865908",
+              "type": "choice",
+              "content": "和蓝咲一起玩"
+            },
+            {
+              "id": "step_1755698866234",
+              "type": "choice",
+              "content": "蓝咲"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755698901379",
+      "name": "水无月 时野",
+      "endings": [
+        {
+          "id": "ending_1755698931227",
+          "name": "时野 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755698937350",
+              "type": "note",
+              "content": "标题画面的右下方选择预约特典的“正确使用金钱”场景。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

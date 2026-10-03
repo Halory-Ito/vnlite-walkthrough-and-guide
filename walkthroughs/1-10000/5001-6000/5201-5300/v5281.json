@@ -1,0 +1,136 @@
+{
+  "vid": "v5281",
+  "name": {
+    "zh-cn": "星の王子くん",
+    "ja-jp": "星の王子くん",
+    "ja-Latn": "hoshi-no-ouji-kun"
+  },
+  "level": 2,
+  "updatedAt": "2026-04-09",
+  "tips": [
+    "◆选项为二周目选项"
+  ],
+  "routes": [
+    {
+      "id": "route_1775727572573",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_ringo_end",
+          "name": "りんご END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_ringo_001",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_ringo_002",
+              "type": "choice",
+              "content": "财力"
+            },
+            {
+              "id": "step_ringo_003",
+              "type": "choice",
+              "content": "财力",
+              "prefix": "◆"
+            }
+          ]
+        },
+        {
+          "id": "ending_chino_end",
+          "name": "ちの END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_chino_001",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_chino_002",
+              "type": "choice",
+              "content": "科学力"
+            },
+            {
+              "id": "step_chino_003",
+              "type": "choice",
+              "content": "科学力",
+              "prefix": "◆"
+            }
+          ]
+        },
+        {
+          "id": "ending_kokoro_end",
+          "name": "こころ END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_kokoro_001",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_kokoro_002",
+              "type": "choice",
+              "content": "神明大人"
+            },
+            {
+              "id": "step_kokoro_003",
+              "type": "choice",
+              "content": "神明大人",
+              "prefix": "◆"
+            }
+          ]
+        },
+        {
+          "id": "ending_yuri_end",
+          "name": "ユーリ END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_yuri_001",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_yuri_002",
+              "type": "choice",
+              "content": "腕力"
+            },
+            {
+              "id": "step_yuri_003",
+              "type": "choice",
+              "content": "腕力",
+              "prefix": "◆"
+            }
+          ]
+        },
+        {
+          "id": "ending_purin_end",
+          "name": "ぷりん END",
+          "type": "normal",
+          "requirements": "完成以上全部 END 后",
+          "steps": [
+            {
+              "id": "step_purin_002",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_purin_003",
+              "type": "choice",
+              "content": "财力"
+            },
+            {
+              "id": "step_purin_004",
+              "type": "choice",
+              "content": "爱"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

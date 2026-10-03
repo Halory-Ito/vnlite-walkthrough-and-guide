@@ -1,0 +1,178 @@
+{
+  "vid": "v31262",
+  "name": {
+    "zh-cn": "Monkeys!!",
+    "en-us": "Monkeys!!",
+    "ja-Latn": "monkeys"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-13",
+  "tips": [
+    "标★的选项需要先达成前置后解锁",
+    "攻略了其他3人才可解锁鸦线"
+  ],
+  "routes": [
+    {
+      "id": "route_1767432630040",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1767432631607",
+          "name": "雾灯 由纪",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1767432653811",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1767432654502",
+              "type": "choice",
+              "content": "AV"
+            },
+            {
+              "id": "step_1767432655122",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1767432656383",
+              "type": "choice",
+              "content": "立于聚光灯下之人"
+            },
+            {
+              "id": "step_1767432657014",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_1767432657856",
+              "type": "choice",
+              "content": "有规定说不能洗澡吗"
+            },
+            {
+              "id": "step_1767432685118",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1767432688625",
+              "type": "choice",
+              "content": "有规定女仆就不能欺负主人吗"
+            }
+          ]
+        },
+        {
+          "id": "ending_1767432711600",
+          "name": "玻璃宫 硝子",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1767432720674",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1767432724290",
+              "type": "choice",
+              "content": "大小姐坚决反对"
+            }
+          ]
+        },
+        {
+          "id": "ending_1767432751041",
+          "name": "短鲔鱼",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1767432765260",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1767432772219",
+              "type": "choice",
+              "content": "来自地平线彼方之鱼"
+            },
+            {
+              "id": "step_1767432773716",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_1767432774486",
+              "type": "choice",
+              "content": "在梦中与短鲔鱼相拥"
+            },
+            {
+              "id": "step_1767432804520",
+              "type": "note",
+              "content": "※短鲔鱼END后"
+            },
+            {
+              "id": "step_1767432809737",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_1767432814570",
+              "type": "choice",
+              "content": "以茱莉亚的身份相爱",
+              "prefix": "★"
+            }
+          ]
+        },
+        {
+          "id": "ending_1767432871236",
+          "name": "月岛 鸦",
+          "type": "normal",
+          "requirements": "※3人攻略完成后",
+          "steps": [
+            {
+              "id": "step_1767432883234",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1767432885841",
+              "type": "choice",
+              "content": "恐慌"
+            },
+            {
+              "id": "step_1767432889856",
+              "type": "choice",
+              "content": "残缺之鸟",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1767432890132",
+              "type": "choice",
+              "content": "看看春梦的内容"
+            },
+            {
+              "id": "step_1767432891366",
+              "type": "save",
+              "content": "SAVE 5"
+            },
+            {
+              "id": "step_1767432892830",
+              "type": "choice",
+              "content": "回想起了第一次"
+            },
+            {
+              "id": "step_1767432925190",
+              "type": "load",
+              "content": "LOAD 5"
+            },
+            {
+              "id": "step_1767432932214",
+              "type": "choice",
+              "content": "回忆起了涩涩的那天"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

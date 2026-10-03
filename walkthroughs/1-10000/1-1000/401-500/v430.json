@@ -1,0 +1,140 @@
+{
+  "vid": "v430",
+  "name": {
+    "zh-cn": "刃鸣散",
+    "ja-jp": "刃鳴散らす",
+    "ja-Latn": "hanachirasu"
+  },
+  "level": 2,
+  "updatedAt": "2026-05-08",
+  "routes": [
+    {
+      "id": "route_game",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_yumi",
+          "name": "弓 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_yumi_01",
+              "type": "choice",
+              "content": "回去"
+            }
+          ]
+        },
+        {
+          "id": "ending_ichirin",
+          "name": "一轮 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_ichirin_01",
+              "type": "choice",
+              "content": "不回去"
+            },
+            {
+              "id": "step_ichirin_02",
+              "type": "choice",
+              "content": "拜托她"
+            }
+          ]
+        },
+        {
+          "id": "ending_makoto",
+          "name": "真 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_makoto_01",
+              "type": "choice",
+              "content": "不回去"
+            },
+            {
+              "id": "step_makoto_02",
+              "type": "choice",
+              "content": "不拜托她"
+            }
+          ]
+        },
+        {
+          "id": "ending_katsura",
+          "name": "桂叶 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_katsura_01",
+              "type": "choice",
+              "content": "没有说明的必要"
+            }
+          ]
+        },
+        {
+          "id": "ending_sister",
+          "name": "姐姐 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_sister_01",
+              "type": "choice",
+              "content": "吵死了，四眼"
+            },
+            {
+              "id": "step_sister_02",
+              "type": "choice",
+              "content": "不回去"
+            },
+            {
+              "id": "step_sister_03",
+              "type": "choice",
+              "content": "不拜托她"
+            },
+            {
+              "id": "step_sister_04",
+              "type": "choice",
+              "content": "阻止"
+            }
+          ]
+        },
+        {
+          "id": "ending_kaigen",
+          "name": "戒严复活 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_kaigen_01",
+              "type": "choice",
+              "content": "吵死了，四眼"
+            },
+            {
+              "id": "step_kaigen_02",
+              "type": "choice",
+              "content": "不回去"
+            },
+            {
+              "id": "step_kaigen_03",
+              "type": "choice",
+              "content": "不拜托她"
+            },
+            {
+              "id": "step_kaigen_04",
+              "type": "choice",
+              "content": "不阻止"
+            },
+            {
+              "id": "step_kaigen_05",
+              "type": "choice",
+              "content": "我嫉妒她"
+            },
+            {
+              "id": "step_1778237580357",
+              "type": "note",
+              "content": "戒严复活END 后，重新选择：吵死了，四眼-是，自动返回主界面，「隐藏房间」变成迷你游戏"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

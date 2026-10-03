@@ -1,0 +1,104 @@
+{
+  "vid": "v20860",
+  "name": {
+    "zh-cn": "景之海的艾佩莉娅",
+    "ja-jp": "景の海のアペイリア",
+    "ja-Latn": "hikari-no-umi-no-apeiria"
+  },
+  "level": 2,
+  "updatedAt": "2026-02-27",
+  "routes": [
+    {
+      "id": "route_1756197459301",
+      "name": "桐岛 三羽",
+      "endings": [
+        {
+          "id": "ending_1756197508586",
+          "name": "三羽 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756197580334",
+              "type": "choice",
+              "content": "想见三羽"
+            },
+            {
+              "id": "step_1756197580633",
+              "type": "choice",
+              "content": "【三羽的秘密】，邮件转发"
+            },
+            {
+              "id": "step_1756197599235",
+              "type": "choice",
+              "content": "在意万代"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756197459769",
+      "name": "东 真白",
+      "endings": [
+        {
+          "id": "ending_1756197517423",
+          "name": "真白 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756197623164",
+              "type": "choice",
+              "content": "还有其他在意的人"
+            },
+            {
+              "id": "step_1756197623368",
+              "type": "choice",
+              "content": "真白的事情"
+            },
+            {
+              "id": "step_1756197624078",
+              "type": "choice",
+              "content": "【真白所遇上的事故详细内容】，邮件转发"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756197460088",
+      "name": "一 久远",
+      "endings": [
+        {
+          "id": "ending_1756197526033",
+          "name": "久远 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756197683257",
+              "type": "choice",
+              "content": "【关于久远的母亲】，邮件转发"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756197504287",
+      "name": "艾佩莉雅",
+      "endings": [
+        {
+          "id": "ending_1756197542560",
+          "name": "艾佩莉雅 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756197702117",
+              "type": "note",
+              "content": "上述三条线推完后自动进入"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

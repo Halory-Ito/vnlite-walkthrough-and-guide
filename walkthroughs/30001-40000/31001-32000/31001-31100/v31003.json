@@ -1,0 +1,60 @@
+{
+  "vid": "v31003",
+  "name": {
+    "zh-cn": "妹妹和她 各自的选择",
+    "ja-jp": "妹と彼女 それぞれの選択",
+    "ja-Latn": "imouto-to-kanojo-sorezore-no-sentaku"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-16",
+  "tips": [
+    "1周目固定是慧主路线。2周目进入陽香路线"
+  ],
+  "routes": [
+    {
+      "id": "route_1779102714460",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1779102771967",
+          "name": "END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1779102780091",
+              "type": "choice",
+              "content": "Side Kei",
+              "subfix": "慧 主観路线"
+            }
+          ]
+        },
+        {
+          "id": "ending_1779102790768",
+          "name": "END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1779102816446",
+              "type": "choice",
+              "content": "Side Haruka",
+              "subfix": "陽香 主観路线"
+            }
+          ]
+        },
+        {
+          "id": "ending_1779102791331",
+          "name": "END3",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_1779102801056",
+              "type": "choice",
+              "content": "Cohabitation",
+              "subfix": "満月 同棲路线"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

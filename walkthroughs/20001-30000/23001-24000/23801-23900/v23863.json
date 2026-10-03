@@ -1,0 +1,168 @@
+{
+  "vid": "v23863",
+  "name": {
+    "zh-cn": "青空下的加缪",
+    "ja-jp": "青い空のカミュ",
+    "ja-Latn": "aoi-sora-no-camus"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-16",
+  "tips": [
+    "游戏中，点击屏幕右侧出现的[＞]图标，可进入支线剧情"
+  ],
+  "routes": [
+    {
+      "id": "route_01",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_01",
+          "name": "END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_01_01",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_01_02",
+              "type": "choice",
+              "content": "不去找聪君"
+            },
+            {
+              "id": "step_01_03",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_01_04",
+              "type": "choice",
+              "content": "前往走廊深处"
+            },
+            {
+              "id": "step_01_05",
+              "type": "choice",
+              "content": "拉开右边的隔扇"
+            },
+            {
+              "id": "step_01_06",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_01_07",
+              "type": "choice",
+              "content": "回到萤的房间去"
+            },
+            {
+              "id": "step_01_08",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_01_09",
+              "type": "choice",
+              "content": "藏到扫除用具柜里"
+            },
+            {
+              "id": "step_01_10",
+              "type": "save",
+              "content": "SAVE 5"
+            },
+            {
+              "id": "step_01_11",
+              "type": "choice",
+              "content": "小心的向外窥视"
+            }
+          ]
+        },
+        {
+          "id": "ending_02",
+          "name": "END2",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_02_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_02_02",
+              "type": "choice",
+              "content": "去找聪君吧"
+            }
+          ]
+        },
+        {
+          "id": "ending_03",
+          "name": "END3",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_03_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_03_02",
+              "type": "choice",
+              "content": "拉开左边的隔扇"
+            }
+          ]
+        },
+        {
+          "id": "ending_04",
+          "name": "END4",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_04_01",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_04_02",
+              "type": "choice",
+              "content": "藏在柜子里"
+            }
+          ]
+        },
+        {
+          "id": "ending_05",
+          "name": "END5",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_05_01",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_05_02",
+              "type": "choice",
+              "content": "藏在讲台下面"
+            }
+          ]
+        },
+        {
+          "id": "ending_06",
+          "name": "END6",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_06_01",
+              "type": "load",
+              "content": "LOAD 5"
+            },
+            {
+              "id": "step_06_02",
+              "type": "choice",
+              "content": "屏住呼吸继续藏好"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

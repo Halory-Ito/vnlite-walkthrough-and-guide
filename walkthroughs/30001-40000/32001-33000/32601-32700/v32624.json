@@ -1,0 +1,247 @@
+{
+  "vid": "v32624",
+  "name": {
+    "zh-cn": "见习恋人2",
+    "ja-jp": "スタディ§ステディ2",
+    "ja-Latn": "study-steady-2"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-16",
+  "routes": [
+    {
+      "id": "route_tsuzuki_yuno",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_yuno_end",
+          "name": "由乃 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_yuno_01",
+              "type": "choice",
+              "content": "想知道由乃"
+            },
+            {
+              "id": "step_yuno_02",
+              "type": "choice",
+              "content": "想知道八重泽前辈"
+            },
+            {
+              "id": "step_yuno_03",
+              "type": "choice",
+              "content": "我想知道三岛先生"
+            },
+            {
+              "id": "step_yuno_04",
+              "type": "choice",
+              "content": "我想知道沼津先生"
+            },
+            {
+              "id": "step_yuno_05",
+              "type": "choice",
+              "content": "够了"
+            },
+            {
+              "id": "step_yuno_06",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_yuno_07",
+              "type": "choice",
+              "content": "墹之上由乃1、保龄球场"
+            },
+            {
+              "id": "step_yuno_08",
+              "type": "choice",
+              "content": "墹之上由乃2学园"
+            },
+            {
+              "id": "step_yuno_09",
+              "type": "choice",
+              "content": "墹之上由乃3--商店街"
+            },
+            {
+              "id": "step_yuno_10",
+              "type": "choice",
+              "content": "墹之上由乃4-上学路"
+            },
+            {
+              "id": "step_yuno_11",
+              "type": "choice",
+              "content": "墹之上由乃5"
+            },
+            {
+              "id": "step_yuno_12",
+              "type": "choice",
+              "content": "是的",
+              "prefix": "★"
+            }
+          ]
+        },
+        {
+          "id": "ending_ya_end",
+          "name": "八重泽呀 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_ya_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_ya_02",
+              "type": "choice",
+              "content": "八重泽1"
+            },
+            {
+              "id": "step_ya_03",
+              "type": "choice",
+              "content": "八重泽2--上学路"
+            },
+            {
+              "id": "step_ya_04",
+              "type": "choice",
+              "content": "八重泽3学园"
+            },
+            {
+              "id": "step_ya_05",
+              "type": "choice",
+              "content": "八重泽4超市"
+            },
+            {
+              "id": "step_ya_06",
+              "type": "choice",
+              "content": "八重泽5"
+            },
+            {
+              "id": "step_ya_07",
+              "type": "choice",
+              "content": "是的",
+              "prefix": "★"
+            }
+          ]
+        },
+        {
+          "id": "ending_seia_end",
+          "name": "三岛星彩 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_seia_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_seia_02",
+              "type": "choice",
+              "content": "三岛星彩1--佩德林甲板"
+            },
+            {
+              "id": "step_seia_03",
+              "type": "choice",
+              "content": "三岛星彩2公园"
+            },
+            {
+              "id": "step_seia_04",
+              "type": "choice",
+              "content": "三岛星彩3公园"
+            },
+            {
+              "id": "step_seia_05",
+              "type": "choice",
+              "content": "三岛星彩4公园"
+            },
+            {
+              "id": "step_seia_06",
+              "type": "choice",
+              "content": "三岛星彩5"
+            },
+            {
+              "id": "step_seia_07",
+              "type": "choice",
+              "content": "不可能"
+            },
+            {
+              "id": "step_seia_08",
+              "type": "choice",
+              "content": "是的",
+              "prefix": "★"
+            }
+          ]
+        },
+        {
+          "id": "ending_urumi_end1",
+          "name": "沼津润海 END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_urumi_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_urumi_02",
+              "type": "choice",
+              "content": "沼津润海1"
+            },
+            {
+              "id": "step_urumi_03",
+              "type": "choice",
+              "content": "沼津润海2中庭"
+            },
+            {
+              "id": "step_urumi_04",
+              "type": "choice",
+              "content": "沼津润海3走廊"
+            },
+            {
+              "id": "step_urumi_05",
+              "type": "choice",
+              "content": "沼津润海4学园"
+            },
+            {
+              "id": "step_urumi_06",
+              "type": "choice",
+              "content": "沼津润海5"
+            },
+            {
+              "id": "step_urumi_07",
+              "type": "choice",
+              "content": "是的",
+              "prefix": "★"
+            },
+            {
+              "id": "step_urumi_08",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_urumi_09",
+              "type": "choice",
+              "content": "承担责任"
+            }
+          ]
+        },
+        {
+          "id": "ending_urumi_end2",
+          "name": "沼津润海 END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_urumi_end2_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_urumi_end2_02",
+              "type": "choice",
+              "content": "想更加享受两个人的时间"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "vid": "v14761",
+  "name": {
+    "zh-cn": "Harvest OverRay",
+    "ja-jp": "ハーヴェストオーバーレイ",
+    "ja-Latn": "harvest-overray"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-13",
+  "tips": [
+    "各角色攻略完毕后，extra中会追加おまけH。其他三人都攻略完毕后才可攻略ゆうか",
+    "任意一人攻略完毕后，extra中点击unlock“YUKAR”，并确认解锁，可开启ゆうか路线",
+    "各角色的部分CG需要在启动时输入追加剧情用的序列号后，在extra中观看EXTRA[P]来填补"
+  ],
+  "routes": [
+    {
+      "id": "route_1761314593049",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1761314612617",
+          "name": "三重莉莉亚",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1761314633682",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1761314656925",
+              "type": "choice",
+              "content": "莉莉亚的衣服很好"
+            },
+            {
+              "id": "step_1761314657117",
+              "type": "choice",
+              "content": "莉莉亚无可非议的狮子"
+            },
+            {
+              "id": "step_1761314657498",
+              "type": "choice",
+              "content": "莉莉亚苗条的身材"
+            },
+            {
+              "id": "step_1761314657781",
+              "type": "choice",
+              "content": "想给莉莉亚"
+            }
+          ]
+        },
+        {
+          "id": "ending_1761314840976",
+          "name": "奥野澄",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1761314861614",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1761314868704",
+              "type": "choice",
+              "content": "澄的衣服好"
+            },
+            {
+              "id": "step_1761314868926",
+              "type": "choice",
+              "content": "清澈美味的虾"
+            },
+            {
+              "id": "step_1761314869805",
+              "type": "choice",
+              "content": "妹妹的欧派"
+            },
+            {
+              "id": "step_1761314870302",
+              "type": "choice",
+              "content": "想给澄"
+            }
+          ]
+        },
+        {
+          "id": "ending_1761314900410",
+          "name": "八剑小町",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1761314932508",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1761314935501",
+              "type": "choice",
+              "content": "小町的衣服好"
+            },
+            {
+              "id": "step_1761314940901",
+              "type": "choice",
+              "content": "小町的帅气龙"
+            },
+            {
+              "id": "step_1761314941628",
+              "type": "choice",
+              "content": "小町，小孩"
+            },
+            {
+              "id": "step_1761314942296",
+              "type": "choice",
+              "content": "想给小町"
+            }
+          ]
+        },
+        {
+          "id": "ending_1761315025343",
+          "name": "珠姬优香",
+          "type": "normal",
+          "requirements": "※其他3人攻略结束后",
+          "steps": [
+            {
+              "id": "step_1761315046607",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1761315048609",
+              "type": "choice",
+              "content": "珠姬的衣服好"
+            },
+            {
+              "id": "step_1761315049296",
+              "type": "choice",
+              "content": "珠姬可爱的大王具足虫"
+            },
+            {
+              "id": "step_1761315049914",
+              "type": "choice",
+              "content": "珠姬任性的身体"
+            },
+            {
+              "id": "step_1761315050240",
+              "type": "choice",
+              "content": "现在还在迷茫"
+            },
+            {
+              "id": "step_1761315050590",
+              "type": "choice",
+              "content": "想给珠姬"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

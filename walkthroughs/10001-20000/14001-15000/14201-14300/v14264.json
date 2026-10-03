@@ -1,0 +1,196 @@
+{
+  "vid": "v14264",
+  "name": {
+    "zh-cn": "金婚",
+    "en-us": "Golden Marriage",
+    "ja-jp": "ゴールデンマリッジ",
+    "ja-Latn": "golden-marriage"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-13",
+  "routes": [
+    {
+      "id": "route_1762593999973",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1762594023563",
+          "name": "一条寺 透子",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762594048821",
+              "type": "choice",
+              "content": "稍微考虑一下"
+            },
+            {
+              "id": "step_1762594048975",
+              "type": "choice",
+              "content": "我想应该是外貌"
+            },
+            {
+              "id": "step_1762594049110",
+              "type": "choice",
+              "content": "到时候可能就会有的"
+            },
+            {
+              "id": "step_1762594049256",
+              "type": "choice",
+              "content": "向积极方面考虑下"
+            },
+            {
+              "id": "step_1762594049384",
+              "type": "choice",
+              "content": "回头再考虑下"
+            },
+            {
+              "id": "step_1762594049515",
+              "type": "choice",
+              "content": "先考虑下"
+            },
+            {
+              "id": "step_1762594049656",
+              "type": "choice",
+              "content": "去看看她"
+            },
+            {
+              "id": "step_1762594049785",
+              "type": "choice",
+              "content": "这算是奉承我？"
+            },
+            {
+              "id": "step_1762594049910",
+              "type": "choice",
+              "content": "抚摸她秀发"
+            },
+            {
+              "id": "step_1762594050121",
+              "type": "choice",
+              "content": "亲脸蛋"
+            },
+            {
+              "id": "step_1762594050278",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1762594050476",
+              "type": "choice",
+              "content": "去看看透子的情况"
+            },
+            {
+              "id": "step_1762594079115",
+              "type": "choice",
+              "content": "去找透子"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762594023732",
+          "name": "天谷 玲",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762594086851",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1762594087746",
+              "type": "choice",
+              "content": "去看看玲的情况"
+            },
+            {
+              "id": "step_1762594087950",
+              "type": "choice",
+              "content": "去找玲"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762594023955",
+          "name": "丹下 花纯",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762594107020",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1762594107911",
+              "type": "choice",
+              "content": "去看看花纯的情况"
+            },
+            {
+              "id": "step_1762594108078",
+              "type": "choice",
+              "content": "去找花纯"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762594024201",
+          "name": "春日野 紫子",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762594120237",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1762594121380",
+              "type": "choice",
+              "content": "去看看紫子的情况"
+            },
+            {
+              "id": "step_1762594121563",
+              "type": "choice",
+              "content": "去找紫子"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762594024463",
+          "name": "岛影 瑠璃",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762594131973",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1762594133232",
+              "type": "choice",
+              "content": "去看看瑠璃的情况"
+            },
+            {
+              "id": "step_1762594133387",
+              "type": "choice",
+              "content": "去找瑠璃"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762594024784",
+          "name": "玛莉嘉·冯·维特巴哈",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762594145571",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1762594146538",
+              "type": "choice",
+              "content": "再稍微想想"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

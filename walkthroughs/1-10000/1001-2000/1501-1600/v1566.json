@@ -1,0 +1,967 @@
+{
+  "vid": "v1566",
+  "name": {
+    "zh-cn": "Monochrome",
+    "en-us": "Monochrome",
+    "ja-jp": "Monochrome",
+    "ja-Latn": "monochrome-kid"
+  },
+  "level": 1,
+  "updatedAt": "2026-03-25",
+  "routes": [
+    {
+      "id": "route_hanaori",
+      "name": "花织",
+      "endings": [
+        {
+          "id": "ending_hanaori_1",
+          "name": "花织 END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_hanaori_01",
+              "type": "choice",
+              "content": "手伝う"
+            },
+            {
+              "id": "step_hanaori_02",
+              "type": "choice",
+              "content": "说明する"
+            },
+            {
+              "id": "step_hanaori_03",
+              "type": "choice",
+              "content": "幸せを肯定する"
+            },
+            {
+              "id": "step_hanaori_04",
+              "type": "choice",
+              "content": "义姉さんのため"
+            },
+            {
+              "id": "step_hanaori_05",
+              "type": "choice",
+              "content": "もう少し花织を见送る"
+            },
+            {
+              "id": "step_hanaori_06",
+              "type": "choice",
+              "content": "とりあえずやってみる"
+            },
+            {
+              "id": "step_hanaori_07",
+              "type": "choice",
+              "content": "今のままでいい"
+            },
+            {
+              "id": "step_hanaori_08",
+              "type": "choice",
+              "content": "すぐ迎えに行く"
+            },
+            {
+              "id": "step_hanaori_09",
+              "type": "choice",
+              "content": "花织を送っていく"
+            },
+            {
+              "id": "step_hanaori_10",
+              "type": "choice",
+              "content": "学生に戻ってもらう"
+            }
+          ]
+        },
+        {
+          "id": "ending_hanaori_2",
+          "name": "花织 END2",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_hanaori_bad_01",
+              "type": "choice",
+              "content": "手伝う"
+            },
+            {
+              "id": "step_hanaori_bad_02",
+              "type": "choice",
+              "content": "说明する"
+            },
+            {
+              "id": "step_hanaori_bad_03",
+              "type": "choice",
+              "content": "幸せを肯定する"
+            },
+            {
+              "id": "step_hanaori_bad_04",
+              "type": "choice",
+              "content": "义姉さんのため"
+            },
+            {
+              "id": "step_hanaori_bad_05",
+              "type": "choice",
+              "content": "もう少し花织を见送る"
+            },
+            {
+              "id": "step_hanaori_bad_06",
+              "type": "choice",
+              "content": "とりあえずやってみる"
+            },
+            {
+              "id": "step_hanaori_bad_07",
+              "type": "choice",
+              "content": "今のままでいい"
+            },
+            {
+              "id": "step_hanaori_bad_08",
+              "type": "choice",
+              "content": "すぐ迎えに行く"
+            },
+            {
+              "id": "step_hanaori_bad_09",
+              "type": "choice",
+              "content": "花织を送っていく"
+            },
+            {
+              "id": "step_hanaori_bad_10",
+              "type": "choice",
+              "content": "仕事を続けさせる"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_sayaka",
+      "name": "纱耶香",
+      "endings": [
+        {
+          "id": "ending_sayaka_1",
+          "name": "纱耶香 END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_sayaka_01",
+              "type": "choice",
+              "content": "手伝う"
+            },
+            {
+              "id": "step_sayaka_02",
+              "type": "choice",
+              "content": "说明しない"
+            },
+            {
+              "id": "step_sayaka_03",
+              "type": "choice",
+              "content": "幸せを否定する"
+            },
+            {
+              "id": "step_sayaka_04",
+              "type": "choice",
+              "content": "圣夜祭のため"
+            },
+            {
+              "id": "step_sayaka_05",
+              "type": "choice",
+              "content": "すぐに廃寮に戻る"
+            },
+            {
+              "id": "step_sayaka_06",
+              "type": "choice",
+              "content": "やっぱりやめておく"
+            },
+            {
+              "id": "step_sayaka_07",
+              "type": "choice",
+              "content": "仕方ないから引き受ける"
+            },
+            {
+              "id": "step_sayaka_08",
+              "type": "choice",
+              "content": "やっぱり断る"
+            },
+            {
+              "id": "step_sayaka_09",
+              "type": "choice",
+              "content": "今のままでいい"
+            },
+            {
+              "id": "step_sayaka_10",
+              "type": "choice",
+              "content": "そのまま眺めている"
+            },
+            {
+              "id": "step_sayaka_11",
+              "type": "choice",
+              "content": "一绪に帰ろうと诱う"
+            },
+            {
+              "id": "step_sayaka_12",
+              "type": "choice",
+              "content": "信じている"
+            },
+            {
+              "id": "step_sayaka_13",
+              "type": "choice",
+              "content": "真実を伝える"
+            },
+            {
+              "id": "step_sayaka_14",
+              "type": "choice",
+              "content": "そうだが???"
+            },
+            {
+              "id": "step_sayaka_15",
+              "type": "choice",
+              "content": "分かりません"
+            }
+          ]
+        },
+        {
+          "id": "ending_sayaka_2",
+          "name": "纱耶香 END2",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_sayaka_bad_01",
+              "type": "choice",
+              "content": "手伝う"
+            },
+            {
+              "id": "step_sayaka_bad_02",
+              "type": "choice",
+              "content": "说明しない"
+            },
+            {
+              "id": "step_sayaka_bad_03",
+              "type": "choice",
+              "content": "幸せを否定する"
+            },
+            {
+              "id": "step_sayaka_bad_04",
+              "type": "choice",
+              "content": "圣夜祭のため"
+            },
+            {
+              "id": "step_sayaka_bad_05",
+              "type": "choice",
+              "content": "すぐに廃寮に戻る"
+            },
+            {
+              "id": "step_sayaka_bad_06",
+              "type": "choice",
+              "content": "やっぱりやめておく"
+            },
+            {
+              "id": "step_sayaka_bad_07",
+              "type": "choice",
+              "content": "仕方ないから引き受ける"
+            },
+            {
+              "id": "step_sayaka_bad_08",
+              "type": "choice",
+              "content": "やっぱり断る"
+            },
+            {
+              "id": "step_sayaka_bad_09",
+              "type": "choice",
+              "content": "今のままでいい"
+            },
+            {
+              "id": "step_sayaka_bad_10",
+              "type": "choice",
+              "content": "そのまま眺めている"
+            },
+            {
+              "id": "step_sayaka_bad_11",
+              "type": "choice",
+              "content": "一绪に帰ろうと诱う"
+            },
+            {
+              "id": "step_sayaka_bad_12",
+              "type": "choice",
+              "content": "信じている"
+            },
+            {
+              "id": "step_sayaka_bad_13",
+              "type": "choice",
+              "content": "真実を伝える"
+            },
+            {
+              "id": "step_sayaka_bad_14",
+              "type": "choice",
+              "content": "そうだが???"
+            },
+            {
+              "id": "step_sayaka_bad_15",
+              "type": "choice",
+              "content": "幸せです"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_chitose",
+      "name": "千歳",
+      "endings": [
+        {
+          "id": "ending_chitose_1",
+          "name": "千歳 END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_chitose_01",
+              "type": "choice",
+              "content": "手伝う"
+            },
+            {
+              "id": "step_chitose_02",
+              "type": "choice",
+              "content": "说明する"
+            },
+            {
+              "id": "step_chitose_03",
+              "type": "choice",
+              "content": "幸せを肯定する"
+            },
+            {
+              "id": "step_chitose_04",
+              "type": "choice",
+              "content": "义姉さんのため"
+            },
+            {
+              "id": "step_chitose_05",
+              "type": "choice",
+              "content": "すぐに廃寮に帰る"
+            },
+            {
+              "id": "step_chitose_06",
+              "type": "choice",
+              "content": "やっぱりやめておく"
+            },
+            {
+              "id": "step_chitose_07",
+              "type": "choice",
+              "content": "やっぱり断る"
+            },
+            {
+              "id": "step_chitose_08",
+              "type": "choice",
+              "content": "いつも通り食事を作る"
+            },
+            {
+              "id": "step_chitose_09",
+              "type": "choice",
+              "content": "成长してほしい"
+            },
+            {
+              "id": "step_chitose_10",
+              "type": "choice",
+              "content": "好きでも嫌いでもない"
+            }
+          ]
+        },
+        {
+          "id": "ending_chitose_2",
+          "name": "千歳 END2",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_chitose_bad_01",
+              "type": "choice",
+              "content": "手伝う"
+            },
+            {
+              "id": "step_chitose_bad_02",
+              "type": "choice",
+              "content": "说明する"
+            },
+            {
+              "id": "step_chitose_bad_03",
+              "type": "choice",
+              "content": "幸せを肯定する"
+            },
+            {
+              "id": "step_chitose_bad_04",
+              "type": "choice",
+              "content": "义姉さんのため"
+            },
+            {
+              "id": "step_chitose_bad_05",
+              "type": "choice",
+              "content": "すぐに廃寮に帰る"
+            },
+            {
+              "id": "step_chitose_bad_06",
+              "type": "choice",
+              "content": "やっぱりやめておく"
+            },
+            {
+              "id": "step_chitose_bad_07",
+              "type": "choice",
+              "content": "やっぱり断る"
+            },
+            {
+              "id": "step_chitose_bad_08",
+              "type": "choice",
+              "content": "いつも通り食事を作る"
+            },
+            {
+              "id": "step_chitose_bad_09",
+              "type": "choice",
+              "content": "今のままでいい"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_yuu",
+      "name": "游羽",
+      "endings": [
+        {
+          "id": "ending_yuu_1",
+          "name": "游羽 END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_yuu_01",
+              "type": "choice",
+              "content": "手伝わない"
+            },
+            {
+              "id": "step_yuu_02",
+              "type": "choice",
+              "content": "说明する"
+            },
+            {
+              "id": "step_yuu_03",
+              "type": "choice",
+              "content": "幸せを否定する"
+            },
+            {
+              "id": "step_yuu_04",
+              "type": "choice",
+              "content": "すぐに廃寮へ帰る"
+            },
+            {
+              "id": "step_yuu_05",
+              "type": "choice",
+              "content": "やっぱりやめておく"
+            },
+            {
+              "id": "step_yuu_06",
+              "type": "choice",
+              "content": "やっぱり断る"
+            },
+            {
+              "id": "step_yuu_07",
+              "type": "choice",
+              "content": "いつも通り食事を作る"
+            },
+            {
+              "id": "step_yuu_08",
+              "type": "choice",
+              "content": "成长してほしい"
+            },
+            {
+              "id": "step_yuu_09",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_yuu_10",
+              "type": "choice",
+              "content": "嫌い"
+            },
+            {
+              "id": "step_yuu_11",
+              "type": "choice",
+              "content": "手伝わせる"
+            },
+            {
+              "id": "step_yuu_12",
+              "type": "choice",
+              "content": "游羽が必要だ"
+            },
+            {
+              "id": "step_yuu_13",
+              "type": "choice",
+              "content": "このまま诊ている"
+            },
+            {
+              "id": "step_yuu_14",
+              "type": "choice",
+              "content": "そんな事はない"
+            },
+            {
+              "id": "step_yuu_15",
+              "type": "choice",
+              "content": "详しく闻く"
+            },
+            {
+              "id": "step_yuu_16",
+              "type": "choice",
+              "content": "残ってほしい"
+            }
+          ]
+        },
+        {
+          "id": "ending_yuu_2",
+          "name": "游羽 END2",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_yuu_bad_01",
+              "type": "choice",
+              "content": "手伝わない"
+            },
+            {
+              "id": "step_yuu_bad_02",
+              "type": "choice",
+              "content": "说明する"
+            },
+            {
+              "id": "step_yuu_bad_03",
+              "type": "choice",
+              "content": "幸せを否定する"
+            },
+            {
+              "id": "step_yuu_bad_04",
+              "type": "choice",
+              "content": "すぐに廃寮へ帰る"
+            },
+            {
+              "id": "step_yuu_bad_05",
+              "type": "choice",
+              "content": "やっぱりやめておく"
+            },
+            {
+              "id": "step_yuu_bad_06",
+              "type": "choice",
+              "content": "やっぱり断る"
+            },
+            {
+              "id": "step_yuu_bad_07",
+              "type": "choice",
+              "content": "いつも通り食事を作る"
+            },
+            {
+              "id": "step_yuu_bad_08",
+              "type": "choice",
+              "content": "成长してほしい"
+            },
+            {
+              "id": "step_yuu_bad_09",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_yuu_bad_10",
+              "type": "choice",
+              "content": "嫌い"
+            },
+            {
+              "id": "step_yuu_bad_11",
+              "type": "choice",
+              "content": "手伝わせる"
+            },
+            {
+              "id": "step_yuu_bad_12",
+              "type": "choice",
+              "content": "游羽が必要だ"
+            },
+            {
+              "id": "step_yuu_bad_13",
+              "type": "choice",
+              "content": "このまま诊ている"
+            },
+            {
+              "id": "step_yuu_bad_14",
+              "type": "choice",
+              "content": "そんな事はない"
+            },
+            {
+              "id": "step_yuu_bad_15",
+              "type": "choice",
+              "content": "详しく闻く"
+            },
+            {
+              "id": "step_yuu_bad_16",
+              "type": "choice",
+              "content": "帰ってほしい"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_hinamizu",
+      "name": "雏水",
+      "endings": [
+        {
+          "id": "ending_hinamizu_1",
+          "name": "雏水 END1",
+          "type": "good",
+          "steps": [
+            {
+              "id": "step_hinamizu_01",
+              "type": "note",
+              "content": "游羽ルートの分岐セーブから開始"
+            },
+            {
+              "id": "step_hinamizu_02",
+              "type": "choice",
+              "content": "嫌い"
+            },
+            {
+              "id": "step_hinamizu_03",
+              "type": "choice",
+              "content": "手伝わせない"
+            },
+            {
+              "id": "step_hinamizu_04",
+              "type": "choice",
+              "content": "闻くまでもない"
+            },
+            {
+              "id": "step_hinamizu_05",
+              "type": "choice",
+              "content": "义姉さんと交代する"
+            },
+            {
+              "id": "step_hinamizu_06",
+              "type": "choice",
+              "content": "その通りだ"
+            },
+            {
+              "id": "step_hinamizu_07",
+              "type": "choice",
+              "content": "游羽を谕す"
+            },
+            {
+              "id": "step_hinamizu_08",
+              "type": "choice",
+              "content": "もう少し游羽の様子を见る"
+            },
+            {
+              "id": "step_hinamizu_09",
+              "type": "choice",
+              "content": "游羽は家族だから"
+            },
+            {
+              "id": "step_hinamizu_10",
+              "type": "choice",
+              "content": "雏水のこと"
+            },
+            {
+              "id": "step_hinamizu_11",
+              "type": "choice",
+              "content": "崇"
+            },
+            {
+              "id": "step_hinamizu_12",
+              "type": "choice",
+              "content": "雏水のこと。"
+            },
+            {
+              "id": "step_hinamizu_13",
+              "type": "choice",
+              "content": "会话で时间を稼ぐ"
+            },
+            {
+              "id": "step_hinamizu_14",
+              "type": "choice",
+              "content": "来た道を逃げる"
+            }
+          ]
+        },
+        {
+          "id": "ending_hinamizu_2",
+          "name": "雏水 END2",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_hinamizu_bad_b_01",
+              "type": "note",
+              "content": "游羽ルートの分岐セーブから開始"
+            },
+            {
+              "id": "step_hinamizu_bad_b_02",
+              "type": "choice",
+              "content": "嫌い"
+            },
+            {
+              "id": "step_hinamizu_bad_b_03",
+              "type": "choice",
+              "content": "手伝わせない"
+            },
+            {
+              "id": "step_hinamizu_bad_b_04",
+              "type": "choice",
+              "content": "闻くまでもない"
+            },
+            {
+              "id": "step_hinamizu_bad_b_05",
+              "type": "choice",
+              "content": "义姉さんと交代する"
+            },
+            {
+              "id": "step_hinamizu_bad_b_06",
+              "type": "choice",
+              "content": "その通りだ"
+            },
+            {
+              "id": "step_hinamizu_bad_b_07",
+              "type": "choice",
+              "content": "游羽を谕す"
+            },
+            {
+              "id": "step_hinamizu_bad_b_08",
+              "type": "choice",
+              "content": "ただちに命令を遂行する"
+            }
+          ]
+        },
+        {
+          "id": "ending_hinamizu_3",
+          "name": "雏水 END3",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_hinamizu_bad_a_01",
+              "type": "note",
+              "content": "游羽ルートの分岐セーブから開始"
+            },
+            {
+              "id": "step_hinamizu_bad_a_02",
+              "type": "choice",
+              "content": "嫌い"
+            },
+            {
+              "id": "step_hinamizu_bad_a_03",
+              "type": "choice",
+              "content": "手伝わせない"
+            },
+            {
+              "id": "step_hinamizu_bad_a_04",
+              "type": "choice",
+              "content": "闻くまでもない"
+            },
+            {
+              "id": "step_hinamizu_bad_a_05",
+              "type": "choice",
+              "content": "义姉さんと交代する"
+            },
+            {
+              "id": "step_hinamizu_bad_a_06",
+              "type": "choice",
+              "content": "その通りだ"
+            },
+            {
+              "id": "step_hinamizu_bad_a_07",
+              "type": "choice",
+              "content": "游羽を谕す"
+            },
+            {
+              "id": "step_hinamizu_bad_a_08",
+              "type": "choice",
+              "content": "もう少し游羽の様子を见る"
+            },
+            {
+              "id": "step_hinamizu_bad_a_09",
+              "type": "choice",
+              "content": "游羽は家族だから"
+            },
+            {
+              "id": "step_hinamizu_bad_a_10",
+              "type": "choice",
+              "content": "雏水のこと"
+            },
+            {
+              "id": "step_hinamizu_bad_a_11",
+              "type": "choice",
+              "content": "崇"
+            },
+            {
+              "id": "step_hinamizu_bad_a_12",
+              "type": "choice",
+              "content": "雏水のこと。"
+            },
+            {
+              "id": "step_hinamizu_bad_a_13",
+              "type": "choice",
+              "content": "会话で时间を稼ぐ"
+            },
+            {
+              "id": "step_hinamizu_bad_a_14",
+              "type": "choice",
+              "content": "攻撃して食い止める"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_risa",
+      "name": "梨沙",
+      "endings": [
+        {
+          "id": "ending_risa_1",
+          "name": "梨沙 END1",
+          "type": "good",
+          "steps": [
+            {
+              "id": "step_risa_01",
+              "type": "note",
+              "content": "游羽ルートの分岐セーブから開始"
+            },
+            {
+              "id": "step_risa_02",
+              "type": "choice",
+              "content": "好き"
+            },
+            {
+              "id": "step_risa_03",
+              "type": "choice",
+              "content": "梨沙の提案を受ける"
+            },
+            {
+              "id": "step_risa_04",
+              "type": "choice",
+              "content": "手伝わせない"
+            },
+            {
+              "id": "step_risa_05",
+              "type": "choice",
+              "content": "闻くまでもない"
+            },
+            {
+              "id": "step_risa_06",
+              "type": "choice",
+              "content": "义姉さんと交代する"
+            },
+            {
+              "id": "step_risa_07",
+              "type": "choice",
+              "content": "廃寮に戻る"
+            },
+            {
+              "id": "step_risa_08",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_risa_09",
+              "type": "choice",
+              "content": "游羽を谕す"
+            }
+          ]
+        },
+        {
+          "id": "ending_risa_2",
+          "name": "梨沙 END2",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_risa_bad_01",
+              "type": "note",
+              "content": "游羽ルートの分岐セーブから開始"
+            },
+            {
+              "id": "step_risa_bad_02",
+              "type": "choice",
+              "content": "好き"
+            },
+            {
+              "id": "step_risa_bad_03",
+              "type": "choice",
+              "content": "梨沙の提案を受ける"
+            },
+            {
+              "id": "step_risa_bad_04",
+              "type": "choice",
+              "content": "手伝わせない"
+            },
+            {
+              "id": "step_risa_bad_05",
+              "type": "choice",
+              "content": "闻くまでもない"
+            },
+            {
+              "id": "step_risa_bad_06",
+              "type": "choice",
+              "content": "义姉さんと交代する"
+            },
+            {
+              "id": "step_risa_bad_07",
+              "type": "choice",
+              "content": "戻らない"
+            }
+          ]
+        },
+        {
+          "id": "ending_risa_3",
+          "name": "梨沙 END3",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_risa_true_01",
+              "type": "note",
+              "content": "游羽ルートの分岐セーブから開始"
+            },
+            {
+              "id": "step_risa_true_02",
+              "type": "choice",
+              "content": "好き"
+            },
+            {
+              "id": "step_risa_true_03",
+              "type": "choice",
+              "content": "梨沙の提案を受ける"
+            },
+            {
+              "id": "step_risa_true_04",
+              "type": "choice",
+              "content": "手伝わせない"
+            },
+            {
+              "id": "step_risa_true_05",
+              "type": "choice",
+              "content": "闻くまでもない"
+            },
+            {
+              "id": "step_risa_true_06",
+              "type": "choice",
+              "content": "义姉さんと交代する"
+            },
+            {
+              "id": "step_risa_true_07",
+              "type": "choice",
+              "content": "廃寮に戻る"
+            },
+            {
+              "id": "step_risa_true_08",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_risa_true_09",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_risa_true_10",
+              "type": "choice",
+              "content": "详しく闻く"
+            },
+            {
+              "id": "step_risa_true_11",
+              "type": "choice",
+              "content": "怜里"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

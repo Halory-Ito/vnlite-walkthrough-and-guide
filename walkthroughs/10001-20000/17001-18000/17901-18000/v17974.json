@@ -1,0 +1,257 @@
+{
+  "vid": "v17974",
+  "name": {
+    "zh-cn": "孩子的游戏机",
+    "ja-jp": "コドモノアソビ",
+    "ja-Latn": "kodomo-no-asobi"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-12",
+  "tips": [
+    "选项出现时无法保存，除了★选项外，其他选项出现前会有特效"
+  ],
+  "routes": [
+    {
+      "id": "route_1756372529271",
+      "name": "萨拉",
+      "endings": [
+        {
+          "id": "ending_1756372713892",
+          "name": "萨拉 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756372970749",
+              "type": "choice",
+              "content": "回复"
+            },
+            {
+              "id": "step_1756372971021",
+              "type": "choice",
+              "content": "再打开，看看"
+            },
+            {
+              "id": "step_1756372971299",
+              "type": "choice",
+              "content": "看看你的欧派"
+            },
+            {
+              "id": "step_1756372971774",
+              "type": "choice",
+              "content": "从这里摇动话题"
+            },
+            {
+              "id": "step_1756372972709",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1756372980917",
+              "type": "choice",
+              "content": "跟随你的感受",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1756372981195",
+              "type": "choice",
+              "content": "我不禁担心"
+            },
+            {
+              "id": "step_1756372981555",
+              "type": "choice",
+              "content": "敷衍了事"
+            },
+            {
+              "id": "step_1756372982614",
+              "type": "choice",
+              "content": "置之不理"
+            },
+            {
+              "id": "step_1756373385203",
+              "type": "choice",
+              "content": "关注萨拉"
+            },
+            {
+              "id": "step_1756373385355",
+              "type": "choice",
+              "content": "选择姐姐"
+            },
+            {
+              "id": "step_1756373385486",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1756373385621",
+              "type": "choice",
+              "content": "事实并非如此"
+            },
+            {
+              "id": "step_1756373385736",
+              "type": "choice",
+              "content": "默默等待她发言"
+            },
+            {
+              "id": "step_1756373497953",
+              "type": "choice",
+              "content": "选择栖川"
+            },
+            {
+              "id": "step_1756373498115",
+              "type": "choice",
+              "content": "我选择鹤卷，但过去就是过去",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1756373498251",
+              "type": "choice",
+              "content": "收到",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1756373498400",
+              "type": "choice",
+              "content": "委托",
+              "prefix": "★"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756372560524",
+      "name": "比名子 满",
+      "endings": [
+        {
+          "id": "ending_1756373686343",
+          "name": "满 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756373749517",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1756373757289",
+              "type": "choice",
+              "content": "协助萨拉",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1756373757465",
+              "type": "choice",
+              "content": "我不讨厌"
+            },
+            {
+              "id": "step_1756373757655",
+              "type": "choice",
+              "content": "因此含糊其辞"
+            },
+            {
+              "id": "step_1756373757882",
+              "type": "choice",
+              "content": "要求更多再来一点"
+            },
+            {
+              "id": "step_1756373758148",
+              "type": "choice",
+              "content": "迅速拒绝反驳"
+            },
+            {
+              "id": "step_1756373758376",
+              "type": "choice",
+              "content": "选择比名子"
+            },
+            {
+              "id": "step_1756373758638",
+              "type": "choice",
+              "content": "事实并非如此"
+            },
+            {
+              "id": "step_1756373758893",
+              "type": "choice",
+              "content": "默默等待着她的话"
+            },
+            {
+              "id": "step_1756373759340",
+              "type": "choice",
+              "content": "选择佳津美"
+            },
+            {
+              "id": "step_1756373760137",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_1756373971183",
+              "type": "choice",
+              "content": "选择比名子"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756372565837",
+      "name": "鹤卷 楪",
+      "endings": [
+        {
+          "id": "ending_1756373985965",
+          "name": "楪 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756373999059",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1756374011267",
+              "type": "choice",
+              "content": "没错"
+            },
+            {
+              "id": "step_1756374018999",
+              "type": "choice",
+              "content": "默默地等待着她的话"
+            },
+            {
+              "id": "step_1756374019473",
+              "type": "choice",
+              "content": "选择栖川"
+            },
+            {
+              "id": "step_1756374020633",
+              "type": "choice",
+              "content": "选择鹤卷并面对她"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756372570024",
+      "name": "丹生 佳津美",
+      "endings": [
+        {
+          "id": "ending_1756374101232",
+          "name": "佳津美 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756374111893",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1756374115172",
+              "type": "choice",
+              "content": "选择佳津美"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,334 @@
+{
+  "vid": "v646",
+  "name": {
+    "zh-cn": "妖人幻妖异闻录",
+    "ja-jp": "あやかしびと",
+    "ja-Latn": "ayakashibito"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-15",
+  "routes": [
+    {
+      "id": "route_game_guide",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_knife_end1",
+          "name": "刀子 END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1",
+              "type": "choice",
+              "content": "起身"
+            },
+            {
+              "id": "step_2",
+              "type": "choice",
+              "content": "你几岁？"
+            },
+            {
+              "id": "step_3",
+              "type": "choice",
+              "content": "还有其它的能力吗？"
+            },
+            {
+              "id": "step_4",
+              "type": "choice",
+              "content": "真的是妖怪吗？"
+            },
+            {
+              "id": "step_5",
+              "type": "choice",
+              "content": "拒绝少年的提议"
+            },
+            {
+              "id": "step_6",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_8",
+              "type": "choice",
+              "content": "前去找刀子学姊"
+            },
+            {
+              "id": "step_9",
+              "type": "choice",
+              "content": "去学长姐的教室"
+            },
+            {
+              "id": "step_10",
+              "type": "choice",
+              "content": "请她帮忙"
+            },
+            {
+              "id": "step_11",
+              "type": "choice",
+              "content": "协助调查摔角社"
+            },
+            {
+              "id": "step_12",
+              "type": "choice",
+              "content": "与会长一起回去"
+            },
+            {
+              "id": "step_13",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_16",
+              "type": "choice",
+              "content": "接受逢难"
+            }
+          ]
+        },
+        {
+          "id": "ending_bad",
+          "name": "刀子 END2",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_17",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_19",
+              "type": "choice",
+              "content": "将刀子的脸烙印在眼中"
+            },
+            {
+              "id": "step_20",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_21",
+              "type": "choice",
+              "content": "攻击逢难"
+            }
+          ]
+        },
+        {
+          "id": "ending_knife_end2",
+          "name": "刀子 END3",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_22",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_23",
+              "type": "choice",
+              "content": "接受逢难"
+            }
+          ]
+        },
+        {
+          "id": "ending_tonia",
+          "name": "托妮雅 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_24",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_25",
+              "type": "choice",
+              "content": "前去找托妮雅"
+            },
+            {
+              "id": "step_26",
+              "type": "choice",
+              "content": "去学长姐的教室"
+            },
+            {
+              "id": "step_27",
+              "type": "choice",
+              "content": "自己突破"
+            },
+            {
+              "id": "step_28",
+              "type": "choice",
+              "content": "协助调查美术部"
+            },
+            {
+              "id": "step_29",
+              "type": "choice",
+              "content": "与托妮雅一起回去"
+            },
+            {
+              "id": "step_30",
+              "type": "choice",
+              "content": "她应该回自己的家里去"
+            },
+            {
+              "id": "step_31",
+              "type": "choice",
+              "content": "先吃铃的便当",
+              "subfix": "＊Ａ"
+            },
+            {
+              "id": "step_32",
+              "type": "choice",
+              "content": "打给铃",
+              "subfix": "＊Ｂ"
+            }
+          ]
+        },
+        {
+          "id": "ending_kaoru",
+          "name": "薰 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_33",
+              "type": "choice",
+              "content": "待在薰的旁边"
+            },
+            {
+              "id": "step_34",
+              "type": "choice",
+              "content": "既然是这种事、就跟女性们确认"
+            },
+            {
+              "id": "step_35",
+              "type": "choice",
+              "content": "询问眼前的女性",
+              "subfix": "回收CG"
+            }
+          ]
+        },
+        {
+          "id": "ending_rin_end1",
+          "name": "铃 END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_36",
+              "type": "choice",
+              "content": "不起身"
+            },
+            {
+              "id": "step_37",
+              "type": "choice",
+              "content": "你几岁？"
+            },
+            {
+              "id": "step_38",
+              "type": "choice",
+              "content": "还有其它的能力吗？"
+            },
+            {
+              "id": "step_39",
+              "type": "choice",
+              "content": "真的是妖怪吗？"
+            },
+            {
+              "id": "step_40",
+              "type": "choice",
+              "content": "拒绝少年的提议"
+            },
+            {
+              "id": "step_41",
+              "type": "choice",
+              "content": "前去找小樱等人",
+              "subfix": "回收CG"
+            },
+            {
+              "id": "step_42",
+              "type": "choice",
+              "content": "去学弟妹的教室"
+            },
+            {
+              "id": "step_43",
+              "type": "choice",
+              "content": "自己突破"
+            },
+            {
+              "id": "step_44",
+              "type": "choice",
+              "content": "留在这里打杂"
+            },
+            {
+              "id": "step_45",
+              "type": "choice",
+              "content": "与小樱及美羽一起回家"
+            },
+            {
+              "id": "step_46",
+              "type": "choice",
+              "content": "拜托美羽"
+            },
+            {
+              "id": "step_47",
+              "type": "choice",
+              "content": "去小樱那里",
+              "subfix": "回收CG"
+            },
+            {
+              "id": "step_48",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_49",
+              "type": "choice",
+              "content": "不使用炽天使之薬"
+            }
+          ]
+        },
+        {
+          "id": "ending_rin_end2",
+          "name": "铃 END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_50",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_51",
+              "type": "choice",
+              "content": "使用炽天使之药"
+            },
+            {
+              "id": "step_52",
+              "type": "save",
+              "content": "SAVE 5"
+            },
+            {
+              "id": "step_53",
+              "type": "choice",
+              "content": "可以"
+            }
+          ]
+        },
+        {
+          "id": "ending_rin_end3",
+          "name": "铃 END3",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_54",
+              "type": "load",
+              "content": "LOAD 5"
+            },
+            {
+              "id": "step_55",
+              "type": "choice",
+              "content": "不行"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

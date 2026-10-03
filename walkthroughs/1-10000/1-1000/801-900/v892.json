@@ -1,0 +1,134 @@
+{
+  "vid": "v892",
+  "name": {
+    "zh-cn": "心手相连狮子崎",
+    "ja-jp": "てとてトライオン！",
+    "ja-Latn": "te-to-te-try-on"
+  },
+  "level": 2,
+  "updatedAt": "2026-04-12",
+  "routes": [
+    {
+      "id": "route_game_guide",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_temari_end",
+          "name": "手鞠 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_temari_01",
+              "type": "save",
+              "content": "SAVE 1",
+              "group": "7月9日"
+            },
+            {
+              "id": "step_temari_02",
+              "type": "choice",
+              "content": "前往大浴场",
+              "group": "7月9日"
+            },
+            {
+              "id": "step_temari_03",
+              "type": "save",
+              "content": "SAVE 2",
+              "group": "7月13日"
+            },
+            {
+              "id": "step_temari_04",
+              "type": "choice",
+              "content": "前往警卫机器人格纳库",
+              "group": "7月13日"
+            }
+          ]
+        },
+        {
+          "id": "ending_suzuhime_end",
+          "name": "铃姬 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_suzuhime_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_suzuhime_02",
+              "type": "choice",
+              "content": "前往狮子崎路",
+              "group": "7月13日"
+            }
+          ]
+        },
+        {
+          "id": "ending_ichino_end",
+          "name": "一乃 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_ichino_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_ichino_02",
+              "type": "choice",
+              "content": "前往体育馆",
+              "group": "7月9日"
+            },
+            {
+              "id": "step_ichino_03",
+              "type": "save",
+              "content": "SAVE 3",
+              "group": "7月13日"
+            },
+            {
+              "id": "step_ichino_04",
+              "type": "choice",
+              "content": "前往警卫机器人格纳库",
+              "group": "7月13日"
+            }
+          ]
+        },
+        {
+          "id": "ending_natsumi_end",
+          "name": "夏海 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_natsumi_01",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_natsumi_02",
+              "type": "choice",
+              "content": "前往狮子崎路",
+              "group": "7月13日"
+            }
+          ]
+        },
+        {
+          "id": "ending_extra_end",
+          "name": "狮子崎的声音 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_extra_01",
+              "type": "note",
+              "content": "完成以上所有 END 后，选择「狮子崎的声音」开始",
+              "group": "EXTRA"
+            },
+            {
+              "id": "step_extra_02",
+              "type": "note",
+              "content": "无选项",
+              "group": "EXTRA"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

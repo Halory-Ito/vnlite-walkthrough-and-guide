@@ -1,0 +1,1259 @@
+{
+  "vid": "v26000",
+  "name": {
+    "zh-cn": "异想魅惑",
+    "en-us": "Kimagure Temptation",
+    "ja-jp": "きまぐれテンプテーション",
+    "ja-Latn": "kimagure-temptation"
+  },
+  "level": 2,
+  "updatedAt": "2026-02-27",
+  "tips": [
+    "能调查的都调查一遍，多对话，不在101做，不要激怒对方",
+    "『特别提醒，本攻略在场景变红之后的201室可能会出现问题，具体原因不明。可以在第一个选项存档，反复试错』",
+    "即使暂时不使用保存功能，也有解放功能来开放CG回想",
+    "×２回、×3回：表示选择某个场所对话和调查需要的次数",
+    "★表示在和Annelise的对话完成可以进行下一步。"
+  ],
+  "routes": [
+    {
+      "id": "route_1756301954280",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1756302419379",
+          "name": "END 1【约定】",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_1756302463451",
+              "type": "choice",
+              "content": "观察.调查  窗户"
+            },
+            {
+              "id": "step_1756302463591",
+              "type": "choice",
+              "content": "交谈 ×4"
+            },
+            {
+              "id": "step_1756302463728",
+              "type": "choice",
+              "content": "观察.调查⇒帆布背包×三次"
+            },
+            {
+              "id": "step_1756302463953",
+              "type": "choice",
+              "content": "观察.调查⇒墙壁"
+            },
+            {
+              "id": "step_1756302464090",
+              "type": "choice",
+              "content": "【移动】"
+            },
+            {
+              "id": "step_1756302464231",
+              "type": "choice",
+              "content": "交谈 ×3"
+            },
+            {
+              "id": "step_1756302464366",
+              "type": "choice",
+              "content": "【移动】"
+            },
+            {
+              "id": "step_1756302464497",
+              "type": "choice",
+              "content": "101室"
+            },
+            {
+              "id": "step_1756302464629",
+              "type": "choice",
+              "content": "交谈"
+            },
+            {
+              "id": "step_1756302464764",
+              "type": "choice",
+              "content": "（观察.调查）"
+            },
+            {
+              "id": "step_1756302464877",
+              "type": "choice",
+              "content": "【移动】"
+            },
+            {
+              "id": "step_1756302465097",
+              "type": "choice",
+              "content": "102室"
+            },
+            {
+              "id": "step_1756302465247",
+              "type": "choice",
+              "content": "交谈 ⇒萨利"
+            },
+            {
+              "id": "step_1756302465398",
+              "type": "choice",
+              "content": "询问神之子宫的事"
+            },
+            {
+              "id": "step_1756302465543",
+              "type": "choice",
+              "content": "交谈⇒安妮丽丝×3",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1756302465862",
+              "type": "choice",
+              "content": "交谈⇒萨利×2"
+            },
+            {
+              "id": "step_1756302466051",
+              "type": "choice",
+              "content": "观察.调查⇒室内×2"
+            },
+            {
+              "id": "step_1756302466663",
+              "type": "choice",
+              "content": "【移动】"
+            },
+            {
+              "id": "step_1756302466796",
+              "type": "choice",
+              "content": "103室"
+            },
+            {
+              "id": "step_1756302466937",
+              "type": "choice",
+              "content": "交谈⇒安妮丽丝×3",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1756302467078",
+              "type": "choice",
+              "content": "观察.调查⇒室内⇒垃圾堆（垃圾山）"
+            },
+            {
+              "id": "step_1756302467189",
+              "type": "choice",
+              "content": "观察.调查⇒室内⇒窗帘（窗帘）"
+            },
+            {
+              "id": "step_1756302733735",
+              "type": "choice",
+              "content": "【移动】"
+            },
+            {
+              "id": "step_1756302733892",
+              "type": "choice",
+              "content": "201室"
+            },
+            {
+              "id": "step_1756302734043",
+              "type": "choice",
+              "content": "交谈⇒安妮丽丝×3次",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1756302734183",
+              "type": "choice",
+              "content": "交谈⇒库利×3"
+            },
+            {
+              "id": "step_1756302734321",
+              "type": "choice",
+              "content": "观察.调查⇒室内⇒草×两次"
+            },
+            {
+              "id": "step_1756302734474",
+              "type": "choice",
+              "content": "202室"
+            },
+            {
+              "id": "step_1756302734623",
+              "type": "choice",
+              "content": "【交谈】⇒哈薇"
+            },
+            {
+              "id": "step_1756302734767",
+              "type": "choice",
+              "content": "询问关于教诲的事"
+            },
+            {
+              "id": "step_1756302734926",
+              "type": "choice",
+              "content": "【交谈】⇒哈薇"
+            },
+            {
+              "id": "step_1756302735075",
+              "type": "choice",
+              "content": "询问关于神之子宫的事"
+            },
+            {
+              "id": "step_1756302735195",
+              "type": "choice",
+              "content": "【交谈】⇒哈薇"
+            },
+            {
+              "id": "step_1756302735330",
+              "type": "choice",
+              "content": "询问关于母亲的事"
+            },
+            {
+              "id": "step_1756302735529",
+              "type": "choice",
+              "content": "【交谈】⇒哈薇"
+            },
+            {
+              "id": "step_1756302735667",
+              "type": "choice",
+              "content": "询问关于天使的事"
+            },
+            {
+              "id": "step_1756302735816",
+              "type": "choice",
+              "content": "【交谈】⇒安妮丽丝×5次",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1756302735943",
+              "type": "choice",
+              "content": "【查看・调查】⇒室内"
+            },
+            {
+              "id": "step_1756302736148",
+              "type": "choice",
+              "content": "【移动】"
+            },
+            {
+              "id": "step_1756302736286",
+              "type": "choice",
+              "content": "抱紧她"
+            },
+            {
+              "id": "step_1756302736402",
+              "type": "choice",
+              "content": "【交谈】×3次",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1756302736576",
+              "type": "choice",
+              "content": "【移动】"
+            },
+            {
+              "id": "step_1756303145042",
+              "type": "choice",
+              "content": "102室"
+            },
+            {
+              "id": "step_1756303145318",
+              "type": "choice",
+              "content": "【交谈】⇒安妮丽丝×2",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1756303145457",
+              "type": "choice",
+              "content": "【交谈】⇒萨利×3"
+            },
+            {
+              "id": "step_1756303145608",
+              "type": "choice",
+              "content": "103室"
+            },
+            {
+              "id": "step_1756303145757",
+              "type": "choice",
+              "content": "【交谈】⇒安妮丽丝×3次",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1756303145886",
+              "type": "choice",
+              "content": "【查看・调查】⇒室内⇒垃圾堆×3  ※注射器"
+            },
+            {
+              "id": "step_1756303146034",
+              "type": "choice",
+              "content": "【移动】"
+            },
+            {
+              "id": "step_1756303146172",
+              "type": "choice",
+              "content": "201室"
+            },
+            {
+              "id": "step_1756303230300",
+              "type": "choice",
+              "content": "【交谈】⇒库利"
+            },
+            {
+              "id": "step_1756303230469",
+              "type": "choice",
+              "content": "其实还没有……"
+            },
+            {
+              "id": "step_1756303230633",
+              "type": "choice",
+              "content": "【交谈】⇒库利"
+            },
+            {
+              "id": "step_1756303230786",
+              "type": "choice",
+              "content": "很有参考价值"
+            },
+            {
+              "id": "step_1756303230920",
+              "type": "choice",
+              "content": "【交谈】⇒库利×两次"
+            },
+            {
+              "id": "step_1756303231215",
+              "type": "choice",
+              "content": "202室"
+            },
+            {
+              "id": "step_1756303231427",
+              "type": "choice",
+              "content": "【交谈】⇒安奈丽丝",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1756303266570",
+              "type": "choice",
+              "content": "【交谈】⇒哈薇"
+            },
+            {
+              "id": "step_1756303266713",
+              "type": "choice",
+              "content": "试着问她喜欢什么样的漫画"
+            },
+            {
+              "id": "step_1756303266838",
+              "type": "choice",
+              "content": "【交谈】⇒哈薇"
+            },
+            {
+              "id": "step_1756303266969",
+              "type": "choice",
+              "content": "回答知道"
+            },
+            {
+              "id": "step_1756303267099",
+              "type": "choice",
+              "content": "【交谈】⇒哈薇×两次"
+            },
+            {
+              "id": "step_1756303267199",
+              "type": "choice",
+              "content": "【移动】"
+            },
+            {
+              "id": "step_1756303267304",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1756303267524",
+              "type": "note",
+              "content": "不在这里和安娜做"
+            },
+            {
+              "id": "step_1756303267666",
+              "type": "choice",
+              "content": "【交谈】×3次",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1756303267779",
+              "type": "choice",
+              "content": "【查看・调查】⇒窗户×2次",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1756303317865",
+              "type": "choice",
+              "content": "【移动】"
+            },
+            {
+              "id": "step_1756303317988",
+              "type": "choice",
+              "content": "103室"
+            },
+            {
+              "id": "step_1756303318132",
+              "type": "choice",
+              "content": "201室"
+            },
+            {
+              "id": "step_1756303318255",
+              "type": "choice",
+              "content": "202室"
+            },
+            {
+              "id": "step_1756303318375",
+              "type": "choice",
+              "content": "事件当天，到底发生了什么"
+            },
+            {
+              "id": "step_1756303318593",
+              "type": "choice",
+              "content": "母亲到底是什么人"
+            },
+            {
+              "id": "step_1756303318749",
+              "type": "choice",
+              "content": "关于201室间的植物"
+            },
+            {
+              "id": "step_1756303318912",
+              "type": "choice",
+              "content": "搬入这栋公寓的经过"
+            },
+            {
+              "id": "step_1756303319063",
+              "type": "choice",
+              "content": "关于102室间的住户"
+            },
+            {
+              "id": "step_1756303319187",
+              "type": "choice",
+              "content": "关于201室间的住户"
+            },
+            {
+              "id": "step_1756303319316",
+              "type": "choice",
+              "content": "关于103室间的住户",
+              "subfix": "※最后选择"
+            },
+            {
+              "id": "step_1756303319458",
+              "type": "choice",
+              "content": "103室"
+            },
+            {
+              "id": "step_1756303319543",
+              "type": "choice",
+              "content": "【交谈】⇒萝吉×三次"
+            },
+            {
+              "id": "step_1756303319691",
+              "type": "choice",
+              "content": "可爱大叔"
+            },
+            {
+              "id": "step_1756303319849",
+              "type": "choice",
+              "content": "【交谈】⇒萝吉"
+            },
+            {
+              "id": "step_1756303319989",
+              "type": "choice",
+              "content": "不怎么看"
+            },
+            {
+              "id": "step_1756303320099",
+              "type": "choice",
+              "content": "【交谈】⇒萝吉"
+            },
+            {
+              "id": "step_1756303320225",
+              "type": "choice",
+              "content": "【交谈】⇒安妮丽丝",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1756303658027",
+              "type": "choice",
+              "content": "【移动】"
+            },
+            {
+              "id": "step_1756303658178",
+              "type": "choice",
+              "content": "【交谈】⇒安妮丽丝×3次",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1756303658304",
+              "type": "choice",
+              "content": "【移动】"
+            },
+            {
+              "id": "step_1756303658441",
+              "type": "choice",
+              "content": "201室"
+            },
+            {
+              "id": "step_1756303658569",
+              "type": "note",
+              "content": "从这里到结局前三间房间的对话要慎重，黑化后会无法得到关键证据，导致结局变化，请善用存档"
+            },
+            {
+              "id": "step_1756303658697",
+              "type": "choice",
+              "content": "我会妥善处理"
+            },
+            {
+              "id": "step_1756303658813",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1756303658954",
+              "type": "choice",
+              "content": "我想帮助你"
+            },
+            {
+              "id": "step_1756303659133",
+              "type": "choice",
+              "content": "【查看・调查】⇒室内⇒草×两次"
+            },
+            {
+              "id": "step_1756303659278",
+              "type": "choice",
+              "content": "【查看・调查】⇒室内⇒乔洛（水壶）×三次"
+            },
+            {
+              "id": "step_1756303659509",
+              "type": "choice",
+              "content": "【交谈】⇒晶×三次"
+            },
+            {
+              "id": "step_1756303659673",
+              "type": "choice",
+              "content": "【交谈】⇒安妮丽丝×2次",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1756303716584",
+              "type": "choice",
+              "content": "【移动】"
+            },
+            {
+              "id": "step_1756303716734",
+              "type": "choice",
+              "content": "你是个温柔的人"
+            },
+            {
+              "id": "step_1756303716879",
+              "type": "choice",
+              "content": "你是个才华横溢的人"
+            },
+            {
+              "id": "step_1756303717022",
+              "type": "choice",
+              "content": "不可以放弃梦想"
+            },
+            {
+              "id": "step_1756303717189",
+              "type": "choice",
+              "content": "【交谈】⇒实梨爱×五次"
+            },
+            {
+              "id": "step_1756303717331",
+              "type": "choice",
+              "content": "【交谈】⇒安妮丽丝×2次",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1756303717461",
+              "type": "choice",
+              "content": "【查看・调查】⇒书架（书架）",
+              "subfix": "※先选择[我的反抗期：取得]）"
+            },
+            {
+              "id": "step_1756303717572",
+              "type": "choice",
+              "content": "【查看・调查】⇒地板上的书×两次"
+            },
+            {
+              "id": "step_1756303717708",
+              "type": "choice",
+              "content": "【移动】"
+            },
+            {
+              "id": "step_1756303717816",
+              "type": "choice",
+              "content": "我们不会伤害你"
+            },
+            {
+              "id": "step_1756303717983",
+              "type": "choice",
+              "content": "递出手帕"
+            },
+            {
+              "id": "step_1756303718168",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_1756303782406",
+              "type": "choice",
+              "content": "握住双手"
+            },
+            {
+              "id": "step_1756303782564",
+              "type": "choice",
+              "content": "【交谈】⇒花音"
+            },
+            {
+              "id": "step_1756303782705",
+              "type": "choice",
+              "content": "【查看・调查】⇒床（地板）"
+            },
+            {
+              "id": "step_1756303782839",
+              "type": "choice",
+              "content": "【移动】"
+            },
+            {
+              "id": "step_1756303782994",
+              "type": "choice",
+              "content": "关于天使"
+            },
+            {
+              "id": "step_1756303783120",
+              "type": "choice",
+              "content": "素描簿"
+            },
+            {
+              "id": "step_1756303783248",
+              "type": "choice",
+              "content": "关于教诲"
+            },
+            {
+              "id": "step_1756303783455",
+              "type": "choice",
+              "content": "录音文件"
+            },
+            {
+              "id": "step_1756303783606",
+              "type": "choice",
+              "content": "关于神之祝福"
+            },
+            {
+              "id": "step_1756303783754",
+              "type": "choice",
+              "content": "交易现场的证据照片"
+            },
+            {
+              "id": "step_1756303783887",
+              "type": "choice",
+              "content": "关于仪式"
+            },
+            {
+              "id": "step_1756303784030",
+              "type": "choice",
+              "content": "杀死安妮"
+            }
+          ]
+        },
+        {
+          "id": "ending_1756303884710",
+          "name": "END 2【解决】",
+          "type": "normal",
+          "requirements": "正常，BAD",
+          "steps": [
+            {
+              "id": "step_1756303899880",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1756303903579",
+              "type": "note",
+              "content": "绝对不和安娜做"
+            },
+            {
+              "id": "step_1756303906489",
+              "type": "choice",
+              "content": "【移动】"
+            },
+            {
+              "id": "step_1756303906634",
+              "type": "choice",
+              "content": "103室"
+            },
+            {
+              "id": "step_1756303906808",
+              "type": "choice",
+              "content": "201室"
+            },
+            {
+              "id": "step_1756303906973",
+              "type": "choice",
+              "content": "202室"
+            },
+            {
+              "id": "step_1756303907132",
+              "type": "choice",
+              "content": "事件当天，到底发生了什么"
+            },
+            {
+              "id": "step_1756303907291",
+              "type": "choice",
+              "content": "母亲到底是什么人"
+            },
+            {
+              "id": "step_1756303910132",
+              "type": "choice",
+              "content": "关于201室间的植物"
+            },
+            {
+              "id": "step_1756303910305",
+              "type": "choice",
+              "content": "搬入这栋公寓的经过"
+            },
+            {
+              "id": "step_1756303910470",
+              "type": "choice",
+              "content": "关于102室间的住户"
+            },
+            {
+              "id": "step_1756303910643",
+              "type": "choice",
+              "content": "关于201室间的住户"
+            },
+            {
+              "id": "step_1756303910860",
+              "type": "choice",
+              "content": "关于103室间的住户",
+              "subfix": "※最后选择"
+            },
+            {
+              "id": "step_1756303931606",
+              "type": "choice",
+              "content": "103室"
+            },
+            {
+              "id": "step_1756303931742",
+              "type": "choice",
+              "content": "【交谈】⇒萝吉×三次"
+            },
+            {
+              "id": "step_1756303932013",
+              "type": "choice",
+              "content": "可爱大叔"
+            },
+            {
+              "id": "step_1756303932196",
+              "type": "choice",
+              "content": "【交谈】⇒萝吉"
+            },
+            {
+              "id": "step_1756303988469",
+              "type": "choice",
+              "content": "不怎么看"
+            },
+            {
+              "id": "step_1756303988612",
+              "type": "choice",
+              "content": "【交谈】⇒萝吉"
+            },
+            {
+              "id": "step_1756303988734",
+              "type": "choice",
+              "content": "【移动】"
+            },
+            {
+              "id": "step_1756303989014",
+              "type": "choice",
+              "content": "201室"
+            },
+            {
+              "id": "step_1756303989135",
+              "type": "choice",
+              "content": "我会妥善处理"
+            },
+            {
+              "id": "step_1756303989265",
+              "type": "choice",
+              "content": "不要撒娇"
+            },
+            {
+              "id": "step_1756303989406",
+              "type": "choice",
+              "content": "我想帮助你"
+            },
+            {
+              "id": "step_1756303989631",
+              "type": "choice",
+              "content": "【查看・调查】⇒室内⇒草×两次"
+            },
+            {
+              "id": "step_1756303989796",
+              "type": "choice",
+              "content": "【看・查】⇒室内⇒乔洛（水壶）×三次"
+            },
+            {
+              "id": "step_1756303989948",
+              "type": "choice",
+              "content": "【交谈】⇒晶×三次"
+            },
+            {
+              "id": "step_1756303990075",
+              "type": "choice",
+              "content": "【移动】"
+            },
+            {
+              "id": "step_1756303990199",
+              "type": "choice",
+              "content": "你是个温柔的人"
+            },
+            {
+              "id": "step_1756303990325",
+              "type": "choice",
+              "content": "你是个才华横溢的人"
+            },
+            {
+              "id": "step_1756303990449",
+              "type": "choice",
+              "content": "我需要你"
+            },
+            {
+              "id": "step_1756303990574",
+              "type": "choice",
+              "content": "【交谈】⇒实梨爱×五次"
+            },
+            {
+              "id": "step_1756303990702",
+              "type": "choice",
+              "content": "【查看・调查】⇒地板上的书×两次"
+            },
+            {
+              "id": "step_1756303990848",
+              "type": "choice",
+              "content": "【移动】"
+            },
+            {
+              "id": "step_1756303990973",
+              "type": "choice",
+              "content": "我们不会伤害你"
+            },
+            {
+              "id": "step_1756303991102",
+              "type": "choice",
+              "content": "原地坐下"
+            },
+            {
+              "id": "step_1756303991230",
+              "type": "choice",
+              "content": "握住双手"
+            },
+            {
+              "id": "step_1756303991366",
+              "type": "choice",
+              "content": "【查看・调查】⇒床（地板）"
+            },
+            {
+              "id": "step_1756303991487",
+              "type": "choice",
+              "content": "【移动】"
+            },
+            {
+              "id": "step_1756304048088",
+              "type": "choice",
+              "content": "关于天使"
+            },
+            {
+              "id": "step_1756304048235",
+              "type": "choice",
+              "content": "素描簿"
+            },
+            {
+              "id": "step_1756304048442",
+              "type": "choice",
+              "content": "关于教诲"
+            },
+            {
+              "id": "step_1756304048610",
+              "type": "choice",
+              "content": "录音文件"
+            },
+            {
+              "id": "step_1756304048769",
+              "type": "choice",
+              "content": "关于神之祝福"
+            },
+            {
+              "id": "step_1756304048901",
+              "type": "choice",
+              "content": "交易现场的证据照片"
+            },
+            {
+              "id": "step_1756304049034",
+              "type": "choice",
+              "content": "关于仪式"
+            }
+          ]
+        },
+        {
+          "id": "ending_1756304135087",
+          "name": "END 4【后悔】",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756304139164",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1756304142945",
+              "type": "choice",
+              "content": "相信我"
+            },
+            {
+              "id": "step_1756304143170",
+              "type": "choice",
+              "content": "是母亲她们不好"
+            },
+            {
+              "id": "step_1756304143399",
+              "type": "choice",
+              "content": "不可以自暴自弃"
+            },
+            {
+              "id": "step_1756304143688",
+              "type": "choice",
+              "content": "不可以放弃梦想"
+            },
+            {
+              "id": "step_1756304143973",
+              "type": "choice",
+              "content": "我们不会伤害你"
+            },
+            {
+              "id": "step_1756304144218",
+              "type": "choice",
+              "content": "递出手帕"
+            },
+            {
+              "id": "step_1756304144475",
+              "type": "choice",
+              "content": "继续交谈"
+            }
+          ]
+        },
+        {
+          "id": "ending_1756304171833",
+          "name": "End 3【闭幕】",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756304175351",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1756304186756",
+              "type": "note",
+              "content": "继续交谈"
+            },
+            {
+              "id": "step_1756304190352",
+              "type": "choice",
+              "content": "关于天使"
+            },
+            {
+              "id": "step_1756304190672",
+              "type": "choice",
+              "content": "素描簿"
+            },
+            {
+              "id": "step_1756304190815",
+              "type": "choice",
+              "content": "关于教诲"
+            },
+            {
+              "id": "step_1756304190964",
+              "type": "choice",
+              "content": "关于神之祝福"
+            },
+            {
+              "id": "step_1756304191095",
+              "type": "choice",
+              "content": "交易现场的证据照片"
+            },
+            {
+              "id": "step_1756304191541",
+              "type": "choice",
+              "content": "关于仪式"
+            }
+          ]
+        },
+        {
+          "id": "ending_1756304241487",
+          "name": "END 6【BAD2】",
+          "type": "bad",
+          "requirements": "※有CG回收",
+          "steps": [
+            {
+              "id": "step_1756304245211",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1756304248069",
+              "type": "note",
+              "content": "和安娜做"
+            },
+            {
+              "id": "step_1756304252671",
+              "type": "choice",
+              "content": "【移动】"
+            },
+            {
+              "id": "step_1756304252825",
+              "type": "choice",
+              "content": "103室"
+            },
+            {
+              "id": "step_1756304252985",
+              "type": "choice",
+              "content": "201室"
+            },
+            {
+              "id": "step_1756304253205",
+              "type": "choice",
+              "content": "202室"
+            },
+            {
+              "id": "step_1756304253369",
+              "type": "choice",
+              "content": "事件当天，到底发生了什么"
+            },
+            {
+              "id": "step_1756304253593",
+              "type": "choice",
+              "content": "母亲到底是什么人"
+            },
+            {
+              "id": "step_1756304269007",
+              "type": "choice",
+              "content": "关于201室间的植物"
+            },
+            {
+              "id": "step_1756304269169",
+              "type": "choice",
+              "content": "搬入这栋公寓的经过"
+            },
+            {
+              "id": "step_1756304269355",
+              "type": "choice",
+              "content": "关于102室间的住户"
+            },
+            {
+              "id": "step_1756304269516",
+              "type": "choice",
+              "content": "关于201室间的住户"
+            },
+            {
+              "id": "step_1756304269677",
+              "type": "choice",
+              "content": "关于103室间的住户",
+              "subfix": "※最后选择"
+            },
+            {
+              "id": "step_1756304269841",
+              "type": "choice",
+              "content": "103室"
+            },
+            {
+              "id": "step_1756304299536",
+              "type": "choice",
+              "content": "【交谈】⇒萝吉×三次"
+            },
+            {
+              "id": "step_1756304299683",
+              "type": "choice",
+              "content": "可爱大叔"
+            },
+            {
+              "id": "step_1756304299938",
+              "type": "choice",
+              "content": "【交谈】⇒萝吉"
+            },
+            {
+              "id": "step_1756304300089",
+              "type": "choice",
+              "content": "不怎么看"
+            },
+            {
+              "id": "step_1756304300261",
+              "type": "choice",
+              "content": "【交谈】⇒萝吉"
+            },
+            {
+              "id": "step_1756304316627",
+              "type": "choice",
+              "content": "【移动】"
+            },
+            {
+              "id": "step_1756304317671",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_1756304327441",
+              "type": "note",
+              "content": "克服冲动"
+            },
+            {
+              "id": "step_1756304331307",
+              "type": "choice",
+              "content": "【移动】"
+            },
+            {
+              "id": "step_1756304331519",
+              "type": "choice",
+              "content": "201室"
+            },
+            {
+              "id": "step_1756304331673",
+              "type": "choice",
+              "content": "我会妥善处理"
+            },
+            {
+              "id": "step_1756304331841",
+              "type": "choice",
+              "content": "不要撒娇"
+            },
+            {
+              "id": "step_1756304332005",
+              "type": "choice",
+              "content": "相信我"
+            },
+            {
+              "id": "step_1756304332178",
+              "type": "choice",
+              "content": "【查看・调查】⇒室内⇒草×两次"
+            },
+            {
+              "id": "step_1756304332348",
+              "type": "choice",
+              "content": "【查看・调查】⇒室内⇒乔洛（水壶）×三次"
+            },
+            {
+              "id": "step_1756304332511",
+              "type": "choice",
+              "content": "【交谈】⇒晶×三次"
+            },
+            {
+              "id": "step_1756304332675",
+              "type": "choice",
+              "content": "【移动】"
+            },
+            {
+              "id": "step_1756304332856",
+              "type": "choice",
+              "content": "你是个温柔的人"
+            },
+            {
+              "id": "step_1756304358099",
+              "type": "choice",
+              "content": "你是个才华横溢的人"
+            },
+            {
+              "id": "step_1756304358277",
+              "type": "choice",
+              "content": "不可以放弃梦想"
+            },
+            {
+              "id": "step_1756304358453",
+              "type": "choice",
+              "content": "【交谈】⇒实梨爱×五次"
+            },
+            {
+              "id": "step_1756304358637",
+              "type": "choice",
+              "content": "【查看・调查】⇒地板上的书×两次"
+            },
+            {
+              "id": "step_1756304358821",
+              "type": "choice",
+              "content": "【移动】"
+            },
+            {
+              "id": "step_1756304359006",
+              "type": "choice",
+              "content": "我们不会伤害你"
+            },
+            {
+              "id": "step_1756304359177",
+              "type": "choice",
+              "content": "递出手帕"
+            },
+            {
+              "id": "step_1756304359361",
+              "type": "choice",
+              "content": "握住双手"
+            },
+            {
+              "id": "step_1756304359547",
+              "type": "choice",
+              "content": "【查看・调查】⇒床"
+            },
+            {
+              "id": "step_1756304359769",
+              "type": "choice",
+              "content": "【移动】"
+            },
+            {
+              "id": "step_1756304359939",
+              "type": "choice",
+              "content": "关于天使"
+            },
+            {
+              "id": "step_1756304360126",
+              "type": "choice",
+              "content": "素描簿"
+            },
+            {
+              "id": "step_1756304360305",
+              "type": "choice",
+              "content": "关于教诲"
+            },
+            {
+              "id": "step_1756304360478",
+              "type": "choice",
+              "content": "录音文件"
+            },
+            {
+              "id": "step_1756304360649",
+              "type": "choice",
+              "content": "关于神之祝福"
+            },
+            {
+              "id": "step_1756304360826",
+              "type": "choice",
+              "content": "交易现场的证据照片"
+            },
+            {
+              "id": "step_1756304361018",
+              "type": "choice",
+              "content": "关于仪式"
+            }
+          ]
+        },
+        {
+          "id": "ending_1756304522722",
+          "name": "END 5【BAD1】",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_1756304555772",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_1756304562878",
+              "type": "choice",
+              "content": "将身体交给冲动",
+              "subfix": "※H场景有"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

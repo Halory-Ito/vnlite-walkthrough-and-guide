@@ -1,0 +1,159 @@
+{
+  "vid": "v13046",
+  "name": {
+    "zh-cn": "恋爱之夏的最后度假所",
+    "ja-jp": "恋する夏のラストリゾート",
+    "ja-Latn": "koisuru-natsu-no-last-resort"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-14",
+  "routes": [
+    {
+      "id": "route_game_guide",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_umi_end",
+          "name": "羽海 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_umi_01",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_umi_02",
+              "type": "choice",
+              "content": "去帮幸崎"
+            },
+            {
+              "id": "step_umi_03",
+              "type": "choice",
+              "content": "帮幸崎或汐璃小姐"
+            },
+            {
+              "id": "step_umi_04",
+              "type": "choice",
+              "content": "帮幸崎"
+            },
+            {
+              "id": "step_umi_05",
+              "type": "choice",
+              "content": "回房间和羽海一起考虑"
+            }
+          ]
+        },
+        {
+          "id": "ending_sango_end",
+          "name": "珊瑚 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_sango_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_sango_02",
+              "type": "choice",
+              "content": "去其他人那里看看"
+            },
+            {
+              "id": "step_sango_03",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_sango_04",
+              "type": "choice",
+              "content": "等珊瑚和莉帆小姐"
+            },
+            {
+              "id": "step_sango_05",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_sango_06",
+              "type": "choice",
+              "content": "和珊瑚一起去"
+            },
+            {
+              "id": "step_sango_07",
+              "type": "choice",
+              "content": "跟着珊瑚她们一起去"
+            }
+          ]
+        },
+        {
+          "id": "ending_shiori_end",
+          "name": "汐璃 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_shiori_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_shiori_02",
+              "type": "choice",
+              "content": "帮幸崎或汐璃小姐"
+            },
+            {
+              "id": "step_shiori_03",
+              "type": "choice",
+              "content": "帮汐璃小姐"
+            },
+            {
+              "id": "step_shiori_04",
+              "type": "choice",
+              "content": "询问汐璃小姐的计划"
+            }
+          ]
+        },
+        {
+          "id": "ending_riho_end",
+          "name": "莉帆 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_riho_01",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_riho_02",
+              "type": "choice",
+              "content": "等莉帆小姐"
+            },
+            {
+              "id": "step_riho_03",
+              "type": "choice",
+              "content": "邀莉帆小姐散步"
+            }
+          ]
+        },
+        {
+          "id": "ending_nagisa_end",
+          "name": "渚 END",
+          "type": "normal",
+          "requirements": "完成任意一人路线后",
+          "steps": [
+            {
+              "id": "step_nagisa_02",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_nagisa_03",
+              "type": "choice",
+              "content": "还是请渚小姐下指示"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

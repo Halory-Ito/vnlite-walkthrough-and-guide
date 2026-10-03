@@ -1,0 +1,153 @@
+{
+  "vid": "v20471",
+  "name": {
+    "zh-cn": "水葬银货的Istoria",
+    "ja-jp": "水葬銀貨のイストリア",
+    "ja-Latn": "suisou-ginka-no-istoria"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-15",
+  "tips": [
+    "4人攻略完毕后才可进入真结局"
+  ],
+  "routes": [
+    {
+      "id": "route_game_guide",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_sayo",
+          "name": "小夜 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_2",
+              "type": "choice",
+              "content": "抛弃夕樱。"
+            },
+            {
+              "id": "step_3",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_4",
+              "type": "choice",
+              "content": "喜欢煤谷小夜。"
+            }
+          ]
+        },
+        {
+          "id": "ending_kukuri",
+          "name": "玖玖里 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_5",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_6",
+              "type": "choice",
+              "content": "喜欢汐入玖玖里。"
+            }
+          ]
+        },
+        {
+          "id": "ending_yuzakura",
+          "name": "夕樱 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_7",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_8",
+              "type": "choice",
+              "content": "抛弃玖玖里。"
+            },
+            {
+              "id": "step_9",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_10",
+              "type": "choice",
+              "content": "不牵小不动的手。"
+            }
+          ]
+        },
+        {
+          "id": "ending_yuri",
+          "name": "摇 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_11",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_12",
+              "type": "choice",
+              "content": "牵起小不动的手。"
+            }
+          ]
+        },
+        {
+          "id": "ending_bad",
+          "name": "BAD END",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_13",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_14",
+              "type": "choice",
+              "content": "都不抛弃。"
+            },
+            {
+              "id": "step_15",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_16",
+              "type": "choice",
+              "content": "跟注"
+            }
+          ]
+        },
+        {
+          "id": "ending_true",
+          "name": "TRUE END",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_17",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_18",
+              "type": "choice",
+              "content": "弃牌"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

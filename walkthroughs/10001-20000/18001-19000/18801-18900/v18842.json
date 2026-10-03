@@ -1,0 +1,221 @@
+{
+  "vid": "v18842",
+  "name": {
+    "zh-cn": "花之天使的夏日恋歌",
+    "ja-jp": "フローラル・フローラブ",
+    "ja-Latn": "floral-flowlove"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-14",
+  "tips": [
+    "部分一/二周目选择不可的选项可在角色攻略完毕后选择，但是对回收CG无影响。",
+    "在特定日期打开游戏，标题画面会有一段小剧情。"
+  ],
+  "routes": [
+    {
+      "id": "route_1772868641714",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1772868736607",
+          "name": "美鸠夏乃",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1772868871771",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1772868873047",
+              "type": "choice",
+              "content": "夏乃"
+            },
+            {
+              "id": "step_1772868883460",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1772868884061",
+              "type": "choice",
+              "content": "夏乃"
+            },
+            {
+              "id": "step_1772868885821",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_1772868887564",
+              "type": "choice",
+              "content": "夏乃"
+            },
+            {
+              "id": "step_1772868887890",
+              "type": "choice",
+              "content": "看了看大小姐"
+            }
+          ]
+        },
+        {
+          "id": "ending_1772868933224",
+          "name": "朱鹭坂七绪",
+          "type": "normal",
+          "requirements": "夏乃攻略后",
+          "steps": [
+            {
+              "id": "step_1772868975186",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1772868984293",
+              "type": "choice",
+              "content": "七绪"
+            },
+            {
+              "id": "step_1772868984899",
+              "type": "choice",
+              "content": "看了看七绪"
+            }
+          ]
+        },
+        {
+          "id": "ending_1772868933422",
+          "name": "阿德尔海德・冯・贝格施特拉瑟",
+          "type": "normal",
+          "requirements": "七绪攻略后",
+          "steps": [
+            {
+              "id": "step_1772869141271",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1772869148208",
+              "type": "choice",
+              "content": "阿德尔海德"
+            }
+          ]
+        },
+        {
+          "id": "ending_1772869178607",
+          "name": "椿姬恋羽",
+          "type": "normal",
+          "requirements": "阿德尔海德攻略后",
+          "steps": [
+            {
+              "id": "step_1772869215959",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1772869218261",
+              "type": "choice",
+              "content": "恋羽"
+            },
+            {
+              "id": "step_1772869225712",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_1772869229270",
+              "type": "choice",
+              "content": "现在我不觉得我的能力是个好东西"
+            }
+          ]
+        },
+        {
+          "id": "ending_1772869178776",
+          "name": "碧衣愁",
+          "type": "normal",
+          "requirements": "恋羽攻略后",
+          "steps": [
+            {
+              "id": "step_1772869264428",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_1772869272112",
+              "type": "choice",
+              "content": "今后我要面对自己的能力"
+            }
+          ]
+        },
+        {
+          "id": "ending_1772869178985",
+          "name": "齐须莉玖",
+          "type": "normal",
+          "requirements": "上述角色攻略完毕后，从标题画面开始",
+          "steps": [
+            {
+              "id": "step_1772869295963",
+              "type": "choice",
+              "content": "Informalnote"
+            }
+          ]
+        },
+        {
+          "id": "ending_1772869384801",
+          "name": "回收未读剧情",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1772869422996",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1772869423887",
+              "type": "choice",
+              "content": "七绪"
+            },
+            {
+              "id": "step_1772869587853",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1772869590854",
+              "type": "choice",
+              "content": "七绪"
+            },
+            {
+              "id": "step_1772869601494",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1772869606833",
+              "type": "choice",
+              "content": "阿德尔海德"
+            },
+            {
+              "id": "step_1772869615779",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1772869618161",
+              "type": "choice",
+              "content": "恋羽"
+            },
+            {
+              "id": "step_1772869622256",
+              "type": "note",
+              "content": "未读剧情回收"
+            },
+            {
+              "id": "step_1772869625789",
+              "type": "note",
+              "content": "01月01日：元旦 ，02月14日：情人节 ，03月14日：白色情人节 ，04月01日：愚人节 ，10月31日：万圣节 ，12月25日：圣诞节 ， 01月06日：莉玖：诞生日 ，02月14日：夏乃：诞生日 ，03月07日：七绪：诞生日， 05月22日：阿德尔海德：诞生日， 11月11日：恋羽：诞生日， 12月25日：愁：诞生日"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

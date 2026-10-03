@@ -1,0 +1,112 @@
+{
+  "vid": "v34848",
+  "name": {
+    "zh-cn": "甜蜜夏日",
+    "en-us": "Amanatsu",
+    "ja-jp": "アマナツ",
+    "ja-Latn": "amanatsu"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-11",
+  "routes": [
+    {
+      "id": "route_1755874046572",
+      "name": "相仓 和叶",
+      "endings": [
+        {
+          "id": "ending_1755949547360",
+          "name": "和叶 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755949590882",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1755949599117",
+              "type": "choice",
+              "content": "与和叶交谈"
+            },
+            {
+              "id": "step_1755949599338",
+              "type": "choice",
+              "content": "放学后与和叶共度时光"
+            },
+            {
+              "id": "step_1755949599597",
+              "type": "choice",
+              "content": "看着和叶学习"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755949849135",
+      "name": "雨晴",
+      "endings": [
+        {
+          "id": "ending_1755949877462",
+          "name": "雨晴 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755949888174",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1755949889677",
+              "type": "choice",
+              "content": "我去看宇春"
+            },
+            {
+              "id": "step_1755949890199",
+              "type": "choice",
+              "content": "放学后等待雨晴一起回"
+            },
+            {
+              "id": "step_1755949890608",
+              "type": "choice",
+              "content": "看着雨晴学习"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755949952616",
+      "name": "上梨夜雪",
+      "endings": [
+        {
+          "id": "ending_1755949967041",
+          "name": "夜雪 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755949982885",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1755949988459",
+              "type": "choice",
+              "content": "去见夜雪前辈"
+            },
+            {
+              "id": "step_1755949988644",
+              "type": "choice",
+              "content": "放学后与夜雪共度时光"
+            },
+            {
+              "id": "step_1755949988902",
+              "type": "choice",
+              "content": "看夜雪学习"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

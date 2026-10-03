@@ -1,0 +1,172 @@
+{
+  "vid": "v16338",
+  "name": {
+    "zh-cn": "シロガネ×スピリッツ！",
+    "en-us": "Shirogane x Spirits!",
+    "ja-jp": "シロガネ×スピリッツ！",
+    "ja-Latn": "shirogane-x-spirits"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-13",
+  "routes": [
+    {
+      "id": "route_1761226837992",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1761226883162",
+          "name": "東雲雪菜 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1761226925487",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1761226926163",
+              "type": "choice",
+              "content": "掉落灵泉"
+            },
+            {
+              "id": "step_1761226927624",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1761226930490",
+              "type": "choice",
+              "content": "陪伴雪菜购物"
+            },
+            {
+              "id": "step_1761226930667",
+              "type": "choice",
+              "content": "喊"
+            },
+            {
+              "id": "step_1761226930880",
+              "type": "choice",
+              "content": "不感兴趣"
+            },
+            {
+              "id": "step_1761226931174",
+              "type": "choice",
+              "content": "来自英语"
+            },
+            {
+              "id": "step_1761226931494",
+              "type": "choice",
+              "content": "右边可爱的泳衣/左边性感泳衣"
+            }
+          ]
+        },
+        {
+          "id": "ending_1761226883512",
+          "name": "桐生千景 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1761227075003",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1761227081222",
+              "type": "choice",
+              "content": "陪千景逛街"
+            },
+            {
+              "id": "step_1761227081389",
+              "type": "choice",
+              "content": "保持柔软"
+            },
+            {
+              "id": "step_1761227081619",
+              "type": "choice",
+              "content": "我并不难过"
+            },
+            {
+              "id": "step_1761227081858",
+              "type": "choice",
+              "content": "来自数学"
+            }
+          ]
+        },
+        {
+          "id": "ending_1761226883709",
+          "name": "嘉村真咲 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1761227295088",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1761227299005",
+              "type": "choice",
+              "content": "掉落晓"
+            },
+            {
+              "id": "step_1761227300293",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_1761227302231",
+              "type": "choice",
+              "content": "协助主席完成工作"
+            },
+            {
+              "id": "step_1761227302409",
+              "type": "choice",
+              "content": "与董事长对话"
+            },
+            {
+              "id": "step_1761227302605",
+              "type": "choice",
+              "content": "适当回答"
+            },
+            {
+              "id": "step_1761227302884",
+              "type": "choice",
+              "content": "我和会长一起买的"
+            }
+          ]
+        },
+        {
+          "id": "ending_1761227259069",
+          "name": "仲野爱 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1761227385428",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1761227395285",
+              "type": "choice",
+              "content": "试试仲野随附的产品"
+            },
+            {
+              "id": "step_1761227395441",
+              "type": "choice",
+              "content": "好吧"
+            },
+            {
+              "id": "step_1761227395664",
+              "type": "choice",
+              "content": "认真回答"
+            },
+            {
+              "id": "step_1761227396023",
+              "type": "choice",
+              "content": "我和仲野一起买的"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

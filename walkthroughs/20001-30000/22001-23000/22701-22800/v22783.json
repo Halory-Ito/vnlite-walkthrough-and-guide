@@ -1,0 +1,191 @@
+{
+  "vid": "v22783",
+  "name": {
+    "zh-cn": "MUSICUS!",
+    "ja-jp": "MUSICUS!",
+    "ja-Latn": "musicus"
+  },
+  "level": 2,
+  "updatedAt": "2026-05-15",
+  "routes": [
+    {
+      "id": "route_main",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_mikazuki",
+          "name": "花井三日月 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_common_01",
+              "type": "choice",
+              "content": "虽然为了升学一直在努力，但说实话也有过迷茫的心情，觉得还有别的出路"
+            },
+            {
+              "id": "step_common_02",
+              "type": "choice",
+              "content": "说实话，我很羡慕你"
+            },
+            {
+              "id": "step_common_03",
+              "type": "choice",
+              "content": "两个都做"
+            },
+            {
+              "id": "step_common_04",
+              "type": "choice",
+              "content": "也许吧"
+            },
+            {
+              "id": "step_common_05",
+              "type": "choice",
+              "content": "把暑假发生的事情，包括乐队活动，告诉尾崎"
+            },
+            {
+              "id": "step_common_06",
+              "type": "choice",
+              "content": "未来的事情我不知道，但世界上也有这样的路"
+            },
+            {
+              "id": "step_common_07",
+              "type": "choice",
+              "content": "别人怎么想我都无所谓，我自己的道路按照自己的价值观来选择"
+            },
+            {
+              "id": "step_common_08",
+              "type": "choice",
+              "content": "我还不知道，但我希望我能知道他看到了什么"
+            },
+            {
+              "id": "step_common_09",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_mikazuki_01",
+              "type": "choice",
+              "content": "要我牺牲谁这种事做不到。不过，是存在赌上什么的生存方式的"
+            },
+            {
+              "id": "step_mikazuki_02",
+              "type": "choice",
+              "content": "什么都没想，只是因为想再一次站在现场，因此我们需要一个乐队"
+            },
+            {
+              "id": "step_mikazuki_03",
+              "type": "choice",
+              "content": "只要能愉快的参加乐队活动就行了"
+            },
+            {
+              "id": "step_mikazuki_04",
+              "type": "choice",
+              "content": "因为太帅了。这样不行吗?"
+            },
+            {
+              "id": "step_mikazuki_05",
+              "type": "choice",
+              "content": "是啊，也许会成为今后的参考"
+            },
+            {
+              "id": "step_mikazuki_06",
+              "type": "choice",
+              "content": "不，怎么说呢，应该更接近香坂小姐吧"
+            },
+            {
+              "id": "step_mikazuki_07",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_mikazuki_08",
+              "type": "choice",
+              "content": "基本上和三日月很像吧。我还是想通过音乐和演奏传达些什么。"
+            },
+            {
+              "id": "step_mikazuki_09",
+              "type": "choice",
+              "content": "当然，如果能得到很多人的认可就好了。"
+            },
+            {
+              "id": "step_mikazuki_10",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_mikazuki_11",
+              "type": "choice",
+              "content": "这样就可以了，在舞台上要展现真实的自己。"
+            },
+            {
+              "id": "step_mikazuki_12",
+              "type": "choice",
+              "content": "我会告知这是花井是清的遗作，在这次的三周年忌日发表。"
+            }
+          ]
+        },
+        {
+          "id": "ending_yako",
+          "name": "尾崎弥子 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_yako_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_yako_02",
+              "type": "choice",
+              "content": "不管是什么样的形式，都不可以赌上自己的人生"
+            }
+          ]
+        },
+        {
+          "id": "ending_rin",
+          "name": "香坂轮 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_rin_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_rin_02",
+              "type": "choice",
+              "content": "说不定我比香坂还要...比起表现的怎么样，我更想要享受音乐本身"
+            }
+          ]
+        },
+        {
+          "id": "ending_sumiyoshi",
+          "name": "来島澄 END",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_sumiyoshi_01",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_sumiyoshi_02",
+              "type": "choice",
+              "content": "不好，还是要把完美的东西放在舞台上"
+            },
+            {
+              "id": "step_sumiyoshi_03",
+              "type": "choice",
+              "content": "作为我们的新歌发表，花井作曲的事不会公开"
+            },
+            {
+              "id": "step_sumiyoshi_04",
+              "type": "choice",
+              "content": "乐队的事情以后再考虑吧，总之应该做"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

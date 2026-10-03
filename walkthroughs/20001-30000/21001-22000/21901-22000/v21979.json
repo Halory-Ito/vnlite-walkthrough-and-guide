@@ -1,0 +1,230 @@
+{
+  "vid": "v21979",
+  "name": {
+    "zh-cn": "少女爱上姐姐3",
+    "ja-jp": "処女はお姉さまに恋してる 3つのきら星",
+    "ja-Latn": "otome-wa-boku-ni-koishiteru-trinkle-stars"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-12",
+  "routes": [
+    {
+      "id": "route_1757510512364",
+      "name": "风早 织女",
+      "endings": [
+        {
+          "id": "ending_1757512298654",
+          "name": "织女 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1757512305001",
+              "type": "choice",
+              "content": "能做的事……？"
+            },
+            {
+              "id": "step_1757512305158",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1757512305307",
+              "type": "choice",
+              "content": "在院子里散步。"
+            },
+            {
+              "id": "step_1757512305464",
+              "type": "choice",
+              "content": "那个可能性很高吧"
+            },
+            {
+              "id": "step_1757512305619",
+              "type": "choice",
+              "content": "总觉得，听别人说话很失礼吧。"
+            },
+            {
+              "id": "step_1757512305766",
+              "type": "choice",
+              "content": "笑容满面。"
+            },
+            {
+              "id": "step_1757512305922",
+              "type": "choice",
+              "content": "这是美玲衣判断的结果吧。"
+            },
+            {
+              "id": "step_1757512382069",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1757512393646",
+              "type": "choice",
+              "content": "嗯，水果什么的？"
+            },
+            {
+              "id": "step_1757512393806",
+              "type": "choice",
+              "content": "和织女一起去美海"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1757510512665",
+      "name": "仲邑 茉莉",
+      "endings": [
+        {
+          "id": "ending_1757512435010",
+          "name": "茉莉 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1757512466378",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1757512468672",
+              "type": "choice",
+              "content": "向照星们传达口信"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1757510513065",
+      "name": "伊澄 花",
+      "endings": [
+        {
+          "id": "ending_1757512489789",
+          "name": "花 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1757512538468",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1757512540044",
+              "type": "choice",
+              "content": "不特别需要"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1757512553902",
+      "name": "正树 美玲衣",
+      "endings": [
+        {
+          "id": "ending_1757512736204",
+          "name": "美玲衣 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1757512737871",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1757512741356",
+              "type": "choice",
+              "content": "看看图书馆。"
+            },
+            {
+              "id": "step_1757512741566",
+              "type": "choice",
+              "content": "难的地方吧"
+            },
+            {
+              "id": "step_1757512742258",
+              "type": "choice",
+              "content": "有点在意堇先生吧。"
+            },
+            {
+              "id": "step_1757512742777",
+              "type": "choice",
+              "content": "用苦笑敷衍过去。"
+            },
+            {
+              "id": "step_1757512743182",
+              "type": "choice",
+              "content": "什么好呢。"
+            },
+            {
+              "id": "step_1757512776226",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_1757512782699",
+              "type": "choice",
+              "content": "向照星们传达口信"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1757512555063",
+      "name": "茨 镜子",
+      "endings": [
+        {
+          "id": "ending_1757512822559",
+          "name": "镜子 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1757512837172",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1757512841711",
+              "type": "choice",
+              "content": "嗯，水果什么的？"
+            },
+            {
+              "id": "step_1757512841886",
+              "type": "choice",
+              "content": "和美玲衣去茉理那里"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1757512555549",
+      "name": "紫罗兰&道歉",
+      "endings": [
+        {
+          "id": "ending_1757513066957",
+          "name": "紫罗兰&道歉 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1757513083031",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1757513085312",
+              "type": "choice",
+              "content": "不特别需要"
+            },
+            {
+              "id": "step_1757513085506",
+              "type": "choice",
+              "content": "和堇约会"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

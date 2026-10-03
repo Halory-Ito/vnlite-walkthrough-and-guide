@@ -1,0 +1,160 @@
+{
+  "vid": "v33996",
+  "name": {
+    "zh-cn": "真愿朦幻馆〜在时间暂停的洋馆里追寻明天的羔羊们〜",
+    "ja-jp": "ゆまほろめ ~時を停めた館で明日を探す迷子たち~",
+    "ja-Latn": "yumahorome"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-12",
+  "routes": [
+    {
+      "id": "route_1756368627743",
+      "name": "川崎 纯丽",
+      "endings": [
+        {
+          "id": "ending_1756368739985",
+          "name": "纯丽 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756368809668",
+              "type": "choice",
+              "content": "不知往哪走就选左边 / 不按常理出牌走右边 / 两边都不选"
+            },
+            {
+              "id": "step_1756368810840",
+              "type": "choice",
+              "content": "打开左侧的门 / 打开右侧的门 / 寻找看不见的第三扇门 / 反而不开门继续往前走"
+            },
+            {
+              "id": "step_1756368814076",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1756368814484",
+              "type": "choice",
+              "content": "和纯丽一起探索"
+            },
+            {
+              "id": "step_1756368817826",
+              "type": "choice",
+              "content": "默默走动 / 随便唱首歌 / 一边走一边玩接龙游戏"
+            },
+            {
+              "id": "step_1756368818204",
+              "type": "choice",
+              "content": "先回大厅 / 还想继续探索 / 含糊其辞"
+            },
+            {
+              "id": "step_1756368818352",
+              "type": "choice",
+              "content": "询问回房后做了些什么 / 询问现在的身体状况 / 询问来到洋馆前的记忆"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756368666417",
+      "name": "岩沼 铃",
+      "endings": [
+        {
+          "id": "ending_1756368835140",
+          "name": "铃 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756368849056",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1756368857376",
+              "type": "choice",
+              "content": "和铃一起探索"
+            },
+            {
+              "id": "step_1756368857523",
+              "type": "choice",
+              "content": "默默走动 / 随便唱首歌 / 一边走一边玩接龙游戏"
+            },
+            {
+              "id": "step_1756368857714",
+              "type": "choice",
+              "content": "先回大厅 / 还想继续探索 / 含糊其辞"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756368672543",
+      "name": "柴田 奏子",
+      "endings": [
+        {
+          "id": "ending_1756368877188",
+          "name": "奏子 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756368895183",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1756368896560",
+              "type": "choice",
+              "content": "和奏子一起探索"
+            },
+            {
+              "id": "step_1756368896754",
+              "type": "choice",
+              "content": "默默走动 / 随便唱首歌 / 一边走一边玩接龙游戏"
+            },
+            {
+              "id": "step_1756368919253",
+              "type": "choice",
+              "content": "先回大厅 / 还想继续探索 / 含糊其辞"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756368679560",
+      "name": "米娜",
+      "endings": [
+        {
+          "id": "ending_1756368930872",
+          "name": "米娜 END",
+          "type": "normal",
+          "requirements": "必须先攻略完其他三人",
+          "steps": [
+            {
+              "id": "step_1756368966432",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1756368967376",
+              "type": "choice",
+              "content": "和米娜一起探索"
+            },
+            {
+              "id": "step_1756368967560",
+              "type": "choice",
+              "content": "默默走动 / 随便唱首歌 / 一边走一边玩接龙游戏"
+            },
+            {
+              "id": "step_1756368968222",
+              "type": "choice",
+              "content": "先回大厅 / 还想继续探索 / 含糊其辞"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

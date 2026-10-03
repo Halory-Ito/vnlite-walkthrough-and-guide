@@ -1,0 +1,1424 @@
+{
+  "vid": "v431",
+  "name": {
+    "zh-cn": "Hello，world",
+    "ja-jp": "“Hello，world.”",
+    "ja-Latn": "hello-world"
+  },
+  "level": 2,
+  "updatedAt": "2026-05-08",
+  "tips": [
+    "优先攻略奈津美，因为会影响追加选项"
+  ],
+  "routes": [
+    {
+      "id": "route_natomi",
+      "name": "愛原 奈都美",
+      "endings": [
+        {
+          "id": "ending_natomi_normal",
+          "name": "奈都美 END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_natomi_01",
+              "type": "choice",
+              "content": "请求引导",
+              "group": "10/01"
+            },
+            {
+              "id": "step_natomi_02",
+              "type": "save",
+              "content": "SAVE 1",
+              "group": "10/01"
+            },
+            {
+              "id": "step_natomi_03",
+              "type": "choice",
+              "content": "占卜增加中…",
+              "group": "10/01"
+            },
+            {
+              "id": "step_natomi_04",
+              "type": "choice",
+              "content": "前往伪频道…",
+              "group": "10/01"
+            },
+            {
+              "id": "step_natomi_05",
+              "type": "choice",
+              "content": "为了喜欢的事…",
+              "group": "10/01"
+            },
+            {
+              "id": "step_natomi_06",
+              "type": "choice",
+              "content": "不再看了",
+              "group": "10/01"
+            },
+            {
+              "id": "step_natomi_07",
+              "type": "choice",
+              "content": "和奈都美一起去",
+              "group": "10/02"
+            },
+            {
+              "id": "step_natomi_08",
+              "type": "choice",
+              "content": "继续和奈都美说话",
+              "group": "10/02"
+            },
+            {
+              "id": "step_natomi_09",
+              "type": "choice",
+              "content": "奈都美",
+              "group": "10/03"
+            },
+            {
+              "id": "step_natomi_10",
+              "type": "choice",
+              "content": "和奈都美一起去吃饭",
+              "group": "10/03"
+            },
+            {
+              "id": "step_natomi_11",
+              "type": "choice",
+              "content": "又是医疗失误…",
+              "group": "10/03"
+            },
+            {
+              "id": "step_natomi_12",
+              "type": "choice",
+              "content": "是病毒的缘故吗？",
+              "group": "10/03"
+            },
+            {
+              "id": "step_natomi_13",
+              "type": "choice",
+              "content": "失踪者增加中…",
+              "group": "10/03"
+            },
+            {
+              "id": "step_natomi_14",
+              "type": "choice",
+              "content": "高龄人口突破42％…",
+              "group": "10/03"
+            },
+            {
+              "id": "step_natomi_15",
+              "type": "choice",
+              "content": "躁郁症增加…",
+              "group": "10/03"
+            },
+            {
+              "id": "step_natomi_16",
+              "type": "choice",
+              "content": "前往下一项",
+              "group": "10/03"
+            },
+            {
+              "id": "step_natomi_17",
+              "type": "choice",
+              "content": "双职工家庭…",
+              "group": "10/03"
+            },
+            {
+              "id": "step_natomi_18",
+              "type": "choice",
+              "content": "育儿支援设施…",
+              "group": "10/03"
+            },
+            {
+              "id": "step_natomi_19",
+              "type": "choice",
+              "content": "基因治疗…",
+              "group": "10/03"
+            },
+            {
+              "id": "step_natomi_20",
+              "type": "choice",
+              "content": "成人病发病率上升",
+              "group": "10/03"
+            },
+            {
+              "id": "step_natomi_21",
+              "type": "choice",
+              "content": "结束浏览",
+              "group": "10/03"
+            },
+            {
+              "id": "step_natomi_22",
+              "type": "choice",
+              "content": "奈都美",
+              "group": "10/03"
+            },
+            {
+              "id": "step_natomi_23",
+              "type": "choice",
+              "content": "调查",
+              "group": "10/03"
+            },
+            {
+              "id": "step_natomi_24",
+              "type": "choice",
+              "content": "看看",
+              "group": "10/03"
+            },
+            {
+              "id": "step_natomi_25",
+              "type": "choice",
+              "content": "奈都美",
+              "group": "10/03"
+            },
+            {
+              "id": "step_natomi_26",
+              "type": "choice",
+              "content": "不向深佳搭话",
+              "group": "10/04"
+            },
+            {
+              "id": "step_natomi_27",
+              "type": "choice",
+              "content": "收集奈都美的情报",
+              "group": "10/04"
+            },
+            {
+              "id": "step_natomi_28",
+              "type": "choice",
+              "content": "调查奈都美",
+              "group": "10/04"
+            },
+            {
+              "id": "step_natomi_29",
+              "type": "choice",
+              "content": "调查奈都美",
+              "group": "10/05"
+            },
+            {
+              "id": "step_natomi_31",
+              "type": "choice",
+              "content": "回应奈都美的邀请",
+              "group": "10/05"
+            },
+            {
+              "id": "step_natomi_32",
+              "type": "choice",
+              "content": "调查奈都美",
+              "group": "10/05"
+            },
+            {
+              "id": "step_natomi_33",
+              "type": "choice",
+              "content": "追赶奈都美",
+              "group": "10/06"
+            },
+            {
+              "id": "step_natomi_34",
+              "type": "choice",
+              "content": "奈都美",
+              "group": "10/07"
+            },
+            {
+              "id": "step_natomi_35",
+              "type": "choice",
+              "content": "前往奈都美那里",
+              "group": "10/08"
+            },
+            {
+              "id": "step_natomi_36",
+              "type": "choice",
+              "content": "和奈都美会合",
+              "group": "10/08"
+            },
+            {
+              "id": "step_natomi_37",
+              "type": "choice",
+              "content": "和奈都美一起上学",
+              "group": "10/11"
+            },
+            {
+              "id": "step_natomi_38",
+              "type": "choice",
+              "content": "和奈都美一起回家",
+              "group": "10/12"
+            },
+            {
+              "id": "step_natomi_39",
+              "type": "choice",
+              "content": "追赶奈都美",
+              "group": "10/13"
+            },
+            {
+              "id": "step_natomi_40",
+              "type": "choice",
+              "content": "去探望奈都美",
+              "group": "10/17"
+            },
+            {
+              "id": "step_natomi_41",
+              "type": "choice",
+              "content": "安慰奈都美",
+              "group": "10/17"
+            },
+            {
+              "id": "step_natomi_42",
+              "type": "choice",
+              "content": "奈都美",
+              "group": "10/18"
+            },
+            {
+              "id": "step_natomi_43",
+              "type": "choice",
+              "content": "考虑奈都美的事",
+              "group": "10/19"
+            },
+            {
+              "id": "step_natomi_44",
+              "type": "note",
+              "content": "（贝尔库特战后，在使用伪者身体再生之前存储即可）",
+              "group": "10/27"
+            },
+            {
+              "id": "step_natomi_45",
+              "type": "save",
+              "content": "SAVE 2",
+              "group": "10/27"
+            }
+          ]
+        },
+        {
+          "id": "ending_natomi_true",
+          "name": "奈都美 END2",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_natomi_true_01",
+              "type": "load",
+              "content": "LOAD 2",
+              "group": "10/27"
+            },
+            {
+              "id": "step_natomi_true_02",
+              "type": "choice",
+              "content": "想要帮助大家",
+              "group": "10/27"
+            },
+            {
+              "id": "step_natomi_true_03",
+              "type": "choice",
+              "content": "…向遥香说明事情",
+              "group": "10/29"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_kaoru",
+      "name": "笹ヶ瀬 薫",
+      "endings": [
+        {
+          "id": "ending_kaoru_normal",
+          "name": "薫 END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_kaoru_01",
+              "type": "load",
+              "content": "LOAD 1",
+              "group": "10/01"
+            },
+            {
+              "id": "step_kaoru_02",
+              "type": "choice",
+              "content": "不请求引导",
+              "group": "10/01"
+            },
+            {
+              "id": "step_kaoru_03",
+              "type": "save",
+              "content": "SAVE 3",
+              "group": "10/01"
+            },
+            {
+              "id": "step_kaoru_04",
+              "type": "choice",
+              "content": "前往“笹ヶ瀬 薫”那里",
+              "group": "10/01"
+            },
+            {
+              "id": "step_kaoru_05",
+              "type": "choice",
+              "content": "不再看了",
+              "group": "10/01"
+            },
+            {
+              "id": "step_kaoru_06",
+              "type": "choice",
+              "content": "和薫一起去",
+              "group": "10/02"
+            },
+            {
+              "id": "step_kaoru_07",
+              "type": "choice",
+              "content": "去游泳池",
+              "group": "10/02"
+            },
+            {
+              "id": "step_kaoru_08",
+              "type": "choice",
+              "content": "薫",
+              "group": "10/03"
+            },
+            {
+              "id": "step_kaoru_09",
+              "type": "choice",
+              "content": "和薫一起去吃饭",
+              "group": "10/03"
+            },
+            {
+              "id": "step_kaoru_10",
+              "type": "choice",
+              "content": "又是医疗失误…",
+              "group": "10/03"
+            },
+            {
+              "id": "step_kaoru_11",
+              "type": "choice",
+              "content": "是病毒的缘故吗？",
+              "group": "10/03"
+            },
+            {
+              "id": "step_kaoru_12",
+              "type": "choice",
+              "content": "结束浏览",
+              "group": "10/03"
+            },
+            {
+              "id": "step_kaoru_13",
+              "type": "choice",
+              "content": "薫",
+              "group": "10/03"
+            },
+            {
+              "id": "step_kaoru_14",
+              "type": "choice",
+              "content": "不调查",
+              "group": "10/03"
+            },
+            {
+              "id": "step_kaoru_15",
+              "type": "choice",
+              "content": "薫",
+              "group": "10/03"
+            },
+            {
+              "id": "step_kaoru_16",
+              "type": "choice",
+              "content": "不向深佳搭话",
+              "group": "10/04"
+            },
+            {
+              "id": "step_kaoru_17",
+              "type": "choice",
+              "content": "平息薫的怒气",
+              "group": "10/04"
+            },
+            {
+              "id": "step_kaoru_18",
+              "type": "choice",
+              "content": "调查薫",
+              "group": "10/04"
+            },
+            {
+              "id": "step_kaoru_19",
+              "type": "choice",
+              "content": "调查薫",
+              "group": "10/05"
+            },
+            {
+              "id": "step_kaoru_21",
+              "type": "choice",
+              "content": "去收集薫的情报",
+              "group": "10/05"
+            },
+            {
+              "id": "step_kaoru_22",
+              "type": "choice",
+              "content": "调查薫",
+              "group": "10/05"
+            },
+            {
+              "id": "step_kaoru_23",
+              "type": "choice",
+              "content": "留在这里",
+              "group": "10/06"
+            },
+            {
+              "id": "step_kaoru_24",
+              "type": "choice",
+              "content": "薫",
+              "group": "10/07"
+            },
+            {
+              "id": "step_kaoru_25",
+              "type": "choice",
+              "content": "和薫会合",
+              "group": "10/08"
+            },
+            {
+              "id": "step_kaoru_26",
+              "type": "choice",
+              "content": "跟着薫",
+              "group": "10/08"
+            },
+            {
+              "id": "step_kaoru_27",
+              "type": "choice",
+              "content": "去看薫的情况",
+              "group": "10/11"
+            },
+            {
+              "id": "step_kaoru_28",
+              "type": "choice",
+              "content": "收集薫的情报很重要",
+              "group": "10/12"
+            },
+            {
+              "id": "step_kaoru_29",
+              "type": "choice",
+              "content": "担心薫",
+              "group": "10/13"
+            },
+            {
+              "id": "step_kaoru_30",
+              "type": "choice",
+              "content": "向薫说圭介的事",
+              "group": "10/17"
+            },
+            {
+              "id": "step_kaoru_31",
+              "type": "choice",
+              "content": "按照薫的要求…",
+              "group": "10/17"
+            },
+            {
+              "id": "step_kaoru_32",
+              "type": "choice",
+              "content": "薫",
+              "group": "10/18"
+            },
+            {
+              "id": "step_kaoru_33",
+              "type": "choice",
+              "content": "考虑薫的事",
+              "group": "10/19"
+            },
+            {
+              "id": "step_kaoru_34",
+              "type": "save",
+              "content": "SAVE 4",
+              "group": "10/27"
+            },
+            {
+              "id": "step_kaoru_35",
+              "type": "choice",
+              "content": "至少也要救薫",
+              "group": "10/27"
+            }
+          ]
+        },
+        {
+          "id": "ending_kaoru_true",
+          "name": "薫 END2",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_kaoru_true_01",
+              "type": "load",
+              "content": "LOAD 4",
+              "group": "10/27"
+            },
+            {
+              "id": "step_kaoru_true_02",
+              "type": "choice",
+              "content": "想要帮助大家",
+              "group": "10/27"
+            },
+            {
+              "id": "step_kaoru_true_03",
+              "type": "choice",
+              "content": "…向遥香说明事情",
+              "group": "10/29"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_chieri",
+      "name": "北城 千絵梨",
+      "endings": [
+        {
+          "id": "ending_chieri_normal",
+          "name": "千絵梨 END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_chieri_01",
+              "type": "load",
+              "content": "LOAD 3",
+              "group": "10/01"
+            },
+            {
+              "id": "step_chieri_02",
+              "type": "choice",
+              "content": "前往“久我山 若佳菜”那里",
+              "group": "10/01"
+            },
+            {
+              "id": "step_chieri_03",
+              "type": "choice",
+              "content": "不再看了",
+              "group": "10/01"
+            },
+            {
+              "id": "step_chieri_04",
+              "type": "save",
+              "content": "SAVE 5",
+              "group": "10/02"
+            },
+            {
+              "id": "step_chieri_05",
+              "type": "choice",
+              "content": "追赶千絵梨",
+              "group": "10/02"
+            },
+            {
+              "id": "step_chieri_06",
+              "type": "choice",
+              "content": "寻找千絵梨",
+              "group": "10/02"
+            },
+            {
+              "id": "step_chieri_07",
+              "type": "choice",
+              "content": "千絵梨",
+              "group": "10/03"
+            },
+            {
+              "id": "step_chieri_08",
+              "type": "choice",
+              "content": "去调查千絵梨",
+              "group": "10/03"
+            },
+            {
+              "id": "step_chieri_09",
+              "type": "choice",
+              "content": "又是医疗失误…",
+              "group": "10/03"
+            },
+            {
+              "id": "step_chieri_10",
+              "type": "choice",
+              "content": "是病毒的缘故吗？",
+              "group": "10/03"
+            },
+            {
+              "id": "step_chieri_11",
+              "type": "choice",
+              "content": "结束浏览",
+              "group": "10/03"
+            },
+            {
+              "id": "step_chieri_12",
+              "type": "choice",
+              "content": "千絵梨",
+              "group": "10/03"
+            },
+            {
+              "id": "step_chieri_13",
+              "type": "choice",
+              "content": "不调查",
+              "group": "10/03"
+            },
+            {
+              "id": "step_chieri_14",
+              "type": "choice",
+              "content": "千絵梨",
+              "group": "10/03"
+            },
+            {
+              "id": "step_chieri_15",
+              "type": "choice",
+              "content": "不向深佳搭话",
+              "group": "10/04"
+            },
+            {
+              "id": "step_chieri_16",
+              "type": "choice",
+              "content": "收集千絵梨的情报",
+              "group": "10/04"
+            },
+            {
+              "id": "step_chieri_17",
+              "type": "choice",
+              "content": "调查千絵梨",
+              "group": "10/04"
+            },
+            {
+              "id": "step_chieri_18",
+              "type": "choice",
+              "content": "调查千絵梨",
+              "group": "10/05"
+            },
+            {
+              "id": "step_chieri_20",
+              "type": "choice",
+              "content": "回应千絵梨的期待",
+              "group": "10/05"
+            },
+            {
+              "id": "step_chieri_21",
+              "type": "choice",
+              "content": "调查千絵梨",
+              "group": "10/05"
+            },
+            {
+              "id": "step_chieri_22",
+              "type": "choice",
+              "content": "千絵梨",
+              "group": "10/06"
+            },
+            {
+              "id": "step_chieri_23",
+              "type": "choice",
+              "content": "和千絵梨一起逃跑",
+              "group": "10/06"
+            },
+            {
+              "id": "step_chieri_24",
+              "type": "choice",
+              "content": "自己也试着画画",
+              "group": "10/06"
+            },
+            {
+              "id": "step_chieri_25",
+              "type": "choice",
+              "content": "若佳菜",
+              "group": "10/07"
+            },
+            {
+              "id": "step_chieri_26",
+              "type": "choice",
+              "content": "跟着薫",
+              "group": "10/08"
+            },
+            {
+              "id": "step_chieri_27",
+              "type": "choice",
+              "content": "寻找千絵梨",
+              "group": "10/12"
+            },
+            {
+              "id": "step_chieri_28",
+              "type": "choice",
+              "content": "和千絵梨说话",
+              "group": "10/13"
+            },
+            {
+              "id": "step_chieri_29",
+              "type": "choice",
+              "content": "追赶奈都美",
+              "group": "10/16"
+            },
+            {
+              "id": "step_chieri_30",
+              "type": "choice",
+              "content": "去寻找千絵梨",
+              "group": "10/17"
+            },
+            {
+              "id": "step_chieri_31",
+              "type": "choice",
+              "content": "千絵梨",
+              "group": "10/18"
+            },
+            {
+              "id": "step_chieri_32",
+              "type": "choice",
+              "content": "拥抱千絵梨",
+              "group": "10/18"
+            },
+            {
+              "id": "step_chieri_33",
+              "type": "choice",
+              "content": "考虑千絵梨的事",
+              "group": "10/19"
+            },
+            {
+              "id": "step_chieri_34",
+              "type": "choice",
+              "content": "我也跟着去",
+              "group": "10/19"
+            },
+            {
+              "id": "step_chieri_35",
+              "type": "save",
+              "content": "SAVE 6",
+              "group": "10/27"
+            },
+            {
+              "id": "step_chieri_36",
+              "type": "choice",
+              "content": "至少也要救千絵梨",
+              "group": "10/27"
+            }
+          ]
+        },
+        {
+          "id": "ending_chieri_true",
+          "name": "千絵梨 END2",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_chieri_true_01",
+              "type": "load",
+              "content": "LOAD 6",
+              "group": "10/27"
+            },
+            {
+              "id": "step_chieri_true_02",
+              "type": "choice",
+              "content": "想要帮助大家",
+              "group": "10/27"
+            },
+            {
+              "id": "step_chieri_true_03",
+              "type": "choice",
+              "content": "…向遥香说明事情",
+              "group": "10/29"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_fukaka",
+      "name": "久我山 深佳",
+      "endings": [
+        {
+          "id": "ending_fukaka_normal",
+          "name": "深佳 END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_fukaka_01",
+              "type": "load",
+              "content": "LOAD 5",
+              "group": "10/02"
+            },
+            {
+              "id": "step_fukaka_02",
+              "type": "choice",
+              "content": "前往深佳那里",
+              "group": "10/02"
+            },
+            {
+              "id": "step_fukaka_04",
+              "type": "choice",
+              "content": "深佳",
+              "group": "10/03"
+            },
+            {
+              "id": "step_fukaka_05",
+              "type": "choice",
+              "content": "去调查深佳",
+              "group": "10/03"
+            },
+            {
+              "id": "step_fukaka_06",
+              "type": "choice",
+              "content": "加入电脑部",
+              "group": "10/03"
+            },
+            {
+              "id": "step_fukaka_07",
+              "type": "choice",
+              "content": "又是医疗失误…",
+              "group": "10/03"
+            },
+            {
+              "id": "step_fukaka_08",
+              "type": "choice",
+              "content": "是病毒的缘故吗？",
+              "group": "10/03"
+            },
+            {
+              "id": "step_fukaka_09",
+              "type": "choice",
+              "content": "结束浏览",
+              "group": "10/03"
+            },
+            {
+              "id": "step_fukaka_10",
+              "type": "choice",
+              "content": "深佳",
+              "group": "10/03"
+            },
+            {
+              "id": "step_fukaka_11",
+              "type": "choice",
+              "content": "不调查",
+              "group": "10/03"
+            },
+            {
+              "id": "step_fukaka_12",
+              "type": "choice",
+              "content": "深佳",
+              "group": "10/03"
+            },
+            {
+              "id": "step_fukaka_13",
+              "type": "choice",
+              "content": "向深佳搭话",
+              "group": "10/04"
+            },
+            {
+              "id": "step_fukaka_14",
+              "type": "choice",
+              "content": "缓和与深佳的关系",
+              "group": "10/04"
+            },
+            {
+              "id": "step_fukaka_15",
+              "type": "choice",
+              "content": "调查深佳",
+              "group": "10/04"
+            },
+            {
+              "id": "step_fukaka_16",
+              "type": "choice",
+              "content": "调查深佳",
+              "group": "10/05"
+            },
+            {
+              "id": "step_fukaka_18",
+              "type": "choice",
+              "content": "去深佳那里",
+              "group": "10/05"
+            },
+            {
+              "id": "step_fukaka_19",
+              "type": "choice",
+              "content": "调查深佳",
+              "group": "10/05"
+            },
+            {
+              "id": "step_fukaka_20",
+              "type": "choice",
+              "content": "深佳",
+              "group": "10/06"
+            },
+            {
+              "id": "step_fukaka_21",
+              "type": "choice",
+              "content": "深佳",
+              "group": "10/07"
+            },
+            {
+              "id": "step_fukaka_22",
+              "type": "choice",
+              "content": "不告诉“卓酱”",
+              "group": "10/07"
+            },
+            {
+              "id": "step_fukaka_23",
+              "type": "choice",
+              "content": "和深佳会合",
+              "group": "10/08"
+            },
+            {
+              "id": "step_fukaka_24",
+              "type": "choice",
+              "content": "跟着薫",
+              "group": "10/08"
+            },
+            {
+              "id": "step_fukaka_25",
+              "type": "choice",
+              "content": "和深佳会合",
+              "group": "10/11"
+            },
+            {
+              "id": "step_fukaka_26",
+              "type": "save",
+              "content": "SAVE 7",
+              "group": "10/12"
+            },
+            {
+              "id": "step_fukaka_27",
+              "type": "choice",
+              "content": "在意都小姐",
+              "group": "10/12"
+            },
+            {
+              "id": "step_fukaka_28",
+              "type": "note",
+              "content": "若菜的CG（车）回收",
+              "group": "10/12"
+            },
+            {
+              "id": "step_fukaka_29",
+              "type": "load",
+              "content": "LOAD 7",
+              "group": "10/12"
+            },
+            {
+              "id": "step_fukaka_30",
+              "type": "choice",
+              "content": "寻找深佳",
+              "group": "10/12"
+            },
+            {
+              "id": "step_fukaka_31",
+              "type": "choice",
+              "content": "不是梦哦",
+              "group": "10/12"
+            },
+            {
+              "id": "step_fukaka_32",
+              "type": "choice",
+              "content": "在意深佳",
+              "group": "10/13"
+            },
+            {
+              "id": "step_fukaka_33",
+              "type": "choice",
+              "content": "追赶奈都美",
+              "group": "10/16"
+            },
+            {
+              "id": "step_fukaka_34",
+              "type": "choice",
+              "content": "追赶深佳",
+              "group": "10/17"
+            },
+            {
+              "id": "step_fukaka_35",
+              "type": "choice",
+              "content": "深佳",
+              "group": "10/18"
+            },
+            {
+              "id": "step_fukaka_36",
+              "type": "choice",
+              "content": "让深佳成为大人",
+              "group": "10/18"
+            },
+            {
+              "id": "step_fukaka_37",
+              "type": "choice",
+              "content": "向深佳搭话",
+              "group": "10/19"
+            },
+            {
+              "id": "step_fukaka_38",
+              "type": "save",
+              "content": "SAVE 8",
+              "group": "10/27"
+            },
+            {
+              "id": "step_fukaka_39",
+              "type": "choice",
+              "content": "至少也要救深佳",
+              "group": "10/27"
+            }
+          ]
+        },
+        {
+          "id": "ending_fukaka_true",
+          "name": "深佳 END2",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_fukaka_true_01",
+              "type": "load",
+              "content": "LOAD 8",
+              "group": "10/27"
+            },
+            {
+              "id": "step_fukaka_true_02",
+              "type": "choice",
+              "content": "想要帮助大家",
+              "group": "10/27"
+            },
+            {
+              "id": "step_fukaka_true_03",
+              "type": "choice",
+              "content": "…向遥香说明事情",
+              "group": "10/29"
+            },
+            {
+              "id": "step_fukaka_true_04",
+              "type": "save",
+              "content": "SAVE 9",
+              "group": "10/29"
+            },
+            {
+              "id": "step_fukaka_true_05",
+              "type": "choice",
+              "content": "不考虑遥香",
+              "group": "10/29"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_haruka",
+      "name": "友永 遥香",
+      "endings": [
+        {
+          "id": "ending_haruka_true",
+          "name": "遥 END",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_haruka_01",
+              "type": "load",
+              "content": "LOAD 9",
+              "group": "10/29"
+            },
+            {
+              "id": "step_haruka_02",
+              "type": "choice",
+              "content": "考虑遥香",
+              "group": "10/29"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_wakana",
+      "name": "久我山 若佳菜",
+      "endings": [
+        {
+          "id": "ending_wakana_normal",
+          "name": "若香菜 END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_wakana_01",
+              "type": "load",
+              "content": "LOAD 5",
+              "group": "10/02"
+            },
+            {
+              "id": "step_wakana_02",
+              "type": "choice",
+              "content": "前往若佳菜老师那里",
+              "group": "10/02"
+            },
+            {
+              "id": "step_wakana_03",
+              "type": "choice",
+              "content": "去见若佳菜老师",
+              "group": "10/02"
+            },
+            {
+              "id": "step_wakana_04",
+              "type": "choice",
+              "content": "若佳菜",
+              "group": "10/03"
+            },
+            {
+              "id": "step_wakana_05",
+              "type": "choice",
+              "content": "去调查若佳菜老师",
+              "group": "10/03"
+            },
+            {
+              "id": "step_wakana_06",
+              "type": "choice",
+              "content": "又是医疗失误…",
+              "group": "10/03"
+            },
+            {
+              "id": "step_wakana_07",
+              "type": "choice",
+              "content": "是病毒的缘故吗？",
+              "group": "10/03"
+            },
+            {
+              "id": "step_wakana_08",
+              "type": "choice",
+              "content": "结束浏览",
+              "group": "10/03"
+            },
+            {
+              "id": "step_wakana_09",
+              "type": "choice",
+              "content": "若佳菜",
+              "group": "10/03"
+            },
+            {
+              "id": "step_wakana_10",
+              "type": "choice",
+              "content": "不调查",
+              "group": "10/03"
+            },
+            {
+              "id": "step_wakana_11",
+              "type": "choice",
+              "content": "若佳菜",
+              "group": "10/03"
+            },
+            {
+              "id": "step_wakana_12",
+              "type": "choice",
+              "content": "向深佳搭话",
+              "group": "10/04"
+            },
+            {
+              "id": "step_wakana_13",
+              "type": "choice",
+              "content": "和若佳菜老师商量",
+              "group": "10/04"
+            },
+            {
+              "id": "step_wakana_14",
+              "type": "choice",
+              "content": "调查若佳菜老师",
+              "group": "10/04"
+            },
+            {
+              "id": "step_wakana_15",
+              "type": "choice",
+              "content": "调查若佳菜老师",
+              "group": "10/05"
+            },
+            {
+              "id": "step_wakana_17",
+              "type": "choice",
+              "content": "去收集若佳菜老师的情报",
+              "group": "10/05"
+            },
+            {
+              "id": "step_wakana_18",
+              "type": "choice",
+              "content": "调查若佳菜老师",
+              "group": "10/05"
+            },
+            {
+              "id": "step_wakana_19",
+              "type": "choice",
+              "content": "若佳菜",
+              "group": "10/06"
+            },
+            {
+              "id": "step_wakana_20",
+              "type": "choice",
+              "content": "和若佳菜去",
+              "group": "10/06"
+            },
+            {
+              "id": "step_wakana_21",
+              "type": "save",
+              "content": "SAVE 10",
+              "group": "10/07"
+            },
+            {
+              "id": "step_wakana_22",
+              "type": "choice",
+              "content": "深佳",
+              "group": "10/07"
+            },
+            {
+              "id": "step_wakana_23",
+              "type": "choice",
+              "content": "告诉“卓酱”",
+              "group": "10/07"
+            },
+            {
+              "id": "step_wakana_24",
+              "type": "choice",
+              "content": "和阿尔法H",
+              "group": "10/07"
+            },
+            {
+              "id": "step_wakana_25",
+              "type": "choice",
+              "content": "去见若佳菜老师",
+              "group": "10/08"
+            },
+            {
+              "id": "step_wakana_26",
+              "type": "choice",
+              "content": "就这样观察情况",
+              "group": "10/08"
+            },
+            {
+              "id": "step_wakana_27",
+              "type": "choice",
+              "content": "交给都",
+              "group": "10/08"
+            },
+            {
+              "id": "step_wakana_28",
+              "type": "choice",
+              "content": "在意若佳菜老师",
+              "group": "10/09"
+            },
+            {
+              "id": "step_wakana_29",
+              "type": "note",
+              "content": "到进入10/10为止",
+              "group": "10/09"
+            },
+            {
+              "id": "step_wakana_30",
+              "type": "load",
+              "content": "LOAD 10",
+              "group": "10/07"
+            },
+            {
+              "id": "step_wakana_31",
+              "type": "choice",
+              "content": "若佳菜",
+              "group": "10/07"
+            },
+            {
+              "id": "step_wakana_32",
+              "type": "choice",
+              "content": "去见若佳菜老师",
+              "group": "10/08"
+            },
+            {
+              "id": "step_wakana_33",
+              "type": "choice",
+              "content": "和奈都美会合",
+              "group": "10/08"
+            },
+            {
+              "id": "step_wakana_34",
+              "type": "choice",
+              "content": "前往若佳菜老师那里",
+              "group": "10/11"
+            },
+            {
+              "id": "step_wakana_35",
+              "type": "choice",
+              "content": "去若佳菜老师那里",
+              "group": "10/12"
+            },
+            {
+              "id": "step_wakana_36",
+              "type": "save",
+              "content": "SAVE 11",
+              "group": "10/13"
+            },
+            {
+              "id": "step_wakana_37",
+              "type": "choice",
+              "content": "追赶奈津美",
+              "group": "10/13"
+            },
+            {
+              "id": "step_wakana_38",
+              "type": "note",
+              "content": "10/14的公园里狗CG回收",
+              "group": "10/13"
+            },
+            {
+              "id": "step_wakana_39",
+              "type": "load",
+              "content": "LOAD 11",
+              "group": "10/13"
+            },
+            {
+              "id": "step_wakana_40",
+              "type": "choice",
+              "content": "回家",
+              "group": "10/13"
+            },
+            {
+              "id": "step_wakana_41",
+              "type": "choice",
+              "content": "拥抱薫",
+              "group": "10/16"
+            },
+            {
+              "id": "step_wakana_42",
+              "type": "choice",
+              "content": "继续和若佳菜与遥香说话",
+              "group": "10/17"
+            },
+            {
+              "id": "step_wakana_43",
+              "type": "choice",
+              "content": "若佳菜",
+              "group": "10/18"
+            },
+            {
+              "id": "step_wakana_44",
+              "type": "choice",
+              "content": "不下车",
+              "group": "10/18"
+            },
+            {
+              "id": "step_wakana_45",
+              "type": "choice",
+              "content": "让雾江小姐大意",
+              "group": "10/18"
+            },
+            {
+              "id": "step_wakana_46",
+              "type": "choice",
+              "content": "向若佳菜搭话",
+              "group": "10/19"
+            },
+            {
+              "id": "step_wakana_47",
+              "type": "save",
+              "content": "SAVE 12",
+              "group": "10/27"
+            },
+            {
+              "id": "step_wakana_48",
+              "type": "choice",
+              "content": "至少也要救若佳菜",
+              "group": "10/27"
+            }
+          ]
+        },
+        {
+          "id": "ending_wakana_true",
+          "name": "若香菜 END2",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_wakana_true_01",
+              "type": "load",
+              "content": "LOAD 12",
+              "group": "10/27"
+            },
+            {
+              "id": "step_wakana_true_02",
+              "type": "choice",
+              "content": "想要帮助大家",
+              "group": "10/27"
+            },
+            {
+              "id": "step_wakana_true_03",
+              "type": "choice",
+              "content": "为了救都小姐而叫警察",
+              "group": "10/29"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "vid": "v20684",
+  "name": {
+    "zh-cn": "大小姐无法变坦率",
+    "ja-jp": "お嬢様は素直になれない",
+    "ja-Latn": "ojou-sama-wa-sunao-ni-narenai"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-13",
+  "routes": [
+    {
+      "id": "route_1762682540838",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1762682565668",
+          "name": "緋神 久遠",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762682597261",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1762682597847",
+              "type": "choice",
+              "content": "希望今后也能和久遠在一起"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762682565814",
+          "name": "柊木 恵梨香",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762682652789",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1762682654790",
+              "type": "choice",
+              "content": "我还没决定"
+            },
+            {
+              "id": "step_1762682655334",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1762682656205",
+              "type": "choice",
+              "content": "是恵梨香"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762682565989",
+          "name": "壬生夏希",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762682684030",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1762682686539",
+              "type": "choice",
+              "content": "是夏希"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762682566440",
+          "name": "神宫寺 美红",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762682718729",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1762682722519",
+              "type": "choice",
+              "content": "是美红前辈"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762682566795",
+          "name": "近卫六花",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762682745698",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1762682747886",
+              "type": "choice",
+              "content": "是六花"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

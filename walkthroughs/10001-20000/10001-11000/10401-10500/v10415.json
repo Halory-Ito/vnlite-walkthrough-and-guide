@@ -1,0 +1,278 @@
+{
+  "vid": "v10415",
+  "name": {
+    "zh-cn": "花色七芒星",
+    "ja-jp": "花色ヘプタグラム",
+    "ja-Latn": "hanairo-heptagram"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-12",
+  "tips": [
+    "★为追加选项",
+    "其他四人攻略后，才可攻略御汤利"
+  ],
+  "routes": [
+    {
+      "id": "route_1756390944089",
+      "name": "小石川 玉美",
+      "endings": [
+        {
+          "id": "ending_1756390955909",
+          "name": "玉美 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756390958399",
+              "type": "choice",
+              "content": "比以前更努力的人"
+            },
+            {
+              "id": "step_1756390958552",
+              "type": "choice",
+              "content": "帮助花的照料"
+            },
+            {
+              "id": "step_1756390958713",
+              "type": "choice",
+              "content": "玉美追"
+            },
+            {
+              "id": "step_1756390965033",
+              "type": "choice",
+              "content": "好了，沉默着"
+            },
+            {
+              "id": "step_1756390965201",
+              "type": "choice",
+              "content": "玉美所说的也有道理"
+            },
+            {
+              "id": "step_1756390974416",
+              "type": "choice",
+              "content": "恶作剧"
+            },
+            {
+              "id": "step_1756390986391",
+              "type": "choice",
+              "content": "就怎么办呢？",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1756390990556",
+              "type": "choice",
+              "content": "订购温泉包子"
+            },
+            {
+              "id": "step_1756390990722",
+              "type": "choice",
+              "content": "但是这样的支持是必要的。"
+            },
+            {
+              "id": "step_1756390991694",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1756391002666",
+              "type": "choice",
+              "content": "喜欢和喜欢的是不同的"
+            },
+            {
+              "id": "step_1756391002826",
+              "type": "choice",
+              "content": "以为很高兴"
+            },
+            {
+              "id": "step_1756391003025",
+              "type": "choice",
+              "content": "可爱的女孩啊"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756390949333",
+      "name": "知花 明日香",
+      "endings": [
+        {
+          "id": "ending_1756391045023",
+          "name": "明日香 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756391047563",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1756391050041",
+              "type": "choice",
+              "content": "有在意的存在"
+            },
+            {
+              "id": "step_1756391050325",
+              "type": "choice",
+              "content": "觉得有些寂寞"
+            },
+            {
+              "id": "step_1756391050760",
+              "type": "choice",
+              "content": "像明日香一样"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756391071834",
+      "name": "藤咲 真乎",
+      "endings": [
+        {
+          "id": "ending_1756391101833",
+          "name": "真乎 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756391103703",
+              "type": "choice",
+              "content": "与昔日相比，身体更棒了"
+            },
+            {
+              "id": "step_1756391103871",
+              "type": "choice",
+              "content": "帮助花的照料"
+            },
+            {
+              "id": "step_1756391104033",
+              "type": "choice",
+              "content": "做的事做的事"
+            },
+            {
+              "id": "step_1756391114118",
+              "type": "choice",
+              "content": "那么，该怎么办呢？"
+            },
+            {
+              "id": "step_1756391114263",
+              "type": "choice",
+              "content": "玉美说的是错的"
+            },
+            {
+              "id": "step_1756391114413",
+              "type": "choice",
+              "content": "安静地睡一下"
+            },
+            {
+              "id": "step_1756391114581",
+              "type": "choice",
+              "content": "就怎么办呢？",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1756391127105",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1756391131209",
+              "type": "choice",
+              "content": "真乎先辈的事"
+            },
+            {
+              "id": "step_1756391131355",
+              "type": "choice",
+              "content": "真乎先辈的暑期问候"
+            },
+            {
+              "id": "step_1756391131526",
+              "type": "choice",
+              "content": "生日歌送给的真正乎先前辈的支援。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756391072458",
+      "name": "若邑 泉希",
+      "endings": [
+        {
+          "id": "ending_1756391156866",
+          "name": "泉希 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756391165857",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1756391172103",
+              "type": "choice",
+              "content": "若邑的事"
+            },
+            {
+              "id": "step_1756391172264",
+              "type": "choice",
+              "content": "若邑的暑期问候"
+            },
+            {
+              "id": "step_1756391172377",
+              "type": "choice",
+              "content": "若邑的生日庆祝"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756391214413",
+      "name": "御汤利",
+      "endings": [
+        {
+          "id": "ending_1756391216419",
+          "name": "御汤利 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756391224855",
+              "type": "choice",
+              "content": "比以前更努力的人"
+            },
+            {
+              "id": "step_1756391224979",
+              "type": "choice",
+              "content": "询问花坛的事"
+            },
+            {
+              "id": "step_1756391225262",
+              "type": "choice",
+              "content": "玉美追"
+            },
+            {
+              "id": "step_1756391225442",
+              "type": "choice",
+              "content": "好了，沉默着"
+            },
+            {
+              "id": "step_1756391225568",
+              "type": "choice",
+              "content": "玉美所说的也有道理"
+            },
+            {
+              "id": "step_1756391225822",
+              "type": "choice",
+              "content": "安静地睡一下"
+            },
+            {
+              "id": "step_1756391225987",
+              "type": "choice",
+              "content": "别担心，形成的话！"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

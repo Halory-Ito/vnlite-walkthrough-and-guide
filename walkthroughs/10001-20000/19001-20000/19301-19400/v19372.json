@@ -1,0 +1,153 @@
+{
+  "vid": "v19372",
+  "name": {
+    "zh-cn": "清澄如镜之水面上！",
+    "ja-jp": "はるるみなもに!",
+    "ja-Latn": "haruru-minamo-ni"
+  },
+  "level": 2,
+  "updatedAt": "2026-04-13",
+  "routes": [
+    {
+      "id": "route_game_guide",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_you_end",
+          "name": "叶 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_you_01",
+              "type": "choice",
+              "content": "所以我也能相信着她"
+            },
+            {
+              "id": "step_you_02",
+              "type": "choice",
+              "content": "补充，就算撇开那一点也是"
+            },
+            {
+              "id": "step_you_03",
+              "type": "choice",
+              "content": "不，既然叶你那样说的话……"
+            },
+            {
+              "id": "step_you_04",
+              "type": "choice",
+              "content": "我能明白伊吹你不想提起"
+            },
+            {
+              "id": "step_you_05",
+              "type": "choice",
+              "content": "没问题，本人很是懂得"
+            },
+            {
+              "id": "step_you_06",
+              "type": "choice",
+              "content": "那样的话得好好称赞她才行"
+            },
+            {
+              "id": "step_you_07",
+              "type": "choice",
+              "content": "我反而是感到很感激"
+            },
+            {
+              "id": "step_you_08",
+              "type": "choice",
+              "content": "既然那样说过了，得好好回应她才行"
+            },
+            {
+              "id": "step_you_09",
+              "type": "choice",
+              "content": "至少不想再让英麻继续道歉下去了"
+            },
+            {
+              "id": "step_you_10",
+              "type": "choice",
+              "content": "并不只是那样的对吧？"
+            },
+            {
+              "id": "step_you_11",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_you_12",
+              "type": "choice",
+              "content": "看向叶"
+            }
+          ]
+        },
+        {
+          "id": "ending_miori_end",
+          "name": "水绪里 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_miori_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_miori_02",
+              "type": "choice",
+              "content": "看向水绪里"
+            }
+          ]
+        },
+        {
+          "id": "ending_ema_end",
+          "name": "英麻 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_ema_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_ema_02",
+              "type": "choice",
+              "content": "看向英麻"
+            }
+          ]
+        },
+        {
+          "id": "ending_mei_end",
+          "name": "芽以 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_mei_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_mei_02",
+              "type": "choice",
+              "content": "看向芽以"
+            }
+          ]
+        },
+        {
+          "id": "ending_asumi_end",
+          "name": "明日海 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_asumi_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_asumi_02",
+              "type": "choice",
+              "content": "看向伊吹"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

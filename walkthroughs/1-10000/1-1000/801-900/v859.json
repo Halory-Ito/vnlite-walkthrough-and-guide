@@ -1,0 +1,148 @@
+{
+  "vid": "v859",
+  "name": {
+    "zh-cn": "春色樱濑",
+    "ja-jp": "春色桜瀬",
+    "ja-Latn": "haruiro-ouse"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-14",
+  "routes": [
+    {
+      "id": "route_game",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_mina_end",
+          "name": "木叶 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_mina_01",
+              "type": "choice",
+              "content": "我才不要和你在同一个班级",
+              "prefix": "◆",
+              "group": "7月9日"
+            },
+            {
+              "id": "step_1784015187296",
+              "type": "choice",
+              "content": "拉人入部的话，我已经有人选了"
+            },
+            {
+              "id": "step_1784015191724",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1784015192432",
+              "type": "choice",
+              "content": "我在电视上见过！"
+            },
+            {
+              "id": "step_1784015192722",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1784015205711",
+              "type": "choice",
+              "content": "不行，抱歉！"
+            },
+            {
+              "id": "step_1784015205951",
+              "type": "choice",
+              "content": "去书店"
+            },
+            {
+              "id": "step_1784015215536",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_1784015216030",
+              "type": "choice",
+              "content": "像是土豆炖肉那样的东西"
+            }
+          ]
+        },
+        {
+          "id": "ending_manami_end",
+          "name": "抚子 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_manami_01",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_manami_02",
+              "type": "choice",
+              "content": "像是汤那样的东西",
+              "group": "7月9日"
+            }
+          ]
+        },
+        {
+          "id": "ending_other_end",
+          "name": "小空 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_other_01",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_other_02",
+              "type": "choice",
+              "content": "像是甜点那样的东西",
+              "group": "某月某日"
+            }
+          ]
+        },
+        {
+          "id": "ending_cg_recovery",
+          "name": "桔梗 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_cg_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_cg_02",
+              "type": "choice",
+              "content": "我们之前在家庭餐厅见过吧？",
+              "group": "某月某日"
+            },
+            {
+              "id": "step_1784015271416",
+              "type": "choice",
+              "content": "不行，抱歉！"
+            }
+          ]
+        },
+        {
+          "id": "ending_1784015279644",
+          "name": "春奈",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1784015285350",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1784015286244",
+              "type": "choice",
+              "content": "好吧，我会负起责任的！"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

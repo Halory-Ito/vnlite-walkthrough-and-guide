@@ -1,0 +1,1022 @@
+{
+  "vid": "v29667",
+  "name": {
+    "zh-cn": "ゆびさきコネクション",
+    "en-us": "Yubisaki Connection ~ Love At Your Fingertips",
+    "ja-jp": "ゆびさきコネクション",
+    "ja-Latn": "yubisaki-connection"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-14",
+  "routes": [
+    {
+      "id": "route_game",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_yuzuki",
+          "name": "樱坂 悠月 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_yuzuki_01",
+              "type": "save",
+              "content": "SAVE 1",
+              "group": "日常 01"
+            },
+            {
+              "id": "step_yuzuki_02",
+              "type": "note",
+              "content": "咖啡店│悠月",
+              "prefix": "■",
+              "group": "日常 01"
+            },
+            {
+              "id": "step_yuzuki_03",
+              "type": "choice",
+              "content": "给谁发信息呢",
+              "group": "日常 01"
+            },
+            {
+              "id": "step_yuzuki_04",
+              "type": "choice",
+              "content": "夏步",
+              "group": "日常 01"
+            },
+            {
+              "id": "step_yuzuki_05",
+              "type": "note",
+              "content": "发短信环节：无论聊天话题还是主人公观点，都选第一个选项",
+              "prefix": "★",
+              "group": "日常 01"
+            },
+            {
+              "id": "step_yuzuki_06",
+              "type": "save",
+              "content": "SAVE 2",
+              "group": "日常 01"
+            },
+            {
+              "id": "step_yuzuki_07",
+              "type": "note",
+              "content": "街中│悠月",
+              "prefix": "■",
+              "group": "日常 02"
+            },
+            {
+              "id": "step_yuzuki_08",
+              "type": "choice",
+              "content": "就这样睡觉",
+              "group": "日常 02"
+            },
+            {
+              "id": "step_yuzuki_09",
+              "type": "note",
+              "content": "咖啡店│悠月",
+              "prefix": "■",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_yuzuki_10",
+              "type": "choice",
+              "content": "这样直接睡觉",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_yuzuki_11",
+              "type": "note",
+              "content": "购物中心│悠月",
+              "prefix": "■",
+              "group": "日常 04"
+            },
+            {
+              "id": "step_yuzuki_12",
+              "type": "choice",
+              "content": "要不要给谁发信息呢",
+              "group": "日常 04"
+            },
+            {
+              "id": "step_yuzuki_13",
+              "type": "choice",
+              "content": "樱坂",
+              "group": "日常 04"
+            },
+            {
+              "id": "step_yuzuki_14",
+              "type": "note",
+              "content": "发短信环节：无论聊天话题还是主人公观点，都选第一个选项",
+              "prefix": "★",
+              "group": "日常 04"
+            },
+            {
+              "id": "step_yuzuki_15",
+              "type": "note",
+              "content": "咖啡店│悠月",
+              "prefix": "■",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_yuzuki_16",
+              "type": "choice",
+              "content": "要不要给谁发信息呢",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_yuzuki_17",
+              "type": "choice",
+              "content": "樱坂",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_yuzuki_18",
+              "type": "note",
+              "content": "发短信环节：无论聊天话题还是主人公观点，都选第一个选项",
+              "prefix": "★",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_yuzuki_19",
+              "type": "note",
+              "content": "街中│悠月",
+              "prefix": "■",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_yuzuki_20",
+              "type": "choice",
+              "content": "有空",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_yuzuki_21",
+              "type": "choice",
+              "content": "我想请樱坂小姐吃饭",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_yuzuki_22",
+              "type": "choice",
+              "content": "承蒙美言",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_yuzuki_23",
+              "type": "note",
+              "content": "咖啡店│悠月",
+              "prefix": "■",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_yuzuki_24",
+              "type": "choice",
+              "content": "要不要给谁发信息呢",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_yuzuki_25",
+              "type": "choice",
+              "content": "樱坂",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_yuzuki_26",
+              "type": "note",
+              "content": "发短信环节：无论聊天话题还是主人公观点，都选第一个选项",
+              "prefix": "★",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_yuzuki_27",
+              "type": "note",
+              "content": "街中│悠月",
+              "prefix": "■",
+              "group": "日常 08"
+            },
+            {
+              "id": "step_yuzuki_28",
+              "type": "choice",
+              "content": "询问周末的安排",
+              "group": "日常 08"
+            },
+            {
+              "id": "step_yuzuki_29",
+              "type": "choice",
+              "content": "约会",
+              "group": "日常 08"
+            },
+            {
+              "id": "step_yuzuki_30",
+              "type": "choice",
+              "content": "这是秘密",
+              "group": "日常 08"
+            },
+            {
+              "id": "step_yuzuki_31",
+              "type": "note",
+              "content": "咖啡店│悠月",
+              "prefix": "■",
+              "group": "日常 09"
+            },
+            {
+              "id": "step_yuzuki_32",
+              "type": "choice",
+              "content": "采购",
+              "group": "日常 09"
+            },
+            {
+              "id": "step_yuzuki_33",
+              "type": "choice",
+              "content": "购物中心",
+              "group": "日常 09"
+            },
+            {
+              "id": "step_yuzuki_34",
+              "type": "choice",
+              "content": "午后",
+              "group": "日常 09"
+            },
+            {
+              "id": "step_yuzuki_35",
+              "type": "note",
+              "content": "购物中心│悠月",
+              "prefix": "■",
+              "group": "日常 10"
+            },
+            {
+              "id": "step_yuzuki_36",
+              "type": "save",
+              "content": "SAVE 3",
+              "group": "日常 10"
+            },
+            {
+              "id": "step_yuzuki_37",
+              "type": "choice",
+              "content": "告白",
+              "group": "日常 10"
+            },
+            {
+              "id": "step_yuzuki_38",
+              "type": "choice",
+              "content": "询问计划",
+              "group": "日常 10"
+            },
+            {
+              "id": "step_yuzuki_39",
+              "type": "choice",
+              "content": "邀请约会",
+              "group": "日常 10"
+            },
+            {
+              "id": "step_yuzuki_40",
+              "type": "choice",
+              "content": "不要睡懒觉哦",
+              "group": "日常 10"
+            }
+          ]
+        },
+        {
+          "id": "ending_natsuho",
+          "name": "双叶 夏步 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_natsuho_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_natsuho_02",
+              "type": "note",
+              "content": "车站前│夏步",
+              "prefix": "■",
+              "group": "日常 02"
+            },
+            {
+              "id": "step_natsuho_03",
+              "type": "choice",
+              "content": "要不要给谁发信息呢",
+              "group": "日常 02"
+            },
+            {
+              "id": "step_natsuho_04",
+              "type": "choice",
+              "content": "夏步",
+              "group": "日常 02"
+            },
+            {
+              "id": "step_natsuho_05",
+              "type": "note",
+              "content": "发短信环节：无论聊天话题还是主人公观点，都选第一个选项",
+              "prefix": "★",
+              "group": "日常 02"
+            },
+            {
+              "id": "step_natsuho_06",
+              "type": "note",
+              "content": "家庭餐馆│夏步",
+              "prefix": "■",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_natsuho_07",
+              "type": "choice",
+              "content": "闲",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_natsuho_08",
+              "type": "choice",
+              "content": "好啊",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_natsuho_09",
+              "type": "choice",
+              "content": "没错",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_natsuho_10",
+              "type": "note",
+              "content": "街中│夏步",
+              "prefix": "■",
+              "group": "日常 04"
+            },
+            {
+              "id": "step_natsuho_11",
+              "type": "choice",
+              "content": "有兴趣",
+              "group": "日常 04"
+            },
+            {
+              "id": "step_natsuho_12",
+              "type": "choice",
+              "content": "会空着的",
+              "group": "日常 04"
+            },
+            {
+              "id": "step_natsuho_13",
+              "type": "choice",
+              "content": "扩大话题",
+              "group": "日常 04"
+            },
+            {
+              "id": "step_natsuho_14",
+              "type": "note",
+              "content": "街中│夏步",
+              "prefix": "■",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_natsuho_15",
+              "type": "choice",
+              "content": "要不要给谁发信息呢",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_natsuho_16",
+              "type": "choice",
+              "content": "夏步",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_natsuho_17",
+              "type": "note",
+              "content": "发短信环节：无论聊天话题还是主人公观点，都选第一个选项",
+              "prefix": "★",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_natsuho_18",
+              "type": "note",
+              "content": "自己的房间│夏步",
+              "prefix": "■",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_natsuho_19",
+              "type": "choice",
+              "content": "要不要给谁发信息呢",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_natsuho_20",
+              "type": "choice",
+              "content": "夏步",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_natsuho_21",
+              "type": "note",
+              "content": "发短信环节：无论聊天话题还是主人公观点，都选第一个选项",
+              "prefix": "★",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_natsuho_22",
+              "type": "note",
+              "content": "时髦的街道│夏步",
+              "prefix": "■",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_natsuho_23",
+              "type": "choice",
+              "content": "回信",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_natsuho_24",
+              "type": "choice",
+              "content": "认真回答",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_natsuho_25",
+              "type": "choice",
+              "content": "约会",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_natsuho_26",
+              "type": "choice",
+              "content": "等一下",
+              "group": "日常 07"
+            }
+          ]
+        },
+        {
+          "id": "ending_mikoto",
+          "name": "秋月 美琴 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_mikoto_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_mikoto_02",
+              "type": "note",
+              "content": "自己的房间│美琴",
+              "prefix": "■",
+              "group": "日常 01"
+            },
+            {
+              "id": "step_mikoto_03",
+              "type": "choice",
+              "content": "这样直接睡觉",
+              "group": "日常 01"
+            },
+            {
+              "id": "step_mikoto_04",
+              "type": "note",
+              "content": "自己的房间│美琴",
+              "prefix": "■",
+              "group": "日常 02"
+            },
+            {
+              "id": "step_mikoto_05",
+              "type": "choice",
+              "content": "这样直接睡觉",
+              "group": "日常 02"
+            },
+            {
+              "id": "step_mikoto_06",
+              "type": "note",
+              "content": "街中│美琴",
+              "prefix": "■",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_mikoto_07",
+              "type": "choice",
+              "content": "这样直接睡觉",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_mikoto_08",
+              "type": "note",
+              "content": "自己的房间│美琴",
+              "prefix": "■",
+              "group": "日常 04"
+            },
+            {
+              "id": "step_mikoto_09",
+              "type": "choice",
+              "content": "没关系",
+              "group": "日常 04"
+            },
+            {
+              "id": "step_mikoto_10",
+              "type": "choice",
+              "content": "别在意",
+              "group": "日常 04"
+            },
+            {
+              "id": "step_mikoto_11",
+              "type": "choice",
+              "content": "今后也可以给你发消息吗",
+              "group": "日常 04"
+            },
+            {
+              "id": "step_mikoto_12",
+              "type": "note",
+              "content": "购物中心│美琴",
+              "prefix": "■",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_mikoto_13",
+              "type": "choice",
+              "content": "要不要给谁发信息呢",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_mikoto_14",
+              "type": "choice",
+              "content": "秋月",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_mikoto_15",
+              "type": "note",
+              "content": "发短信环节：无论聊天话题还是主人公观点，都选第一个选项",
+              "prefix": "★",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_mikoto_16",
+              "type": "note",
+              "content": "办公室│美琴",
+              "prefix": "■",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_mikoto_17",
+              "type": "choice",
+              "content": "要不要给谁发信息呢",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_mikoto_18",
+              "type": "choice",
+              "content": "秋月",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_mikoto_19",
+              "type": "note",
+              "content": "发短信环节：无论聊天话题还是主人公观点，都选第一个选项",
+              "prefix": "★",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_mikoto_20",
+              "type": "note",
+              "content": "繁华的街道│美琴",
+              "prefix": "■",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_mikoto_21",
+              "type": "choice",
+              "content": "要不要给谁发信息呢",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_mikoto_22",
+              "type": "choice",
+              "content": "秋月",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_mikoto_23",
+              "type": "note",
+              "content": "发短信环节：无论聊天话题还是主人公观点，都选第一个选项",
+              "prefix": "★",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_mikoto_24",
+              "type": "note",
+              "content": "自己的房间│美琴",
+              "prefix": "■",
+              "group": "日常 08"
+            },
+            {
+              "id": "step_mikoto_25",
+              "type": "choice",
+              "content": "要不要给谁发信息呢",
+              "group": "日常 08"
+            },
+            {
+              "id": "step_mikoto_26",
+              "type": "choice",
+              "content": "秋月",
+              "group": "日常 08"
+            },
+            {
+              "id": "step_mikoto_27",
+              "type": "note",
+              "content": "发短信环节：无论聊天话题还是主人公观点，都选第一个选项",
+              "prefix": "★",
+              "group": "日常 08"
+            },
+            {
+              "id": "step_mikoto_28",
+              "type": "note",
+              "content": "自己的房间│美琴",
+              "prefix": "■",
+              "group": "日常 09"
+            },
+            {
+              "id": "step_mikoto_29",
+              "type": "choice",
+              "content": "有空",
+              "group": "日常 09"
+            },
+            {
+              "id": "step_mikoto_30",
+              "type": "choice",
+              "content": "当然",
+              "group": "日常 09"
+            },
+            {
+              "id": "step_mikoto_31",
+              "type": "choice",
+              "content": "我很期待",
+              "group": "日常 09"
+            },
+            {
+              "id": "step_mikoto_32",
+              "type": "note",
+              "content": "街中│美琴",
+              "prefix": "■",
+              "group": "日常 10"
+            },
+            {
+              "id": "step_mikoto_33",
+              "type": "choice",
+              "content": "告白",
+              "group": "日常 10"
+            },
+            {
+              "id": "step_mikoto_34",
+              "type": "choice",
+              "content": "没问题",
+              "group": "日常 10"
+            },
+            {
+              "id": "step_mikoto_35",
+              "type": "choice",
+              "content": "倒不如说十分欢迎",
+              "group": "日常 10"
+            },
+            {
+              "id": "step_mikoto_36",
+              "type": "choice",
+              "content": "喜欢的酒是？",
+              "group": "日常 10"
+            }
+          ]
+        },
+        {
+          "id": "ending_iori",
+          "name": "橘 伊织 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_iori_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_iori_02",
+              "type": "note",
+              "content": "酒吧│伊织",
+              "prefix": "■",
+              "group": "日常 01"
+            },
+            {
+              "id": "step_iori_03",
+              "type": "choice",
+              "content": "这样直接睡觉",
+              "group": "日常 01"
+            },
+            {
+              "id": "step_iori_04",
+              "type": "note",
+              "content": "酒吧│伊织",
+              "prefix": "■",
+              "group": "日常 02"
+            },
+            {
+              "id": "step_iori_05",
+              "type": "choice",
+              "content": "要不要给谁发信息呢",
+              "group": "日常 02"
+            },
+            {
+              "id": "step_iori_06",
+              "type": "choice",
+              "content": "伊织",
+              "group": "日常 02"
+            },
+            {
+              "id": "step_iori_07",
+              "type": "note",
+              "content": "发短信环节：无论聊天话题还是主人公观点，都选第一个选项",
+              "prefix": "★",
+              "group": "日常 02"
+            },
+            {
+              "id": "step_iori_08",
+              "type": "note",
+              "content": "街中│伊织",
+              "prefix": "■",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_iori_09",
+              "type": "choice",
+              "content": "要不要给谁发信息呢",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_iori_10",
+              "type": "choice",
+              "content": "伊织",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_iori_11",
+              "type": "note",
+              "content": "发短信环节：无论聊天话题还是主人公观点，都选第一个选项",
+              "prefix": "★",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_iori_12",
+              "type": "note",
+              "content": "酒吧│伊织",
+              "prefix": "■",
+              "group": "日常 04"
+            },
+            {
+              "id": "step_iori_13",
+              "type": "choice",
+              "content": "尽力报答",
+              "group": "日常 04"
+            },
+            {
+              "id": "step_iori_14",
+              "type": "choice",
+              "content": "明白了",
+              "group": "日常 04"
+            },
+            {
+              "id": "step_iori_15",
+              "type": "choice",
+              "content": "没问题",
+              "group": "日常 04"
+            },
+            {
+              "id": "step_iori_16",
+              "type": "choice",
+              "content": "对不起，我不知道！",
+              "group": "伊织约会事件①"
+            },
+            {
+              "id": "step_iori_17",
+              "type": "note",
+              "content": "酒吧│伊织",
+              "prefix": "■",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_iori_18",
+              "type": "choice",
+              "content": "要不要给谁发信息呢",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_iori_19",
+              "type": "choice",
+              "content": "伊织",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_iori_20",
+              "type": "note",
+              "content": "发短信环节：无论聊天话题还是主人公观点，都选第一个选项",
+              "prefix": "★",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_iori_21",
+              "type": "note",
+              "content": "酒吧│伊织",
+              "prefix": "■",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_iori_22",
+              "type": "choice",
+              "content": "有空",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_iori_23",
+              "type": "choice",
+              "content": "约会是指那个……？",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_iori_24",
+              "type": "choice",
+              "content": "如果是伊织的邀请",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_iori_25",
+              "type": "note",
+              "content": "酒吧│伊织",
+              "prefix": "■",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_iori_26",
+              "type": "choice",
+              "content": "要不要给谁发信息呢",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_iori_27",
+              "type": "choice",
+              "content": "伊织",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_iori_28",
+              "type": "note",
+              "content": "发短信环节：无论聊天话题还是主人公观点，都选第一个选项",
+              "prefix": "★",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_iori_29",
+              "type": "note",
+              "content": "咖啡店│伊织",
+              "prefix": "■",
+              "group": "日常 08"
+            },
+            {
+              "id": "step_iori_30",
+              "type": "choice",
+              "content": "告白",
+              "group": "日常 08"
+            },
+            {
+              "id": "step_iori_31",
+              "type": "choice",
+              "content": "直说吧",
+              "group": "日常 08"
+            },
+            {
+              "id": "step_iori_32",
+              "type": "choice",
+              "content": "秘密",
+              "group": "日常 08"
+            },
+            {
+              "id": "step_iori_33",
+              "type": "choice",
+              "content": "你身边的座位",
+              "group": "日常 08"
+            }
+          ]
+        },
+        {
+          "id": "ending_normal",
+          "name": "普通 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_normal_01",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_normal_02",
+              "type": "choice",
+              "content": "不告白",
+              "group": "日常 10"
+            },
+            {
+              "id": "step_normal_03",
+              "type": "choice",
+              "content": "就这样睡觉吧",
+              "group": "日常 10"
+            },
+            {
+              "id": "step_normal_04",
+              "type": "note",
+              "content": "在街上闲逛(左)",
+              "prefix": "■",
+              "group": "日常 11"
+            },
+            {
+              "id": "step_normal_05",
+              "type": "choice",
+              "content": "不告白",
+              "group": "日常 11"
+            },
+            {
+              "id": "step_normal_06",
+              "type": "choice",
+              "content": "就这样睡觉吧",
+              "group": "日常 11"
+            },
+            {
+              "id": "step_normal_07",
+              "type": "note",
+              "content": "在街上闲逛",
+              "prefix": "■",
+              "group": "日常 12"
+            },
+            {
+              "id": "step_normal_08",
+              "type": "choice",
+              "content": "不告白",
+              "group": "日常 12"
+            },
+            {
+              "id": "step_normal_09",
+              "type": "choice",
+              "content": "就这样睡吧",
+              "group": "日常 12"
+            },
+            {
+              "id": "step_normal_10",
+              "type": "note",
+              "content": "在街上闲逛(左)",
+              "prefix": "■",
+              "group": "日常 13"
+            },
+            {
+              "id": "step_normal_11",
+              "type": "choice",
+              "content": "不告白",
+              "group": "日常 13"
+            },
+            {
+              "id": "step_normal_12",
+              "type": "choice",
+              "content": "就这样睡觉吧",
+              "group": "日常 13"
+            },
+            {
+              "id": "step_normal_13",
+              "type": "note",
+              "content": "在街上闲逛(左)",
+              "prefix": "■",
+              "group": "日常 14"
+            },
+            {
+              "id": "step_normal_14",
+              "type": "choice",
+              "content": "不告白",
+              "group": "日常 14"
+            },
+            {
+              "id": "step_normal_15",
+              "type": "choice",
+              "content": "就这样睡觉吧",
+              "group": "日常 14"
+            },
+            {
+              "id": "step_normal_16",
+              "type": "note",
+              "content": "在街上闲逛(左)",
+              "prefix": "■",
+              "group": "日常 15"
+            },
+            {
+              "id": "step_normal_17",
+              "type": "choice",
+              "content": "不告白",
+              "group": "日常 15"
+            },
+            {
+              "id": "step_normal_18",
+              "type": "choice",
+              "content": "就这样睡吧",
+              "group": "日常 15"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

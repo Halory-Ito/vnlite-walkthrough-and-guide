@@ -1,0 +1,307 @@
+{
+  "vid": "v25007",
+  "name": {
+    "zh-cn": "DEAD DAYS",
+    "ja-Latn": "dead-days"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-14",
+  "routes": [
+    {
+      "id": "route_game",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_aira_end",
+          "name": "爱良 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_aira_01",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_aira_02",
+              "type": "choice",
+              "content": "选择爱良"
+            },
+            {
+              "id": "step_aira_03",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_aira_04",
+              "type": "choice",
+              "content": "不可能吧"
+            },
+            {
+              "id": "step_aira_05",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_aira_06",
+              "type": "choice",
+              "content": "闭嘴，快点！"
+            },
+            {
+              "id": "step_aira_07",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_aira_08",
+              "type": "choice",
+              "content": "和其他女人"
+            },
+            {
+              "id": "step_aira_09",
+              "type": "choice",
+              "content": "关于天愿壮吉的事情"
+            },
+            {
+              "id": "step_aira_10",
+              "type": "save",
+              "content": "SAVE 5"
+            },
+            {
+              "id": "step_aira_11",
+              "type": "choice",
+              "content": "都不打电话"
+            },
+            {
+              "id": "step_aira_12",
+              "type": "choice",
+              "content": "决定"
+            },
+            {
+              "id": "step_aira_13",
+              "type": "save",
+              "content": "SAVE 6"
+            },
+            {
+              "id": "step_aira_14",
+              "type": "choice",
+              "content": "观察一下情况"
+            }
+          ]
+        },
+        {
+          "id": "ending_manami_end",
+          "name": "麻奈美 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_manami_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_manami_02",
+              "type": "choice",
+              "content": "选择麻奈美"
+            },
+            {
+              "id": "step_manami_03",
+              "type": "choice",
+              "content": "不可能吧"
+            },
+            {
+              "id": "step_manami_04",
+              "type": "choice",
+              "content": "闭嘴，快点！"
+            },
+            {
+              "id": "step_manami_05",
+              "type": "choice",
+              "content": "和其他女人做"
+            },
+            {
+              "id": "step_manami_06",
+              "type": "choice",
+              "content": "关于Nobody66和『敌人』的事情"
+            },
+            {
+              "id": "step_manami_07",
+              "type": "save",
+              "content": "SAVE 7"
+            },
+            {
+              "id": "step_manami_08",
+              "type": "choice",
+              "content": "都不打电话"
+            },
+            {
+              "id": "step_manami_09",
+              "type": "choice",
+              "content": "放弃"
+            },
+            {
+              "id": "step_manami_10",
+              "type": "choice",
+              "content": "观察一下情况"
+            }
+          ]
+        },
+        {
+          "id": "ending_gypsy_q_end",
+          "name": "吉普赛人Q END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_gypsyq_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_gypsyq_02",
+              "type": "choice",
+              "content": "也许是吧……"
+            }
+          ]
+        },
+        {
+          "id": "ending_kill_end",
+          "name": "基尔 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_kill_01",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_kill_02",
+              "type": "choice",
+              "content": "知道了，我什么都做"
+            }
+          ]
+        },
+        {
+          "id": "ending_66_end",
+          "name": "66 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_66_01",
+              "type": "load",
+              "content": "LOAD 6"
+            },
+            {
+              "id": "step_66_02",
+              "type": "choice",
+              "content": "试着攻击"
+            }
+          ]
+        },
+        {
+          "id": "ending_bad_end",
+          "name": "BAD END",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_bad_01",
+              "type": "load",
+              "content": "LOAD 5"
+            },
+            {
+              "id": "step_bad_02",
+              "type": "choice",
+              "content": "给珠璃亚回个电话",
+              "subfix": "场景回收"
+            },
+            {
+              "id": "step_bad_03",
+              "type": "choice",
+              "content": "决定"
+            },
+            {
+              "id": "step_bad_04",
+              "type": "choice",
+              "content": "观察一下情况"
+            }
+          ]
+        },
+        {
+          "id": "ending_mayu_end",
+          "name": "真鱼 END",
+          "type": "normal",
+          "requirements": "其他全部END完成后",
+          "steps": [
+            {
+              "id": "step_mayu_02",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_mayu_03",
+              "type": "choice",
+              "content": "今天先不了"
+            },
+            {
+              "id": "step_mayu_04",
+              "type": "choice",
+              "content": "关于鲛肌基尔和『组织』的事情"
+            },
+            {
+              "id": "step_mayu_05",
+              "type": "choice",
+              "content": "给真鱼回个电话",
+              "subfix": "真鱼"
+            },
+            {
+              "id": "step_mayu_06",
+              "type": "choice",
+              "content": "决定"
+            },
+            {
+              "id": "step_mayu_07",
+              "type": "choice",
+              "content": "观察一下情况"
+            },
+            {
+              "id": "step_mayu_09",
+              "type": "choice",
+              "content": "即便如此，还是决定复活她"
+            }
+          ]
+        },
+        {
+          "id": "ending_read_complete_end",
+          "name": "已读完成率回收 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_read_01",
+              "type": "load",
+              "content": "LOAD 7"
+            },
+            {
+              "id": "step_read_02",
+              "type": "choice",
+              "content": "给真鱼回个电话",
+              "subfix": "真魚"
+            },
+            {
+              "id": "step_read_03",
+              "type": "choice",
+              "content": "决定"
+            },
+            {
+              "id": "step_read_04",
+              "type": "choice",
+              "content": "观察一下情况"
+            },
+            {
+              "id": "step_read_05",
+              "type": "choice",
+              "content": "即便如此，还是决定复活她(还是决定不复活她)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

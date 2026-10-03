@@ -1,0 +1,194 @@
+{
+  "vid": "v15653",
+  "name": {
+    "zh-cn": "少女谱写的爱的咏叹调",
+    "ja-jp": "乙女が奏でる恋のアリア",
+    "ja-Latn": "otome-ga-kanaderu-koi-no-aria"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-13",
+  "tips": [
+    "✲标注的选项，需要安装『歌姫じゃなく、恋人として傍にいたいの……』才会出现"
+  ],
+  "routes": [
+    {
+      "id": "route_1762594590107",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1762594697906",
+          "name": "西條 綾香",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762594752186",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1762594752704",
+              "type": "choice",
+              "content": "再睡个回笼觉吧"
+            },
+            {
+              "id": "step_1762594753144",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1762594753614",
+              "type": "choice",
+              "content": "等她们聊完吧"
+            },
+            {
+              "id": "step_1762594754493",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_1762594755234",
+              "type": "choice",
+              "content": "和绫香同学一起",
+              "prefix": "✲"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762594698784",
+          "name": "輝堂 楓",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762594830039",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1762594830825",
+              "type": "choice",
+              "content": "还是现在起来吧"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762594699080",
+          "name": "雪代 小鸟",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762594846919",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1762594849235",
+              "type": "choice",
+              "content": "一个人去食堂吧"
+            },
+            {
+              "id": "step_1762594851068",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_1762594851724",
+              "type": "choice",
+              "content": "去食堂吃吧"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762594699399",
+          "name": "天承院 千影",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762594867715",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_1762594871786",
+              "type": "choice",
+              "content": "去外头吃吧"
+            },
+            {
+              "id": "step_1762594872276",
+              "type": "save",
+              "content": "SAVE 5"
+            },
+            {
+              "id": "step_1762594872690",
+              "type": "choice",
+              "content": "留在学校吧"
+            },
+            {
+              "id": "step_1762594873477",
+              "type": "save",
+              "content": "SAVE 6"
+            },
+            {
+              "id": "step_1762594873925",
+              "type": "choice",
+              "content": "下决心向她询问关于千影同学的事",
+              "prefix": "✲"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762594700431",
+          "name": "二ノ宮 美琴",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762594914171",
+              "type": "load",
+              "content": "LOAD 5"
+            },
+            {
+              "id": "step_1762594918123",
+              "type": "choice",
+              "content": "直接回宿舍"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762594700875",
+          "name": "西條 希実",
+          "type": "normal",
+          "requirements": "需要安装『歌姫じゃなく、恋人として傍にいたいの……』补丁",
+          "steps": [
+            {
+              "id": "step_1762594946579",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1762594947594",
+              "type": "choice",
+              "content": "和希实酱一起吧"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762594701326",
+          "name": "城ヶ崎 奏",
+          "type": "normal",
+          "requirements": "需要安装『歌姫じゃなく、恋人として傍にいたいの……』补丁",
+          "steps": [
+            {
+              "id": "step_1762594958946",
+              "type": "load",
+              "content": "LOAD 6"
+            },
+            {
+              "id": "step_1762594961848",
+              "type": "choice",
+              "content": "果然还是咽回去"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

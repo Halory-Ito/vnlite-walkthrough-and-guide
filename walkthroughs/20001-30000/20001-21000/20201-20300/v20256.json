@@ -1,0 +1,123 @@
+{
+  "vid": "v20256",
+  "name": {
+    "zh-cn": "有少女献鸣的爱之奏章",
+    "ja-jp": "想いを捧げる乙女のメロディー",
+    "ja-Latn": "omoi-o-sasageru-otome-no-melody"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-13",
+  "routes": [
+    {
+      "id": "route_1762681673850",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1762681831713",
+          "name": "水澤 沙耶香",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762681841273",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1762681842115",
+              "type": "choice",
+              "content": "跟瑞穗同学商量"
+            },
+            {
+              "id": "step_1762681842846",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1762681846396",
+              "type": "choice",
+              "content": "向帮助统一意见的沙耶香同学道谢"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762681836886",
+          "name": "野々宮 美亜",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762681859995",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1762681862767",
+              "type": "choice",
+              "content": "关照一下消沉的美亚同学"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762681837032",
+          "name": "園谷 千夏",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762682174404",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1762682175332",
+              "type": "choice",
+              "content": "先看「Zwei」的练习"
+            },
+            {
+              "id": "step_1762682178108",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_1762682180824",
+              "type": "choice",
+              "content": "好在意流浪犬有什么事"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762681837177",
+          "name": "秋月 瑞穂",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762682187123",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1762682189590",
+              "type": "choice",
+              "content": "去帮助瑞穗"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762681837365",
+          "name": "小石川 琴音",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762682195850",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1762682199720",
+              "type": "choice",
+              "content": "去帮助琴音"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

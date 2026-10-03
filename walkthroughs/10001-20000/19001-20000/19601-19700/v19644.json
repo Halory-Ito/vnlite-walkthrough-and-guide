@@ -1,0 +1,77 @@
+{
+  "vid": "v19644",
+  "name": {
+    "zh-cn": "trinoline",
+    "en-us": "Trinoline",
+    "ja-jp": "トリノライン"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-12",
+  "routes": [
+    {
+      "id": "route_1756112202585",
+      "name": "七波 白音",
+      "endings": [
+        {
+          "id": "ending_1756112458803",
+          "name": "白音 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756112468303",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1756112468754",
+              "type": "choice",
+              "content": "睡在房间里"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756112202892",
+      "name": "宫风 夕梨",
+      "endings": [
+        {
+          "id": "ending_1756112487778",
+          "name": "夕梨 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756112495705",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1756112496240",
+              "type": "choice",
+              "content": "大海散步"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756112203287",
+      "name": "柚木 沙罗",
+      "endings": [
+        {
+          "id": "ending_1756112542271",
+          "name": "沙罗 END",
+          "type": "normal",
+          "requirements": "上述两人攻略后，标题画面开始新游戏",
+          "steps": [
+            {
+              "id": "step_1756112888953",
+              "type": "choice",
+              "content": "我想支持沙罗的想法"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

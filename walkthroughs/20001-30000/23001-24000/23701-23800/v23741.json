@@ -1,0 +1,76 @@
+{
+  "vid": "v23741",
+  "name": {
+    "zh-cn": "NUKITASHI 2",
+    "en-us": "NUKITASHI 2",
+    "ja-jp": "抜きゲーみたいな島に住んでる貧乳はどうすりゃいいですか？ 2",
+    "ja-Latn": "nukitashi2"
+  },
+  "level": 2,
+  "updatedAt": "2026-05-17",
+  "tips": [
+    "2代采用了与1代不同的结构：“共通主线 + 个人线”。前半部分（约前15章）全为共通剧情",
+    "在通关2代任意一条主线（SS线）后，将解锁1代女主角们的后日谈与短篇剧情。可通过标题界面的 「Scenarios」 进入",
+    "文乃的后记是岛1真结局文乃线结束后又经历了一遍岛2主线后的剧情后续，推荐打完主线再玩。并且文乃后记的最后一章通关所有线路后才解锁",
+    "麻沙音短剧情在通关一次岛2主线后开放"
+  ],
+  "routes": [
+    {
+      "id": "route_1773038992531",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1773038998651",
+          "name": "桐香 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1773039013129",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1773039014185",
+              "type": "choice",
+              "content": "帮桐香的忙"
+            }
+          ]
+        },
+        {
+          "id": "ending_1773039020121",
+          "name": "郁子 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1773039025899",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1773039026442",
+              "type": "choice",
+              "content": "帮郁子的忙"
+            }
+          ]
+        },
+        {
+          "id": "ending_1773039020454",
+          "name": "礼 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1773039047935",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1773039048388",
+              "type": "choice",
+              "content": "帮礼的忙"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

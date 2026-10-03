@@ -1,0 +1,676 @@
+{
+  "vid": "v11093",
+  "name": {
+    "zh-cn": "时钟机关的Ley-line -残影之夜将明时-",
+    "en-us": "A Clockwork Ley-Line: Daybreak of Remnants Shadow",
+    "ja-jp": "時計仕掛けのレイライン －残影の夜が明ける時－",
+    "ja-Latn": "tokeijikake-no-ley-line-zanei-no-yoru-ga-akeru-toki"
+  },
+  "level": 2,
+  "updatedAt": "2026-05-18",
+  "tips": [
+    "★选项为会影响推理Rank的选项"
+  ],
+  "routes": [
+    {
+      "id": "route_game_guide",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_common_start",
+          "name": "共通线 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_common_01",
+              "type": "choice",
+              "content": "毕竟已经做过很多次了"
+            },
+            {
+              "id": "step_common_02",
+              "type": "choice",
+              "content": "有种叫「限度」的东西啊……"
+            },
+            {
+              "id": "step_common_03",
+              "type": "choice",
+              "content": "摇身体叫醒"
+            },
+            {
+              "id": "step_common_04",
+              "type": "choice",
+              "content": "忍不住笑喷出来"
+            },
+            {
+              "id": "step_common_05",
+              "type": "choice",
+              "content": "果然不是遗品吗？",
+              "prefix": "★"
+            },
+            {
+              "id": "step_common_06",
+              "type": "choice",
+              "content": "是什么样的家伙？"
+            },
+            {
+              "id": "step_common_07",
+              "type": "choice",
+              "content": "什么时候的事？"
+            },
+            {
+              "id": "step_common_08",
+              "type": "choice",
+              "content": "他还说什么了吗？"
+            },
+            {
+              "id": "step_common_09",
+              "type": "choice",
+              "content": "向忧绪寻求意见"
+            },
+            {
+              "id": "step_common_10",
+              "type": "choice",
+              "content": "总之先移开视线（过于震惊呆住了）"
+            },
+            {
+              "id": "step_common_11",
+              "type": "choice",
+              "content": "是对特查的挑战吗",
+              "prefix": "★"
+            },
+            {
+              "id": "step_common_12",
+              "type": "choice",
+              "content": "是同一个人吧",
+              "prefix": "★"
+            },
+            {
+              "id": "step_common_13",
+              "type": "choice",
+              "content": "被受害者叫住询问了吧",
+              "prefix": "★"
+            },
+            {
+              "id": "step_common_14",
+              "type": "choice",
+              "content": "配合忧绪的话"
+            },
+            {
+              "id": "step_common_15",
+              "type": "choice",
+              "content": "用「我能理解你的感受」来安抚"
+            },
+            {
+              "id": "step_common_16",
+              "type": "choice",
+              "content": "你们住在哪里？"
+            },
+            {
+              "id": "step_common_17",
+              "type": "choice",
+              "content": "为什么要在晚上上学？"
+            },
+            {
+              "id": "step_common_18",
+              "type": "choice",
+              "content": "白天在做什么？"
+            },
+            {
+              "id": "step_common_19",
+              "type": "choice",
+              "content": "向忧绪确认意见"
+            },
+            {
+              "id": "step_common_20",
+              "type": "choice",
+              "content": "其实是秘密组织的特工"
+            },
+            {
+              "id": "step_common_21",
+              "type": "choice",
+              "content": "我懂的，没问题"
+            },
+            {
+              "id": "step_common_22",
+              "type": "choice",
+              "content": "没有魔术抗性？",
+              "prefix": "★"
+            },
+            {
+              "id": "step_common_23",
+              "type": "choice",
+              "content": "那个诡异的提问？",
+              "prefix": "★"
+            },
+            {
+              "id": "step_common_24",
+              "type": "choice",
+              "content": "握住那只手（逃开）"
+            },
+            {
+              "id": "step_common_25",
+              "type": "choice",
+              "content": "非常在意"
+            },
+            {
+              "id": "step_common_26",
+              "type": "choice",
+              "content": "就算知道是梦还是要吐槽（毕竟是梦，放弃吧）"
+            },
+            {
+              "id": "step_common_27",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_common_28",
+              "type": "choice",
+              "content": "把小太郎拉过来"
+            },
+            {
+              "id": "step_common_29",
+              "type": "choice",
+              "content": "说不定还清醒着",
+              "prefix": "★"
+            },
+            {
+              "id": "step_common_30",
+              "type": "choice",
+              "content": "黑谷真弥",
+              "prefix": "★"
+            },
+            {
+              "id": "step_common_31",
+              "type": "choice",
+              "content": "问问素爱不要紧吧"
+            },
+            {
+              "id": "step_common_32",
+              "type": "choice",
+              "content": "看什么看得那么热心？"
+            },
+            {
+              "id": "step_common_33",
+              "type": "choice",
+              "content": "小霞你们也会帮忙的吧"
+            },
+            {
+              "id": "step_common_34",
+              "type": "choice",
+              "content": "对真弥说素爱想家了"
+            },
+            {
+              "id": "step_common_35",
+              "type": "choice",
+              "content": "你没事吧？"
+            },
+            {
+              "id": "step_common_36",
+              "type": "choice",
+              "content": "要我送你吗"
+            },
+            {
+              "id": "step_common_37",
+              "type": "choice",
+              "content": "那，那啥，抱歉啊"
+            },
+            {
+              "id": "step_common_38",
+              "type": "choice",
+              "content": "话说回来人工生命体到底是什么？"
+            },
+            {
+              "id": "step_common_39",
+              "type": "choice",
+              "content": "使用这个遗品，不需要代偿吗？"
+            },
+            {
+              "id": "step_common_40",
+              "type": "choice",
+              "content": "这个遗品，必须要用到血吗？"
+            },
+            {
+              "id": "step_common_41",
+              "type": "choice",
+              "content": "做出闻忧绪的举动",
+              "prefix": "★"
+            },
+            {
+              "id": "step_common_42",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_common_43",
+              "type": "choice",
+              "content": "路易，也考虑一下海蒂的感受吧"
+            },
+            {
+              "id": "step_common_44",
+              "type": "choice",
+              "content": "使用小霞拿着的魔石吗？"
+            }
+          ]
+        },
+        {
+          "id": "ending_edelheit",
+          "name": "爱蒂尔海特 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_edelheit_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_edelheit_02",
+              "type": "choice",
+              "content": "正如路易所说啊，海蒂"
+            },
+            {
+              "id": "step_edelheit_03",
+              "type": "choice",
+              "content": "让魔女重做一次？",
+              "prefix": "★"
+            },
+            {
+              "id": "step_edelheit_04",
+              "type": "choice",
+              "content": "啊啊，真是太好了"
+            },
+            {
+              "id": "step_edelheit_05",
+              "type": "choice",
+              "content": "怎么变成这样了？"
+            },
+            {
+              "id": "step_edelheit_06",
+              "type": "choice",
+              "content": "是在试图吸收路易的魔力吗？",
+              "prefix": "★"
+            },
+            {
+              "id": "step_edelheit_07",
+              "type": "choice",
+              "content": "哪里行得通啊！！"
+            },
+            {
+              "id": "step_edelheit_08",
+              "type": "choice",
+              "content": "沉默地移开视线"
+            },
+            {
+              "id": "step_edelheit_09",
+              "type": "choice",
+              "content": "那是突然袭击没办法吧"
+            },
+            {
+              "id": "step_edelheit_10",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_edelheit_11",
+              "type": "choice",
+              "content": "真不像你会说的话"
+            },
+            {
+              "id": "step_edelheit_12",
+              "type": "choice",
+              "content": "抵抗（不抵抗）"
+            }
+          ]
+        },
+        {
+          "id": "ending_yuu",
+          "name": "忧绪 END",
+          "type": "good",
+          "steps": [
+            {
+              "id": "step_yuu_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_yuu_02",
+              "type": "choice",
+              "content": "跑去忧绪身边"
+            },
+            {
+              "id": "step_yuu_03",
+              "type": "choice",
+              "content": "不，应该已经到这里来了",
+              "prefix": "★"
+            },
+            {
+              "id": "step_yuu_04",
+              "type": "choice",
+              "content": "吉田素爱",
+              "prefix": "★"
+            },
+            {
+              "id": "step_yuu_05",
+              "type": "choice",
+              "content": "问问素爱不要紧吧"
+            },
+            {
+              "id": "step_yuu_06",
+              "type": "choice",
+              "content": "看什么看得那么热心？"
+            },
+            {
+              "id": "step_yuu_07",
+              "type": "choice",
+              "content": "我们也会一起找，所以肯定能找到啦"
+            },
+            {
+              "id": "step_yuu_08",
+              "type": "choice",
+              "content": "为了活跃气氛下次大家热闹一番吧"
+            },
+            {
+              "id": "step_yuu_09",
+              "type": "choice",
+              "content": "你没事吧？"
+            },
+            {
+              "id": "step_yuu_10",
+              "type": "choice",
+              "content": "要我送你吗"
+            },
+            {
+              "id": "step_yuu_11",
+              "type": "choice",
+              "content": "那，那啥，抱歉啊"
+            },
+            {
+              "id": "step_yuu_12",
+              "type": "choice",
+              "content": "话说回来人工生命体到底是什么？"
+            },
+            {
+              "id": "step_yuu_13",
+              "type": "choice",
+              "content": "使用这个遗品，不需要代偿吗？"
+            },
+            {
+              "id": "step_yuu_14",
+              "type": "choice",
+              "content": "这个遗品，必须要用到血吗？"
+            },
+            {
+              "id": "step_yuu_15",
+              "type": "choice",
+              "content": "抱住忧绪",
+              "prefix": "★"
+            },
+            {
+              "id": "step_yuu_16",
+              "type": "choice",
+              "content": "路易，也考虑一下海蒂的感受吧"
+            },
+            {
+              "id": "step_yuu_17",
+              "type": "choice",
+              "content": "使用小霞拿着的魔石吗？",
+              "prefix": "★"
+            },
+            {
+              "id": "step_yuu_18",
+              "type": "choice",
+              "content": "但是，一定很寂寞吧"
+            },
+            {
+              "id": "step_yuu_19",
+              "type": "choice",
+              "content": "这人偶做的真精致"
+            },
+            {
+              "id": "step_yuu_20",
+              "type": "choice",
+              "content": "试着掀她的裙子"
+            },
+            {
+              "id": "step_yuu_21",
+              "type": "choice",
+              "content": "只是在试图和使用者建立联系吧？",
+              "prefix": "★"
+            },
+            {
+              "id": "step_yuu_22",
+              "type": "choice",
+              "content": "那，那就这么做吧"
+            },
+            {
+              "id": "step_yuu_23",
+              "type": "choice",
+              "content": "这是机器人！！"
+            },
+            {
+              "id": "step_yuu_24",
+              "type": "choice",
+              "content": "那是突然袭击没办法的吧"
+            },
+            {
+              "id": "step_yuu_25",
+              "type": "choice",
+              "content": "为什么只拜托我们两个？"
+            },
+            {
+              "id": "step_yuu_26",
+              "type": "choice",
+              "content": "是遗品吧！"
+            },
+            {
+              "id": "step_yuu_27",
+              "type": "choice",
+              "content": "从钟楼入侵",
+              "prefix": "★"
+            },
+            {
+              "id": "step_yuu_28",
+              "type": "choice",
+              "content": "「魔术的活祭」吗？",
+              "prefix": "★"
+            },
+            {
+              "id": "step_yuu_29",
+              "type": "choice",
+              "content": "询问毕业相册的事"
+            },
+            {
+              "id": "step_yuu_30",
+              "type": "choice",
+              "content": "询问以前的学园的事"
+            },
+            {
+              "id": "step_yuu_31",
+              "type": "choice",
+              "content": "询问毕业生的事"
+            },
+            {
+              "id": "step_yuu_32",
+              "type": "choice",
+              "content": "询问毕业相册的事"
+            },
+            {
+              "id": "step_yuu_33",
+              "type": "choice",
+              "content": "询问以前的学园的事"
+            },
+            {
+              "id": "step_yuu_34",
+              "type": "choice",
+              "content": "询问毕业生的事"
+            },
+            {
+              "id": "step_yuu_35",
+              "type": "choice",
+              "content": "诹访吗？",
+              "prefix": "★"
+            },
+            {
+              "id": "step_yuu_36",
+              "type": "choice",
+              "content": "关于灵魂的召唤"
+            },
+            {
+              "id": "step_yuu_37",
+              "type": "choice",
+              "content": "关于意识的占据"
+            },
+            {
+              "id": "step_yuu_38",
+              "type": "choice",
+              "content": "关于外貌的伪装"
+            },
+            {
+              "id": "step_yuu_39",
+              "type": "choice",
+              "content": "关于暗示"
+            },
+            {
+              "id": "step_yuu_40",
+              "type": "choice",
+              "content": "用来使夜之世界的魔术永远不会解开？",
+              "prefix": "★"
+            },
+            {
+              "id": "step_yuu_41",
+              "type": "choice",
+              "content": "背着附近的同伴逃跑"
+            },
+            {
+              "id": "step_yuu_42",
+              "type": "choice",
+              "content": "风纪委员长是人工生命体？",
+              "prefix": "★"
+            },
+            {
+              "id": "step_yuu_43",
+              "type": "choice",
+              "content": "她是想至少让你能够得救吧！"
+            }
+          ]
+        },
+        {
+          "id": "ending_normal",
+          "name": "NORMAL END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_normal_01",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_normal_02",
+              "type": "choice",
+              "content": "我本来就是这么打算的"
+            },
+            {
+              "id": "step_normal_03",
+              "type": "choice",
+              "content": "为什么只拜托我们两个？"
+            },
+            {
+              "id": "step_normal_04",
+              "type": "choice",
+              "content": "垂头丧气"
+            },
+            {
+              "id": "step_normal_05",
+              "type": "choice",
+              "content": "从地下入侵",
+              "prefix": "★"
+            },
+            {
+              "id": "step_normal_06",
+              "type": "choice",
+              "content": "「我不会认同」吗？",
+              "prefix": "★"
+            },
+            {
+              "id": "step_normal_07",
+              "type": "choice",
+              "content": "询问毕业相册的事"
+            },
+            {
+              "id": "step_normal_08",
+              "type": "choice",
+              "content": "询问以前的学园的事"
+            },
+            {
+              "id": "step_normal_09",
+              "type": "choice",
+              "content": "询问毕业生的事"
+            },
+            {
+              "id": "step_normal_10",
+              "type": "choice",
+              "content": "询问毕业相册的事"
+            },
+            {
+              "id": "step_normal_11",
+              "type": "choice",
+              "content": "询问以前的学园的事"
+            },
+            {
+              "id": "step_normal_12",
+              "type": "choice",
+              "content": "询问毕业生的事"
+            },
+            {
+              "id": "step_normal_13",
+              "type": "choice",
+              "content": "百花前辈吗？",
+              "prefix": "★"
+            },
+            {
+              "id": "step_normal_14",
+              "type": "choice",
+              "content": "关于灵魂的召唤"
+            },
+            {
+              "id": "step_normal_15",
+              "type": "choice",
+              "content": "关于意识的占据"
+            },
+            {
+              "id": "step_normal_16",
+              "type": "choice",
+              "content": "关于外貌的伪装"
+            },
+            {
+              "id": "step_normal_17",
+              "type": "choice",
+              "content": "关于暗示"
+            },
+            {
+              "id": "step_normal_18",
+              "type": "choice",
+              "content": "用来强化魔法阵？",
+              "prefix": "★"
+            },
+            {
+              "id": "step_normal_19",
+              "type": "choice",
+              "content": "背着附近的同伴逃跑"
+            },
+            {
+              "id": "step_normal_20",
+              "type": "choice",
+              "content": "风纪委员长是魔女？",
+              "prefix": "★"
+            },
+            {
+              "id": "step_normal_21",
+              "type": "choice",
+              "content": "她是想至少让你能够得救吧！"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

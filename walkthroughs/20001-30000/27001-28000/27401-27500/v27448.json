@@ -1,0 +1,90 @@
+{
+  "vid": "v27448",
+  "name": {
+    "zh-cn": "亚托莉 -我挚爱的时光-",
+    "en-us": "ATRI -My Dear Moments-",
+    "ja-jp": "ATRI -My Dear Moments-",
+    "ja-Latn": "atri-my-dear-moments"
+  },
+  "level": 1,
+  "updatedAt": "2026-02-27",
+  "tips": [
+    "本遊戲共有3個選擇項，其中前面兩點只要有一個選錯就會自動進入壞結局，而且當玩家進行第三次選擇時會直接變成灰色選項(也就是無法選擇)",
+    "遊玩此遊戲最推薦的路程是，壞結局>好結局>真結局",
+    "要達成真結局，要先把前面兩個結局破完，回到主畫面，真結局才會出現"
+  ],
+  "routes": [
+    {
+      "id": "route_1755267861717",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1755268072986",
+          "name": "END 1",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_1755268193998",
+              "type": "choice",
+              "content": "选择把亚托莉交出去"
+            },
+            {
+              "id": "step_1755268194225",
+              "type": "choice",
+              "content": "选择静静地看她"
+            },
+            {
+              "id": "step_1755268194405",
+              "type": "choice",
+              "content": "放着不管"
+            },
+            {
+              "id": "step_1755268213615",
+              "type": "note",
+              "content": "不管前面选择什么，只要在第三次的选择当中选择了放著不管，剧情就会往坏结局方向走下去。"
+            }
+          ]
+        },
+        {
+          "id": "ending_1755268217576",
+          "name": "END 2",
+          "type": "good",
+          "steps": [
+            {
+              "id": "step_1755268246934",
+              "type": "choice",
+              "content": "亚托莉先放在我这"
+            },
+            {
+              "id": "step_1755268247372",
+              "type": "choice",
+              "content": "吻她"
+            },
+            {
+              "id": "step_1755268247678",
+              "type": "choice",
+              "content": "捡起鞋子"
+            }
+          ]
+        },
+        {
+          "id": "ending_1755268274728",
+          "name": "END 2",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_1755268304947",
+              "type": "note",
+              "content": "完成前两个结局后，回到标题，在CONTINUE的上面出现了TRUE END字词后， 选择进入真结局"
+            },
+            {
+              "id": "step_1755268325850",
+              "type": "note",
+              "content": "完成真结局后，标题页面不但会出现Extra，还有可爱的亚托莉也会出现在背景上"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

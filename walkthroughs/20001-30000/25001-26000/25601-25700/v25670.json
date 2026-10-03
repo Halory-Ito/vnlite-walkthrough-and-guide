@@ -1,0 +1,115 @@
+{
+  "vid": "v25670",
+  "name": {
+    "zh-cn": "藏钥匙的笼中鸟",
+    "en-us": "KAGITORI -BIRD IN THE CAGE HIDING THE KEY-",
+    "ja-jp": "鍵を隠したカゴのトリ",
+    "ja-Latn": "kagi-o-kakushita-kago-no-tori"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-15",
+  "routes": [
+    {
+      "id": "route_game",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_mion_end",
+          "name": "美音 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_2",
+              "type": "choice",
+              "content": "青叶鸮 美音"
+            }
+          ]
+        },
+        {
+          "id": "ending_yoru_end",
+          "name": "夜 END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_3",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_4",
+              "type": "choice",
+              "content": "燕泽 夜"
+            },
+            {
+              "id": "step_5",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_6",
+              "type": "choice",
+              "content": "和夜一起去"
+            }
+          ]
+        },
+        {
+          "id": "ending_yoru_normal_end",
+          "name": "夜 END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_7",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_8",
+              "type": "choice",
+              "content": "目送夜离开"
+            }
+          ]
+        },
+        {
+          "id": "ending_izuru_end",
+          "name": "伊鹤 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_9",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_10",
+              "type": "choice",
+              "content": "瑞叶 伊鹤"
+            }
+          ]
+        },
+        {
+          "id": "ending_toko_end",
+          "name": "透子 END",
+          "type": "normal",
+          "requirements": "上述三位角色攻略后",
+          "steps": [
+            {
+              "id": "step_12",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_13",
+              "type": "choice",
+              "content": "孔雀石 透子"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

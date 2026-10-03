@@ -1,0 +1,246 @@
+{
+  "vid": "v12561",
+  "name": {
+    "zh-cn": "心灵演绎！",
+    "ja-jp": "ココロ＠ファンクション !",
+    "ja-Latn": "cocoro-function"
+  },
+  "level": 2,
+  "updatedAt": "2026-04-19",
+  "routes": [
+    {
+      "id": "route_game_guide",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_mizuna_end",
+          "name": "水菜 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_mizuna_01",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_mizuna_02",
+              "type": "choice",
+              "content": "让圣久等了，快走吧"
+            },
+            {
+              "id": "step_mizuna_03",
+              "type": "choice",
+              "content": "先读小霞的邮件吧"
+            },
+            {
+              "id": "step_mizuna_04",
+              "type": "choice",
+              "content": "肯定会很高兴"
+            },
+            {
+              "id": "step_mizuna_05",
+              "type": "choice",
+              "content": "圣真是让人担心啊"
+            },
+            {
+              "id": "step_mizuna_06",
+              "type": "choice",
+              "content": "坦率地说明情况"
+            },
+            {
+              "id": "step_mizuna_07",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_mizuna_08",
+              "type": "choice",
+              "content": "向莲濑打招呼"
+            },
+            {
+              "id": "step_mizuna_09",
+              "type": "choice",
+              "content": "是的"
+            },
+            {
+              "id": "step_mizuna_10",
+              "type": "choice",
+              "content": "我很在意莲濑"
+            }
+          ]
+        },
+        {
+          "id": "ending_hijiri_end",
+          "name": "圣 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_hijiri_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_hijiri_02",
+              "type": "choice",
+              "content": "今天就算了吧"
+            },
+            {
+              "id": "step_hijiri_03",
+              "type": "choice",
+              "content": "到底还是说不出口"
+            },
+            {
+              "id": "step_hijiri_04",
+              "type": "choice",
+              "content": "是的"
+            },
+            {
+              "id": "step_hijiri_05",
+              "type": "choice",
+              "content": "在意圣的事"
+            }
+          ]
+        },
+        {
+          "id": "ending_mebae_end",
+          "name": "芽生 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_mebae_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_mebae_02",
+              "type": "choice",
+              "content": "好久不见，再和双胞胎说话吧"
+            },
+            {
+              "id": "step_mebae_03",
+              "type": "choice",
+              "content": "还是先检查朝颜的邮件"
+            },
+            {
+              "id": "step_mebae_04",
+              "type": "choice",
+              "content": "没有那样的事"
+            },
+            {
+              "id": "step_mebae_05",
+              "type": "choice",
+              "content": "你会吃醋吗"
+            },
+            {
+              "id": "step_mebae_06",
+              "type": "choice",
+              "content": "想蒙混过去"
+            },
+            {
+              "id": "step_mebae_07",
+              "type": "choice",
+              "content": "今天就算了吧"
+            },
+            {
+              "id": "step_mebae_08",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_mebae_09",
+              "type": "choice",
+              "content": "当然要把一切都说出来"
+            },
+            {
+              "id": "step_mebae_10",
+              "type": "choice",
+              "content": "是的"
+            },
+            {
+              "id": "step_mebae_11",
+              "type": "choice",
+              "content": "我很在意莲濑先生"
+            },
+            {
+              "id": "step_mebae_12",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_mebae_13",
+              "type": "choice",
+              "content": "调查芽生"
+            }
+          ]
+        },
+        {
+          "id": "ending_ibuki_end",
+          "name": "伊吹 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_ibuki_01",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_ibuki_02",
+              "type": "choice",
+              "content": "调查伊吹"
+            }
+          ]
+        },
+        {
+          "id": "ending_mebae_ibuki_end",
+          "name": "芽生＆伊吹 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_mebae_ibuki_01",
+              "type": "note",
+              "content": "完成以上 END 后",
+              "prefix": "※"
+            },
+            {
+              "id": "step_mebae_ibuki_02",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_mebae_ibuki_03",
+              "type": "choice",
+              "content": "两个人都很在意"
+            }
+          ]
+        },
+        {
+          "id": "ending_asagao_end",
+          "name": "朝颜 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_asagao_01",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_asagao_02",
+              "type": "choice",
+              "content": "到底还是说不出口"
+            },
+            {
+              "id": "step_asagao_03",
+              "type": "choice",
+              "content": "只是同班同学而已？"
+            },
+            {
+              "id": "step_asagao_04",
+              "type": "choice",
+              "content": "在意圣的事"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

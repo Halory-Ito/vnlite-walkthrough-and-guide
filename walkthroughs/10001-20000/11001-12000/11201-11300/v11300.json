@@ -1,0 +1,174 @@
+{
+  "vid": "v11300",
+  "name": {
+    "zh-cn": "间接之恋",
+    "ja-jp": "ひとつ飛ばし恋愛",
+    "ja-Latn": "hitotsu-tobashi-renai"
+  },
+  "level": 2,
+  "updatedAt": "2026-02-27",
+  "routes": [
+    {
+      "id": "route_1755697491882",
+      "name": "园原 碧里",
+      "endings": [
+        {
+          "id": "ending_1755697523734",
+          "name": "碧里 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755697572454",
+              "type": "choice",
+              "content": "三枝和树去死吧"
+            },
+            {
+              "id": "step_1755697572610",
+              "type": "choice",
+              "content": "跟在理纱后面"
+            },
+            {
+              "id": "step_1755697572763",
+              "type": "choice",
+              "content": "伸出援手"
+            },
+            {
+              "id": "step_1755697572955",
+              "type": "choice",
+              "content": "试着得到巡的帮助"
+            },
+            {
+              "id": "step_1755697573185",
+              "type": "choice",
+              "content": "搬花饰吧"
+            },
+            {
+              "id": "step_1755697573918",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1755697576343",
+              "type": "choice",
+              "content": "去1.1年级的教室看看"
+            },
+            {
+              "id": "step_1755697577115",
+              "type": "choice",
+              "content": "千乃"
+            },
+            {
+              "id": "step_1755697577520",
+              "type": "choice",
+              "content": "莉莎"
+            },
+            {
+              "id": "step_1755697579141",
+              "type": "choice",
+              "content": "樱"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755697680258",
+      "name": "苍木 夏芽",
+      "endings": [
+        {
+          "id": "ending_1755697716511",
+          "name": "夏芽 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755697728503",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1755697730976",
+              "type": "choice",
+              "content": "到3.3年级的教室去看看"
+            },
+            {
+              "id": "step_1755697731146",
+              "type": "choice",
+              "content": "和樱商量"
+            },
+            {
+              "id": "step_1755697731373",
+              "type": "choice",
+              "content": "和巡商量"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755697751152",
+      "name": "寿 理",
+      "endings": [
+        {
+          "id": "ending_1755697754951",
+          "name": "理 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755697763225",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1755697765488",
+              "type": "choice",
+              "content": "到2.2年级的教室去看看"
+            },
+            {
+              "id": "step_1755697765855",
+              "type": "choice",
+              "content": "我们的战斗，今后也会继续……"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755697780505",
+      "name": "玉森 樱",
+      "endings": [
+        {
+          "id": "ending_1755697786522",
+          "name": "樱 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755697805713",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1755697809132",
+              "type": "choice",
+              "content": "到执行委员会办公室去看看"
+            },
+            {
+              "id": "step_1755697809355",
+              "type": "choice",
+              "content": "还是千乃好!"
+            },
+            {
+              "id": "step_1755697809596",
+              "type": "choice",
+              "content": "尽管如此，还是千乃好!"
+            },
+            {
+              "id": "step_1755697809869",
+              "type": "choice",
+              "content": "但是也想攻略辅助角色……!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,886 @@
+{
+  "vid": "v8158",
+  "name": {
+    "zh-cn": "大图书馆的牧羊人",
+    "ja-jp": "大図書館の羊飼い",
+    "ja-Latn": "daitoshokan-no-hitsujikai"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-15",
+  "tips": [
+    "全员攻略完毕后，点击标题画面的八月LOGO，可以进入后宫路线"
+  ],
+  "routes": [
+    {
+      "id": "route_main",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_omi",
+          "name": "绪美 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_omi_01",
+              "type": "choice",
+              "content": "撤退"
+            },
+            {
+              "id": "step_omi_02",
+              "type": "choice",
+              "content": "当个好人"
+            },
+            {
+              "id": "step_omi_03",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_omi_04",
+              "type": "choice",
+              "content": "做个好人"
+            },
+            {
+              "id": "step_omi_05",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_omi_06",
+              "type": "choice",
+              "content": "让白崎来表演"
+            },
+            {
+              "id": "step_omi_07",
+              "type": "choice",
+              "content": "白崎"
+            },
+            {
+              "id": "step_omi_08",
+              "type": "choice",
+              "content": "治愈系的羊驼"
+            },
+            {
+              "id": "step_omi_09",
+              "type": "choice",
+              "content": "音乐方面的书"
+            },
+            {
+              "id": "step_omi_10",
+              "type": "choice",
+              "content": "只是普通朋友"
+            },
+            {
+              "id": "step_omi_11",
+              "type": "choice",
+              "content": "不管，继续看书"
+            },
+            {
+              "id": "step_omi_12",
+              "type": "choice",
+              "content": "是来看书的"
+            },
+            {
+              "id": "step_omi_13",
+              "type": "choice",
+              "content": "配合"
+            },
+            {
+              "id": "step_omi_14",
+              "type": "choice",
+              "content": "白崎的理想很值得认同"
+            },
+            {
+              "id": "step_omi_15",
+              "type": "choice",
+              "content": "白崎那种类型"
+            },
+            {
+              "id": "step_omi_16",
+              "type": "choice",
+              "content": "关心白崎"
+            },
+            {
+              "id": "step_omi_17",
+              "type": "choice",
+              "content": "白崎"
+            },
+            {
+              "id": "step_omi_18",
+              "type": "choice",
+              "content": "佳奈助的想法才是最重要的"
+            },
+            {
+              "id": "step_omi_19",
+              "type": "choice",
+              "content": "知道佳奈助没有手机"
+            },
+            {
+              "id": "step_omi_20",
+              "type": "choice",
+              "content": "那样的活法对我来说是不可能的"
+            },
+            {
+              "id": "step_omi_21",
+              "type": "choice",
+              "content": "舞台"
+            },
+            {
+              "id": "step_omi_22",
+              "type": "choice",
+              "content": "总部"
+            },
+            {
+              "id": "step_omi_23",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_omi_24",
+              "type": "choice",
+              "content": "白崎好可怜"
+            },
+            {
+              "id": "step_omi_25",
+              "type": "choice",
+              "content": "考虑一下白崎的方案"
+            },
+            {
+              "id": "step_omi_26",
+              "type": "choice",
+              "content": "应该站在白崎的那一边"
+            }
+          ]
+        },
+        {
+          "id": "ending_maho",
+          "name": "真帆 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_maho_01",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_maho_02",
+              "type": "choice",
+              "content": "望月学姐说的没错"
+            },
+            {
+              "id": "step_maho_03",
+              "type": "choice",
+              "content": "望月学姐的方案不用变"
+            },
+            {
+              "id": "step_maho_04",
+              "type": "choice",
+              "content": "相信望月学姐的话"
+            }
+          ]
+        },
+        {
+          "id": "ending_tamamo",
+          "name": "玉藻 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_tamamo_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_tamamo_02",
+              "type": "choice",
+              "content": "让樱庭来表演"
+            },
+            {
+              "id": "step_tamamo_03",
+              "type": "choice",
+              "content": "樱庭"
+            },
+            {
+              "id": "step_tamamo_04",
+              "type": "choice",
+              "content": "肉食系的老虎"
+            },
+            {
+              "id": "step_tamamo_05",
+              "type": "choice",
+              "content": "美食方面的书"
+            },
+            {
+              "id": "step_tamamo_06",
+              "type": "choice",
+              "content": "倒也不讨厌"
+            },
+            {
+              "id": "step_tamamo_07",
+              "type": "choice",
+              "content": "去活动室"
+            },
+            {
+              "id": "step_tamamo_08",
+              "type": "choice",
+              "content": "是来看樱庭你的"
+            },
+            {
+              "id": "step_tamamo_09",
+              "type": "choice",
+              "content": "配合"
+            },
+            {
+              "id": "step_tamamo_10",
+              "type": "choice",
+              "content": "学生会的意见是正确的"
+            },
+            {
+              "id": "step_tamamo_11",
+              "type": "choice",
+              "content": "樱庭那种类型"
+            },
+            {
+              "id": "step_tamamo_12",
+              "type": "choice",
+              "content": "关心樱庭"
+            },
+            {
+              "id": "step_tamamo_13",
+              "type": "choice",
+              "content": "樱庭"
+            },
+            {
+              "id": "step_tamamo_14",
+              "type": "choice",
+              "content": "我不希望佳奈助辞退"
+            },
+            {
+              "id": "step_tamamo_15",
+              "type": "choice",
+              "content": "知道佳奈助没有手机"
+            },
+            {
+              "id": "step_tamamo_16",
+              "type": "choice",
+              "content": "那样的活法对我来说是不可能的"
+            },
+            {
+              "id": "step_tamamo_17",
+              "type": "choice",
+              "content": "总部"
+            },
+            {
+              "id": "step_tamamo_18",
+              "type": "choice",
+              "content": "入口"
+            }
+          ]
+        },
+        {
+          "id": "ending_chiri",
+          "name": "千莉 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_chiri_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_chiri_02",
+              "type": "choice",
+              "content": "让御园来表演"
+            },
+            {
+              "id": "step_chiri_03",
+              "type": "choice",
+              "content": "御园"
+            },
+            {
+              "id": "step_chiri_04",
+              "type": "choice",
+              "content": "吉祥物系的松鼠"
+            },
+            {
+              "id": "step_chiri_05",
+              "type": "choice",
+              "content": "男人之间玩摔跤的书"
+            },
+            {
+              "id": "step_chiri_06",
+              "type": "choice",
+              "content": "倒也不讨厌"
+            },
+            {
+              "id": "step_chiri_07",
+              "type": "choice",
+              "content": "不管，继续看书"
+            },
+            {
+              "id": "step_chiri_08",
+              "type": "choice",
+              "content": "是来看书的"
+            },
+            {
+              "id": "step_chiri_09",
+              "type": "choice",
+              "content": "配合"
+            },
+            {
+              "id": "step_chiri_10",
+              "type": "choice",
+              "content": "有没有巧妙的折中方案呢"
+            },
+            {
+              "id": "step_chiri_11",
+              "type": "choice",
+              "content": "御园那种类型"
+            },
+            {
+              "id": "step_chiri_12",
+              "type": "choice",
+              "content": "关心御园"
+            },
+            {
+              "id": "step_chiri_13",
+              "type": "choice",
+              "content": "御园"
+            },
+            {
+              "id": "step_chiri_14",
+              "type": "choice",
+              "content": "佳奈助的想法才是最重要的"
+            },
+            {
+              "id": "step_chiri_15",
+              "type": "choice",
+              "content": "知道佳奈助没有手机"
+            },
+            {
+              "id": "step_chiri_16",
+              "type": "choice",
+              "content": "那样的活法对我来说是不可能的"
+            },
+            {
+              "id": "step_chiri_17",
+              "type": "choice",
+              "content": "入口"
+            },
+            {
+              "id": "step_chiri_18",
+              "type": "choice",
+              "content": "自助餐厅"
+            },
+            {
+              "id": "step_chiri_19",
+              "type": "choice",
+              "content": "应该好好谈谈"
+            },
+            {
+              "id": "step_chiri_20",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_chiri_21",
+              "type": "choice",
+              "content": "为了御园，我再加把劲吧"
+            }
+          ]
+        },
+        {
+          "id": "ending_mizuna",
+          "name": "水结 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_mizuna_01",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_mizuna_02",
+              "type": "choice",
+              "content": "难却芹泽同学的盛情"
+            }
+          ]
+        },
+        {
+          "id": "ending_kana",
+          "name": "佳奈 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_kana_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_kana_02",
+              "type": "choice",
+              "content": "让铃木来表演"
+            },
+            {
+              "id": "step_kana_03",
+              "type": "choice",
+              "content": "铃木"
+            },
+            {
+              "id": "step_kana_04",
+              "type": "choice",
+              "content": "吉祥物系的松鼠"
+            },
+            {
+              "id": "step_kana_05",
+              "type": "choice",
+              "content": "男人之间玩摔跤的书"
+            },
+            {
+              "id": "step_kana_06",
+              "type": "choice",
+              "content": "只是普通朋友"
+            },
+            {
+              "id": "step_kana_07",
+              "type": "choice",
+              "content": "不管，继续看书"
+            },
+            {
+              "id": "step_kana_08",
+              "type": "choice",
+              "content": "是来看书的"
+            },
+            {
+              "id": "step_kana_09",
+              "type": "choice",
+              "content": "配合"
+            },
+            {
+              "id": "step_kana_10",
+              "type": "choice",
+              "content": "有没有巧妙的折中方案呢"
+            },
+            {
+              "id": "step_kana_11",
+              "type": "choice",
+              "content": "铃木那种类型"
+            },
+            {
+              "id": "step_kana_12",
+              "type": "choice",
+              "content": "关心铃木"
+            },
+            {
+              "id": "step_kana_13",
+              "type": "choice",
+              "content": "一起加油吧"
+            },
+            {
+              "id": "step_kana_14",
+              "type": "choice",
+              "content": "铃木"
+            },
+            {
+              "id": "step_kana_15",
+              "type": "choice",
+              "content": "佳奈助的想法才是最重要的"
+            },
+            {
+              "id": "step_kana_16",
+              "type": "choice",
+              "content": "知道佳奈助没有手机"
+            },
+            {
+              "id": "step_kana_17",
+              "type": "choice",
+              "content": "那样的活法对我来说是不可能的"
+            },
+            {
+              "id": "step_kana_18",
+              "type": "choice",
+              "content": "自助餐厅"
+            },
+            {
+              "id": "step_kana_19",
+              "type": "choice",
+              "content": "入口"
+            },
+            {
+              "id": "step_kana_20",
+              "type": "choice",
+              "content": "听取她的妙计"
+            },
+            {
+              "id": "step_kana_21",
+              "type": "save",
+              "content": "SAVE 5"
+            },
+            {
+              "id": "step_kana_22",
+              "type": "choice",
+              "content": "和2人一起去"
+            },
+            {
+              "id": "step_kana_23",
+              "type": "choice",
+              "content": "胸部小的女性"
+            }
+          ]
+        },
+        {
+          "id": "ending_sayumi",
+          "name": "纱弓实 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_sayumi_01",
+              "type": "load",
+              "content": "LOAD 5"
+            },
+            {
+              "id": "step_sayumi_02",
+              "type": "choice",
+              "content": "去追嬉野同学"
+            }
+          ]
+        },
+        {
+          "id": "ending_nagi",
+          "name": "凪 END",
+          "type": "true",
+          "requirements": "※2周目以后",
+          "steps": [
+            {
+              "id": "step_nagi_02",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_nagi_03",
+              "type": "choice",
+              "content": "稍微欺负她一下"
+            },
+            {
+              "id": "step_nagi_04",
+              "type": "choice",
+              "content": "算了还是不指名了"
+            },
+            {
+              "id": "step_nagi_05",
+              "type": "choice",
+              "content": "衣服多碍事"
+            },
+            {
+              "id": "step_nagi_06",
+              "type": "choice",
+              "content": "治愈系的羊驼"
+            },
+            {
+              "id": "step_nagi_07",
+              "type": "choice",
+              "content": "音乐方面的书"
+            },
+            {
+              "id": "step_nagi_08",
+              "type": "choice",
+              "content": "该做的事情都做过了"
+            },
+            {
+              "id": "step_nagi_09",
+              "type": "choice",
+              "content": "不管，继续看书"
+            },
+            {
+              "id": "step_nagi_10",
+              "type": "choice",
+              "content": "是来看书的"
+            },
+            {
+              "id": "step_nagi_11",
+              "type": "choice",
+              "content": "无视"
+            },
+            {
+              "id": "step_nagi_12",
+              "type": "choice",
+              "content": "有没有巧妙的折中方案呢"
+            },
+            {
+              "id": "step_nagi_13",
+              "type": "choice",
+              "content": "所有人都一样喜欢"
+            },
+            {
+              "id": "step_nagi_14",
+              "type": "choice",
+              "content": "静观其变"
+            },
+            {
+              "id": "step_nagi_15",
+              "type": "choice",
+              "content": "不答任何人的名字"
+            },
+            {
+              "id": "step_nagi_16",
+              "type": "choice",
+              "content": "佳奈助的想法才是最重要的"
+            },
+            {
+              "id": "step_nagi_17",
+              "type": "choice",
+              "content": "我们手机的地址知道了"
+            },
+            {
+              "id": "step_nagi_18",
+              "type": "choice",
+              "content": "胸部太大了"
+            },
+            {
+              "id": "step_nagi_19",
+              "type": "choice",
+              "content": "知道佳奈助没有手机"
+            },
+            {
+              "id": "step_nagi_20",
+              "type": "choice",
+              "content": "那样的活法非常值得尊敬"
+            },
+            {
+              "id": "step_nagi_21",
+              "type": "choice",
+              "content": "整体观察"
+            },
+            {
+              "id": "step_nagi_22",
+              "type": "choice",
+              "content": "舞台"
+            },
+            {
+              "id": "step_nagi_23",
+              "type": "save",
+              "content": "SAVE 6"
+            },
+            {
+              "id": "step_nagi_24",
+              "type": "choice",
+              "content": "难得小太刀约我"
+            },
+            {
+              "id": "step_nagi_25",
+              "type": "choice",
+              "content": "想什么时候商量都可以"
+            },
+            {
+              "id": "step_nagi_26",
+              "type": "choice",
+              "content": "不引风波"
+            },
+            {
+              "id": "step_nagi_27",
+              "type": "choice",
+              "content": "中立"
+            },
+            {
+              "id": "step_nagi_28",
+              "type": "choice",
+              "content": "看情况"
+            },
+            {
+              "id": "step_nagi_29",
+              "type": "choice",
+              "content": "挺可爱的嘛"
+            },
+            {
+              "id": "step_nagi_30",
+              "type": "choice",
+              "content": "用笑容来回应"
+            },
+            {
+              "id": "step_nagi_31",
+              "type": "choice",
+              "content": "喜欢黑发"
+            },
+            {
+              "id": "step_nagi_32",
+              "type": "choice",
+              "content": "安慰她"
+            }
+          ]
+        },
+        {
+          "id": "ending_omi2",
+          "name": "绪美 END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_omi2_01",
+              "type": "load",
+              "content": "LOAD 6"
+            },
+            {
+              "id": "step_omi2_02",
+              "type": "choice",
+              "content": "放弃抵抗出门"
+            },
+            {
+              "id": "step_omi2_03",
+              "type": "choice",
+              "content": "OK，你想了解关于什么方面的事"
+            },
+            {
+              "id": "step_omi2_04",
+              "type": "choice",
+              "content": "同级生"
+            },
+            {
+              "id": "step_omi2_05",
+              "type": "choice",
+              "content": "做1年级的同伴"
+            },
+            {
+              "id": "step_omi2_06",
+              "type": "save",
+              "content": "SAVE 7"
+            },
+            {
+              "id": "step_omi2_07",
+              "type": "choice",
+              "content": "做不到"
+            },
+            {
+              "id": "step_omi2_08",
+              "type": "choice",
+              "content": "挺可爱的嘛"
+            },
+            {
+              "id": "step_omi2_09",
+              "type": "choice",
+              "content": "用笑容来回应"
+            },
+            {
+              "id": "step_omi2_10",
+              "type": "choice",
+              "content": "喜欢黑发"
+            },
+            {
+              "id": "step_omi2_11",
+              "type": "save",
+              "content": "SAVE 8"
+            },
+            {
+              "id": "step_omi2_12",
+              "type": "choice",
+              "content": "安慰她"
+            },
+            {
+              "id": "step_omi2_13",
+              "type": "choice",
+              "content": "不作约定"
+            },
+            {
+              "id": "step_omi2_14",
+              "type": "choice",
+              "content": "放着不管"
+            }
+          ]
+        },
+        {
+          "id": "ending_chiri2",
+          "name": "千莉 END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_chiri2_01",
+              "type": "load",
+              "content": "LOAD 8"
+            },
+            {
+              "id": "step_chiri2_02",
+              "type": "choice",
+              "content": "捉弄她一下"
+            },
+            {
+              "id": "step_chiri2_03",
+              "type": "choice",
+              "content": "不作约定"
+            },
+            {
+              "id": "step_chiri2_04",
+              "type": "save",
+              "content": "SAVE 9"
+            },
+            {
+              "id": "step_chiri2_05",
+              "type": "choice",
+              "content": "放着不管"
+            }
+          ]
+        },
+        {
+          "id": "ending_tamamo2",
+          "name": "玉藻 END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_tamamo2_01",
+              "type": "load",
+              "content": "LOAD 9"
+            },
+            {
+              "id": "step_tamamo2_02",
+              "type": "choice",
+              "content": "给她一个台阶下"
+            }
+          ]
+        },
+        {
+          "id": "ending_kana2",
+          "name": "佳奈 END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_kana2_01",
+              "type": "load",
+              "content": "LOAD 7"
+            },
+            {
+              "id": "step_kana2_02",
+              "type": "choice",
+              "content": "若无其事的轻吻一下还OK"
+            },
+            {
+              "id": "step_kana2_03",
+              "type": "choice",
+              "content": "这样啊"
+            },
+            {
+              "id": "step_kana2_04",
+              "type": "choice",
+              "content": "还是不要让她误会了"
+            },
+            {
+              "id": "step_kana2_05",
+              "type": "choice",
+              "content": "没有特别的喜好"
+            },
+            {
+              "id": "step_kana2_06",
+              "type": "choice",
+              "content": "捉弄她一下"
+            },
+            {
+              "id": "step_kana2_07",
+              "type": "choice",
+              "content": "做约定"
+            },
+            {
+              "id": "step_kana2_08",
+              "type": "choice",
+              "content": "放着不管"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

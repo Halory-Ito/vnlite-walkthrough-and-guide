@@ -1,0 +1,290 @@
+{
+  "vid": "v464",
+  "name": {
+    "zh-cn": "あした出逢った少女",
+    "ja-jp": "あした出逢った少女",
+    "ja-Latn": "ashita-deatta-shoujo"
+  },
+  "level": 2,
+  "updatedAt": "2026-05-09",
+  "routes": [
+    {
+      "id": "route_main",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_true",
+          "name": "TRUE END",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_true_01",
+              "type": "choice",
+              "content": "询问关于空的事"
+            },
+            {
+              "id": "step_true_02",
+              "type": "choice",
+              "content": "试着调查一下"
+            },
+            {
+              "id": "step_true_03",
+              "type": "choice",
+              "content": "先阻止"
+            },
+            {
+              "id": "step_true_04",
+              "type": "choice",
+              "content": "说\"让我来搬吧\""
+            },
+            {
+              "id": "step_true_05",
+              "type": "choice",
+              "content": "我，是一时鬼迷心窍了"
+            },
+            {
+              "id": "step_true_06",
+              "type": "choice",
+              "content": "试着询问关于小伦的事"
+            },
+            {
+              "id": "step_true_07",
+              "type": "choice",
+              "content": "试着问问看"
+            },
+            {
+              "id": "step_true_08",
+              "type": "choice",
+              "content": "说\"一起去吧\""
+            },
+            {
+              "id": "step_true_09",
+              "type": "choice",
+              "content": "大叔"
+            },
+            {
+              "id": "step_true_10",
+              "type": "choice",
+              "content": "大婶"
+            },
+            {
+              "id": "step_true_11",
+              "type": "choice",
+              "content": "年轻男子"
+            },
+            {
+              "id": "step_true_12",
+              "type": "choice",
+              "content": "警察"
+            },
+            {
+              "id": "step_true_13",
+              "type": "choice",
+              "content": "到庭院去"
+            },
+            {
+              "id": "step_true_14",
+              "type": "choice",
+              "content": "不，我去看看吧"
+            },
+            {
+              "id": "step_true_15",
+              "type": "choice",
+              "content": "不做蠢事"
+            },
+            {
+              "id": "step_true_16",
+              "type": "choice",
+              "content": "精神病院"
+            },
+            {
+              "id": "step_true_17",
+              "type": "choice",
+              "content": "打电话问问看"
+            },
+            {
+              "id": "step_true_18",
+              "type": "choice",
+              "content": "打招呼"
+            },
+            {
+              "id": "step_true_19",
+              "type": "choice",
+              "content": "其实我已经结婚了…"
+            },
+            {
+              "id": "step_true_20",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_true_21",
+              "type": "choice",
+              "content": "立刻前往"
+            },
+            {
+              "id": "step_true_22",
+              "type": "choice",
+              "content": "带上手枪"
+            },
+            {
+              "id": "step_true_23",
+              "type": "choice",
+              "content": "询问"
+            },
+            {
+              "id": "step_true_24",
+              "type": "choice",
+              "content": "带上"
+            },
+            {
+              "id": "step_true_25",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_true_26",
+              "type": "choice",
+              "content": "感觉有些在意"
+            },
+            {
+              "id": "step_true_27",
+              "type": "choice",
+              "content": "立刻追上去"
+            },
+            {
+              "id": "step_true_28",
+              "type": "choice",
+              "content": "鼓励"
+            },
+            {
+              "id": "step_true_29",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_true_30",
+              "type": "choice",
+              "content": "即使害怕也必须去"
+            },
+            {
+              "id": "step_true_31",
+              "type": "choice",
+              "content": "…果然还是不行"
+            },
+            {
+              "id": "step_true_32",
+              "type": "choice",
+              "content": "只能开枪了"
+            },
+            {
+              "id": "step_true_33",
+              "type": "choice",
+              "content": "用肘部撞击"
+            },
+            {
+              "id": "step_true_34",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_true_35",
+              "type": "choice",
+              "content": "期待明天的炖菜"
+            },
+            {
+              "id": "step_true_36",
+              "type": "choice",
+              "content": "前往湖边"
+            }
+          ]
+        },
+        {
+          "id": "ending_rin",
+          "name": "伦 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_rin_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_rin_02",
+              "type": "choice",
+              "content": "还想和小伦在一起"
+            }
+          ]
+        },
+        {
+          "id": "ending_misato",
+          "name": "美里 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_misato_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_misato_02",
+              "type": "choice",
+              "content": "战斗"
+            }
+          ]
+        },
+        {
+          "id": "ending_sanae",
+          "name": "早苗 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_sanae_01",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_sanae_02",
+              "type": "choice",
+              "content": "即使害怕也必须去"
+            }
+          ]
+        },
+        {
+          "id": "ending_fuyuka",
+          "name": "冬香 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_fuyuka_01",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_fuyuka_02",
+              "type": "choice",
+              "content": "期待明天的炖菜"
+            }
+          ]
+        },
+        {
+          "id": "ending_bad",
+          "name": "BAD END",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_bad_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_bad_02",
+              "type": "choice",
+              "content": "乘车逃跑"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "vid": "v3767",
+  "name": {
+    "zh-cn": "Tiny Dungeon～BLACK and WHITE～",
+    "ja-Latn": "tiny-dungeon-black-and-white"
+  },
+  "level": 2,
+  "updatedAt": "2026-05-07",
+  "routes": [
+    {
+      "id": "route_1778155014865",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1778155028906",
+          "name": "END 1",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_1778155040503",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1778155041162",
+              "type": "choice",
+              "content": "没办法，只有今晚先拜托ヴェル吧"
+            }
+          ]
+        },
+        {
+          "id": "ending_1778155046493",
+          "name": "END 2",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_1778155055591",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1778155057571",
+              "type": "choice",
+              "content": "不行，唯独这点不能让步"
+            },
+            {
+              "id": "step_1778155057831",
+              "type": "choice",
+              "content": "事到如今只能靠当身技了"
+            },
+            {
+              "id": "step_1778155058136",
+              "type": "choice",
+              "content": "孤注一掷使用当身技"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

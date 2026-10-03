@@ -1,0 +1,601 @@
+{
+  "vid": "v195",
+  "name": {
+    "zh-cn": "少女爱上姐姐",
+    "en-us": "Otoboku: Maidens Are Falling For Me",
+    "ja-jp": "処女はお姉さまに恋してる",
+    "ja-Latn": "otome-wa-boku-ni-koishiteru"
+  },
+  "level": 2,
+  "updatedAt": "2026-02-27",
+  "routes": [
+    {
+      "id": "route_1757844311061",
+      "name": "御门 玛利亚",
+      "endings": [
+        {
+          "id": "ending_1757844409437",
+          "name": "玛利亚 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1757844420352",
+              "type": "choice",
+              "content": "从背后支撑住她",
+              "group": "第1话"
+            },
+            {
+              "id": "step_1757844420824",
+              "type": "choice",
+              "content": "是的",
+              "group": "第1话"
+            },
+            {
+              "id": "step_1757844420969",
+              "type": "choice",
+              "content": "传球",
+              "group": "第1话"
+            },
+            {
+              "id": "step_1757844421122",
+              "type": "choice",
+              "content": "因为看起来有趣吧",
+              "group": "第1话"
+            },
+            {
+              "id": "step_1757844421259",
+              "type": "choice",
+              "content": "现在，能做的事…",
+              "group": "第2话"
+            },
+            {
+              "id": "step_1757844421386",
+              "type": "choice",
+              "content": "一起睡",
+              "group": "第2话"
+            },
+            {
+              "id": "step_1757844421537",
+              "type": "choice",
+              "content": "不听了",
+              "group": "第2话"
+            },
+            {
+              "id": "step_1757844421784",
+              "type": "choice",
+              "content": "长跑跑道？",
+              "group": "第2话"
+            },
+            {
+              "id": "step_1757844421907",
+              "type": "choice",
+              "content": "去找玛利亚",
+              "group": "第2话"
+            },
+            {
+              "id": "step_1757844422037",
+              "type": "choice",
+              "content": "暑假",
+              "group": "第2话"
+            },
+            {
+              "id": "step_1757844422169",
+              "type": "choice",
+              "content": "…………",
+              "group": "第2话"
+            },
+            {
+              "id": "step_1757844422395",
+              "type": "save",
+              "content": "SAVE 1",
+              "group": "第3话"
+            },
+            {
+              "id": "step_1757844422596",
+              "type": "choice",
+              "content": "合适地转转盘",
+              "group": "第3话"
+            },
+            {
+              "id": "step_1757844482855",
+              "type": "choice",
+              "content": "邀请一起吃午饭",
+              "group": "第3话"
+            },
+            {
+              "id": "step_1757844482994",
+              "type": "choice",
+              "content": "和盘托出所想的事",
+              "group": "第3话"
+            },
+            {
+              "id": "step_1757844483124",
+              "type": "choice",
+              "content": "不必了",
+              "group": "第4话"
+            },
+            {
+              "id": "step_1757844483248",
+              "type": "choice",
+              "content": "和玛利亚一起吃午饭",
+              "group": "第4话"
+            },
+            {
+              "id": "step_1757844483392",
+              "type": "choice",
+              "content": "没有这回事",
+              "group": "第4话"
+            },
+            {
+              "id": "step_1757844483509",
+              "type": "choice",
+              "content": "小狗………吧",
+              "group": "第4话"
+            },
+            {
+              "id": "step_1757844503061",
+              "type": "choice",
+              "content": "偶尔从东楼道",
+              "group": "第4话"
+            },
+            {
+              "id": "step_1757844503220",
+              "type": "save",
+              "content": "SAVE 2",
+              "group": "第4话"
+            },
+            {
+              "id": "step_1757844503357",
+              "type": "choice",
+              "content": "玛利亚的事……吧",
+              "group": "第5话"
+            },
+            {
+              "id": "step_1757844503642",
+              "type": "choice",
+              "content": "向玛利亚搭话",
+              "group": "第5话"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1757844540660",
+      "name": "严岛 贵子",
+      "endings": [
+        {
+          "id": "ending_1757844545441",
+          "name": "贵子 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1757844548608",
+              "type": "load",
+              "content": "LOAD 2",
+              "group": "第5话"
+            },
+            {
+              "id": "step_1757844551606",
+              "type": "choice",
+              "content": "自己舞台剧的事吧",
+              "group": "第5话"
+            },
+            {
+              "id": "step_1757844551776",
+              "type": "choice",
+              "content": "一个人出发",
+              "group": "第5话"
+            },
+            {
+              "id": "step_1757844551931",
+              "type": "choice",
+              "content": "茶室",
+              "group": "第5话"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1757844599942",
+      "name": "高岛 一子",
+      "endings": [
+        {
+          "id": "ending_1757844607181",
+          "name": "一子 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1757844624576",
+              "type": "load",
+              "content": "LOAD 1",
+              "group": "第3话"
+            },
+            {
+              "id": "step_1757844626153",
+              "type": "choice",
+              "content": "用力地转转盘",
+              "group": "第3话"
+            },
+            {
+              "id": "step_1757844626471",
+              "type": "save",
+              "content": "SAVE 3",
+              "group": "第3话"
+            },
+            {
+              "id": "step_1757844626645",
+              "type": "choice",
+              "content": "从小奏那儿拿",
+              "group": "第3话"
+            },
+            {
+              "id": "step_1757844626847",
+              "type": "choice",
+              "content": "道歉",
+              "group": "第3话"
+            },
+            {
+              "id": "step_1757844655847",
+              "type": "choice",
+              "content": "和盘托出所想的事",
+              "group": "第3话"
+            },
+            {
+              "id": "step_1757844656001",
+              "type": "choice",
+              "content": "不必了",
+              "group": "第4话"
+            },
+            {
+              "id": "step_1757844656118",
+              "type": "choice",
+              "content": "带着小奏逃跑",
+              "group": "第4话"
+            },
+            {
+              "id": "step_1757844656789",
+              "type": "choice",
+              "content": "没有这回事",
+              "group": "第4话"
+            },
+            {
+              "id": "step_1757844656949",
+              "type": "choice",
+              "content": "锁………吧",
+              "group": "第4话"
+            },
+            {
+              "id": "step_1757844679519",
+              "type": "choice",
+              "content": "和平时一样从西楼道",
+              "group": "第4话"
+            },
+            {
+              "id": "step_1757844679662",
+              "type": "choice",
+              "content": "自己舞台剧的事吧",
+              "group": "第5话"
+            },
+            {
+              "id": "step_1757844679777",
+              "type": "choice",
+              "content": "向紫苑搭话",
+              "group": "第5话"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1757844714158",
+      "name": "上冈 由佳里",
+      "endings": [
+        {
+          "id": "ending_1757844720596",
+          "name": "由佳里 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1757844723786",
+              "type": "load",
+              "content": "LOAD 3",
+              "group": "第3话"
+            },
+            {
+              "id": "step_1757844729121",
+              "type": "choice",
+              "content": "从由佳里那儿拿",
+              "group": "第3话"
+            },
+            {
+              "id": "step_1757844729270",
+              "type": "choice",
+              "content": "道歉",
+              "group": "第3话"
+            },
+            {
+              "id": "step_1757844729426",
+              "type": "choice",
+              "content": "和盘托出所想的事",
+              "group": "第3话"
+            },
+            {
+              "id": "step_1757844729582",
+              "type": "choice",
+              "content": "不必了",
+              "group": "第4话"
+            },
+            {
+              "id": "step_1757844729727",
+              "type": "choice",
+              "content": "带着小奏逃跑",
+              "group": "第4话"
+            },
+            {
+              "id": "step_1757844729866",
+              "type": "choice",
+              "content": "没有这回事",
+              "group": "第4话"
+            },
+            {
+              "id": "step_1757844730029",
+              "type": "choice",
+              "content": "小狗………吧",
+              "group": "第4话"
+            },
+            {
+              "id": "step_1757844773071",
+              "type": "choice",
+              "content": "偶尔从东楼道",
+              "group": "第4话"
+            },
+            {
+              "id": "step_1757844777337",
+              "type": "choice",
+              "content": "玛利亚的事……吧",
+              "group": "第5话"
+            },
+            {
+              "id": "step_1757844777491",
+              "type": "choice",
+              "content": "一个人出发",
+              "group": "第5话"
+            },
+            {
+              "id": "step_1757844777649",
+              "type": "choice",
+              "content": "茶室",
+              "group": "第5话"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1757844805605",
+      "name": "周防院 奏",
+      "endings": [
+        {
+          "id": "ending_1757844814853",
+          "name": "奏 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1757844822181",
+              "type": "note",
+              "content": "从头开始（第一话skip）",
+              "group": "第2话"
+            },
+            {
+              "id": "step_1757844826857",
+              "type": "choice",
+              "content": "现在，能做的事…",
+              "group": "第2话"
+            },
+            {
+              "id": "step_1757844827024",
+              "type": "choice",
+              "content": "送回房间",
+              "group": "第2话"
+            },
+            {
+              "id": "step_1757844827193",
+              "type": "choice",
+              "content": "怎么了",
+              "group": "第2话"
+            },
+            {
+              "id": "step_1757844827354",
+              "type": "choice",
+              "content": "不听了",
+              "group": "第2话"
+            },
+            {
+              "id": "step_1757844827496",
+              "type": "choice",
+              "content": "防止偷窥的对策……",
+              "group": "第2话"
+            },
+            {
+              "id": "step_1757844827658",
+              "type": "choice",
+              "content": "拜托紫苑同学",
+              "group": "第2话"
+            },
+            {
+              "id": "step_1757844827814",
+              "type": "choice",
+              "content": "暑假",
+              "group": "第2话"
+            },
+            {
+              "id": "step_1757844827963",
+              "type": "choice",
+              "content": "…………",
+              "group": "第2话"
+            },
+            {
+              "id": "step_1757844828075",
+              "type": "choice",
+              "content": "用力地转转盘",
+              "group": "第3话"
+            },
+            {
+              "id": "step_1757844828239",
+              "type": "choice",
+              "content": "从小奏那儿拿",
+              "group": "第3话"
+            },
+            {
+              "id": "step_1757844896974",
+              "type": "choice",
+              "content": "道歉",
+              "group": "第3话"
+            },
+            {
+              "id": "step_1757844897147",
+              "type": "save",
+              "content": "SAVE 4",
+              "group": "第3话"
+            },
+            {
+              "id": "step_1757844897279",
+              "type": "choice",
+              "content": "和盘托出所想的事",
+              "group": "第3话"
+            },
+            {
+              "id": "step_1757844897408",
+              "type": "choice",
+              "content": "不必了",
+              "group": "第4话"
+            },
+            {
+              "id": "step_1757844897552",
+              "type": "choice",
+              "content": "带着小奏逃跑",
+              "group": "第4话"
+            },
+            {
+              "id": "step_1757844925404",
+              "type": "choice",
+              "content": "没有这回事",
+              "group": "第4话"
+            },
+            {
+              "id": "step_1757844925562",
+              "type": "choice",
+              "content": "拜托了",
+              "group": "第4话"
+            },
+            {
+              "id": "step_1757844925716",
+              "type": "choice",
+              "content": "锁………吧",
+              "group": "第4话"
+            },
+            {
+              "id": "step_1757844925851",
+              "type": "choice",
+              "content": "和平时一样从西楼道",
+              "group": "第4话"
+            },
+            {
+              "id": "step_1757844926258",
+              "type": "choice",
+              "content": "小奏的舞台剧的事…？",
+              "group": "第5话"
+            },
+            {
+              "id": "step_1757844958802",
+              "type": "choice",
+              "content": "一个人出发",
+              "group": "第5话"
+            },
+            {
+              "id": "step_1757844958979",
+              "type": "choice",
+              "content": "念珠店",
+              "group": "第5话"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1757844978257",
+      "name": "十条 紫苑",
+      "endings": [
+        {
+          "id": "ending_1757844984620",
+          "name": "紫苑 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1757844997572",
+              "type": "load",
+              "content": "LOAD 4",
+              "group": "第3话"
+            },
+            {
+              "id": "step_1757845011593",
+              "type": "choice",
+              "content": "沉默",
+              "group": "第3话"
+            },
+            {
+              "id": "step_1757845011745",
+              "type": "choice",
+              "content": "午餐和紫苑同学一启",
+              "group": "第4话"
+            },
+            {
+              "id": "step_1757845011860",
+              "type": "choice",
+              "content": "没有这回事",
+              "group": "第4话"
+            },
+            {
+              "id": "step_1757845012028",
+              "type": "choice",
+              "content": "拜托了",
+              "group": "第4话"
+            },
+            {
+              "id": "step_1757845012177",
+              "type": "choice",
+              "content": "锁………吧",
+              "group": "第4话"
+            },
+            {
+              "id": "step_1757845044389",
+              "type": "choice",
+              "content": "和平时一样从西楼道",
+              "group": "第4话"
+            },
+            {
+              "id": "step_1757845044556",
+              "type": "choice",
+              "content": "小奏的舞台剧的事…？",
+              "group": "第5话"
+            },
+            {
+              "id": "step_1757845044674",
+              "type": "choice",
+              "content": "一个人出发",
+              "group": "第5话"
+            },
+            {
+              "id": "step_1757845044836",
+              "type": "choice",
+              "content": "念珠店",
+              "group": "第5话"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "vid": "v18806",
+  "name": {
+    "zh-cn": "夏之锁",
+    "ja-jp": "夏ノ鎖",
+    "ja-Latn": "natsu-no-kusari"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-14",
+  "tips": [
+    "★选项为多周目追加选项"
+  ],
+  "routes": [
+    {
+      "id": "route_game",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_mizuki_end1",
+          "name": "美月 END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_mizuki_end1_01",
+              "type": "choice",
+              "content": "就是现在！扑过去吧！",
+              "prefix": "★",
+              "group": "路线1&2"
+            },
+            {
+              "id": "step_mizuki_end1_02",
+              "type": "save",
+              "content": "SAVE 1",
+              "prefix": "◆",
+              "group": "路线1&2"
+            },
+            {
+              "id": "step_mizuki_end1_03",
+              "type": "choice",
+              "content": "到这也差不多该原谅了",
+              "group": "路线1&2"
+            },
+            {
+              "id": "step_mizuki_end1_04",
+              "type": "save",
+              "content": "SAVE 2",
+              "prefix": "◆",
+              "group": "路线1&2"
+            },
+            {
+              "id": "step_mizuki_end1_05",
+              "type": "choice",
+              "content": "我是魔鬼？",
+              "group": "路线1&2"
+            },
+            {
+              "id": "step_mizuki_end1_06",
+              "type": "save",
+              "content": "SAVE 3",
+              "prefix": "◆",
+              "group": "路线1&2"
+            },
+            {
+              "id": "step_mizuki_end1_07",
+              "type": "choice",
+              "content": "这不就是自作自受嘛",
+              "group": "路线1&2"
+            }
+          ]
+        },
+        {
+          "id": "ending_mizuki_end2",
+          "name": "美月 END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_mizuki_end2_01",
+              "type": "load",
+              "content": "LOAD 3",
+              "prefix": "◆",
+              "group": "路线1&2"
+            },
+            {
+              "id": "step_mizuki_end2_02",
+              "type": "choice",
+              "content": "一切都是那个女人的错！",
+              "group": "路线1&2"
+            }
+          ]
+        },
+        {
+          "id": "ending_bad_end",
+          "name": "BAD END",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_bad_end_01",
+              "type": "load",
+              "content": "LOAD 1",
+              "prefix": "◆",
+              "group": "路线1&2"
+            },
+            {
+              "id": "step_bad_end_02",
+              "type": "choice",
+              "content": "怎么可能就这样原谅你！",
+              "group": "路线1&2"
+            }
+          ]
+        },
+        {
+          "id": "ending_mizuki_end3",
+          "name": "美月 END3",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_mizuki_end3_01",
+              "type": "load",
+              "content": "LOAD 2",
+              "prefix": "◆",
+              "group": "路线3，TRUE"
+            },
+            {
+              "id": "step_mizuki_end3_02",
+              "type": "choice",
+              "content": "没错，我就是魔鬼。",
+              "group": "路线3，TRUE"
+            },
+            {
+              "id": "step_mizuki_end3_03",
+              "type": "choice",
+              "content": "一切都是那个女人的错！",
+              "group": "路线3，TRUE"
+            }
+          ]
+        },
+        {
+          "id": "ending_true_end",
+          "name": "美月 END4",
+          "type": "true",
+          "requirements": "上述结局完成后，从头开始",
+          "steps": [
+            {
+              "id": "step_true_end_02",
+              "type": "choice",
+              "content": "……再稍微等一下",
+              "group": "路线3，TRUE"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

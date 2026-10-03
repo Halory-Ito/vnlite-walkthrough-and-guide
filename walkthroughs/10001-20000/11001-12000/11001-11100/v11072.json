@@ -1,0 +1,124 @@
+{
+  "vid": "v11072",
+  "name": {
+    "zh-cn": "娇小少女的小夜曲",
+    "en-us": "A Maiden's Serenade",
+    "ja-jp": "ちいさな彼女の小夜曲",
+    "ja-Latn": "chiisana-kanojo-no-serenade"
+  },
+  "level": 2,
+  "updatedAt": "2026-05-12",
+  "routes": [
+    {
+      "id": "route_1778565593795",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1778565600555",
+          "name": "汐音 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1778565613233",
+              "type": "choice",
+              "content": "当时一起放肆玩耍的青梅竹马"
+            },
+            {
+              "id": "step_1778565613453",
+              "type": "choice",
+              "content": "去看看雅"
+            },
+            {
+              "id": "step_1778565614742",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1778565616053",
+              "type": "choice",
+              "content": "去看看汐音"
+            }
+          ]
+        },
+        {
+          "id": "ending_1778565628402",
+          "name": "茉莉 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1778565640743",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1778565641601",
+              "type": "choice",
+              "content": "果然还是去看看茉莉吧"
+            },
+            {
+              "id": "step_1778565643583",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1778565643901",
+              "type": "choice",
+              "content": "弄破丝袜/脱下丝袜"
+            }
+          ]
+        },
+        {
+          "id": "ending_1778565655699",
+          "name": "水夏 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1778565673060",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1778565673662",
+              "type": "choice",
+              "content": "去看看水夏"
+            }
+          ]
+        },
+        {
+          "id": "ending_1778565677294",
+          "name": "枫 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1778565686355",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1778565688183",
+              "type": "choice",
+              "content": "去看看枫"
+            }
+          ]
+        },
+        {
+          "id": "ending_1778565690462",
+          "name": "花梨 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1778565704984",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1778565705352",
+              "type": "choice",
+              "content": "去看看花梨"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

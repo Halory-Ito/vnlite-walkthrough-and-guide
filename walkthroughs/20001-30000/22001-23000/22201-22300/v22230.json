@@ -1,0 +1,278 @@
+{
+  "vid": "v22230",
+  "name": {
+    "zh-cn": "谜语小丑",
+    "en-us": "Riddle Joker",
+    "ja-jp": "Riddle Joker",
+    "ja-Latn": "riddle-joker"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-12",
+  "routes": [
+    {
+      "id": "route_1756025062818",
+      "name": "三司 绫濑",
+      "endings": [
+        {
+          "id": "ending_1756025464732",
+          "name": "绫濑 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756025511245",
+              "type": "choice",
+              "content": "继续检查"
+            },
+            {
+              "id": "step_1756025517350",
+              "type": "choice",
+              "content": "想看妹妹的泳装"
+            },
+            {
+              "id": "step_1756025845374",
+              "type": "choice",
+              "content": "算了",
+              "subfix": "想看妹妹的泳装"
+            },
+            {
+              "id": "step_1756026002615",
+              "type": "choice",
+              "content": "去学生会办公室"
+            },
+            {
+              "id": "step_1756026002962",
+              "type": "choice",
+              "content": "还是老地方吧"
+            },
+            {
+              "id": "step_1756026003340",
+              "type": "choice",
+              "content": "茉优学姐"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756025408228",
+      "name": "在原 七海",
+      "endings": [
+        {
+          "id": "ending_1756026140616",
+          "name": "七海 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756026158549",
+              "type": "choice",
+              "content": "向七海搭话"
+            },
+            {
+              "id": "step_1756026158705",
+              "type": "choice",
+              "content": "想看妹妹的泳装"
+            },
+            {
+              "id": "step_1756026158869",
+              "type": "choice",
+              "content": "装作没听见"
+            },
+            {
+              "id": "step_1783845050437",
+              "type": "choice",
+              "content": "好好夸她两句"
+            },
+            {
+              "id": "step_1756026159194",
+              "type": "choice",
+              "content": "去学生会办公室"
+            },
+            {
+              "id": "step_1756026159383",
+              "type": "choice",
+              "content": "偶尔下下新馆子"
+            },
+            {
+              "id": "step_1756026159600",
+              "type": "choice",
+              "content": "茉优学姐"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756025416639",
+      "name": "式部 茉优",
+      "endings": [
+        {
+          "id": "ending_1756026455716",
+          "name": "茉优 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756026467400",
+              "type": "choice",
+              "content": "继续检查"
+            },
+            {
+              "id": "step_1756026467549",
+              "type": "choice",
+              "content": "想看看二条同学的泳装"
+            },
+            {
+              "id": "step_1756026467692",
+              "type": "choice",
+              "content": "算了",
+              "subfix": "想看妹妹的泳装"
+            },
+            {
+              "id": "step_1756026467976",
+              "type": "choice",
+              "content": "去研究室"
+            },
+            {
+              "id": "step_1756026468109",
+              "type": "choice",
+              "content": "还是老地方吧"
+            },
+            {
+              "id": "step_1756026468330",
+              "type": "choice",
+              "content": "茉优学姐"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756025430384",
+      "name": "二条院 羽月",
+      "endings": [
+        {
+          "id": "ending_1756026710040",
+          "name": "羽月 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756026763217",
+              "type": "choice",
+              "content": "继续检查"
+            },
+            {
+              "id": "step_1756026763474",
+              "type": "choice",
+              "content": "想看看二条同学的泳装"
+            },
+            {
+              "id": "step_1756026763681",
+              "type": "choice",
+              "content": "算了"
+            },
+            {
+              "id": "step_1756026763813",
+              "type": "choice",
+              "content": "去学生会办公室"
+            },
+            {
+              "id": "step_1756026763963",
+              "type": "choice",
+              "content": "还是老地方吧"
+            },
+            {
+              "id": "step_1756026764115",
+              "type": "choice",
+              "content": "二条院同学"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756025430594",
+      "name": "壬生 千咲",
+      "endings": [
+        {
+          "id": "ending_1756027077479",
+          "name": "千咲 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756027182101",
+              "type": "choice",
+              "content": "向七海搭话/继续检查"
+            },
+            {
+              "id": "step_1756027182270",
+              "type": "choice",
+              "content": "看妹妹的泳装"
+            },
+            {
+              "id": "step_1756027182421",
+              "type": "choice",
+              "content": "追问"
+            },
+            {
+              "id": "step_1756027182722",
+              "type": "choice",
+              "content": "去学生会办公室"
+            },
+            {
+              "id": "step_1756027182859",
+              "type": "choice",
+              "content": "偶尔下下新馆子"
+            },
+            {
+              "id": "step_1756027182998",
+              "type": "choice",
+              "content": "壬生"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756025447621",
+      "name": "单身线",
+      "endings": [
+        {
+          "id": "ending_1756027364247",
+          "name": "不变的日常",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756027372204",
+              "type": "choice",
+              "content": "向七海搭话"
+            },
+            {
+              "id": "step_1756027372380",
+              "type": "choice",
+              "content": "想看看二条同学的泳装"
+            },
+            {
+              "id": "step_1756027372561",
+              "type": "choice",
+              "content": "算了"
+            },
+            {
+              "id": "step_1756027372742",
+              "type": "choice",
+              "content": "去学生会办公室"
+            },
+            {
+              "id": "step_1783845160598",
+              "type": "choice",
+              "content": "偶尔下下新馆子"
+            },
+            {
+              "id": "step_1756027374073",
+              "type": "choice",
+              "content": "茉优学姐"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

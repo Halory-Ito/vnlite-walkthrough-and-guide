@@ -1,0 +1,86 @@
+{
+  "vid": "v19713",
+  "name": {
+    "zh-cn": "夏彩恋歌",
+    "ja-jp": "夏彩恋唄",
+    "ja-Latn": "natsuiro-koi-uta"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-14",
+  "routes": [
+    {
+      "id": "route_1772368552697",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1772368568283",
+          "name": "月夜野 悠那",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1772368602232",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1772368603325",
+              "type": "choice",
+              "content": "悠那"
+            }
+          ]
+        },
+        {
+          "id": "ending_1772368568433",
+          "name": "小鳥遊 光",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1772368629046",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1772368630093",
+              "type": "choice",
+              "content": "光"
+            }
+          ]
+        },
+        {
+          "id": "ending_1772368568621",
+          "name": "諏訪 紫苑",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1772368639975",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1772368640820",
+              "type": "choice",
+              "content": "紫苑"
+            }
+          ]
+        },
+        {
+          "id": "ending_1772368569090",
+          "name": "神木 彩花",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1772368764019",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1772368765578",
+              "type": "choice",
+              "content": "想不出来"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

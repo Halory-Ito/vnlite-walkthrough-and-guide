@@ -1,0 +1,131 @@
+{
+  "vid": "v17038",
+  "name": {
+    "zh-cn": "PRIMAL×HEARTS2",
+    "en-us": "PRIMAL HEARTS 2",
+    "ja-Latn": "primal-hearts-2"
+  },
+  "level": 2,
+  "updatedAt": "2026-05-13",
+  "tips": [
+    "各角色攻略结束后，会追加SIDE STORY"
+  ],
+  "routes": [
+    {
+      "id": "route_aristia",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_aristia_end",
+          "name": "阿里斯蒂亚 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_aristia_01",
+              "type": "choice",
+              "content": "成为软件部的经理"
+            },
+            {
+              "id": "step_aristia_02",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_aristia_03",
+              "type": "choice",
+              "content": "月华会"
+            },
+            {
+              "id": "step_aristia_07",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1778664357277",
+              "type": "choice",
+              "content": "阿里斯蒂亚·瓦伦贝利·华藏寺"
+            }
+          ]
+        },
+        {
+          "id": "ending_usagi_end",
+          "name": "月夜野兔 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_usagi_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_usagi_02",
+              "type": "choice",
+              "content": "天道会"
+            },
+            {
+              "id": "step_usagi_06",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_usagi_07",
+              "type": "choice",
+              "content": "月夜野兔"
+            }
+          ]
+        },
+        {
+          "id": "ending_mashiro_end",
+          "name": "栗生真白 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_mashiro_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_mashiro_02",
+              "type": "choice",
+              "content": "栗生真白"
+            }
+          ]
+        },
+        {
+          "id": "ending_rinrin_end",
+          "name": "馆林立 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_rinrin_01",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_rinrin_02",
+              "type": "choice",
+              "content": "馆林立"
+            }
+          ]
+        },
+        {
+          "id": "ending_anna_end",
+          "name": "绵贯杏那 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_anna_01",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_anna_02",
+              "type": "choice",
+              "content": "绵贯杏那"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

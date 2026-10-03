@@ -1,0 +1,257 @@
+{
+  "vid": "v15473",
+  "name": {
+    "zh-cn": "七色轮回",
+    "en-us": "Nanairo Reincarnation",
+    "ja-jp": "なないろリンカネーション",
+    "ja-Latn": "nanairo-reincarnation"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-12",
+  "routes": [
+    {
+      "id": "route_1756192802642",
+      "name": "淹川 琴莉",
+      "endings": [
+        {
+          "id": "ending_1756192821472",
+          "name": "琴莉 END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756192844470",
+              "type": "choice",
+              "content": "那拜托了"
+            },
+            {
+              "id": "step_1756192844666",
+              "type": "choice",
+              "content": "自己试着去叫一下"
+            },
+            {
+              "id": "step_1756192850708",
+              "type": "choice",
+              "content": "老实回答"
+            },
+            {
+              "id": "step_1756192855711",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1756192856984",
+              "type": "choice",
+              "content": "再看会吧"
+            },
+            {
+              "id": "step_1756192857391",
+              "type": "choice",
+              "content": "才没有那回事"
+            },
+            {
+              "id": "step_1756192857856",
+              "type": "choice",
+              "content": "我会尽可能去尝试的"
+            },
+            {
+              "id": "step_1756192874469",
+              "type": "choice",
+              "content": "听一下"
+            },
+            {
+              "id": "step_1756192874613",
+              "type": "choice",
+              "content": "否认"
+            },
+            {
+              "id": "step_1756192874792",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1756192901529",
+              "type": "choice",
+              "content": "你还是担心一下自己比较好哦"
+            },
+            {
+              "id": "step_1756192901688",
+              "type": "choice",
+              "content": "不害怕"
+            },
+            {
+              "id": "step_1756192901917",
+              "type": "choice",
+              "content": "无法做到"
+            },
+            {
+              "id": "step_1756192911638",
+              "type": "choice",
+              "content": "进去吧"
+            },
+            {
+              "id": "step_1756192912340",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_1756192934173",
+              "type": "choice",
+              "content": "离开"
+            },
+            {
+              "id": "step_1756192937166",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_1756192942924",
+              "type": "choice",
+              "content": "不只是那样"
+            }
+          ]
+        },
+        {
+          "id": "ending_1756192958069",
+          "name": "琴莉 END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756192975346",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_1756192976082",
+              "type": "choice",
+              "content": "也许吧"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756192997389",
+      "name": "伏见 梓",
+      "endings": [
+        {
+          "id": "ending_1756193013228",
+          "name": "梓 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756193027284",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1756193028703",
+              "type": "choice",
+              "content": "立即阻止"
+            },
+            {
+              "id": "step_1756193028895",
+              "type": "choice",
+              "content": "确实可能有些靠不住"
+            },
+            {
+              "id": "step_1756193029038",
+              "type": "choice",
+              "content": "你不一起来吗？"
+            },
+            {
+              "id": "step_1756193029196",
+              "type": "choice",
+              "content": "拒绝"
+            },
+            {
+              "id": "step_1756193029354",
+              "type": "choice",
+              "content": "搪塞过去"
+            },
+            {
+              "id": "step_1756193029478",
+              "type": "choice",
+              "content": "都说了没问题的"
+            },
+            {
+              "id": "step_1756193054928",
+              "type": "choice",
+              "content": "其实有点"
+            },
+            {
+              "id": "step_1756193055085",
+              "type": "choice",
+              "content": "我知道了"
+            },
+            {
+              "id": "step_1756193061643",
+              "type": "choice",
+              "content": "我觉得很有魅力啊"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756193080043",
+      "name": "土方 由美",
+      "endings": [
+        {
+          "id": "ending_1756193084018",
+          "name": "由美 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756193086152",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1756193090664",
+              "type": "choice",
+              "content": "都说了没问题的"
+            },
+            {
+              "id": "step_1756193091063",
+              "type": "choice",
+              "content": "其实有点"
+            },
+            {
+              "id": "step_1756193091448",
+              "type": "choice",
+              "content": "我知道了"
+            },
+            {
+              "id": "step_1756193106906",
+              "type": "choice",
+              "content": "恭敬不如从命"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756193133151",
+      "name": "伊予",
+      "endings": [
+        {
+          "id": "ending_1756193137188",
+          "name": "伊予 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756193140587",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1756193142507",
+              "type": "choice",
+              "content": "亲眼确认"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

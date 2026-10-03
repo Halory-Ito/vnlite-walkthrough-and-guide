@@ -1,0 +1,83 @@
+{
+  "vid": "v8038",
+  "name": {
+    "zh-cn": "美少女万华镜 -被诅咒之传说少女-",
+    "en-us": "Bishoujo Mangekyou: A Girl's Cursed Legend",
+    "ja-jp": "美少女万華鏡 -呪われし伝説の少女-",
+    "ja-Latn": "bishoujo-mangekyou-norowareshi-densetsu-no-shoujo"
+  },
+  "level": 2,
+  "updatedAt": "2026-02-27",
+  "routes": [
+    {
+      "id": "route_1746278146574",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1746278244911",
+          "name": "END 1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1746278593032",
+              "type": "choice",
+              "content": "直接来喝我的血就好"
+            },
+            {
+              "id": "step_1746278650099",
+              "type": "choice",
+              "content": "就算这样我依然想要接近雾枝"
+            },
+            {
+              "id": "step_1746278805285",
+              "type": "choice",
+              "content": "里面/外面"
+            },
+            {
+              "id": "step_1746278831783",
+              "type": "choice",
+              "content": "自己也反省一下，原谅雾枝"
+            },
+            {
+              "id": "step_1746278838101",
+              "type": "choice",
+              "content": "紧紧的抱住雾枝"
+            },
+            {
+              "id": "step_1746279406652",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1746278856047",
+              "type": "choice",
+              "content": "原谅雾枝"
+            }
+          ]
+        },
+        {
+          "id": "ending_1746279159597",
+          "name": "END 2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1746279172034",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1746279173797",
+              "type": "choice",
+              "content": "想要报复雾枝"
+            },
+            {
+              "id": "step_1746279246126",
+              "type": "note",
+              "content": "结局后触发后日谈剧情"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

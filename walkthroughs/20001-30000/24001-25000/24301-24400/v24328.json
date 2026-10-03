@@ -1,0 +1,801 @@
+{
+  "vid": "v24328",
+  "name": {
+    "zh-cn": "梦现Re:Master",
+    "en-us": "Yumeutsutsu Re:Master",
+    "ja-jp": "夢現Re:Master",
+    "ja-Latn": "yumeutsutsu-remaster"
+  },
+  "level": 1,
+  "updatedAt": "2026-07-12",
+  "tips": [
+    "攻略妹妹线必须把其他三线通关完毕之后下再进行",
+    "★为二周目选项"
+  ],
+  "routes": [
+    {
+      "id": "route_1758549955740",
+      "name": "无限堂 早希",
+      "endings": [
+        {
+          "id": "ending_1758550537016",
+          "name": "END 1",
+          "type": "good",
+          "steps": [
+            {
+              "id": "step_1758550565772",
+              "type": "choice",
+              "content": "就这样睡吧",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1758550565964",
+              "type": "choice",
+              "content": "因为不知道问什么，所以只能说我会加油的"
+            },
+            {
+              "id": "step_1758550566140",
+              "type": "choice",
+              "content": "赶紧走开"
+            },
+            {
+              "id": "step_1758550566440",
+              "type": "choice",
+              "content": "接受奈奈的提议"
+            },
+            {
+              "id": "step_1758550566627",
+              "type": "choice",
+              "content": "问早希"
+            },
+            {
+              "id": "step_1758550566838",
+              "type": "choice",
+              "content": "就随便听听就好了"
+            },
+            {
+              "id": "step_1758550702140",
+              "type": "choice",
+              "content": "闭嘴"
+            },
+            {
+              "id": "step_1758550702314",
+              "type": "choice",
+              "content": "马上去帮忙"
+            },
+            {
+              "id": "step_1758550702474",
+              "type": "choice",
+              "content": "……有点犹豫"
+            },
+            {
+              "id": "step_1758550702611",
+              "type": "choice",
+              "content": "好的，没问题"
+            },
+            {
+              "id": "step_1758550702764",
+              "type": "choice",
+              "content": "我非常喜欢，紫电海与天山"
+            },
+            {
+              "id": "step_1758550737640",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1758550744146",
+              "type": "choice",
+              "content": "早希演魔女？"
+            },
+            {
+              "id": "step_1758550745067",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1758550754035",
+              "type": "choice",
+              "content": "拒绝"
+            },
+            {
+              "id": "step_1758550754199",
+              "type": "choice",
+              "content": "实际玩一把结局"
+            },
+            {
+              "id": "step_1758550754403",
+              "type": "choice",
+              "content": "祭品更爱魔女"
+            },
+            {
+              "id": "step_1758550754555",
+              "type": "choice",
+              "content": "与奈奈对话"
+            },
+            {
+              "id": "step_1758550754702",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_1758550754902",
+              "type": "choice",
+              "content": "选早希"
+            },
+            {
+              "id": "step_1758551205266",
+              "type": "choice",
+              "content": "要不偷偷拍照吧"
+            },
+            {
+              "id": "step_1758551205456",
+              "type": "choice",
+              "content": "可，可以啊……"
+            },
+            {
+              "id": "step_1758551205633",
+              "type": "choice",
+              "content": "得阻止心才行！"
+            },
+            {
+              "id": "step_1758551205824",
+              "type": "choice",
+              "content": "“梦想”是什么?"
+            },
+            {
+              "id": "step_1758551205965",
+              "type": "choice",
+              "content": "我不否认……"
+            },
+            {
+              "id": "step_1758551206324",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_1758551206143",
+              "type": "choice",
+              "content": "我相信早希！"
+            },
+            {
+              "id": "step_1758715117035",
+              "type": "save",
+              "content": "SAVE 5"
+            },
+            {
+              "id": "step_1758715117221",
+              "type": "choice",
+              "content": "严厉"
+            }
+          ]
+        },
+        {
+          "id": "ending_1758715093110",
+          "name": "END 2",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_1758715096120",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_1758715102845",
+              "type": "choice",
+              "content": "交出被淘汰的剧情文本"
+            }
+          ]
+        },
+        {
+          "id": "ending_1758715168813",
+          "name": "END 3",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_1758715321093",
+              "type": "load",
+              "content": "LOAD 5"
+            },
+            {
+              "id": "step_1758715410189",
+              "type": "choice",
+              "content": "温柔"
+            }
+          ]
+        },
+        {
+          "id": "ending_1758805293055",
+          "name": "END 4",
+          "type": "good",
+          "steps": [
+            {
+              "id": "step_1758805373152",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1758805382806",
+              "type": "choice",
+              "content": "选早希"
+            },
+            {
+              "id": "step_1758805382977",
+              "type": "choice",
+              "content": "姑且争得她的同意"
+            },
+            {
+              "id": "step_1758805383211",
+              "type": "choice",
+              "content": "可，可以啊……"
+            },
+            {
+              "id": "step_1758805383703",
+              "type": "choice",
+              "content": "得阻止心才行！"
+            },
+            {
+              "id": "step_1758805383988",
+              "type": "choice",
+              "content": "“梦想”是什么?"
+            },
+            {
+              "id": "step_1758805384196",
+              "type": "choice",
+              "content": "我，我可没这么猥琐！"
+            },
+            {
+              "id": "step_1758805434656",
+              "type": "choice",
+              "content": "我相信早希！"
+            },
+            {
+              "id": "step_1758805434870",
+              "type": "choice",
+              "content": "严厉"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1758715436267",
+      "name": "太刀花 奈奈",
+      "endings": [
+        {
+          "id": "ending_1758804523294",
+          "name": "END 1",
+          "type": "good",
+          "steps": [
+            {
+              "id": "step_1758804526200",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1758804529101",
+              "type": "choice",
+              "content": "就这样睡吧",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1758804529275",
+              "type": "choice",
+              "content": "因为不知道问什么，所以只能说我会加油的"
+            },
+            {
+              "id": "step_1758804529406",
+              "type": "choice",
+              "content": "赶紧走开"
+            },
+            {
+              "id": "step_1758804529613",
+              "type": "choice",
+              "content": "接受奈奈的提议"
+            },
+            {
+              "id": "step_1758804529777",
+              "type": "choice",
+              "content": "问早希"
+            },
+            {
+              "id": "step_1758805246950",
+              "type": "choice",
+              "content": "认真听（细微的部分也仔细去听!）"
+            },
+            {
+              "id": "step_1758805247110",
+              "type": "choice",
+              "content": "闭嘴（怯弱）"
+            },
+            {
+              "id": "step_1758805247255",
+              "type": "choice",
+              "content": "马上去帮忙"
+            },
+            {
+              "id": "step_1758805623553",
+              "type": "choice",
+              "content": "……有点犹豫"
+            },
+            {
+              "id": "step_1758805623720",
+              "type": "choice",
+              "content": "好的，没问题"
+            },
+            {
+              "id": "step_1758805641676",
+              "type": "choice",
+              "content": "我非常喜欢，紫电海与天山"
+            },
+            {
+              "id": "step_1758805641838",
+              "type": "choice",
+              "content": "早希演魔女？"
+            },
+            {
+              "id": "step_1758805658278",
+              "type": "choice",
+              "content": "接受"
+            },
+            {
+              "id": "step_1758805658694",
+              "type": "choice",
+              "content": "与奈奈对话"
+            },
+            {
+              "id": "step_1758805658973",
+              "type": "choice",
+              "content": "选奈奈"
+            },
+            {
+              "id": "step_1758805659669",
+              "type": "choice",
+              "content": "白狮子的话题！"
+            },
+            {
+              "id": "step_1758805684899",
+              "type": "choice",
+              "content": "还挺努力的"
+            },
+            {
+              "id": "step_1758805685069",
+              "type": "choice",
+              "content": "体育游戏吧"
+            },
+            {
+              "id": "step_1758805685234",
+              "type": "choice",
+              "content": "那我去调解一下"
+            },
+            {
+              "id": "step_1758805685414",
+              "type": "choice",
+              "content": "姐妹情深才好"
+            },
+            {
+              "id": "step_1758805685595",
+              "type": "choice",
+              "content": "大家一起吵闹"
+            },
+            {
+              "id": "step_1758805685757",
+              "type": "save",
+              "content": "SAVE 6"
+            },
+            {
+              "id": "step_1758806066883",
+              "type": "choice",
+              "content": "没看出来是个U盘"
+            },
+            {
+              "id": "step_1758806067087",
+              "type": "choice",
+              "content": "限定芭菲之类的？"
+            },
+            {
+              "id": "step_1758806067274",
+              "type": "choice",
+              "content": "可以啊"
+            },
+            {
+              "id": "step_1758806067694",
+              "type": "choice",
+              "content": "要睡觉的话去床上"
+            },
+            {
+              "id": "step_1758806071965",
+              "type": "save",
+              "content": "SAVE 7"
+            },
+            {
+              "id": "step_1758806072150",
+              "type": "choice",
+              "content": "那边是进行得不顺利……"
+            }
+          ]
+        },
+        {
+          "id": "ending_1758806385397",
+          "name": "END 2",
+          "type": "good",
+          "steps": [
+            {
+              "id": "step_1758806396654",
+              "type": "load",
+              "content": "LOAD 7"
+            },
+            {
+              "id": "step_1758806446480",
+              "type": "choice",
+              "content": "怎么可能就这么算了"
+            }
+          ]
+        },
+        {
+          "id": "ending_1758806385900",
+          "name": "END 3",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_1758806685305",
+              "type": "load",
+              "content": "LOAD 7"
+            },
+            {
+              "id": "step_1758806695651",
+              "type": "choice",
+              "content": "不是的"
+            }
+          ]
+        },
+        {
+          "id": "ending_1758806386310",
+          "name": "END 4",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_1758806774875",
+              "type": "load",
+              "content": "LOAD 7"
+            },
+            {
+              "id": "step_1758806778990",
+              "type": "choice",
+              "content": "尊重奈奈的想法"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1758806791052",
+      "name": "玛丽・马勒",
+      "endings": [
+        {
+          "id": "ending_1758806805222",
+          "name": "END 1",
+          "type": "good",
+          "steps": [
+            {
+              "id": "step_1758807060165",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1758807094105",
+              "type": "choice",
+              "content": "就这样睡吧",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1758807094264",
+              "type": "choice",
+              "content": "因为不知道问什么，所以只能说我会加油的"
+            },
+            {
+              "id": "step_1758807094531",
+              "type": "choice",
+              "content": "赶紧走开"
+            },
+            {
+              "id": "step_1758807094726",
+              "type": "choice",
+              "content": "接受奈奈的提议"
+            },
+            {
+              "id": "step_1758807094859",
+              "type": "choice",
+              "content": "问早希"
+            },
+            {
+              "id": "step_1758807095028",
+              "type": "choice",
+              "content": "就随便听听就好了（感觉听下去的话肯定会累）"
+            },
+            {
+              "id": "step_1758807095174",
+              "type": "choice",
+              "content": "就算这样也要继续说（无谋）"
+            },
+            {
+              "id": "step_1758807118069",
+              "type": "choice",
+              "content": "闭嘴（怯弱）"
+            },
+            {
+              "id": "step_1758807118247",
+              "type": "choice",
+              "content": "马上去帮忙"
+            },
+            {
+              "id": "step_1758807118407",
+              "type": "choice",
+              "content": "……有点犹豫"
+            },
+            {
+              "id": "step_1758807118560",
+              "type": "choice",
+              "content": "好的，没问题"
+            },
+            {
+              "id": "step_1758807118699",
+              "type": "choice",
+              "content": "我非常喜欢，紫电海与天山"
+            },
+            {
+              "id": "step_1758807118879",
+              "type": "choice",
+              "content": "玛丽演魔女？"
+            },
+            {
+              "id": "step_1758807179916",
+              "type": "choice",
+              "content": "拒绝"
+            },
+            {
+              "id": "step_1758807180148",
+              "type": "choice",
+              "content": "实际玩一把结局"
+            },
+            {
+              "id": "step_1758807180390",
+              "type": "choice",
+              "content": "魔女更爱祭品"
+            },
+            {
+              "id": "step_1758807180574",
+              "type": "choice",
+              "content": "与奈奈对话"
+            },
+            {
+              "id": "step_1758807570046",
+              "type": "choice",
+              "content": "不对话"
+            },
+            {
+              "id": "step_1758807570210",
+              "type": "choice",
+              "content": "玛丽"
+            },
+            {
+              "id": "step_1758807570388",
+              "type": "choice",
+              "content": "以后就称呼玛丽亚"
+            },
+            {
+              "id": "step_1758807570514",
+              "type": "choice",
+              "content": "我知道了。我保证"
+            },
+            {
+              "id": "step_1758807588411",
+              "type": "save",
+              "content": "SAVE 8"
+            },
+            {
+              "id": "step_1758807687205",
+              "type": "choice",
+              "content": "祭品的好感度&gt;魔女的好感度"
+            },
+            {
+              "id": "step_1758807687477",
+              "type": "choice",
+              "content": "可是……"
+            },
+            {
+              "id": "step_1758807688786",
+              "type": "save",
+              "content": "SAVE 9"
+            },
+            {
+              "id": "step_1758807691067",
+              "type": "choice",
+              "content": "我……动弹不得"
+            }
+          ]
+        },
+        {
+          "id": "ending_1758807733124",
+          "name": "END 2",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_1758807746263",
+              "type": "load",
+              "content": "LOAD 9"
+            },
+            {
+              "id": "step_1758807751663",
+              "type": "choice",
+              "content": "我保护了玛丽亚"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1758807792042",
+      "name": "柳谷 心",
+      "endings": [
+        {
+          "id": "ending_1758807801031",
+          "name": "END 1",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_1758807820290",
+              "type": "choice",
+              "content": "玩《祭品和魔女》"
+            },
+            {
+              "id": "step_1758807820486",
+              "type": "choice",
+              "content": "不知道到底问些什么好呢"
+            },
+            {
+              "id": "step_1758807820651",
+              "type": "choice",
+              "content": "不走开"
+            },
+            {
+              "id": "step_1758807820977",
+              "type": "choice",
+              "content": "拒绝"
+            },
+            {
+              "id": "step_1758807821231",
+              "type": "choice",
+              "content": "问心"
+            },
+            {
+              "id": "step_1758807821407",
+              "type": "choice",
+              "content": "就随便听听就好了（感觉听下去的话肯定会累）"
+            },
+            {
+              "id": "step_1758807821601",
+              "type": "choice",
+              "content": "就算这样也要继续说（无谋）"
+            },
+            {
+              "id": "step_1758807828876",
+              "type": "choice",
+              "content": "暂时不去帮忙"
+            },
+            {
+              "id": "step_1758807829030",
+              "type": "choice",
+              "content": "感觉……挺好的"
+            },
+            {
+              "id": "step_1758807829196",
+              "type": "choice",
+              "content": "好的，没问题"
+            },
+            {
+              "id": "step_1758807829357",
+              "type": "choice",
+              "content": "赤城家的今日菜单，是什么来着？"
+            },
+            {
+              "id": "step_1758807829520",
+              "type": "choice",
+              "content": "早希演魔女？"
+            },
+            {
+              "id": "step_1758807906600",
+              "type": "choice",
+              "content": "拒绝"
+            },
+            {
+              "id": "step_1758807906780",
+              "type": "choice",
+              "content": "尝试回忆起结局"
+            },
+            {
+              "id": "step_1758807907020",
+              "type": "choice",
+              "content": "不对话"
+            },
+            {
+              "id": "step_1758807907217",
+              "type": "choice",
+              "content": "心"
+            },
+            {
+              "id": "step_1758807907395",
+              "type": "choice",
+              "content": "去追心"
+            },
+            {
+              "id": "step_1758807907689",
+              "type": "choice",
+              "content": "上前搭话"
+            },
+            {
+              "id": "step_1758807907873",
+              "type": "choice",
+              "content": "想和心一起去"
+            },
+            {
+              "id": "step_1758807908060",
+              "type": "choice",
+              "content": "喝左边的玻璃瓶"
+            },
+            {
+              "id": "step_1758807908242",
+              "type": "save",
+              "content": "SAVE 10"
+            },
+            {
+              "id": "step_1758807908403",
+              "type": "choice",
+              "content": "拒绝心"
+            }
+          ]
+        },
+        {
+          "id": "ending_1758807961956",
+          "name": "END 2",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_1758807964180",
+              "type": "load",
+              "content": "LOAD 10"
+            },
+            {
+              "id": "step_1758807966538",
+              "type": "choice",
+              "content": "接受心"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1758807996539",
+      "name": "普通结局",
+      "endings": [
+        {
+          "id": "ending_1758808007525",
+          "name": "普通结局",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1758808016626",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1758808019973",
+              "type": "choice",
+              "content": "先选心后选玛丽"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

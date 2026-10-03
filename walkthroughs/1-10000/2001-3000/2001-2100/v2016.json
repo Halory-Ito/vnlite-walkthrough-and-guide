@@ -1,0 +1,1248 @@
+{
+  "vid": "v2016",
+  "name": {
+    "zh-cn": "装甲恶鬼村正",
+    "en-us": "Full Metal Daemon Muramasa",
+    "ja-jp": "装甲悪鬼村正",
+    "ja-Latn": "soukou-akki-muramasa"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-15",
+  "tips": [
+    "◆为二周目选项"
+  ],
+  "routes": [
+    {
+      "id": "route_full",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_ichijo",
+          "name": "一条 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_001",
+              "type": "choice",
+              "content": "可以信任",
+              "group": "第二篇"
+            },
+            {
+              "id": "step_002",
+              "type": "save",
+              "content": "SAVE 1",
+              "group": "第二篇"
+            },
+            {
+              "id": "step_003",
+              "type": "choice",
+              "content": "让人觉得不够成熟",
+              "group": "第二篇"
+            },
+            {
+              "id": "step_004",
+              "type": "choice",
+              "content": "还是拒绝",
+              "group": "第二篇"
+            },
+            {
+              "id": "step_005",
+              "type": "choice",
+              "content": "不如说绫弥更加……",
+              "group": "第二篇"
+            },
+            {
+              "id": "step_006",
+              "type": "choice",
+              "content": "形状好看的饭团",
+              "group": "第二篇"
+            },
+            {
+              "id": "step_007",
+              "type": "choice",
+              "content": "是",
+              "group": "第三篇"
+            },
+            {
+              "id": "step_008",
+              "type": "choice",
+              "content": "去看看一条",
+              "group": "第三篇"
+            },
+            {
+              "id": "step_009",
+              "type": "choice",
+              "content": "没错",
+              "group": "第三篇"
+            },
+            {
+              "id": "step_010",
+              "type": "choice",
+              "content": "让村正闭嘴",
+              "prefix": "◆",
+              "group": "第三篇"
+            },
+            {
+              "id": "step_011",
+              "type": "save",
+              "content": "SAVE 2",
+              "group": "第三篇"
+            },
+            {
+              "id": "step_012",
+              "type": "choice",
+              "content": "香奈枝",
+              "group": "第三篇"
+            },
+            {
+              "id": "step_013",
+              "type": "choice",
+              "content": "贯彻自己的职责",
+              "group": "第四篇"
+            },
+            {
+              "id": "step_014",
+              "type": "choice",
+              "content": "女儿",
+              "group": "第四篇"
+            },
+            {
+              "id": "step_015",
+              "type": "choice",
+              "content": "……等等",
+              "group": "英雄篇"
+            },
+            {
+              "id": "step_016",
+              "type": "choice",
+              "content": "不能救",
+              "group": "英雄篇"
+            },
+            {
+              "id": "step_017",
+              "type": "choice",
+              "content": "咬紧牙关",
+              "group": "英雄篇"
+            }
+          ]
+        },
+        {
+          "id": "ending_kanae",
+          "name": "香奈枝 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_018",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_019",
+              "type": "choice",
+              "content": "一条",
+              "group": "第三篇"
+            },
+            {
+              "id": "step_020",
+              "type": "choice",
+              "content": "女儿",
+              "group": "第四篇"
+            },
+            {
+              "id": "step_021",
+              "type": "choice",
+              "content": "斩击",
+              "group": "复仇篇"
+            },
+            {
+              "id": "step_022",
+              "type": "choice",
+              "content": "贯彻防御战术",
+              "group": "复仇篇"
+            },
+            {
+              "id": "step_023",
+              "type": "choice",
+              "content": "战斗继续",
+              "group": "复仇篇"
+            },
+            {
+              "id": "step_024",
+              "type": "choice",
+              "content": "有。暂且退避！",
+              "group": "复仇篇"
+            },
+            {
+              "id": "step_025",
+              "type": "choice",
+              "content": "上",
+              "group": "复仇篇"
+            },
+            {
+              "id": "step_026",
+              "type": "choice",
+              "content": "摆出下段姿势，朝上斩击",
+              "group": "复仇篇"
+            },
+            {
+              "id": "step_027",
+              "type": "choice",
+              "content": "回避",
+              "group": "复仇篇"
+            },
+            {
+              "id": "step_028",
+              "type": "choice",
+              "content": "以阴义对抗",
+              "group": "复仇篇"
+            },
+            {
+              "id": "step_029",
+              "type": "choice",
+              "content": "磁装·负极",
+              "group": "复仇篇"
+            },
+            {
+              "id": "step_030",
+              "type": "note",
+              "content": "飞行舰探索",
+              "group": "复仇篇"
+            },
+            {
+              "id": "step_031",
+              "type": "choice",
+              "content": "左方向",
+              "group": "飞行舰探索"
+            },
+            {
+              "id": "step_032",
+              "type": "choice",
+              "content": "往左",
+              "group": "飞行舰探索"
+            },
+            {
+              "id": "step_033",
+              "type": "choice",
+              "content": "往船头方向的门",
+              "group": "飞行舰探索"
+            },
+            {
+              "id": "step_034",
+              "type": "choice",
+              "content": "移动",
+              "group": "飞行舰探索"
+            },
+            {
+              "id": "step_035",
+              "type": "choice",
+              "content": "往船头方向的门",
+              "group": "飞行舰探索"
+            },
+            {
+              "id": "step_036",
+              "type": "choice",
+              "content": "拿液化气罐",
+              "group": "飞行舰探索"
+            },
+            {
+              "id": "step_037",
+              "type": "choice",
+              "content": "往炉子里加火",
+              "group": "飞行舰探索"
+            },
+            {
+              "id": "step_038",
+              "type": "choice",
+              "content": "往船尾方向的门",
+              "group": "飞行舰探索"
+            },
+            {
+              "id": "step_039",
+              "type": "choice",
+              "content": "回到走廊",
+              "group": "飞行舰探索"
+            },
+            {
+              "id": "step_040",
+              "type": "choice",
+              "content": "向船头方向",
+              "group": "飞行舰探索"
+            },
+            {
+              "id": "step_041",
+              "type": "choice",
+              "content": "往右",
+              "group": "飞行舰探索"
+            },
+            {
+              "id": "step_042",
+              "type": "choice",
+              "content": "景明",
+              "group": "飞行舰探索"
+            },
+            {
+              "id": "step_043",
+              "type": "choice",
+              "content": "向船头方向",
+              "group": "飞行舰探索"
+            },
+            {
+              "id": "step_044",
+              "type": "choice",
+              "content": "往右",
+              "group": "飞行舰探索"
+            },
+            {
+              "id": "step_045",
+              "type": "choice",
+              "content": "向船尾方向",
+              "group": "飞行舰探索"
+            },
+            {
+              "id": "step_047",
+              "type": "choice",
+              "content": "往左",
+              "group": "飞行舰探索"
+            },
+            {
+              "id": "step_048",
+              "type": "choice",
+              "content": "回到走廊",
+              "group": "飞行舰探索"
+            },
+            {
+              "id": "step_049",
+              "type": "choice",
+              "content": "向船尾",
+              "group": "飞行舰探索"
+            },
+            {
+              "id": "step_050",
+              "type": "choice",
+              "content": "往左",
+              "group": "飞行舰探索"
+            },
+            {
+              "id": "step_051",
+              "type": "choice",
+              "content": "回到走廊",
+              "group": "飞行舰探索"
+            },
+            {
+              "id": "step_052",
+              "type": "choice",
+              "content": "向船尾",
+              "group": "飞行舰探索"
+            },
+            {
+              "id": "step_053",
+              "type": "choice",
+              "content": "防守",
+              "group": "复仇篇"
+            },
+            {
+              "id": "step_054",
+              "type": "choice",
+              "content": "避开",
+              "group": "复仇篇"
+            },
+            {
+              "id": "step_055",
+              "type": "choice",
+              "content": "暂行逃脱",
+              "group": "复仇篇"
+            },
+            {
+              "id": "step_056",
+              "type": "choice",
+              "content": "西",
+              "group": "复仇篇"
+            },
+            {
+              "id": "step_057",
+              "type": "choice",
+              "content": "上",
+              "group": "复仇篇"
+            },
+            {
+              "id": "step_058",
+              "type": "save",
+              "content": "SAVE 3",
+              "group": "复仇篇"
+            },
+            {
+              "id": "step_059",
+              "type": "choice",
+              "content": "逃跑",
+              "group": "复仇篇"
+            },
+            {
+              "id": "step_060",
+              "type": "choice",
+              "content": "下",
+              "group": "复仇篇"
+            },
+            {
+              "id": "step_061",
+              "type": "choice",
+              "content": "视觉",
+              "group": "复仇篇"
+            },
+            {
+              "id": "step_062",
+              "type": "choice",
+              "content": "下",
+              "group": "复仇篇"
+            },
+            {
+              "id": "step_063",
+              "type": "choice",
+              "content": "为了杀戮",
+              "group": "复仇篇"
+            },
+            {
+              "id": "step_064",
+              "type": "choice",
+              "content": "杀",
+              "group": "复仇篇"
+            },
+            {
+              "id": "step_065",
+              "type": "choice",
+              "content": "与大鸟狮子吼的战斗",
+              "group": "复仇篇"
+            },
+            {
+              "id": "step_066",
+              "type": "choice",
+              "content": "敌骑的视力",
+              "group": "复仇篇"
+            }
+          ]
+        },
+        {
+          "id": "ending_bad_01",
+          "name": "BAD END 1",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_067",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_068",
+              "type": "choice",
+              "content": "攻击",
+              "group": "复仇篇"
+            },
+            {
+              "id": "step_069",
+              "type": "choice",
+              "content": "敌人太刀",
+              "group": "复仇篇"
+            }
+          ]
+        },
+        {
+          "id": "ending_bad_02",
+          "name": "BAD END 2",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_070",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_071",
+              "type": "choice",
+              "content": "等待",
+              "group": "复仇篇"
+            }
+          ]
+        },
+        {
+          "id": "ending_chachamaru",
+          "name": "茶茶丸 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_072",
+              "type": "note",
+              "content": "达成上面所有 END 后，从 SAVE 1 开始。前半部和茶茶丸共通。"
+            },
+            {
+              "id": "step_073",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_074",
+              "type": "choice",
+              "content": "让人觉得个性坦率",
+              "group": "第二篇"
+            },
+            {
+              "id": "step_075",
+              "type": "choice",
+              "content": "如果是婆婆的话……",
+              "group": "第二篇"
+            },
+            {
+              "id": "step_076",
+              "type": "choice",
+              "content": "对于我来说还是村正吧",
+              "group": "第二篇"
+            },
+            {
+              "id": "step_077",
+              "type": "choice",
+              "content": "造型豪迈的饭团",
+              "group": "第二篇"
+            },
+            {
+              "id": "step_078",
+              "type": "save",
+              "content": "SAVE 4",
+              "group": "第三篇"
+            },
+            {
+              "id": "step_079",
+              "type": "choice",
+              "content": "否",
+              "group": "第三篇"
+            },
+            {
+              "id": "step_080",
+              "type": "choice",
+              "content": "留在这里",
+              "group": "第三篇"
+            },
+            {
+              "id": "step_081",
+              "type": "choice",
+              "content": "拜托村正",
+              "group": "第三篇"
+            },
+            {
+              "id": "step_082",
+              "type": "choice",
+              "content": "雷虎",
+              "group": "第三篇"
+            },
+            {
+              "id": "step_083",
+              "type": "choice",
+              "content": "看一条",
+              "group": "第四篇"
+            },
+            {
+              "id": "step_084",
+              "type": "choice",
+              "content": "女儿",
+              "group": "第四篇"
+            },
+            {
+              "id": "step_085",
+              "type": "choice",
+              "content": "就这么办",
+              "group": "魔王篇"
+            },
+            {
+              "id": "step_086",
+              "type": "choice",
+              "content": "……成为不了",
+              "group": "魔王篇"
+            },
+            {
+              "id": "step_087",
+              "type": "save",
+              "content": "SAVE 5",
+              "group": "魔王篇"
+            },
+            {
+              "id": "step_088",
+              "type": "choice",
+              "content": "能够舍弃",
+              "group": "魔王篇"
+            }
+          ]
+        },
+        {
+          "id": "ending_muramasa_kill",
+          "name": "村正 杀 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_089",
+              "type": "load",
+              "content": "LOAD 5"
+            },
+            {
+              "id": "step_090",
+              "type": "choice",
+              "content": "不能舍弃",
+              "group": "魔王篇"
+            },
+            {
+              "id": "step_091",
+              "type": "note",
+              "content": "故乡探索",
+              "group": "魔王篇"
+            },
+            {
+              "id": "step_092",
+              "type": "choice",
+              "content": "郊外",
+              "group": "故乡探索"
+            },
+            {
+              "id": "step_093",
+              "type": "choice",
+              "content": "询问→关于自己的事",
+              "group": "故乡探索"
+            },
+            {
+              "id": "step_094",
+              "type": "choice",
+              "content": "询问→关于目的的事",
+              "group": "故乡探索"
+            },
+            {
+              "id": "step_095",
+              "type": "choice",
+              "content": "移动→祭殿",
+              "group": "故乡探索"
+            },
+            {
+              "id": "step_096",
+              "type": "choice",
+              "content": "询问→关于蜘蛛的事",
+              "group": "故乡探索"
+            },
+            {
+              "id": "step_097",
+              "type": "choice",
+              "content": "询问→关于自己的事",
+              "group": "故乡探索"
+            },
+            {
+              "id": "step_098",
+              "type": "choice",
+              "content": "询问→关于目的的事",
+              "group": "故乡探索"
+            },
+            {
+              "id": "step_099",
+              "type": "choice",
+              "content": "移动→病房",
+              "group": "故乡探索"
+            },
+            {
+              "id": "step_100",
+              "type": "choice",
+              "content": "询问→关于少女的事",
+              "group": "故乡探索"
+            },
+            {
+              "id": "step_101",
+              "type": "choice",
+              "content": "询问→关于自己的事",
+              "group": "故乡探索"
+            },
+            {
+              "id": "step_102",
+              "type": "choice",
+              "content": "询问→关于目的的事",
+              "group": "故乡探索"
+            },
+            {
+              "id": "step_103",
+              "type": "choice",
+              "content": "移动→大宅子",
+              "group": "故乡探索"
+            },
+            {
+              "id": "step_104",
+              "type": "choice",
+              "content": "询问→关于自己的事",
+              "group": "故乡探索"
+            },
+            {
+              "id": "step_105",
+              "type": "choice",
+              "content": "询问→关于目的的事",
+              "group": "故乡探索"
+            },
+            {
+              "id": "step_106",
+              "type": "choice",
+              "content": "移动→后山",
+              "group": "故乡探索"
+            },
+            {
+              "id": "step_107",
+              "type": "choice",
+              "content": "询问→关于自己的事",
+              "group": "故乡探索"
+            },
+            {
+              "id": "step_108",
+              "type": "choice",
+              "content": "询问→关于目的的事",
+              "group": "故乡探索"
+            },
+            {
+              "id": "step_109",
+              "type": "choice",
+              "content": "移动→大宅子",
+              "group": "故乡探索"
+            },
+            {
+              "id": "step_110",
+              "type": "choice",
+              "content": "询问→关于目的的事",
+              "group": "故乡探索"
+            },
+            {
+              "id": "step_111",
+              "type": "choice",
+              "content": "询问→关于光的事",
+              "group": "故乡探索"
+            },
+            {
+              "id": "step_112",
+              "type": "choice",
+              "content": "移动→后山",
+              "group": "故乡探索"
+            },
+            {
+              "id": "step_113",
+              "type": "choice",
+              "content": "询问→关于目的的事",
+              "group": "故乡探索"
+            },
+            {
+              "id": "step_114",
+              "type": "choice",
+              "content": "询问→关于光的事",
+              "group": "故乡探索"
+            },
+            {
+              "id": "step_115",
+              "type": "choice",
+              "content": "移动→郊外",
+              "group": "故乡探索"
+            },
+            {
+              "id": "step_116",
+              "type": "choice",
+              "content": "询问→关于目的的事",
+              "group": "故乡探索"
+            },
+            {
+              "id": "step_117",
+              "type": "choice",
+              "content": "询问→关于光的事",
+              "group": "故乡探索"
+            },
+            {
+              "id": "step_118",
+              "type": "choice",
+              "content": "移动→祭殿",
+              "group": "故乡探索"
+            },
+            {
+              "id": "step_119",
+              "type": "choice",
+              "content": "询问→关于目的的事",
+              "group": "故乡探索"
+            },
+            {
+              "id": "step_120",
+              "type": "choice",
+              "content": "询问→关于光的事",
+              "group": "故乡探索"
+            },
+            {
+              "id": "step_121",
+              "type": "choice",
+              "content": "移动→病房",
+              "group": "故乡探索"
+            },
+            {
+              "id": "step_122",
+              "type": "choice",
+              "content": "达成目的",
+              "group": "魔王篇"
+            },
+            {
+              "id": "step_123",
+              "type": "choice",
+              "content": "杀掉",
+              "group": "魔王篇"
+            },
+            {
+              "id": "step_124",
+              "type": "choice",
+              "content": "刺杀",
+              "group": "魔王篇"
+            },
+            {
+              "id": "step_125",
+              "type": "choice",
+              "content": "郊外",
+              "group": "魔王篇"
+            },
+            {
+              "id": "step_126",
+              "type": "choice",
+              "content": "移动→祭殿",
+              "group": "魔王篇"
+            },
+            {
+              "id": "step_127",
+              "type": "choice",
+              "content": "请求",
+              "group": "魔王篇"
+            },
+            {
+              "id": "step_128",
+              "type": "choice",
+              "content": "移动→病房",
+              "group": "魔王篇"
+            },
+            {
+              "id": "step_129",
+              "type": "choice",
+              "content": "达成目的",
+              "group": "魔王篇"
+            },
+            {
+              "id": "step_130",
+              "type": "choice",
+              "content": "为我杀掉她",
+              "group": "魔王篇"
+            },
+            {
+              "id": "step_131",
+              "type": "choice",
+              "content": "凑斗景明",
+              "group": "魔王篇"
+            },
+            {
+              "id": "step_132",
+              "type": "save",
+              "content": "SAVE 6",
+              "group": "魔王篇"
+            },
+            {
+              "id": "step_133",
+              "type": "choice",
+              "content": "尽可能逃脱到远的方向",
+              "group": "魔王篇"
+            },
+            {
+              "id": "step_134",
+              "type": "save",
+              "content": "SAVE 7",
+              "group": "魔王篇"
+            },
+            {
+              "id": "step_135",
+              "type": "choice",
+              "content": "逃跑",
+              "group": "魔王篇"
+            },
+            {
+              "id": "step_136",
+              "type": "save",
+              "content": "SAVE 8",
+              "group": "魔王篇"
+            },
+            {
+              "id": "step_137",
+              "type": "choice",
+              "content": "留在这里",
+              "group": "魔王篇"
+            },
+            {
+              "id": "step_138",
+              "type": "choice",
+              "content": "不帮助",
+              "group": "魔王篇"
+            },
+            {
+              "id": "step_139",
+              "type": "note",
+              "content": "谜题：五阶层方阵（答案在后面）",
+              "group": "魔王篇"
+            },
+            {
+              "id": "step_140",
+              "type": "choice",
+              "content": "肯定",
+              "group": "魔王篇"
+            },
+            {
+              "id": "step_141",
+              "type": "choice",
+              "content": "否定",
+              "group": "魔王篇"
+            },
+            {
+              "id": "step_143",
+              "type": "choice",
+              "content": "肯定",
+              "group": "魔王篇"
+            },
+            {
+              "id": "step_144",
+              "type": "choice",
+              "content": "村正",
+              "group": "魔王篇"
+            },
+            {
+              "id": "step_145",
+              "type": "save",
+              "content": "SAVE 9",
+              "group": "恶鬼篇"
+            },
+            {
+              "id": "step_146",
+              "type": "choice",
+              "content": "杀",
+              "group": "恶鬼篇"
+            }
+          ]
+        },
+        {
+          "id": "ending_muramasa_true",
+          "name": "村正 TRUE END",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_147",
+              "type": "load",
+              "content": "LOAD 9"
+            },
+            {
+              "id": "step_148",
+              "type": "choice",
+              "content": "……不杀",
+              "group": "恶鬼篇"
+            },
+            {
+              "id": "step_149",
+              "type": "choice",
+              "content": "踏上已选择的路",
+              "group": "恶鬼篇"
+            }
+          ]
+        },
+        {
+          "id": "ending_bad_03",
+          "name": "BAD END 3",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_150",
+              "type": "load",
+              "content": "LOAD 6"
+            },
+            {
+              "id": "step_151",
+              "type": "choice",
+              "content": "寻找遮挡物",
+              "group": "魔王篇"
+            },
+            {
+              "id": "step_152",
+              "type": "choice",
+              "content": "睡觉",
+              "group": "魔王篇"
+            }
+          ]
+        },
+        {
+          "id": "ending_bad_04",
+          "name": "BAD END 4",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_153",
+              "type": "load",
+              "content": "LOAD 7"
+            },
+            {
+              "id": "step_154",
+              "type": "choice",
+              "content": "等待",
+              "group": "魔王篇"
+            }
+          ]
+        },
+        {
+          "id": "ending_bad_05",
+          "name": "BAD END 5",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_155",
+              "type": "load",
+              "content": "LOAD 8"
+            },
+            {
+              "id": "step_156",
+              "type": "choice",
+              "content": "降落到船上",
+              "group": "魔王篇"
+            }
+          ]
+        },
+        {
+          "id": "ending_cg_extra",
+          "name": "CG回收补完",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_157",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_158",
+              "type": "choice",
+              "content": "是",
+              "group": "第三篇"
+            },
+            {
+              "id": "step_159",
+              "type": "choice",
+              "content": "去看看香奈枝",
+              "group": "第三篇"
+            },
+            {
+              "id": "step_160",
+              "type": "choice",
+              "content": "让村正闭嘴",
+              "group": "第三篇"
+            },
+            {
+              "id": "step_161",
+              "type": "choice",
+              "content": "雷虎",
+              "group": "第三篇"
+            },
+            {
+              "id": "step_162",
+              "type": "choice",
+              "content": "看婆婆",
+              "group": "第四篇"
+            },
+            {
+              "id": "step_163",
+              "type": "choice",
+              "content": "女儿",
+              "group": "第四篇"
+            },
+            {
+              "id": "step_164",
+              "type": "choice",
+              "content": "斩击",
+              "group": "复仇篇"
+            },
+            {
+              "id": "step_165",
+              "type": "choice",
+              "content": "贯彻防御战术",
+              "group": "复仇篇"
+            },
+            {
+              "id": "step_166",
+              "type": "choice",
+              "content": "战斗继续",
+              "group": "复仇篇"
+            },
+            {
+              "id": "step_167",
+              "type": "choice",
+              "content": "有。暂且退避！",
+              "group": "复仇篇"
+            },
+            {
+              "id": "step_168",
+              "type": "choice",
+              "content": "上",
+              "group": "复仇篇"
+            },
+            {
+              "id": "step_169",
+              "type": "choice",
+              "content": "摆出下段姿势，朝上斩击",
+              "group": "复仇篇"
+            },
+            {
+              "id": "step_170",
+              "type": "choice",
+              "content": "回避",
+              "group": "复仇篇"
+            },
+            {
+              "id": "step_171",
+              "type": "choice",
+              "content": "以阴义对抗",
+              "group": "复仇篇"
+            },
+            {
+              "id": "step_172",
+              "type": "choice",
+              "content": "磁装·负极",
+              "group": "复仇篇"
+            },
+            {
+              "id": "step_173",
+              "type": "note",
+              "content": "跳过飞行舰探索",
+              "group": "复仇篇"
+            },
+            {
+              "id": "step_174",
+              "type": "choice",
+              "content": "防守",
+              "group": "复仇篇"
+            },
+            {
+              "id": "step_175",
+              "type": "choice",
+              "content": "避开",
+              "group": "复仇篇"
+            },
+            {
+              "id": "step_176",
+              "type": "choice",
+              "content": "暂行逃脱",
+              "group": "复仇篇"
+            },
+            {
+              "id": "step_177",
+              "type": "choice",
+              "content": "西",
+              "group": "复仇篇"
+            },
+            {
+              "id": "step_178",
+              "type": "choice",
+              "content": "上",
+              "group": "复仇篇"
+            },
+            {
+              "id": "step_179",
+              "type": "choice",
+              "content": "逃跑",
+              "group": "复仇篇"
+            },
+            {
+              "id": "step_180",
+              "type": "choice",
+              "content": "下",
+              "group": "复仇篇"
+            },
+            {
+              "id": "step_181",
+              "type": "choice",
+              "content": "视觉",
+              "group": "复仇篇"
+            },
+            {
+              "id": "step_182",
+              "type": "choice",
+              "content": "下",
+              "group": "复仇篇"
+            },
+            {
+              "id": "step_183",
+              "type": "choice",
+              "content": "为了守护",
+              "group": "复仇篇"
+            },
+            {
+              "id": "step_184",
+              "type": "note",
+              "content": "BAD END",
+              "group": "复仇篇"
+            }
+          ]
+        },
+        {
+          "id": "ending_1778290368162",
+          "name": "谜题：五阶层方阵",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1778290376664",
+              "type": "note",
+              "content": "5LEVEL"
+            },
+            {
+              "id": "step_1778290387536",
+              "type": "choice",
+              "content": "121 108 7 20 59"
+            },
+            {
+              "id": "step_1778290388415",
+              "type": "choice",
+              "content": "29 28 122 125 11"
+            },
+            {
+              "id": "step_1778290388740",
+              "type": "choice",
+              "content": "51 15 41 124 84"
+            },
+            {
+              "id": "step_1778290390326",
+              "type": "choice",
+              "content": "78 54 99 24 60"
+            },
+            {
+              "id": "step_1778290390744",
+              "type": "choice",
+              "content": "36 110 46 22 101"
+            },
+            {
+              "id": "step_1778290433889",
+              "type": "note",
+              "content": "4LEVEL"
+            },
+            {
+              "id": "step_1778290443103",
+              "type": "choice",
+              "content": "31 53 112 109 10"
+            },
+            {
+              "id": "step_1778290443330",
+              "type": "choice",
+              "content": "12 82 34 87 100"
+            },
+            {
+              "id": "step_1778290443622",
+              "type": "choice",
+              "content": "103 3 105 8 96"
+            },
+            {
+              "id": "step_1778290443946",
+              "type": "choice",
+              "content": "113 57 9 62 74"
+            },
+            {
+              "id": "step_1778290444264",
+              "type": "choice",
+              "content": "56 120 55 49 35"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

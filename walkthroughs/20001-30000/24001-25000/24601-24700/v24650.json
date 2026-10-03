@@ -1,0 +1,138 @@
+{
+  "vid": "v24650",
+  "name": {
+    "zh-cn": "樱花之色，纷飞之时",
+    "ja-jp": "さくらいろ、舞うころに",
+    "ja-Latn": "sakura-iro-mau-koro-ni"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-14",
+  "routes": [
+    {
+      "id": "route_game_guide",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_mina_end",
+          "name": "美奈 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_mina_01",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_mina_02",
+              "type": "choice",
+              "content": "小雪，会感冒的哦"
+            },
+            {
+              "id": "step_mina_03",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_mina_04",
+              "type": "choice",
+              "content": "我很担心表情凶得吓人的美奈"
+            },
+            {
+              "id": "step_mina_05",
+              "type": "choice",
+              "content": "美奈的将来呢？"
+            }
+          ]
+        },
+        {
+          "id": "ending_rin_end",
+          "name": "凛 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_rin_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_rin_02",
+              "type": "choice",
+              "content": "我很担心凛受的伤"
+            },
+            {
+              "id": "step_rin_03",
+              "type": "choice",
+              "content": "凛和佳美前辈，没事吧？"
+            },
+            {
+              "id": "step_rin_04",
+              "type": "choice",
+              "content": "凛的话，当然……"
+            }
+          ]
+        },
+        {
+          "id": "ending_mariko_end",
+          "name": "茉莉子 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_mariko_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_mariko_02",
+              "type": "choice",
+              "content": "我很担心茉莉姐的身体状况"
+            },
+            {
+              "id": "step_mariko_03",
+              "type": "choice",
+              "content": "去帮茉莉姐吧"
+            },
+            {
+              "id": "step_mariko_04",
+              "type": "choice",
+              "content": "茉莉姐会怎么做呢？"
+            }
+          ]
+        },
+        {
+          "id": "ending_chloe_end",
+          "name": "克萝艾 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_chloe_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_chloe_02",
+              "type": "choice",
+              "content": "看着像是要逃避现实的克萝艾小姐"
+            },
+            {
+              "id": "step_chloe_03",
+              "type": "choice",
+              "content": "克萝艾小姐是怎么想的？"
+            }
+          ]
+        },
+        {
+          "id": "ending_koi_end",
+          "name": "恋 END",
+          "type": "normal",
+          "requirements": "通关任意一人结局后，从标题画面选择脇池恋路线",
+          "steps": [
+            {
+              "type": "choice",
+              "content": "（源站步骤均为空）"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

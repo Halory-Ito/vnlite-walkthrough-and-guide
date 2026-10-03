@@ -1,0 +1,292 @@
+{
+  "vid": "v28633",
+  "name": {
+    "zh-cn": "恋爱决胜战",
+    "en-us": "Renai X Royale - Love's a Battle",
+    "ja-jp": "恋愛×ロワイアル",
+    "ja-Latn": "renai-x-royale"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-11",
+  "routes": [
+    {
+      "id": "route_1755787153849",
+      "name": "花丸 茉莉",
+      "endings": [
+        {
+          "id": "ending_1755787155851",
+          "name": "茉莉 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755787162803",
+              "type": "choice",
+              "content": "打个招呼"
+            },
+            {
+              "id": "step_1755787164208",
+              "type": "choice",
+              "content": "我只是做个假设"
+            },
+            {
+              "id": "step_1755787164610",
+              "type": "choice",
+              "content": "小茉莉"
+            },
+            {
+              "id": "step_1755787165394",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1755787166333",
+              "type": "choice",
+              "content": "交给紫苑小姐"
+            },
+            {
+              "id": "step_1755787167466",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1755787168293",
+              "type": "choice",
+              "content": "不去请求"
+            },
+            {
+              "id": "step_1755787168599",
+              "type": "choice",
+              "content": "即使这样也不请求"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755787189931",
+      "name": "梁染 汐音",
+      "endings": [
+        {
+          "id": "ending_1755787193220",
+          "name": "汐音 END",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_1755787210453",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1755787213159",
+              "type": "choice",
+              "content": "请求小苍"
+            },
+            {
+              "id": "step_1755787213689",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_1755787214288",
+              "type": "choice",
+              "content": "才不让给别人呢"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755787235107",
+      "name": "小苍＆梁染 汐音",
+      "endings": [
+        {
+          "id": "ending_1755787238915",
+          "name": "小苍＆汐音 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755787310325",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1755787315272",
+              "type": "choice",
+              "content": "也好 让小苍也体验一下"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755787334115",
+      "name": "小町 乃乃香",
+      "endings": [
+        {
+          "id": "ending_1755787342656",
+          "name": "乃乃香 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755787349225",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1755787350236",
+              "type": "choice",
+              "content": "去找小莲菜"
+            },
+            {
+              "id": "step_1755787351448",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_1755787352236",
+              "type": "choice",
+              "content": "做个可爱的后辈就好"
+            },
+            {
+              "id": "step_1755787353198",
+              "type": "save",
+              "content": "SAVE 5"
+            },
+            {
+              "id": "step_1755787353959",
+              "type": "choice",
+              "content": "……是么"
+            },
+            {
+              "id": "step_1755787354770",
+              "type": "save",
+              "content": "SAVE 6"
+            },
+            {
+              "id": "step_1755787357029",
+              "type": "choice",
+              "content": "好像妹妹也行"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755787392950",
+      "name": "辉 由奈",
+      "endings": [
+        {
+          "id": "ending_1755787408797",
+          "name": "由奈 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755787416129",
+              "type": "load",
+              "content": "LOAD 5"
+            },
+            {
+              "id": "step_1755787417599",
+              "type": "choice",
+              "content": "为小由奈献上一切"
+            },
+            {
+              "id": "step_1755787417772",
+              "type": "choice",
+              "content": "胸部(大腿)(手)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755787401551",
+      "name": "鬼灯 育代",
+      "endings": [
+        {
+          "id": "ending_1755787477660",
+          "name": "育代 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755787493735",
+              "type": "load",
+              "content": "LOAD 6"
+            },
+            {
+              "id": "step_1755787523629",
+              "type": "choice",
+              "content": "不行 这不符合伦理吧"
+            },
+            {
+              "id": "step_1755787524516",
+              "type": "save",
+              "content": "SAVE 7"
+            },
+            {
+              "id": "step_1755787525591",
+              "type": "choice",
+              "content": "陪班长"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755787401712",
+      "name": "栗井 千弥",
+      "endings": [
+        {
+          "id": "ending_1755787563043",
+          "name": "千弥 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755787584342",
+              "type": "load",
+              "content": "LOAD 7"
+            },
+            {
+              "id": "step_1755787591066",
+              "type": "choice",
+              "content": "等一等良徳他们"
+            },
+            {
+              "id": "step_1755787594810",
+              "type": "save",
+              "content": "SAVE 8"
+            },
+            {
+              "id": "step_1755787603223",
+              "type": "choice",
+              "content": "和千弥玩"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755787402083",
+      "name": "影近 良德",
+      "endings": [
+        {
+          "id": "ending_1755787628473",
+          "name": "良徳 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755787635989",
+              "type": "load",
+              "content": "LOAD 8"
+            },
+            {
+              "id": "step_1755787643930",
+              "type": "choice",
+              "content": "我找良德就行……！"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

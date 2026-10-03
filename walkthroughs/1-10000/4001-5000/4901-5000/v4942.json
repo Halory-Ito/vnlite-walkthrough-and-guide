@@ -1,0 +1,298 @@
+{
+  "vid": "v4942",
+  "name": {
+    "zh-cn": "神风探索者",
+    "ja-jp": "カミカゼ☆エクスプローラー！",
+    "ja-Latn": "kamikaze-explorer"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-14",
+  "routes": [
+    {
+      "id": "route_game_guide",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_fuka_end",
+          "name": "风花 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_fuka_01",
+              "type": "choice",
+              "content": "称赞佑天寺模仿的叫声"
+            },
+            {
+              "id": "step_fuka_02",
+              "type": "choice",
+              "content": "道歉"
+            },
+            {
+              "id": "step_fuka_03",
+              "type": "choice",
+              "content": "真的很谢谢你"
+            },
+            {
+              "id": "step_fuka_04",
+              "type": "choice",
+              "content": "在那个意思上果然会是琴羽"
+            },
+            {
+              "id": "step_fuka_05",
+              "type": "choice",
+              "content": "提醒她"
+            },
+            {
+              "id": "step_fuka_06",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_fuka_07",
+              "type": "choice",
+              "content": "视线跑到姬川的欧派去"
+            },
+            {
+              "id": "step_fuka_08",
+              "type": "choice",
+              "content": "用真挚的眼神看回去"
+            },
+            {
+              "id": "step_fuka_09",
+              "type": "choice",
+              "content": "拜托她多多照顾真奈美"
+            },
+            {
+              "id": "step_fuka_10",
+              "type": "choice",
+              "content": "坦白地说明"
+            },
+            {
+              "id": "step_fuka_11",
+              "type": "choice",
+              "content": "其实是对我有……"
+            },
+            {
+              "id": "step_fuka_12",
+              "type": "choice",
+              "content": "因为很舒服"
+            },
+            {
+              "id": "step_fuka_13",
+              "type": "choice",
+              "content": "跑到姬川身边"
+            },
+            {
+              "id": "step_fuka_14",
+              "type": "choice",
+              "content": "果然视线还是会不禁看向一晃一晃的那边"
+            },
+            {
+              "id": "step_fuka_15",
+              "type": "choice",
+              "content": "也询问一下宇佐美前辈"
+            }
+          ]
+        },
+        {
+          "id": "ending_mishio_end",
+          "name": "美汐 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_mishio_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_mishio_02",
+              "type": "choice",
+              "content": "视线跑到汀小姐的欧派去"
+            },
+            {
+              "id": "step_mishio_03",
+              "type": "choice",
+              "content": "用真挚的眼神看回去"
+            },
+            {
+              "id": "step_mishio_04",
+              "type": "choice",
+              "content": "拜托她多多照顾真奈美"
+            },
+            {
+              "id": "step_mishio_05",
+              "type": "choice",
+              "content": "装蒜到底"
+            },
+            {
+              "id": "step_mishio_06",
+              "type": "choice",
+              "content": "太单纯了……"
+            },
+            {
+              "id": "step_mishio_07",
+              "type": "choice",
+              "content": "蒙混过去"
+            },
+            {
+              "id": "step_mishio_08",
+              "type": "choice",
+              "content": "跑到真奈美身边"
+            },
+            {
+              "id": "step_mishio_09",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_mishio_10",
+              "type": "choice",
+              "content": "果然视线还是会不禁看向一晃一晃的那边"
+            },
+            {
+              "id": "step_mishio_11",
+              "type": "choice",
+              "content": "替佑天寺打圆场"
+            }
+          ]
+        },
+        {
+          "id": "ending_saori_end",
+          "name": "沙织 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_saori_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_saori_02",
+              "type": "choice",
+              "content": "宇佐美前辈那样的大小感觉很可爱也不错"
+            },
+            {
+              "id": "step_saori_03",
+              "type": "choice",
+              "content": "也询问一下宇佐美前辈"
+            }
+          ]
+        },
+        {
+          "id": "ending_kotoha_end",
+          "name": "琴羽 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_kotoha_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_kotoha_02",
+              "type": "choice",
+              "content": "视线跑到琴羽的欧派去"
+            },
+            {
+              "id": "step_kotoha_03",
+              "type": "choice",
+              "content": "询问她"
+            },
+            {
+              "id": "step_kotoha_04",
+              "type": "choice",
+              "content": "拜托她多多照顾真奈美"
+            },
+            {
+              "id": "step_kotoha_05",
+              "type": "choice",
+              "content": "装蒜到底"
+            },
+            {
+              "id": "step_kotoha_06",
+              "type": "choice",
+              "content": "太单纯了……"
+            },
+            {
+              "id": "step_kotoha_07",
+              "type": "choice",
+              "content": "蒙混过去"
+            },
+            {
+              "id": "step_kotoha_08",
+              "type": "choice",
+              "content": "跑到真奈美身边"
+            },
+            {
+              "id": "step_kotoha_09",
+              "type": "choice",
+              "content": "果然视线还是会不禁看向一晃一晃的那边"
+            },
+            {
+              "id": "step_kotoha_10",
+              "type": "choice",
+              "content": "也询问一下宇佐美前辈"
+            }
+          ]
+        },
+        {
+          "id": "ending_manami_end",
+          "name": "真奈美 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_manami_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_manami_02",
+              "type": "choice",
+              "content": "视线跑到真奈美的欧派去"
+            },
+            {
+              "id": "step_manami_03",
+              "type": "choice",
+              "content": "询问她"
+            },
+            {
+              "id": "step_manami_04",
+              "type": "choice",
+              "content": "炫耀真奈美"
+            },
+            {
+              "id": "step_manami_05",
+              "type": "choice",
+              "content": "坦白地说明"
+            },
+            {
+              "id": "step_manami_06",
+              "type": "choice",
+              "content": "太单纯了……"
+            },
+            {
+              "id": "step_manami_07",
+              "type": "choice",
+              "content": "蒙混过去"
+            },
+            {
+              "id": "step_manami_08",
+              "type": "choice",
+              "content": "跑到真奈美身边"
+            },
+            {
+              "id": "step_manami_09",
+              "type": "choice",
+              "content": "果然视线还是会不禁看向一晃一晃的那边"
+            },
+            {
+              "id": "step_manami_10",
+              "type": "choice",
+              "content": "也询问一下宇佐美前辈"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "vid": "v45481",
+  "name": {
+    "zh-cn": "恋し彩る正義爛漫",
+    "ja-jp": "恋し彩る正義爛漫",
+    "ja-Latn": "koishi-irodoru-seigiranman"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-13",
+  "routes": [
+    {
+      "id": "route_1761659944696",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1761660042061",
+          "name": "白河 美栗",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1761660108026",
+              "type": "choice",
+              "content": "关于美栗"
+            },
+            {
+              "id": "step_1761660110699",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1761660112966",
+              "type": "choice",
+              "content": "以美栗结束"
+            }
+          ]
+        },
+        {
+          "id": "ending_1761660042237",
+          "name": "黒羽 雪朱",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1761660252243",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1761660253597",
+              "type": "choice",
+              "content": "以黑羽结束"
+            }
+          ]
+        },
+        {
+          "id": "ending_1761660042470",
+          "name": "武部 光",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1761660312027",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1761660314739",
+              "type": "choice",
+              "content": "以光结束"
+            }
+          ]
+        },
+        {
+          "id": "ending_1761660043308",
+          "name": "大利根 不二花",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1761660330427",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1761660334798",
+              "type": "choice",
+              "content": "在奥托内结束"
+            }
+          ]
+        },
+        {
+          "id": "ending_1761660043831",
+          "name": "白河 桃代",
+          "type": "normal",
+          "requirements": "※攻略4人后",
+          "steps": [
+            {
+              "id": "step_1761660453220",
+              "type": "choice",
+              "content": "从头开始"
+            },
+            {
+              "id": "step_1761660453369",
+              "type": "choice",
+              "content": "关于桃代"
+            },
+            {
+              "id": "step_1761660453661",
+              "type": "choice",
+              "content": "以桃代结束"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

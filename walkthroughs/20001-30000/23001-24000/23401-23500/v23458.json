@@ -1,0 +1,82 @@
+{
+  "vid": "v23458",
+  "name": {
+    "zh-cn": "少女与野兽",
+    "ja-jp": "その日の獣には、",
+    "ja-Latn": "sono-hi-no-kemono-ni-wa"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-12",
+  "routes": [
+    {
+      "id": "route_1756113728000",
+      "name": "池贝 舞雪",
+      "endings": [
+        {
+          "id": "ending_1756113966141",
+          "name": "舞雪 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756113982970",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1756113985148",
+              "type": "choice",
+              "content": "舞雪"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756113843938",
+      "name": "友濑 瑠奈",
+      "endings": [
+        {
+          "id": "ending_1756114051087",
+          "name": "瑠奈 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756114068849",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1756114069319",
+              "type": "choice",
+              "content": "瑠奈"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756113868136",
+      "name": "深滨 祈莉",
+      "endings": [
+        {
+          "id": "ending_1756114081037",
+          "name": "祈莉 END",
+          "type": "normal",
+          "requirements": "以上两人攻略后解锁",
+          "steps": [
+            {
+              "id": "step_1756114112231",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1756114117482",
+              "type": "choice",
+              "content": "祈莉"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "vid": "v23",
+  "name": {
+    "zh-cn": "终有一日愿遂彼空",
+    "ja-jp": "いつか、届く、あの空に。",
+    "ja-Latn": "itsuka-todoku-ano-sora-ni"
+  },
+  "level": 2,
+  "updatedAt": "2026-02-27",
+  "routes": [
+    {
+      "id": "route_1756448867702",
+      "name": "唯井 双见",
+      "endings": [
+        {
+          "id": "ending_1756448886414",
+          "name": "双见 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756448889403",
+              "type": "choice",
+              "content": "阻止"
+            },
+            {
+              "id": "step_1756448894565",
+              "type": "choice",
+              "content": "不屑地说道「我才不管什么公主」的平民"
+            },
+            {
+              "id": "step_1756448903024",
+              "type": "choice",
+              "content": "非常抱歉....."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756448921179",
+      "name": "樱守姬 此芽",
+      "endings": [
+        {
+          "id": "ending_1756448922952",
+          "name": "此芽 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756448930067",
+              "type": "choice",
+              "content": "恶魔"
+            },
+            {
+              "id": "step_1756448932936",
+              "type": "choice",
+              "content": "看情况"
+            },
+            {
+              "id": "step_1756448935730",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1756448939076",
+              "type": "choice",
+              "content": "训斥道「胆敢对公主殿下无礼！」的贵族"
+            },
+            {
+              "id": "step_1756448939289",
+              "type": "choice",
+              "content": "回答樱守姬的提问"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756448984697",
+      "name": "明日宿 伞",
+      "endings": [
+        {
+          "id": "ending_1756448988452",
+          "name": "伞 end",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756448991976",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1756448995455",
+              "type": "choice",
+              "content": "不屑地说道「我才不管什么公主」的平民"
+            },
+            {
+              "id": "step_1756448995676",
+              "type": "choice",
+              "content": "非常抱歉....."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

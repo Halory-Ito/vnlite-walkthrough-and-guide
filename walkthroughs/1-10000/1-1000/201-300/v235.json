@@ -1,0 +1,800 @@
+{
+  "vid": "v235",
+  "name": {
+    "zh-cn": "雫",
+    "ja-jp": "雫",
+    "ja-Latn": "shizuku"
+  },
+  "level": 2,
+  "updatedAt": "2026-04-08",
+  "routes": [
+    {
+      "id": "route_saori",
+      "name": "沙织",
+      "endings": [
+        {
+          "id": "ending_saori_bad",
+          "name": "沙织 END1",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_01",
+              "type": "choice",
+              "content": "很早以前就有神经过敏的感觉"
+            },
+            {
+              "id": "step_02",
+              "type": "choice",
+              "content": "这样的话已经厌烦了"
+            }
+          ]
+        },
+        {
+          "id": "ending_saori_bad_1",
+          "name": "沙织 END2",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_03",
+              "type": "choice",
+              "content": "用了奇怪的药"
+            },
+            {
+              "id": "step_04",
+              "type": "choice",
+              "content": "不知为什么，我被疯狂这个词深深吸引了"
+            },
+            {
+              "id": "step_05",
+              "type": "choice",
+              "content": "说明白了就接受吧。"
+            },
+            {
+              "id": "step_06",
+              "type": "choice",
+              "content": "我决定回教室"
+            },
+            {
+              "id": "step_07",
+              "type": "choice",
+              "content": "告诉我你看到可疑人影的时候"
+            },
+            {
+              "id": "step_08",
+              "type": "choice",
+              "content": "坦率地说明一切"
+            },
+            {
+              "id": "step_09",
+              "type": "choice",
+              "content": "…是8点半"
+            },
+            {
+              "id": "step_10",
+              "type": "choice",
+              "content": "…这里"
+            },
+            {
+              "id": "step_11",
+              "type": "choice",
+              "content": "…食物"
+            },
+            {
+              "id": "step_12",
+              "type": "choice",
+              "content": "找新城去体育馆"
+            },
+            {
+              "id": "step_13",
+              "type": "choice",
+              "content": "到处寻找新城"
+            },
+            {
+              "id": "step_14",
+              "type": "choice",
+              "content": "先把门关上"
+            },
+            {
+              "id": "step_15",
+              "type": "choice",
+              "content": "没关系，我会跟着你的"
+            },
+            {
+              "id": "step_16",
+              "type": "choice",
+              "content": "确认门缝里有没有漏灯"
+            }
+          ]
+        },
+        {
+          "id": "ending_saori_end",
+          "name": "沙织 END3",
+          "type": "good",
+          "steps": [
+            {
+              "id": "step_01_1",
+              "type": "choice",
+              "content": "很早以前就有神经过敏的感觉"
+            },
+            {
+              "id": "step_02_1",
+              "type": "choice",
+              "content": "不知为什么，我被疯狂这个词深深吸引了"
+            },
+            {
+              "id": "step_03_1",
+              "type": "choice",
+              "content": "说明白了就接受吧。"
+            },
+            {
+              "id": "step_04_1",
+              "type": "choice",
+              "content": "我决定暂时留在屋顶上思考"
+            },
+            {
+              "id": "step_05_1",
+              "type": "choice",
+              "content": "告诉我你看到可疑人影的时候。"
+            },
+            {
+              "id": "step_06_1",
+              "type": "choice",
+              "content": "听说太田深夜来学校了"
+            },
+            {
+              "id": "step_07_1",
+              "type": "choice",
+              "content": "坦率地说明一切"
+            },
+            {
+              "id": "step_08_1",
+              "type": "choice",
+              "content": "…是8点半"
+            },
+            {
+              "id": "step_09_1",
+              "type": "choice",
+              "content": "…这里"
+            },
+            {
+              "id": "step_10_1",
+              "type": "choice",
+              "content": "…食物"
+            },
+            {
+              "id": "step_11_1",
+              "type": "choice",
+              "content": "再等一会儿"
+            },
+            {
+              "id": "step_12_1",
+              "type": "choice",
+              "content": "没关系，我会跟着你的。"
+            },
+            {
+              "id": "step_13_1",
+              "type": "choice",
+              "content": "确认门缝里有没有漏灯"
+            },
+            {
+              "id": "step_14_1",
+              "type": "choice",
+              "content": "绕到后面，从窗户窥视一下"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_mizuho",
+      "name": "瑞穗",
+      "endings": [
+        {
+          "id": "ending_mizuho_bad",
+          "name": "瑞穗 END1",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_01_2",
+              "type": "choice",
+              "content": "很早以前就有神经过敏的感觉"
+            },
+            {
+              "id": "step_02_2",
+              "type": "choice",
+              "content": "不知为什么，我被疯狂这个词深深吸引了"
+            },
+            {
+              "id": "step_03_2",
+              "type": "choice",
+              "content": "说明白了就接受吧"
+            },
+            {
+              "id": "step_04_2",
+              "type": "choice",
+              "content": "我决定回教室"
+            },
+            {
+              "id": "step_05_2",
+              "type": "choice",
+              "content": "最近在社团活动中有什么变化吗？"
+            },
+            {
+              "id": "step_06_2",
+              "type": "choice",
+              "content": "断然拒绝"
+            },
+            {
+              "id": "step_07_2",
+              "type": "choice",
+              "content": "奇怪的人影在体育馆附近被看到"
+            },
+            {
+              "id": "step_08_2",
+              "type": "choice",
+              "content": "一个人开始调查"
+            },
+            {
+              "id": "step_09_2",
+              "type": "choice",
+              "content": "去2-B的教室看看"
+            },
+            {
+              "id": "step_10_2",
+              "type": "choice",
+              "content": "还是实话实说比较好吧"
+            },
+            {
+              "id": "step_11_2",
+              "type": "choice",
+              "content": "抓住伸出的手"
+            },
+            {
+              "id": "step_12_2",
+              "type": "choice",
+              "content": "我喜欢小的人"
+            },
+            {
+              "id": "step_13_2",
+              "type": "choice",
+              "content": "太田先生，我来帮你找。"
+            },
+            {
+              "id": "step_14_2",
+              "type": "choice",
+              "content": "打倒月岛先生"
+            }
+          ]
+        },
+        {
+          "id": "ending_mizuho_end",
+          "name": "瑞穗 END2",
+          "type": "good",
+          "steps": [
+            {
+              "id": "step_01_3",
+              "type": "choice",
+              "content": "很早以前就有神经过敏的感觉"
+            },
+            {
+              "id": "step_02_3",
+              "type": "choice",
+              "content": "不知为什么，我被疯狂这个词深深吸引了"
+            },
+            {
+              "id": "step_03_3",
+              "type": "choice",
+              "content": "说明白了就接受吧。"
+            },
+            {
+              "id": "step_04_3",
+              "type": "choice",
+              "content": "我决定回教室"
+            },
+            {
+              "id": "step_05_3",
+              "type": "choice",
+              "content": "最近在社团活动中有什么变化吗？"
+            },
+            {
+              "id": "step_06_3",
+              "type": "choice",
+              "content": "断然拒绝"
+            },
+            {
+              "id": "step_07_3",
+              "type": "choice",
+              "content": "奇怪的人影在体育馆附近被看到"
+            },
+            {
+              "id": "step_08_3",
+              "type": "choice",
+              "content": "再等一会儿"
+            },
+            {
+              "id": "step_09_3",
+              "type": "choice",
+              "content": "去学生会室看看"
+            },
+            {
+              "id": "step_10_3",
+              "type": "choice",
+              "content": "还是实话实说比较好吧"
+            },
+            {
+              "id": "step_11_3",
+              "type": "choice",
+              "content": "抓住腰部"
+            },
+            {
+              "id": "step_12_3",
+              "type": "choice",
+              "content": "我觉得确实很小…"
+            },
+            {
+              "id": "step_13_3",
+              "type": "choice",
+              "content": "他说：让我看看那个八音盒。"
+            },
+            {
+              "id": "step_14_3",
+              "type": "choice",
+              "content": "救瑞穗"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_ruriko",
+      "name": "瑠璃子",
+      "endings": [
+        {
+          "id": "ending_ruriko_bad1",
+          "name": "瑠璃子 END1",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_01_4",
+              "type": "choice",
+              "content": "很早以前就有神经过敏的感觉"
+            },
+            {
+              "id": "step_02_4",
+              "type": "choice",
+              "content": "不知为什么，我被疯狂这个词深深吸引了"
+            },
+            {
+              "id": "step_03_4",
+              "type": "choice",
+              "content": "说明白了就接受吧。"
+            },
+            {
+              "id": "step_04_4",
+              "type": "choice",
+              "content": "我决定暂时留在屋顶上思考"
+            },
+            {
+              "id": "step_05_4",
+              "type": "choice",
+              "content": "也就是说，月岛在屋顶上收集电波。"
+            },
+            {
+              "id": "step_06_4",
+              "type": "choice",
+              "content": "告诉我你看到可疑人影的时候。"
+            },
+            {
+              "id": "step_07_4",
+              "type": "choice",
+              "content": "断然拒绝"
+            },
+            {
+              "id": "step_08_4",
+              "type": "choice",
+              "content": "奇怪的人影在体育馆附近被看到"
+            },
+            {
+              "id": "step_09_4",
+              "type": "choice",
+              "content": "询问关于事件前的太田注意到的事情"
+            },
+            {
+              "id": "step_10_4",
+              "type": "choice",
+              "content": "虽然对她不好，但还是拒绝吧"
+            },
+            {
+              "id": "step_11_4",
+              "type": "choice",
+              "content": "是的，我是被瑠璃子引导的"
+            }
+          ]
+        },
+        {
+          "id": "ending_ruriko_bad2",
+          "name": "瑠璃子 END2",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_01_5",
+              "type": "choice",
+              "content": "很早以前就有神经过敏的感觉"
+            },
+            {
+              "id": "step_02_5",
+              "type": "choice",
+              "content": "不知为什么，我被疯狂这个词深深吸引了"
+            },
+            {
+              "id": "step_03_5",
+              "type": "choice",
+              "content": "说明白了就接受吧。"
+            },
+            {
+              "id": "step_04_5",
+              "type": "choice",
+              "content": "我决定暂时留在屋顶上思考"
+            },
+            {
+              "id": "step_05_5",
+              "type": "choice",
+              "content": "也就是说，月岛在屋顶上收集电波。"
+            },
+            {
+              "id": "step_06_5",
+              "type": "choice",
+              "content": "告诉我你看到可疑人影的时候。"
+            },
+            {
+              "id": "step_07_5",
+              "type": "choice",
+              "content": "断然拒绝"
+            },
+            {
+              "id": "step_08_5",
+              "type": "choice",
+              "content": "奇怪的人影在体育馆附近被看到"
+            },
+            {
+              "id": "step_10_5",
+              "type": "choice",
+              "content": "询问关于事件前的太田先生注意到的事情"
+            },
+            {
+              "id": "step_11_5",
+              "type": "choice",
+              "content": "虽然对她不好，但还是拒绝吧"
+            },
+            {
+              "id": "step_12_4",
+              "type": "choice",
+              "content": "不，什么都没送到"
+            },
+            {
+              "id": "step_13_4",
+              "type": "choice",
+              "content": "虽然很在意瑞穗，但是现在看看情况吧"
+            },
+            {
+              "id": "step_14_4",
+              "type": "choice",
+              "content": "和叔叔联系之后，再帮助他们吧"
+            }
+          ]
+        },
+        {
+          "id": "ending_ruriko_bad3",
+          "name": "瑠璃子 END3",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_01_6",
+              "type": "choice",
+              "content": "很早以前就有神经过敏的感觉"
+            },
+            {
+              "id": "step_02_6",
+              "type": "choice",
+              "content": "不知为什么，我被疯狂这个词深深吸引了"
+            },
+            {
+              "id": "step_03_6",
+              "type": "choice",
+              "content": "说明白了就接受吧。"
+            },
+            {
+              "id": "step_04_6",
+              "type": "choice",
+              "content": "我决定暂时留在屋顶上思考"
+            },
+            {
+              "id": "step_05_6",
+              "type": "choice",
+              "content": "也就是说，月岛在屋顶上收集电波。"
+            },
+            {
+              "id": "step_06_6",
+              "type": "choice",
+              "content": "告诉我你看到可疑人影的时候。"
+            },
+            {
+              "id": "step_07_6",
+              "type": "choice",
+              "content": "断然拒绝"
+            },
+            {
+              "id": "step_08_6",
+              "type": "choice",
+              "content": "奇怪的人影在体育馆附近被看到"
+            },
+            {
+              "id": "step_09_6",
+              "type": "choice",
+              "content": "询问关于事件前的太田先生注意到的事情"
+            },
+            {
+              "id": "step_10_6",
+              "type": "choice",
+              "content": "虽然对她不好，但还是拒绝吧"
+            },
+            {
+              "id": "step_11_6",
+              "type": "choice",
+              "content": "不，什么都没送到"
+            },
+            {
+              "id": "step_12_5",
+              "type": "choice",
+              "content": "虽然很在意瑞穗，但是现在看看情况吧"
+            },
+            {
+              "id": "step_13_5",
+              "type": "choice",
+              "content": "现在马上从窗户跳进去，救两个人！"
+            },
+            {
+              "id": "step_14_5",
+              "type": "choice",
+              "content": "任凭自己的劣情侵犯瑠璃子"
+            }
+          ]
+        },
+        {
+          "id": "ending_ruriko_end1",
+          "name": "瑠璃子 END4",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_01_7",
+              "type": "choice",
+              "content": "很早以前就有神经过敏的感觉"
+            },
+            {
+              "id": "step_02_7",
+              "type": "choice",
+              "content": "不知为什么，我被疯狂这个词深深吸引了"
+            },
+            {
+              "id": "step_03_7",
+              "type": "choice",
+              "content": "说明白了就接受吧。"
+            },
+            {
+              "id": "step_04_7",
+              "type": "choice",
+              "content": "我决定暂时留在屋顶上思考"
+            },
+            {
+              "id": "step_05_7",
+              "type": "choice",
+              "content": "也就是说，月岛在屋顶上收集电波。"
+            },
+            {
+              "id": "step_06_7",
+              "type": "choice",
+              "content": "告诉我你看到可疑人影的时候。"
+            },
+            {
+              "id": "step_07_7",
+              "type": "choice",
+              "content": "断然拒绝"
+            },
+            {
+              "id": "step_08_7",
+              "type": "choice",
+              "content": "奇怪的人影在体育馆附近被看到"
+            },
+            {
+              "id": "step_09_7",
+              "type": "choice",
+              "content": "询问关于事件前的太田注意到的事情"
+            },
+            {
+              "id": "step_10_7",
+              "type": "choice",
+              "content": "虽然对她不好，但还是拒绝吧"
+            },
+            {
+              "id": "step_11_7",
+              "type": "choice",
+              "content": "不，什么都没送到"
+            },
+            {
+              "id": "step_12_6",
+              "type": "choice",
+              "content": "虽然很在意瑞穗，但是现在看看情况吧"
+            },
+            {
+              "id": "step_13_6",
+              "type": "choice",
+              "content": "现在马上从窗户跳进去，救两个人！"
+            },
+            {
+              "id": "step_14_6",
+              "type": "choice",
+              "content": "违背自己的欲望"
+            }
+          ]
+        },
+        {
+          "id": "ending_ruriko_end2",
+          "name": "瑠璃子 END5",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_01_8",
+              "type": "choice",
+              "content": "很早以前就有神经过敏的感觉"
+            },
+            {
+              "id": "step_02_8",
+              "type": "choice",
+              "content": "不知为什么，我被疯狂这个词深深吸引了"
+            },
+            {
+              "id": "step_03_8",
+              "type": "choice",
+              "content": "说明白了就接受吧。"
+            },
+            {
+              "id": "step_04_8",
+              "type": "choice",
+              "content": "我决定暂时留在屋顶上思考"
+            },
+            {
+              "id": "step_05_8",
+              "type": "choice",
+              "content": "也就是说，月岛在屋顶上收集电波。"
+            },
+            {
+              "id": "step_06_8",
+              "type": "choice",
+              "content": "告诉我你看到可疑人影的时候。"
+            },
+            {
+              "id": "step_07_8",
+              "type": "choice",
+              "content": "断然拒绝"
+            },
+            {
+              "id": "step_08_8",
+              "type": "choice",
+              "content": "奇怪的人影在体育馆附近被看到"
+            },
+            {
+              "id": "step_09_8",
+              "type": "choice",
+              "content": "询问关于事件前的太田注意到的事情"
+            },
+            {
+              "id": "step_10_8",
+              "type": "choice",
+              "content": "虽然对她不好，但还是拒绝吧"
+            },
+            {
+              "id": "step_11_8",
+              "type": "choice",
+              "content": "不，什么都没送到"
+            },
+            {
+              "id": "step_12_7",
+              "type": "choice",
+              "content": "虽然很在意瑞穗，但是现在看看情况吧"
+            },
+            {
+              "id": "step_13_7",
+              "type": "choice",
+              "content": "现在马上从窗户跳进去，救两个人！"
+            },
+            {
+              "id": "step_14_7",
+              "type": "choice",
+              "content": "违背自己的欲望"
+            },
+            {
+              "id": "step_15_1",
+              "type": "choice",
+              "content": "这个人也是受害者……"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1775638828813",
+      "name": "特典",
+      "endings": [
+        {
+          "id": "ending_1775638834053",
+          "name": "END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1775638864746",
+              "type": "choice",
+              "content": "想起了那个女孩的事"
+            }
+          ]
+        },
+        {
+          "id": "ending_1775638846546",
+          "name": "END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1775638883391",
+              "type": "choice",
+              "content": "模拟了与外星人的战斗"
+            },
+            {
+              "id": "step_1775638885599",
+              "type": "choice",
+              "content": "是的"
+            },
+            {
+              "id": "step_1775638885740",
+              "type": "choice",
+              "content": "龙卷风投法大联盟将进行足球改革"
+            },
+            {
+              "id": "step_1775638885875",
+              "type": "choice",
+              "content": "瑠璃瑠璃！交给你了！"
+            },
+            {
+              "id": "step_1775638886030",
+              "type": "choice",
+              "content": "把它扔掉"
+            },
+            {
+              "id": "step_1775638958628",
+              "type": "choice",
+              "content": "各种酒的混合酒精"
+            },
+            {
+              "id": "step_1775638958790",
+              "type": "choice",
+              "content": "みずぴー！（不知道怎么翻译了）"
+            },
+            {
+              "id": "step_1775638958967",
+              "type": "choice",
+              "content": "用必杀吧！"
+            },
+            {
+              "id": "step_1775639026235",
+              "type": "choice",
+              "content": "突然就是必杀技啊"
+            },
+            {
+              "id": "step_1775639026396",
+              "type": "choice",
+              "content": "是爱"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

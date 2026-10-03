@@ -1,0 +1,209 @@
+{
+  "vid": "v10805",
+  "name": {
+    "zh-cn": "Justy×Nasty ～魔王はじめました～",
+    "ja-jp": "Justy×Nasty ～魔王はじめました～",
+    "ja-Latn": "justy-nasty-maou-hajimemashita"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-14",
+  "routes": [
+    {
+      "id": "route_game_guide",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_mana",
+          "name": "真奈 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_mana_01",
+              "type": "choice",
+              "content": "使用钥匙"
+            },
+            {
+              "id": "step_mana_02",
+              "type": "choice",
+              "content": "美香！！是哥哥哦！！"
+            },
+            {
+              "id": "step_mana_03",
+              "type": "choice",
+              "content": "决胜负"
+            },
+            {
+              "id": "step_mana_04",
+              "type": "choice",
+              "content": "战斗",
+              "subfix": "选逃跑回收CG"
+            },
+            {
+              "id": "step_mana_05",
+              "type": "choice",
+              "content": "结婚"
+            },
+            {
+              "id": "step_mana_06",
+              "type": "choice",
+              "content": "响"
+            },
+            {
+              "id": "step_mana_07",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_mana_08",
+              "type": "choice",
+              "content": "创圣学园"
+            },
+            {
+              "id": "step_mana_09",
+              "type": "choice",
+              "content": "洞穴"
+            },
+            {
+              "id": "step_mana_10",
+              "type": "choice",
+              "content": "前进"
+            },
+            {
+              "id": "step_mana_11",
+              "type": "choice",
+              "content": "结婚好像也不错"
+            },
+            {
+              "id": "step_mana_12",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_mana_13",
+              "type": "choice",
+              "content": "真奈的欧派大小"
+            },
+            {
+              "id": "step_mana_14",
+              "type": "choice",
+              "content": "加入真奈所在的勇者军"
+            }
+          ]
+        },
+        {
+          "id": "ending_mikaru",
+          "name": "美香 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_mikaru_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_mikaru_02",
+              "type": "choice",
+              "content": "美香的欧派大小"
+            },
+            {
+              "id": "step_mikaru_03",
+              "type": "choice",
+              "content": "加入美香所在的勇者军"
+            }
+          ]
+        },
+        {
+          "id": "ending_karin",
+          "name": "果林 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_karin_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_karin_02",
+              "type": "choice",
+              "content": "果林前辈的欧派大小"
+            },
+            {
+              "id": "step_karin_03",
+              "type": "choice",
+              "content": "加入果林前辈所在的勇者军"
+            }
+          ]
+        },
+        {
+          "id": "ending_kirie",
+          "name": "雾江 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_kirie_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_kirie_02",
+              "type": "choice",
+              "content": "造魔学园"
+            },
+            {
+              "id": "step_kirie_03",
+              "type": "choice",
+              "content": "宿舍"
+            },
+            {
+              "id": "step_kirie_04",
+              "type": "choice",
+              "content": "退出"
+            },
+            {
+              "id": "step_kirie_05",
+              "type": "choice",
+              "content": "不能轻易决定"
+            },
+            {
+              "id": "step_kirie_06",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_kirie_07",
+              "type": "choice",
+              "content": "雾江的欧派大小"
+            },
+            {
+              "id": "step_kirie_08",
+              "type": "choice",
+              "content": "加入雾江所在的魔王军"
+            }
+          ]
+        },
+        {
+          "id": "ending_hibiki",
+          "name": "响 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_hibiki_01",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_hibiki_02",
+              "type": "choice",
+              "content": "响的欧派大小"
+            },
+            {
+              "id": "step_hibiki_03",
+              "type": "choice",
+              "content": "加入响所在的魔王军"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

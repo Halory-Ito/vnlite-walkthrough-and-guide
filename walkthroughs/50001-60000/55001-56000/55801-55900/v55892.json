@@ -1,0 +1,42 @@
+{
+  "vid": "v55892",
+  "name": {
+    "zh-cn": "破碎的祈愿",
+    "ja-jp": "カタネガイ",
+    "ja-Latn": "katanegai"
+  },
+  "level": 2,
+  "updatedAt": "2026-05-06",
+  "routes": [
+    {
+      "id": "route_1778055910662",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1778055914950",
+          "name": "END 1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1778055930100",
+              "type": "choice",
+              "content": "不成为半神"
+            }
+          ]
+        },
+        {
+          "id": "ending_1778055936951",
+          "name": "END 2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1778055942118",
+              "type": "choice",
+              "content": "成为半神"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

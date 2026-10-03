@@ -1,0 +1,50 @@
+{
+  "vid": "v12097",
+  "name": {
+    "zh-cn": "花吻在上 画室的恋人们",
+    "ja-jp": "その花びらにくちづけを　アトリエの恋人たち",
+    "ja-Latn": "sono-hanabira-ni-kuchizuke-o-atelier-no-koibito-tachi"
+  },
+  "level": 2,
+  "updatedAt": "2026-05-06",
+  "routes": [
+    {
+      "id": "route_risa_miya_ending2",
+      "name": "璃紗＆美夜",
+      "endings": [
+        {
+          "id": "ending_risa_miya_2",
+          "name": "璃紗＆美夜 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "s_rm2_01",
+              "type": "choice",
+              "content": "果然……还是接受吧"
+            },
+            {
+              "id": "s_rm2_02",
+              "type": "choice",
+              "content": "上课固然重要，但现在只想……"
+            },
+            {
+              "id": "s_rm2_03",
+              "type": "choice",
+              "content": "和美夜在一起的话，裸体围裙也可以哦"
+            },
+            {
+              "id": "s_rm2_04",
+              "type": "choice",
+              "content": "就这样被冲昏头脑下去吧"
+            },
+            {
+              "id": "s_rm2_05",
+              "type": "choice",
+              "content": "想让美夜一直陪在身边"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

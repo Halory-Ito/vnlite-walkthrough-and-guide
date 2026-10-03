@@ -1,0 +1,199 @@
+{
+  "vid": "v20431",
+  "name": {
+    "zh-cn": "樱之刻－漫步于樱花之森下－",
+    "ja-jp": "サクラノ刻－櫻の森の下を歩む－",
+    "ja-Latn": "sakura-no-toki"
+  },
+  "level": 2,
+  "updatedAt": "2026-02-27",
+  "tips": [
+    "女主角好感度系统：当角色好感最小为3时开放个人线选项",
+    "1～2章无选项（请安心的游玩）",
+    "有剧情锁，建议攻略顺序为：心铃=>真琴=>坏结局=>蓝（大结局）"
+  ],
+  "routes": [
+    {
+      "id": "route_1755004001444",
+      "name": "本间 心铃",
+      "endings": [
+        {
+          "id": "ending_1755004067609",
+          "name": "心铃 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755005318193",
+              "type": "choice",
+              "content": "不是不行，但是"
+            },
+            {
+              "id": "step_1755005318346",
+              "type": "choice",
+              "content": "可能是不太合适"
+            },
+            {
+              "id": "step_1755005318493",
+              "type": "choice",
+              "content": "我喜欢这家店的鲷鱼烧，所以我很高兴"
+            },
+            {
+              "id": "step_1755005318652",
+              "type": "choice",
+              "content": "是的"
+            },
+            {
+              "id": "step_1755005332964",
+              "type": "choice",
+              "content": "你可以变得更好"
+            },
+            {
+              "id": "step_1755005333114",
+              "type": "choice",
+              "content": "就那样了"
+            },
+            {
+              "id": "step_1755005333341",
+              "type": "choice",
+              "content": "哈……"
+            },
+            {
+              "id": "step_1755005343994",
+              "type": "choice",
+              "content": "啊，不，现在马上要吃饭"
+            },
+            {
+              "id": "step_1755005344151",
+              "type": "choice",
+              "content": "那确实有点吸引人"
+            },
+            {
+              "id": "step_1755005344333",
+              "type": "choice",
+              "content": "校长......我真的会生气哦"
+            },
+            {
+              "id": "step_1755005355648",
+              "type": "choice",
+              "content": "停止吗"
+            },
+            {
+              "id": "step_1755005355795",
+              "type": "choice",
+              "content": "我该怎么办呢"
+            },
+            {
+              "id": "step_1755005356253",
+              "type": "choice",
+              "content": "足以让这位校长感到恐惧的事"
+            },
+            {
+              "id": "step_1755005405237",
+              "type": "choice",
+              "content": "那应该是另一回事吧"
+            },
+            {
+              "id": "step_1755005405437",
+              "type": "choice",
+              "content": "不，不是这样的"
+            },
+            {
+              "id": "step_1755005405640",
+              "type": "choice",
+              "content": "原来是这样"
+            },
+            {
+              "id": "step_1755005416297",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1755005420528",
+              "type": "choice",
+              "content": "不过，我应该让心铃摸摸猫的头"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755005435838",
+      "name": "鸟谷 真琴",
+      "endings": [
+        {
+          "id": "ending_1755005470043",
+          "name": "真琴 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755005479757",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1755005480473",
+              "type": "choice",
+              "content": "既然她这么说"
+            },
+            {
+              "id": "step_1755005487140",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1755005492544",
+              "type": "choice",
+              "content": "让她在我房间里睡吧"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755005513493",
+      "name": "坏结局",
+      "endings": [
+        {
+          "id": "ending_1755005534301",
+          "name": "坏结局",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_1755005546575",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1755005552812",
+              "type": "choice",
+              "content": "该怎么办呢"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755005683060",
+      "name": "夏目 蓝",
+      "endings": [
+        {
+          "id": "ending_1755005706758",
+          "name": "蓝",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_1755005720500",
+              "type": "note",
+              "content": "二周目按照任意一位女主角线路的走法，在草薙直哉与恩田放哉辩论时选择“我只是阐述了自己的想法”选项开启第四章"
+            },
+            {
+              "id": "step_1755005777833",
+              "type": "note",
+              "content": "第四章没有选项"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "vid": "v14889",
+  "name": {
+    "zh-cn": "G.I.B. ガールズ・イン・ブラック",
+    "ja-jp": "G.I.B. ガールズ・イン・ブラック",
+    "ja-Latn": "girls-in-black"
+  },
+  "level": 2,
+  "updatedAt": "2026-05-08",
+  "routes": [
+    {
+      "id": "route_game_guide",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_yukano",
+          "name": "有佳乃 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_yukano_01",
+              "type": "choice",
+              "content": "觉得有"
+            },
+            {
+              "id": "step_yukano_02",
+              "type": "choice",
+              "content": "要引导吗"
+            },
+            {
+              "id": "step_yukano_03",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_yukano_04",
+              "type": "choice",
+              "content": "和有佳乃组队"
+            },
+            {
+              "id": "step_yukano_05",
+              "type": "choice",
+              "content": "好吃"
+            },
+            {
+              "id": "step_yukano_06",
+              "type": "choice",
+              "content": "和有佳乃去"
+            },
+            {
+              "id": "step_yukano_07",
+              "type": "choice",
+              "content": "去支部"
+            },
+            {
+              "id": "step_yukano_08",
+              "type": "choice",
+              "content": "向有佳乃搭话"
+            }
+          ]
+        },
+        {
+          "id": "ending_elise",
+          "name": "艾莉泽 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_elise_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_elise_02",
+              "type": "choice",
+              "content": "和艾莉组队"
+            },
+            {
+              "id": "step_elise_03",
+              "type": "choice",
+              "content": "调味料，没弄错吧"
+            },
+            {
+              "id": "step_elise_04",
+              "type": "choice",
+              "content": "和艾莉泽去"
+            },
+            {
+              "id": "step_elise_05",
+              "type": "choice",
+              "content": "巡视教室"
+            },
+            {
+              "id": "step_elise_06",
+              "type": "choice",
+              "content": "向艾莉搭话"
+            }
+          ]
+        },
+        {
+          "id": "ending_sorami",
+          "name": "宙美 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_sorami_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_sorami_02",
+              "type": "choice",
+              "content": "和宙美组队"
+            },
+            {
+              "id": "step_sorami_03",
+              "type": "choice",
+              "content": "调味料，没弄错吧"
+            },
+            {
+              "id": "step_sorami_04",
+              "type": "choice",
+              "content": "和宙美去"
+            },
+            {
+              "id": "step_sorami_05",
+              "type": "choice",
+              "content": "去屋顶"
+            },
+            {
+              "id": "step_sorami_06",
+              "type": "choice",
+              "content": "向宙美搭话"
+            }
+          ]
+        },
+        {
+          "id": "ending_special",
+          "name": "特殊 END",
+          "type": "normal",
+          "requirements": "3人攻略完毕后",
+          "steps": [
+            {
+              "id": "step_special_02",
+              "type": "choice",
+              "content": "不知道"
+            },
+            {
+              "id": "step_special_03",
+              "type": "choice",
+              "content": "无所谓吧"
+            },
+            {
+              "id": "step_special_04",
+              "type": "choice",
+              "content": "和有佳乃组队"
+            },
+            {
+              "id": "step_special_05",
+              "type": "choice",
+              "content": "调味料，没弄错吧"
+            },
+            {
+              "id": "step_special_06",
+              "type": "choice",
+              "content": "和艾莉泽去"
+            },
+            {
+              "id": "step_special_07",
+              "type": "choice",
+              "content": "有有！"
+            },
+            {
+              "id": "step_special_08",
+              "type": "choice",
+              "content": "该做什么好呢"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

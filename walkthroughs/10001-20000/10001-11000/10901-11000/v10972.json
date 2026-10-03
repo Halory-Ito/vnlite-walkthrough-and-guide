@@ -1,0 +1,181 @@
+{
+  "vid": "v10972",
+  "name": {
+    "zh-cn": "她和我与恋人",
+    "ja-jp": "彼女と俺と恋人と。",
+    "ja-Latn": "kanojo-to-ore-to-koibito-to"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-14",
+  "tips": [
+    "妹线在通关一次后主页面选择第三项进入"
+  ],
+  "routes": [
+    {
+      "id": "route_game_guide",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_ayano_end",
+          "name": "绫乃 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_ayano_01",
+              "type": "choice",
+              "content": "没想到这么快就能见到绫乃的妹妹"
+            },
+            {
+              "id": "step_ayano_02",
+              "type": "choice",
+              "content": "全力拒绝"
+            },
+            {
+              "id": "step_ayano_03",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_ayano_04",
+              "type": "choice",
+              "content": "去看看绫乃的情况"
+            },
+            {
+              "id": "step_ayano_05",
+              "type": "choice",
+              "content": "刚才那个是我妹妹"
+            },
+            {
+              "id": "step_ayano_06",
+              "type": "choice",
+              "content": "谁能救救我"
+            }
+          ]
+        },
+        {
+          "id": "ending_konoka_end",
+          "name": "小乃花 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_konoka_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_konoka_02",
+              "type": "choice",
+              "content": "去看看簾她们的情况"
+            },
+            {
+              "id": "step_konoka_03",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_konoka_04",
+              "type": "choice",
+              "content": "跟白兔没有关系吧"
+            },
+            {
+              "id": "step_konoka_05",
+              "type": "choice",
+              "content": "谁能救救我"
+            }
+          ]
+        },
+        {
+          "id": "ending_tsukushi_end",
+          "name": "筑紫 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_tsukushi_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_tsukushi_02",
+              "type": "choice",
+              "content": "刚才那个是我妹妹"
+            },
+            {
+              "id": "step_tsukushi_03",
+              "type": "choice",
+              "content": "拜托优子来阻止"
+            }
+          ]
+        },
+        {
+          "id": "ending_chikage_end",
+          "name": "千景 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_chikage_01",
+              "type": "choice",
+              "content": "明明是姐妹却不太像"
+            },
+            {
+              "id": "step_chikage_02",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_chikage_03",
+              "type": "choice",
+              "content": "拜托了"
+            },
+            {
+              "id": "step_chikage_04",
+              "type": "choice",
+              "content": "去看看簾她们的情况"
+            },
+            {
+              "id": "step_chikage_05",
+              "type": "choice",
+              "content": "跟白兔没有关系吧"
+            },
+            {
+              "id": "step_chikage_06",
+              "type": "choice",
+              "content": "拜托优子来阻止"
+            }
+          ]
+        },
+        {
+          "id": "ending_yuko_end",
+          "name": "优子 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_yuko_01",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_yuko_02",
+              "type": "choice",
+              "content": "全力拒绝"
+            },
+            {
+              "id": "step_yuko_03",
+              "type": "choice",
+              "content": "去看看簾她们的情况"
+            },
+            {
+              "id": "step_yuko_04",
+              "type": "choice",
+              "content": "跟白兔没有关系吧"
+            },
+            {
+              "id": "step_yuko_05",
+              "type": "choice",
+              "content": "拜托优子来阻止"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

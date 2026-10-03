@@ -1,0 +1,264 @@
+{
+  "vid": "v25999",
+  "name": {
+    "zh-cn": "你喜欢的是哪个我呢?",
+    "en-us": "Lead or Leash: Which Me Would You Like?",
+    "ja-jp": "どっちのiが好きですか？",
+    "ja-Latn": "docchi-no-i-ga-suki-desu-ka"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-14",
+  "routes": [
+    {
+      "id": "route_game_guide",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_koyuzu_end1",
+          "name": "种村小柚子 END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_koyuzu_end1_01",
+              "type": "choice",
+              "content": "想引导对方"
+            },
+            {
+              "id": "step_koyuzu_end1_02",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_koyuzu_end1_03",
+              "type": "choice",
+              "content": "河岸│小柚子",
+              "prefix": "■"
+            },
+            {
+              "id": "step_koyuzu_end1_04",
+              "type": "choice",
+              "content": "上前搭话"
+            },
+            {
+              "id": "step_koyuzu_end1_05",
+              "type": "choice",
+              "content": "请求重赛"
+            },
+            {
+              "id": "step_koyuzu_end1_06",
+              "type": "choice",
+              "content": "种村学姐"
+            },
+            {
+              "id": "step_koyuzu_end1_07",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_koyuzu_end1_08",
+              "type": "choice",
+              "content": "想要占据主动"
+            }
+          ]
+        },
+        {
+          "id": "ending_koyuzu_end2",
+          "name": "种村小柚子 END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_koyuzu_end2_08",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_koyuzu_end2_09",
+              "type": "choice",
+              "content": "想要被她引领"
+            }
+          ]
+        },
+        {
+          "id": "ending_mei_end1",
+          "name": "上之山芽爱 END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_mei_end1_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_mei_end1_02",
+              "type": "choice",
+              "content": "车站前│芽爱",
+              "prefix": "■"
+            },
+            {
+              "id": "step_mei_end1_03",
+              "type": "choice",
+              "content": "接话"
+            },
+            {
+              "id": "step_mei_end1_04",
+              "type": "choice",
+              "content": "去便利店买伞"
+            },
+            {
+              "id": "step_mei_end1_05",
+              "type": "choice",
+              "content": "上之山"
+            },
+            {
+              "id": "step_mei_end1_06",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_mei_end1_07",
+              "type": "choice",
+              "content": "想要占据主动"
+            }
+          ]
+        },
+        {
+          "id": "ending_mei_end2",
+          "name": "上之山芽爱 END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_mei_end2_07",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_mei_end2_08",
+              "type": "choice",
+              "content": "想要被她引领"
+            }
+          ]
+        },
+        {
+          "id": "ending_hanna_end1",
+          "name": "四谷・格兰杰・汉娜 END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_hanna_end1_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_hanna_end1_02",
+              "type": "choice",
+              "content": "大街│汉娜",
+              "prefix": "■"
+            },
+            {
+              "id": "step_hanna_end1_03",
+              "type": "choice",
+              "content": "上前搭话"
+            },
+            {
+              "id": "step_hanna_end1_04",
+              "type": "choice",
+              "content": "强行转换气氛"
+            },
+            {
+              "id": "step_hanna_end1_05",
+              "type": "choice",
+              "content": "四谷同学"
+            },
+            {
+              "id": "step_hanna_end1_06",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_hanna_end1_07",
+              "type": "choice",
+              "content": "想要占据主动"
+            }
+          ]
+        },
+        {
+          "id": "ending_hanna_end2",
+          "name": "四谷・格兰杰・汉娜 END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_hanna_end2_05",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_hanna_end2_08",
+              "type": "choice",
+              "content": "想要被她引领"
+            }
+          ]
+        },
+        {
+          "id": "ending_maya_end1",
+          "name": "英摩耶 END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_maya_end1_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_maya_end1_02",
+              "type": "choice",
+              "content": "商店街│摩耶",
+              "prefix": "■"
+            },
+            {
+              "id": "step_maya_end1_03",
+              "type": "choice",
+              "content": "上前搭话"
+            },
+            {
+              "id": "step_maya_end1_04",
+              "type": "choice",
+              "content": "还击"
+            },
+            {
+              "id": "step_maya_end1_05",
+              "type": "choice",
+              "content": "英"
+            },
+            {
+              "id": "step_maya_end1_06",
+              "type": "save",
+              "content": "SAVE 5"
+            },
+            {
+              "id": "step_maya_end1_07",
+              "type": "choice",
+              "content": "想要占据主动"
+            }
+          ]
+        },
+        {
+          "id": "ending_maya_end2",
+          "name": "英摩耶 END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_maya_end2_05",
+              "type": "load",
+              "content": "LOAD 5"
+            },
+            {
+              "id": "step_maya_end2_08",
+              "type": "choice",
+              "content": "想要被她引领"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

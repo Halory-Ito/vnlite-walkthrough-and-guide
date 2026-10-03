@@ -1,0 +1,104 @@
+{
+  "vid": "v26987",
+  "name": {
+    "zh-cn": "白日梦的构想图",
+    "en-us": "Cyanotype Daydream -The Girl Who Dreamed the World-",
+    "ja-jp": "白昼夢の青写真",
+    "ja-Latn": "hakuchuumu-no-aojashin"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-15",
+  "routes": [
+    {
+      "id": "route_1778495464034",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1778495468472",
+          "name": "END",
+          "type": "normal",
+          "requirements": "标题画面选择CASE START",
+          "steps": [
+            {
+              "id": "step_1778495477101",
+              "type": "choice",
+              "content": "当时女性是不能上舞台的吗？"
+            },
+            {
+              "id": "step_1778495477271",
+              "type": "choice",
+              "content": "克里斯托弗·马洛是？"
+            },
+            {
+              "id": "step_1778495477505",
+              "type": "choice",
+              "content": "还是算了"
+            },
+            {
+              "id": "step_1778495478891",
+              "type": "choice",
+              "content": "外聘老师是?"
+            },
+            {
+              "id": "step_1778495479063",
+              "type": "choice",
+              "content": "酒馆是？"
+            },
+            {
+              "id": "step_1778495479233",
+              "type": "choice",
+              "content": "还是算了"
+            },
+            {
+              "id": "step_1778495480693",
+              "type": "choice",
+              "content": "总觉得鸟莫名的多啊"
+            },
+            {
+              "id": "step_1778495480876",
+              "type": "choice",
+              "content": "电波噬是？"
+            },
+            {
+              "id": "step_1778495481032",
+              "type": "choice",
+              "content": "还是算了"
+            },
+            {
+              "id": "step_1778495530530",
+              "type": "choice",
+              "content": "CASE1 波多野凛/CASE2 奥莉薇娅·蓓丽/CASE3 桃之内李",
+              "subfix": "按喜好顺序选择三人，完成三人的END1"
+            },
+            {
+              "id": "step_1778495641293",
+              "type": "choice",
+              "content": "CASE-0",
+              "subfix": "完成True End1"
+            },
+            {
+              "id": "step_1778495671385",
+              "type": "note",
+              "content": "标题选择EPILOGUE"
+            },
+            {
+              "id": "step_1778495726597",
+              "type": "choice",
+              "content": "按喜好顺序选择三人，完成三人的END2"
+            },
+            {
+              "id": "step_1778495738671",
+              "type": "choice",
+              "content": "之后自动进入True End2"
+            },
+            {
+              "id": "step_1778495770762",
+              "type": "choice",
+              "content": "之后【SPECIAL】->【BONUS SCENARIO】中开启额外场景"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "vid": "v27057",
+  "name": {
+    "zh-cn": "美少女万华镜 -理与迷宫的少女-",
+    "ja-jp": "美少女万華鏡 -理と迷宮の少女-",
+    "ja-Latn": "bishoujo-mangekyou-kotowari-to-meikyuu-no-shoujo"
+  },
+  "level": 2,
+  "updatedAt": "2026-02-27",
+  "routes": [
+    {
+      "id": "route_1748071531822",
+      "name": "月丘香恋",
+      "endings": [
+        {
+          "id": "ending_1748071593984",
+          "name": "香恋 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1748071664188",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1748071667258",
+              "type": "choice",
+              "content": "回应月丘小姐的感情"
+            },
+            {
+              "id": "step_1748071785970",
+              "type": "choice",
+              "content": "出谜语/说冷笑话（无影响）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755090638445",
+      "name": "菜菜山萌世歌",
+      "endings": [
+        {
+          "id": "ending_1755090650455",
+          "name": "桃叶歌 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755090669658",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1755090670531",
+              "type": "choice",
+              "content": "果断拒绝"
+            },
+            {
+              "id": "step_1755090670701",
+              "type": "choice",
+              "content": "出谜语/说冷笑话",
+              "subfix": "无影响"
+            },
+            {
+              "id": "step_1755090671211",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1755090671636",
+              "type": "choice",
+              "content": "委身于她"
+            },
+            {
+              "id": "step_1755090671778",
+              "type": "choice",
+              "content": "我叫彦一"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755090741022",
+      "name": "蓮華",
+      "endings": [
+        {
+          "id": "ending_1755090767379",
+          "name": "蓮華 END",
+          "type": "good",
+          "steps": [
+            {
+              "id": "step_1755090821994",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1755090825702",
+              "type": "choice",
+              "content": "打消念头"
+            },
+            {
+              "id": "step_1755090825909",
+              "type": "choice",
+              "content": "我叫深见夏彦"
+            },
+            {
+              "id": "step_1755090826193",
+              "type": "choice",
+              "content": "吃饭/洗澡/吃莲华",
+              "subfix": "无影响"
+            },
+            {
+              "id": "step_1755090826581",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_1755090870441",
+              "type": "choice",
+              "content": "不回去"
+            },
+            {
+              "id": "step_1755090870840",
+              "type": "choice",
+              "content": "里面/外面"
+            },
+            {
+              "id": "step_1755090871041",
+              "type": "choice",
+              "content": "不回去"
+            },
+            {
+              "id": "step_1755090871383",
+              "type": "choice",
+              "content": "询问爱好"
+            },
+            {
+              "id": "step_1755090871616",
+              "type": "choice",
+              "content": "爱的告白"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755090911865",
+      "name": "BAD END",
+      "endings": [
+        {
+          "id": "ending_1755090919594",
+          "name": "BAD END",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_1755090930762",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1755090931591",
+              "type": "choice",
+              "content": "回到现实世界"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

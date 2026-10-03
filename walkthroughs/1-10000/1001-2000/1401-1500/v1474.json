@@ -1,0 +1,421 @@
+{
+  "vid": "v1474",
+  "name": {
+    "zh-cn": "星空的记忆",
+    "en-us": "Hoshizora no Memoria -Wish upon a Shooting Star-",
+    "ja-jp": "星空のメモリア-Wish upon a shooting star-",
+    "ja-Latn": "hoshizora-no-memoria"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-12",
+  "tips": [
+    "有标号的是二周目、三周目...出现的选项，初次游戏请无视"
+  ],
+  "routes": [
+    {
+      "id": "route_1757504506850",
+      "name": "南星 明日步",
+      "endings": [
+        {
+          "id": "ending_1757504524044",
+          "name": "明日步 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1757504541431",
+              "type": "choice",
+              "content": "见机行事"
+            },
+            {
+              "id": "step_1757504541573",
+              "type": "choice",
+              "content": "告诉她"
+            },
+            {
+              "id": "step_1757504541763",
+              "type": "choice",
+              "content": "不重来",
+              "prefix": "◆"
+            },
+            {
+              "id": "step_1757504541875",
+              "type": "choice",
+              "content": "捉弄她"
+            },
+            {
+              "id": "step_1757504542020",
+              "type": "choice",
+              "content": "在心里感谢",
+              "prefix": "◆"
+            },
+            {
+              "id": "step_1757504542170",
+              "type": "choice",
+              "content": "默认"
+            },
+            {
+              "id": "step_1757504542312",
+              "type": "choice",
+              "content": "紧紧抓住"
+            },
+            {
+              "id": "step_1757504542453",
+              "type": "choice",
+              "content": "算了"
+            },
+            {
+              "id": "step_1757504542585",
+              "type": "choice",
+              "content": "…………",
+              "prefix": "◆"
+            },
+            {
+              "id": "step_1757504542754",
+              "type": "choice",
+              "content": "就这样不动",
+              "prefix": "◆"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1757504638792",
+      "name": "苍 衣铃",
+      "endings": [
+        {
+          "id": "ending_1757504648063",
+          "name": "衣铃 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1757504658003",
+              "type": "choice",
+              "content": "庇护苍"
+            },
+            {
+              "id": "step_1757504658166",
+              "type": "choice",
+              "content": "不告诉她"
+            },
+            {
+              "id": "step_1757504658316",
+              "type": "choice",
+              "content": "不重来",
+              "prefix": "◆"
+            },
+            {
+              "id": "step_1757504658461",
+              "type": "choice",
+              "content": "捉弄她"
+            },
+            {
+              "id": "step_1757504658612",
+              "type": "choice",
+              "content": "在心里感谢",
+              "prefix": "◆"
+            },
+            {
+              "id": "step_1757504658772",
+              "type": "choice",
+              "content": "欢迎苍"
+            },
+            {
+              "id": "step_1757504659192",
+              "type": "choice",
+              "content": "做不到"
+            },
+            {
+              "id": "step_1757504659593",
+              "type": "choice",
+              "content": "算了"
+            },
+            {
+              "id": "step_1757504716131",
+              "type": "choice",
+              "content": "…………",
+              "prefix": "◆"
+            },
+            {
+              "id": "step_1757504716283",
+              "type": "choice",
+              "content": "就这样不动",
+              "prefix": "◆"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1757504733980",
+      "name": "姬榊 小桃",
+      "endings": [
+        {
+          "id": "ending_1757504743288",
+          "name": "小桃 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1757504753519",
+              "type": "choice",
+              "content": "见机行事"
+            },
+            {
+              "id": "step_1757504753672",
+              "type": "choice",
+              "content": "不告诉她"
+            },
+            {
+              "id": "step_1757504753814",
+              "type": "choice",
+              "content": "不重来",
+              "prefix": "◆"
+            },
+            {
+              "id": "step_1757504753945",
+              "type": "choice",
+              "content": "感谢她"
+            },
+            {
+              "id": "step_1757504754099",
+              "type": "choice",
+              "content": "在心里感谢",
+              "prefix": "◆"
+            },
+            {
+              "id": "step_1757504754249",
+              "type": "choice",
+              "content": "默认"
+            },
+            {
+              "id": "step_1757504754402",
+              "type": "choice",
+              "content": "做不到"
+            },
+            {
+              "id": "step_1757504754519",
+              "type": "choice",
+              "content": "说说看"
+            },
+            {
+              "id": "step_1757504754647",
+              "type": "choice",
+              "content": "…………",
+              "prefix": "◆"
+            },
+            {
+              "id": "step_1757504804076",
+              "type": "choice",
+              "content": "就这样不动",
+              "prefix": "◆"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1757504813198",
+      "name": "姬榊 小雨",
+      "endings": [
+        {
+          "id": "ending_1757504822656",
+          "name": "小雨 END",
+          "type": "normal",
+          "requirements": "必须先攻略小桃",
+          "steps": [
+            {
+              "id": "step_1757504860187",
+              "type": "choice",
+              "content": "见机行事"
+            },
+            {
+              "id": "step_1757504860350",
+              "type": "choice",
+              "content": "不告诉她"
+            },
+            {
+              "id": "step_1757504860502",
+              "type": "choice",
+              "content": "重来",
+              "prefix": "◆"
+            },
+            {
+              "id": "step_1757504860661",
+              "type": "choice",
+              "content": "捉弄她"
+            },
+            {
+              "id": "step_1757504860813",
+              "type": "choice",
+              "content": "在心里感谢",
+              "prefix": "◆"
+            },
+            {
+              "id": "step_1757504860957",
+              "type": "choice",
+              "content": "默认"
+            },
+            {
+              "id": "step_1757504861092",
+              "type": "choice",
+              "content": "做不到"
+            },
+            {
+              "id": "step_1757504861235",
+              "type": "choice",
+              "content": "算了"
+            },
+            {
+              "id": "step_1757504861380",
+              "type": "choice",
+              "content": "恋人吗？……",
+              "prefix": "◆"
+            },
+            {
+              "id": "step_1757504861532",
+              "type": "choice",
+              "content": "就这样不动",
+              "prefix": "◆"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1757504930033",
+      "name": "小河坂 千波",
+      "endings": [
+        {
+          "id": "ending_1757504938677",
+          "name": "千波 END",
+          "type": "normal",
+          "requirements": "必须先攻略衣铃",
+          "steps": [
+            {
+              "id": "step_1757504946538",
+              "type": "choice",
+              "content": "见机行事"
+            },
+            {
+              "id": "step_1757504946702",
+              "type": "choice",
+              "content": "不告诉她"
+            },
+            {
+              "id": "step_1757504946860",
+              "type": "choice",
+              "content": "不重来",
+              "prefix": "◆"
+            },
+            {
+              "id": "step_1757504947006",
+              "type": "choice",
+              "content": "捉弄她"
+            },
+            {
+              "id": "step_1757504947170",
+              "type": "choice",
+              "content": "感谢她",
+              "prefix": "◆"
+            },
+            {
+              "id": "step_1757504947309",
+              "type": "choice",
+              "content": "默认"
+            },
+            {
+              "id": "step_1757504947466",
+              "type": "choice",
+              "content": "做不到"
+            },
+            {
+              "id": "step_1757504947595",
+              "type": "choice",
+              "content": "算了"
+            },
+            {
+              "id": "step_1757504947739",
+              "type": "choice",
+              "content": "…………",
+              "prefix": "◆"
+            },
+            {
+              "id": "step_1757504947892",
+              "type": "choice",
+              "content": "抱住千波",
+              "prefix": "◆"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1757505007671",
+      "name": "乙津 梦",
+      "endings": [
+        {
+          "id": "ending_1757505016873",
+          "name": "梦 END",
+          "type": "normal",
+          "requirements": "必须先攻略以上5条线",
+          "steps": [
+            {
+              "id": "step_1757505038754",
+              "type": "choice",
+              "content": "见机行事"
+            },
+            {
+              "id": "step_1757505038922",
+              "type": "choice",
+              "content": "不告诉她"
+            },
+            {
+              "id": "step_1757505039079",
+              "type": "choice",
+              "content": "不重来",
+              "prefix": "◆"
+            },
+            {
+              "id": "step_1757505039217",
+              "type": "choice",
+              "content": "捉弄她"
+            },
+            {
+              "id": "step_1757505039359",
+              "type": "choice",
+              "content": "在心里感谢",
+              "prefix": "◆"
+            },
+            {
+              "id": "step_1757505039627",
+              "type": "choice",
+              "content": "默认"
+            },
+            {
+              "id": "step_1757505049789",
+              "type": "choice",
+              "content": "做不到"
+            },
+            {
+              "id": "step_1757505049930",
+              "type": "choice",
+              "content": "算了"
+            },
+            {
+              "id": "step_1757505050081",
+              "type": "choice",
+              "content": "…………",
+              "prefix": "◆"
+            },
+            {
+              "id": "step_1757505096893",
+              "type": "choice",
+              "content": "就这样不动",
+              "prefix": "◆"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

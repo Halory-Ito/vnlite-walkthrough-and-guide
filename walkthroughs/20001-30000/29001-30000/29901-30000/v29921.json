@@ -1,0 +1,104 @@
+{
+  "vid": "v29921",
+  "name": {
+    "zh-cn": "雪境迷途遇仙踪",
+    "ja-jp": "まどひ白きの神隠し",
+    "ja-Latn": "madohi-shiroki-no-kamikakushi"
+  },
+  "level": 2,
+  "updatedAt": "2026-02-27",
+  "routes": [
+    {
+      "id": "route_1756369232861",
+      "name": "稻白 美琴",
+      "endings": [
+        {
+          "id": "ending_1756369321627",
+          "name": "美琴 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756369335714",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1756369336702",
+              "type": "choice",
+              "content": "我在乎美琴"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756369281926",
+      "name": "高乃 椎凪",
+      "endings": [
+        {
+          "id": "ending_1756369359373",
+          "name": "椎凪 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756369366437",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1756369368252",
+              "type": "choice",
+              "content": "与椎凪一起寻找真相"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756369289218",
+      "name": "士御 芦花",
+      "endings": [
+        {
+          "id": "ending_1756369401857",
+          "name": "芦花 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756369418248",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1756369419660",
+              "type": "choice",
+              "content": "我想守护芦花成长"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756369302288",
+      "name": "九十九 千代",
+      "endings": [
+        {
+          "id": "ending_1756369440047",
+          "name": "千代 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756369451338",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1756369455764",
+              "type": "choice",
+              "content": "我想花更多时间和千代小姐在一起"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

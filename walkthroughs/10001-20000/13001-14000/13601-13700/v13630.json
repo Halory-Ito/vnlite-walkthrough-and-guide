@@ -1,0 +1,481 @@
+{
+  "vid": "v13630",
+  "name": {
+    "zh-cn": "先驱⇒Generation!",
+    "ja-jp": "サキガケ⇒ジェネレーション！",
+    "ja-Latn": "sakigake-generation"
+  },
+  "level": 2,
+  "updatedAt": "2026-04-13",
+  "routes": [
+    {
+      "id": "route_game_guide",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_anon_end",
+          "name": "杏音 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_anon_01",
+              "type": "choice",
+              "content": "记得"
+            },
+            {
+              "id": "step_anon_02",
+              "type": "choice",
+              "content": "继续"
+            },
+            {
+              "id": "step_anon_03",
+              "type": "choice",
+              "content": "先去帮夏姐"
+            },
+            {
+              "id": "step_anon_04",
+              "type": "choice",
+              "content": "帮她解围"
+            },
+            {
+              "id": "step_anon_05",
+              "type": "choice",
+              "content": "不知所措"
+            },
+            {
+              "id": "step_anon_06",
+              "type": "choice",
+              "content": "多亏了杏音吧"
+            },
+            {
+              "id": "step_anon_07",
+              "type": "choice",
+              "content": "我就是 YamatoHime"
+            },
+            {
+              "id": "step_anon_08",
+              "type": "choice",
+              "content": "喜欢杏音的方向性"
+            },
+            {
+              "id": "step_anon_09",
+              "type": "choice",
+              "content": "我就是 YamatoHime"
+            },
+            {
+              "id": "step_anon_10",
+              "type": "choice",
+              "content": "支援璃璃子"
+            },
+            {
+              "id": "step_anon_11",
+              "type": "choice",
+              "content": "正式地"
+            },
+            {
+              "id": "step_anon_12",
+              "type": "choice",
+              "content": "帮星咲解围"
+            },
+            {
+              "id": "step_anon_13",
+              "type": "choice",
+              "content": "正式地"
+            },
+            {
+              "id": "step_anon_14",
+              "type": "choice",
+              "content": "随便敷衍过去"
+            },
+            {
+              "id": "step_anon_15",
+              "type": "choice",
+              "content": "关于未来出路"
+            },
+            {
+              "id": "step_anon_16",
+              "type": "choice",
+              "content": "想看友梨亚的裸体"
+            },
+            {
+              "id": "step_anon_17",
+              "type": "note",
+              "content": "以下选项会影响后续显示的 CG"
+            },
+            {
+              "id": "step_anon_18",
+              "type": "choice",
+              "content": "嘴里/颜射"
+            },
+            {
+              "id": "step_anon_19",
+              "type": "note",
+              "content": "若要登记 CG 模式，两个选项都要选一次，并推进到泳装场景全部结束"
+            }
+          ]
+        },
+        {
+          "id": "ending_ouka_end",
+          "name": "樱花 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_ouka_01",
+              "type": "choice",
+              "content": "记得"
+            },
+            {
+              "id": "step_ouka_02",
+              "type": "choice",
+              "content": "不继续吗？"
+            },
+            {
+              "id": "step_ouka_03",
+              "type": "choice",
+              "content": "是啊"
+            },
+            {
+              "id": "step_ouka_04",
+              "type": "choice",
+              "content": "同情她"
+            },
+            {
+              "id": "step_ouka_05",
+              "type": "choice",
+              "content": "她害羞的样子反而很色"
+            },
+            {
+              "id": "step_ouka_06",
+              "type": "choice",
+              "content": "这才是星咲原本的魅力吧"
+            },
+            {
+              "id": "step_ouka_07",
+              "type": "choice",
+              "content": "我就是 YamatoHime"
+            },
+            {
+              "id": "step_ouka_08",
+              "type": "choice",
+              "content": "喜欢星咲的方向性"
+            },
+            {
+              "id": "step_ouka_09",
+              "type": "choice",
+              "content": "我就是 YamatoHime"
+            },
+            {
+              "id": "step_ouka_10",
+              "type": "choice",
+              "content": "支援璃璃子"
+            },
+            {
+              "id": "step_ouka_11",
+              "type": "choice",
+              "content": "正式地"
+            },
+            {
+              "id": "step_ouka_12",
+              "type": "choice",
+              "content": "帮星咲解围"
+            },
+            {
+              "id": "step_ouka_13",
+              "type": "choice",
+              "content": "正式地"
+            },
+            {
+              "id": "step_ouka_14",
+              "type": "choice",
+              "content": "随便敷衍过去"
+            },
+            {
+              "id": "step_ouka_15",
+              "type": "choice",
+              "content": "关于未来出路"
+            },
+            {
+              "id": "step_ouka_16",
+              "type": "choice",
+              "content": "想看友梨亚的裸体"
+            }
+          ]
+        },
+        {
+          "id": "ending_natsume_end",
+          "name": "夏芽 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_natsume_01",
+              "type": "choice",
+              "content": "记得"
+            },
+            {
+              "id": "step_natsume_02",
+              "type": "choice",
+              "content": "继续"
+            },
+            {
+              "id": "step_natsume_03",
+              "type": "choice",
+              "content": "先去帮夏姐"
+            },
+            {
+              "id": "step_natsume_04",
+              "type": "choice",
+              "content": "帮她解围"
+            },
+            {
+              "id": "step_natsume_05",
+              "type": "choice",
+              "content": "不知所措"
+            },
+            {
+              "id": "step_natsume_06",
+              "type": "choice",
+              "content": "多亏了杏音吧"
+            },
+            {
+              "id": "step_natsume_07",
+              "type": "choice",
+              "content": "我就是 YamatoHime"
+            },
+            {
+              "id": "step_natsume_08",
+              "type": "choice",
+              "content": "喜欢夏姐的方向性"
+            },
+            {
+              "id": "step_natsume_09",
+              "type": "choice",
+              "content": "我就是 YamatoHime"
+            },
+            {
+              "id": "step_natsume_10",
+              "type": "choice",
+              "content": "支援璃璃子"
+            },
+            {
+              "id": "step_natsume_11",
+              "type": "choice",
+              "content": "正式地"
+            },
+            {
+              "id": "step_natsume_12",
+              "type": "choice",
+              "content": "帮夏姐解围"
+            },
+            {
+              "id": "step_natsume_13",
+              "type": "choice",
+              "content": "正式地"
+            },
+            {
+              "id": "step_natsume_14",
+              "type": "choice",
+              "content": "随便敷衍过去"
+            },
+            {
+              "id": "step_natsume_15",
+              "type": "choice",
+              "content": "关于未来出路"
+            },
+            {
+              "id": "step_natsume_16",
+              "type": "choice",
+              "content": "想看友梨亚的裸体"
+            }
+          ]
+        },
+        {
+          "id": "ending_yuria_end",
+          "name": "友梨亚 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_yuria_01",
+              "type": "choice",
+              "content": "记得"
+            },
+            {
+              "id": "step_yuria_02",
+              "type": "choice",
+              "content": "不继续吗？"
+            },
+            {
+              "id": "step_yuria_03",
+              "type": "choice",
+              "content": "是啊"
+            },
+            {
+              "id": "step_yuria_04",
+              "type": "choice",
+              "content": "同情她"
+            },
+            {
+              "id": "step_yuria_05",
+              "type": "choice",
+              "content": "她害羞的样子反而很色"
+            },
+            {
+              "id": "step_yuria_06",
+              "type": "choice",
+              "content": "这才是星咲原本的魅力吧"
+            },
+            {
+              "id": "step_yuria_07",
+              "type": "choice",
+              "content": "我就是 YamatoHime"
+            },
+            {
+              "id": "step_yuria_08",
+              "type": "choice",
+              "content": "喜欢友梨亚的方向性"
+            },
+            {
+              "id": "step_yuria_09",
+              "type": "choice",
+              "content": "我就是 YamatoHime"
+            },
+            {
+              "id": "step_yuria_10",
+              "type": "choice",
+              "content": "帮友梨亚解围"
+            },
+            {
+              "id": "step_yuria_11",
+              "type": "choice",
+              "content": "正式地"
+            },
+            {
+              "id": "step_yuria_12",
+              "type": "choice",
+              "content": "帮夏姐解围"
+            },
+            {
+              "id": "step_yuria_13",
+              "type": "choice",
+              "content": "正式地"
+            },
+            {
+              "id": "step_yuria_14",
+              "type": "choice",
+              "content": "随便敷衍过去"
+            },
+            {
+              "id": "step_yuria_15",
+              "type": "choice",
+              "content": "关于未来出路"
+            },
+            {
+              "id": "step_yuria_16",
+              "type": "choice",
+              "content": "想看友梨亚的泳装"
+            }
+          ]
+        },
+        {
+          "id": "ending_ririko_end",
+          "name": "璃璃子 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_ririko_01",
+              "type": "choice",
+              "content": "记得"
+            },
+            {
+              "id": "step_ririko_02",
+              "type": "choice",
+              "content": "不继续吗？"
+            },
+            {
+              "id": "step_ririko_03",
+              "type": "choice",
+              "content": "是啊"
+            },
+            {
+              "id": "step_ririko_04",
+              "type": "choice",
+              "content": "同情她"
+            },
+            {
+              "id": "step_ririko_05",
+              "type": "choice",
+              "content": "她害羞的样子反而很色"
+            },
+            {
+              "id": "step_ririko_06",
+              "type": "choice",
+              "content": "这才是星咲原本的魅力吧"
+            },
+            {
+              "id": "step_ririko_07",
+              "type": "choice",
+              "content": "我就是 YamatoHime"
+            },
+            {
+              "id": "step_ririko_08",
+              "type": "choice",
+              "content": "喜欢璃璃子的方向性"
+            },
+            {
+              "id": "step_ririko_09",
+              "type": "choice",
+              "content": "我就是 YamatoHime"
+            },
+            {
+              "id": "step_ririko_10",
+              "type": "choice",
+              "content": "支援璃璃子"
+            },
+            {
+              "id": "step_ririko_11",
+              "type": "choice",
+              "content": "正式地"
+            },
+            {
+              "id": "step_ririko_12",
+              "type": "choice",
+              "content": "帮夏姐解围"
+            },
+            {
+              "id": "step_ririko_13",
+              "type": "choice",
+              "content": "正式地"
+            },
+            {
+              "id": "step_ririko_14",
+              "type": "choice",
+              "content": "认真回答"
+            },
+            {
+              "id": "step_ririko_15",
+              "type": "choice",
+              "content": "关于未来出路"
+            },
+            {
+              "id": "step_ririko_16",
+              "type": "choice",
+              "content": "想看友梨亚的裸体"
+            }
+          ]
+        },
+        {
+          "id": "ending_true_end",
+          "name": "END",
+          "type": "true",
+          "requirements": "在最后一位攻略完成的女主线路结尾后继续进入，解锁一次后，此后每次通关任意女主线路都可以游玩",
+          "steps": [
+            {
+              "id": "step_true_01",
+              "type": "note",
+              "content": "无选项"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

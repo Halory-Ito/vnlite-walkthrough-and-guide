@@ -312,6 +312,20 @@ async function main() {
   const total = items.length;
   let done = 0;
 
+  // 卡死检测：源站偶尔会建立连接后不发送完整响应，若超过阈值没有任何进展就提醒
+  let lastProgressAt = Date.now();
+  const stallWatch = setInterval(() => {
+    const idleSec = Math.round((Date.now() - lastProgressAt) / 1000);
+    if (idleSec >= 45) {
+      process.stderr.write(
+        `${c.yellow(`已连续 ${idleSec} 秒没有进展`)}（已完成 ${done}/${total}）。` +
+          `${c.gray('若持续无进展，可 Ctrl+C 后降低 --concurrency / 调大 --delay 重跑，已抓到的页面有缓存不会重复请求。')}\n`,
+      );
+      lastProgressAt = Date.now();
+    }
+  }, 15_000);
+  stallWatch.unref?.();
+
   const symbol = { written: c.green('✓'), unchanged: c.gray('·'), skipped: c.yellow('-'), failed: c.red('!'), 'dry-run': c.blue('?') };
 
   const handle = async (item) => {
@@ -375,6 +389,7 @@ async function main() {
     items.map(async (item) => {
       const record = await handle(item);
       done += 1;
+      lastProgressAt = Date.now();
       const label = `${symbol[record.status]} ${String(done).padStart(3)}/${total} ${item.slug}`;
       const detail = record.vid ? ` -> ${record.vid}${record.reason ? `（${record.reason}）` : ''}` : record.reason ? `（${record.reason}）` : '';
       process.stdout.write(`${c.gray('  ')}${label}${c.gray(detail)}\n`);
@@ -382,11 +397,16 @@ async function main() {
     }),
   );
 
+  clearInterval(stallWatch);
+
   records.push(...results);
 
   // 3. 汇总
   const count = (status) => results.filter((r) => r.status === status).length;
   const written = results.filter((r) => r.status === 'written' || r.status === 'dry-run');
+  // 溯源清单记录的是 vid -> 源页面的对应关系，凡是成功解析出 vid 的页面都应登记，
+  // 否则重跑时全是「未变」会导致清单长期停留在首次导入的规模。
+  const mapped = results.filter((r) => r.source && r.vid);
   const warnings = results.flatMap((r) => r.warnings.map((w) => `${r.slug}: ${w}`));
 
   process.stdout.write('\n');
@@ -396,7 +416,7 @@ async function main() {
   );
   process.stdout.write(
     `${c.gray(`请求 ${fetcher.stats.fetched} 次 / 命中缓存 ${fetcher.stats.cached} 次 / ` +
-      `重试 ${fetcher.stats.retried} 次 / ${(fetcher.stats.bytes / 1024).toFixed(0)} KB`)}\n`,
+      `重试 ${fetcher.stats.retried} 次 / 超时 ${fetcher.stats.timeout} 次 / ${(fetcher.stats.bytes / 1024).toFixed(0)} KB`)}\n`,
   );
 
   if (unknownTags.size > 0) {
@@ -424,8 +444,8 @@ async function main() {
   }
 
   // 4. 溯源清单与索引
-  if (args.sources && written.length > 0 && !args.dryRun) {
-    const totalGames = await updateSourcesManifest(written);
+  if (args.sources && mapped.length > 0 && !args.dryRun) {
+    const totalGames = await updateSourcesManifest(mapped);
     process.stdout.write(`${c.green('已更新溯源清单')}：data/sources/yjgalgame.json（共 ${totalGames} 个游戏）\n`);
   }
 

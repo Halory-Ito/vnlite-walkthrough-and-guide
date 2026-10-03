@@ -1,0 +1,876 @@
+{
+  "vid": "v5922",
+  "name": {
+    "zh-cn": "虚之少女",
+    "en-us": "Kara no Shojo - The Second Episode",
+    "ja-jp": "虚ノ少女",
+    "ja-Latn": "kara-no-shoujo-the-second-episode"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-14",
+  "routes": [
+    {
+      "id": "route_utsuro_no_shoujo",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_end1",
+          "name": "END1 雏偶神作祟",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "e1_002",
+              "type": "choice",
+              "content": "推理：和案件无关",
+              "group": "12月7日"
+            },
+            {
+              "id": "e1_003",
+              "type": "choice",
+              "content": "调查：窗帘、绳子、头、衣服、吊坠、腹部、腿；结束调查",
+              "group": "12月8日"
+            },
+            {
+              "id": "e1_004",
+              "type": "choice",
+              "content": "推理：016→015",
+              "group": "12月8日"
+            },
+            {
+              "id": "e1_005",
+              "type": "choice",
+              "content": "井之头公园",
+              "prefix": "●",
+              "group": "12月13日"
+            },
+            {
+              "id": "e1_006",
+              "type": "choice",
+              "content": "上野站",
+              "prefix": "●",
+              "group": "12月14日"
+            },
+            {
+              "id": "e1_007",
+              "type": "choice",
+              "content": "吉祥寺站",
+              "prefix": "●",
+              "group": "12月15日"
+            },
+            {
+              "id": "e1_008",
+              "type": "note",
+              "content": "像是杀人犯一样的章鱼烧摊主",
+              "group": "12月16日"
+            },
+            {
+              "id": "e1_009",
+              "type": "choice",
+              "content": "上野站",
+              "prefix": "●",
+              "group": "12月16日"
+            },
+            {
+              "id": "e1_010",
+              "type": "choice",
+              "content": "上野站",
+              "prefix": "●",
+              "group": "12月17日"
+            },
+            {
+              "id": "e1_012",
+              "type": "choice",
+              "content": "吉祥寺站",
+              "prefix": "●",
+              "group": "12月18日"
+            },
+            {
+              "id": "e1_013",
+              "type": "choice",
+              "content": "私立樱羽女学院",
+              "prefix": "●",
+              "group": "12月19日"
+            },
+            {
+              "id": "e1_014",
+              "type": "choice",
+              "content": "调查：衣柜、纸袋、头、手、衣服、腹部、长袜；结束调查",
+              "group": "12月21日"
+            },
+            {
+              "id": "e1_015",
+              "type": "note",
+              "content": "雏神理人；杀人；泽城菜菜子",
+              "group": "12月22日"
+            },
+            {
+              "id": "e1_016",
+              "type": "note",
+              "content": "猎鹿帽",
+              "group": "12月24日"
+            },
+            {
+              "id": "e1_017",
+              "type": "choice",
+              "content": "调查：头、腿、毛巾 x72",
+              "group": "12月27日"
+            },
+            {
+              "id": "e1_018",
+              "type": "choice",
+              "content": "推理：022→022",
+              "group": "12月28日"
+            },
+            {
+              "id": "e1_019",
+              "type": "choice",
+              "content": "调查：绳子、头、衣服、腹部、血迹、身前雪地；结束调查",
+              "group": "12月29日"
+            },
+            {
+              "id": "e1_020",
+              "type": "save",
+              "content": "SAVE 1",
+              "prefix": "◆",
+              "group": "12月29日"
+            },
+            {
+              "id": "e1_021",
+              "type": "choice",
+              "content": "推理：真正的雏偶神作祟",
+              "group": "12月29日"
+            }
+          ]
+        },
+        {
+          "id": "ending_end2",
+          "name": "END2 寻找冬子……",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "e2_001",
+              "type": "load",
+              "content": "LOAD 1",
+              "prefix": "◆",
+              "group": "12月29日"
+            },
+            {
+              "id": "e2_002",
+              "type": "choice",
+              "content": "推理：杀害雏神理人的未婚妻",
+              "group": "12月29日"
+            },
+            {
+              "id": "e2_003",
+              "type": "save",
+              "content": "SAVE 2",
+              "prefix": "◆",
+              "group": "1月1日"
+            },
+            {
+              "id": "e2_004",
+              "type": "choice",
+              "content": "去寻找冬子……",
+              "group": "1月1日"
+            }
+          ]
+        },
+        {
+          "id": "ending_end3",
+          "name": "END3 天启御子",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "e3_001",
+              "type": "load",
+              "content": "LOAD 2",
+              "prefix": "◆",
+              "group": "1月1日"
+            },
+            {
+              "id": "e3_002",
+              "type": "note",
+              "content": "完成工作",
+              "group": "1月1日"
+            },
+            {
+              "id": "e3_003",
+              "type": "choice",
+              "content": "上野站",
+              "prefix": "●",
+              "group": "1月4日"
+            },
+            {
+              "id": "e3_004",
+              "type": "choice",
+              "content": "朽木医院",
+              "prefix": "●",
+              "group": "1月5日"
+            },
+            {
+              "id": "e3_005",
+              "type": "save",
+              "content": "SAVE 3",
+              "prefix": "◆",
+              "group": "1月6日"
+            },
+            {
+              "id": "e3_006",
+              "type": "choice",
+              "content": "月世界",
+              "prefix": "●",
+              "group": "1月6日"
+            },
+            {
+              "id": "e3_007",
+              "type": "choice",
+              "content": "推理：001",
+              "group": "1月6日"
+            },
+            {
+              "id": "e3_008",
+              "type": "choice",
+              "content": "留在杏子身边",
+              "group": "1月6日"
+            },
+            {
+              "id": "e3_009",
+              "type": "choice",
+              "content": "井之头公园",
+              "prefix": "●",
+              "group": "1月7日"
+            },
+            {
+              "id": "e3_010",
+              "type": "choice",
+              "content": "调查：柜子、床、窗、地面；结束调查",
+              "group": "1月8日"
+            },
+            {
+              "id": "e3_011",
+              "type": "choice",
+              "content": "朽木医院",
+              "prefix": "●",
+              "group": "1月8日"
+            }
+          ]
+        },
+        {
+          "id": "ending_end4",
+          "name": "END4 消失",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "e4_001",
+              "type": "load",
+              "content": "LOAD 3",
+              "prefix": "◆",
+              "group": "1月6日"
+            },
+            {
+              "id": "e4_002",
+              "type": "choice",
+              "content": "井之头公园",
+              "prefix": "●",
+              "group": "1月6日"
+            },
+            {
+              "id": "e4_003",
+              "type": "choice",
+              "content": "推理：001",
+              "group": "1月6日"
+            },
+            {
+              "id": "e4_004",
+              "type": "choice",
+              "content": "送雪子回去",
+              "group": "1月6日"
+            },
+            {
+              "id": "e4_005",
+              "type": "choice",
+              "content": "月世界",
+              "prefix": "●",
+              "group": "1月7日"
+            },
+            {
+              "id": "e4_006",
+              "type": "choice",
+              "content": "调查：柜子；结束调查",
+              "group": "1月8日"
+            },
+            {
+              "id": "e4_007",
+              "type": "choice",
+              "content": "上野站",
+              "prefix": "●",
+              "group": "1月8日"
+            },
+            {
+              "id": "e4_008",
+              "type": "note",
+              "content": "设陷阱",
+              "group": "1月12日"
+            },
+            {
+              "id": "e4_009",
+              "type": "choice",
+              "content": "不告诉她",
+              "group": "1月12日"
+            },
+            {
+              "id": "e4_010",
+              "type": "save",
+              "content": "SAVE 4",
+              "prefix": "◆",
+              "group": "1月12日"
+            },
+            {
+              "id": "e4_011",
+              "type": "save",
+              "content": "SAVE 5",
+              "prefix": "◆",
+              "group": "1月12日"
+            },
+            {
+              "id": "e4_012",
+              "type": "choice",
+              "content": "私立樱羽女学院",
+              "prefix": "●",
+              "group": "1月12日"
+            }
+          ]
+        },
+        {
+          "id": "ending_end5",
+          "name": "END5 雪绪",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "e5_001",
+              "type": "load",
+              "content": "LOAD 5",
+              "prefix": "◆",
+              "group": "1月12日"
+            },
+            {
+              "id": "e5_002",
+              "type": "choice",
+              "content": "吉祥寺站",
+              "prefix": "●",
+              "group": "1月12日"
+            }
+          ]
+        },
+        {
+          "id": "ending_end6",
+          "name": "END6 花恋",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "e6_001",
+              "type": "load",
+              "content": "LOAD 4",
+              "prefix": "◆",
+              "group": "1月12日"
+            },
+            {
+              "id": "e6_002",
+              "type": "choice",
+              "content": "告诉她",
+              "group": "1月12日"
+            },
+            {
+              "id": "e6_003",
+              "type": "save",
+              "content": "SAVE 6",
+              "prefix": "◆",
+              "group": "1月12日"
+            },
+            {
+              "id": "e6_004",
+              "type": "choice",
+              "content": "井之头公园",
+              "prefix": "●",
+              "group": "1月12日"
+            }
+          ]
+        },
+        {
+          "id": "ending_end7",
+          "name": "END7 另一个紫",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "e7_001",
+              "type": "load",
+              "content": "LOAD 6",
+              "prefix": "◆",
+              "group": "1月12日"
+            },
+            {
+              "id": "e7_002",
+              "type": "choice",
+              "content": "私立樱羽女学院",
+              "prefix": "●",
+              "group": "1月12日"
+            },
+            {
+              "id": "e7_003",
+              "type": "note",
+              "content": "花恋和理人不是秋弦的孩子",
+              "group": "1月12日"
+            },
+            {
+              "id": "e7_004",
+              "type": "note",
+              "content": "都是秋弦的女儿；空木圭吾；调查：头、手、衣服、裤子；结束调查；是他杀",
+              "group": "1月13日"
+            },
+            {
+              "id": "e7_005",
+              "type": "note",
+              "content": "她们是不同的两个人",
+              "group": "1月14日"
+            },
+            {
+              "id": "e7_006",
+              "type": "note",
+              "content": "理子不见了；理子杀害皋月后逃跑了；推理：有可能→是母女",
+              "group": "1月15日"
+            },
+            {
+              "id": "e7_007",
+              "type": "note",
+              "content": "雪子不是真崎的女儿；鸟居小羽；推理：案件被隐瞒下来了→认识的人→023",
+              "group": "1月17日"
+            },
+            {
+              "id": "e7_008",
+              "type": "choice",
+              "content": "调查：衣服、床、左抽屉、右抽屉、笔筒、书；结束调查",
+              "group": "1月18日"
+            },
+            {
+              "id": "e7_009",
+              "type": "save",
+              "content": "SAVE 7",
+              "prefix": "◆",
+              "group": "1月18日"
+            },
+            {
+              "id": "e7_010",
+              "type": "choice",
+              "content": "推理：001→001",
+              "group": "1月18日"
+            }
+          ]
+        },
+        {
+          "id": "ending_end8",
+          "name": "END8 那天的回忆",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "e8_001",
+              "type": "load",
+              "content": "LOAD 7",
+              "prefix": "◆",
+              "group": "1月18日"
+            },
+            {
+              "id": "e8_002",
+              "type": "choice",
+              "content": "推理：091",
+              "group": "1月18日"
+            }
+          ]
+        },
+        {
+          "id": "ending_end9",
+          "name": "END9 普通结局",
+          "type": "normal",
+          "requirements": "从最初开始",
+          "steps": [
+            {
+              "id": "e9_002",
+              "type": "choice",
+              "content": "推理：和案件无关",
+              "group": "12月7日"
+            },
+            {
+              "id": "e9_003",
+              "type": "choice",
+              "content": "调查：绳子、衣服、吊坠、腹部；结束调查",
+              "group": "12月8日"
+            },
+            {
+              "id": "e9_004",
+              "type": "choice",
+              "content": "推理：008→007",
+              "group": "12月8日"
+            },
+            {
+              "id": "e9_005",
+              "type": "choice",
+              "content": "私立樱羽女学院",
+              "prefix": "●",
+              "group": "12月13日"
+            },
+            {
+              "id": "e9_006",
+              "type": "choice",
+              "content": "吉祥寺站",
+              "prefix": "●",
+              "group": "12月14日"
+            },
+            {
+              "id": "e9_007",
+              "type": "choice",
+              "content": "朽木医院",
+              "prefix": "●",
+              "group": "12月15日"
+            },
+            {
+              "id": "e9_008",
+              "type": "note",
+              "content": "白发独臂，看起来很可怕的女人",
+              "group": "12月16日"
+            },
+            {
+              "id": "e9_009",
+              "type": "choice",
+              "content": "私立樱羽女学院",
+              "prefix": "●",
+              "group": "12月16日"
+            },
+            {
+              "id": "e9_010",
+              "type": "choice",
+              "content": "私立樱羽女学院",
+              "prefix": "●",
+              "group": "12月17日"
+            },
+            {
+              "id": "e9_012",
+              "type": "choice",
+              "content": "朽木医院",
+              "prefix": "●",
+              "group": "12月18日"
+            },
+            {
+              "id": "e9_013",
+              "type": "choice",
+              "content": "朽木医院",
+              "prefix": "●",
+              "group": "12月19日"
+            },
+            {
+              "id": "e9_014",
+              "type": "choice",
+              "content": "调查：头、手、腹部；结束调查",
+              "group": "12月21日"
+            },
+            {
+              "id": "e9_015",
+              "type": "note",
+              "content": "雏神理人；杀人；泽城菜菜子",
+              "group": "12月22日"
+            },
+            {
+              "id": "e9_016",
+              "type": "note",
+              "content": "猎鹿帽",
+              "group": "12月24日"
+            },
+            {
+              "id": "e9_017",
+              "type": "note",
+              "content": "结束调查",
+              "group": "12月27日"
+            },
+            {
+              "id": "e9_018",
+              "type": "choice",
+              "content": "推理：030→028",
+              "group": "12月28日"
+            },
+            {
+              "id": "e9_019",
+              "type": "choice",
+              "content": "调查：绳子、头、腹部、血迹、身前雪地；结束调查",
+              "group": "12月29日"
+            },
+            {
+              "id": "e9_020",
+              "type": "choice",
+              "content": "推理：杀害雏神理人的未婚妻",
+              "group": "12月29日"
+            },
+            {
+              "id": "e9_021",
+              "type": "note",
+              "content": "完成工作",
+              "group": "1月1日"
+            },
+            {
+              "id": "e9_022",
+              "type": "choice",
+              "content": "朽木医院",
+              "prefix": "●",
+              "group": "1月4日"
+            },
+            {
+              "id": "e9_023",
+              "type": "note",
+              "content": "绑架",
+              "group": "1月4日"
+            },
+            {
+              "id": "e9_024",
+              "type": "choice",
+              "content": "井之头公园",
+              "prefix": "●",
+              "group": "1月5日"
+            },
+            {
+              "id": "e9_025",
+              "type": "choice",
+              "content": "朽木医院",
+              "prefix": "●",
+              "group": "1月6日"
+            },
+            {
+              "id": "e9_026",
+              "type": "choice",
+              "content": "推理：001",
+              "group": "1月6日"
+            },
+            {
+              "id": "e9_027",
+              "type": "note",
+              "content": "送雪子回去",
+              "group": "1月6日"
+            },
+            {
+              "id": "e9_028",
+              "type": "save",
+              "content": "SAVE 8",
+              "prefix": "◆",
+              "group": "1月6日"
+            },
+            {
+              "id": "e9_029",
+              "type": "choice",
+              "content": "和她睡",
+              "group": "1月6日"
+            },
+            {
+              "id": "e9_030",
+              "type": "choice",
+              "content": "朽木医院",
+              "prefix": "●",
+              "group": "1月7日"
+            },
+            {
+              "id": "e9_031",
+              "type": "choice",
+              "content": "调查：柜子；结束调查",
+              "group": "1月8日"
+            },
+            {
+              "id": "e9_032",
+              "type": "choice",
+              "content": "吉祥寺站",
+              "prefix": "●",
+              "group": "1月8日"
+            },
+            {
+              "id": "e9_033",
+              "type": "note",
+              "content": "设陷阱；告诉她",
+              "group": "1月12日"
+            },
+            {
+              "id": "e9_034",
+              "type": "choice",
+              "content": "私立樱羽女学院",
+              "prefix": "●",
+              "group": "1月12日"
+            },
+            {
+              "id": "e9_035",
+              "type": "note",
+              "content": "花恋和理人不是秋弦的孩子",
+              "group": "1月12日"
+            },
+            {
+              "id": "e9_036",
+              "type": "choice",
+              "content": "和她睡",
+              "group": "1月12日"
+            },
+            {
+              "id": "e9_037",
+              "type": "note",
+              "content": "都是秋弦的女儿；空木圭吾；调查：头、手、衣服、裤子；结束调查；是他杀",
+              "group": "1月13日"
+            },
+            {
+              "id": "e9_038",
+              "type": "note",
+              "content": "她们是不同的两个人",
+              "group": "1月14日"
+            },
+            {
+              "id": "e9_039",
+              "type": "note",
+              "content": "理子不见了；理子杀害皋月后逃跑了；推理：有可能→是母女",
+              "group": "1月15日"
+            },
+            {
+              "id": "e9_040",
+              "type": "note",
+              "content": "雪子不是真崎的女儿；叶月杏子；推理：案件被隐瞒下来了→认识的人→025",
+              "group": "1月17日"
+            },
+            {
+              "id": "e9_041",
+              "type": "choice",
+              "content": "调查：衣服、左抽屉、右抽屉、笔筒；结束调查；推理：081",
+              "group": "1月18日"
+            }
+          ]
+        },
+        {
+          "id": "ending_end10",
+          "name": "END10 真结局",
+          "type": "true",
+          "steps": [
+            {
+              "id": "e10_001",
+              "type": "load",
+              "content": "LOAD 8",
+              "prefix": "◆",
+              "group": "1月6日"
+            },
+            {
+              "id": "e10_002",
+              "type": "choice",
+              "content": "拒绝",
+              "group": "1月6日"
+            },
+            {
+              "id": "e10_003",
+              "type": "choice",
+              "content": "私立樱羽女学院",
+              "prefix": "●",
+              "group": "1月7日"
+            },
+            {
+              "id": "e10_004",
+              "type": "choice",
+              "content": "调查：柜子；结束调查",
+              "group": "1月8日"
+            },
+            {
+              "id": "e10_005",
+              "type": "choice",
+              "content": "吉祥寺站",
+              "prefix": "●",
+              "group": "1月8日"
+            },
+            {
+              "id": "e10_006",
+              "type": "note",
+              "content": "设陷阱；告诉她",
+              "group": "1月12日"
+            },
+            {
+              "id": "e10_007",
+              "type": "choice",
+              "content": "私立樱羽女学院",
+              "prefix": "●",
+              "group": "1月12日"
+            },
+            {
+              "id": "e10_008",
+              "type": "note",
+              "content": "花恋和理人不是秋弦的孩子",
+              "group": "1月12日"
+            },
+            {
+              "id": "e10_009",
+              "type": "choice",
+              "content": "不和她睡",
+              "group": "1月12日"
+            },
+            {
+              "id": "e10_010",
+              "type": "note",
+              "content": "都是秋弦的女儿；空木圭吾；调查：头、手、衣服、裤子；结束调查；是他杀",
+              "group": "1月13日"
+            },
+            {
+              "id": "e10_011",
+              "type": "note",
+              "content": "她们是不同的两个人",
+              "group": "1月14日"
+            },
+            {
+              "id": "e10_012",
+              "type": "note",
+              "content": "理子不见了；理子杀害皋月后逃跑了；推理：有可能→是母女",
+              "group": "1月15日"
+            },
+            {
+              "id": "e10_013",
+              "type": "note",
+              "content": "雪子不是真崎的女儿；鸟居小羽；推理：案件被隐瞒下来了→认识的人→025",
+              "group": "1月17日"
+            },
+            {
+              "id": "e10_014",
+              "type": "choice",
+              "content": "调查：衣服、左抽屉、右抽屉、笔筒；结束调查；推理：081",
+              "group": "1月18日"
+            },
+            {
+              "id": "e10_015",
+              "type": "save",
+              "content": "SAVE 9",
+              "prefix": "◆",
+              "group": "1月20日"
+            },
+            {
+              "id": "e10_016",
+              "type": "choice",
+              "content": "一起行动",
+              "group": "1月20日"
+            }
+          ]
+        },
+        {
+          "id": "ending_end11",
+          "name": "END11 偏执",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "e11_001",
+              "type": "load",
+              "content": "LOAD 9",
+              "prefix": "◆",
+              "group": "1月20日"
+            },
+            {
+              "id": "e11_002",
+              "type": "choice",
+              "content": "分头行动",
+              "group": "1月20日"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

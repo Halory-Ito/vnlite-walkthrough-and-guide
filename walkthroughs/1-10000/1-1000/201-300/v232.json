@@ -1,0 +1,538 @@
+{
+  "vid": "v232",
+  "name": {
+    "zh-cn": "更胜黎明前的琉璃色",
+    "ja-jp": "夜明け前より瑠璃色な",
+    "ja-Latn": "yoake-mae-yori-ruri-iro-na"
+  },
+  "level": 2,
+  "updatedAt": "2026-05-09",
+  "routes": [
+    {
+      "id": "route_all",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_feina",
+          "name": "菲娜 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_feina_000",
+              "type": "choice",
+              "content": "再和麻衣多聊一会"
+            },
+            {
+              "id": "step_feina_001",
+              "type": "choice",
+              "content": "指出姐姐的寝癖"
+            },
+            {
+              "id": "step_feina_002",
+              "type": "choice",
+              "content": "石头"
+            },
+            {
+              "id": "step_feina_003",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_feina_004",
+              "type": "choice",
+              "content": "虽然有点早还是回家吧"
+            },
+            {
+              "id": "step_feina_005",
+              "type": "choice",
+              "content": "向米娅伸出援助之手"
+            },
+            {
+              "id": "step_feina_006",
+              "type": "choice",
+              "content": "我知道了，来帮你吧"
+            },
+            {
+              "id": "step_feina_007",
+              "type": "choice",
+              "content": "学院发生的事"
+            },
+            {
+              "id": "step_feina_008",
+              "type": "choice",
+              "content": "菲娜要是也能成为那样的女王就好了"
+            },
+            {
+              "id": "step_feina_009",
+              "type": "choice",
+              "content": "是菲娜或者是米娅吗",
+              "prefix": "★"
+            },
+            {
+              "id": "step_feina_010",
+              "type": "choice",
+              "content": "再稍微观察一下努力中的菲娜"
+            },
+            {
+              "id": "step_feina_011",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_feina_012",
+              "type": "choice",
+              "content": "菲娜和米娅习惯了地球的生活吗"
+            },
+            {
+              "id": "step_feina_013",
+              "type": "choice",
+              "content": "认为不要紧而像往常一样去学校",
+              "prefix": "★"
+            },
+            {
+              "id": "step_feina_014",
+              "type": "choice",
+              "content": "积极的参与其中",
+              "prefix": "★"
+            },
+            {
+              "id": "step_feina_015",
+              "type": "choice",
+              "content": "难道说，菲娜害怕大海？"
+            },
+            {
+              "id": "step_feina_016",
+              "type": "choice",
+              "content": "啊咧,菲娜还没起来吗？",
+              "prefix": "★"
+            },
+            {
+              "id": "step_feina_017",
+              "type": "choice",
+              "content": "出门修行料理的菜月的母亲不知道怎么样了"
+            },
+            {
+              "id": "step_feina_018",
+              "type": "choice",
+              "content": "必须让菲娜她们尽快适应地球的生活",
+              "prefix": "★"
+            },
+            {
+              "id": "step_feina_019",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_feina_020",
+              "type": "choice",
+              "content": "不，那个和小龙虾很像，可能是螃蟹的一种"
+            },
+            {
+              "id": "step_feina_021",
+              "type": "choice",
+              "content": "菲娜对商店街很有兴趣,陪她一起去逛街",
+              "prefix": "★"
+            },
+            {
+              "id": "step_feina_022",
+              "type": "choice",
+              "content": "嘛，早一点回去吧"
+            },
+            {
+              "id": "step_feina_023",
+              "type": "choice",
+              "content": "在人群之中,我好像看到了菲娜",
+              "prefix": "★"
+            },
+            {
+              "id": "step_feina_024",
+              "type": "choice",
+              "content": "戴在身上会比较好吧？"
+            },
+            {
+              "id": "step_feina_025",
+              "type": "choice",
+              "content": "啊,快点到海边吧",
+              "prefix": "★"
+            }
+          ]
+        },
+        {
+          "id": "ending_mai",
+          "name": "麻衣 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_mai_001",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_mai_002",
+              "type": "choice",
+              "content": "在学校里多待一会"
+            },
+            {
+              "id": "step_mai_003",
+              "type": "choice",
+              "content": "去找找菜月"
+            },
+            {
+              "id": "step_mai_004",
+              "type": "choice",
+              "content": "家里发生的事"
+            },
+            {
+              "id": "step_mai_005",
+              "type": "choice",
+              "content": "特攻打头阵"
+            },
+            {
+              "id": "step_mai_006",
+              "type": "choice",
+              "content": "菜月或是麻衣吧"
+            },
+            {
+              "id": "step_mai_007",
+              "type": "choice",
+              "content": "帮她们俩把茶水送进去吧"
+            },
+            {
+              "id": "step_mai_008",
+              "type": "choice",
+              "content": "菜月的减肥计划怎样了呢"
+            },
+            {
+              "id": "step_mai_009",
+              "type": "choice",
+              "content": "认为不要紧而像往常一样去学校"
+            },
+            {
+              "id": "step_mai_010",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_mai_011",
+              "type": "choice",
+              "content": "悠闲地四处逛逛"
+            },
+            {
+              "id": "step_mai_012",
+              "type": "choice",
+              "content": "那么，试着叫我达哉怎么样？"
+            },
+            {
+              "id": "step_mai_013",
+              "type": "choice",
+              "content": "给姐姐泡茶"
+            },
+            {
+              "id": "step_mai_014",
+              "type": "choice",
+              "content": "陪麻衣一起去练习长笛"
+            },
+            {
+              "id": "step_mai_015",
+              "type": "choice",
+              "content": "占卜恋爱运"
+            },
+            {
+              "id": "step_mai_016",
+              "type": "choice",
+              "content": "在朝雾家扮演母亲角色的是姐姐"
+            },
+            {
+              "id": "step_mai_017",
+              "type": "choice",
+              "content": "姐姐常常在星期天也需要工作呢"
+            },
+            {
+              "id": "step_mai_018",
+              "type": "choice",
+              "content": "给努力参加社团活动的麻衣，买一份冰淇淋"
+            },
+            {
+              "id": "step_mai_019",
+              "type": "choice",
+              "content": "会不会有人来呢，再稍等一下吧"
+            },
+            {
+              "id": "step_mai_020",
+              "type": "choice",
+              "content": "和往常一样，回到家里"
+            },
+            {
+              "id": "step_mai_021",
+              "type": "choice",
+              "content": "说起来，麻衣不太会赖床呢……"
+            },
+            {
+              "id": "step_mai_022",
+              "type": "choice",
+              "content": "赶快下楼去吃饭"
+            },
+            {
+              "id": "step_mai_023",
+              "type": "choice",
+              "content": "在人群之中，我好像看到了菜月和麻衣"
+            },
+            {
+              "id": "step_mai_024",
+              "type": "choice",
+              "content": "到了海边之后，再好好的享受生活"
+            }
+          ]
+        },
+        {
+          "id": "ending_natsuki",
+          "name": "菜月 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_natsuki_001",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_natsuki_002",
+              "type": "choice",
+              "content": "在岸边玩耍"
+            },
+            {
+              "id": "step_natsuki_003",
+              "type": "choice",
+              "content": "握住菜月的手，将螃蟹拔下来"
+            },
+            {
+              "id": "step_natsuki_004",
+              "type": "choice",
+              "content": "给姐姐泡茶"
+            },
+            {
+              "id": "step_natsuki_005",
+              "type": "choice",
+              "content": "陪麻衣一起去练习长笛"
+            },
+            {
+              "id": "step_natsuki_006",
+              "type": "choice",
+              "content": "占卜财运"
+            },
+            {
+              "id": "step_natsuki_007",
+              "type": "choice",
+              "content": "出门修行料理的菜月的母亲不知道怎么样了"
+            },
+            {
+              "id": "step_natsuki_008",
+              "type": "choice",
+              "content": "左门店在星期天也照常营业吧"
+            },
+            {
+              "id": "step_natsuki_009",
+              "type": "choice",
+              "content": "偶尔在白天带意大利一族去散步"
+            },
+            {
+              "id": "step_natsuki_010",
+              "type": "choice",
+              "content": "会不会有人来呢，再稍等一下吧"
+            },
+            {
+              "id": "step_natsuki_011",
+              "type": "choice",
+              "content": "和往常一样，回到家里"
+            },
+            {
+              "id": "step_natsuki_012",
+              "type": "choice",
+              "content": "菜月，有时会学习到很晚呢……"
+            },
+            {
+              "id": "step_natsuki_013",
+              "type": "choice",
+              "content": "在人群之中，我好像看到了菜月和麻衣"
+            },
+            {
+              "id": "step_natsuki_014",
+              "type": "choice",
+              "content": "到了海边之后，再好好的享受生活"
+            }
+          ]
+        },
+        {
+          "id": "ending_sayaka",
+          "name": "沙也佳 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_sayaka_001",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_sayaka_002",
+              "type": "choice",
+              "content": "打工和做家务，和往常一样度过"
+            },
+            {
+              "id": "step_sayaka_003",
+              "type": "choice",
+              "content": "是姐姐吗？"
+            },
+            {
+              "id": "step_sayaka_004",
+              "type": "choice",
+              "content": "仔细调查一下装换洗衣物的篓子"
+            },
+            {
+              "id": "step_sayaka_005",
+              "type": "choice",
+              "content": "选择在家休息保重身体"
+            },
+            {
+              "id": "step_sayaka_006",
+              "type": "choice",
+              "content": "请姐姐帮忙擦一下"
+            },
+            {
+              "id": "step_sayaka_007",
+              "type": "choice",
+              "content": "给姐姐泡茶"
+            },
+            {
+              "id": "step_sayaka_008",
+              "type": "choice",
+              "content": "陪姐姐一起去博物馆看看"
+            },
+            {
+              "id": "step_sayaka_009",
+              "type": "choice",
+              "content": "在朝雾家扮演母亲角色的是姐姐"
+            },
+            {
+              "id": "step_sayaka_010",
+              "type": "choice",
+              "content": "姐姐常常在星期天也需要工作呢"
+            },
+            {
+              "id": "step_sayaka_011",
+              "type": "choice",
+              "content": "菲娜对商店街很有兴趣，陪她一起去逛街"
+            },
+            {
+              "id": "step_sayaka_012",
+              "type": "choice",
+              "content": "会不会有人来呢，再稍等一下吧"
+            },
+            {
+              "id": "step_sayaka_013",
+              "type": "choice",
+              "content": "和往常一样，回到家里"
+            },
+            {
+              "id": "step_sayaka_014",
+              "type": "choice",
+              "content": "说起来，麻衣不太会赖床呢……"
+            },
+            {
+              "id": "step_sayaka_015",
+              "type": "choice",
+              "content": "赶快下楼去吃饭"
+            },
+            {
+              "id": "step_sayaka_016",
+              "type": "choice",
+              "content": "我望着人群发呆"
+            },
+            {
+              "id": "step_sayaka_017",
+              "type": "choice",
+              "content": "到了海边之后，再好好的享受生活"
+            }
+          ]
+        },
+        {
+          "id": "ending_mia",
+          "name": "米娅 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_mia_001",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_mia_002",
+              "type": "choice",
+              "content": "大概……是那样的吧"
+            },
+            {
+              "id": "step_mia_003",
+              "type": "save",
+              "content": "SAVE 5"
+            },
+            {
+              "id": "step_mia_004",
+              "type": "choice",
+              "content": "偶尔在白天带意大利一族去散步"
+            },
+            {
+              "id": "step_mia_005",
+              "type": "choice",
+              "content": "会不会有人来呢，再稍等一下吧"
+            },
+            {
+              "id": "step_mia_006",
+              "type": "choice",
+              "content": "今天有点累，早点睡好了"
+            },
+            {
+              "id": "step_mia_007",
+              "type": "choice",
+              "content": "米娅，一直为了准备早餐而早起呢……"
+            },
+            {
+              "id": "step_mia_008",
+              "type": "choice",
+              "content": "一整天在玩耍中度过"
+            },
+            {
+              "id": "step_mia_009",
+              "type": "choice",
+              "content": "我望着人群发呆"
+            },
+            {
+              "id": "step_mia_010",
+              "type": "choice",
+              "content": "到了海边之后，再好好的享受生活"
+            }
+          ]
+        },
+        {
+          "id": "ending_liz",
+          "name": "莉斯 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_liz_001",
+              "type": "load",
+              "content": "LOAD 5"
+            },
+            {
+              "id": "step_liz_002",
+              "type": "choice",
+              "content": "菲娜对商店街很有兴趣，陪她一起去逛街"
+            },
+            {
+              "id": "step_liz_003",
+              "type": "choice",
+              "content": "我慌忙叫住莉斯"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

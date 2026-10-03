@@ -1,0 +1,178 @@
+{
+  "vid": "v60663",
+  "name": {
+    "zh-cn": "超次元恋人",
+    "ja-jp": "ディメンション凸ラバース！！",
+    "ja-Latn": "dimension-totsu-lovers"
+  },
+  "level": 2,
+  "updatedAt": "2026-05-08",
+  "routes": [
+    {
+      "id": "route_game_guide",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_common",
+          "name": "夜乃樱 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_common_01",
+              "type": "choice",
+              "content": "想见夜乃前辈……"
+            },
+            {
+              "id": "step_common_02",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_common_04",
+              "type": "choice",
+              "content": "学生会室",
+              "subfix": "樱"
+            },
+            {
+              "id": "step_1778211525004",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1778211532823",
+              "type": "choice",
+              "content": "履行血的使命"
+            }
+          ]
+        },
+        {
+          "id": "ending_suisen",
+          "name": "崩月水仙 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_suisen_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_suisen_03",
+              "type": "choice",
+              "content": "保护妹妹",
+              "subfix": "水仙"
+            },
+            {
+              "id": "step_suisen_04",
+              "type": "choice",
+              "content": "水仙"
+            }
+          ]
+        },
+        {
+          "id": "ending_sophia",
+          "name": "索菲亚·兰卡斯特 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_sophia_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_sophia_03",
+              "type": "choice",
+              "content": "培养友情",
+              "subfix": "索菲亚"
+            },
+            {
+              "id": "step_sophia_04",
+              "type": "choice",
+              "content": "「友情很重要」"
+            },
+            {
+              "id": "step_sophia_05",
+              "type": "choice",
+              "content": "「我是这么想的」"
+            }
+          ]
+        },
+        {
+          "id": "ending_kadan",
+          "name": "华淡 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_kadan_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_kadan_03",
+              "type": "choice",
+              "content": "探索爱",
+              "subfix": "华淡"
+            },
+            {
+              "id": "step_kadan_04",
+              "type": "choice",
+              "content": "「找目标书籍的方法是？」"
+            },
+            {
+              "id": "step_kadan_05",
+              "type": "choice",
+              "content": "「关于探索委员会的活动」"
+            }
+          ]
+        },
+        {
+          "id": "ending_main",
+          "name": "主线 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_main_01",
+              "type": "note",
+              "content": "通关四位女主角的结局后，标题画面选择【次元穿越】"
+            }
+          ]
+        },
+        {
+          "id": "ending_suisen_extra",
+          "name": "水仙 未读事件",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_suisen_extra_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_suisen_extra_03",
+              "type": "choice",
+              "content": "自己家",
+              "subfix": "水仙"
+            }
+          ]
+        },
+        {
+          "id": "ending_sophia_extra",
+          "name": "索菲亚 未读事件",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_sophia_extra_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_sophia_extra_03",
+              "type": "choice",
+              "content": "教室",
+              "subfix": "索菲亚"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

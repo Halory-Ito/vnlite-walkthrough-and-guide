@@ -1,0 +1,174 @@
+{
+  "vid": "v16103",
+  "name": {
+    "zh-cn": "鲸神的蒂亚斯蒂拉",
+    "ja-jp": "鯨神のティアスティラ",
+    "ja-Latn": "kujiragami-no-tearstilla"
+  },
+  "level": 2,
+  "updatedAt": "2026-05-08",
+  "routes": [
+    {
+      "id": "route_game_guide",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_minatsuki",
+          "name": "凑月 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_minatsuki_01",
+              "type": "choice",
+              "content": "看脸"
+            },
+            {
+              "id": "step_minatsuki_02",
+              "type": "choice",
+              "content": "相信"
+            },
+            {
+              "id": "step_minatsuki_03",
+              "type": "choice",
+              "content": "我也是破折号"
+            },
+            {
+              "id": "step_minatsuki_04",
+              "type": "choice",
+              "content": "留在原地"
+            },
+            {
+              "id": "step_minatsuki_05",
+              "type": "choice",
+              "content": "生理反应？"
+            },
+            {
+              "id": "step_minatsuki_06",
+              "type": "choice",
+              "content": "我很高兴"
+            },
+            {
+              "id": "step_minatsuki_07",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_minatsuki_08",
+              "type": "choice",
+              "content": "先去祠堂"
+            },
+            {
+              "id": "step_minatsuki_09",
+              "type": "choice",
+              "content": "大小没有什么关系吧"
+            },
+            {
+              "id": "step_minatsuki_10",
+              "type": "choice",
+              "content": "也许是原谅了我的心吧"
+            },
+            {
+              "id": "step_minatsuki_11",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_minatsuki_12",
+              "type": "choice",
+              "content": "凑月"
+            }
+          ]
+        },
+        {
+          "id": "ending_marin",
+          "name": "真莉音 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_marin_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_marin_02",
+              "type": "choice",
+              "content": "去湖里玩"
+            },
+            {
+              "id": "step_marin_03",
+              "type": "choice",
+              "content": "一定是现在的真莉音"
+            },
+            {
+              "id": "step_marin_04",
+              "type": "choice",
+              "content": "被惠那姐姐吸引了"
+            },
+            {
+              "id": "step_marin_05",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_marin_06",
+              "type": "choice",
+              "content": "真莉音"
+            }
+          ]
+        },
+        {
+          "id": "ending_lil",
+          "name": "里尔 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_lil_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_lil_02",
+              "type": "choice",
+              "content": "钻头"
+            }
+          ]
+        },
+        {
+          "id": "ending_ena",
+          "name": "惠那 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_ena_01",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_ena_02",
+              "type": "choice",
+              "content": "惠那姐姐"
+            }
+          ]
+        },
+        {
+          "id": "ending_true",
+          "name": "TRUE END",
+          "type": "true",
+          "requirements": "4人攻略结束后，标题画面会追加TRUE路线",
+          "steps": [
+            {
+              "id": "step_true_02",
+              "type": "choice",
+              "content": "从图尔开始"
+            },
+            {
+              "id": "step_true_03",
+              "type": "choice",
+              "content": "否定，否定"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

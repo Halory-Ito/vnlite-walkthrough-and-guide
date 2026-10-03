@@ -1,0 +1,1562 @@
+{
+  "vid": "v1325",
+  "name": {
+    "zh-cn": "秋之回憶5：中断的胶片",
+    "ja-jp": "Memories Off #5 とぎれたフィルム",
+    "ja-Latn": "memories-off-5"
+  },
+  "level": 1,
+  "updatedAt": "2026-03-25",
+  "routes": [
+    {
+      "id": "route_memories_off_5",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_asuka_a",
+          "name": "明日香 END A Final Cut",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_asuka_a_003",
+              "type": "choice",
+              "content": "似乎很开心嘛",
+              "group": "4/6"
+            },
+            {
+              "id": "step_asuka_a_004",
+              "type": "choice",
+              "content": "赞同",
+              "group": "4/6"
+            },
+            {
+              "id": "step_asuka_a_005",
+              "type": "choice",
+              "content": "别这样做",
+              "group": "4/6"
+            },
+            {
+              "id": "step_asuka_a_006",
+              "type": "choice",
+              "content": "绝对不能答应",
+              "group": "4/6"
+            },
+            {
+              "id": "step_asuka_a_008",
+              "type": "choice",
+              "content": "假装不知道",
+              "group": "4/7"
+            },
+            {
+              "id": "step_asuka_a_009",
+              "type": "save",
+              "content": "SAVE 1",
+              "group": "4/7"
+            },
+            {
+              "id": "step_asuka_a_010",
+              "type": "choice",
+              "content": "放弃抵抗",
+              "group": "4/7"
+            },
+            {
+              "id": "step_asuka_a_012",
+              "type": "save",
+              "content": "SAVE 2",
+              "group": "4/8"
+            },
+            {
+              "id": "step_asuka_a_013",
+              "type": "choice",
+              "content": "还是更担心明日香",
+              "group": "4/8"
+            },
+            {
+              "id": "step_asuka_a_014",
+              "type": "choice",
+              "content": "婉言谢绝",
+              "group": "4/8"
+            },
+            {
+              "id": "step_asuka_a_015",
+              "type": "choice",
+              "content": "第一次见到明日香穿工作服",
+              "group": "4/8"
+            },
+            {
+              "id": "step_asuka_a_017",
+              "type": "choice",
+              "content": "去外面会合",
+              "group": "4/9"
+            },
+            {
+              "id": "step_asuka_a_018",
+              "type": "choice",
+              "content": "清爽的白色！",
+              "group": "4/9"
+            },
+            {
+              "id": "step_asuka_a_020",
+              "type": "choice",
+              "content": "担心",
+              "group": "4/11"
+            },
+            {
+              "id": "step_asuka_a_022",
+              "type": "choice",
+              "content": "麻烦了呀",
+              "group": "4/12"
+            },
+            {
+              "id": "step_asuka_a_024",
+              "type": "choice",
+              "content": "接听电话",
+              "group": "4/13"
+            },
+            {
+              "id": "step_asuka_a_025",
+              "type": "choice",
+              "content": "喝",
+              "group": "4/13"
+            },
+            {
+              "id": "step_asuka_a_027",
+              "type": "choice",
+              "content": "我知道了",
+              "group": "4/14"
+            },
+            {
+              "id": "step_asuka_a_029",
+              "type": "choice",
+              "content": "行呀",
+              "group": "4/15"
+            },
+            {
+              "id": "step_asuka_a_031",
+              "type": "choice",
+              "content": "绝对不要",
+              "group": "4/16"
+            },
+            {
+              "id": "step_asuka_a_032",
+              "type": "choice",
+              "content": "怎能做如此害羞的举动",
+              "group": "4/16"
+            },
+            {
+              "id": "step_asuka_a_033",
+              "type": "choice",
+              "content": "这是误解！",
+              "group": "4/16"
+            },
+            {
+              "id": "step_asuka_a_035",
+              "type": "choice",
+              "content": "不能一概而定",
+              "group": "4/17"
+            },
+            {
+              "id": "step_asuka_a_036",
+              "type": "choice",
+              "content": "接听电话",
+              "group": "4/17"
+            },
+            {
+              "id": "step_asuka_a_038",
+              "type": "choice",
+              "content": "盯着她的眼睛",
+              "group": "4/18"
+            },
+            {
+              "id": "step_asuka_a_039",
+              "type": "choice",
+              "content": "......",
+              "group": "4/18"
+            },
+            {
+              "id": "step_asuka_a_041",
+              "type": "choice",
+              "content": "做出否定",
+              "group": "4/19"
+            },
+            {
+              "id": "step_asuka_a_043",
+              "type": "choice",
+              "content": "我接受这个挑战！",
+              "group": "4/20"
+            },
+            {
+              "id": "step_asuka_a_044",
+              "type": "choice",
+              "content": "到外边去让头脑冷静下来，",
+              "group": "4/20"
+            },
+            {
+              "id": "step_asuka_a_046",
+              "type": "choice",
+              "content": "不起床",
+              "group": "4/21"
+            },
+            {
+              "id": "step_asuka_a_047",
+              "type": "choice",
+              "content": "陪她一起去",
+              "group": "4/21"
+            },
+            {
+              "id": "step_asuka_a_048",
+              "type": "choice",
+              "content": "蛋白",
+              "group": "4/21"
+            },
+            {
+              "id": "step_asuka_a_050",
+              "type": "choice",
+              "content": "想办法摆脱",
+              "group": "4/22"
+            },
+            {
+              "id": "step_asuka_a_051",
+              "type": "choice",
+              "content": "诉说男子汉的右倾",
+              "group": "4/22"
+            },
+            {
+              "id": "step_asuka_a_053",
+              "type": "choice",
+              "content": "那我就来帮你吧！",
+              "group": "4/24"
+            },
+            {
+              "id": "step_asuka_a_055",
+              "type": "choice",
+              "content": "拥抱她",
+              "group": "4/25"
+            },
+            {
+              "id": "step_asuka_a_057",
+              "type": "choice",
+              "content": "嗯，差不多吧。",
+              "group": "4/27"
+            },
+            {
+              "id": "step_asuka_a_059",
+              "type": "choice",
+              "content": "再见",
+              "group": "4/28"
+            },
+            {
+              "id": "step_asuka_a_061",
+              "type": "choice",
+              "content": "我想得到你。",
+              "group": "4/30"
+            },
+            {
+              "id": "step_asuka_a_063",
+              "type": "choice",
+              "content": "第一次约会的纪念日",
+              "group": "5/1"
+            },
+            {
+              "id": "step_asuka_a_064",
+              "type": "choice",
+              "content": "希望我们能永远在一起",
+              "group": "5/1"
+            },
+            {
+              "id": "step_asuka_a_066",
+              "type": "choice",
+              "content": "不放开手",
+              "group": "5/2"
+            }
+          ]
+        },
+        {
+          "id": "ending_asuka_b",
+          "name": "明日香 END B Crank In",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_asuka_b_001",
+              "type": "note",
+              "content": "主菜单 Shortcut 选择明日香篇 High Riding"
+            },
+            {
+              "id": "step_asuka_b_003",
+              "type": "choice",
+              "content": "矇混过去",
+              "group": "4/19"
+            },
+            {
+              "id": "step_asuka_b_005",
+              "type": "choice",
+              "content": "逃",
+              "group": "4/20"
+            },
+            {
+              "id": "step_asuka_b_006",
+              "type": "choice",
+              "content": "到外边去让头脑冷静下来，",
+              "group": "4/20"
+            },
+            {
+              "id": "step_asuka_b_008",
+              "type": "choice",
+              "content": "起床",
+              "group": "4/21"
+            },
+            {
+              "id": "step_asuka_b_009",
+              "type": "choice",
+              "content": "不去",
+              "group": "4/21"
+            },
+            {
+              "id": "step_asuka_b_010",
+              "type": "choice",
+              "content": "蛋黄",
+              "group": "4/21"
+            },
+            {
+              "id": "step_asuka_b_012",
+              "type": "choice",
+              "content": "贿赂他",
+              "group": "4/22"
+            },
+            {
+              "id": "step_asuka_b_014",
+              "type": "choice",
+              "content": "不论如何要走出房间",
+              "group": "4/24"
+            },
+            {
+              "id": "step_asuka_b_016",
+              "type": "choice",
+              "content": "吻她",
+              "group": "4/25"
+            },
+            {
+              "id": "step_asuka_b_018",
+              "type": "choice",
+              "content": "怎么可能！",
+              "group": "4/27"
+            },
+            {
+              "id": "step_asuka_b_020",
+              "type": "choice",
+              "content": "别了",
+              "group": "4/28"
+            },
+            {
+              "id": "step_asuka_b_022",
+              "type": "choice",
+              "content": "用雄介的剧本",
+              "group": "5/6"
+            },
+            {
+              "id": "step_asuka_b_023",
+              "type": "choice",
+              "content": "制作手绘故事板比赛",
+              "group": "5/6"
+            }
+          ]
+        },
+        {
+          "id": "ending_mayu_a",
+          "name": "麻寻 END A 光之阶梯",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_mayu_a_001",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_mayu_a_003",
+              "type": "choice",
+              "content": "带着伞追上去",
+              "group": "4/8"
+            },
+            {
+              "id": "step_mayu_a_004",
+              "type": "choice",
+              "content": "婉言谢绝",
+              "group": "4/8"
+            },
+            {
+              "id": "step_mayu_a_005",
+              "type": "choice",
+              "content": "第一次见到明日香穿工作服",
+              "group": "4/8"
+            },
+            {
+              "id": "step_mayu_a_007",
+              "type": "choice",
+              "content": "让她先回去",
+              "group": "4/9"
+            },
+            {
+              "id": "step_mayu_a_009",
+              "type": "choice",
+              "content": "鼓励",
+              "group": "4/11"
+            },
+            {
+              "id": "step_mayu_a_011",
+              "type": "choice",
+              "content": "强势呀",
+              "group": "4/12"
+            },
+            {
+              "id": "step_mayu_a_013",
+              "type": "choice",
+              "content": "交给修司",
+              "group": "4/13"
+            },
+            {
+              "id": "step_mayu_a_014",
+              "type": "choice",
+              "content": "谢绝",
+              "group": "4/13"
+            },
+            {
+              "id": "step_mayu_a_016",
+              "type": "choice",
+              "content": "别担心我",
+              "group": "4/14"
+            },
+            {
+              "id": "step_mayu_a_017",
+              "type": "choice",
+              "content": "抱歉",
+              "group": "4/14"
+            },
+            {
+              "id": "step_mayu_a_018",
+              "type": "choice",
+              "content": "接过",
+              "group": "4/14"
+            },
+            {
+              "id": "step_mayu_a_020",
+              "type": "choice",
+              "content": "不干",
+              "group": "4/15"
+            },
+            {
+              "id": "step_mayu_a_022",
+              "type": "choice",
+              "content": "好极了",
+              "group": "4/16"
+            },
+            {
+              "id": "step_mayu_a_023",
+              "type": "choice",
+              "content": "试着叫她的名字",
+              "group": "4/16"
+            },
+            {
+              "id": "step_mayu_a_024",
+              "type": "choice",
+              "content": "我可没有犯罪！",
+              "group": "4/16"
+            },
+            {
+              "id": "step_mayu_a_026",
+              "type": "choice",
+              "content": "接受导演的职位",
+              "group": "4/17"
+            },
+            {
+              "id": "step_mayu_a_027",
+              "type": "choice",
+              "content": "不接",
+              "group": "4/17"
+            },
+            {
+              "id": "step_mayu_a_029",
+              "type": "choice",
+              "content": "明快地打招呼",
+              "group": "4/18"
+            },
+            {
+              "id": "step_mayu_a_031",
+              "type": "choice",
+              "content": "绝对错了",
+              "group": "4/19"
+            },
+            {
+              "id": "step_mayu_a_032",
+              "type": "choice",
+              "content": "我才不会变卦呢",
+              "group": "4/19"
+            },
+            {
+              "id": "step_mayu_a_034",
+              "type": "choice",
+              "content": "和麻寻",
+              "group": "4/20"
+            },
+            {
+              "id": "step_mayu_a_035",
+              "type": "choice",
+              "content": "这种事别放在心上",
+              "group": "4/20"
+            },
+            {
+              "id": "step_mayu_a_037",
+              "type": "choice",
+              "content": "很可爱呀",
+              "group": "4/21"
+            },
+            {
+              "id": "step_mayu_a_038",
+              "type": "choice",
+              "content": "一起来看！",
+              "group": "4/21"
+            },
+            {
+              "id": "step_mayu_a_040",
+              "type": "choice",
+              "content": "自己付入场费",
+              "group": "4/22"
+            },
+            {
+              "id": "step_mayu_a_041",
+              "type": "choice",
+              "content": "反握住她的手",
+              "group": "4/22"
+            },
+            {
+              "id": "step_mayu_a_042",
+              "type": "choice",
+              "content": "仙堂，别离开我！",
+              "group": "4/22"
+            },
+            {
+              "id": "step_mayu_a_044",
+              "type": "choice",
+              "content": "赶快去看个究竟",
+              "group": "4/23"
+            },
+            {
+              "id": "step_mayu_a_045",
+              "type": "choice",
+              "content": "轻松地开个玩笑",
+              "group": "4/23"
+            },
+            {
+              "id": "step_mayu_a_047",
+              "type": "choice",
+              "content": "这不是香月干的对吧？",
+              "group": "4/25"
+            },
+            {
+              "id": "step_mayu_a_048",
+              "type": "choice",
+              "content": "搪塞过去",
+              "group": "4/25"
+            },
+            {
+              "id": "step_mayu_a_049",
+              "type": "choice",
+              "content": "我不讨厌你",
+              "group": "4/25"
+            },
+            {
+              "id": "step_mayu_a_051",
+              "type": "choice",
+              "content": "我才没忘记",
+              "group": "4/26"
+            },
+            {
+              "id": "step_mayu_a_053",
+              "type": "choice",
+              "content": "让她进来",
+              "group": "4/28"
+            },
+            {
+              "id": "step_mayu_a_054",
+              "type": "choice",
+              "content": "其实我在看麻寻",
+              "group": "4/28"
+            },
+            {
+              "id": "step_mayu_a_055",
+              "type": "save",
+              "content": "SAVE 3",
+              "group": "4/28"
+            },
+            {
+              "id": "step_mayu_a_056",
+              "type": "choice",
+              "content": "我想保护麻寻",
+              "group": "4/28"
+            },
+            {
+              "id": "step_mayu_a_058",
+              "type": "choice",
+              "content": "等待麻寻",
+              "group": "5/2"
+            }
+          ]
+        },
+        {
+          "id": "ending_mayu_reverse_cut",
+          "name": "麻寻 END Reverse Cut 独处的两人",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_mayu_rev_002",
+              "type": "choice",
+              "content": "想法真是简单",
+              "group": "4/7"
+            },
+            {
+              "id": "step_mayu_rev_004",
+              "type": "choice",
+              "content": "进去！",
+              "group": "4/8"
+            },
+            {
+              "id": "step_mayu_rev_006",
+              "type": "choice",
+              "content": "点许多的菜",
+              "group": "4/12"
+            },
+            {
+              "id": "step_mayu_rev_008",
+              "type": "choice",
+              "content": "怀疑是否存在圈套",
+              "group": "4/14"
+            },
+            {
+              "id": "step_mayu_rev_011",
+              "type": "choice",
+              "content": "去也没什么关系",
+              "group": "4/22"
+            },
+            {
+              "id": "step_mayu_rev_013",
+              "type": "choice",
+              "content": "这不是有意弄坏的，对吧？",
+              "group": "4/29"
+            },
+            {
+              "id": "step_mayu_rev_015",
+              "type": "save",
+              "content": "SAVE 4",
+              "group": "5/8"
+            },
+            {
+              "id": "step_mayu_rev_016",
+              "type": "choice",
+              "content": "好开心......",
+              "group": "5/8"
+            }
+          ]
+        },
+        {
+          "id": "ending_mayu_last_cut",
+          "name": "麻寻 END Last Cut 5个心愿实现之时",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_mayu_last_001",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_mayu_last_003",
+              "type": "choice",
+              "content": "但是......",
+              "group": "5/7"
+            }
+          ]
+        },
+        {
+          "id": "ending_mayu_b",
+          "name": "麻寻 END B 梦的终结",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_mayu_b_001",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_mayu_b_003",
+              "type": "choice",
+              "content": "我不想被麻寻讨厌",
+              "group": "4/28"
+            }
+          ]
+        },
+        {
+          "id": "ending_kazuki_a",
+          "name": "香月 END A 温柔的爱吧",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_kazuki_a_001",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_kazuki_a_003",
+              "type": "choice",
+              "content": "立刻开始吃",
+              "group": "4/7"
+            },
+            {
+              "id": "step_kazuki_a_005",
+              "type": "choice",
+              "content": "反正再也不会见面了",
+              "group": "4/8"
+            },
+            {
+              "id": "step_kazuki_a_006",
+              "type": "choice",
+              "content": "别动邪念......别动邪念......",
+              "group": "4/8"
+            },
+            {
+              "id": "step_kazuki_a_007",
+              "type": "choice",
+              "content": "婉言谢绝",
+              "group": "4/8"
+            },
+            {
+              "id": "step_kazuki_a_008",
+              "type": "choice",
+              "content": "第一次见到明日香穿工作服",
+              "group": "4/8"
+            },
+            {
+              "id": "step_kazuki_a_009",
+              "type": "choice",
+              "content": "窒息个头啊",
+              "group": "4/8"
+            },
+            {
+              "id": "step_kazuki_a_010",
+              "type": "choice",
+              "content": "考虑仙堂麻寻的事",
+              "group": "4/8"
+            },
+            {
+              "id": "step_kazuki_a_011",
+              "type": "choice",
+              "content": "但不知为何就是在意仙堂的事",
+              "group": "4/8"
+            },
+            {
+              "id": "step_kazuki_a_013",
+              "type": "choice",
+              "content": "去外面会合",
+              "group": "4/9"
+            },
+            {
+              "id": "step_kazuki_a_014",
+              "type": "choice",
+              "content": "当然是豹纹！",
+              "group": "4/9"
+            },
+            {
+              "id": "step_kazuki_a_016",
+              "type": "choice",
+              "content": "鼓励",
+              "group": "4/11"
+            },
+            {
+              "id": "step_kazuki_a_018",
+              "type": "choice",
+              "content": "麻烦了呀",
+              "group": "4/12"
+            },
+            {
+              "id": "step_kazuki_a_020",
+              "type": "choice",
+              "content": "交给修司",
+              "group": "4/13"
+            },
+            {
+              "id": "step_kazuki_a_021",
+              "type": "choice",
+              "content": "谢绝",
+              "group": "4/13"
+            },
+            {
+              "id": "step_kazuki_a_023",
+              "type": "choice",
+              "content": "那时候、就拜托你了",
+              "group": "4/14"
+            },
+            {
+              "id": "step_kazuki_a_024",
+              "type": "choice",
+              "content": "不接",
+              "group": "4/14"
+            },
+            {
+              "id": "step_kazuki_a_026",
+              "type": "choice",
+              "content": "现在就借块手帕给她",
+              "group": "4/15"
+            },
+            {
+              "id": "step_kazuki_a_028",
+              "type": "choice",
+              "content": "怎能做如此害羞的举动",
+              "group": "4/16"
+            },
+            {
+              "id": "step_kazuki_a_029",
+              "type": "choice",
+              "content": "这是误解！",
+              "group": "4/16"
+            },
+            {
+              "id": "step_kazuki_a_031",
+              "type": "choice",
+              "content": "不能一概而定",
+              "group": "4/17"
+            },
+            {
+              "id": "step_kazuki_a_032",
+              "type": "choice",
+              "content": "接听电话",
+              "group": "4/17"
+            },
+            {
+              "id": "step_kazuki_a_034",
+              "type": "choice",
+              "content": "明快地打招呼",
+              "group": "4/18"
+            },
+            {
+              "id": "step_kazuki_a_036",
+              "type": "choice",
+              "content": "让她别勉强自己",
+              "group": "4/19"
+            },
+            {
+              "id": "step_kazuki_a_038",
+              "type": "save",
+              "content": "SAVE 5",
+              "group": "4/20"
+            },
+            {
+              "id": "step_kazuki_a_039",
+              "type": "choice",
+              "content": "在此抵抗",
+              "group": "4/20"
+            },
+            {
+              "id": "step_kazuki_a_040",
+              "type": "load",
+              "content": "LOAD 5",
+              "group": "4/20"
+            },
+            {
+              "id": "step_kazuki_a_041",
+              "type": "choice",
+              "content": "还给她可以，但还是进行交涉",
+              "group": "4/20"
+            },
+            {
+              "id": "step_kazuki_a_043",
+              "type": "save",
+              "content": "SAVE 6",
+              "group": "4/21"
+            },
+            {
+              "id": "step_kazuki_a_044",
+              "type": "choice",
+              "content": "把自己关在活动室里作业",
+              "group": "4/21"
+            },
+            {
+              "id": "step_kazuki_a_045",
+              "type": "choice",
+              "content": "我也得相应地进行反击",
+              "group": "4/21"
+            },
+            {
+              "id": "step_kazuki_a_047",
+              "type": "choice",
+              "content": "这里由我出面",
+              "group": "4/22"
+            },
+            {
+              "id": "step_kazuki_a_049",
+              "type": "choice",
+              "content": "自己确认",
+              "group": "4/23"
+            },
+            {
+              "id": "step_kazuki_a_051",
+              "type": "choice",
+              "content": "说出真实感想",
+              "group": "4/24"
+            },
+            {
+              "id": "step_kazuki_a_052",
+              "type": "choice",
+              "content": "询问她发生了什么事",
+              "group": "4/24"
+            },
+            {
+              "id": "step_kazuki_a_053",
+              "type": "choice",
+              "content": "看见了",
+              "group": "4/24"
+            },
+            {
+              "id": "step_kazuki_a_054",
+              "type": "choice",
+              "content": "这不是明摆着的事吗？",
+              "group": "4/24"
+            },
+            {
+              "id": "step_kazuki_a_056",
+              "type": "choice",
+              "content": "替香月说话",
+              "group": "4/25"
+            },
+            {
+              "id": "step_kazuki_a_058",
+              "type": "choice",
+              "content": "认真切入话题",
+              "group": "4/26"
+            },
+            {
+              "id": "step_kazuki_a_059",
+              "type": "save",
+              "content": "SAVE 7",
+              "group": "4/26"
+            },
+            {
+              "id": "step_kazuki_a_060",
+              "type": "choice",
+              "content": "这种事，我无法认同",
+              "group": "4/26"
+            }
+          ]
+        },
+        {
+          "id": "ending_kazuki_b",
+          "name": "香月 END B 与你永别",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_kazuki_b_001",
+              "type": "load",
+              "content": "LOAD 7"
+            },
+            {
+              "id": "step_kazuki_b_003",
+              "type": "choice",
+              "content": "答应她继续拍电影",
+              "group": "4/26"
+            }
+          ]
+        },
+        {
+          "id": "ending_kazuki_c",
+          "name": "香月 END C 雨中歌唱",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_kazuki_c_001",
+              "type": "load",
+              "content": "LOAD 6"
+            },
+            {
+              "id": "step_kazuki_c_003",
+              "type": "choice",
+              "content": "回家后再干吧",
+              "group": "4/21"
+            },
+            {
+              "id": "step_kazuki_c_004",
+              "type": "choice",
+              "content": "不用去在意这个",
+              "group": "4/21"
+            },
+            {
+              "id": "step_kazuki_c_006",
+              "type": "choice",
+              "content": "全权交给香月处理",
+              "group": "4/22"
+            },
+            {
+              "id": "step_kazuki_c_008",
+              "type": "choice",
+              "content": "向香月询问情况",
+              "group": "4/23"
+            },
+            {
+              "id": "step_kazuki_c_010",
+              "type": "choice",
+              "content": "搪塞过去",
+              "group": "4/24"
+            },
+            {
+              "id": "step_kazuki_c_011",
+              "type": "choice",
+              "content": "算了，香月也是会感到劳累的",
+              "group": "4/24"
+            },
+            {
+              "id": "step_kazuki_c_012",
+              "type": "choice",
+              "content": "看见了",
+              "group": "4/24"
+            },
+            {
+              "id": "step_kazuki_c_013",
+              "type": "choice",
+              "content": "其实是木濑同学......",
+              "group": "4/24"
+            },
+            {
+              "id": "step_kazuki_c_015",
+              "type": "choice",
+              "content": "替木濑同学说话",
+              "group": "4/25"
+            },
+            {
+              "id": "step_kazuki_c_017",
+              "type": "choice",
+              "content": "认真切入话题",
+              "group": "4/26"
+            },
+            {
+              "id": "step_kazuki_c_018",
+              "type": "choice",
+              "content": "这种事，我无法认同",
+              "group": "4/26"
+            }
+          ]
+        },
+        {
+          "id": "ending_miumi_a",
+          "name": "美海 END A 小小的证据",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_miumi_a_002",
+              "type": "note",
+              "content": "Master cut"
+            },
+            {
+              "id": "step_miumi_a_004",
+              "type": "choice",
+              "content": "这又怎么样呢？",
+              "group": "4/6"
+            },
+            {
+              "id": "step_miumi_a_005",
+              "type": "choice",
+              "content": "关我什么事"
+            },
+            {
+              "id": "step_miumi_a_006",
+              "type": "choice",
+              "content": "向她搭话"
+            },
+            {
+              "id": "step_miumi_a_007",
+              "type": "save",
+              "content": "SAVE 8"
+            },
+            {
+              "id": "step_miumi_a_008",
+              "type": "choice",
+              "content": "炸肉饭团"
+            },
+            {
+              "id": "step_miumi_a_009",
+              "type": "load",
+              "content": "LOAD 8"
+            },
+            {
+              "id": "step_miumi_a_010",
+              "type": "choice",
+              "content": "油菜饭团"
+            },
+            {
+              "id": "step_miumi_a_011",
+              "type": "load",
+              "content": "LOAD 8"
+            },
+            {
+              "id": "step_miumi_a_012",
+              "type": "choice",
+              "content": "蟹茸饭团"
+            },
+            {
+              "id": "step_miumi_a_013",
+              "type": "choice",
+              "content": "好啊"
+            },
+            {
+              "id": "step_miumi_a_015",
+              "type": "choice",
+              "content": "我知道",
+              "group": "4/7"
+            },
+            {
+              "id": "step_miumi_a_016",
+              "type": "choice",
+              "content": "立刻开始吃"
+            },
+            {
+              "id": "step_miumi_a_018",
+              "type": "choice",
+              "content": "反正再也不会见面了",
+              "group": "4/8"
+            },
+            {
+              "id": "step_miumi_a_019",
+              "type": "choice",
+              "content": "别动邪念......别动邪念......"
+            },
+            {
+              "id": "step_miumi_a_020",
+              "type": "choice",
+              "content": "婉言谢绝"
+            },
+            {
+              "id": "step_miumi_a_021",
+              "type": "choice",
+              "content": "第一次见到明日香穿工作服"
+            },
+            {
+              "id": "step_miumi_a_022",
+              "type": "choice",
+              "content": "窒息了"
+            },
+            {
+              "id": "step_miumi_a_023",
+              "type": "choice",
+              "content": "没有那个必要、睡觉去"
+            },
+            {
+              "id": "step_miumi_a_025",
+              "type": "choice",
+              "content": "继续担任家庭教师",
+              "group": "4/10"
+            },
+            {
+              "id": "step_miumi_a_026",
+              "type": "choice",
+              "content": "太可怕了，还是别质疑了"
+            },
+            {
+              "id": "step_miumi_a_028",
+              "type": "choice",
+              "content": "没什么好在意的",
+              "group": "4/11"
+            },
+            {
+              "id": "step_miumi_a_030",
+              "type": "choice",
+              "content": "管他呢！",
+              "group": "4/13"
+            },
+            {
+              "id": "step_miumi_a_032",
+              "type": "choice",
+              "content": "说点好话哄哄她",
+              "group": "4/14"
+            },
+            {
+              "id": "step_miumi_a_034",
+              "type": "choice",
+              "content": "袒护美海",
+              "group": "4/15"
+            },
+            {
+              "id": "step_miumi_a_036",
+              "type": "choice",
+              "content": "稍微戏弄一下她",
+              "group": "4/16"
+            },
+            {
+              "id": "step_miumi_a_038",
+              "type": "choice",
+              "content": "才不是什么「这种」",
+              "group": "4/17"
+            },
+            {
+              "id": "step_miumi_a_040",
+              "type": "choice",
+              "content": "为什么要这么问？",
+              "group": "4/23"
+            },
+            {
+              "id": "step_miumi_a_042",
+              "type": "choice",
+              "content": "不能任其发展",
+              "group": "4/24"
+            },
+            {
+              "id": "step_miumi_a_044",
+              "type": "choice",
+              "content": "将错就错",
+              "group": "4/26"
+            },
+            {
+              "id": "step_miumi_a_046",
+              "type": "choice",
+              "content": "和明日香发生了什么？",
+              "group": "4/28"
+            },
+            {
+              "id": "step_miumi_a_047",
+              "type": "choice",
+              "content": "我喜欢美海"
+            },
+            {
+              "id": "step_miumi_a_049",
+              "type": "choice",
+              "content": "认真回答",
+              "group": "4/29"
+            },
+            {
+              "id": "step_miumi_a_051",
+              "type": "choice",
+              "content": "记忆的事",
+              "group": "5/1"
+            },
+            {
+              "id": "step_miumi_a_053",
+              "type": "save",
+              "content": "SAVE 9",
+              "group": "5/9"
+            },
+            {
+              "id": "step_miumi_a_054",
+              "type": "choice",
+              "content": "我明白了"
+            }
+          ]
+        },
+        {
+          "id": "ending_miumi_b",
+          "name": "美海 END B 最后的任性",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_miumi_b_001",
+              "type": "load",
+              "content": "LOAD 9"
+            },
+            {
+              "id": "step_miumi_b_003",
+              "type": "choice",
+              "content": "不去才是为了她好",
+              "group": "5/9"
+            }
+          ]
+        },
+        {
+          "id": "ending_mizuho_a",
+          "name": "瑞穂 END A 隔断的思念",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_mizuho_a_002",
+              "type": "note",
+              "content": "Master cut"
+            },
+            {
+              "id": "step_mizuho_a_004",
+              "type": "choice",
+              "content": "这又怎么样呢？",
+              "group": "4/6"
+            },
+            {
+              "id": "step_mizuho_a_005",
+              "type": "choice",
+              "content": "关我什么事",
+              "group": "4/6"
+            },
+            {
+              "id": "step_mizuho_a_006",
+              "type": "choice",
+              "content": "别这样做",
+              "group": "4/6"
+            },
+            {
+              "id": "step_mizuho_a_007",
+              "type": "choice",
+              "content": "好啊",
+              "group": "4/6"
+            },
+            {
+              "id": "step_mizuho_a_009",
+              "type": "choice",
+              "content": "我知道",
+              "group": "4/7"
+            },
+            {
+              "id": "step_mizuho_a_010",
+              "type": "choice",
+              "content": "立刻开始吃",
+              "group": "4/7"
+            },
+            {
+              "id": "step_mizuho_a_012",
+              "type": "choice",
+              "content": "反正再也不会见面了",
+              "group": "4/8"
+            },
+            {
+              "id": "step_mizuho_a_013",
+              "type": "choice",
+              "content": "眼睛不知该往哪里看......",
+              "group": "4/8"
+            },
+            {
+              "id": "step_mizuho_a_014",
+              "type": "choice",
+              "content": "想试试",
+              "group": "4/8"
+            },
+            {
+              "id": "step_mizuho_a_015",
+              "type": "choice",
+              "content": "雨宫小姐是个美丽的人呀",
+              "group": "4/8"
+            },
+            {
+              "id": "step_mizuho_a_016",
+              "type": "choice",
+              "content": "没有那个必要、睡觉去",
+              "group": "4/8"
+            },
+            {
+              "id": "step_mizuho_a_018",
+              "type": "choice",
+              "content": "不再担任家庭教师",
+              "group": "4/10"
+            },
+            {
+              "id": "step_mizuho_a_019",
+              "type": "choice",
+              "content": "非提问不可！",
+              "group": "4/10"
+            },
+            {
+              "id": "step_mizuho_a_021",
+              "type": "choice",
+              "content": "在意雨宫小姐的态度",
+              "group": "4/11"
+            },
+            {
+              "id": "step_mizuho_a_023",
+              "type": "choice",
+              "content": "重新烤一份吧",
+              "group": "4/13"
+            },
+            {
+              "id": "step_mizuho_a_024",
+              "type": "choice",
+              "content": "这话是什么意思？",
+              "group": "4/13"
+            },
+            {
+              "id": "step_mizuho_a_025",
+              "type": "choice",
+              "content": "就这么办",
+              "group": "4/13"
+            },
+            {
+              "id": "step_mizuho_a_027",
+              "type": "choice",
+              "content": "叫明日香安静一点",
+              "group": "4/15"
+            },
+            {
+              "id": "step_mizuho_a_029",
+              "type": "choice",
+              "content": "拒绝",
+              "group": "4/17"
+            },
+            {
+              "id": "step_mizuho_a_031",
+              "type": "choice",
+              "content": "明日香，其实......",
+              "group": "4/18"
+            },
+            {
+              "id": "step_mizuho_a_032",
+              "type": "choice",
+              "content": "背过了身",
+              "group": "4/18"
+            },
+            {
+              "id": "step_mizuho_a_034",
+              "type": "choice",
+              "content": "真没办法......",
+              "group": "4/19"
+            },
+            {
+              "id": "step_mizuho_a_035",
+              "type": "choice",
+              "content": "好，我明白了",
+              "group": "4/19"
+            },
+            {
+              "id": "step_mizuho_a_037",
+              "type": "choice",
+              "content": "我去买点喝的吧？",
+              "group": "4/20"
+            },
+            {
+              "id": "step_mizuho_a_039",
+              "type": "save",
+              "content": "SAVE 10",
+              "group": "4/21"
+            },
+            {
+              "id": "step_mizuho_a_040",
+              "type": "choice",
+              "content": "接电话",
+              "group": "4/21"
+            },
+            {
+              "id": "step_mizuho_a_041",
+              "type": "choice",
+              "content": "明日香？",
+              "group": "4/21"
+            },
+            {
+              "id": "step_mizuho_a_042",
+              "type": "choice",
+              "content": "......",
+              "group": "4/21"
+            },
+            {
+              "id": "step_mizuho_a_044",
+              "type": "choice",
+              "content": "是和谁一起来的？",
+              "group": "4/23"
+            },
+            {
+              "id": "step_mizuho_a_045",
+              "type": "choice",
+              "content": "在这种地方......",
+              "group": "4/23"
+            },
+            {
+              "id": "step_mizuho_a_047",
+              "type": "choice",
+              "content": "明日香",
+              "group": "4/25"
+            },
+            {
+              "id": "step_mizuho_a_049",
+              "type": "choice",
+              "content": "逃跑！",
+              "group": "4/26"
+            },
+            {
+              "id": "step_mizuho_a_050",
+              "type": "choice",
+              "content": "或许......知道米琪先生会死吧",
+              "group": "4/26"
+            },
+            {
+              "id": "step_mizuho_a_052",
+              "type": "choice",
+              "content": "我觉得能",
+              "group": "4/28"
+            },
+            {
+              "id": "step_mizuho_a_054",
+              "type": "choice",
+              "content": "我已经不想再......当谁的替代品了",
+              "group": "4/29"
+            }
+          ]
+        },
+        {
+          "id": "ending_mizuho_b",
+          "name": "瑞穂 END B 言语之中有神灵",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_mizuho_b_001",
+              "type": "load",
+              "content": "LOAD 10"
+            },
+            {
+              "id": "step_mizuho_b_003",
+              "type": "choice",
+              "content": "无视",
+              "group": "4/21"
+            },
+            {
+              "id": "step_mizuho_b_004",
+              "type": "choice",
+              "content": "瑞穂小姐？？",
+              "group": "4/21"
+            },
+            {
+              "id": "step_mizuho_b_005",
+              "type": "choice",
+              "content": "我做不到",
+              "group": "4/21"
+            },
+            {
+              "id": "step_mizuho_b_007",
+              "type": "choice",
+              "content": "瑞穂小姐介绍的这店铺真不错",
+              "group": "4/23"
+            },
+            {
+              "id": "step_mizuho_b_008",
+              "type": "choice",
+              "content": "抱住瑞穂小姐",
+              "group": "4/23"
+            },
+            {
+              "id": "step_mizuho_b_010",
+              "type": "choice",
+              "content": "瑞穂小姐",
+              "group": "4/25"
+            },
+            {
+              "id": "step_mizuho_b_012",
+              "type": "choice",
+              "content": "装作什么事都没有的回过头",
+              "group": "4/26"
+            },
+            {
+              "id": "step_mizuho_b_013",
+              "type": "choice",
+              "content": "那怎么可能",
+              "group": "4/26"
+            },
+            {
+              "id": "step_mizuho_b_015",
+              "type": "choice",
+              "content": "一定有能让明日香满意的我们的幸福",
+              "group": "4/28"
+            },
+            {
+              "id": "step_mizuho_b_017",
+              "type": "choice",
+              "content": "虽然我知道必须得忍耐......",
+              "group": "4/29"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "vid": "v29402",
+  "name": {
+    "zh-cn": "琉璃公主与镜之侍从",
+    "ja-jp": "ガラス姫と鏡の従者",
+    "ja-Latn": "glass-hime-to-kagami-no-juusha"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-13",
+  "routes": [
+    {
+      "id": "route_1761055740995",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1761055758766",
+          "name": "贝尔纳黛德·亨利埃塔·阿伊泽尔斯顿 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1761057106727",
+              "type": "choice",
+              "content": "谢谢你，奈绪美"
+            },
+            {
+              "id": "step_1761057106878",
+              "type": "choice",
+              "content": "希望你以后也叫我去实习"
+            },
+            {
+              "id": "step_1761057107054",
+              "type": "choice",
+              "content": "立即送往保健室"
+            },
+            {
+              "id": "step_1761057107260",
+              "type": "choice",
+              "content": "不由得对贝尔一见钟情"
+            },
+            {
+              "id": "step_1761057107587",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1761057107755",
+              "type": "choice",
+              "content": "看到贝尔的侧脸"
+            }
+          ]
+        },
+        {
+          "id": "ending_1761055759032",
+          "name": "佐良织女 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1761058125070",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1761058128748",
+              "type": "choice",
+              "content": "眼睛离不开织女"
+            }
+          ]
+        },
+        {
+          "id": "ending_1761055759241",
+          "name": "亨利·弗朗西斯·拉·贝尔纳尔多 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1761058259771",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1761058280288",
+              "type": "choice",
+              "content": "我很在意亨利"
+            }
+          ]
+        },
+        {
+          "id": "ending_1761058335828",
+          "name": "城釜奈绪美 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1761058362156",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1761058371464",
+              "type": "choice",
+              "content": "和奈绪美对视"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

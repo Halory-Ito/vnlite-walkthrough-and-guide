@@ -1,0 +1,483 @@
+{
+  "vid": "v50416",
+  "name": {
+    "zh-cn": "月映宝石乡 -星沈碧落万物喑-",
+    "ja-jp": "ジュエリー・ナイツ・アルカディア -The ends of the world-",
+    "ja-Latn": "jewelry-nights-arcadia-the-ends-of-the-world"
+  },
+  "level": 2,
+  "updatedAt": "2026-02-27",
+  "routes": [
+    {
+      "id": "route_1759730579793",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1759730730372",
+          "name": "END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1759730737048",
+              "type": "choice",
+              "content": "从头开始"
+            },
+            {
+              "id": "step_1759730746463",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1759730750466",
+              "type": "choice",
+              "content": "也许我们是命中注定会见的"
+            },
+            {
+              "id": "step_1759730750630",
+              "type": "choice",
+              "content": "什么是 Yuiori？"
+            },
+            {
+              "id": "step_1759730750797",
+              "type": "choice",
+              "content": "无所不能的代价⇒？"
+            },
+            {
+              "id": "step_1759730750933",
+              "type": "choice",
+              "content": "你是谁？"
+            },
+            {
+              "id": "step_1759730751338",
+              "type": "choice",
+              "content": "揉胸"
+            },
+            {
+              "id": "step_1759730814722",
+              "type": "choice",
+              "content": "神殿"
+            },
+            {
+              "id": "step_1759730814924",
+              "type": "choice",
+              "content": "类似浮木的物体"
+            },
+            {
+              "id": "step_1759730815338",
+              "type": "choice",
+              "content": "一本书"
+            },
+            {
+              "id": "step_1759730815550",
+              "type": "choice",
+              "content": "黑色爪痕"
+            },
+            {
+              "id": "step_1759730815727",
+              "type": "note",
+              "content": "*粟粒疹：小场景 1"
+            },
+            {
+              "id": "step_1759730890029",
+              "type": "note",
+              "content": "* 粟粒疹：小场景 2"
+            },
+            {
+              "id": "step_1759733117518",
+              "type": "note",
+              "content": "共通END※ミリア:纪念馆开放"
+            },
+            {
+              "id": "step_1759733128629",
+              "type": "choice",
+              "content": "打开卷曲"
+            },
+            {
+              "id": "step_1759733137817",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1759733141458",
+              "type": "choice",
+              "content": "毕竟，不知何故"
+            },
+            {
+              "id": "step_1759733163490",
+              "type": "choice",
+              "content": "什么是 Yuiori？"
+            },
+            {
+              "id": "step_1759733177079",
+              "type": "choice",
+              "content": "无所不能的代价⇒？"
+            },
+            {
+              "id": "step_1759733184353",
+              "type": "choice",
+              "content": "你是谁？"
+            },
+            {
+              "id": "step_1759733191946",
+              "type": "choice",
+              "content": "揉胸"
+            },
+            {
+              "id": "step_1759733200204",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1759733208255",
+              "type": "choice",
+              "content": "告诉他们你会忘记的"
+            },
+            {
+              "id": "step_1759733214132",
+              "type": "note",
+              "content": "卡拉：小场景 1"
+            },
+            {
+              "id": "step_1759733226670",
+              "type": "choice",
+              "content": "神殿"
+            },
+            {
+              "id": "step_1759733226890",
+              "type": "choice",
+              "content": "类似浮木的物体"
+            },
+            {
+              "id": "step_1759733227241",
+              "type": "choice",
+              "content": "一本书"
+            },
+            {
+              "id": "step_1759733227706",
+              "type": "choice",
+              "content": "黑色爪痕"
+            },
+            {
+              "id": "step_1759733227944",
+              "type": "note",
+              "content": "卡拉：小场景 2"
+            },
+            {
+              "id": "step_1759733228372",
+              "type": "note",
+              "content": "卡拉：小场景 3"
+            },
+            {
+              "id": "step_1759733228755",
+              "type": "note",
+              "content": "共通END※カーラ:纪念馆开放"
+            },
+            {
+              "id": "step_1759733229027",
+              "type": "choice",
+              "content": "卡罗莱纳公开赛"
+            },
+            {
+              "id": "step_1759733354105",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1759733363928",
+              "type": "choice",
+              "content": "现在不是时候"
+            },
+            {
+              "id": "step_1759733371688",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_1759733376221",
+              "type": "choice",
+              "content": "纵容"
+            },
+            {
+              "id": "step_1759733384960",
+              "type": "note",
+              "content": "卡罗莱纳州：小情景 1"
+            },
+            {
+              "id": "step_1759733397621",
+              "type": "choice",
+              "content": "神殿"
+            },
+            {
+              "id": "step_1759733397843",
+              "type": "choice",
+              "content": "类似浮木的物体"
+            },
+            {
+              "id": "step_1759733398037",
+              "type": "choice",
+              "content": "一本书"
+            },
+            {
+              "id": "step_1759733500789",
+              "type": "choice",
+              "content": "黑色爪痕"
+            },
+            {
+              "id": "step_1759733702106",
+              "type": "note",
+              "content": "卡罗莱纳州：小场景 2"
+            },
+            {
+              "id": "step_1759733718893",
+              "type": "note",
+              "content": "共同 END * 卡罗莱纳州：纪念公开"
+            },
+            {
+              "id": "step_1759733719058",
+              "type": "choice",
+              "content": "普里科公开"
+            },
+            {
+              "id": "step_1759733719381",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1759733719601",
+              "type": "choice",
+              "content": "独立"
+            },
+            {
+              "id": "step_1759733763664",
+              "type": "choice",
+              "content": "老实说，我很好奇"
+            },
+            {
+              "id": "step_1759733763966",
+              "type": "choice",
+              "content": "性格"
+            },
+            {
+              "id": "step_1759733764175",
+              "type": "note",
+              "content": "*Priricco：小场景 1"
+            },
+            {
+              "id": "step_1759733803268",
+              "type": "choice",
+              "content": "* Priricco：小场景 2"
+            },
+            {
+              "id": "step_1759733803405",
+              "type": "choice",
+              "content": "* Priricco：小场景 3"
+            },
+            {
+              "id": "step_1759733803595",
+              "type": "choice",
+              "content": "* Priricco：小场景 4"
+            },
+            {
+              "id": "step_1759734047557",
+              "type": "note",
+              "content": "共通END※プリリッコ:纪念馆开放"
+            }
+          ]
+        },
+        {
+          "id": "ending_1759734082114",
+          "name": "共同纪念",
+          "type": "normal",
+          "requirements": "在任何共通END 之后",
+          "steps": [
+            {
+              "id": "step_1759734799387",
+              "type": "choice",
+              "content": "[纪念]"
+            },
+            {
+              "id": "step_1759734799545",
+              "type": "choice",
+              "content": "アリアンナ阿丽安娜"
+            },
+            {
+              "id": "step_1759734799739",
+              "type": "choice",
+              "content": "阿里安娜 END"
+            },
+            {
+              "id": "step_1759734799949",
+              "type": "choice",
+              "content": "[纪念]"
+            },
+            {
+              "id": "step_1759735033061",
+              "type": "choice",
+              "content": "ベルカ・トリアーデ贝尔卡三合会"
+            },
+            {
+              "id": "step_1759735033233",
+              "type": "choice",
+              "content": "贝尔卡 END"
+            },
+            {
+              "id": "step_1759735033379",
+              "type": "choice",
+              "content": "[纪念]"
+            },
+            {
+              "id": "step_1759735033528",
+              "type": "choice",
+              "content": "メア・アシュリーペッカー母马阿什利"
+            },
+            {
+              "id": "step_1759735033942",
+              "type": "choice",
+              "content": "母马 END"
+            },
+            {
+              "id": "step_1759735281957",
+              "type": "choice",
+              "content": "[纪念]"
+            },
+            {
+              "id": "step_1759735841167",
+              "type": "choice",
+              "content": "ルビイ红宝石"
+            },
+            {
+              "id": "step_1759735841368",
+              "type": "choice",
+              "content": "红宝石 END"
+            },
+            {
+              "id": "step_1759735841535",
+              "type": "choice",
+              "content": "[纪念]"
+            },
+            {
+              "id": "step_1759735841701",
+              "type": "choice",
+              "content": "ソーマ・ジェイス索玛·杰斯（主人公）"
+            },
+            {
+              "id": "step_1759735878702",
+              "type": "choice",
+              "content": "与 Mare 交谈或与 Veo 交谈"
+            },
+            {
+              "id": "step_1759735878882",
+              "type": "choice",
+              "content": "END"
+            },
+            {
+              "id": "step_1759735879058",
+              "type": "choice",
+              "content": "[纪念]"
+            },
+            {
+              "id": "step_1759735879213",
+              "type": "choice",
+              "content": "オフィーリア奥菲莉亚"
+            },
+            {
+              "id": "step_1759735908313",
+              "type": "choice",
+              "content": "END"
+            },
+            {
+              "id": "step_1759735919945",
+              "type": "note",
+              "content": "追加其他纪念馆"
+            },
+            {
+              "id": "step_1759735932310",
+              "type": "choice",
+              "content": "米利亚：纪念馆开幕后"
+            },
+            {
+              "id": "step_1759735932471",
+              "type": "choice",
+              "content": "[纪念]"
+            },
+            {
+              "id": "step_1759735932626",
+              "type": "choice",
+              "content": "米莉亚·梅伦多夫"
+            },
+            {
+              "id": "step_1759735932781",
+              "type": "choice",
+              "content": "米利亚 END"
+            },
+            {
+              "id": "step_1759735932920",
+              "type": "choice",
+              "content": "*Priricco：纪念馆开幕后"
+            },
+            {
+              "id": "step_1759735933047",
+              "type": "choice",
+              "content": "[纪念]"
+            },
+            {
+              "id": "step_1759735933339",
+              "type": "choice",
+              "content": "法比奥拉·普里里科"
+            },
+            {
+              "id": "step_1759735933575",
+              "type": "choice",
+              "content": "普利科 END"
+            },
+            {
+              "id": "step_1759735933735",
+              "type": "choice",
+              "content": "* 卡罗莱纳州：纪念馆开幕后"
+            },
+            {
+              "id": "step_1759735933927",
+              "type": "choice",
+              "content": "[纪念]"
+            },
+            {
+              "id": "step_1759735990447",
+              "type": "choice",
+              "content": "卡罗莱纳·麦克拉克伦"
+            },
+            {
+              "id": "step_1759735990615",
+              "type": "choice",
+              "content": "卡罗莱纳州 END"
+            },
+            {
+              "id": "step_1759735990765",
+              "type": "choice",
+              "content": "*卡拉：纪念馆开幕后"
+            },
+            {
+              "id": "step_1759735990942",
+              "type": "choice",
+              "content": "[纪念]"
+            },
+            {
+              "id": "step_1759736008092",
+              "type": "choice",
+              "content": "卡拉·昆伯恩"
+            },
+            {
+              "id": "step_1759736008239",
+              "type": "choice",
+              "content": "不熄灭就不会消失（会随着时间的推移而消退）"
+            },
+            {
+              "id": "step_1759736008439",
+              "type": "choice",
+              "content": "カーラEND  卡拉·恩德"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

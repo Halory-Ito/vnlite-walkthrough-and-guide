@@ -1,0 +1,216 @@
+{
+  "vid": "v4936",
+  "name": {
+    "zh-cn": "紫影的索纳尼尔～何等美好的记忆～",
+    "en-us": "Sona-Nyl of the Violet Shadows ~What Beautiful Memories~",
+    "ja-jp": "紫影のソナーニル　～What a beautiful memories～",
+    "ja-Latn": "shiei-no-sona-nyl"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-13",
+  "routes": [
+    {
+      "id": "route_1766305781694",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1766305791242",
+          "name": "END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1766305824429",
+              "type": "choice",
+              "content": "华盛顿邮报"
+            },
+            {
+              "id": "step_1766305824749",
+              "type": "choice",
+              "content": "最上面的报道：第3段"
+            },
+            {
+              "id": "step_1766305824926",
+              "type": "choice",
+              "content": "正中的记事：第2段"
+            },
+            {
+              "id": "step_1766305825090",
+              "type": "choice",
+              "content": "最下面的报道：第3段"
+            },
+            {
+              "id": "step_1766305825310",
+              "type": "choice",
+              "content": "第一个黑色的门"
+            },
+            {
+              "id": "step_1766305836448",
+              "type": "choice",
+              "content": "第三个黑色的门"
+            },
+            {
+              "id": "step_1766305836604",
+              "type": "choice",
+              "content": "第二扇黑色的门"
+            },
+            {
+              "id": "step_1766305836771",
+              "type": "choice",
+              "content": "第四扇黑色的门扉"
+            },
+            {
+              "id": "step_1766305836927",
+              "type": "choice",
+              "content": "其他的门"
+            },
+            {
+              "id": "step_1766305837079",
+              "type": "choice",
+              "content": "第五扇黑色的门"
+            },
+            {
+              "id": "step_1766305953603",
+              "type": "choice",
+              "content": "第六扇黑色的门"
+            },
+            {
+              "id": "step_1766305953790",
+              "type": "choice",
+              "content": "第七扇黑色之门"
+            },
+            {
+              "id": "step_1766305953961",
+              "type": "choice",
+              "content": "看照片"
+            },
+            {
+              "id": "step_1766305954116",
+              "type": "choice",
+              "content": "华盛顿邮报"
+            },
+            {
+              "id": "step_1766305954303",
+              "type": "choice",
+              "content": "最上面的一篇文章：第1段"
+            },
+            {
+              "id": "step_1766305954494",
+              "type": "choice",
+              "content": "最下面的报道：第3段"
+            },
+            {
+              "id": "step_1766305954682",
+              "type": "choice",
+              "content": "寻找"
+            },
+            {
+              "id": "step_1766305954872",
+              "type": "choice",
+              "content": "华盛顿邮报"
+            },
+            {
+              "id": "step_1766306036159",
+              "type": "choice",
+              "content": "最上面的新闻：第2段"
+            },
+            {
+              "id": "step_1766306036382",
+              "type": "choice",
+              "content": "正中的记事：第2段"
+            },
+            {
+              "id": "step_1766306036841",
+              "type": "choice",
+              "content": "最下面的报道：第3段"
+            },
+            {
+              "id": "step_1766306037588",
+              "type": "choice",
+              "content": "相信"
+            },
+            {
+              "id": "step_1766306037966",
+              "type": "choice",
+              "content": "华盛顿邮报"
+            },
+            {
+              "id": "step_1766306038235",
+              "type": "choice",
+              "content": "最上面的报道：第3段"
+            },
+            {
+              "id": "step_1766306038440",
+              "type": "choice",
+              "content": "正中间的报道：第3段"
+            },
+            {
+              "id": "step_1766306038682",
+              "type": "choice",
+              "content": "最下面的报道：第1段"
+            },
+            {
+              "id": "step_1766306038970",
+              "type": "choice",
+              "content": "播放"
+            },
+            {
+              "id": "step_1766306092358",
+              "type": "choice",
+              "content": "华盛顿邮报"
+            },
+            {
+              "id": "step_1766306092553",
+              "type": "choice",
+              "content": "最上面的报道：第3段"
+            },
+            {
+              "id": "step_1766306092767",
+              "type": "choice",
+              "content": "正中的记事：第2段"
+            },
+            {
+              "id": "step_1766306093020",
+              "type": "choice",
+              "content": "最下面的报道：第3段"
+            },
+            {
+              "id": "step_1766306093709",
+              "type": "choice",
+              "content": "读"
+            },
+            {
+              "id": "step_1766306093893",
+              "type": "choice",
+              "content": "华盛顿邮报"
+            },
+            {
+              "id": "step_1766306094066",
+              "type": "choice",
+              "content": "最上面的报道：第3段"
+            },
+            {
+              "id": "step_1766306094260",
+              "type": "choice",
+              "content": "正中间的报道：第1段"
+            },
+            {
+              "id": "step_1766306145800",
+              "type": "choice",
+              "content": "最下面的报道：第3段"
+            },
+            {
+              "id": "step_1766306153611",
+              "type": "choice",
+              "content": "喜欢"
+            },
+            {
+              "id": "step_1766306153986",
+              "type": "choice",
+              "content": "拽下去"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

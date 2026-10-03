@@ -1,0 +1,166 @@
+{
+  "vid": "v10244",
+  "name": {
+    "zh-cn": "龙翼的咏叹调 -与圣龙之翼共舞的歌姬-",
+    "ja-jp": "竜翼のメロディア -Diva with the blessed dragonol-",
+    "ja-Latn": "ryuuyoku-no-melodia"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-14",
+  "tips": [
+    "5人攻略完毕后，标题画面会追加True"
+  ],
+  "routes": [
+    {
+      "id": "route_game_guide",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_floria",
+          "name": "弗洛里亚 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_floria_01",
+              "type": "choice",
+              "content": "声优科不是已经决定了吗"
+            },
+            {
+              "id": "step_floria_02",
+              "type": "choice",
+              "content": "和弗洛拉一起"
+            },
+            {
+              "id": "step_floria_03",
+              "type": "choice",
+              "content": "声乐科"
+            },
+            {
+              "id": "step_floria_04",
+              "type": "choice",
+              "content": "还是去看看梅尔的情况"
+            },
+            {
+              "id": "step_floria_05",
+              "type": "choice",
+              "content": "留在作曲科，等待其他科的学生"
+            },
+            {
+              "id": "step_floria_06",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_floria_07",
+              "type": "choice",
+              "content": "和弗洛拉一起上舞台"
+            }
+          ]
+        },
+        {
+          "id": "ending_meru",
+          "name": "梅尔 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_meru_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_meru_02",
+              "type": "choice",
+              "content": "和梅尔一起上舞台"
+            }
+          ]
+        },
+        {
+          "id": "ending_serufi",
+          "name": "塞尔菲 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_serufi_01",
+              "type": "choice",
+              "content": "我也想华丽地演奏乐器"
+            },
+            {
+              "id": "step_serufi_02",
+              "type": "choice",
+              "content": "支持塞尔菲"
+            },
+            {
+              "id": "step_serufi_03",
+              "type": "choice",
+              "content": "器乐科"
+            },
+            {
+              "id": "step_serufi_04",
+              "type": "choice",
+              "content": "放弃"
+            },
+            {
+              "id": "step_serufi_05",
+              "type": "choice",
+              "content": "偶尔也想远离音乐"
+            },
+            {
+              "id": "step_serufi_06",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_serufi_07",
+              "type": "choice",
+              "content": "拒绝"
+            },
+            {
+              "id": "step_serufi_08",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_serufi_09",
+              "type": "choice",
+              "content": "接受"
+            }
+          ]
+        },
+        {
+          "id": "ending_kuroe",
+          "name": "克罗埃 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_kuroe_01",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_kuroe_02",
+              "type": "choice",
+              "content": "拒绝"
+            }
+          ]
+        },
+        {
+          "id": "ending_shinshia",
+          "name": "辛西娅 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_shinshia_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_shinshia_02",
+              "type": "choice",
+              "content": "接受"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

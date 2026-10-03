@@ -1,0 +1,234 @@
+{
+  "vid": "v13224",
+  "name": {
+    "zh-cn": "在世界与世界的正中央",
+    "ja-jp": "世界と世界の真ん中で",
+    "ja-Latn": "sekai-to-sekai-no-mannaka-de"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-12",
+  "routes": [
+    {
+      "id": "route_1756389133967",
+      "name": "近江 小小路",
+      "endings": [
+        {
+          "id": "ending_1756389150001",
+          "name": "小小路 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756389304735",
+              "type": "choice",
+              "content": "拜托美纪"
+            },
+            {
+              "id": "step_1756389304886",
+              "type": "choice",
+              "content": "感受到了反差"
+            },
+            {
+              "id": "step_1756389305403",
+              "type": "choice",
+              "content": "试试努力一把"
+            },
+            {
+              "id": "step_1756389305579",
+              "type": "choice",
+              "content": "小小路有什么想要的吗？"
+            },
+            {
+              "id": "step_1756389305753",
+              "type": "choice",
+              "content": "拜托对方给自己看看吧"
+            },
+            {
+              "id": "step_1756389305892",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1756389306008",
+              "type": "choice",
+              "content": "小小路的菜谱也有很大影响吧？"
+            },
+            {
+              "id": "step_1756389306176",
+              "type": "choice",
+              "content": "拜托中吧"
+            },
+            {
+              "id": "step_1756389306763",
+              "type": "choice",
+              "content": "这到底是怎么回事呢"
+            },
+            {
+              "id": "step_1756389306916",
+              "type": "choice",
+              "content": "在一旁默默守护小小路"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756389397564",
+      "name": "月馆 美纪",
+      "endings": [
+        {
+          "id": "ending_1756389399942",
+          "name": "美纪 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756389411362",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1756389412027",
+              "type": "choice",
+              "content": "你们俩真是太厉害了"
+            },
+            {
+              "id": "step_1756389429258",
+              "type": "choice",
+              "content": "主动请缨"
+            },
+            {
+              "id": "step_1756389429469",
+              "type": "choice",
+              "content": "这到底是怎么回事呢"
+            },
+            {
+              "id": "step_1756389429785",
+              "type": "choice",
+              "content": "在一旁默默守护小小路"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756389460389",
+      "name": "朱音 遥",
+      "endings": [
+        {
+          "id": "ending_1756389474569",
+          "name": "遥 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756389476417",
+              "type": "choice",
+              "content": "拜托遥"
+            },
+            {
+              "id": "step_1756389476602",
+              "type": "choice",
+              "content": "感受到了反差"
+            },
+            {
+              "id": "step_1756389476787",
+              "type": "choice",
+              "content": "试试努力一把"
+            },
+            {
+              "id": "step_1756389476956",
+              "type": "choice",
+              "content": "我想做桌子椅子之外的东西"
+            },
+            {
+              "id": "step_1756389477228",
+              "type": "choice",
+              "content": "拜托对方给自己看看吧"
+            },
+            {
+              "id": "step_1756389506068",
+              "type": "choice",
+              "content": "小小路的菜谱也有很大影响吧？"
+            },
+            {
+              "id": "step_1756389506266",
+              "type": "choice",
+              "content": "拜托中吧"
+            },
+            {
+              "id": "step_1756389506520",
+              "type": "choice",
+              "content": "这到底是怎么回事呢"
+            },
+            {
+              "id": "step_1756389506780",
+              "type": "choice",
+              "content": "和遥学姐一起在长椅上休息"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756389623967",
+      "name": "白取 爱良",
+      "endings": [
+        {
+          "id": "ending_1756389632404",
+          "name": "爱良 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756389661265",
+              "type": "choice",
+              "content": "拜托爱良"
+            },
+            {
+              "id": "step_1756389661438",
+              "type": "choice",
+              "content": "感受到了反差"
+            },
+            {
+              "id": "step_1756389661591",
+              "type": "choice",
+              "content": "试试努力一把"
+            },
+            {
+              "id": "step_1756389661720",
+              "type": "choice",
+              "content": "小小路有什么想要的吗？"
+            },
+            {
+              "id": "step_1756389661874",
+              "type": "choice",
+              "content": "拜托对方给自己看看吧"
+            },
+            {
+              "id": "step_1756389662024",
+              "type": "choice",
+              "content": "你们俩真是太厉害了"
+            },
+            {
+              "id": "step_1756389662122",
+              "type": "choice",
+              "content": "拜托中吧"
+            },
+            {
+              "id": "step_1756389662259",
+              "type": "choice",
+              "content": "体谅爱良的心意"
+            },
+            {
+              "id": "step_1756389686391",
+              "type": "choice",
+              "content": "在一旁默默守护小小路"
+            },
+            {
+              "id": "step_1756389707902",
+              "type": "note",
+              "content": "完成全部4名女主角的结局后，在“Constellation episode”模式中，将鼠标移动到『长蛇座』右侧的长方形星座上，会出现精灵拉斐尔，点击即可进入隐藏剧情。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

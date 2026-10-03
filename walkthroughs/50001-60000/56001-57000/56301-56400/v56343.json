@@ -1,0 +1,1217 @@
+{
+  "vid": "v56343",
+  "name": {
+    "zh-cn": "久我山栞的死法手账",
+    "en-us": "Kugayama Shiori's Death Diary",
+    "ja-jp": "久我山栞の死様手帖",
+    "ja-Latn": "kugayama-shiori-no-shinizama-techou"
+  },
+  "level": 1,
+  "updatedAt": "2026-05-06",
+  "tips": [
+    "如果在DAY 4不停的去神社砸钱的话会有有意思的事情发生",
+    "END 9也可以在load 9的时候不去神社直接去超市达成，两个END 9有细微差别"
+  ],
+  "routes": [
+    {
+      "id": "route_start_game",
+      "name": "开始游戏",
+      "endings": [
+        {
+          "id": "ending_01",
+          "name": "END 1",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_01_01",
+              "type": "choice",
+              "content": "最开始的能一直放置不选",
+              "group": "DAY 1"
+            }
+          ]
+        },
+        {
+          "id": "ending_02",
+          "name": "END 2",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_1778061337058",
+              "type": "choice",
+              "content": "能"
+            },
+            {
+              "id": "step_1778061533481",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_02_01",
+              "type": "choice",
+              "content": "拒绝x5",
+              "group": "DAY 1"
+            }
+          ]
+        },
+        {
+          "id": "ending_03",
+          "name": "END 3",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_03_01",
+              "type": "load",
+              "content": "LOAD 1",
+              "group": "DAY 1"
+            },
+            {
+              "id": "step_1778064262803",
+              "type": "choice",
+              "content": "同意"
+            },
+            {
+              "id": "step_03_03",
+              "type": "save",
+              "content": "SAVE 2",
+              "group": "DAY 1"
+            },
+            {
+              "id": "step_03_04",
+              "type": "choice",
+              "content": "回家",
+              "group": "DAY 1"
+            }
+          ]
+        },
+        {
+          "id": "ending_04",
+          "name": "END 4",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_04_01",
+              "type": "load",
+              "content": "LOAD 3",
+              "group": "DAY 1"
+            },
+            {
+              "id": "step_04_02",
+              "type": "choice",
+              "content": "点头",
+              "group": "DAY 1"
+            },
+            {
+              "id": "step_1778064387168",
+              "type": "choice",
+              "content": "用动作表达谢意"
+            },
+            {
+              "id": "step_1778064386652",
+              "type": "choice",
+              "content": "接电话"
+            },
+            {
+              "id": "step_04_03",
+              "type": "choice",
+              "content": "自杀现场",
+              "group": "DAY 1"
+            },
+            {
+              "id": "step_1778064413841",
+              "type": "choice",
+              "content": "我懂这种感觉",
+              "group": "DAY 1"
+            },
+            {
+              "id": "step_1778064421527",
+              "type": "choice",
+              "content": "想拍照留念",
+              "group": "DAY 1"
+            },
+            {
+              "id": "step_1778064413626",
+              "type": "choice",
+              "content": "便利店",
+              "group": "DAY 1"
+            },
+            {
+              "id": "step_1778064448350",
+              "type": "choice",
+              "content": "你好",
+              "group": "DAY 2"
+            },
+            {
+              "id": "step_1778064469147",
+              "type": "choice",
+              "content": "摆出万分感激的动作"
+            },
+            {
+              "id": "step_1778064471799",
+              "type": "choice",
+              "content": "能看到"
+            },
+            {
+              "id": "step_04_04",
+              "type": "choice",
+              "content": "在",
+              "group": "DAY 2"
+            },
+            {
+              "id": "step_1778064504874",
+              "type": "choice",
+              "content": "停车场",
+              "group": "DAY 2"
+            },
+            {
+              "id": "step_1778064483666",
+              "type": "choice",
+              "content": "给她看现场照片",
+              "group": "DAY 2"
+            },
+            {
+              "id": "step_1778064513998",
+              "type": "choice",
+              "content": "十字路口",
+              "group": "DAY 2"
+            },
+            {
+              "id": "step_1778064514151",
+              "type": "choice",
+              "content": "离开井盖",
+              "subfix": "选项会在几秒后消失",
+              "group": "DAY 2"
+            },
+            {
+              "id": "step_1778064543200",
+              "type": "choice",
+              "content": "很开心",
+              "group": "DAY 2"
+            },
+            {
+              "id": "step_1778064548211",
+              "type": "save",
+              "content": "SAVE 4",
+              "group": "DAY 2"
+            },
+            {
+              "id": "step_1778064556538",
+              "type": "choice",
+              "content": "我没事",
+              "group": "DAY 2"
+            },
+            {
+              "id": "step_1778064556799",
+              "type": "choice",
+              "content": "超市",
+              "group": "DAY 2"
+            },
+            {
+              "id": "step_1778064561691",
+              "type": "save",
+              "content": "SAVE 5",
+              "group": "DAY 2"
+            },
+            {
+              "id": "step_1778064566656",
+              "type": "choice",
+              "content": "有可能",
+              "group": "DAY 2"
+            },
+            {
+              "id": "step_1778064566860",
+              "type": "choice",
+              "content": "像",
+              "group": "DAY 2"
+            },
+            {
+              "id": "step_1778064574431",
+              "type": "choice",
+              "content": "一模一样",
+              "group": "DAY 2"
+            },
+            {
+              "id": "step_1778064574583",
+              "type": "choice",
+              "content": "其实就是你本人吧？",
+              "group": "DAY 2"
+            },
+            {
+              "id": "step_1778064574753",
+              "type": "choice",
+              "content": "真的",
+              "group": "DAY 2"
+            },
+            {
+              "id": "step_1778064574895",
+              "type": "choice",
+              "content": "比珍珠还真",
+              "group": "DAY 2"
+            }
+          ]
+        },
+        {
+          "id": "ending_end_5",
+          "name": "END 5",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_end5_01",
+              "type": "load",
+              "content": "LOAD 5",
+              "group": "DAY 2"
+            },
+            {
+              "id": "step_end5_02",
+              "type": "choice",
+              "content": "不可能",
+              "group": "DAY 2"
+            },
+            {
+              "id": "step_end5_03",
+              "type": "choice",
+              "content": "事故现场",
+              "group": "DAY 2"
+            },
+            {
+              "id": "step_end5_04",
+              "type": "choice",
+              "content": "好",
+              "group": "DAY 2"
+            },
+            {
+              "id": "step_end5_05",
+              "type": "choice",
+              "content": "便利店",
+              "group": "DAY 2"
+            },
+            {
+              "id": "step_end5_06",
+              "type": "choice",
+              "content": "没关系",
+              "group": "DAY 2"
+            },
+            {
+              "id": "step_end5_07",
+              "type": "choice",
+              "content": "图书馆",
+              "group": "DAY 3"
+            },
+            {
+              "id": "step_end5_08",
+              "type": "choice",
+              "content": "告诉她",
+              "group": "DAY 3"
+            },
+            {
+              "id": "step_end5_09",
+              "type": "choice",
+              "content": "停车场",
+              "group": "DAY 3"
+            },
+            {
+              "id": "step_end5_10",
+              "type": "choice",
+              "content": "小区",
+              "group": "DAY 3"
+            },
+            {
+              "id": "step_end5_12",
+              "type": "choice",
+              "content": "是的",
+              "group": "DAY 3"
+            },
+            {
+              "id": "step_end5_13",
+              "type": "choice",
+              "content": "执意要尝试",
+              "group": "DAY 3"
+            }
+          ]
+        },
+        {
+          "id": "ending_end_6",
+          "name": "END 6",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_end6_01",
+              "type": "load",
+              "content": "LOAD 4",
+              "group": "DAY 2"
+            },
+            {
+              "id": "step_end6_02",
+              "type": "choice",
+              "content": "好像有点不对劲······？",
+              "group": "DAY 2"
+            },
+            {
+              "id": "step_end6_03",
+              "type": "choice",
+              "content": "神社",
+              "group": "DAY 2"
+            },
+            {
+              "id": "step_end6_04",
+              "type": "choice",
+              "content": "很明显",
+              "group": "DAY 2"
+            },
+            {
+              "id": "step_end6_05",
+              "type": "choice",
+              "content": "1129日元",
+              "group": "DAY 2"
+            },
+            {
+              "id": "step_end6_06",
+              "type": "choice",
+              "content": "递钱给栞",
+              "group": "DAY 2"
+            },
+            {
+              "id": "step_end6_07",
+              "type": "choice",
+              "content": "把钱投进赛钱箱",
+              "group": "DAY 2"
+            },
+            {
+              "id": "step_end6_08",
+              "type": "choice",
+              "content": "超市",
+              "group": "DAY 2"
+            },
+            {
+              "id": "step_end6_09",
+              "type": "choice",
+              "content": "不可能",
+              "group": "DAY 2"
+            },
+            {
+              "id": "step_end6_10",
+              "type": "choice",
+              "content": "事故现场",
+              "group": "DAY 2"
+            },
+            {
+              "id": "step_end6_11",
+              "type": "choice",
+              "content": "好",
+              "group": "DAY 2"
+            },
+            {
+              "id": "step_end6_12",
+              "type": "choice",
+              "content": "便利店",
+              "group": "DAY 2"
+            },
+            {
+              "id": "step_end6_13",
+              "type": "choice",
+              "content": "没关系",
+              "group": "DAY 2"
+            },
+            {
+              "id": "step_end6_14",
+              "type": "choice",
+              "content": "图书馆",
+              "group": "DAY 3"
+            },
+            {
+              "id": "step_end6_15",
+              "type": "choice",
+              "content": "告诉她",
+              "group": "DAY 3"
+            },
+            {
+              "id": "step_end6_16",
+              "type": "choice",
+              "content": "停车场",
+              "group": "DAY 3"
+            },
+            {
+              "id": "step_end6_17",
+              "type": "choice",
+              "content": "小区",
+              "group": "DAY 3"
+            },
+            {
+              "id": "step_end6_19",
+              "type": "choice",
+              "content": "是的",
+              "group": "DAY 3"
+            },
+            {
+              "id": "step_end6_20",
+              "type": "choice",
+              "content": "执意要尝试",
+              "group": "DAY 3"
+            },
+            {
+              "id": "step_end6_21",
+              "type": "choice",
+              "content": "没事",
+              "group": "DAY 3"
+            },
+            {
+              "id": "step_end6_22",
+              "type": "choice",
+              "content": "神社",
+              "group": "DAY 3"
+            },
+            {
+              "id": "step_end6_23",
+              "type": "save",
+              "content": "SAVE 6",
+              "group": "DAY 3"
+            },
+            {
+              "id": "step_end6_24",
+              "type": "choice",
+              "content": "5日元",
+              "group": "DAY 3"
+            },
+            {
+              "id": "step_end6_25",
+              "type": "choice",
+              "content": "超市",
+              "group": "DAY 3"
+            },
+            {
+              "id": "step_end6_26",
+              "type": "choice",
+              "content": "花园",
+              "group": "DAY 3"
+            },
+            {
+              "id": "step_end6_27",
+              "type": "choice",
+              "content": "不感兴趣",
+              "group": "DAY 3"
+            },
+            {
+              "id": "step_end6_28",
+              "type": "choice",
+              "content": "摆出食蚁兽的威吓动作",
+              "group": "DAY 3"
+            },
+            {
+              "id": "step_end6_29",
+              "type": "choice",
+              "content": "儿童公园",
+              "group": "DAY 3"
+            },
+            {
+              "id": "step_end6_30",
+              "type": "choice",
+              "content": "莫名其妙就出现了",
+              "group": "DAY 3"
+            },
+            {
+              "id": "step_end6_31",
+              "type": "choice",
+              "content": "不对",
+              "group": "DAY 4"
+            },
+            {
+              "id": "step_end6_32",
+              "type": "choice",
+              "content": "小区",
+              "group": "DAY 4"
+            },
+            {
+              "id": "step_end6_33",
+              "type": "choice",
+              "content": "图书馆",
+              "group": "DAY 4"
+            },
+            {
+              "id": "step_end6_34",
+              "type": "choice",
+              "content": "停车场",
+              "group": "DAY 4"
+            },
+            {
+              "id": "step_end6_35",
+              "type": "choice",
+              "content": "试了",
+              "group": "DAY 4"
+            },
+            {
+              "id": "step_end6_36",
+              "type": "choice",
+              "content": "小巷",
+              "group": "DAY 4"
+            },
+            {
+              "id": "step_end6_37",
+              "type": "save",
+              "content": "SAVE 7",
+              "group": "DAY 4"
+            },
+            {
+              "id": "step_end6_38",
+              "type": "choice",
+              "content": "离开",
+              "group": "DAY 4"
+            },
+            {
+              "id": "step_end6_39",
+              "type": "choice",
+              "content": "我打算去",
+              "group": "DAY 4"
+            },
+            {
+              "id": "step_end6_40",
+              "type": "choice",
+              "content": "公用电话",
+              "group": "DAY 4"
+            },
+            {
+              "id": "step_end6_41",
+              "type": "choice",
+              "content": "把玛丽叫过来",
+              "group": "DAY 4"
+            },
+            {
+              "id": "step_end6_42",
+              "type": "choice",
+              "content": "放马过来吧",
+              "group": "DAY 4"
+            },
+            {
+              "id": "step_end6_43",
+              "type": "choice",
+              "content": "神社",
+              "group": "DAY 4"
+            },
+            {
+              "id": "step_end6_44",
+              "type": "choice",
+              "content": "5日元",
+              "group": "DAY 4"
+            },
+            {
+              "id": "step_end6_45",
+              "type": "choice",
+              "content": "花园",
+              "group": "DAY 4"
+            },
+            {
+              "id": "step_end6_46",
+              "type": "choice",
+              "content": "超市",
+              "group": "DAY 4"
+            },
+            {
+              "id": "step_end6_47",
+              "type": "choice",
+              "content": "公寓",
+              "group": "DAY 4"
+            },
+            {
+              "id": "step_end6_48",
+              "type": "choice",
+              "content": "大公园",
+              "group": "DAY 4"
+            },
+            {
+              "id": "step_end6_49",
+              "type": "choice",
+              "content": "便利店",
+              "group": "DAY 4"
+            },
+            {
+              "id": "step_end6_50",
+              "type": "choice",
+              "content": "儿童公园",
+              "group": "DAY 4"
+            },
+            {
+              "id": "step_end6_51",
+              "type": "choice",
+              "content": "原地等待",
+              "group": "DAY 4"
+            },
+            {
+              "id": "step_end6_52",
+              "type": "choice",
+              "content": "他在说谎",
+              "group": "DAY 4"
+            },
+            {
+              "id": "step_end6_53",
+              "type": "choice",
+              "content": "别相信他",
+              "group": "DAY 4"
+            },
+            {
+              "id": "step_end6_54",
+              "type": "choice",
+              "content": "够了",
+              "group": "DAY 4"
+            },
+            {
+              "id": "step_end6_55",
+              "type": "choice",
+              "content": "不用相信他",
+              "group": "DAY 4"
+            },
+            {
+              "id": "step_end6_56",
+              "type": "choice",
+              "content": "不是这样的",
+              "group": "DAY 4"
+            }
+          ]
+        },
+        {
+          "id": "ending_end_7",
+          "name": "END 7",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_end7_01",
+              "type": "load",
+              "content": "LOAD 7",
+              "group": "DAY 4"
+            },
+            {
+              "id": "step_end7_02",
+              "type": "choice",
+              "content": "离开",
+              "group": "DAY 4"
+            },
+            {
+              "id": "step_end7_03",
+              "type": "choice",
+              "content": "我打算去",
+              "group": "DAY 4"
+            },
+            {
+              "id": "step_end7_04",
+              "type": "choice",
+              "content": "便利店",
+              "group": "DAY 4"
+            },
+            {
+              "id": "step_end7_05",
+              "type": "choice",
+              "content": "儿童公园",
+              "group": "DAY 4"
+            },
+            {
+              "id": "step_end7_06",
+              "type": "choice",
+              "content": "原地等待",
+              "group": "DAY 4"
+            },
+            {
+              "id": "step_end7_07",
+              "type": "choice",
+              "content": "他在说谎",
+              "group": "DAY 4"
+            },
+            {
+              "id": "step_end7_08",
+              "type": "choice",
+              "content": "别相信他",
+              "group": "DAY 4"
+            },
+            {
+              "id": "step_end7_09",
+              "type": "choice",
+              "content": "够了",
+              "group": "DAY 4"
+            },
+            {
+              "id": "step_end7_10",
+              "type": "choice",
+              "content": "不用相信他",
+              "group": "DAY 4"
+            },
+            {
+              "id": "step_end7_11",
+              "type": "choice",
+              "content": "不是这样的",
+              "group": "DAY 4"
+            },
+            {
+              "id": "step_end7_12",
+              "type": "choice",
+              "content": "我马上过去",
+              "group": "DAY 5"
+            },
+            {
+              "id": "step_end7_13",
+              "type": "choice",
+              "content": "便利店",
+              "group": "DAY 5"
+            },
+            {
+              "id": "step_end7_14",
+              "type": "choice",
+              "content": "你好",
+              "group": "DAY 5"
+            },
+            {
+              "id": "step_end7_15",
+              "type": "choice",
+              "content": "证明栞的清白",
+              "group": "DAY 5"
+            },
+            {
+              "id": "step_end7_16",
+              "type": "save",
+              "content": "SAVE 10",
+              "group": "DAY 5"
+            },
+            {
+              "id": "step_end7_17",
+              "type": "choice",
+              "content": "那就拜托了",
+              "group": "DAY 5"
+            },
+            {
+              "id": "step_end7_18",
+              "type": "choice",
+              "content": "\"又\"？",
+              "group": "DAY 5"
+            },
+            {
+              "id": "step_end7_19",
+              "type": "choice",
+              "content": "超市",
+              "group": "DAY 5"
+            },
+            {
+              "id": "step_end7_20",
+              "type": "choice",
+              "content": "等她说完",
+              "group": "DAY 5"
+            },
+            {
+              "id": "step_end7_22",
+              "type": "choice",
+              "content": "耐心等待",
+              "group": "DAY 5"
+            },
+            {
+              "id": "step_end7_23",
+              "type": "choice",
+              "content": "连环幼女绑架杀害案",
+              "group": "DAY 5"
+            },
+            {
+              "id": "step_end7_24",
+              "type": "choice",
+              "content": "好的",
+              "group": "DAY 5"
+            },
+            {
+              "id": "step_end7_25",
+              "type": "choice",
+              "content": "大公园",
+              "group": "DAY 5"
+            },
+            {
+              "id": "step_end7_26",
+              "type": "choice",
+              "content": "儿童公园",
+              "group": "DAY 5"
+            }
+          ]
+        },
+        {
+          "id": "ending_end_8",
+          "name": "END 8",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_end8_01",
+              "type": "load",
+              "content": "LOAD 10",
+              "group": "DAY 5"
+            },
+            {
+              "id": "step_end8_02",
+              "type": "choice",
+              "content": "拒绝",
+              "group": "DAY 5"
+            },
+            {
+              "id": "step8_03",
+              "type": "choice",
+              "content": "图书馆",
+              "group": "DAY 5"
+            },
+            {
+              "id": "step_end8_04",
+              "type": "choice",
+              "content": "！好的",
+              "group": "DAY 5"
+            },
+            {
+              "id": "step_end8_05",
+              "type": "choice",
+              "content": "！拒绝",
+              "group": "DAY 5"
+            },
+            {
+              "id": "step_end8_06",
+              "type": "choice",
+              "content": "同意",
+              "group": "DAY 5"
+            },
+            {
+              "id": "step_end8_07",
+              "type": "choice",
+              "content": "在",
+              "group": "DAY 5"
+            },
+            {
+              "id": "step_end8_08",
+              "type": "choice",
+              "content": "她躲在厕所的阴影里",
+              "group": "DAY 5"
+            },
+            {
+              "id": "step_end8_09",
+              "type": "choice",
+              "content": "大公园",
+              "group": "DAY 5"
+            },
+            {
+              "id": "step_end8_10",
+              "type": "choice",
+              "content": "见过",
+              "group": "DAY 5"
+            },
+            {
+              "id": "step_end8_11",
+              "type": "choice",
+              "content": "没错",
+              "group": "DAY 5"
+            },
+            {
+              "id": "step_end8_12",
+              "type": "choice",
+              "content": "是妖怪？",
+              "group": "DAY 5"
+            },
+            {
+              "id": "step_end8_13",
+              "type": "choice",
+              "content": "亲身体验过",
+              "group": "DAY 5"
+            },
+            {
+              "id": "step_end8_14",
+              "type": "choice",
+              "content": "你好",
+              "group": "DAY 5"
+            },
+            {
+              "id": "step_end8_15",
+              "type": "choice",
+              "content": "超市",
+              "group": "DAY 5"
+            },
+            {
+              "id": "step_end8_16",
+              "type": "choice",
+              "content": "冷静点",
+              "group": "DAY 5"
+            },
+            {
+              "id": "step_end8_18",
+              "type": "choice",
+              "content": "不行！",
+              "group": "DAY 5"
+            }
+          ]
+        },
+        {
+          "id": "ending_end_9",
+          "name": "END 9",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_end9_01",
+              "type": "load",
+              "content": "LOAD 9",
+              "group": "DAY 5"
+            },
+            {
+              "id": "step_end9_02",
+              "type": "choice",
+              "content": "让出遗物",
+              "group": "DAY 5"
+            },
+            {
+              "id": "step_end9_03",
+              "type": "choice",
+              "content": "超市",
+              "group": "DAY 5"
+            },
+            {
+              "id": "step_end9_04",
+              "type": "choice",
+              "content": "就此别过",
+              "group": "DAY 5"
+            },
+            {
+              "id": "step_end9_05",
+              "type": "choice",
+              "content": "超市",
+              "group": "DAY 5"
+            },
+            {
+              "id": "step_end9_06",
+              "type": "choice",
+              "content": "等她说完",
+              "group": "DAY 5"
+            },
+            {
+              "id": "step_end9_08",
+              "type": "choice",
+              "content": "耐心等待",
+              "group": "DAY 5"
+            },
+            {
+              "id": "step_end9_09",
+              "type": "choice",
+              "content": "连环幼女绑架杀害案",
+              "group": "DAY 5"
+            },
+            {
+              "id": "step_end9_10",
+              "type": "choice",
+              "content": "好的",
+              "group": "DAY 5"
+            },
+            {
+              "id": "step_end9_11",
+              "type": "choice",
+              "content": "大公园",
+              "group": "DAY 5"
+            },
+            {
+              "id": "step_end9_12",
+              "type": "choice",
+              "content": "儿童公园",
+              "group": "DAY 5"
+            },
+            {
+              "id": "step_end9_13",
+              "type": "choice",
+              "content": "神社",
+              "group": "DAY 5"
+            }
+          ]
+        },
+        {
+          "id": "ending_end_10",
+          "name": "END 10",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_end10_01",
+              "type": "save",
+              "content": "SAVE 9",
+              "group": "DAY 5"
+            },
+            {
+              "id": "step_end10_02",
+              "type": "choice",
+              "content": "举行仪式",
+              "group": "DAY 5"
+            },
+            {
+              "id": "step_end10_03",
+              "type": "choice",
+              "content": "记住了",
+              "group": "DAY 5"
+            },
+            {
+              "id": "step_end10_04",
+              "type": "choice",
+              "content": "我还会再来的",
+              "group": "DAY 5"
+            },
+            {
+              "id": "step_end10_05",
+              "type": "choice",
+              "content": "大公园",
+              "group": "DAY 5"
+            },
+            {
+              "id": "step_end10_06",
+              "type": "choice",
+              "content": "举行仪式",
+              "group": "DAY 5"
+            }
+          ]
+        },
+        {
+          "id": "ending_normal_end",
+          "name": "NORMAL",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_normal_01",
+              "type": "load",
+              "content": "LOAD 11",
+              "group": "DAY 5"
+            },
+            {
+              "id": "step_normal_02",
+              "type": "choice",
+              "content": "神社",
+              "group": "DAY 5"
+            },
+            {
+              "id": "step_normal_03",
+              "type": "choice",
+              "content": "询问->询问->询问",
+              "group": "DAY 5"
+            },
+            {
+              "id": "step_normal_04",
+              "type": "choice",
+              "content": "收到了护身符",
+              "group": "DAY 5"
+            },
+            {
+              "id": "step_normal_05",
+              "type": "choice",
+              "content": "超市",
+              "group": "DAY 5"
+            },
+            {
+              "id": "step_normal_06",
+              "type": "choice",
+              "content": "冷静点",
+              "group": "DAY 5"
+            },
+            {
+              "id": "step_normal_08",
+              "type": "choice",
+              "content": "不行！",
+              "group": "DAY 5"
+            },
+            {
+              "id": "step_normal_09",
+              "type": "choice",
+              "content": "儿童乐园",
+              "group": "DAY 5"
+            }
+          ]
+        },
+        {
+          "id": "ending_true_end",
+          "name": "TRUE",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_true_01",
+              "type": "load",
+              "content": "LOAD 12",
+              "group": "DAY 5"
+            },
+            {
+              "id": "step_true_02",
+              "type": "choice",
+              "content": "桐敷渚",
+              "group": "DAY 5"
+            },
+            {
+              "id": "step_true_03",
+              "type": "choice",
+              "content": "小区",
+              "group": "DAY 5"
+            },
+            {
+              "id": "step_true_04",
+              "type": "choice",
+              "content": "图书馆",
+              "group": "DAY 5"
+            },
+            {
+              "id": "step_true_05",
+              "type": "choice",
+              "content": "是的",
+              "group": "DAY 5"
+            },
+            {
+              "id": "step_true_06",
+              "type": "choice",
+              "content": "再见",
+              "group": "DAY 5"
+            },
+            {
+              "id": "step_true_07",
+              "type": "choice",
+              "content": "您就是教主······！",
+              "group": "DAY 5"
+            },
+            {
+              "id": "step_true_08",
+              "type": "choice",
+              "content": "超市",
+              "group": "DAY 5"
+            },
+            {
+              "id": "step_true_09",
+              "type": "choice",
+              "content": "冷静点",
+              "group": "DAY 5"
+            },
+            {
+              "id": "step_true_11",
+              "type": "choice",
+              "content": "不行！",
+              "group": "DAY 5"
+            },
+            {
+              "id": "step_true_12",
+              "type": "choice",
+              "content": "葵瑠美奈",
+              "group": "DAY 5"
+            },
+            {
+              "id": "step_true_13",
+              "type": "choice",
+              "content": "儿童公园",
+              "group": "DAY 5"
+            },
+            {
+              "id": "step_true_14",
+              "type": "choice",
+              "content": "不要勉强自己",
+              "group": "DAY 5"
+            },
+            {
+              "id": "step_true_15",
+              "type": "choice",
+              "content": "谢谢你",
+              "group": "DAY 5"
+            },
+            {
+              "id": "step_true_16",
+              "type": "choice",
+              "content": "地图上所有场景",
+              "group": "DAY 5"
+            },
+            {
+              "id": "step_true_17",
+              "type": "choice",
+              "content": "便利店",
+              "group": "DAY 5"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

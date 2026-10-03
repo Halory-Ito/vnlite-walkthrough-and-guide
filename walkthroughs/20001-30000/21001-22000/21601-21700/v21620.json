@@ -1,0 +1,124 @@
+{
+  "vid": "v21620",
+  "name": {
+    "zh-cn": "失眠的羊与孤独的狼",
+    "en-us": "The Restless Sheep & The Lone Wolf -A Tale of Cutthroat Lovers-",
+    "ja-jp": "眠れぬ羊と孤独な狼－A Tale of Love, and Cutthroat－",
+    "ja-Latn": "nemurenu-hitsuji-to-kodoku-na-ookami"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-14",
+  "tips": [
+    "其他结局全部达成后，才可进入■追迹另一个结局"
+  ],
+  "routes": [
+    {
+      "id": "route_main",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_end1",
+          "name": "END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_end1_01",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_end1_02",
+              "type": "choice",
+              "content": "承认"
+            },
+            {
+              "id": "step_end1_03",
+              "type": "choice",
+              "content": "同意"
+            },
+            {
+              "id": "step_end1_04",
+              "type": "choice",
+              "content": "不带她去"
+            }
+          ]
+        },
+        {
+          "id": "ending_end2",
+          "name": "END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_end2_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_end2_02",
+              "type": "choice",
+              "content": "不承认"
+            }
+          ]
+        },
+        {
+          "id": "ending_end3",
+          "name": "END3",
+          "type": "true",
+          "requirements": "END1以及END2后，从标题画面开始",
+          "steps": [
+            {
+              "id": "step_end3_02",
+              "type": "note",
+              "content": "追迹另一个结局 开始",
+              "prefix": "■"
+            },
+            {
+              "id": "step_end3_03",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_end3_04",
+              "type": "choice",
+              "content": "朝着心脏射击"
+            }
+          ]
+        },
+        {
+          "id": "ending_bad_end1",
+          "name": "END4",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_bad1_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_bad1_02",
+              "type": "choice",
+              "content": "朝着头部射击"
+            }
+          ]
+        },
+        {
+          "id": "ending_bad_end2",
+          "name": "END5",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_bad2_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_bad2_02",
+              "type": "choice",
+              "content": "不射击"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

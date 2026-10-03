@@ -1,0 +1,46 @@
+{
+  "vid": "v12293",
+  "name": {
+    "zh-cn": "花吻在上 天使的憧憬",
+    "en-us": "Sono Hanabira - Angels 1 - The Angels' Longing",
+    "ja-jp": "その花びらにくちづけを　天使のあこがれ",
+    "ja-Latn": "sono-hanabira-ni-kuchizuke-o-tenshi-no-akogare"
+  },
+  "level": 2,
+  "updatedAt": "2026-05-06",
+  "routes": [
+    {
+      "id": "route_1778061109036",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1778061136847",
+          "name": "END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1778061153578",
+              "type": "choice",
+              "content": "上去吧"
+            },
+            {
+              "id": "step_1778061153748",
+              "type": "choice",
+              "content": "开门"
+            },
+            {
+              "id": "step_1778061154011",
+              "type": "choice",
+              "content": "点头"
+            },
+            {
+              "id": "step_1778061167475",
+              "type": "choice",
+              "content": "是的，确实有 ♪"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

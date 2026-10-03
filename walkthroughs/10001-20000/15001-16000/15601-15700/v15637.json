@@ -1,0 +1,70 @@
+{
+  "vid": "v15637",
+  "name": {
+    "zh-cn": "永不落幕的前奏诗",
+    "ja-jp": "ソレヨリノ前奏詩",
+    "ja-Latn": "soreyori-no-prologue"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-12",
+  "tips": [
+    "一周目可进入真响或者遥路线。完成任意一方路线后，会自动进入另一方的路线",
+    "双方都攻略完毕后，会自动进入永远路线"
+  ],
+  "routes": [
+    {
+      "id": "route_1756109878230",
+      "name": "佐仓井 真响",
+      "endings": [
+        {
+          "id": "ending_1756109890633",
+          "name": "真响 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756109891911",
+              "type": "choice",
+              "content": "和真响一起玩"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756109904766",
+      "name": "都筑 遥",
+      "endings": [
+        {
+          "id": "ending_1756109909836",
+          "name": "遥 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756109917678",
+              "type": "choice",
+              "content": "给遥发送邮件"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756109920965",
+      "name": "姫野 永远",
+      "endings": [
+        {
+          "id": "ending_1756109931172",
+          "name": "永远 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756110014626",
+              "type": "note",
+              "content": "真响&遥路线结束后，自动开始"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

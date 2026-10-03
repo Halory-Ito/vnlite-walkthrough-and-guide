@@ -1,0 +1,209 @@
+{
+  "vid": "v19595",
+  "name": {
+    "zh-cn": "星恋*twinkle",
+    "ja-jp": "星恋＊ティンクル",
+    "ja-Latn": "hoshi-koi-twinkle"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-14",
+  "tips": [
+    "其他3人攻略完毕后，可以攻略凪"
+  ],
+  "routes": [
+    {
+      "id": "route_kumogumo",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_sora_end",
+          "name": "空叶 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_sora_001",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_sora_002",
+              "type": "choice",
+              "content": "回家"
+            },
+            {
+              "id": "step_sora_003",
+              "type": "choice",
+              "content": "给她戴",
+              "subfix": "空叶+1"
+            },
+            {
+              "id": "step_sora_004",
+              "type": "choice",
+              "content": "拜托了",
+              "subfix": "珠希+1"
+            },
+            {
+              "id": "step_sora_005",
+              "type": "choice",
+              "content": "帮助修整花坛",
+              "subfix": "咲良+1"
+            },
+            {
+              "id": "step_sora_006",
+              "type": "choice",
+              "content": "恭敬不如从命",
+              "subfix": "咲良+1"
+            },
+            {
+              "id": "step_sora_007",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_sora_008",
+              "type": "choice",
+              "content": "在乎珠希",
+              "subfix": "珠希+1"
+            },
+            {
+              "id": "step_sora_009",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_sora_010",
+              "type": "choice",
+              "content": "和她一起洗澡",
+              "subfix": "空叶+1"
+            },
+            {
+              "id": "step_sora_011",
+              "type": "choice",
+              "content": "猫咪部的事"
+            }
+          ]
+        },
+        {
+          "id": "ending_sakura_end",
+          "name": "咲良 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_sakura_001",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_sakura_002",
+              "type": "choice",
+              "content": "不去特别在意"
+            },
+            {
+              "id": "step_sakura_003",
+              "type": "choice",
+              "content": "再也不一起洗了"
+            },
+            {
+              "id": "step_sakura_004",
+              "type": "choice",
+              "content": "猫咪部的事"
+            }
+          ]
+        },
+        {
+          "id": "ending_tamaki_end",
+          "name": "珠希 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_tamaki_001",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_tamaki_002",
+              "type": "choice",
+              "content": "再也不一起洗了"
+            },
+            {
+              "id": "step_tamaki_003",
+              "type": "choice",
+              "content": "猫咪部的事"
+            }
+          ]
+        },
+        {
+          "id": "ending_nagi_end",
+          "name": "凪 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_nagi_001",
+              "type": "note",
+              "content": "3人攻略完毕后"
+            },
+            {
+              "id": "step_nagi_002",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_nagi_003",
+              "type": "choice",
+              "content": "打招呼",
+              "subfix": "凪+1"
+            },
+            {
+              "id": "step_nagi_004",
+              "type": "choice",
+              "content": "不可能做的"
+            },
+            {
+              "id": "step_nagi_005",
+              "type": "choice",
+              "content": "拒绝"
+            },
+            {
+              "id": "step_nagi_006",
+              "type": "choice",
+              "content": "不帮忙"
+            },
+            {
+              "id": "step_nagi_007",
+              "type": "choice",
+              "content": "让她回家"
+            },
+            {
+              "id": "step_nagi_008",
+              "type": "choice",
+              "content": "不去特别在意"
+            },
+            {
+              "id": "step_nagi_009",
+              "type": "choice",
+              "content": "再也不一起洗了"
+            },
+            {
+              "id": "step_nagi_010",
+              "type": "choice",
+              "content": "星夜的事",
+              "subfix": "凪+1"
+            }
+          ]
+        },
+        {
+          "id": "ending_nagi_true_end",
+          "name": "TRUE END(凪)",
+          "type": "true",
+          "requirements": "凪 END后，选择从grand线开始",
+          "steps": [
+            {
+              "type": "choice",
+              "content": "（源站步骤均为空）"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

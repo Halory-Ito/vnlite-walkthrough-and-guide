@@ -1,0 +1,164 @@
+{
+  "vid": "v20264",
+  "name": {
+    "zh-cn": "樱之杜净梦者2",
+    "ja-jp": "サクラノモリ†ドリーマーズ2",
+    "ja-Latn": "sakura-no-mori-dreamers-2"
+  },
+  "level": 2,
+  "updatedAt": "2026-05-11",
+  "routes": [
+    {
+      "id": "route_extra_scenes",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_main_end",
+          "name": "END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_main_01",
+              "type": "choice",
+              "content": "好好回想一下"
+            },
+            {
+              "id": "step_main_02",
+              "type": "choice",
+              "content": "再次回想"
+            },
+            {
+              "id": "step_main_03",
+              "type": "choice",
+              "content": "好好回想一下"
+            },
+            {
+              "id": "step_main_04",
+              "type": "choice",
+              "content": "用脚往上踢"
+            },
+            {
+              "id": "step_main_05",
+              "type": "choice",
+              "content": "抓对方的脸"
+            },
+            {
+              "id": "step_main_06",
+              "type": "choice",
+              "content": "扯对方的手"
+            },
+            {
+              "id": "step_main_07",
+              "type": "choice",
+              "content": "慎司会来救我"
+            }
+          ]
+        },
+        {
+          "id": "ending_extra_scenes",
+          "name": "追加情节回收",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_extra_01",
+              "type": "note",
+              "content": "追加情节",
+              "prefix": "■"
+            },
+            {
+              "id": "step_extra_02",
+              "type": "choice",
+              "content": "和圆香"
+            },
+            {
+              "id": "step_extra_03",
+              "type": "choice",
+              "content": "和大家"
+            },
+            {
+              "id": "step_extra_04",
+              "type": "note",
+              "content": "追加情节的２个场景回收后",
+              "prefix": "※"
+            },
+            {
+              "id": "step_extra_05",
+              "type": "note",
+              "content": "追加情节",
+              "prefix": "■"
+            },
+            {
+              "id": "step_extra_06",
+              "type": "choice",
+              "content": "梦中世界"
+            },
+            {
+              "id": "step_extra_07",
+              "type": "save",
+              "content": "SAVE 1",
+              "prefix": "◆"
+            },
+            {
+              "id": "step_extra_08",
+              "type": "choice",
+              "content": "去见暮羽"
+            },
+            {
+              "id": "step_extra_09",
+              "type": "note",
+              "content": "回收结束"
+            },
+            {
+              "id": "step_extra_10",
+              "type": "load",
+              "content": "LOAD 1",
+              "prefix": "◆"
+            },
+            {
+              "id": "step_extra_11",
+              "type": "choice",
+              "content": "去见真幌"
+            },
+            {
+              "id": "step_extra_12",
+              "type": "note",
+              "content": "回收结束"
+            },
+            {
+              "id": "step_extra_13",
+              "type": "load",
+              "content": "LOAD 1",
+              "prefix": "◆"
+            },
+            {
+              "id": "step_extra_14",
+              "type": "choice",
+              "content": "去见美冬"
+            },
+            {
+              "id": "step_extra_15",
+              "type": "note",
+              "content": "回收结束"
+            },
+            {
+              "id": "step_extra_16",
+              "type": "load",
+              "content": "LOAD 1",
+              "prefix": "◆"
+            },
+            {
+              "id": "step_extra_17",
+              "type": "choice",
+              "content": "去见初音"
+            },
+            {
+              "id": "step_extra_18",
+              "type": "note",
+              "content": "回收结束"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

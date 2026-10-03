@@ -1,0 +1,104 @@
+{
+  "vid": "v17872",
+  "name": {
+    "zh-cn": "罪之光约会",
+    "ja-jp": "罪ノ光ランデヴー",
+    "ja-Latn": "tsumi-no-hikari-rendezvous"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-12",
+  "tips": [
+    "一周目只能攻略风香或者圆来"
+  ],
+  "routes": [
+    {
+      "id": "route_1756110477019",
+      "name": "椿 风香",
+      "endings": [
+        {
+          "id": "ending_1756110478190",
+          "name": "风香 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756110479244",
+              "type": "choice",
+              "content": "开头",
+              "prefix": "◆"
+            },
+            {
+              "id": "step_1756111695766",
+              "type": "choice",
+              "content": "离别后",
+              "prefix": "◆"
+            },
+            {
+              "id": "step_1756111754178",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1756111772523",
+              "type": "choice",
+              "content": "风香"
+            },
+            {
+              "id": "step_1756111785720",
+              "type": "choice",
+              "content": "风香 路线",
+              "prefix": "◆"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756111185092",
+      "name": "水园 圆来",
+      "endings": [
+        {
+          "id": "ending_1756111844727",
+          "name": "圆来 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756111858174",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1756111868785",
+              "type": "choice",
+              "content": "圆来"
+            },
+            {
+              "id": "step_1756111873760",
+              "type": "choice",
+              "content": "圆来路线",
+              "prefix": "◆"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756111221465",
+      "name": "真澄 哀",
+      "endings": [
+        {
+          "id": "ending_1756111960743",
+          "name": "哀 END",
+          "type": "normal",
+          "requirements": "风香和圆来攻略完毕后，标题画面开始新游戏",
+          "steps": [
+            {
+              "id": "step_1756111965776",
+              "type": "choice",
+              "content": "选择哀路线"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

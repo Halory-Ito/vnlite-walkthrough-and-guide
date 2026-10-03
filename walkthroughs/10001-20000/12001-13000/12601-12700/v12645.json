@@ -1,0 +1,249 @@
+{
+  "vid": "v12645",
+  "name": {
+    "zh-cn": "花吻在上 白雪骑士",
+    "en-us": "Sono Hanabira 13 - Snow White Knight",
+    "ja-jp": "その花びらにくちづけを 白雪の騎士",
+    "ja-Latn": "sono-hanabira-ni-kuchizuke-o-shirayuki-no-kishi"
+  },
+  "level": 2,
+  "updatedAt": "2026-05-06",
+  "tips": [
+    "1周目会强制进入六夏＆沙雪路线。2周目开始可自由进行其他路线",
+    "★为追加选项，不出现时无视即可"
+  ],
+  "routes": [
+    {
+      "id": "route_consolidated",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_rokuha_sayuki",
+          "name": "六夏＆沙雪 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "s_all_01",
+              "type": "choice",
+              "content": "好像在哪里……听过……"
+            },
+            {
+              "id": "s_all_02",
+              "type": "choice",
+              "content": "是以前的熟人，没有恋爱感情"
+            },
+            {
+              "id": "s_all_03",
+              "type": "choice",
+              "content": "如果和六夏小姐是真正的情侣的话……"
+            },
+            {
+              "id": "s_all_04",
+              "type": "choice",
+              "content": "下次教你游泳吧？"
+            },
+            {
+              "id": "s_all_05",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "s_all_06",
+              "type": "choice",
+              "content": "不想……放弃，不甘心！"
+            },
+            {
+              "id": "s_all_07",
+              "type": "choice",
+              "content": "心跳加速，根本顾不上那些",
+              "prefix": "★"
+            },
+            {
+              "id": "s_all_08",
+              "type": "note",
+              "content": "六夏＆沙雪路线",
+              "prefix": "■"
+            },
+            {
+              "id": "s_all_09",
+              "type": "choice",
+              "content": "这种事……说不出口"
+            },
+            {
+              "id": "s_all_10",
+              "type": "choice",
+              "content": "要不要约个会？"
+            },
+            {
+              "id": "s_all_11",
+              "type": "choice",
+              "content": "鼓起勇气……告白！！"
+            }
+          ]
+        },
+        {
+          "id": "ending_risa_miya",
+          "name": "璃紗＆美夜 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "s_all_13",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "s_all_14",
+              "type": "choice",
+              "content": "不想……放弃，不甘心！"
+            },
+            {
+              "id": "s_all_15",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "s_all_16",
+              "type": "choice",
+              "content": "去看看璃紗和美夜的情况"
+            },
+            {
+              "id": "s_all_17",
+              "type": "note",
+              "content": "璃紗＆美夜路线",
+              "prefix": "■"
+            },
+            {
+              "id": "s_all_18",
+              "type": "choice",
+              "content": "当然，我喜欢美夜"
+            },
+            {
+              "id": "s_all_19",
+              "type": "choice",
+              "content": "总之，顾左右而言他"
+            },
+            {
+              "id": "s_all_20",
+              "type": "choice",
+              "content": "总之，猛夸一顿"
+            }
+          ]
+        },
+        {
+          "id": "ending_nanami_yuna",
+          "name": "七海＆優菜 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "s_all_22",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "s_all_23",
+              "type": "choice",
+              "content": "去看看七海和優菜的情况"
+            },
+            {
+              "id": "s_all_24",
+              "type": "note",
+              "content": "七海＆優菜路线",
+              "prefix": "■"
+            },
+            {
+              "id": "s_all_25",
+              "type": "choice",
+              "content": "相信彼此的恋人吧"
+            },
+            {
+              "id": "s_all_26",
+              "type": "choice",
+              "content": "………………"
+            },
+            {
+              "id": "s_all_27",
+              "type": "choice",
+              "content": "请再克制一下！"
+            }
+          ]
+        },
+        {
+          "id": "ending_sara_kaede",
+          "name": "紗良＆楓 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "s_all_29",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "s_all_30",
+              "type": "choice",
+              "content": "去看看紗良和楓的情况"
+            },
+            {
+              "id": "s_all_31",
+              "type": "note",
+              "content": "紗良＆楓路线",
+              "prefix": "■"
+            },
+            {
+              "id": "s_all_32",
+              "type": "choice",
+              "content": "向紗良道谢"
+            },
+            {
+              "id": "s_all_33",
+              "type": "choice",
+              "content": "必须好好说……对紗良"
+            },
+            {
+              "id": "s_all_34",
+              "type": "choice",
+              "content": "想回应紗良的心意"
+            }
+          ]
+        },
+        {
+          "id": "ending_rei_mai",
+          "name": "玲緒＆麻衣 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "s_all_36",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "s_all_37",
+              "type": "choice",
+              "content": "去看看玲緒和麻衣的情况"
+            },
+            {
+              "id": "s_all_38",
+              "type": "note",
+              "content": "玲緒＆麻衣路线",
+              "prefix": "■"
+            },
+            {
+              "id": "s_all_39",
+              "type": "choice",
+              "content": "喂她喝果汁"
+            },
+            {
+              "id": "s_all_40",
+              "type": "choice",
+              "content": "对玲緒倾诉烦恼"
+            },
+            {
+              "id": "s_all_41",
+              "type": "choice",
+              "content": "坦诚说出来"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

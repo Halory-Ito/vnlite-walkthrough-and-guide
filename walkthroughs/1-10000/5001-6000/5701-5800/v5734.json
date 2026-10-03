@@ -1,0 +1,863 @@
+{
+  "vid": "v5734",
+  "name": {
+    "zh-cn": "情侣热恋中",
+    "en-us": "Girlish Love Revolution",
+    "ja-jp": "ラブラブル～Lover Able～",
+    "ja-Latn": "lover-able"
+  },
+  "level": 2,
+  "updatedAt": "2026-02-27",
+  "routes": [
+    {
+      "id": "route_1756815700929",
+      "name": "琴宫 千夏",
+      "endings": [
+        {
+          "id": "ending_1756815891078",
+          "name": "千夏 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756815985542",
+              "type": "choice",
+              "content": "给琴宫发邮件"
+            },
+            {
+              "id": "step_1756815985820",
+              "type": "choice",
+              "content": "奈奈子小姐长得很漂亮"
+            },
+            {
+              "id": "step_1756815986001",
+              "type": "choice",
+              "content": "去看看二楼的情况"
+            },
+            {
+              "id": "step_1756815986147",
+              "type": "choice",
+              "content": "给琴宫发邮件"
+            },
+            {
+              "id": "step_1756815986263",
+              "type": "choice",
+              "content": "猜拳来决定吧"
+            },
+            {
+              "id": "step_1756815986429",
+              "type": "choice",
+              "content": "我比较喜欢校服……"
+            },
+            {
+              "id": "step_1756815986599",
+              "type": "choice",
+              "content": "太害羞了干脆无视"
+            },
+            {
+              "id": "step_1756815986752",
+              "type": "choice",
+              "content": "总之老实夸奖非常可爱"
+            },
+            {
+              "id": "step_1756815986935",
+              "type": "choice",
+              "content": "不如说我比较怪"
+            },
+            {
+              "id": "step_1756815987114",
+              "type": "choice",
+              "content": "过于不甘心所以不夸了"
+            },
+            {
+              "id": "step_1756815987270",
+              "type": "choice",
+              "content": "给琴宫发邮件"
+            },
+            {
+              "id": "step_1756815987430",
+              "type": "choice",
+              "content": "和花穗打招呼"
+            },
+            {
+              "id": "step_1756815987609",
+              "type": "choice",
+              "content": "倒也想看婊子姐的泳装"
+            },
+            {
+              "id": "step_1756815987757",
+              "type": "choice",
+              "content": "不如让继美摸我的头"
+            },
+            {
+              "id": "step_1756815989783",
+              "type": "choice",
+              "content": "给琴宫发邮件"
+            },
+            {
+              "id": "step_1756815989940",
+              "type": "choice",
+              "content": "那是当然"
+            },
+            {
+              "id": "step_1756816089691",
+              "type": "choice",
+              "content": "乖乖地一个人休息"
+            },
+            {
+              "id": "step_1756816089812",
+              "type": "choice",
+              "content": "去看看琴宫姐妹的样子"
+            },
+            {
+              "id": "step_1756816089922",
+              "type": "choice",
+              "content": "给琴宫发邮件"
+            },
+            {
+              "id": "step_1756816090225",
+              "type": "choice",
+              "content": "琴宫"
+            },
+            {
+              "id": "step_1756816090425",
+              "type": "choice",
+              "content": "『我也心跳不已&小鹿乱撞啊』"
+            },
+            {
+              "id": "step_1756816090592",
+              "type": "choice",
+              "content": "还是长发的比较适合(短发我觉得也很合适呀？)"
+            },
+            {
+              "id": "step_1756816090756",
+              "type": "choice",
+              "content": "『你才是，可不能爽约哦~？』"
+            },
+            {
+              "id": "step_1756816090909",
+              "type": "choice",
+              "content": "『我也是，明天想要度过难忘的一天』"
+            },
+            {
+              "id": "step_1756816091053",
+              "type": "choice",
+              "content": "喜欢今天的(喜欢以前的)"
+            },
+            {
+              "id": "step_1756816091207",
+              "type": "choice",
+              "content": "里面/外面"
+            },
+            {
+              "id": "step_1756816091363",
+              "type": "choice",
+              "content": "『肯定是和女朋友约会更开心啊』"
+            },
+            {
+              "id": "step_1756816091523",
+              "type": "choice",
+              "content": "『姐妹盖饭的话我也非常欢迎』"
+            },
+            {
+              "id": "step_1756816091660",
+              "type": "choice",
+              "content": "嘴里/脸上"
+            },
+            {
+              "id": "step_1756816091805",
+              "type": "choice",
+              "content": "里面/外面"
+            },
+            {
+              "id": "step_1756816091927",
+              "type": "choice",
+              "content": "『我对千夏可是一心一意的，你放心吧？』"
+            },
+            {
+              "id": "step_1756816092079",
+              "type": "choice",
+              "content": "『谢谢你，有你做我女朋友真是太好了』"
+            },
+            {
+              "id": "step_1756816092307",
+              "type": "choice",
+              "content": "穿校服做爱是男人的梦……！(千夏穿着校服也行嘛？)"
+            },
+            {
+              "id": "step_1756816092479",
+              "type": "choice",
+              "content": "嘴里/脸上"
+            },
+            {
+              "id": "step_1756816092626",
+              "type": "choice",
+              "content": "里面/外面"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756818419767",
+      "name": "爱沢 花穂",
+      "endings": [
+        {
+          "id": "ending_1756818435995",
+          "name": "花穂 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756818452767",
+              "type": "choice",
+              "content": "给花穂发邮件"
+            },
+            {
+              "id": "step_1756818452926",
+              "type": "choice",
+              "content": "奈奈子小姐长得很漂亮"
+            },
+            {
+              "id": "step_1756818453089",
+              "type": "choice",
+              "content": "想要学习一下新的工作内容"
+            },
+            {
+              "id": "step_1756818453244",
+              "type": "choice",
+              "content": "给花穂发邮件"
+            },
+            {
+              "id": "step_1756818453558",
+              "type": "choice",
+              "content": "猜拳来决定吧"
+            },
+            {
+              "id": "step_1756818453742",
+              "type": "choice",
+              "content": "我比较喜欢校服……"
+            },
+            {
+              "id": "step_1756818454035",
+              "type": "choice",
+              "content": "太害羞了干脆无视"
+            },
+            {
+              "id": "step_1756818454200",
+              "type": "choice",
+              "content": "润！"
+            },
+            {
+              "id": "step_1756818454355",
+              "type": "choice",
+              "content": "不如说我比较怪"
+            },
+            {
+              "id": "step_1756818454677",
+              "type": "choice",
+              "content": "过于不甘心所以不夸了"
+            },
+            {
+              "id": "step_1756818455022",
+              "type": "choice",
+              "content": "给花穂发邮件"
+            },
+            {
+              "id": "step_1756818457851",
+              "type": "choice",
+              "content": "和花穗打招呼"
+            },
+            {
+              "id": "step_1756818458005",
+              "type": "choice",
+              "content": "当然是你最可爱了"
+            },
+            {
+              "id": "step_1756818458110",
+              "type": "choice",
+              "content": "不如让继美摸我的头"
+            },
+            {
+              "id": "step_1756818458244",
+              "type": "choice",
+              "content": "给花穂发邮件"
+            },
+            {
+              "id": "step_1756818458386",
+              "type": "choice",
+              "content": "嗯，其实是和你"
+            },
+            {
+              "id": "step_1756818458534",
+              "type": "choice",
+              "content": "乖乖地一个人休息"
+            },
+            {
+              "id": "step_1756818458675",
+              "type": "choice",
+              "content": "去给厨房帮忙"
+            },
+            {
+              "id": "step_1756818458800",
+              "type": "choice",
+              "content": "给花穂发邮件"
+            },
+            {
+              "id": "step_1756818458948",
+              "type": "choice",
+              "content": "其实应该是花穗……"
+            },
+            {
+              "id": "step_1756818459089",
+              "type": "choice",
+              "content": "里面/外面"
+            },
+            {
+              "id": "step_1756818459242",
+              "type": "choice",
+              "content": "喜欢现在的发型（可能还是喜欢以前的发型）"
+            },
+            {
+              "id": "step_1756818459385",
+              "type": "choice",
+              "content": "新衣服，非常适合，很可爱（你不管穿什么都好可爱）"
+            },
+            {
+              "id": "step_1756818459508",
+              "type": "choice",
+              "content": "里面/外面"
+            },
+            {
+              "id": "step_1756818459651",
+              "type": "choice",
+              "content": "『我才是，之后请多指教了』"
+            },
+            {
+              "id": "step_1756818459780",
+              "type": "choice",
+              "content": "嘴里/脸上"
+            },
+            {
+              "id": "step_1756818460043",
+              "type": "choice",
+              "content": "『我去外面呼吸点新鲜空气。』"
+            },
+            {
+              "id": "step_1756818460221",
+              "type": "choice",
+              "content": "嘴里/脸上"
+            },
+            {
+              "id": "step_1756818460362",
+              "type": "choice",
+              "content": "里面/外面"
+            },
+            {
+              "id": "step_1756818460507",
+              "type": "choice",
+              "content": "『嗯，确实如此』"
+            },
+            {
+              "id": "step_1756818460649",
+              "type": "choice",
+              "content": "虽然不好意思当让花穗穿上吧(就这样就好了)"
+            },
+            {
+              "id": "step_1756818460805",
+              "type": "choice",
+              "content": "里面/外面"
+            },
+            {
+              "id": "step_1756818460965",
+              "type": "choice",
+              "content": "『不过身体状况不好的时候不要勉强啊？』"
+            },
+            {
+              "id": "step_1756818466999",
+              "type": "choice",
+              "content": "『那让我也帮帮你自慰吧……！』"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756818636262",
+      "name": "姫野 继美",
+      "endings": [
+        {
+          "id": "ending_1756818669962",
+          "name": "继美 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756818672170",
+              "type": "choice",
+              "content": "今天算了"
+            },
+            {
+              "id": "step_1756818672302",
+              "type": "choice",
+              "content": "奈奈子小姐长得很漂亮"
+            },
+            {
+              "id": "step_1756818672433",
+              "type": "choice",
+              "content": "想要学习一下新的工作内容"
+            },
+            {
+              "id": "step_1756818672565",
+              "type": "choice",
+              "content": "给小继美发邮件"
+            },
+            {
+              "id": "step_1756818672706",
+              "type": "choice",
+              "content": "自己喜欢的就是最好的"
+            },
+            {
+              "id": "step_1756818672957",
+              "type": "choice",
+              "content": "真的是非常可爱！"
+            },
+            {
+              "id": "step_1756818673152",
+              "type": "choice",
+              "content": "太害羞了干脆无视"
+            },
+            {
+              "id": "step_1756818673349",
+              "type": "choice",
+              "content": "润！"
+            },
+            {
+              "id": "step_1756818675852",
+              "type": "choice",
+              "content": "合适！非常可爱"
+            },
+            {
+              "id": "step_1756818676013",
+              "type": "choice",
+              "content": "全力夸奖她的泳装打扮"
+            },
+            {
+              "id": "step_1756818676156",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1756818676297",
+              "type": "choice",
+              "content": "给小继美发邮件"
+            },
+            {
+              "id": "step_1756818676426",
+              "type": "choice",
+              "content": "和花穗打招呼"
+            },
+            {
+              "id": "step_1756818676586",
+              "type": "choice",
+              "content": "倒也想看婊子姐的泳装"
+            },
+            {
+              "id": "step_1756818676711",
+              "type": "choice",
+              "content": "也摸一摸继美的头"
+            },
+            {
+              "id": "step_1756818676829",
+              "type": "choice",
+              "content": "给小继美发邮件"
+            },
+            {
+              "id": "step_1756818676965",
+              "type": "choice",
+              "content": "嗯，其实是和你"
+            },
+            {
+              "id": "step_1756818677088",
+              "type": "choice",
+              "content": "乖乖地一个人休息"
+            },
+            {
+              "id": "step_1756818677271",
+              "type": "choice",
+              "content": "去给厨房帮忙"
+            },
+            {
+              "id": "step_1756818677362",
+              "type": "choice",
+              "content": "给小继美发邮件"
+            },
+            {
+              "id": "step_1756818677458",
+              "type": "choice",
+              "content": "小继美"
+            },
+            {
+              "id": "step_1756818677674",
+              "type": "choice",
+              "content": "非常合适，非常可爱(其实我更喜欢你平时的发型)"
+            },
+            {
+              "id": "step_1756818677980",
+              "type": "choice",
+              "content": "非常可爱(其实平时的衣服我也很喜欢！)"
+            },
+            {
+              "id": "step_1756818678144",
+              "type": "choice",
+              "content": "『心脏的声音要是停了可是会死的啊？』"
+            },
+            {
+              "id": "step_1756818678307",
+              "type": "choice",
+              "content": "『其实我也在等继美的邮件』"
+            },
+            {
+              "id": "step_1756818678470",
+              "type": "choice",
+              "content": "『怎么会觉得麻烦呢，我其实我超开心的』"
+            },
+            {
+              "id": "step_1756818678629",
+              "type": "choice",
+              "content": "『算是一段非常贵重的经验』"
+            },
+            {
+              "id": "step_1756818678776",
+              "type": "choice",
+              "content": "里面/外面"
+            },
+            {
+              "id": "step_1756818679645",
+              "type": "choice",
+              "content": "『总是会……怎么？』"
+            },
+            {
+              "id": "step_1756818679796",
+              "type": "choice",
+              "content": "『如果更加心动了的话，会怎么样？』"
+            },
+            {
+              "id": "step_1756818679951",
+              "type": "choice",
+              "content": "穿着制服做爱吧(穿体操服……！)"
+            },
+            {
+              "id": "step_1756818876512",
+              "type": "choice",
+              "content": "里面/外面"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756818918477",
+      "name": "三枝 奈奈子",
+      "endings": [
+        {
+          "id": "ending_1756818932416",
+          "name": "奈奈子 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756818942322",
+              "type": "choice",
+              "content": "给奈奈子小姐发邮件"
+            },
+            {
+              "id": "step_1756818942753",
+              "type": "choice",
+              "content": "奈奈子小姐也很可爱"
+            },
+            {
+              "id": "step_1756818942896",
+              "type": "choice",
+              "content": "想要学习一下新的工作内容"
+            },
+            {
+              "id": "step_1756818943055",
+              "type": "choice",
+              "content": "给奈奈子小姐发邮件"
+            },
+            {
+              "id": "step_1756818943211",
+              "type": "choice",
+              "content": "猜拳来决定吧"
+            },
+            {
+              "id": "step_1756818943384",
+              "type": "choice",
+              "content": "我比较喜欢校服……"
+            },
+            {
+              "id": "step_1756818943521",
+              "type": "choice",
+              "content": "老实地夸奖奈奈子小姐的泳装"
+            },
+            {
+              "id": "step_1756818943656",
+              "type": "choice",
+              "content": "润！"
+            },
+            {
+              "id": "step_1756818943816",
+              "type": "choice",
+              "content": "不如说我比较怪"
+            },
+            {
+              "id": "step_1756818943948",
+              "type": "choice",
+              "content": "过于不甘心所以不夸了"
+            },
+            {
+              "id": "step_1756818944100",
+              "type": "choice",
+              "content": "给奈奈子小姐发邮件"
+            },
+            {
+              "id": "step_1756818944270",
+              "type": "choice",
+              "content": "和花穗打招呼"
+            },
+            {
+              "id": "step_1756818944413",
+              "type": "choice",
+              "content": "倒也想看婊子姐的泳装"
+            },
+            {
+              "id": "step_1756818944582",
+              "type": "choice",
+              "content": "不如让继美摸我的头"
+            },
+            {
+              "id": "step_1756818944743",
+              "type": "choice",
+              "content": "给奈奈子小姐发邮件"
+            },
+            {
+              "id": "step_1756818944877",
+              "type": "choice",
+              "content": "嗯，其实是和你"
+            },
+            {
+              "id": "step_1756818945030",
+              "type": "choice",
+              "content": "奈奈子小姐一起休息"
+            },
+            {
+              "id": "step_1756818945331",
+              "type": "choice",
+              "content": "去给厨房帮忙"
+            },
+            {
+              "id": "step_1756818945506",
+              "type": "choice",
+              "content": "给奈奈子小姐发邮件"
+            },
+            {
+              "id": "step_1756818945650",
+              "type": "choice",
+              "content": "奈奈子さん"
+            },
+            {
+              "id": "step_1756818945815",
+              "type": "choice",
+              "content": "『不是开玩笑，放心吧。』&nbsp;"
+            },
+            {
+              "id": "step_1756818945942",
+              "type": "choice",
+              "content": "我喜欢长发(我喜欢短发)"
+            },
+            {
+              "id": "step_1756818946110",
+              "type": "choice",
+              "content": "平时打扮好看(今天的服装简直犯规)"
+            },
+            {
+              "id": "step_1756818946284",
+              "type": "choice",
+              "content": "『我正全裸躺在床上呢。』"
+            },
+            {
+              "id": "step_1756818946439",
+              "type": "choice",
+              "content": "里面/外面"
+            },
+            {
+              "id": "step_1756818946757",
+              "type": "choice",
+              "content": "『我也还很激动啊？』"
+            },
+            {
+              "id": "step_1756818946915",
+              "type": "choice",
+              "content": "『我已经得了奈奈子小姐不在旁边就会寂寞的疾病』"
+            },
+            {
+              "id": "step_1756818947112",
+              "type": "choice",
+              "content": "『发热的奈奈子小姐也很漂亮啊？』"
+            },
+            {
+              "id": "step_1756818947282",
+              "type": "choice",
+              "content": "『怎么可能不行！！不如说尽情』"
+            },
+            {
+              "id": "step_1756818947421",
+              "type": "choice",
+              "content": "嘴里/脸上"
+            },
+            {
+              "id": "step_1756818950181",
+              "type": "choice",
+              "content": "里面/外面"
+            },
+            {
+              "id": "step_1756818950557",
+              "type": "choice",
+              "content": "让她穿上啦啦队服(不，今天就穿这个)"
+            },
+            {
+              "id": "step_1756818951017",
+              "type": "choice",
+              "content": "里面/外面"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756819511957",
+      "name": "柳濑 彩月",
+      "endings": [
+        {
+          "id": "ending_1756819521842",
+          "name": "彩月 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756820023441",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1756820030312",
+              "type": "choice",
+              "content": "给柳濑发邮件"
+            },
+            {
+              "id": "step_1756820030580",
+              "type": "choice",
+              "content": "和柳濑打招呼"
+            },
+            {
+              "id": "step_1756820030713",
+              "type": "choice",
+              "content": "当然是你最可爱了"
+            },
+            {
+              "id": "step_1756820030838",
+              "type": "choice",
+              "content": "不如让继美摸我的头"
+            },
+            {
+              "id": "step_1756820030965",
+              "type": "choice",
+              "content": "给柳濑发邮件"
+            },
+            {
+              "id": "step_1756820031191",
+              "type": "choice",
+              "content": "嗯，其实是和你"
+            },
+            {
+              "id": "step_1756820031595",
+              "type": "choice",
+              "content": "乖乖地一个人休息"
+            },
+            {
+              "id": "step_1756820031770",
+              "type": "choice",
+              "content": "去给厨房帮忙"
+            },
+            {
+              "id": "step_1756820031946",
+              "type": "choice",
+              "content": "给柳濑发邮件"
+            },
+            {
+              "id": "step_1756820032122",
+              "type": "choice",
+              "content": "柳濑"
+            },
+            {
+              "id": "step_1756820032312",
+              "type": "choice",
+              "content": "就现在这样也挺可爱了啊？(想看看彩月头发散开的样子。)"
+            },
+            {
+              "id": "step_1756820032494",
+              "type": "choice",
+              "content": "很合适！　可爱过头我甚至无法反应(虽然可爱，但平时穿的衣服我也很喜欢！)"
+            },
+            {
+              "id": "step_1756820032675",
+              "type": "choice",
+              "content": "『彩月的泳装打扮真的是国宝级的』"
+            },
+            {
+              "id": "step_1756820033036",
+              "type": "choice",
+              "content": "『一点都不觉得麻烦』"
+            },
+            {
+              "id": "step_1756820033214",
+              "type": "choice",
+              "content": "里面/外面"
+            },
+            {
+              "id": "step_1756820033391",
+              "type": "choice",
+              "content": "不，就这样和彩月做…(让她穿上衣服)"
+            },
+            {
+              "id": "step_1756820033576",
+              "type": "choice",
+              "content": "嘴里/脸上"
+            },
+            {
+              "id": "step_1756820033772",
+              "type": "choice",
+              "content": "里面/外面"
+            },
+            {
+              "id": "step_1756820033955",
+              "type": "choice",
+              "content": "嘴里/脸上"
+            },
+            {
+              "id": "step_1756820034172",
+              "type": "choice",
+              "content": "里面/外面"
+            },
+            {
+              "id": "step_1756820034371",
+              "type": "choice",
+              "content": "『我也想发邮件所以很开心呀？』"
+            },
+            {
+              "id": "step_1756820036334",
+              "type": "choice",
+              "content": "『要是寂寞了的话随时可以发短信……』"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "vid": "v16906",
+  "name": {
+    "zh-cn": "心跳摄影",
+    "en-us": "Click Here For Love: Reconnected",
+    "ja-jp": "LOVEREC.",
+    "ja-Latn": "loverec"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-12",
+  "routes": [
+    {
+      "id": "route_1757078148002",
+      "name": "芳永 千穗",
+      "endings": [
+        {
+          "id": "ending_1757078162206",
+          "name": "千穗 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1757078178813",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1757078186269",
+              "type": "choice",
+              "content": "喉咙坏掉也没事！全力喊出来！"
+            },
+            {
+              "id": "step_1757078186637",
+              "type": "choice",
+              "content": "（因为等同于家人）",
+              "prefix": "◆"
+            },
+            {
+              "id": "step_1757078189933",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1757078198565",
+              "type": "choice",
+              "content": "千穗"
+            },
+            {
+              "id": "step_1757078198748",
+              "type": "choice",
+              "content": "我想拍摄"
+            },
+            {
+              "id": "step_1757078198991",
+              "type": "choice",
+              "content": "我的认真现在才开始哦！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1757078374609",
+      "name": "白泽 美悠纪",
+      "endings": [
+        {
+          "id": "ending_1757078395768",
+          "name": "美悠纪 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1757078401782",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1757078409536",
+              "type": "choice",
+              "content": "美悠纪"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1757078417955",
+      "name": "御厨 乃梨",
+      "endings": [
+        {
+          "id": "ending_1757078424380",
+          "name": "乃梨 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1757078426153",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1757078433579",
+              "type": "choice",
+              "content": "停止拍摄"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1757078453095",
+      "name": "瞳",
+      "endings": [
+        {
+          "id": "ending_1757078455350",
+          "name": "瞳 END",
+          "type": "normal",
+          "requirements": "以上3人线路完成后",
+          "steps": [
+            {
+              "id": "step_1757078472050",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1757078475559",
+              "type": "choice",
+              "content": "像变得蚂蚁一样地小，沉默让过去"
+            },
+            {
+              "id": "step_1757078476126",
+              "type": "choice",
+              "content": "因为是重要的搭档啊",
+              "prefix": "◆"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1757078512303",
+      "name": "后宫",
+      "endings": [
+        {
+          "id": "ending_1757078520742",
+          "name": "后宫 END",
+          "type": "normal",
+          "requirements": "瞳线路完成后，从最初开始",
+          "steps": [
+            {
+              "id": "step_1757078561086",
+              "type": "choice",
+              "content": "选择EXTRA"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

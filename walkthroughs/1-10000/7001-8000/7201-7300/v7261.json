@@ -1,0 +1,370 @@
+{
+  "vid": "v7261",
+  "name": {
+    "zh-cn": "Lunaris Filia~契约之吻与真红之瞳~",
+    "ja-jp": "Lunaris Filia～キスと契約と深紅の瞳～",
+    "ja-Latn": "lunaris-filia"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-14",
+  "routes": [
+    {
+      "id": "route_game",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_sylvia",
+          "name": "希尔维娅 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_sylvia_01",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_sylvia_02",
+              "type": "choice",
+              "content": "嗯，当然可以"
+            },
+            {
+              "id": "step_sylvia_03",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_sylvia_04",
+              "type": "choice",
+              "content": "和希尔维娅交谈"
+            },
+            {
+              "id": "step_sylvia_05",
+              "type": "choice",
+              "content": "希尔维娅"
+            },
+            {
+              "id": "step_sylvia_06",
+              "type": "choice",
+              "content": "就希尔维娅好了"
+            },
+            {
+              "id": "step_sylvia_07",
+              "type": "choice",
+              "content": "我想回忆起来。"
+            },
+            {
+              "id": "step_sylvia_08",
+              "type": "choice",
+              "content": "别在意了"
+            },
+            {
+              "id": "step_sylvia_09",
+              "type": "choice",
+              "content": "我没有生气"
+            },
+            {
+              "id": "step_sylvia_10",
+              "type": "choice",
+              "content": "姑且防备一下"
+            },
+            {
+              "id": "step_sylvia_11",
+              "type": "choice",
+              "content": "想和希尔维娅谈谈。"
+            },
+            {
+              "id": "step_sylvia_12",
+              "type": "choice",
+              "content": "希尔维娅"
+            },
+            {
+              "id": "step_sylvia_13",
+              "type": "choice",
+              "content": "紫"
+            },
+            {
+              "id": "step_sylvia_14",
+              "type": "choice",
+              "content": "梅丽丝"
+            }
+          ]
+        },
+        {
+          "id": "ending_murasaki",
+          "name": "紫 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_murasaki_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_murasaki_02",
+              "type": "choice",
+              "content": "要不把紫也叫上吧……"
+            },
+            {
+              "id": "step_murasaki_03",
+              "type": "choice",
+              "content": "和紫交谈"
+            },
+            {
+              "id": "step_murasaki_04",
+              "type": "choice",
+              "content": "紫"
+            },
+            {
+              "id": "step_murasaki_05",
+              "type": "choice",
+              "content": "紫吧……"
+            },
+            {
+              "id": "step_murasaki_06",
+              "type": "choice",
+              "content": "我不清楚……"
+            },
+            {
+              "id": "step_murasaki_07",
+              "type": "choice",
+              "content": "有我在呢"
+            },
+            {
+              "id": "step_murasaki_08",
+              "type": "choice",
+              "content": "我没有生气"
+            },
+            {
+              "id": "step_murasaki_09",
+              "type": "choice",
+              "content": "姑且防备一下"
+            },
+            {
+              "id": "step_murasaki_10",
+              "type": "choice",
+              "content": "有点担心紫"
+            },
+            {
+              "id": "step_murasaki_11",
+              "type": "choice",
+              "content": "紫"
+            },
+            {
+              "id": "step_murasaki_12",
+              "type": "choice",
+              "content": "真衣"
+            },
+            {
+              "id": "step_murasaki_13",
+              "type": "choice",
+              "content": "花音学姐"
+            }
+          ]
+        },
+        {
+          "id": "ending_mai",
+          "name": "真衣 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_mai_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_mai_02",
+              "type": "choice",
+              "content": "和真衣交谈"
+            },
+            {
+              "id": "step_mai_03",
+              "type": "choice",
+              "content": "真衣"
+            },
+            {
+              "id": "step_mai_04",
+              "type": "choice",
+              "content": "真衣、吧"
+            },
+            {
+              "id": "step_mai_05",
+              "type": "choice",
+              "content": "我不清楚……"
+            },
+            {
+              "id": "step_mai_06",
+              "type": "choice",
+              "content": "我没有生气"
+            },
+            {
+              "id": "step_mai_07",
+              "type": "choice",
+              "content": "一直以来对不起啊……"
+            },
+            {
+              "id": "step_mai_08",
+              "type": "choice",
+              "content": "姑且防备一下"
+            },
+            {
+              "id": "step_mai_09",
+              "type": "choice",
+              "content": "和真衣回去吧"
+            },
+            {
+              "id": "step_mai_10",
+              "type": "choice",
+              "content": "真衣"
+            },
+            {
+              "id": "step_mai_11",
+              "type": "choice",
+              "content": "希尔维娅"
+            },
+            {
+              "id": "step_mai_12",
+              "type": "choice",
+              "content": "紫"
+            }
+          ]
+        },
+        {
+          "id": "ending_meris",
+          "name": "梅丽丝 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_meris_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_meris_02",
+              "type": "choice",
+              "content": "和梅丽丝交谈"
+            },
+            {
+              "id": "step_meris_03",
+              "type": "choice",
+              "content": "梅丽丝"
+            },
+            {
+              "id": "step_meris_04",
+              "type": "choice",
+              "content": "梅丽丝……？"
+            },
+            {
+              "id": "step_meris_05",
+              "type": "choice",
+              "content": "我不清楚……"
+            },
+            {
+              "id": "step_meris_06",
+              "type": "choice",
+              "content": "别在意了"
+            },
+            {
+              "id": "step_meris_07",
+              "type": "choice",
+              "content": "我没有生气"
+            },
+            {
+              "id": "step_meris_08",
+              "type": "choice",
+              "content": "乖乖地过去"
+            },
+            {
+              "id": "step_meris_09",
+              "type": "choice",
+              "content": "有点在意梅丽丝"
+            },
+            {
+              "id": "step_meris_10",
+              "type": "choice",
+              "content": "梅丽丝"
+            },
+            {
+              "id": "step_meris_11",
+              "type": "choice",
+              "content": "希尔维娅"
+            },
+            {
+              "id": "step_meris_12",
+              "type": "choice",
+              "content": "花音学姐"
+            }
+          ]
+        },
+        {
+          "id": "ending_kanon",
+          "name": "花音 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_kanon_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_kanon_02",
+              "type": "choice",
+              "content": "和花音学姐交谈"
+            },
+            {
+              "id": "step_kanon_03",
+              "type": "choice",
+              "content": "花音学姐"
+            },
+            {
+              "id": "step_kanon_05",
+              "type": "choice",
+              "content": "我不清楚……"
+            },
+            {
+              "id": "step_kanon_06",
+              "type": "choice",
+              "content": "别在意了"
+            },
+            {
+              "id": "step_kanon_07",
+              "type": "choice",
+              "content": "我没有生气"
+            },
+            {
+              "id": "step_kanon_08",
+              "type": "choice",
+              "content": "姑且防备一下"
+            },
+            {
+              "id": "step_kanon_09",
+              "type": "choice",
+              "content": "想去见见花音学姐"
+            },
+            {
+              "id": "step_kanon_10",
+              "type": "choice",
+              "content": "花音学姐"
+            },
+            {
+              "id": "step_kanon_11",
+              "type": "choice",
+              "content": "紫"
+            }
+          ]
+        },
+        {
+          "id": "ending_filia",
+          "name": "菲莉娅 END",
+          "type": "normal",
+          "requirements": "晚上以上全部END后，从标题画面的TRUE开始",
+          "steps": [
+            {
+              "type": "choice",
+              "content": "（源站步骤均为空）"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

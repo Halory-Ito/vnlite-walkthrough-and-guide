@@ -1,0 +1,151 @@
+{
+  "vid": "v24872",
+  "name": {
+    "zh-cn": "猫忍之心3",
+    "en-us": "NEKO-NIN exHeart 3",
+    "ja-jp": "猫忍えくすはーと３",
+    "ja-Latn": "neko-nin-exheart-3"
+  },
+  "level": 2,
+  "updatedAt": "2026-05-08",
+  "routes": [
+    {
+      "id": "route_game_guide",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_main",
+          "name": "本篇 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_main_01",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_main_02",
+              "type": "choice",
+              "content": "和由良和玉一起玩"
+            },
+            {
+              "id": "step_main_03",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_main_04",
+              "type": "choice",
+              "content": "和由良一起走"
+            },
+            {
+              "id": "step_main_05",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_main_06",
+              "type": "choice",
+              "content": "和阳葵说话"
+            }
+          ]
+        },
+        {
+          "id": "ending_shino",
+          "name": "诗乃 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_shino_01",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_shino_02",
+              "type": "choice",
+              "content": "询问诗乃的心情"
+            }
+          ]
+        },
+        {
+          "id": "ending_sana",
+          "name": "沙奈 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_sana_01",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_sana_02",
+              "type": "choice",
+              "content": "看着沙奈"
+            }
+          ]
+        },
+        {
+          "id": "ending_tama",
+          "name": "玉 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_tama_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_tama_02",
+              "type": "choice",
+              "content": "和玉在一起"
+            }
+          ]
+        },
+        {
+          "id": "ending_ritsu",
+          "name": "律 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_ritsu_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_ritsu_02",
+              "type": "choice",
+              "content": "和律她们一起行动"
+            },
+            {
+              "id": "step_ritsu_03",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_ritsu_04",
+              "type": "choice",
+              "content": "帮忙律"
+            }
+          ]
+        },
+        {
+          "id": "ending_maya",
+          "name": "玛亚 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_maya_01",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_maya_02",
+              "type": "choice",
+              "content": "照顾玛亚"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

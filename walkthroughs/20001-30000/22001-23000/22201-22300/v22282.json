@@ -1,0 +1,38 @@
+{
+  "vid": "v22282",
+  "name": {
+    "zh-cn": "猫忍之心2",
+    "en-us": "NEKO-NIN exHeart 2",
+    "ja-jp": "猫忍えくすはーと2",
+    "ja-Latn": "neko-nin-exheart-2"
+  },
+  "level": 2,
+  "updatedAt": "2026-05-08",
+  "routes": [
+    {
+      "id": "route_1778205024376",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1778205028948",
+          "name": "END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1778205091006",
+              "type": "choice",
+              "content": "偶尔说服",
+              "subfix": "选择另一个选项回收CG"
+            },
+            {
+              "id": "step_1778205091153",
+              "type": "choice",
+              "content": "一个人去见他",
+              "subfix": "选择另一个选项回收CG"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

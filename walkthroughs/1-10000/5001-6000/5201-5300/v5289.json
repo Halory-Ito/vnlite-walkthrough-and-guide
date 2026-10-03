@@ -1,0 +1,334 @@
+{
+  "vid": "v5289",
+  "name": {
+    "zh-cn": "千金逼我嫁！",
+    "ja-jp": "黙って私のムコになれ！",
+    "ja-Latn": "damatte-watashi-no-muko-ni-nare"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-13",
+  "routes": [
+    {
+      "id": "route_1762591020084",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1762591051764",
+          "name": "玲央奈-情书的少女 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762591079884",
+              "type": "choice",
+              "content": "老老实实的道谢"
+            },
+            {
+              "id": "step_1762591080056",
+              "type": "choice",
+              "content": "那么小鸟，送你吧"
+            },
+            {
+              "id": "step_1762591080217",
+              "type": "choice",
+              "content": "立即挺身而出，保护玲央奈"
+            },
+            {
+              "id": "step_1762591080385",
+              "type": "choice",
+              "content": "用客气的态度拒绝"
+            },
+            {
+              "id": "step_1762591080558",
+              "type": "choice",
+              "content": "没办法，照她要求的称呼吧"
+            },
+            {
+              "id": "step_1762591100754",
+              "type": "choice",
+              "content": "与玲央奈一起吃午餐吗....."
+            },
+            {
+              "id": "step_1762591100916",
+              "type": "choice",
+              "content": "吃玲央奈的便当"
+            },
+            {
+              "id": "step_1762591101072",
+              "type": "choice",
+              "content": "姑且试著邀请凛"
+            },
+            {
+              "id": "step_1762591101193",
+              "type": "choice",
+              "content": "亲下去"
+            },
+            {
+              "id": "step_1762591101356",
+              "type": "choice",
+              "content": "到天文社看看吧"
+            },
+            {
+              "id": "step_1762591101502",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1762591125762",
+              "type": "choice",
+              "content": "帮星人会"
+            },
+            {
+              "id": "step_1762591125913",
+              "type": "choice",
+              "content": "佑里恵姊更漂亮"
+            },
+            {
+              "id": "step_1762591126247",
+              "type": "choice",
+              "content": "温柔地揉"
+            },
+            {
+              "id": "step_1762591126426",
+              "type": "choice",
+              "content": "总觉的有些怪怪的"
+            },
+            {
+              "id": "step_1762591126574",
+              "type": "choice",
+              "content": "总之，非保护佑里恵姊不可!"
+            },
+            {
+              "id": "step_1762591126722",
+              "type": "choice",
+              "content": "不，还是算了吧"
+            },
+            {
+              "id": "step_1762591150462",
+              "type": "choice",
+              "content": "约"
+            },
+            {
+              "id": "step_1762591163940",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1762591164919",
+              "type": "choice",
+              "content": "这么说来，七年前……"
+            },
+            {
+              "id": "step_1762591165583",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_1762591166204",
+              "type": "choice",
+              "content": "问佑里恵姐姐看看"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762591246483",
+          "name": "玲央奈 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762591272024",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1762591283709",
+              "type": "choice",
+              "content": "问佳木学长看看"
+            },
+            {
+              "id": "step_1762591285204",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_1762591295599",
+              "type": "choice",
+              "content": "不过，现在我想去见玲央奈"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762591246637",
+          "name": "佑里恵 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762591308295",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_1762591311037",
+              "type": "choice",
+              "content": "那麼……我想知道"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762591246777",
+          "name": "遥 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762591337516",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1762591343618",
+              "type": "choice",
+              "content": "不行，想不起来"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762591246908",
+          "name": "软子 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762591367649",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1762591371849",
+              "type": "choice",
+              "content": "帮天文社"
+            },
+            {
+              "id": "step_1762591372022",
+              "type": "choice",
+              "content": "哎呀……确实有些不愉快"
+            },
+            {
+              "id": "step_1762591372204",
+              "type": "choice",
+              "content": "还是确认一下是否回去了吧"
+            },
+            {
+              "id": "step_1762591372552",
+              "type": "choice",
+              "content": "去顶楼"
+            },
+            {
+              "id": "step_1762591372787",
+              "type": "choice",
+              "content": "回去拿"
+            },
+            {
+              "id": "step_1762591372997",
+              "type": "choice",
+              "content": "看看真壁同学的情况"
+            },
+            {
+              "id": "step_1762591373193",
+              "type": "choice",
+              "content": "算了在家里打混"
+            },
+            {
+              "id": "step_1762591373398",
+              "type": "choice",
+              "content": "坚决否定"
+            },
+            {
+              "id": "step_1762591373599",
+              "type": "choice",
+              "content": "跟真壁同学说话"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762591247043",
+          "name": "凛 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762591422992",
+              "type": "load",
+              "content": "LOAD 5"
+            },
+            {
+              "id": "step_1762591429651",
+              "type": "choice",
+              "content": "回答凛的问题"
+            },
+            {
+              "id": "step_1762591429812",
+              "type": "choice",
+              "content": "为了调查资料上街"
+            },
+            {
+              "id": "step_1762591430370",
+              "type": "save",
+              "content": "SAVE 6"
+            },
+            {
+              "id": "step_1762591431194",
+              "type": "choice",
+              "content": "坚决否定"
+            },
+            {
+              "id": "step_1762591431359",
+              "type": "choice",
+              "content": "跟小鸟说话"
+            },
+            {
+              "id": "step_1762591433893",
+              "type": "save",
+              "content": "SAVE 7"
+            },
+            {
+              "id": "step_1762591434987",
+              "type": "choice",
+              "content": "即使如此还是追向凛"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762591247199",
+          "name": "小鸟 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762591483459",
+              "type": "load",
+              "content": "LOAD 7"
+            },
+            {
+              "id": "step_1762591488413",
+              "type": "choice",
+              "content": "就照小鸟说的放弃"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762591247478",
+          "name": "依子 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762591501161",
+              "type": "load",
+              "content": "LOAD 6"
+            },
+            {
+              "id": "step_1762591508582",
+              "type": "choice",
+              "content": "迅速站起身"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

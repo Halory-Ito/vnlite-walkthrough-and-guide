@@ -1,0 +1,82 @@
+{
+  "vid": "v26581",
+  "name": {
+    "zh-cn": "巧可甜恋",
+    "en-us": "Amairo Chocolate",
+    "ja-jp": "あまいろショコラータ",
+    "ja-Latn": "amairo-chocolata"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-14",
+  "routes": [
+    {
+      "id": "route_game",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_chieri_end",
+          "name": "千绘莉 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_chieri_001",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_chieri_002",
+              "type": "choice",
+              "content": "和千绘莉一起"
+            }
+          ]
+        },
+        {
+          "id": "ending_mikuri_end",
+          "name": "美久里 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_mikuri_001",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_mikuri_002",
+              "type": "choice",
+              "content": "和美久里一起"
+            }
+          ]
+        },
+        {
+          "id": "ending_normal_end",
+          "name": "普通 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_normal_001",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_normal_002",
+              "type": "choice",
+              "content": "大家一起"
+            }
+          ]
+        },
+        {
+          "id": "ending_harem_end",
+          "name": "千绘莉＆美久里 END",
+          "type": "true",
+          "requirements": "3个END后，从标题画面进入",
+          "steps": [
+            {
+              "type": "choice",
+              "content": "（源站步骤均为空）"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

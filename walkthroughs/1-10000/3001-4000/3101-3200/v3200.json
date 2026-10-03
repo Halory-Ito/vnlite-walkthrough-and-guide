@@ -1,0 +1,977 @@
+{
+  "vid": "v3200",
+  "name": {
+    "zh-cn": "世界征服彼女",
+    "ja-jp": "世界征服彼女",
+    "ja-Latn": "sekai-seifuku-kanojo"
+  },
+  "level": 2,
+  "updatedAt": "2026-04-03",
+  "routes": [
+    {
+      "id": "route_azuko",
+      "name": "亚子",
+      "endings": [
+        {
+          "id": "ending_azuko_end1",
+          "name": "亚子 END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_az_01",
+              "type": "choice",
+              "content": "我来训斥你"
+            },
+            {
+              "id": "step_az_02",
+              "type": "choice",
+              "content": "我不会对冬野那样做的"
+            },
+            {
+              "id": "step_az_03",
+              "type": "choice",
+              "content": "与其那样，不如我们俩慢慢聊聊吧"
+            },
+            {
+              "id": "step_az_04",
+              "type": "choice",
+              "content": "老实实报上名字"
+            },
+            {
+              "id": "step_az_05",
+              "type": "choice",
+              "content": "我来邀请你"
+            },
+            {
+              "id": "step_az_06",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_az_07",
+              "type": "choice",
+              "content": "是去采集昆虫吧？"
+            },
+            {
+              "id": "step_az_08",
+              "type": "note",
+              "content": "收集CG"
+            },
+            {
+              "id": "step_az_09",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_az_10",
+              "type": "choice",
+              "content": "是吹泡泡吧？"
+            },
+            {
+              "id": "step_az_11",
+              "type": "choice",
+              "content": "邀请菜子"
+            },
+            {
+              "id": "step_az_12",
+              "type": "choice",
+              "content": "趁机吐槽"
+            },
+            {
+              "id": "step_az_13",
+              "type": "choice",
+              "content": "去海边洗衣服"
+            },
+            {
+              "id": "step_az_14",
+              "type": "choice",
+              "content": "两个人一起去中庭吧"
+            },
+            {
+              "id": "step_az_15",
+              "type": "choice",
+              "content": "亚子的天妇罗"
+            },
+            {
+              "id": "step_az_16",
+              "type": "choice",
+              "content": "知道了"
+            },
+            {
+              "id": "step_az_17",
+              "type": "choice",
+              "content": "真是场灾难啊"
+            },
+            {
+              "id": "step_az_18",
+              "type": "choice",
+              "content": "我们一起加油吧"
+            },
+            {
+              "id": "step_az_19",
+              "type": "choice",
+              "content": "对不起，真的饶了我吧"
+            },
+            {
+              "id": "step_az_20",
+              "type": "choice",
+              "content": "我喜欢蘑菇酱"
+            },
+            {
+              "id": "step_az_21",
+              "type": "choice",
+              "content": "接受邀请"
+            },
+            {
+              "id": "step_az_22",
+              "type": "choice",
+              "content": "帮我接住"
+            },
+            {
+              "id": "step_az_23",
+              "type": "choice",
+              "content": "那下次再约会吧"
+            },
+            {
+              "id": "step_az_24",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_az_25",
+              "type": "choice",
+              "content": "变成马吧"
+            },
+            {
+              "id": "step_az_26",
+              "type": "note",
+              "content": "CG回收"
+            },
+            {
+              "id": "step_az_27",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_az_28",
+              "type": "choice",
+              "content": "骑在我身上吧"
+            },
+            {
+              "id": "step_az_29",
+              "type": "choice",
+              "content": "好，运动时间！"
+            },
+            {
+              "id": "step_az_30",
+              "type": "choice",
+              "content": "如果你能成为偶像我就太高兴了"
+            },
+            {
+              "id": "step_az_31",
+              "type": "choice",
+              "content": "为了菜子去捡球"
+            },
+            {
+              "id": "step_az_32",
+              "type": "choice",
+              "content": "必须救她！"
+            },
+            {
+              "id": "step_az_33",
+              "type": "choice",
+              "content": "就你一个人去吧"
+            },
+            {
+              "id": "step_az_34",
+              "type": "choice",
+              "content": "不，我来帮你出主意"
+            },
+            {
+              "id": "step_az_35",
+              "type": "choice",
+              "content": "因为冬野看起来很开心"
+            },
+            {
+              "id": "step_az_36",
+              "type": "choice",
+              "content": "忍不住看了"
+            },
+            {
+              "id": "step_az_37",
+              "type": "choice",
+              "content": "没关系"
+            },
+            {
+              "id": "step_az_38",
+              "type": "choice",
+              "content": "是梦子的朋友"
+            },
+            {
+              "id": "step_az_39",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_az_40",
+              "type": "choice",
+              "content": "和亚子一起过圣诞节"
+            },
+            {
+              "id": "step_az_41",
+              "type": "choice",
+              "content": "去远方"
+            },
+            {
+              "id": "step_az_42",
+              "type": "choice",
+              "content": "没关系"
+            },
+            {
+              "id": "step_az_43",
+              "type": "choice",
+              "content": "那请和我交往吧"
+            },
+            {
+              "id": "step_az_44",
+              "type": "choice",
+              "content": "亚子"
+            },
+            {
+              "id": "step_az_45",
+              "type": "choice",
+              "content": "我喜欢你"
+            },
+            {
+              "id": "step_az_46",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_az_47",
+              "type": "choice",
+              "content": "保护梦子"
+            }
+          ]
+        },
+        {
+          "id": "ending_azuko_end2",
+          "name": "亚子 END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_az_e2_01",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_az_e2_02",
+              "type": "choice",
+              "content": "向亚子表白喜欢她"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_saiko",
+      "name": "菜子",
+      "endings": [
+        {
+          "id": "ending_saiko_end1",
+          "name": "菜子 END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_sk_01",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_sk_02",
+              "type": "choice",
+              "content": "无法和亚子共度圣诞节"
+            },
+            {
+              "id": "step_sk_03",
+              "type": "choice",
+              "content": "听菜子说话"
+            },
+            {
+              "id": "step_sk_04",
+              "type": "choice",
+              "content": "回到服部家"
+            },
+            {
+              "id": "step_sk_05",
+              "type": "choice",
+              "content": "吃早餐"
+            },
+            {
+              "id": "step_sk_06",
+              "type": "choice",
+              "content": "那请亲我一下"
+            },
+            {
+              "id": "step_sk_07",
+              "type": "choice",
+              "content": "保护梦子"
+            },
+            {
+              "id": "step_sk_08",
+              "type": "save",
+              "content": "SAVE 5"
+            },
+            {
+              "id": "step_sk_09",
+              "type": "choice",
+              "content": "和梦子交往"
+            }
+          ]
+        },
+        {
+          "id": "ending_saiko_end2",
+          "name": "菜子 END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_sk_e2_01",
+              "type": "load",
+              "content": "LOAD 5"
+            },
+            {
+              "id": "step_sk_e2_02",
+              "type": "choice",
+              "content": "支持菜子"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_sakurako",
+      "name": "樱子",
+      "endings": [
+        {
+          "id": "ending_sakurako_end1",
+          "name": "樱子 END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_sr_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_sr_02",
+              "type": "choice",
+              "content": "是烟花吧？"
+            },
+            {
+              "id": "step_sr_03",
+              "type": "choice",
+              "content": "邀请樱子"
+            },
+            {
+              "id": "step_sr_04",
+              "type": "choice",
+              "content": "故意无视"
+            },
+            {
+              "id": "step_sr_05",
+              "type": "choice",
+              "content": "去城里割草"
+            },
+            {
+              "id": "step_sr_06",
+              "type": "choice",
+              "content": "一起去天台吧"
+            },
+            {
+              "id": "step_sr_07",
+              "type": "choice",
+              "content": "老妈做的玉子烧"
+            },
+            {
+              "id": "step_sr_08",
+              "type": "choice",
+              "content": "那肯定不行"
+            },
+            {
+              "id": "step_sr_09",
+              "type": "choice",
+              "content": "一起去学生商店吧"
+            },
+            {
+              "id": "step_sr_10",
+              "type": "choice",
+              "content": "我也是吉娃娃"
+            },
+            {
+              "id": "step_sr_11",
+              "type": "choice",
+              "content": "要不要我教你？"
+            },
+            {
+              "id": "step_sr_12",
+              "type": "choice",
+              "content": "啊？想打架吗混蛋"
+            },
+            {
+              "id": "step_sr_13",
+              "type": "choice",
+              "content": "我喜欢栋本"
+            },
+            {
+              "id": "step_sr_14",
+              "type": "choice",
+              "content": "我婉拒了"
+            },
+            {
+              "id": "step_sr_15",
+              "type": "choice",
+              "content": "我们正在交往"
+            },
+            {
+              "id": "step_sr_16",
+              "type": "choice",
+              "content": "好，吃饭了！"
+            },
+            {
+              "id": "step_sr_17",
+              "type": "choice",
+              "content": "别去当什么偶像"
+            },
+            {
+              "id": "step_sr_18",
+              "type": "choice",
+              "content": "保护希乃子"
+            },
+            {
+              "id": "step_sr_19",
+              "type": "choice",
+              "content": "没问题"
+            },
+            {
+              "id": "step_sr_20",
+              "type": "choice",
+              "content": "体检"
+            },
+            {
+              "id": "step_sr_21",
+              "type": "choice",
+              "content": "必须救她！"
+            },
+            {
+              "id": "step_sr_22",
+              "type": "choice",
+              "content": "知道了"
+            },
+            {
+              "id": "step_sr_23",
+              "type": "choice",
+              "content": "不，我正在和栋本交往"
+            },
+            {
+              "id": "step_sr_24",
+              "type": "choice",
+              "content": "因为我想看着冬野"
+            },
+            {
+              "id": "step_sr_25",
+              "type": "choice",
+              "content": "绝对不看"
+            },
+            {
+              "id": "step_sr_26",
+              "type": "choice",
+              "content": "往头上的圈里扔东西"
+            },
+            {
+              "id": "step_sr_27",
+              "type": "choice",
+              "content": "她是我的恋人"
+            },
+            {
+              "id": "step_sr_28",
+              "type": "choice",
+              "content": "去热闹的地方"
+            },
+            {
+              "id": "step_sr_29",
+              "type": "choice",
+              "content": "不管是谁，我都不搭讪"
+            },
+            {
+              "id": "step_sr_30",
+              "type": "save",
+              "content": "SAVE 6"
+            },
+            {
+              "id": "step_sr_31",
+              "type": "choice",
+              "content": "邀请樱子"
+            },
+            {
+              "id": "step_sr_32",
+              "type": "choice",
+              "content": "胸部"
+            },
+            {
+              "id": "step_sr_33",
+              "type": "choice",
+              "content": "送冬野回家"
+            },
+            {
+              "id": "step_sr_34",
+              "type": "choice",
+              "content": "生气"
+            },
+            {
+              "id": "step_sr_35",
+              "type": "choice",
+              "content": "回家"
+            },
+            {
+              "id": "step_sr_36",
+              "type": "save",
+              "content": "SAVE 7"
+            },
+            {
+              "id": "step_sr_37",
+              "type": "choice",
+              "content": "和梦子交往"
+            }
+          ]
+        },
+        {
+          "id": "ending_sakurako_end2",
+          "name": "樱子 END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_sr_e2_01",
+              "type": "load",
+              "content": "LOAD 7"
+            },
+            {
+              "id": "step_sr_e2_02",
+              "type": "choice",
+              "content": "喜欢冬野"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_tsubakiko",
+      "name": "椿子",
+      "endings": [
+        {
+          "id": "ending_tsubakiko_end1",
+          "name": "椿子 END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_ts_01",
+              "type": "load",
+              "content": "LOAD 6"
+            },
+            {
+              "id": "step_ts_02",
+              "type": "choice",
+              "content": "不邀请"
+            },
+            {
+              "id": "step_ts_03",
+              "type": "save",
+              "content": "SAVE 8"
+            },
+            {
+              "id": "step_ts_04",
+              "type": "choice",
+              "content": "帮栋本忙"
+            },
+            {
+              "id": "step_ts_05",
+              "type": "choice",
+              "content": "那把您手里的点心全给我吧"
+            },
+            {
+              "id": "step_ts_06",
+              "type": "choice",
+              "content": "道歉"
+            },
+            {
+              "id": "step_ts_07",
+              "type": "choice",
+              "content": "无视"
+            },
+            {
+              "id": "step_ts_08",
+              "type": "choice",
+              "content": "视若无睹"
+            },
+            {
+              "id": "step_ts_09",
+              "type": "save",
+              "content": "SAVE 9"
+            },
+            {
+              "id": "step_ts_10",
+              "type": "choice",
+              "content": "和梦子交往"
+            }
+          ]
+        },
+        {
+          "id": "ending_tsubakiko_end2",
+          "name": "椿子 END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_ts_e2_01",
+              "type": "load",
+              "content": "LOAD 9"
+            },
+            {
+              "id": "step_ts_e2_02",
+              "type": "choice",
+              "content": "喜欢栋本"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_yumeko1",
+      "name": "梦子1",
+      "endings": [
+        {
+          "id": "ending_yumeko1_end1",
+          "name": "梦子 END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_yk1_01",
+              "type": "load",
+              "content": "LOAD 8"
+            },
+            {
+              "id": "step_yk1_02",
+              "type": "choice",
+              "content": "为了不打扰她，只买完东西就回家"
+            },
+            {
+              "id": "step_yk1_03",
+              "type": "choice",
+              "content": "戒指"
+            },
+            {
+              "id": "step_yk1_04",
+              "type": "save",
+              "content": "SAVE 10"
+            },
+            {
+              "id": "step_yk1_05",
+              "type": "choice",
+              "content": "还是做了"
+            },
+            {
+              "id": "step_yk1_06",
+              "type": "choice",
+              "content": "即便如此还是做了"
+            },
+            {
+              "id": "step_yk1_07",
+              "type": "choice",
+              "content": "我会负责的，所以还是做了"
+            }
+          ]
+        },
+        {
+          "id": "ending_yumeko1_end2",
+          "name": "梦子 END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_yk1_e2_01",
+              "type": "load",
+              "content": "LOAD 10"
+            },
+            {
+              "id": "step_yk1_e2_02",
+              "type": "choice",
+              "content": "在交往之前不能做那种事"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_yumeko2",
+      "name": "梦子2",
+      "endings": [
+        {
+          "id": "ending_yumeko2_end3",
+          "name": "梦子 END3",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_yk2_01",
+              "type": "note",
+              "content": "全部通关后，选择\"重新开始\""
+            },
+            {
+              "id": "step_yk2_02",
+              "type": "choice",
+              "content": "我来帮你"
+            },
+            {
+              "id": "step_yk2_03",
+              "type": "choice",
+              "content": "脸部黑板擦"
+            },
+            {
+              "id": "step_yk2_04",
+              "type": "choice",
+              "content": "很普通啊"
+            },
+            {
+              "id": "step_yk2_05",
+              "type": "choice",
+              "content": "脖子"
+            },
+            {
+              "id": "step_yk2_06",
+              "type": "choice",
+              "content": "你是不是脑子有问题啊"
+            },
+            {
+              "id": "step_yk2_07",
+              "type": "save",
+              "content": "SAVE 11"
+            },
+            {
+              "id": "step_yk2_08",
+              "type": "choice",
+              "content": "我来告诉你"
+            },
+            {
+              "id": "step_yk2_09",
+              "type": "choice",
+              "content": "是采集昆虫来着吗？"
+            },
+            {
+              "id": "step_yk2_10",
+              "type": "choice",
+              "content": "邀请亚子"
+            },
+            {
+              "id": "step_yk2_11",
+              "type": "choice",
+              "content": "趁机吐槽"
+            },
+            {
+              "id": "step_yk2_12",
+              "type": "choice",
+              "content": "去车站除鬼"
+            },
+            {
+              "id": "step_yk2_13",
+              "type": "choice",
+              "content": "一起去天台吧"
+            },
+            {
+              "id": "step_yk2_14",
+              "type": "choice",
+              "content": "梦子的团子"
+            },
+            {
+              "id": "step_yk2_15",
+              "type": "choice",
+              "content": "那肯定不行"
+            },
+            {
+              "id": "step_yk2_16",
+              "type": "choice",
+              "content": "真是场灾难啊"
+            },
+            {
+              "id": "step_yk2_17",
+              "type": "choice",
+              "content": "管你呢～（边跳边说）"
+            },
+            {
+              "id": "step_yk2_18",
+              "type": "choice",
+              "content": "自杀"
+            },
+            {
+              "id": "step_yk2_19",
+              "type": "choice",
+              "content": "我喜欢梦子"
+            },
+            {
+              "id": "step_yk2_20",
+              "type": "choice",
+              "content": "和梦子一起回家"
+            },
+            {
+              "id": "step_yk2_21",
+              "type": "choice",
+              "content": "好，去逛街吧！"
+            },
+            {
+              "id": "step_yk2_22",
+              "type": "choice",
+              "content": "梦子红"
+            },
+            {
+              "id": "step_yk2_23",
+              "type": "choice",
+              "content": "成为我专属的偶像吧"
+            },
+            {
+              "id": "step_yk2_24",
+              "type": "choice",
+              "content": "成为梦子的盾牌"
+            },
+            {
+              "id": "step_yk2_25",
+              "type": "choice",
+              "content": "那我就拜托你了"
+            },
+            {
+              "id": "step_yk2_26",
+              "type": "choice",
+              "content": "知道了"
+            },
+            {
+              "id": "step_yk2_27",
+              "type": "choice",
+              "content": "啊，正在和梦子交往"
+            },
+            {
+              "id": "step_yk2_28",
+              "type": "choice",
+              "content": "去向梦子道谢"
+            },
+            {
+              "id": "step_yk2_29",
+              "type": "choice",
+              "content": "是梦子的朋友"
+            },
+            {
+              "id": "step_yk2_30",
+              "type": "choice",
+              "content": "继续观察梦子"
+            },
+            {
+              "id": "step_yk2_31",
+              "type": "choice",
+              "content": "现在说这个好害羞啊！"
+            },
+            {
+              "id": "step_yk2_32",
+              "type": "save",
+              "content": "SAVE 12"
+            },
+            {
+              "id": "step_yk2_33",
+              "type": "choice",
+              "content": "我不喜欢！"
+            }
+          ]
+        },
+        {
+          "id": "ending_yumeko2_end4",
+          "name": "梦子 END4",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_yk2_e4_01",
+              "type": "load",
+              "content": "LOAD 12"
+            },
+            {
+              "id": "step_yk2_e4_02",
+              "type": "choice",
+              "content": "我喜欢！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_cg_recovery",
+      "name": "CG回收",
+      "endings": [
+        {
+          "id": "ending_cg_azuko",
+          "name": "亚子 END1 CG回收",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_cg_01",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_cg_02",
+              "type": "choice",
+              "content": "保护梦子"
+            },
+            {
+              "id": "step_cg_03",
+              "type": "note",
+              "content": "以上END后，存档数据从SAVE 11开始"
+            },
+            {
+              "id": "step_cg_04",
+              "type": "choice",
+              "content": "告诉你"
+            },
+            {
+              "id": "step_cg_05",
+              "type": "choice",
+              "content": "我放了肥皂泡"
+            }
+          ]
+        },
+        {
+          "id": "ending_cg_sakurako",
+          "name": "樱子 END1 CG回收",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_cg_06",
+              "type": "load",
+              "content": "LOAD 7"
+            },
+            {
+              "id": "step_cg_07",
+              "type": "choice",
+              "content": "和梦子交往"
+            },
+            {
+              "id": "step_cg_08",
+              "type": "note",
+              "content": "以上END后，存档数据从SAVE 11开始"
+            },
+            {
+              "id": "step_cg_09",
+              "type": "choice",
+              "content": "告诉你"
+            },
+            {
+              "id": "step_cg_10",
+              "type": "choice",
+              "content": "我向她解释了烟花的原理"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

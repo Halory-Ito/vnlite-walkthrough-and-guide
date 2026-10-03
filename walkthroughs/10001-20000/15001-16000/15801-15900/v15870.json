@@ -1,0 +1,107 @@
+{
+  "vid": "v15870",
+  "name": {
+    "zh-cn": "慕情之心今随君作伴",
+    "ja-jp": "キミのとなりで恋してる！",
+    "ja-Latn": "kimi-no-tonari-de-koishiteru"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-13",
+  "tips": [
+    "括号标注的选项自行选择，进行回想回收"
+  ],
+  "routes": [
+    {
+      "id": "route_1769329953679",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1769330224227",
+          "name": "星野 渚 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1769330254321",
+              "type": "choice",
+              "content": "……其实，挺舒服的"
+            },
+            {
+              "id": "step_1769330254510",
+              "type": "choice",
+              "content": "协助她做柔软体操"
+            },
+            {
+              "id": "step_1769330254730",
+              "type": "choice",
+              "content": "当我的新娘嘛"
+            },
+            {
+              "id": "step_1769330254995",
+              "type": "choice",
+              "content": "以防万一，自己也跟着(不想打搅她们)"
+            },
+            {
+              "id": "step_1769330255880",
+              "type": "choice",
+              "content": "渚"
+            },
+            {
+              "id": "step_1769330280389",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1769330281630",
+              "type": "choice",
+              "content": "不当她的搭档"
+            },
+            {
+              "id": "step_1769330286943",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1769330292310",
+              "type": "choice",
+              "content": "陪着渚直到惠回家"
+            }
+          ]
+        },
+        {
+          "id": "ending_1769330479343",
+          "name": "小松 莉奈 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1769330519046",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1769330522773",
+              "type": "choice",
+              "content": "赶紧去找莉奈"
+            }
+          ]
+        },
+        {
+          "id": "ending_1769330479546",
+          "name": "知花 涼香 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1769330554677",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1769330556248",
+              "type": "choice",
+              "content": "回应凉香的心意"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

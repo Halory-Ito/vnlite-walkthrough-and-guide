@@ -1,0 +1,482 @@
+{
+  "vid": "v19609",
+  "name": {
+    "zh-cn": "Amenity's Life",
+    "ja-Latn": "amenity-life"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-14",
+  "routes": [
+    {
+      "id": "route_mikuri_maho",
+      "name": "长岭 美栗 / 麻帆",
+      "endings": [
+        {
+          "id": "ending_mikuri_end",
+          "name": "美栗 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_mikuri_01",
+              "type": "choice",
+              "content": "证明清白",
+              "group": "PROLOGUE_01"
+            },
+            {
+              "id": "step_mikuri_02",
+              "type": "save",
+              "content": "SAVE 1",
+              "group": "第１幕"
+            },
+            {
+              "id": "step_mikuri_03",
+              "type": "choice",
+              "content": "美栗",
+              "subfix": "１回目",
+              "group": "第１幕"
+            },
+            {
+              "id": "step_mikuri_04",
+              "type": "choice",
+              "content": "麻帆",
+              "subfix": "１回目",
+              "group": "第１幕"
+            },
+            {
+              "id": "step_mikuri_05",
+              "type": "choice",
+              "content": "志津香",
+              "group": "第１幕"
+            },
+            {
+              "id": "step_mikuri_06",
+              "type": "choice",
+              "content": "美栗",
+              "subfix": "２回目",
+              "group": "第２幕"
+            },
+            {
+              "id": "step_mikuri_07",
+              "type": "choice",
+              "content": "麻帆",
+              "subfix": "２回目",
+              "group": "第２幕"
+            },
+            {
+              "id": "step_mikuri_08",
+              "type": "choice",
+              "content": "擦美",
+              "subfix": "黑板擦",
+              "group": "第２幕"
+            },
+            {
+              "id": "step_mikuri_09",
+              "type": "choice",
+              "content": "美栗",
+              "subfix": "３回目",
+              "group": "第３幕"
+            },
+            {
+              "id": "step_mikuri_10",
+              "type": "choice",
+              "content": "麻帆",
+              "subfix": "３回目",
+              "group": "第３幕"
+            },
+            {
+              "id": "step_mikuri_11",
+              "type": "choice",
+              "content": "露",
+              "subfix": "吸尘器",
+              "group": "第３幕"
+            },
+            {
+              "id": "step_mikuri_12",
+              "type": "choice",
+              "content": "美栗",
+              "subfix": "４回目",
+              "group": "第４幕"
+            },
+            {
+              "id": "step_mikuri_13",
+              "type": "choice",
+              "content": "麻帆",
+              "subfix": "４回目",
+              "group": "第４幕"
+            },
+            {
+              "id": "step_mikuri_14",
+              "type": "choice",
+              "content": "露",
+              "subfix": "吸尘器",
+              "group": "第４幕"
+            },
+            {
+              "id": "step_mikuri_15",
+              "type": "choice",
+              "content": "美栗",
+              "subfix": "５回目",
+              "group": "第５幕"
+            },
+            {
+              "id": "step_mikuri_16",
+              "type": "choice",
+              "content": "去",
+              "group": "第５幕"
+            },
+            {
+              "id": "step_mikuri_17",
+              "type": "choice",
+              "content": "麻帆",
+              "subfix": "５回目",
+              "group": "第５幕"
+            },
+            {
+              "id": "step_mikuri_18",
+              "type": "choice",
+              "content": "露",
+              "subfix": "吸尘器",
+              "group": "第５幕"
+            },
+            {
+              "id": "step_mikuri_19",
+              "type": "save",
+              "content": "SAVE 2",
+              "group": "第６幕"
+            },
+            {
+              "id": "step_mikuri_20",
+              "type": "choice",
+              "content": "美栗",
+              "group": "第６幕"
+            },
+            {
+              "id": "step_mikuri_21",
+              "type": "choice",
+              "content": "告白",
+              "group": "第６幕"
+            },
+            {
+              "id": "step_mikuri_22",
+              "type": "choice",
+              "content": "不要",
+              "group": "第６幕"
+            }
+          ]
+        },
+        {
+          "id": "ending_maho_end",
+          "name": "麻帆 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_maho_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_maho_02",
+              "type": "choice",
+              "content": "麻帆"
+            },
+            {
+              "id": "step_maho_03",
+              "type": "choice",
+              "content": "鬼屋"
+            },
+            {
+              "id": "step_maho_04",
+              "type": "choice",
+              "content": "自由落体"
+            },
+            {
+              "id": "step_maho_05",
+              "type": "choice",
+              "content": "旋转秋千"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_kanade_naru",
+      "name": "板野 奏 / 香山 菜瑠",
+      "endings": [
+        {
+          "id": "ending_kanade_end",
+          "name": "奏 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_kanade_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_kanade_02",
+              "type": "choice",
+              "content": "奏",
+              "subfix": "１回目"
+            },
+            {
+              "id": "step_kanade_03",
+              "type": "choice",
+              "content": "菜瑠",
+              "subfix": "１回目"
+            },
+            {
+              "id": "step_kanade_04",
+              "type": "choice",
+              "content": "拉古",
+              "subfix": "坐垫"
+            },
+            {
+              "id": "step_kanade_05",
+              "type": "choice",
+              "content": "奏",
+              "subfix": "２回目",
+              "group": "第２幕"
+            },
+            {
+              "id": "step_kanade_06",
+              "type": "choice",
+              "content": "菜瑠",
+              "subfix": "２回目",
+              "group": "第２幕"
+            },
+            {
+              "id": "step_kanade_07",
+              "type": "choice",
+              "content": "蕾索娜",
+              "subfix": "烤箱",
+              "group": "第２幕"
+            },
+            {
+              "id": "step_kanade_08",
+              "type": "choice",
+              "content": "奏",
+              "subfix": "３回目",
+              "group": "第３幕"
+            },
+            {
+              "id": "step_kanade_09",
+              "type": "choice",
+              "content": "菜瑠",
+              "subfix": "３回目",
+              "group": "第３幕"
+            },
+            {
+              "id": "step_kanade_10",
+              "type": "choice",
+              "content": "艾尔雅玛",
+              "subfix": "电梯",
+              "group": "第３幕"
+            },
+            {
+              "id": "step_kanade_11",
+              "type": "choice",
+              "content": "奏",
+              "subfix": "４回目",
+              "group": "第４幕"
+            },
+            {
+              "id": "step_kanade_12",
+              "type": "choice",
+              "content": "深入一下",
+              "group": "第４幕"
+            },
+            {
+              "id": "step_kanade_13",
+              "type": "choice",
+              "content": "现在的生活",
+              "group": "第４幕"
+            },
+            {
+              "id": "step_kanade_14",
+              "type": "choice",
+              "content": "家乡的事情",
+              "group": "第４幕"
+            },
+            {
+              "id": "step_kanade_15",
+              "type": "choice",
+              "content": "菜瑠",
+              "subfix": "４回目",
+              "group": "第４幕"
+            },
+            {
+              "id": "step_kanade_16",
+              "type": "choice",
+              "content": "擦美",
+              "subfix": "黑板擦",
+              "group": "第４幕"
+            },
+            {
+              "id": "step_kanade_17",
+              "type": "choice",
+              "content": "奏",
+              "subfix": "５回目",
+              "group": "第５幕"
+            },
+            {
+              "id": "step_kanade_18",
+              "type": "choice",
+              "content": "菜瑠",
+              "subfix": "５回目",
+              "group": "第５幕"
+            },
+            {
+              "id": "step_kanade_19",
+              "type": "choice",
+              "content": "穂奈美",
+              "group": "第５幕"
+            },
+            {
+              "id": "step_kanade_20",
+              "type": "save",
+              "content": "SAVE 3",
+              "group": "第６幕"
+            },
+            {
+              "id": "step_kanade_21",
+              "type": "choice",
+              "content": "奏",
+              "group": "第６幕"
+            },
+            {
+              "id": "step_kanade_22",
+              "type": "choice",
+              "content": "眼神",
+              "group": "第６幕"
+            },
+            {
+              "id": "step_kanade_23",
+              "type": "choice",
+              "content": "颜色",
+              "group": "第６幕"
+            },
+            {
+              "id": "step_kanade_24",
+              "type": "choice",
+              "content": "体型",
+              "group": "第６幕"
+            }
+          ]
+        },
+        {
+          "id": "ending_naru_end",
+          "name": "菜瑠 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_naru_01",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_naru_02",
+              "type": "choice",
+              "content": "菜瑠"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_nozomi",
+      "name": "藤堂 望希",
+      "endings": [
+        {
+          "id": "ending_nozomi_end",
+          "name": "望希 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_nozomi_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_nozomi_02",
+              "type": "choice",
+              "content": "望希",
+              "subfix": "１回目"
+            },
+            {
+              "id": "step_nozomi_03",
+              "type": "choice",
+              "content": "俊男"
+            },
+            {
+              "id": "step_nozomi_05",
+              "type": "choice",
+              "content": "望希",
+              "subfix": "２回目",
+              "group": "第２幕"
+            },
+            {
+              "id": "step_nozomi_06",
+              "type": "choice",
+              "content": "想",
+              "group": "第２幕"
+            },
+            {
+              "id": "step_nozomi_07",
+              "type": "choice",
+              "content": "邀请她",
+              "group": "第２幕"
+            },
+            {
+              "id": "step_nozomi_08",
+              "type": "choice",
+              "content": "？？？涩涩",
+              "group": "第２幕"
+            },
+            {
+              "id": "step_nozomi_10",
+              "type": "choice",
+              "content": "望希",
+              "subfix": "３回目",
+              "group": "第３幕"
+            },
+            {
+              "id": "step_nozomi_11",
+              "type": "choice",
+              "content": "妮卡",
+              "subfix": "耳机",
+              "group": "第３幕"
+            },
+            {
+              "id": "step_nozomi_13",
+              "type": "choice",
+              "content": "望希",
+              "subfix": "４回目",
+              "group": "第４幕"
+            },
+            {
+              "id": "step_nozomi_14",
+              "type": "choice",
+              "content": "萨摩",
+              "subfix": "体温计",
+              "group": "第４幕"
+            },
+            {
+              "id": "step_nozomi_16",
+              "type": "choice",
+              "content": "望希",
+              "subfix": "５回目",
+              "group": "第５幕"
+            },
+            {
+              "id": "step_nozomi_17",
+              "type": "choice",
+              "content": "蕾索娜",
+              "subfix": "烤箱",
+              "group": "第５幕"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

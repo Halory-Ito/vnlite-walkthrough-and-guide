@@ -1,0 +1,70 @@
+{
+  "vid": "v16150",
+  "name": {
+    "zh-cn": "她的圣域",
+    "en-us": "My Girlfriend’s Special Place",
+    "ja-jp": "彼女のセイイキ",
+    "ja-Latn": "kanojo-no-seiiki"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-15",
+  "routes": [
+    {
+      "id": "route_1778565764512",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1778565820346",
+          "name": "END1 恋人",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1778565833385",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1778565834035",
+              "type": "choice",
+              "content": "想要成为恋人关系"
+            }
+          ]
+        },
+        {
+          "id": "ending_1778565820602",
+          "name": "END2 主从",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1778565839764",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1778565840238",
+              "type": "choice",
+              "content": "想要建立主从关系"
+            }
+          ]
+        },
+        {
+          "id": "ending_1778565820850",
+          "name": "END3",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1778565850148",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1778565850563",
+              "type": "choice",
+              "content": "想要逆转立场"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1192 @@
+{
+  "vid": "v22027",
+  "name": {
+    "zh-cn": "Butterfly Seeker",
+    "ja-jp": "バタフライシーカー",
+    "ja-Latn": "butterfly-seeker"
+  },
+  "level": 2,
+  "updatedAt": "2026-02-27",
+  "tips": [
+    "【】标注的地方为拖动关键词句画面的地方，按顺序依次拖入正确词句后点击右下“确定”按键",
+    "也直接使用下方正解的“解決”按钮，后会用※标注具体用法，有内容更新时，搜查笔记会自动打开，看完内容后按右下返回按键",
+    "推理部分，只有做出了正确选择才能推进剧情，“○”标注的地方为正确选择项",
+    "★号标注的选项为2周目和TURE END里才会出现的追加选项，不出现时无视即可",
+    "各人物END使用游戏“ENDINGLIST”里繁中表示"
+  ],
+  "routes": [
+    {
+      "id": "route_1756296152145",
+      "name": "共同线",
+      "endings": [
+        {
+          "id": "ending_1756298202918",
+          "name": "BAD END",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_1756298519275",
+              "type": "note",
+              "content": "※捜査手册：更新=>返回×6次"
+            },
+            {
+              "id": "step_1756298519444",
+              "type": "choice",
+              "content": "○受到惊吓的被害者由于过于恐怖而发出了尖叫般的悲鸣声。"
+            },
+            {
+              "id": "step_1756298519651",
+              "type": "choice",
+              "content": "○这个过程被录像了下来，并上传公开在了视频网站上面"
+            },
+            {
+              "id": "step_1756298520159",
+              "type": "note",
+              "content": "=>確定"
+            },
+            {
+              "id": "step_1756298553573",
+              "type": "choice",
+              "content": "○直美在广播的直播中发现了玩具，由于受到惊吓而尖叫了出来。"
+            },
+            {
+              "id": "step_1756298553725",
+              "type": "choice",
+              "content": "○直美发出了尖叫的直播被听众录音了下来，并上传到了视频网站。"
+            },
+            {
+              "id": "step_1756298561483",
+              "type": "note",
+              "content": "=>確定"
+            },
+            {
+              "id": "step_1756298565945",
+              "type": "note",
+              "content": "※拖拽关键词"
+            },
+            {
+              "id": "step_1756298571303",
+              "type": "choice",
+              "content": "【发出了悲鸣】"
+            },
+            {
+              "id": "step_1756298571448",
+              "type": "choice",
+              "content": "【被公开了】"
+            },
+            {
+              "id": "step_1756298577280",
+              "type": "choice",
+              "content": "婉拒",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1756298590112",
+              "type": "choice",
+              "content": "○渴望着被害者的「悲鸣」。"
+            },
+            {
+              "id": "step_1756298590264",
+              "type": "choice",
+              "content": "○用细小的锯齿状凶器反复以之字形进行切割的手法。"
+            },
+            {
+              "id": "step_1756298590428",
+              "type": "choice",
+              "content": "○将被害者装入容器里面然后进行遗弃。"
+            },
+            {
+              "id": "step_1756298590751",
+              "type": "note",
+              "content": "=>確定"
+            },
+            {
+              "id": "step_1756298608449",
+              "type": "note",
+              "content": "※拖拽关键词"
+            },
+            {
+              "id": "step_1756298615126",
+              "type": "choice",
+              "content": "【弦乐器】"
+            },
+            {
+              "id": "step_1756298615337",
+              "type": "choice",
+              "content": "【演奏】"
+            },
+            {
+              "id": "step_1756298615647",
+              "type": "choice",
+              "content": "【乐器盒】"
+            },
+            {
+              "id": "step_1756298615829",
+              "type": "choice",
+              "content": "不想把天童同学卷入进来"
+            },
+            {
+              "id": "step_1756298615954",
+              "type": "choice",
+              "content": "稍微打会盹"
+            },
+            {
+              "id": "step_1756298616134",
+              "type": "choice",
+              "content": "我点了点头。「当然要举办了」"
+            },
+            {
+              "id": "step_1756298673476",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1756298675179",
+              "type": "choice",
+              "content": "没有什么特别在意的案件"
+            },
+            {
+              "id": "step_1756298675789",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1756298686120",
+              "type": "choice",
+              "content": "先去见面吧"
+            }
+          ]
+        },
+        {
+          "id": "ending_1756298694727",
+          "name": "DEAD END",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_1756298707540",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1756298714893",
+              "type": "choice",
+              "content": "先去「探査」吧"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756299199066",
+      "name": "天童 优衣 END",
+      "endings": [
+        {
+          "id": "ending_1756299204429",
+          "name": "优衣 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756299254720",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1756299257548",
+              "type": "choice",
+              "content": "优衣推荐的「连续绞杀案件」"
+            },
+            {
+              "id": "step_1756299259532",
+              "type": "note",
+              "content": "※捜査手册：更新=>返回×5次"
+            },
+            {
+              "id": "step_1756299261282",
+              "type": "choice",
+              "content": "○被害者画着人体彩绘"
+            },
+            {
+              "id": "step_1756299261499",
+              "type": "choice",
+              "content": "○那一天男子更衣室因为被封锁，女子用的更衣室和浴室以区分时间的形式进行着男女共用。"
+            },
+            {
+              "id": "step_1756299262852",
+              "type": "note",
+              "content": "=>確定"
+            },
+            {
+              "id": "step_1756299264384",
+              "type": "choice",
+              "content": "○练习之后经常会使用浴室"
+            },
+            {
+              "id": "step_1756299265469",
+              "type": "note",
+              "content": "=>確定"
+            },
+            {
+              "id": "step_1756299267348",
+              "type": "note",
+              "content": "※拖拽关键词"
+            },
+            {
+              "id": "step_1756299268293",
+              "type": "choice",
+              "content": "【女浴室】"
+            },
+            {
+              "id": "step_1756299268844",
+              "type": "choice",
+              "content": "○香波瓶的里面"
+            },
+            {
+              "id": "step_1756299269804",
+              "type": "note",
+              "content": "=>確定"
+            },
+            {
+              "id": "step_1756299270982",
+              "type": "choice",
+              "content": "○优衣在那天早上，被深濑喷上了香水。"
+            },
+            {
+              "id": "step_1756299271978",
+              "type": "note",
+              "content": "=>確定"
+            },
+            {
+              "id": "step_1756299273562",
+              "type": "note",
+              "content": "※拖拽关键词"
+            },
+            {
+              "id": "step_1756299276294",
+              "type": "choice",
+              "content": "【习惯了】"
+            },
+            {
+              "id": "step_1756299276657",
+              "type": "choice",
+              "content": "【气味】"
+            },
+            {
+              "id": "step_1756299277454",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_1756299334908",
+              "type": "choice",
+              "content": "接受"
+            },
+            {
+              "id": "step_1756299335054",
+              "type": "choice",
+              "content": "○深濑被打倒了两次。"
+            },
+            {
+              "id": "step_1756299335204",
+              "type": "choice",
+              "content": "○深濑把白蜡梅香水放在了兜里。"
+            },
+            {
+              "id": "step_1756299335344",
+              "type": "note",
+              "content": "=>確定"
+            },
+            {
+              "id": "step_1756299335469",
+              "type": "note",
+              "content": "※拖拽关键词"
+            },
+            {
+              "id": "step_1756299335584",
+              "type": "choice",
+              "content": "【香水泄露了】"
+            },
+            {
+              "id": "step_1756299335713",
+              "type": "choice",
+              "content": "【气味变强了】"
+            },
+            {
+              "id": "step_1756299336045",
+              "type": "choice",
+              "content": "○胜间美奈代的儿子身患重病。"
+            },
+            {
+              "id": "step_1756299336204",
+              "type": "note",
+              "content": "=>確定"
+            },
+            {
+              "id": "step_1756299336339",
+              "type": "choice",
+              "content": "○犯人以儿子被白蜡夫人杀害为契机失去理智。"
+            },
+            {
+              "id": "step_1756299336471",
+              "type": "choice",
+              "content": "○所以作为犯人动机核心的心理，是「没能守护儿子的悔恨」。"
+            },
+            {
+              "id": "step_1756299336599",
+              "type": "note",
+              "content": "=>確定"
+            },
+            {
+              "id": "step_1756299336743",
+              "type": "note",
+              "content": "※拖拽关键词"
+            },
+            {
+              "id": "step_1756299336886",
+              "type": "choice",
+              "content": "【自己】"
+            },
+            {
+              "id": "step_1756299337007",
+              "type": "choice",
+              "content": "【杀害了儿子】"
+            },
+            {
+              "id": "step_1756299337268",
+              "type": "choice",
+              "content": "【逃避自己的罪责】"
+            }
+          ]
+        },
+        {
+          "id": "ending_1756299408530",
+          "name": "优衣 END",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_1756299466555",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1756299475080",
+              "type": "choice",
+              "content": "拒绝"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756299488587",
+      "name": "冰室 千岁",
+      "endings": [
+        {
+          "id": "ending_1756299493249",
+          "name": "千岁 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756299506944",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1756299511301",
+              "type": "choice",
+              "content": "千岁推荐的「不规则连续杀人案件」"
+            },
+            {
+              "id": "step_1756299512443",
+              "type": "note",
+              "content": "※捜査手册：更新=>返回×5次"
+            },
+            {
+              "id": "step_1756299515422",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_1756299518044",
+              "type": "choice",
+              "content": "不用勉强也可以"
+            },
+            {
+              "id": "step_1756299518444",
+              "type": "choice",
+              "content": "○有着独特的时装品味。"
+            },
+            {
+              "id": "step_1756299518816",
+              "type": "choice",
+              "content": "○实况视频里犯了低级失误。"
+            },
+            {
+              "id": "step_1756299519001",
+              "type": "choice",
+              "content": "○生日寄语的文字颜色中途发生了变化。"
+            },
+            {
+              "id": "step_1756299519256",
+              "type": "note",
+              "content": "=>確定"
+            },
+            {
+              "id": "step_1756299519444",
+              "type": "note",
+              "content": "※拖拽关键词"
+            },
+            {
+              "id": "step_1756299519720",
+              "type": "choice",
+              "content": "【色觉】"
+            },
+            {
+              "id": "step_1756299519884",
+              "type": "choice",
+              "content": "【为了解谜而数画中的兔子】"
+            },
+            {
+              "id": "step_1756299520031",
+              "type": "choice",
+              "content": "○「探查」所看到的光景是，有谁被杀害了的光景。"
+            },
+            {
+              "id": "step_1756299520161",
+              "type": "choice",
+              "content": "○纽扣之所以会被遗留下来，是因为没有被看见。"
+            },
+            {
+              "id": "step_1756299520347",
+              "type": "choice",
+              "content": "○被认为是第一发现者的人物将纽扣捡起来，是为了保存证据。"
+            },
+            {
+              "id": "step_1756299520841",
+              "type": "note",
+              "content": "=>確定"
+            },
+            {
+              "id": "step_1756299593198",
+              "type": "note",
+              "content": "※拖拽关键词"
+            },
+            {
+              "id": "step_1756299594072",
+              "type": "choice",
+              "content": "【套】"
+            },
+            {
+              "id": "step_1756299594490",
+              "type": "choice",
+              "content": "【复仇】"
+            },
+            {
+              "id": "step_1756299594659",
+              "type": "choice",
+              "content": "【6年前】"
+            },
+            {
+              "id": "step_1756299594816",
+              "type": "choice",
+              "content": "○来栖由于接触到了某人的死亡，初次认识到了对对方的爱。这不是家族爱，友爱，而应该是与恋爱极为相近的感情。",
+              "subfix": "被害者为男性。"
+            },
+            {
+              "id": "step_1756299594974",
+              "type": "note",
+              "content": "=>確定"
+            },
+            {
+              "id": "step_1756299631650",
+              "type": "note",
+              "content": "※拖拽关键词移出窗口"
+            },
+            {
+              "id": "step_1756299632274",
+              "type": "choice",
+              "content": "【被害者为男性】"
+            }
+          ]
+        },
+        {
+          "id": "ending_1756299656382",
+          "name": "千岁 END",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_1756299675853",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_1756299681930",
+              "type": "choice",
+              "content": "下定决心一口气跨越过去"
+            },
+            {
+              "id": "step_1756299682102",
+              "type": "choice",
+              "content": "○有着独特的时装品味。"
+            },
+            {
+              "id": "step_1756299682232",
+              "type": "choice",
+              "content": "○实况视频里犯了低级失误。"
+            },
+            {
+              "id": "step_1756299682388",
+              "type": "choice",
+              "content": "○生日寄语的文字颜色中途发生了变化。"
+            },
+            {
+              "id": "step_1756299682541",
+              "type": "note",
+              "content": "=>確定"
+            },
+            {
+              "id": "step_1756299682679",
+              "type": "note",
+              "content": "※拖拽关键词"
+            },
+            {
+              "id": "step_1756299682827",
+              "type": "choice",
+              "content": "【色觉】"
+            },
+            {
+              "id": "step_1756299682982",
+              "type": "choice",
+              "content": "【为了解谜而数画中的兔子】"
+            },
+            {
+              "id": "step_1756299683115",
+              "type": "choice",
+              "content": "○「探查」所看到的光景是，有谁被杀害了的光景。"
+            },
+            {
+              "id": "step_1756299683439",
+              "type": "choice",
+              "content": "○纽扣之所以会被遗留下来，是因为没有被看见。"
+            },
+            {
+              "id": "step_1756299683631",
+              "type": "choice",
+              "content": "○被认为是第一发现者的人物将纽扣捡起来，是为了保存证据。"
+            },
+            {
+              "id": "step_1756299683783",
+              "type": "note",
+              "content": "=>確定"
+            },
+            {
+              "id": "step_1756299683913",
+              "type": "note",
+              "content": "※拖拽关键词"
+            },
+            {
+              "id": "step_1756299684073",
+              "type": "choice",
+              "content": "【套】"
+            },
+            {
+              "id": "step_1756299684229",
+              "type": "choice",
+              "content": "【复仇】"
+            },
+            {
+              "id": "step_1756299684478",
+              "type": "choice",
+              "content": "【6年前】"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756299758169",
+      "name": "早乙女 羽矢",
+      "endings": [
+        {
+          "id": "ending_1756299801835",
+          "name": "羽矢 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756299862065",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1756299863624",
+              "type": "choice",
+              "content": "羽矢推荐的「连续锤杀案件」"
+            },
+            {
+              "id": "step_1756299864495",
+              "type": "note",
+              "content": "※捜査手册：更新=>返回×10次"
+            },
+            {
+              "id": "step_1756299885310",
+              "type": "save",
+              "content": "SAVE 5"
+            },
+            {
+              "id": "step_1756299893440",
+              "type": "choice",
+              "content": "力量的使用方法太可惜了"
+            },
+            {
+              "id": "step_1756299894193",
+              "type": "note",
+              "content": "※拖拽关键句"
+            },
+            {
+              "id": "step_1756299904491",
+              "type": "choice",
+              "content": "3、【听见到达目的地车站的广播后慌忙下车。】"
+            },
+            {
+              "id": "step_1756299904641",
+              "type": "choice",
+              "content": "4、【将雨伞遗忘在了电车中，于是购买了新伞。】"
+            },
+            {
+              "id": "step_1756299907396",
+              "type": "note",
+              "content": "=>確定"
+            },
+            {
+              "id": "step_1756299908264",
+              "type": "note",
+              "content": "※拖拽关键句"
+            },
+            {
+              "id": "step_1756299910549",
+              "type": "choice",
+              "content": "2、【小猫将旧运动鞋当作玩具损坏掉了。】"
+            },
+            {
+              "id": "step_1756299910921",
+              "type": "choice",
+              "content": "3、【买了新的运动鞋。】"
+            },
+            {
+              "id": "step_1756299912481",
+              "type": "note",
+              "content": "=>確定"
+            },
+            {
+              "id": "step_1756299936086",
+              "type": "note",
+              "content": "※拖拽关键词"
+            },
+            {
+              "id": "step_1756299940539",
+              "type": "choice",
+              "content": "【所持品】"
+            },
+            {
+              "id": "step_1756299940744",
+              "type": "choice",
+              "content": "【消失了】"
+            },
+            {
+              "id": "step_1756299942514",
+              "type": "choice",
+              "content": "○犯人是由双人组合交替进行杀人行为的。"
+            },
+            {
+              "id": "step_1756299943604",
+              "type": "note",
+              "content": "=>確定"
+            },
+            {
+              "id": "step_1756299945698",
+              "type": "note",
+              "content": "※捜査手册：更新=>返回"
+            },
+            {
+              "id": "step_1756299946367",
+              "type": "note",
+              "content": "※拖拽关键词"
+            },
+            {
+              "id": "step_1756299975148",
+              "type": "choice",
+              "content": "【色】"
+            },
+            {
+              "id": "step_1756299975311",
+              "type": "choice",
+              "content": "【红】"
+            },
+            {
+              "id": "step_1756299975651",
+              "type": "choice",
+              "content": "【蓝】"
+            },
+            {
+              "id": "step_1756299975822",
+              "type": "choice",
+              "content": "○大谷理恵子（外科医生。被盗物品为蓝宝石戒指）"
+            },
+            {
+              "id": "step_1756299975962",
+              "type": "note",
+              "content": "=>確定"
+            },
+            {
+              "id": "step_1756299976110",
+              "type": "note",
+              "content": "※拖拽关键词"
+            },
+            {
+              "id": "step_1756299976227",
+              "type": "choice",
+              "content": "【网站主页上刊载的有照片】"
+            },
+            {
+              "id": "step_1756299976358",
+              "type": "choice",
+              "content": "【将自己的照片上传到了SNS上】"
+            },
+            {
+              "id": "step_1756299976503",
+              "type": "choice",
+              "content": "【和所持品一起出现于电视上】"
+            },
+            {
+              "id": "step_1756299976631",
+              "type": "note",
+              "content": "=>確定"
+            },
+            {
+              "id": "step_1756299976755",
+              "type": "choice",
+              "content": "○职务上，在工作中不能穿戴戒指。物品保管在所定的位置。"
+            },
+            {
+              "id": "step_1756299976870",
+              "type": "choice",
+              "content": "○大谷理恵子是在结束夜班后的回家途中被绑架，被杀害的。"
+            },
+            {
+              "id": "step_1756299977066",
+              "type": "note",
+              "content": "=>確定"
+            },
+            {
+              "id": "step_1756300039838",
+              "type": "choice",
+              "content": "○犯人将保管在所定位置的大谷理恵子的戒指盗走了。"
+            },
+            {
+              "id": "step_1756300039993",
+              "type": "note",
+              "content": "=>確定"
+            },
+            {
+              "id": "step_1756300040145",
+              "type": "note",
+              "content": "※拖拽关键词"
+            },
+            {
+              "id": "step_1756300040302",
+              "type": "choice",
+              "content": "【爱】"
+            }
+          ]
+        },
+        {
+          "id": "ending_1756300072193",
+          "name": "羽矢 END",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_1756300080742",
+              "type": "load",
+              "content": "LOAD 5"
+            },
+            {
+              "id": "step_1756300092041",
+              "type": "choice",
+              "content": "担心羽矢的安全"
+            },
+            {
+              "id": "step_1756300093295",
+              "type": "note",
+              "content": "※拖拽关键句"
+            },
+            {
+              "id": "step_1756300094741",
+              "type": "choice",
+              "content": "3、【听见到达目的地车站的广播后慌忙下车。】"
+            },
+            {
+              "id": "step_1756300095008",
+              "type": "choice",
+              "content": "4、【将雨伞遗忘在了电车中，于是购买了新伞。】"
+            },
+            {
+              "id": "step_1756300096317",
+              "type": "note",
+              "content": "=>確定"
+            },
+            {
+              "id": "step_1756300096741",
+              "type": "note",
+              "content": "※拖拽关键句"
+            },
+            {
+              "id": "step_1756300097871",
+              "type": "choice",
+              "content": "2、【小猫将旧运动鞋当作玩具损坏掉了。】"
+            },
+            {
+              "id": "step_1756300098195",
+              "type": "choice",
+              "content": "3、【买了新的运动鞋。】"
+            },
+            {
+              "id": "step_1756300099298",
+              "type": "note",
+              "content": "=>確定"
+            },
+            {
+              "id": "step_1756300099732",
+              "type": "note",
+              "content": "※拖拽关键词"
+            },
+            {
+              "id": "step_1756300100813",
+              "type": "choice",
+              "content": "【所持品】"
+            },
+            {
+              "id": "step_1756300101233",
+              "type": "choice",
+              "content": "【消失了】"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756300202596",
+      "name": "TRUE线",
+      "endings": [
+        {
+          "id": "ending_1756300204334",
+          "name": "TRUE END",
+          "type": "true",
+          "requirements": "※3人(No.3,No.5,No.7)END达成后自动开始",
+          "steps": [
+            {
+              "id": "step_1756300251984",
+              "type": "choice",
+              "content": "接受",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1756300252341",
+              "type": "choice",
+              "content": "○渴望着被害者的「悲鸣」。"
+            },
+            {
+              "id": "step_1756300252488",
+              "type": "choice",
+              "content": "○用细小的锯齿状凶器反复以之字形进行切割的手法。"
+            },
+            {
+              "id": "step_1756300252649",
+              "type": "choice",
+              "content": "○将被害者装入容器里面然后进行遗弃。"
+            },
+            {
+              "id": "step_1756300252814",
+              "type": "note",
+              "content": "=>確定"
+            },
+            {
+              "id": "step_1756300252981",
+              "type": "note",
+              "content": "※拖拽关键词"
+            },
+            {
+              "id": "step_1756300253128",
+              "type": "choice",
+              "content": "【弦乐器】"
+            },
+            {
+              "id": "step_1756300253250",
+              "type": "choice",
+              "content": "【演奏】"
+            },
+            {
+              "id": "step_1756300253427",
+              "type": "choice",
+              "content": "【乐器盒】"
+            },
+            {
+              "id": "step_1756300253652",
+              "type": "choice",
+              "content": "全力寻找借口拒绝"
+            },
+            {
+              "id": "step_1756300253835",
+              "type": "choice",
+              "content": "说些无所谓的话",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1756300254025",
+              "type": "choice",
+              "content": "泡一杯咖啡"
+            },
+            {
+              "id": "step_1756300254220",
+              "type": "choice",
+              "content": "我点了点头。「当然要举办了」"
+            },
+            {
+              "id": "step_1756300254374",
+              "type": "choice",
+              "content": "没有什么特别在意的案件"
+            },
+            {
+              "id": "step_1756300254532",
+              "type": "choice",
+              "content": "先去见面吧"
+            },
+            {
+              "id": "step_1756300254705",
+              "type": "note",
+              "content": "※捜査手册：更新=>返回"
+            },
+            {
+              "id": "step_1756300254885",
+              "type": "choice",
+              "content": "○嗅觉"
+            },
+            {
+              "id": "step_1756300255183",
+              "type": "note",
+              "content": "=>確定"
+            },
+            {
+              "id": "step_1756300255372",
+              "type": "choice",
+              "content": "○身上某处被血迹污染了。"
+            },
+            {
+              "id": "step_1756300255671",
+              "type": "note",
+              "content": "=>確定"
+            },
+            {
+              "id": "step_1756300342180",
+              "type": "note",
+              "content": "※拖拽关键词"
+            },
+            {
+              "id": "step_1756300344269",
+              "type": "choice",
+              "content": "【血】"
+            },
+            {
+              "id": "step_1756300344752",
+              "type": "choice",
+              "content": "【气味】"
+            },
+            {
+              "id": "step_1756300345780",
+              "type": "note",
+              "content": "=>確定"
+            },
+            {
+              "id": "step_1756300347290",
+              "type": "note",
+              "content": "※拖拽关键词"
+            },
+            {
+              "id": "step_1756300347575",
+              "type": "choice",
+              "content": "【血的气味】"
+            },
+            {
+              "id": "step_1756300347943",
+              "type": "choice",
+              "content": "【真野美景】"
+            },
+            {
+              "id": "step_1756300348118",
+              "type": "choice",
+              "content": "【丝线编织的蜘蛛】"
+            },
+            {
+              "id": "step_1756300369566",
+              "type": "choice",
+              "content": "【远野父亲】"
+            },
+            {
+              "id": "step_1756300369730",
+              "type": "choice",
+              "content": "【矢野才藏】"
+            },
+            {
+              "id": "step_1756300369877",
+              "type": "choice",
+              "content": "【三人组】"
+            },
+            {
+              "id": "step_1756300370022",
+              "type": "choice",
+              "content": "【日下部响也】"
+            },
+            {
+              "id": "step_1756300370142",
+              "type": "choice",
+              "content": "○让远野对矢野才藏的头发进行「探查」。"
+            },
+            {
+              "id": "step_1756300385401",
+              "type": "choice",
+              "content": "○给远野寄送了「蜘蛛」被害者的遗物。"
+            },
+            {
+              "id": "step_1756300385726",
+              "type": "choice",
+              "content": "○搜集了连环杀手屠戮者案件的被害者们的头发，送交给了搜查本部。"
+            },
+            {
+              "id": "step_1756300386012",
+              "type": "note",
+              "content": "※拖拽关键词"
+            },
+            {
+              "id": "step_1756300386216",
+              "type": "choice",
+              "content": "【儿女】"
+            },
+            {
+              "id": "step_1756300386395",
+              "type": "choice",
+              "content": "【叶山翠】"
+            },
+            {
+              "id": "step_1756300386571",
+              "type": "choice",
+              "content": "○是三人组。"
+            },
+            {
+              "id": "step_1756300419814",
+              "type": "choice",
+              "content": "○知道日下部的私有地这个隐藏尸体的场所，并且能够出入。"
+            },
+            {
+              "id": "step_1756300419963",
+              "type": "choice",
+              "content": "○能够访问搜查的情报，亦或者是拥有着从能够访问的人物那里收到泄露出来的情报的立场。"
+            },
+            {
+              "id": "step_1756300420131",
+              "type": "note",
+              "content": "=>確定"
+            },
+            {
+              "id": "step_1756300420278",
+              "type": "note",
+              "content": "※拖拽关键词"
+            },
+            {
+              "id": "step_1756300420435",
+              "type": "choice",
+              "content": "【日下部响也】"
+            },
+            {
+              "id": "step_1756300420571",
+              "type": "choice",
+              "content": "【日下部的儿女们】"
+            },
+            {
+              "id": "step_1756300420727",
+              "type": "note",
+              "content": "=>確定"
+            },
+            {
+              "id": "step_1756300420880",
+              "type": "note",
+              "content": "※捜査手册：更新=>返回"
+            },
+            {
+              "id": "step_1756300449421",
+              "type": "note",
+              "content": "※拖拽关键词"
+            },
+            {
+              "id": "step_1756300449595",
+              "type": "choice",
+              "content": "【尸体遗弃现场】"
+            },
+            {
+              "id": "step_1756300449779",
+              "type": "choice",
+              "content": "【蜘蛛网】"
+            },
+            {
+              "id": "step_1756300450826",
+              "type": "note",
+              "content": "※拖拽画面往左右移动"
+            },
+            {
+              "id": "step_1756300450969",
+              "type": "choice",
+              "content": "1【日下部的犯行】"
+            },
+            {
+              "id": "step_1756300451113",
+              "type": "choice",
+              "content": "2【透子的犯行】"
+            },
+            {
+              "id": "step_1756300451261",
+              "type": "choice",
+              "content": "3【日下部的犯行】"
+            },
+            {
+              "id": "step_1756300451387",
+              "type": "choice",
+              "content": "4【日下部的犯行】"
+            },
+            {
+              "id": "step_1756300451543",
+              "type": "choice",
+              "content": "5【日下部的犯行】"
+            },
+            {
+              "id": "step_1756300505410",
+              "type": "choice",
+              "content": "6【透子的犯行】"
+            },
+            {
+              "id": "step_1756300505562",
+              "type": "choice",
+              "content": "7【透子的犯行】"
+            },
+            {
+              "id": "step_1756300505788",
+              "type": "choice",
+              "content": "8【日下部的犯行】"
+            },
+            {
+              "id": "step_1756300505932",
+              "type": "note",
+              "content": "=>確定"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

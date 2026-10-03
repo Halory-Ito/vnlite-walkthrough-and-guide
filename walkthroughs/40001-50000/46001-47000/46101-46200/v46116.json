@@ -1,0 +1,120 @@
+{
+  "vid": "v46116",
+  "name": {
+    "zh-cn": "D.C.5 Future Link",
+    "ja-jp": "D.C.5 Future Link ～ダ・カーポ5～ フューチャーリンク",
+    "ja-Latn": "dc5-future-link"
+  },
+  "level": 1,
+  "updatedAt": "2026-07-15",
+  "routes": [
+    {
+      "id": "route_game_guide",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_mizuka",
+          "name": "桜来 瑞花 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_mizuka_02",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_mizuka_04",
+              "type": "choice",
+              "content": "瑞花"
+            }
+          ]
+        },
+        {
+          "id": "ending_ainoa",
+          "name": "八坂 愛乃亜 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_ainoa_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_ainoa_03",
+              "type": "choice",
+              "content": "愛乃亜"
+            }
+          ]
+        },
+        {
+          "id": "ending_setsuna",
+          "name": "常坂 雪那 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_setsuna_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_setsuna_03",
+              "type": "choice",
+              "content": "雪那"
+            }
+          ]
+        },
+        {
+          "id": "ending_aika",
+          "name": "白河 あいか END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_aika_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_aika_03",
+              "type": "choice",
+              "content": "あいか"
+            }
+          ]
+        },
+        {
+          "id": "ending_kako",
+          "name": "八坂 可子 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_kako_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_kako_03",
+              "type": "choice",
+              "content": "可子"
+            }
+          ]
+        },
+        {
+          "id": "ending_akari",
+          "name": "白河 灯莉 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_akari_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_akari_03",
+              "type": "choice",
+              "content": "谁都不是"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

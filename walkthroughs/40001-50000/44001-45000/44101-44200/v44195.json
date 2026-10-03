@@ -1,0 +1,174 @@
+{
+  "vid": "v44195",
+  "name": {
+    "zh-cn": "八卦恋爱",
+    "ja-jp": "コイバナ恋愛",
+    "ja-Latn": "koibana-renai"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-11",
+  "routes": [
+    {
+      "id": "route_1755871006723",
+      "name": "春风 惠",
+      "endings": [
+        {
+          "id": "ending_1755871338289",
+          "name": "惠 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755871372190",
+              "type": "note",
+              "content": "（共通线前四个选项并不影响线路选择，可以随意选）"
+            },
+            {
+              "id": "step_1755871353390",
+              "type": "choice",
+              "content": "姑且饶了她/绝对不放过她"
+            },
+            {
+              "id": "step_1755871353795",
+              "type": "choice",
+              "content": "乙女/千依"
+            },
+            {
+              "id": "step_1755871354498",
+              "type": "choice",
+              "content": "保龄球/乒乓球/棒球"
+            },
+            {
+              "id": "step_1755871355021",
+              "type": "choice",
+              "content": "与千依进行秘密放学后授课/与小常进行禁断房间约会"
+            },
+            {
+              "id": "step_1755871376909",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1755871378239",
+              "type": "choice",
+              "content": "当然"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755871965181",
+      "name": "夕暮 常夜",
+      "endings": [
+        {
+          "id": "ending_1755872011178",
+          "name": "常夜 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755872039679",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1755872055839",
+              "type": "choice",
+              "content": "犹豫"
+            },
+            {
+              "id": "step_1755872055988",
+              "type": "choice",
+              "content": "头发蓬松的毛毛虫小常"
+            },
+            {
+              "id": "step_1755872056231",
+              "type": "choice",
+              "content": "隐藏在团子上的剧毒"
+            },
+            {
+              "id": "step_1755872079414",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1755872085752",
+              "type": "choice",
+              "content": "顺势乘上名为常夜的巨浪"
+            },
+            {
+              "id": "step_1755872085987",
+              "type": "choice",
+              "content": "我就是个容易动摇的男人"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755872108730",
+      "name": "安达千依",
+      "endings": [
+        {
+          "id": "ending_1755872300728",
+          "name": "千依 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755872314717",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1755872322930",
+              "type": "choice",
+              "content": "我是个不会动摇的男人"
+            },
+            {
+              "id": "step_1755872327833",
+              "type": "choice",
+              "content": "只把小常当成学妹来疼爱"
+            },
+            {
+              "id": "step_1755872334136",
+              "type": "choice",
+              "content": "扑克牌（三选一，任意选）"
+            },
+            {
+              "id": "step_1755872338329",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_1755872344259",
+              "type": "choice",
+              "content": "我果然还是放不下千依"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755872359837",
+      "name": "乙女心",
+      "endings": [
+        {
+          "id": "ending_1755872366266",
+          "name": "心END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755872370656",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1755872375342",
+              "type": "choice",
+              "content": "成为乙女公主的王子殿下"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

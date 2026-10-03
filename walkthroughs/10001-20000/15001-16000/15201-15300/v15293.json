@@ -1,0 +1,247 @@
+{
+  "vid": "v15293",
+  "name": {
+    "zh-cn": "近月少女的礼仪2",
+    "ja-jp": "月に寄りそう乙女の作法2",
+    "ja-Latn": "tsuki-ni-yorisou-otome-no-sahou-2"
+  },
+  "level": 2,
+  "updatedAt": "2026-04-03",
+  "routes": [
+    {
+      "id": "route_ester",
+      "name": "艾斯特·格拉赫·雅勒斯",
+      "endings": [
+        {
+          "id": "ending_ester_end",
+          "name": "艾斯特 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_es_01",
+              "type": "choice",
+              "content": "优先做自己的设计"
+            },
+            {
+              "id": "step_es_02",
+              "type": "choice",
+              "content": "和瑠美姐一起参加音乐会"
+            },
+            {
+              "id": "step_es_03",
+              "type": "choice",
+              "content": "回复艾斯特\"我很想见你\""
+            },
+            {
+              "id": "step_es_04",
+              "type": "choice",
+              "content": "不再指手画脚"
+            },
+            {
+              "id": "step_es_05",
+              "type": "choice",
+              "content": "随时欢迎你联系我"
+            },
+            {
+              "id": "step_es_06",
+              "type": "choice",
+              "content": "前往戏剧教学楼了解有关偶像的委托"
+            },
+            {
+              "id": "step_es_07",
+              "type": "choice",
+              "content": "回复艾斯特说希望她穿朝阳设计的服装"
+            },
+            {
+              "id": "step_es_08",
+              "type": "note",
+              "content": "选择另一个选项并坚持三次，可回收CG"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_sakuya",
+      "name": "八日堂 朔莉",
+      "endings": [
+        {
+          "id": "ending_sakuya_end",
+          "name": "朔莉 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_sk_01",
+              "type": "choice",
+              "content": "帮助初心子制作服装"
+            },
+            {
+              "id": "step_sk_02",
+              "type": "choice",
+              "content": "前往朔莉的拍摄现场"
+            },
+            {
+              "id": "step_sk_03",
+              "type": "choice",
+              "content": "没问题"
+            },
+            {
+              "id": "step_sk_04",
+              "type": "choice",
+              "content": "回复艾斯特\"我不能见你\""
+            },
+            {
+              "id": "step_sk_05",
+              "type": "choice",
+              "content": "提醒她们要确认清楚"
+            },
+            {
+              "id": "step_sk_06",
+              "type": "choice",
+              "content": "优先完成自己的目标"
+            },
+            {
+              "id": "step_sk_07",
+              "type": "choice",
+              "content": "前往戏剧教学楼了解有关偶像的委托"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_haruko",
+      "name": "银条 春心",
+      "endings": [
+        {
+          "id": "ending_haruko_end",
+          "name": "春心 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_hk_01",
+              "type": "choice",
+              "content": "帮助初心子制作服装"
+            },
+            {
+              "id": "step_hk_02",
+              "type": "choice",
+              "content": "前往朔莉的拍摄现场"
+            },
+            {
+              "id": "step_hk_03",
+              "type": "choice",
+              "content": "没问题"
+            },
+            {
+              "id": "step_hk_04",
+              "type": "choice",
+              "content": "回复艾斯特\"我不能见你\""
+            },
+            {
+              "id": "step_hk_05",
+              "type": "choice",
+              "content": "提醒她们要确认清楚"
+            },
+            {
+              "id": "step_hk_06",
+              "type": "choice",
+              "content": "为保护初心子采取行动"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_rumione",
+      "name": "大藏 瑠美音",
+      "endings": [
+        {
+          "id": "ending_rumione_end",
+          "name": "瑠美音 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_rm_01",
+              "type": "choice",
+              "content": "优先做自己的设计"
+            },
+            {
+              "id": "step_rm_02",
+              "type": "choice",
+              "content": "和瑠美姐一起参加音乐会"
+            },
+            {
+              "id": "step_rm_03",
+              "type": "choice",
+              "content": "回复艾斯特\"我很想见你\""
+            },
+            {
+              "id": "step_rm_04",
+              "type": "choice",
+              "content": "不再指手画脚"
+            },
+            {
+              "id": "step_rm_05",
+              "type": "choice",
+              "content": "随时欢迎你联系我"
+            },
+            {
+              "id": "step_rm_06",
+              "type": "choice",
+              "content": "前往音乐教学楼了解有关朋克的委托"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_other",
+      "name": "其他",
+      "endings": [
+        {
+          "id": "ending_other_normal",
+          "name": "END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_ot_01",
+              "type": "choice",
+              "content": "帮助初心子制作服装"
+            },
+            {
+              "id": "step_ot_02",
+              "type": "choice",
+              "content": "前往朔莉的拍摄现场"
+            },
+            {
+              "id": "step_ot_03",
+              "type": "choice",
+              "content": "没问题"
+            },
+            {
+              "id": "step_ot_04",
+              "type": "choice",
+              "content": "回复艾斯特\"我不能见你\""
+            },
+            {
+              "id": "step_ot_05",
+              "type": "choice",
+              "content": "提醒她们要确认清楚"
+            },
+            {
+              "id": "step_ot_06",
+              "type": "choice",
+              "content": "优先完成自己的目标"
+            },
+            {
+              "id": "step_ot_07",
+              "type": "choice",
+              "content": "前往音乐教学楼了解有关朋克的委托"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "vid": "v8020",
+  "name": {
+    "zh-cn": "Rewrite Harvest festa！",
+    "en-us": "Rewrite Harvest festa！",
+    "ja-jp": "Rewrite Harvest festa！",
+    "ja-Latn": "rewrite-harvest-festa"
+  },
+  "level": 1,
+  "updatedAt": "2026-03-22",
+  "routes": [
+    {
+      "id": "route_rewrite_full_guide",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_kotori_chihaya_lucia",
+          "name": "神户小鸟 / 凤千早 / 此花露西亚 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_kcl_001",
+              "type": "note",
+              "content": "直接选择进入小鸟、千早、露西亚线",
+              "group": "共通后"
+            },
+            {
+              "id": "step_kcl_002",
+              "type": "choice",
+              "content": "把心意传达给她",
+              "group": "小鸟线最终"
+            },
+            {
+              "id": "step_kcl_003",
+              "type": "note",
+              "content": "凤千早线直接推进至结局选项",
+              "group": "千早线最终"
+            },
+            {
+              "id": "step_kcl_004",
+              "type": "note",
+              "content": "此花露西亚线直接推进至结局选项",
+              "group": "露西亚线最终"
+            },
+            {
+              "id": "step_kcl_005",
+              "type": "note",
+              "content": "3人攻略完毕后，朱音和静流篇章开启",
+              "group": "前置条件"
+            }
+          ]
+        },
+        {
+          "id": "ending_shizuru_akane",
+          "name": "中津静流 / 千里朱音 END",
+          "type": "normal",
+          "requirements": "※小鸟/千早/露西亚3人END后",
+          "steps": [
+            {
+              "id": "step_sa_001",
+              "type": "note",
+              "content": "3人攻略完毕后开启朱音和静流篇章",
+              "group": "前置条件"
+            },
+            {
+              "id": "step_sa_002",
+              "type": "choice",
+              "content": "觉得这样下去不行",
+              "group": "静流线分支"
+            },
+            {
+              "id": "step_sa_003",
+              "type": "choice",
+              "content": "只好赌在最后一人身上了",
+              "group": "静流线分支"
+            },
+            {
+              "id": "step_sa_004",
+              "type": "choice",
+              "content": "与静流一起就算只有两人也不要紧",
+              "group": "静流线最终"
+            },
+            {
+              "id": "step_sa_005",
+              "type": "note",
+              "content": "千里朱音线直接推进至结局选项",
+              "group": "朱音线最终"
+            }
+          ]
+        },
+        {
+          "id": "ending_midnight_bad",
+          "name": "MIDNIGHT BAD END",
+          "type": "bad",
+          "requirements": "※静流线中选择特定热情选项触发BAD",
+          "steps": [
+            {
+              "id": "step_midnight_001",
+              "type": "note",
+              "content": "静流线特定分支（热情无法抑制选项）",
+              "group": "静流线BAD"
+            },
+            {
+              "id": "step_midnight_002",
+              "type": "choice",
+              "content": "但热情还是无法抑制的",
+              "group": "静流线BAD最终"
+            }
+          ]
+        },
+        {
+          "id": "ending_kagari",
+          "name": "篝 END",
+          "type": "normal",
+          "requirements": "※朱音+静流END后开启Moon篇",
+          "steps": [
+            {
+              "id": "step_kagari_001",
+              "type": "note",
+              "content": "朱音和静流攻略完毕后，篝的篇章解放（Moon篇）",
+              "group": "前置条件"
+            },
+            {
+              "id": "step_kagari_002",
+              "type": "choice",
+              "content": "提关于丝带的问题",
+              "group": "篝线"
+            },
+            {
+              "id": "step_kagari_003",
+              "type": "choice",
+              "content": "提关于名字的问题",
+              "group": "篝线"
+            },
+            {
+              "id": "step_kagari_004",
+              "type": "choice",
+              "content": "没有疑问了，问问她喜欢的UMA",
+              "group": "篝线最终"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

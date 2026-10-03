@@ -1,0 +1,387 @@
+{
+  "vid": "v604",
+  "name": {
+    "zh-cn": "遥仰凰华",
+    "ja-jp": "遥かに仰ぎ、麗しの",
+    "ja-Latn": "haruka-ni-aogi-uruwashi-no"
+  },
+  "level": 2,
+  "updatedAt": "2026-04-12",
+  "routes": [
+    {
+      "id": "route_1775972619247",
+      "name": "本校篇",
+      "endings": [
+        {
+          "id": "ending_1775972717538",
+          "name": "雅 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1775972727348",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1775972733152",
+              "type": "choice",
+              "content": "回答右边"
+            },
+            {
+              "id": "step_1775972760612",
+              "type": "choice",
+              "content": "对风祭雅有些在意"
+            },
+            {
+              "id": "step_1775972760761",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1775972760917",
+              "type": "choice",
+              "content": "觉得想尽力帮助她了"
+            }
+          ]
+        },
+        {
+          "id": "ending_1775972717957",
+          "name": "殿子 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1775972792460",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1775972792613",
+              "type": "choice",
+              "content": "开始认为不要去妨碍她吧"
+            },
+            {
+              "id": "step_1775972792778",
+              "type": "choice",
+              "content": "想起了有一个问题想问她"
+            },
+            {
+              "id": "step_1775972792870",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_1775972810706",
+              "type": "choice",
+              "content": "对于想反抗的自己给予苦笑"
+            }
+          ]
+        },
+        {
+          "id": "ending_1775972718148",
+          "name": "梓乃 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1775972827300",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1775972827442",
+              "type": "choice",
+              "content": "对于没有任何抵抗力的自己给予苦笑"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1775972846059",
+      "name": "分校篇",
+      "endings": [
+        {
+          "id": "ending_1775972849407",
+          "name": "栖香 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1776001258582",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1775972859208",
+              "type": "choice",
+              "content": "回答左边"
+            },
+            {
+              "id": "step_1775976957309",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_1775972859438",
+              "type": "choice",
+              "content": "总之别管他们"
+            },
+            {
+              "id": "step_1775972859615",
+              "type": "choice",
+              "content": "到走廊上看看"
+            },
+            {
+              "id": "step_1775972871150",
+              "type": "choice",
+              "content": "在餐厅享用BREAKFAST"
+            },
+            {
+              "id": "step_1775972871306",
+              "type": "choice",
+              "content": "请仁礼帮忙"
+            },
+            {
+              "id": "step_1775972871425",
+              "type": "choice",
+              "content": "问仁礼看看"
+            },
+            {
+              "id": "step_1775972882844",
+              "type": "choice",
+              "content": "仁礼有外出过吗？"
+            },
+            {
+              "id": "step_1775972882978",
+              "type": "choice",
+              "content": "在这里等相沢"
+            },
+            {
+              "id": "step_1775972908624",
+              "type": "choice",
+              "content": "去追仁礼"
+            },
+            {
+              "id": "step_1775976674025",
+              "type": "choice",
+              "content": "再等一会"
+            },
+            {
+              "id": "step_1775976889377",
+              "type": "choice",
+              "content": "不去打扰家族的团聚"
+            },
+            {
+              "id": "step_1775976916518",
+              "type": "choice",
+              "content": "迂回作战"
+            },
+            {
+              "id": "step_1775977062015",
+              "type": "choice",
+              "content": "跟着仁礼走"
+            }
+          ]
+        },
+        {
+          "id": "ending_1775972849592",
+          "name": "美绮 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1775977149498",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_1775977154178",
+              "type": "choice",
+              "content": "只是采访没关系的"
+            },
+            {
+              "id": "step_1775977154327",
+              "type": "choice",
+              "content": "再发呆一阵子"
+            },
+            {
+              "id": "step_1775977154482",
+              "type": "choice",
+              "content": "乖乖像个平民吃泡面"
+            },
+            {
+              "id": "step_1775977154612",
+              "type": "choice",
+              "content": "不请仁礼帮忙"
+            },
+            {
+              "id": "step_1775989328902",
+              "type": "choice",
+              "content": "像是亲子之情就没有改变呢"
+            },
+            {
+              "id": "step_1775989329048",
+              "type": "choice",
+              "content": "问相沢本人"
+            },
+            {
+              "id": "step_1775989329199",
+              "type": "choice",
+              "content": "仁礼不可能没有外出过的"
+            },
+            {
+              "id": "step_1775998826077",
+              "type": "choice",
+              "content": "离开这里"
+            },
+            {
+              "id": "step_1775998833348",
+              "type": "choice",
+              "content": "打听下相沢与仁礼为何相处不好"
+            },
+            {
+              "id": "step_1775998833480",
+              "type": "choice",
+              "content": "向相沢一家人打招呼"
+            },
+            {
+              "id": "step_1775998833695",
+              "type": "choice",
+              "content": "直接问本人"
+            },
+            {
+              "id": "step_1775999171857",
+              "type": "choice",
+              "content": "若无其事地介入"
+            },
+            {
+              "id": "step_1775999172374",
+              "type": "choice",
+              "content": "去找相沢"
+            },
+            {
+              "id": "step_1775999172594",
+              "type": "choice",
+              "content": "那就靠我的怪力吧"
+            },
+            {
+              "id": "step_1776000091102",
+              "type": "choice",
+              "content": "这时候要婉转一点"
+            },
+            {
+              "id": "step_1776000091546",
+              "type": "choice",
+              "content": "年轻到犯罪的小女孩"
+            }
+          ]
+        },
+        {
+          "id": "ending_1775973034362",
+          "name": "邑那 END",
+          "type": "normal",
+          "requirements": "完成栖香和美绮后开始新游戏",
+          "steps": [
+            {
+              "id": "step_1776001063365",
+              "type": "choice",
+              "content": "回答左边"
+            },
+            {
+              "id": "step_1775973036641",
+              "type": "choice",
+              "content": "总之别管他们"
+            },
+            {
+              "id": "step_1775977240782",
+              "type": "choice",
+              "content": "再发呆一阵子"
+            },
+            {
+              "id": "step_1775977241016",
+              "type": "choice",
+              "content": "乖乖像个平民吃泡面"
+            },
+            {
+              "id": "step_1776001378235",
+              "type": "choice",
+              "content": "不请仁礼帮忙"
+            },
+            {
+              "id": "step_1776001378382",
+              "type": "choice",
+              "content": "像是亲子之情就没有改变呢"
+            },
+            {
+              "id": "step_1776001378523",
+              "type": "choice",
+              "content": "问相沢本人"
+            },
+            {
+              "id": "step_1776001378662",
+              "type": "choice",
+              "content": "仁礼不可能没有外出过的"
+            },
+            {
+              "id": "step_1776001378800",
+              "type": "choice",
+              "content": "在这里等相沢"
+            },
+            {
+              "id": "step_1776001378945",
+              "type": "choice",
+              "content": "询问电视购物同学的事情"
+            },
+            {
+              "id": "step_1776001379084",
+              "type": "choice",
+              "content": "打听下相沢与仁礼为何相处不好"
+            },
+            {
+              "id": "step_1776001379227",
+              "type": "choice",
+              "content": "再留一段时间"
+            },
+            {
+              "id": "step_1776001379372",
+              "type": "choice",
+              "content": "不去打扰家族的团聚"
+            },
+            {
+              "id": "step_1776001379510",
+              "type": "choice",
+              "content": "不去找她"
+            },
+            {
+              "id": "step_1776001379655",
+              "type": "choice",
+              "content": "那个人与榛叶的关系是？"
+            },
+            {
+              "id": "step_1776001379795",
+              "type": "choice",
+              "content": "迂回作战"
+            },
+            {
+              "id": "step_1776001379920",
+              "type": "choice",
+              "content": "前去抗议"
+            },
+            {
+              "id": "step_1776001380037",
+              "type": "choice",
+              "content": "跟着仁礼走"
+            },
+            {
+              "id": "step_1776001380170",
+              "type": "choice",
+              "content": "问榛叶是否不会参加"
+            },
+            {
+              "id": "step_1776001380292",
+              "type": "choice",
+              "content": "是独生女吗？"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

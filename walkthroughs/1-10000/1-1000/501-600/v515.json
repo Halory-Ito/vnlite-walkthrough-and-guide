@@ -1,0 +1,690 @@
+{
+  "vid": "v515",
+  "name": {
+    "zh-cn": "恋狱～月狂病～",
+    "en-us": "Cartagra ~Affliction of the Soul~",
+    "ja-jp": "カルタグラ～ツキ狂イノ病～",
+    "ja-Latn": "cartagra-tsuki-kurui-no-yamai"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-14",
+  "routes": [
+    {
+      "id": "route_game_guide",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_koyuki_seri_end",
+          "name": "小雪＆芹 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_koyuki_seri_01",
+              "type": "choice",
+              "content": "接受"
+            },
+            {
+              "id": "step_koyuki_seri_02",
+              "type": "choice",
+              "content": "听听看"
+            },
+            {
+              "id": "step_koyuki_seri_03",
+              "type": "choice",
+              "content": "不能放着不管"
+            },
+            {
+              "id": "step_koyuki_seri_04",
+              "type": "choice",
+              "content": "但是……"
+            },
+            {
+              "id": "step_koyuki_seri_05",
+              "type": "choice",
+              "content": "说实话"
+            },
+            {
+              "id": "step_koyuki_seri_06",
+              "type": "choice",
+              "content": "可能性很高"
+            },
+            {
+              "id": "step_koyuki_seri_07",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_koyuki_seri_08",
+              "type": "choice",
+              "content": "忍耐下，先工作吧"
+            },
+            {
+              "id": "step_koyuki_seri_09",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_koyuki_seri_10",
+              "type": "choice",
+              "content": "回房间，等没人洗再去"
+            },
+            {
+              "id": "step_koyuki_seri_11",
+              "type": "choice",
+              "content": "偷窥"
+            },
+            {
+              "id": "step_koyuki_seri_12",
+              "type": "note",
+              "content": "CG 回收"
+            },
+            {
+              "id": "step_koyuki_seri_13",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_koyuki_seri_14",
+              "type": "choice",
+              "content": "洗快点的话应该不会有什么问题的"
+            },
+            {
+              "id": "step_koyuki_seri_15",
+              "type": "choice",
+              "content": "打开来看"
+            },
+            {
+              "id": "step_koyuki_seri_16",
+              "type": "choice",
+              "content": "继续看下去"
+            },
+            {
+              "id": "step_koyuki_seri_17",
+              "type": "choice",
+              "content": "就像家人一样"
+            },
+            {
+              "id": "step_koyuki_seri_18",
+              "type": "choice",
+              "content": "走进房里"
+            },
+            {
+              "id": "step_koyuki_seri_19",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_koyuki_seri_20",
+              "type": "choice",
+              "content": "不过，还是先要把凛弄到高潮"
+            },
+            {
+              "id": "step_koyuki_seri_22",
+              "type": "note",
+              "content": "以下为CG 回收"
+            },
+            {
+              "id": "step_koyuki_seri_23",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_koyuki_seri_24",
+              "type": "choice",
+              "content": "这么湿的话没问题吧！"
+            },
+            {
+              "id": "step_koyuki_seri_26",
+              "type": "choice",
+              "content": "找谁问问"
+            },
+            {
+              "id": "step_koyuki_seri_27",
+              "type": "choice",
+              "content": "与小雪和芹相关"
+            },
+            {
+              "id": "step_koyuki_seri_28",
+              "type": "choice",
+              "content": "同时进行由良的搜索"
+            },
+            {
+              "id": "step_koyuki_seri_29",
+              "type": "choice",
+              "content": "回应凛的心情"
+            },
+            {
+              "id": "step_koyuki_seri_30",
+              "type": "choice",
+              "content": "就这样从正面"
+            },
+            {
+              "id": "step_koyuki_seri_31",
+              "type": "choice",
+              "content": "上野车站前面"
+            },
+            {
+              "id": "step_koyuki_seri_32",
+              "type": "choice",
+              "content": "上野公园"
+            },
+            {
+              "id": "step_koyuki_seri_33",
+              "type": "choice",
+              "content": "葵町"
+            },
+            {
+              "id": "step_koyuki_seri_34",
+              "type": "choice",
+              "content": "繁华街"
+            },
+            {
+              "id": "step_koyuki_seri_35",
+              "type": "choice",
+              "content": "葵町"
+            },
+            {
+              "id": "step_koyuki_seri_36",
+              "type": "choice",
+              "content": "上野车站前面"
+            },
+            {
+              "id": "step_koyuki_seri_37",
+              "type": "choice",
+              "content": "上野公园"
+            },
+            {
+              "id": "step_koyuki_seri_38",
+              "type": "choice",
+              "content": "宗教的恍惚"
+            },
+            {
+              "id": "step_koyuki_seri_39",
+              "type": "choice",
+              "content": "使用马车"
+            },
+            {
+              "id": "step_koyuki_seri_40",
+              "type": "choice",
+              "content": "关于肢解的场所"
+            },
+            {
+              "id": "step_koyuki_seri_41",
+              "type": "choice",
+              "content": "婉言谢绝"
+            },
+            {
+              "id": "step_koyuki_seri_42",
+              "type": "choice",
+              "content": "从后面开始"
+            },
+            {
+              "id": "step_koyuki_seri_43",
+              "type": "choice",
+              "content": "当然，在其他的店买"
+            },
+            {
+              "id": "step_koyuki_seri_44",
+              "type": "choice",
+              "content": "往右走"
+            }
+          ]
+        },
+        {
+          "id": "ending_nana_end",
+          "name": "七七 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_nana_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_nana_02",
+              "type": "choice",
+              "content": "买章鱼烧吧"
+            },
+            {
+              "id": "step_nana_03",
+              "type": "choice",
+              "content": "区区两天不洗澡而已……"
+            },
+            {
+              "id": "step_nana_04",
+              "type": "choice",
+              "content": "打开来看"
+            },
+            {
+              "id": "step_nana_05",
+              "type": "choice",
+              "content": "继续看下去"
+            },
+            {
+              "id": "step_nana_06",
+              "type": "choice",
+              "content": "就像家人一样"
+            },
+            {
+              "id": "step_nana_07",
+              "type": "choice",
+              "content": "到别的房间去睡"
+            },
+            {
+              "id": "step_nana_08",
+              "type": "choice",
+              "content": "找谁问问"
+            },
+            {
+              "id": "step_nana_09",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_nana_10",
+              "type": "choice",
+              "content": "回现场"
+            },
+            {
+              "id": "step_nana_11",
+              "type": "choice",
+              "content": "同时进行由良的搜索"
+            },
+            {
+              "id": "step_nana_12",
+              "type": "choice",
+              "content": "回应凛的心情"
+            },
+            {
+              "id": "step_nana_13",
+              "type": "choice",
+              "content": "从后面"
+            },
+            {
+              "id": "step_nana_15",
+              "type": "choice",
+              "content": "上野车站前面"
+            },
+            {
+              "id": "step_nana_16",
+              "type": "choice",
+              "content": "上野公园"
+            },
+            {
+              "id": "step_nana_17",
+              "type": "choice",
+              "content": "葵町"
+            },
+            {
+              "id": "step_nana_18",
+              "type": "choice",
+              "content": "繁华街"
+            },
+            {
+              "id": "step_nana_19",
+              "type": "choice",
+              "content": "葵町"
+            },
+            {
+              "id": "step_nana_20",
+              "type": "choice",
+              "content": "上野车站前面"
+            },
+            {
+              "id": "step_nana_21",
+              "type": "choice",
+              "content": "上野公园"
+            },
+            {
+              "id": "step_nana_22",
+              "type": "choice",
+              "content": "宗教的恍惚"
+            },
+            {
+              "id": "step_nana_23",
+              "type": "choice",
+              "content": "使用马车"
+            },
+            {
+              "id": "step_nana_24",
+              "type": "choice",
+              "content": "关于肢解的场所"
+            }
+          ]
+        },
+        {
+          "id": "ending_kaoru_end",
+          "name": "薰 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_kaoru_01",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_kaoru_02",
+              "type": "choice",
+              "content": "调查乙羽的行动"
+            },
+            {
+              "id": "step_kaoru_03",
+              "type": "choice",
+              "content": "同时进行由良的搜索"
+            },
+            {
+              "id": "step_kaoru_04",
+              "type": "choice",
+              "content": "不回应"
+            },
+            {
+              "id": "step_kaoru_05",
+              "type": "choice",
+              "content": "上野车站前面"
+            },
+            {
+              "id": "step_kaoru_06",
+              "type": "choice",
+              "content": "上野公园"
+            },
+            {
+              "id": "step_kaoru_07",
+              "type": "choice",
+              "content": "葵町"
+            },
+            {
+              "id": "step_kaoru_08",
+              "type": "choice",
+              "content": "繁华街"
+            },
+            {
+              "id": "step_kaoru_09",
+              "type": "choice",
+              "content": "葵町"
+            },
+            {
+              "id": "step_kaoru_10",
+              "type": "choice",
+              "content": "上野车站前面"
+            },
+            {
+              "id": "step_kaoru_11",
+              "type": "choice",
+              "content": "上野公园"
+            },
+            {
+              "id": "step_kaoru_12",
+              "type": "save",
+              "content": "SAVE 5"
+            },
+            {
+              "id": "step_kaoru_13",
+              "type": "choice",
+              "content": "自我显示欲望"
+            },
+            {
+              "id": "step_kaoru_14",
+              "type": "choice",
+              "content": "使用手推车"
+            },
+            {
+              "id": "step_kaoru_15",
+              "type": "choice",
+              "content": "关于杀害的方法"
+            }
+          ]
+        },
+        {
+          "id": "ending_hatsune_end",
+          "name": "初音 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_hatsune_01",
+              "type": "load",
+              "content": "LOAD 5"
+            },
+            {
+              "id": "step_hatsune_02",
+              "type": "choice",
+              "content": "宗教的恍惚"
+            },
+            {
+              "id": "step_hatsune_03",
+              "type": "choice",
+              "content": "使用马车"
+            },
+            {
+              "id": "step_hatsune_04",
+              "type": "choice",
+              "content": "关于肢解的场所"
+            },
+            {
+              "id": "step_hatsune_05",
+              "type": "save",
+              "content": "SAVE 6"
+            },
+            {
+              "id": "step_hatsune_06",
+              "type": "choice",
+              "content": "乐意接受"
+            },
+            {
+              "id": "step_hatsune_07",
+              "type": "choice",
+              "content": "硬着头皮，买章鱼烧"
+            },
+            {
+              "id": "step_hatsune_08",
+              "type": "choice",
+              "content": "……那么，就请跨上来吧"
+            },
+            {
+              "id": "step_hatsune_10",
+              "type": "save",
+              "content": "SAVE 7"
+            },
+            {
+              "id": "step_hatsune_11",
+              "type": "choice",
+              "content": "让她感到更加舒服"
+            },
+            {
+              "id": "step_hatsune_12",
+              "type": "choice",
+              "content": "从正面"
+            },
+            {
+              "id": "step_hatsune_14",
+              "type": "note",
+              "content": "CG 回收"
+            },
+            {
+              "id": "step_hatsune_15",
+              "type": "load",
+              "content": "LOAD 7"
+            },
+            {
+              "id": "step_hatsune_16",
+              "type": "choice",
+              "content": "让她感到舒服"
+            },
+            {
+              "id": "step_hatsune_17",
+              "type": "choice",
+              "content": "正面看着她的脸"
+            }
+          ]
+        },
+        {
+          "id": "ending_takako_end",
+          "name": "楼子 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_takako_01",
+              "type": "load",
+              "content": "LOAD 6"
+            },
+            {
+              "id": "step_takako_02",
+              "type": "choice",
+              "content": "婉言谢绝"
+            },
+            {
+              "id": "step_takako_03",
+              "type": "choice",
+              "content": "骑乘"
+            },
+            {
+              "id": "step_takako_05",
+              "type": "choice",
+              "content": "硬着头皮，买章鱼烧"
+            },
+            {
+              "id": "step_takako_06",
+              "type": "choice",
+              "content": "……也该拿出真本事了吧"
+            },
+            {
+              "id": "step_takako_08",
+              "type": "save",
+              "content": "SAVE 8"
+            },
+            {
+              "id": "step_takako_09",
+              "type": "choice",
+              "content": "接受"
+            },
+            {
+              "id": "step_takako_10",
+              "type": "choice",
+              "content": "出门前的吻别"
+            },
+            {
+              "id": "step_takako_11",
+              "type": "choice",
+              "content": "问一下"
+            },
+            {
+              "id": "step_takako_12",
+              "type": "save",
+              "content": "SAVE 9"
+            },
+            {
+              "id": "step_takako_13",
+              "type": "choice",
+              "content": "先好好地刺激一下好了"
+            },
+            {
+              "id": "step_takako_14",
+              "type": "note",
+              "content": "以下为CG 回收"
+            },
+            {
+              "id": "step_takako_15",
+              "type": "load",
+              "content": "LOAD 9"
+            },
+            {
+              "id": "step_takako_18",
+              "type": "choice",
+              "content": "其实是其他的女孩"
+            },
+            {
+              "id": "step_takako_19",
+              "type": "choice",
+              "content": "睡觉"
+            },
+            {
+              "id": "step_takako_20",
+              "type": "choice",
+              "content": "不知道"
+            },
+            {
+              "id": "step_takako_21",
+              "type": "choice",
+              "content": "前"
+            },
+            {
+              "id": "step_takako_22",
+              "type": "choice",
+              "content": "进去"
+            },
+            {
+              "id": "step_takako_23",
+              "type": "choice",
+              "content": "去房间"
+            },
+            {
+              "id": "step_takako_24",
+              "type": "choice",
+              "content": "不进去"
+            },
+            {
+              "id": "step_takako_25",
+              "type": "choice",
+              "content": "左"
+            },
+            {
+              "id": "step_takako_26",
+              "type": "choice",
+              "content": "右"
+            },
+            {
+              "id": "step_takako_28",
+              "type": "choice",
+              "content": "前"
+            }
+          ]
+        },
+        {
+          "id": "ending_kazuna_end",
+          "name": "和菜 END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_kazuna_01",
+              "type": "load",
+              "content": "LOAD 8"
+            },
+            {
+              "id": "step_kazuna_02",
+              "type": "choice",
+              "content": "拒绝"
+            },
+            {
+              "id": "step_kazuna_04",
+              "type": "save",
+              "content": "SAVE 10",
+              "subfix": "到 20 日立刻存档"
+            },
+            {
+              "id": "step_kazuna_05",
+              "type": "choice",
+              "content": "抱冬史"
+            }
+          ]
+        },
+        {
+          "id": "ending_true_end",
+          "name": "和菜 END2",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_true_01",
+              "type": "load",
+              "content": "LOAD 10",
+              "subfix": "到20日立刻存档"
+            },
+            {
+              "id": "step_true_02",
+              "type": "choice",
+              "content": "接纳和菜"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

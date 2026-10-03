@@ -1,0 +1,872 @@
+{
+  "vid": "v2968",
+  "name": {
+    "zh-cn": "架向星空之桥",
+    "ja-jp": "星空へ架かる橋",
+    "ja-Latn": "hoshizora-e-kakaru-hashi"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-15",
+  "routes": [
+    {
+      "id": "route_game_guide",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_common_end",
+          "name": "共通线 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_common_01",
+              "type": "choice",
+              "content": "主张自己的清白"
+            },
+            {
+              "id": "step_common_02",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_common_03",
+              "type": "choice",
+              "content": "拜托伊吹"
+            },
+            {
+              "id": "step_common_04",
+              "type": "choice",
+              "content": "出门去"
+            },
+            {
+              "id": "step_common_05",
+              "type": "choice",
+              "content": "在意"
+            },
+            {
+              "id": "step_common_06",
+              "type": "choice",
+              "content": "给日向吧"
+            },
+            {
+              "id": "step_common_07",
+              "type": "choice",
+              "content": "读推理小说"
+            },
+            {
+              "id": "step_common_08",
+              "type": "choice",
+              "content": "紬吧"
+            },
+            {
+              "id": "step_common_09",
+              "type": "choice",
+              "content": "日向在社团活动吧"
+            },
+            {
+              "id": "step_common_10",
+              "type": "choice",
+              "content": "说服她"
+            },
+            {
+              "id": "step_common_11",
+              "type": "choice",
+              "content": "出发吧"
+            },
+            {
+              "id": "step_common_12",
+              "type": "choice",
+              "content": "白组"
+            },
+            {
+              "id": "step_common_13",
+              "type": "choice",
+              "content": "紬的后面"
+            },
+            {
+              "id": "step_common_14",
+              "type": "choice",
+              "content": "知道了，我帮忙！"
+            },
+            {
+              "id": "step_common_15",
+              "type": "choice",
+              "content": "小和的伙伴/小和的对手"
+            },
+            {
+              "id": "step_common_16",
+              "type": "choice",
+              "content": "伊吹"
+            },
+            {
+              "id": "step_common_17",
+              "type": "choice",
+              "content": "和初组队"
+            },
+            {
+              "id": "step_common_18",
+              "type": "choice",
+              "content": "慎重地前行"
+            },
+            {
+              "id": "step_common_19",
+              "type": "choice",
+              "content": "女子校服"
+            },
+            {
+              "id": "step_common_20",
+              "type": "choice",
+              "content": "到下一回"
+            },
+            {
+              "id": "step_common_21",
+              "type": "choice",
+              "content": "日向的话……"
+            },
+            {
+              "id": "step_common_22",
+              "type": "choice",
+              "content": "那就拜托了"
+            },
+            {
+              "id": "step_common_23",
+              "type": "choice",
+              "content": "无可非议的掩饰一下"
+            },
+            {
+              "id": "step_common_24",
+              "type": "choice",
+              "content": "不偷窥不行啊"
+            },
+            {
+              "id": "step_common_25",
+              "type": "choice",
+              "content": "没有看到"
+            },
+            {
+              "id": "step_common_26",
+              "type": "choice",
+              "content": "到下一回"
+            },
+            {
+              "id": "step_common_27",
+              "type": "choice",
+              "content": "不一起回去吗？"
+            },
+            {
+              "id": "step_common_28",
+              "type": "choice",
+              "content": "帮忙"
+            },
+            {
+              "id": "step_common_29",
+              "type": "choice",
+              "content": "果断接受！"
+            },
+            {
+              "id": "step_common_30",
+              "type": "choice",
+              "content": "祈祷健康的护符"
+            },
+            {
+              "id": "step_common_31",
+              "type": "choice",
+              "content": "在梦中"
+            },
+            {
+              "id": "step_common_32",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_common_33",
+              "type": "choice",
+              "content": "在意重音"
+            },
+            {
+              "id": "step_common_34",
+              "type": "choice",
+              "content": "喜欢的曲子"
+            },
+            {
+              "id": "step_common_35",
+              "type": "choice",
+              "content": "坐在初和重音之间"
+            },
+            {
+              "id": "step_common_36",
+              "type": "choice",
+              "content": "点单"
+            },
+            {
+              "id": "step_common_37",
+              "type": "choice",
+              "content": "和小和一起去巡逻"
+            },
+            {
+              "id": "step_common_38",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_common_39",
+              "type": "choice",
+              "content": "待在她的身边"
+            },
+            {
+              "id": "step_common_40",
+              "type": "choice",
+              "content": "朝紬她们的方向走去"
+            },
+            {
+              "id": "step_common_41",
+              "type": "choice",
+              "content": "听初的建议"
+            },
+            {
+              "id": "step_common_42",
+              "type": "choice",
+              "content": "依赖日向"
+            },
+            {
+              "id": "step_common_43",
+              "type": "choice",
+              "content": "寻找初"
+            }
+          ]
+        },
+        {
+          "id": "ending_ibuki_end",
+          "name": "伊吹 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_ibuki_01",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_ibuki_02",
+              "type": "choice",
+              "content": "紧紧地抱住她"
+            },
+            {
+              "id": "step_ibuki_03",
+              "type": "choice",
+              "content": "朝紬她们的方向走去"
+            },
+            {
+              "id": "step_ibuki_04",
+              "type": "choice",
+              "content": "听初的建议"
+            },
+            {
+              "id": "step_ibuki_05",
+              "type": "choice",
+              "content": "依赖日向"
+            },
+            {
+              "id": "step_ibuki_06",
+              "type": "choice",
+              "content": "寻找日向"
+            }
+          ]
+        },
+        {
+          "id": "ending_tsumugi_end",
+          "name": "紬 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_tsumugi_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_tsumugi_02",
+              "type": "choice",
+              "content": "在意紬"
+            },
+            {
+              "id": "step_tsumugi_03",
+              "type": "choice",
+              "content": "1P侧扮演丈夫进行游戏"
+            },
+            {
+              "id": "step_tsumugi_04",
+              "type": "choice",
+              "content": "坐在紬和小和之间"
+            },
+            {
+              "id": "step_tsumugi_05",
+              "type": "choice",
+              "content": "尝尝哈尼塔"
+            },
+            {
+              "id": "step_tsumugi_06",
+              "type": "choice",
+              "content": "和小和一起去巡逻"
+            },
+            {
+              "id": "step_tsumugi_07",
+              "type": "choice",
+              "content": "待在她的身边"
+            },
+            {
+              "id": "step_tsumugi_08",
+              "type": "choice",
+              "content": "追上酒井学姐她们"
+            },
+            {
+              "id": "step_tsumugi_09",
+              "type": "choice",
+              "content": "听初的建议"
+            },
+            {
+              "id": "step_tsumugi_10",
+              "type": "choice",
+              "content": "信赖紬"
+            },
+            {
+              "id": "step_tsumugi_11",
+              "type": "choice",
+              "content": "寻找日向"
+            },
+            {
+              "id": "step_tsumugi_12",
+              "type": "choice",
+              "content": "连衣裙比较好"
+            },
+            {
+              "id": "step_tsumugi_13",
+              "type": "choice",
+              "content": "紬Q"
+            },
+            {
+              "id": "step_tsumugi_14",
+              "type": "choice",
+              "content": "夺走嘴唇"
+            },
+            {
+              "id": "step_tsumugi_16",
+              "type": "choice",
+              "content": "神社"
+            },
+            {
+              "id": "step_tsumugi_17",
+              "type": "choice",
+              "content": "公园"
+            },
+            {
+              "id": "step_tsumugi_18",
+              "type": "choice",
+              "content": "商店街"
+            }
+          ]
+        },
+        {
+          "id": "ending_kazu_end",
+          "name": "小和 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_kazu_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_kazu_02",
+              "type": "choice",
+              "content": "在意小和"
+            },
+            {
+              "id": "step_kazu_03",
+              "type": "choice",
+              "content": "使用汉字的类型"
+            },
+            {
+              "id": "step_kazu_04",
+              "type": "choice",
+              "content": "坐在紬和小和之间"
+            },
+            {
+              "id": "step_kazu_05",
+              "type": "choice",
+              "content": "认真听歌"
+            },
+            {
+              "id": "step_kazu_06",
+              "type": "choice",
+              "content": "和小和一起去巡逻"
+            },
+            {
+              "id": "step_kazu_07",
+              "type": "choice",
+              "content": "待在她的身边"
+            },
+            {
+              "id": "step_kazu_08",
+              "type": "choice",
+              "content": "和円佳打招呼"
+            },
+            {
+              "id": "step_kazu_09",
+              "type": "choice",
+              "content": "听酒井学姐的建议"
+            },
+            {
+              "id": "step_kazu_10",
+              "type": "choice",
+              "content": "依赖小和"
+            },
+            {
+              "id": "step_kazu_11",
+              "type": "choice",
+              "content": "寻找小和"
+            },
+            {
+              "id": "step_kazu_12",
+              "type": "choice",
+              "content": "收下"
+            }
+          ]
+        },
+        {
+          "id": "ending_hatsu_end",
+          "name": "初 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_hatsu_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_hatsu_02",
+              "type": "choice",
+              "content": "拜托初"
+            },
+            {
+              "id": "step_hatsu_03",
+              "type": "choice",
+              "content": "出门去"
+            },
+            {
+              "id": "step_hatsu_04",
+              "type": "choice",
+              "content": "离去"
+            },
+            {
+              "id": "step_hatsu_05",
+              "type": "choice",
+              "content": "交给酒井前辈"
+            },
+            {
+              "id": "step_hatsu_06",
+              "type": "choice",
+              "content": "看少女漫画"
+            },
+            {
+              "id": "step_hatsu_07",
+              "type": "choice",
+              "content": "酒井前辈吧"
+            },
+            {
+              "id": "step_hatsu_08",
+              "type": "choice",
+              "content": "初在做什么呢"
+            },
+            {
+              "id": "step_hatsu_09",
+              "type": "choice",
+              "content": "接吻就是接吻了"
+            },
+            {
+              "id": "step_hatsu_10",
+              "type": "choice",
+              "content": "把东西还给她"
+            },
+            {
+              "id": "step_hatsu_11",
+              "type": "choice",
+              "content": "再休息一会儿"
+            },
+            {
+              "id": "step_hatsu_12",
+              "type": "choice",
+              "content": "红组"
+            },
+            {
+              "id": "step_hatsu_13",
+              "type": "choice",
+              "content": "我爱你！"
+            },
+            {
+              "id": "step_hatsu_14",
+              "type": "choice",
+              "content": "总之给她助威吧！"
+            },
+            {
+              "id": "step_hatsu_15",
+              "type": "choice",
+              "content": "一直好好看着的"
+            },
+            {
+              "id": "step_hatsu_16",
+              "type": "choice",
+              "content": "円佳"
+            },
+            {
+              "id": "step_hatsu_17",
+              "type": "choice",
+              "content": "和酒井前辈组队"
+            },
+            {
+              "id": "step_hatsu_18",
+              "type": "choice",
+              "content": "询问原因"
+            },
+            {
+              "id": "step_hatsu_19",
+              "type": "choice",
+              "content": "女仆装"
+            },
+            {
+              "id": "step_hatsu_20",
+              "type": "choice",
+              "content": "紬学姐吧"
+            },
+            {
+              "id": "step_hatsu_21",
+              "type": "choice",
+              "content": "还是让她自己起来吧"
+            },
+            {
+              "id": "step_hatsu_22",
+              "type": "choice",
+              "content": "无可非议地掩饰一下"
+            },
+            {
+              "id": "step_hatsu_23",
+              "type": "choice",
+              "content": "没办法还是偷窥吧"
+            },
+            {
+              "id": "step_hatsu_24",
+              "type": "choice",
+              "content": "对不起"
+            },
+            {
+              "id": "step_hatsu_25",
+              "type": "choice",
+              "content": "稍微绕点远吧"
+            },
+            {
+              "id": "step_hatsu_26",
+              "type": "choice",
+              "content": "不去"
+            },
+            {
+              "id": "step_hatsu_27",
+              "type": "choice",
+              "content": "离开"
+            },
+            {
+              "id": "step_hatsu_28",
+              "type": "choice",
+              "content": "美好姻缘的护符"
+            },
+            {
+              "id": "step_hatsu_29",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_hatsu_30",
+              "type": "choice",
+              "content": "在意初"
+            },
+            {
+              "id": "step_hatsu_31",
+              "type": "choice",
+              "content": "直接让初上"
+            },
+            {
+              "id": "step_hatsu_32",
+              "type": "choice",
+              "content": "坐在初和重音之间"
+            },
+            {
+              "id": "step_hatsu_33",
+              "type": "choice",
+              "content": "选曲"
+            },
+            {
+              "id": "step_hatsu_34",
+              "type": "choice",
+              "content": "和小和一起巡逻"
+            },
+            {
+              "id": "step_hatsu_35",
+              "type": "choice",
+              "content": "待在她的身边"
+            },
+            {
+              "id": "step_hatsu_36",
+              "type": "choice",
+              "content": "朝紬她们的方向走去"
+            },
+            {
+              "id": "step_hatsu_37",
+              "type": "choice",
+              "content": "听初的建议"
+            },
+            {
+              "id": "step_hatsu_38",
+              "type": "choice",
+              "content": "依赖日向"
+            },
+            {
+              "id": "step_hatsu_39",
+              "type": "choice",
+              "content": "寻找初"
+            },
+            {
+              "id": "step_hatsu_40",
+              "type": "choice",
+              "content": "不是那样的……！"
+            },
+            {
+              "id": "step_hatsu_41",
+              "type": "choice",
+              "content": "拉住她的手"
+            },
+            {
+              "id": "step_hatsu_42",
+              "type": "choice",
+              "content": "人家"
+            },
+            {
+              "id": "step_hatsu_43",
+              "type": "choice",
+              "content": "兄长大人"
+            },
+            {
+              "id": "step_hatsu_44",
+              "type": "choice",
+              "content": "那个时候的初 其1"
+            },
+            {
+              "id": "step_hatsu_45",
+              "type": "choice",
+              "content": "那个时候的初 其2"
+            },
+            {
+              "id": "step_hatsu_46",
+              "type": "choice",
+              "content": "那个时候的初 其3"
+            },
+            {
+              "id": "step_hatsu_47",
+              "type": "choice",
+              "content": "那个时候的初 其4"
+            },
+            {
+              "id": "step_hatsu_49",
+              "type": "choice",
+              "content": "要回到都市里去了"
+            },
+            {
+              "id": "step_hatsu_50",
+              "type": "choice",
+              "content": "神社"
+            },
+            {
+              "id": "step_hatsu_51",
+              "type": "choice",
+              "content": "商店街"
+            },
+            {
+              "id": "step_hatsu_52",
+              "type": "choice",
+              "content": "咖啡店"
+            }
+          ]
+        },
+        {
+          "id": "ending_hina_end",
+          "name": "阳菜 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_hina_01",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_hina_02",
+              "type": "choice",
+              "content": "在意阳菜"
+            },
+            {
+              "id": "step_hina_03",
+              "type": "choice",
+              "content": "旁边的斑点猫"
+            },
+            {
+              "id": "step_hina_04",
+              "type": "choice",
+              "content": "坐在阳菜和円佳之间"
+            },
+            {
+              "id": "step_hina_05",
+              "type": "choice",
+              "content": "一起选歌"
+            },
+            {
+              "id": "step_hina_06",
+              "type": "choice",
+              "content": "和小和一起去巡逻"
+            },
+            {
+              "id": "step_hina_07",
+              "type": "choice",
+              "content": "待在她的身边"
+            },
+            {
+              "id": "step_hina_08",
+              "type": "choice",
+              "content": "追上酒井学姐她们"
+            },
+            {
+              "id": "step_hina_09",
+              "type": "choice",
+              "content": "听酒井学姐的建议"
+            },
+            {
+              "id": "step_hina_10",
+              "type": "choice",
+              "content": "依赖步"
+            },
+            {
+              "id": "step_hina_11",
+              "type": "choice",
+              "content": "寻找小和"
+            },
+            {
+              "id": "step_hina_12",
+              "type": "choice",
+              "content": "我岂能视之不顾"
+            },
+            {
+              "id": "step_hina_13",
+              "type": "choice",
+              "content": "亲上去"
+            },
+            {
+              "id": "step_hina_14",
+              "type": "choice",
+              "content": "最近还好么？"
+            },
+            {
+              "id": "step_hina_15",
+              "type": "choice",
+              "content": "虽然我们之间的关系确实很特殊"
+            },
+            {
+              "id": "step_hina_16",
+              "type": "choice",
+              "content": "要去约会么？"
+            },
+            {
+              "id": "step_hina_18",
+              "type": "choice",
+              "content": "昨天的事"
+            }
+          ]
+        },
+        {
+          "id": "ending_enga_end",
+          "name": "円佳 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_enga_01",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_enga_02",
+              "type": "choice",
+              "content": "在意円佳"
+            },
+            {
+              "id": "step_enga_03",
+              "type": "choice",
+              "content": "看"
+            },
+            {
+              "id": "step_enga_04",
+              "type": "choice",
+              "content": "坐在阳菜和円佳之间"
+            },
+            {
+              "id": "step_enga_05",
+              "type": "choice",
+              "content": "一起选哈尼塔"
+            },
+            {
+              "id": "step_enga_06",
+              "type": "choice",
+              "content": "和円佳一起回家"
+            },
+            {
+              "id": "step_enga_07",
+              "type": "choice",
+              "content": "后面走着"
+            },
+            {
+              "id": "step_enga_08",
+              "type": "choice",
+              "content": "待在她的身边"
+            },
+            {
+              "id": "step_enga_09",
+              "type": "choice",
+              "content": "和円佳打招呼"
+            },
+            {
+              "id": "step_enga_10",
+              "type": "choice",
+              "content": "听円佳的建议"
+            },
+            {
+              "id": "step_enga_11",
+              "type": "choice",
+              "content": "依赖日向"
+            },
+            {
+              "id": "step_enga_12",
+              "type": "choice",
+              "content": "寻找初"
+            },
+            {
+              "id": "step_enga_14",
+              "type": "choice",
+              "content": "这是现实"
+            },
+            {
+              "id": "step_enga_15",
+              "type": "choice",
+              "content": "牵手"
+            },
+            {
+              "id": "step_enga_18",
+              "type": "choice",
+              "content": "无视大吾"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

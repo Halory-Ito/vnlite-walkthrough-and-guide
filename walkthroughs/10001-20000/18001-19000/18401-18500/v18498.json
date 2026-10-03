@@ -1,0 +1,453 @@
+{
+  "vid": "v18498",
+  "name": {
+    "zh-cn": "ISLAND",
+    "en-us": "ISLAND",
+    "ja-jp": "ISLAND",
+    "ja-Latn": "island"
+  },
+  "level": 2,
+  "updatedAt": "2026-02-27",
+  "tips": [
+    "★为追加选项，不出现时无视即可",
+    "()标记的选项为flow chart回收用，请之后自行选择"
+  ],
+  "routes": [
+    {
+      "id": "route_1755173244950",
+      "name": "枢都 夏莲",
+      "endings": [
+        {
+          "id": "ending_1755173320274",
+          "name": "夏莲 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755423725887",
+              "type": "note",
+              "content": "■夏篇路线"
+            },
+            {
+              "id": "step_1755173672236",
+              "type": "choice",
+              "content": "左边!",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1755173678532",
+              "type": "choice",
+              "content": "凛音",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1755173678710",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1755173690595",
+              "type": "choice",
+              "content": "......切那"
+            },
+            {
+              "id": "step_1755173697467",
+              "type": "choice",
+              "content": "我是三千界切那, 请多指教 (说说看我的名字啊)(可别迷上我哦)"
+            },
+            {
+              "id": "step_1755173709349",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1755173715633",
+              "type": "choice",
+              "content": "准备[对时间旅行者装备]"
+            },
+            {
+              "id": "step_1755173717894",
+              "type": "choice",
+              "content": "凛音很可爱 (纱罗我老婆)(独爱夏莲)"
+            },
+            {
+              "id": "step_1755173813113",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_1755173818750",
+              "type": "choice",
+              "content": "放弃使命"
+            },
+            {
+              "id": "step_1755173819020",
+              "type": "choice",
+              "content": "进行时间旅行(寻找粘合剂)"
+            },
+            {
+              "id": "step_1755173832472",
+              "type": "choice",
+              "content": "按2小时的节奏讲(按3部构成的节奏讲)"
+            },
+            {
+              "id": "step_1755173832937",
+              "type": "choice",
+              "content": "攻略玖音(别异想天开了)"
+            },
+            {
+              "id": "step_1755173860914",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_1755173867121",
+              "type": "choice",
+              "content": "与夏莲和纱罗一起去游泳"
+            },
+            {
+              "id": "step_1755173872893",
+              "type": "save",
+              "content": "SAVE 5"
+            },
+            {
+              "id": "step_1755173880019",
+              "type": "choice",
+              "content": "在这个岛上找到真正的自己"
+            },
+            {
+              "id": "step_1755173880231",
+              "type": "choice",
+              "content": "我是这个时代的人"
+            },
+            {
+              "id": "step_1755173888050",
+              "type": "save",
+              "content": "SAVE 6"
+            },
+            {
+              "id": "step_1755173896882",
+              "type": "choice",
+              "content": "接受现在"
+            },
+            {
+              "id": "step_1755423978382",
+              "type": "note",
+              "content": "■夏莲路线"
+            },
+            {
+              "id": "step_1755424001966",
+              "type": "save",
+              "content": "SAVE 7"
+            },
+            {
+              "id": "step_1755424003946",
+              "type": "choice",
+              "content": "抱歉(我错了)(对不起)"
+            },
+            {
+              "id": "step_1755424005154",
+              "type": "save",
+              "content": "SAVE 8"
+            },
+            {
+              "id": "step_1755424006804",
+              "type": "choice",
+              "content": "昨天的事"
+            },
+            {
+              "id": "step_1755424007132",
+              "type": "choice",
+              "content": "因为我喜欢你(因为我迷上你了)(因为我爱你)"
+            },
+            {
+              "id": "step_1755424007493",
+              "type": "choice",
+              "content": "和我交往吧 (一起离开这座岛吧)(去说服你父亲吧)"
+            },
+            {
+              "id": "step_1755424008854",
+              "type": "choice",
+              "content": "我喜欢夏莲"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755174656769",
+      "name": "伽蓝堂 纱罗",
+      "endings": [
+        {
+          "id": "ending_1755174659007",
+          "name": "纱罗 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755174661220",
+              "type": "load",
+              "content": "LOAD 6"
+            },
+            {
+              "id": "step_1755174698139",
+              "type": "choice",
+              "content": "我是从未来来的"
+            },
+            {
+              "id": "step_1755174702944",
+              "type": "save",
+              "content": "SAVE 9"
+            },
+            {
+              "id": "step_1755174991410",
+              "type": "choice",
+              "content": "保持沉默"
+            },
+            {
+              "id": "step_1755174993054",
+              "type": "save",
+              "content": "SAVE 10"
+            },
+            {
+              "id": "step_1755175001361",
+              "type": "choice",
+              "content": "无法为纱罗而死"
+            },
+            {
+              "id": "step_1755175004571",
+              "type": "save",
+              "content": "SAVE 11"
+            },
+            {
+              "id": "step_1755175008926",
+              "type": "choice",
+              "content": "拭去纱罗的眼泪"
+            },
+            {
+              "id": "step_1755175012214",
+              "type": "save",
+              "content": "SAVE 12"
+            },
+            {
+              "id": "step_1755175017175",
+              "type": "choice",
+              "content": "无法保持沉默"
+            },
+            {
+              "id": "step_1755175018706",
+              "type": "save",
+              "content": "SAVE 13"
+            },
+            {
+              "id": "step_1755175031007",
+              "type": "choice",
+              "content": "※空白的选项"
+            },
+            {
+              "id": "step_1755175037821",
+              "type": "choice",
+              "content": "……好(…………)"
+            },
+            {
+              "id": "step_1755175068293",
+              "type": "save",
+              "content": "SAVE 14"
+            },
+            {
+              "id": "step_1755175075579",
+              "type": "choice",
+              "content": "和纱罗一起死"
+            },
+            {
+              "id": "step_1755175075879",
+              "type": "choice",
+              "content": "纱罗"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755424302392",
+      "name": "御原 凛音",
+      "endings": [
+        {
+          "id": "ending_1755424310938",
+          "name": "凛音 END 1",
+          "type": "normal",
+          "requirements": "※以上2人攻略完毕后",
+          "steps": [
+            {
+              "id": "step_1755424330965",
+              "type": "load",
+              "content": "LOAD 5"
+            },
+            {
+              "id": "step_1755424335287",
+              "type": "choice",
+              "content": "我已经找到了真正的自己"
+            },
+            {
+              "id": "step_1755424336176",
+              "type": "note",
+              "content": "■凛音路线"
+            },
+            {
+              "id": "step_1755424339029",
+              "type": "choice",
+              "content": "……我就是切那(……我不是切那)"
+            },
+            {
+              "id": "step_1755424339373",
+              "type": "choice",
+              "content": "并不存在(我不知道)(我见证过奇迹)"
+            },
+            {
+              "id": "step_1755424339771",
+              "type": "choice",
+              "content": "要一样的(干脆来份柠檬味的)(烤玉米)"
+            },
+            {
+              "id": "step_1755424340291",
+              "type": "choice",
+              "content": "重新阅读(不去在意)"
+            },
+            {
+              "id": "step_1755424341048",
+              "type": "choice",
+              "content": "「……………………………………」上 (「……………………………………」中) (「……………………………………」中)"
+            },
+            {
+              "id": "step_1755424343088",
+              "type": "choice",
+              "content": "没错(不是的)(我不知道)"
+            },
+            {
+              "id": "step_1755424343511",
+              "type": "choice",
+              "content": "胸部(屁股)"
+            },
+            {
+              "id": "step_1755424509910",
+              "type": "note",
+              "content": "※ 标题画面会变为 NEVER ISLAND"
+            },
+            {
+              "id": "step_1755424511307",
+              "type": "choice",
+              "content": "从最初开始"
+            },
+            {
+              "id": "step_1755424512312",
+              "type": "note",
+              "content": "■冬篇路线"
+            }
+          ]
+        },
+        {
+          "id": "ending_1755424464347",
+          "name": "凛音 END 2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755424547654",
+              "type": "choice",
+              "content": "从最初开始"
+            },
+            {
+              "id": "step_1755424549256",
+              "type": "note",
+              "content": "■夏篇路线"
+            },
+            {
+              "id": "step_1755424551031",
+              "type": "save",
+              "content": "SAVE 15"
+            },
+            {
+              "id": "step_1755424552556",
+              "type": "choice",
+              "content": "★左边！"
+            },
+            {
+              "id": "step_1755424553060",
+              "type": "choice",
+              "content": "★Rinne"
+            },
+            {
+              "id": "step_1755424554441",
+              "type": "note",
+              "content": "■真夏篇路线"
+            },
+            {
+              "id": "step_1755424557861",
+              "type": "choice",
+              "content": "可她也是有苦衷的 (的确是很麻烦)(你究竟有什么苦衷呢？)"
+            },
+            {
+              "id": "step_1755424559206",
+              "type": "choice",
+              "content": "13岁(4岁)(7岁)"
+            },
+            {
+              "id": "step_1755424560482",
+              "type": "choice",
+              "content": "「切那？」(「Setsuna？」)(「妈妈？」)"
+            },
+            {
+              "id": "step_1755424561141",
+              "type": "choice",
+              "content": "御原家的长子 (我)(传说中的人物)"
+            },
+            {
+              "id": "step_1755424561753",
+              "type": "choice",
+              "content": "并非御原家的血脉 (患有煤纹病)(没有父母)"
+            },
+            {
+              "id": "step_1755424564006",
+              "type": "save",
+              "content": "SAVE 16"
+            },
+            {
+              "id": "step_1755424565684",
+              "type": "choice",
+              "content": "一定要让凛音幸福"
+            }
+          ]
+        },
+        {
+          "id": "ending_1755424706549",
+          "name": "『Re：』",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_1755424716982",
+              "type": "load",
+              "content": "LOAD 16"
+            },
+            {
+              "id": "step_1755424721718",
+              "type": "choice",
+              "content": "一定要让Rinne幸福"
+            },
+            {
+              "id": "step_1755424722227",
+              "type": "choice",
+              "content": "凛音来自未来"
+            },
+            {
+              "id": "step_1755424725099",
+              "type": "choice",
+              "content": "凛音没有父亲"
+            },
+            {
+              "id": "step_1755424725342",
+              "type": "choice",
+              "content": "弄混的人是玖音"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

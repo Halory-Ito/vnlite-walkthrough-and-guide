@@ -1,0 +1,195 @@
+{
+  "vid": "v701",
+  "name": {
+    "zh-cn": "夏空彼方",
+    "ja-jp": "夏空カナタ",
+    "ja-Latn": "natsuzora-kanata"
+  },
+  "level": 2,
+  "updatedAt": "2026-02-27",
+  "routes": [
+    {
+      "id": "route_1748787223039",
+      "name": "上坂 茅羽耶",
+      "endings": [
+        {
+          "id": "ending_1748787242706",
+          "name": "茅羽耶 END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1748787268823",
+              "type": "choice",
+              "content": "接受好意"
+            },
+            {
+              "id": "step_1748787269001",
+              "type": "choice",
+              "content": "答应"
+            },
+            {
+              "id": "step_1748787269195",
+              "type": "choice",
+              "content": "在意"
+            },
+            {
+              "id": "step_1748787303243",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1748787425611",
+              "type": "choice",
+              "content": "先寻找那两个人"
+            },
+            {
+              "id": "step_1748787451161",
+              "type": "choice",
+              "content": "嘴里/外面"
+            },
+            {
+              "id": "step_1748787452977",
+              "type": "choice",
+              "content": "里面/外面"
+            },
+            {
+              "id": "step_1748787453401",
+              "type": "choice",
+              "content": "嘴里/外面"
+            },
+            {
+              "id": "step_1748787453771",
+              "type": "choice",
+              "content": "里面/外面"
+            },
+            {
+              "id": "step_1748787586995",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1748787591999",
+              "type": "choice",
+              "content": "忍耐"
+            }
+          ]
+        },
+        {
+          "id": "ending_1748787646564",
+          "name": "茅羽耶 END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1748787661006",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1748787670944",
+              "type": "choice",
+              "content": "抱紧她"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1748787688782",
+      "name": "三好 由比子",
+      "endings": [
+        {
+          "id": "ending_1748787705257",
+          "name": "由比子 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1748787849774",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1748787857044",
+              "type": "choice",
+              "content": "寻找由比子"
+            },
+            {
+              "id": "step_1748787857270",
+              "type": "choice",
+              "content": "里面/外面"
+            },
+            {
+              "id": "step_1748787857552",
+              "type": "choice",
+              "content": "嘴里/外面"
+            },
+            {
+              "id": "step_1748787857942",
+              "type": "choice",
+              "content": "里面/外面"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1748787986424",
+      "name": "七条 沙沙罗",
+      "endings": [
+        {
+          "id": "ending_1748788013390",
+          "name": "沙沙罗 END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1748788049210",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1748788050154",
+              "type": "choice",
+              "content": "一个人四处逛逛"
+            },
+            {
+              "id": "step_1748788066942",
+              "type": "choice",
+              "content": "里面/外面"
+            },
+            {
+              "id": "step_1748788067644",
+              "type": "choice",
+              "content": "嘴里/外面"
+            },
+            {
+              "id": "step_1748788068043",
+              "type": "choice",
+              "content": "外面"
+            },
+            {
+              "id": "step_1748788069046",
+              "type": "save",
+              "content": "SAVE 3"
+            }
+          ]
+        },
+        {
+          "id": "ending_1748788220110",
+          "name": "沙沙罗 END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1748788238756",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1748788247944",
+              "type": "choice",
+              "content": "里面"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

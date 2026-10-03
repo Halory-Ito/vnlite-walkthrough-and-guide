@@ -1,0 +1,105 @@
+{
+  "vid": "v10597",
+  "name": {
+    "zh-cn": "夏空的英仙座",
+    "ja-jp": "夏空のペルセウス",
+    "ja-Latn": "natsuzora-no-perseus"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-12",
+  "tips": [
+    "其他3人全部攻略完毕后才可攻略透香",
+    "二周目攻略透香时，★选项才会出现"
+  ],
+  "routes": [
+    {
+      "id": "route_1756107532729",
+      "name": "远野 恋",
+      "endings": [
+        {
+          "id": "ending_1756107580330",
+          "name": "恋 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756107596344",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1756107596937",
+              "type": "choice",
+              "content": "花圃"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756107535224",
+      "name": "皆川 翠",
+      "endings": [
+        {
+          "id": "ending_1756107609211",
+          "name": "翠 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756107611717",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1756107612368",
+              "type": "choice",
+              "content": "沢"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756107540061",
+      "name": "菱田 菖蒲",
+      "endings": [
+        {
+          "id": "ending_1756107626730",
+          "name": "菖蒲 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756107631378",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1756107633205",
+              "type": "choice",
+              "content": "图书馆"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756107547383",
+      "name": "泽渡 透香",
+      "endings": [
+        {
+          "id": "ending_1756107647693",
+          "name": "透香 END",
+          "type": "normal",
+          "requirements": "3人攻略完毕后，标题画面开始新游戏",
+          "steps": [
+            {
+              "id": "step_1756107652856",
+              "type": "choice",
+              "content": "望楼",
+              "prefix": "★"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

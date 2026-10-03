@@ -1,0 +1,250 @@
+{
+  "vid": "v24110",
+  "name": {
+    "zh-cn": "流星世界演绎者",
+    "en-us": "Meteor World Actor",
+    "ja-jp": "流星ワールドアクター",
+    "ja-Latn": "ryuusei-world-actor"
+  },
+  "level": 2,
+  "updatedAt": "2026-03-10",
+  "tips": [
+    "克拉丽丝在完成其他3人的路线后可攻略",
+    "☆为克拉丽丝可攻略后出现的附加选项",
+    "★为有时间限制的选项，请尽快做出选择，如错过请使用返回到上一个选项的功能，请随时保存"
+  ],
+  "routes": [
+    {
+      "id": "route_1773145092158",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1773145290363",
+          "name": "四之宫 小町",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1773145540340",
+              "type": "choice",
+              "content": "伸入火焰里"
+            },
+            {
+              "id": "step_1773145540537",
+              "type": "choice",
+              "content": "认真地工作"
+            },
+            {
+              "id": "step_1773145540773",
+              "type": "choice",
+              "content": "去交通课"
+            },
+            {
+              "id": "step_1773145541441",
+              "type": "choice",
+              "content": "起床"
+            },
+            {
+              "id": "step_1773145543225",
+              "type": "choice",
+              "content": "开玩笑"
+            },
+            {
+              "id": "step_1773145543649",
+              "type": "choice",
+              "content": "无法选择选择的选项",
+              "prefix": "※"
+            },
+            {
+              "id": "step_1773145543949",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1773145597786",
+              "type": "choice",
+              "content": "走掉"
+            },
+            {
+              "id": "step_1773145603889",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1773145609439",
+              "type": "choice",
+              "content": "稍微再观察一下情况"
+            },
+            {
+              "id": "step_1773145613250",
+              "type": "choice",
+              "content": "不再继续聊下去",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_1773145613431",
+              "type": "choice",
+              "content": "不挂电话",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1773145636518",
+              "type": "choice",
+              "content": "小町"
+            },
+            {
+              "id": "step_1773145638830",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_1773145655355",
+              "type": "choice",
+              "content": "和小町接吻"
+            },
+            {
+              "id": "step_1773145663115",
+              "type": "choice",
+              "content": "不躲开",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1773145813859",
+              "type": "choice",
+              "content": "闯入浴室"
+            }
+          ]
+        },
+        {
+          "id": "ending_1773145291391",
+          "name": "梅尔",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1773145831466",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1773145834397",
+              "type": "choice",
+              "content": "放开小町"
+            },
+            {
+              "id": "step_1773145838246",
+              "type": "save",
+              "content": "SAVE 4",
+              "subfix": "※选项出现前"
+            },
+            {
+              "id": "step_1773145898116",
+              "type": "choice",
+              "content": "让梅尔留在这",
+              "prefix": "★"
+            }
+          ]
+        },
+        {
+          "id": "ending_1773145291580",
+          "name": "梅尔",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_1773145990959",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_1773145996049",
+              "type": "choice",
+              "content": "让梅尔走",
+              "prefix": "★"
+            }
+          ]
+        },
+        {
+          "id": "ending_1773145291886",
+          "name": "希凤",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1773146026394",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1773146028348",
+              "type": "choice",
+              "content": "再稍微聊一聊"
+            },
+            {
+              "id": "step_1773146028574",
+              "type": "choice",
+              "content": "救她"
+            },
+            {
+              "id": "step_1773146034107",
+              "type": "choice",
+              "content": "不再继续聊下去",
+              "prefix": "☆"
+            }
+          ]
+        },
+        {
+          "id": "ending_1773146275137",
+          "name": "克拉丽丝",
+          "type": "normal",
+          "requirements": "※3人END后",
+          "steps": [
+            {
+              "id": "step_1773146287040",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1773146292370",
+              "type": "choice",
+              "content": "稍微再观察一下情况"
+            },
+            {
+              "id": "step_1773146295744",
+              "type": "choice",
+              "content": "再稍微聊一下这个话题",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_1773146303893",
+              "type": "choice",
+              "content": "挂电话",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1773146313347",
+              "type": "choice",
+              "content": "克拉丽丝"
+            },
+            {
+              "id": "step_1773146314652",
+              "type": "choice",
+              "content": "小町"
+            },
+            {
+              "id": "step_1773146329985",
+              "type": "note",
+              "content": "※完成前面的路线后从标题开始"
+            },
+            {
+              "id": "step_1773146333799",
+              "type": "choice",
+              "content": "【EPILOGUE】开始"
+            },
+            {
+              "id": "step_1773146339333",
+              "type": "choice",
+              "content": "END"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

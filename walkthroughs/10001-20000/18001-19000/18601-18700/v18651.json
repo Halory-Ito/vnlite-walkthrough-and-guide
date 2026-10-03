@@ -1,0 +1,111 @@
+{
+  "vid": "v18651",
+  "name": {
+    "zh-cn": "编织时间的约定",
+    "ja-jp": "時を紡ぐ約束",
+    "ja-Latn": "toki-o-tsumugu-yakusoku"
+  },
+  "level": 2,
+  "updatedAt": "2026-05-12",
+  "tips": [
+    "其他3人攻略后，才可攻略美咲"
+  ],
+  "routes": [
+    {
+      "id": "route_game",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_koharu",
+          "name": "水野心春 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_koharu_01",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_koharu_02",
+              "type": "choice",
+              "content": "去跟 水野 搭话"
+            }
+          ]
+        },
+        {
+          "id": "ending_honoka",
+          "name": "碓氷穂乃香 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_honoka_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_honoka_02",
+              "type": "choice",
+              "content": "去跟 碓氷前辈 搭话"
+            }
+          ]
+        },
+        {
+          "id": "ending_yui",
+          "name": "沢村唯依 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_yui_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_yui_02",
+              "type": "choice",
+              "content": "去跟 唯依酱 搭话"
+            },
+            {
+              "id": "step_yui_03",
+              "type": "choice",
+              "content": "读/不读"
+            }
+          ]
+        },
+        {
+          "id": "ending_misaki",
+          "name": "神宮美咲 END",
+          "type": "normal",
+          "requirements": "其他3人攻略后",
+          "steps": [
+            {
+              "id": "step_misaki_02",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_misaki_03",
+              "type": "choice",
+              "content": "回去工作"
+            },
+            {
+              "id": "step_misaki_04",
+              "type": "choice",
+              "content": "是",
+              "prefix": "★"
+            },
+            {
+              "id": "step_misaki_05",
+              "type": "choice",
+              "content": "把眼镜摘下来吧/戴着眼镜也不错啊"
+            },
+            {
+              "id": "step_misaki_06",
+              "type": "choice",
+              "content": "仔细看/随便看看"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

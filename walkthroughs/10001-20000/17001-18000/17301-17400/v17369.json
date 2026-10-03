@@ -1,0 +1,172 @@
+{
+  "vid": "v17369",
+  "name": {
+    "zh-cn": "从此开始的夏之纯真！",
+    "ja-jp": "ここから夏のイノセンス！",
+    "ja-Latn": "koko-kara-natsu-no-innocence"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-14",
+  "routes": [
+    {
+      "id": "route_game_guide",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_arika_end",
+          "name": "亚里香 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_arika_01",
+              "type": "choice",
+              "content": "今天要笑着过"
+            },
+            {
+              "id": "step_arika_02",
+              "type": "choice",
+              "content": "别管了！"
+            },
+            {
+              "id": "step_arika_03",
+              "type": "choice",
+              "content": "继续夸奖亚里香"
+            },
+            {
+              "id": "step_arika_04",
+              "type": "choice",
+              "content": "总觉得安心下来了"
+            },
+            {
+              "id": "step_arika_05",
+              "type": "choice",
+              "content": "我今天也想多聊聊"
+            },
+            {
+              "id": "step_arika_06",
+              "type": "choice",
+              "content": "先夸伊吕波"
+            },
+            {
+              "id": "step_arika_07",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_arika_08",
+              "type": "choice",
+              "content": "向两位未来人确认"
+            },
+            {
+              "id": "step_arika_09",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_arika_10",
+              "type": "choice",
+              "content": "不管多少都能夸个不停"
+            }
+          ]
+        },
+        {
+          "id": "ending_yuno_end",
+          "name": "优乃 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_yuno_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_yuno_02",
+              "type": "choice",
+              "content": "不过你可别误会了"
+            }
+          ]
+        },
+        {
+          "id": "ending_iroha_end",
+          "name": "伊吕波 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_iroha_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_iroha_02",
+              "type": "choice",
+              "content": "向这个时代的女孩子确认"
+            },
+            {
+              "id": "step_iroha_03",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_iroha_04",
+              "type": "choice",
+              "content": "让伊吕波等一下"
+            },
+            {
+              "id": "step_iroha_05",
+              "type": "choice",
+              "content": "既然这样也没办法"
+            }
+          ]
+        },
+        {
+          "id": "ending_hisashi_end",
+          "name": "寿 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_hisashi_01",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_hisashi_02",
+              "type": "choice",
+              "content": "一起回家还是下次吧"
+            },
+            {
+              "id": "step_hisashi_03",
+              "type": "choice",
+              "content": "我也想让你听听"
+            }
+          ]
+        },
+        {
+          "id": "ending_benio_end",
+          "name": "红绪 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_benio_01",
+              "type": "note",
+              "content": "SUB STORY选择红绪路线",
+              "prefix": "■"
+            }
+          ]
+        },
+        {
+          "id": "ending_claretta_end",
+          "name": "克拉蕾塔 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_claretta_01",
+              "type": "note",
+              "content": "SUB STORY选择克拉蕾塔路线",
+              "prefix": "■"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "vid": "v11071",
+  "name": {
+    "zh-cn": "美少女万华镜 -勿忘草与永远的少女-",
+    "ja-jp": "美少女万華鏡 -忘れな草と永遠の少女-",
+    "ja-Latn": "bishoujo-mangekyou-wasurenagusa-to-eien-no-shoujo"
+  },
+  "level": 2,
+  "updatedAt": "2026-02-27",
+  "routes": [
+    {
+      "id": "route_1748068490835",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1748068493301",
+          "name": "雫 END 1",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_1748068517603",
+              "type": "choice",
+              "content": "里面/外面"
+            },
+            {
+              "id": "step_1748068586016",
+              "type": "choice",
+              "content": "肛门里/外面"
+            },
+            {
+              "id": "step_1748068619667",
+              "type": "choice",
+              "content": "自己的壶"
+            },
+            {
+              "id": "step_1748068676108",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1748068697665",
+              "type": "choice",
+              "content": "推开她"
+            }
+          ]
+        },
+        {
+          "id": "ending_1748068820769",
+          "name": "雫 END 2",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_1748068846665",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1748068854567",
+              "type": "choice",
+              "content": "抱住她"
+            },
+            {
+              "id": "step_1748068925787",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1748068944051",
+              "type": "choice",
+              "content": "和惠再一起待会"
+            },
+            {
+              "id": "step_1748068960483",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_1748068964763",
+              "type": "choice",
+              "content": "有"
+            }
+          ]
+        },
+        {
+          "id": "ending_1748068996421",
+          "name": "END 3",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1748069006653",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1748069012615",
+              "type": "choice",
+              "content": "要回去了"
+            }
+          ]
+        },
+        {
+          "id": "ending_1748069092719",
+          "name": "END 4",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1748069096775",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1748069103775",
+              "type": "choice",
+              "content": "没有"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

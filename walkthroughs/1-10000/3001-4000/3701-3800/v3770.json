@@ -1,0 +1,232 @@
+{
+  "vid": "v3770",
+  "name": {
+    "zh-cn": "秽翼的尤斯蒂娅",
+    "en-us": "Aiyoku no Eustia",
+    "ja-jp": "穢翼のユースティア",
+    "ja-Latn": "aiyoku-no-eustia"
+  },
+  "level": 2,
+  "updatedAt": "2026-05-09",
+  "routes": [
+    {
+      "id": "route_main",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_fione",
+          "name": "菲奥奈 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_fione_01",
+              "type": "choice",
+              "content": "讨好她",
+              "group": "序章"
+            },
+            {
+              "id": "step_fione_02",
+              "type": "choice",
+              "content": "战斗"
+            },
+            {
+              "id": "step_fione_03",
+              "type": "choice",
+              "content": "但是,缇娅应该没有说谎吧"
+            },
+            {
+              "id": "step_fione_04",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_fione_05",
+              "type": "choice",
+              "content": "在这里给菲奥奈看"
+            },
+            {
+              "id": "step_fione_06",
+              "type": "choice",
+              "content": "这是和菲奥奈在工作，就这样两个人一起去"
+            },
+            {
+              "id": "step_fione_07",
+              "type": "choice",
+              "content": "干脆地否定"
+            },
+            {
+              "id": "step_fione_08",
+              "type": "choice",
+              "content": "不能让菲奥奈的双手染上亲人的鲜血"
+            }
+          ]
+        },
+        {
+          "id": "ending_alice",
+          "name": "艾莉斯 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_alice_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_alice_02",
+              "type": "choice",
+              "content": "还是应该先拿回去给吉克看呢"
+            },
+            {
+              "id": "step_alice_03",
+              "type": "choice",
+              "content": "一个人去艾莉斯的家里"
+            },
+            {
+              "id": "step_alice_04",
+              "type": "choice",
+              "content": "如果肯定的话应该会比较方便说话吧"
+            },
+            {
+              "id": "step_alice_05",
+              "type": "choice",
+              "content": "那也是一条路吗"
+            },
+            {
+              "id": "step_alice_06",
+              "type": "choice",
+              "content": "即便如此也还是不杀"
+            },
+            {
+              "id": "step_alice_07",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_alice_08",
+              "type": "choice",
+              "content": "与艾莉斯共同走下去"
+            },
+            {
+              "id": "step_alice_09",
+              "type": "choice",
+              "content": "不摘掉眼镜吗……∕意外的很大胆啊"
+            }
+          ]
+        },
+        {
+          "id": "ending_colette",
+          "name": "柯蕾特 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_colette_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_colette_02",
+              "type": "choice",
+              "content": "即便如此，也还是让艾莉斯走自己的道路"
+            },
+            {
+              "id": "step_colette_03",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_colette_04",
+              "type": "choice",
+              "content": "实现柯蕾特的心愿"
+            }
+          ]
+        },
+        {
+          "id": "ending_rapieria",
+          "name": "拉菲莉亚 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_rapieria_01",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_rapieria_02",
+              "type": "choice",
+              "content": "果然还是没法去做那种事"
+            },
+            {
+              "id": "step_rapieria_03",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_rapieria_04",
+              "type": "choice",
+              "content": "我相信她们两个"
+            }
+          ]
+        },
+        {
+          "id": "ending_licia",
+          "name": "莉西亚 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_licia_01",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_licia_02",
+              "type": "choice",
+              "content": "我也还没有完全相信"
+            },
+            {
+              "id": "step_licia_03",
+              "type": "choice",
+              "content": "为她擦脸"
+            },
+            {
+              "id": "step_licia_04",
+              "type": "choice",
+              "content": "向莉西亚道歉"
+            },
+            {
+              "id": "step_licia_05",
+              "type": "save",
+              "content": "SAVE 5"
+            },
+            {
+              "id": "step_licia_06",
+              "type": "choice",
+              "content": "将她的软弱一同接受下来"
+            }
+          ]
+        },
+        {
+          "id": "ending_tia",
+          "name": "缇娅 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_tia_01",
+              "type": "load",
+              "content": "LOAD 5"
+            },
+            {
+              "id": "step_tia_02",
+              "type": "choice",
+              "content": "不能接受莉西亚的祈愿"
+            },
+            {
+              "id": "step_tia_03",
+              "type": "choice",
+              "content": "实话实说"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

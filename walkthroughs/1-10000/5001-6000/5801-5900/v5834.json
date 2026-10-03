@@ -1,0 +1,301 @@
+{
+  "vid": "v5834",
+  "name": {
+    "zh-cn": "五彩斑斓的世界",
+    "en-us": "Irotoridori No Sekai - The Colorful World",
+    "ja-jp": "いろとりどりのセカイ",
+    "ja-Latn": "irotoridori-no-sekai"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-12",
+  "tips": [
+    "真红以外的4人攻略完毕后，标题画面会变为晚霞景色。"
+  ],
+  "routes": [
+    {
+      "id": "route_1757427662110",
+      "name": "观波 加奈",
+      "endings": [
+        {
+          "id": "ending_1757427873229",
+          "name": "加奈 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1757428037546",
+              "type": "choice",
+              "content": "夏目铃"
+            },
+            {
+              "id": "step_1757428037786",
+              "type": "choice",
+              "content": "新人"
+            },
+            {
+              "id": "step_1757428037950",
+              "type": "choice",
+              "content": "打不开的房间"
+            },
+            {
+              "id": "step_1757428038130",
+              "type": "choice",
+              "content": "加奈"
+            },
+            {
+              "id": "step_1757428038316",
+              "type": "choice",
+              "content": "澪"
+            },
+            {
+              "id": "step_1757428038473",
+              "type": "choice",
+              "content": "司"
+            },
+            {
+              "id": "step_1757428038649",
+              "type": "choice",
+              "content": "步"
+            },
+            {
+              "id": "step_1757428040630",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1757428099386",
+              "type": "choice",
+              "content": "观波加奈"
+            },
+            {
+              "id": "step_1757428099549",
+              "type": "choice",
+              "content": "如月澪"
+            },
+            {
+              "id": "step_1757428099858",
+              "type": "choice",
+              "content": "敷岛镜"
+            },
+            {
+              "id": "step_1757428139946",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1757428148400",
+              "type": "choice",
+              "content": "加奈"
+            },
+            {
+              "id": "step_1757428149146",
+              "type": "choice",
+              "content": "澪"
+            },
+            {
+              "id": "step_1757428149617",
+              "type": "choice",
+              "content": "镜"
+            },
+            {
+              "id": "step_1757428150068",
+              "type": "choice",
+              "content": "加奈"
+            },
+            {
+              "id": "step_1757428150538",
+              "type": "choice",
+              "content": "镜"
+            },
+            {
+              "id": "step_1757428150988",
+              "type": "choice",
+              "content": "司"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1757427992750",
+      "name": "敷岛 镜",
+      "endings": [
+        {
+          "id": "ending_1757428236195",
+          "name": "镜 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1757428244856",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1757428252093",
+              "type": "choice",
+              "content": "镜"
+            },
+            {
+              "id": "step_1757428252529",
+              "type": "choice",
+              "content": "司"
+            },
+            {
+              "id": "step_1757428252965",
+              "type": "choice",
+              "content": "加奈"
+            },
+            {
+              "id": "step_1757428253438",
+              "type": "choice",
+              "content": "镜"
+            },
+            {
+              "id": "step_1757428253882",
+              "type": "choice",
+              "content": "司"
+            },
+            {
+              "id": "step_1757428254257",
+              "type": "choice",
+              "content": "加奈"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1757428504017",
+      "name": "如月 澪",
+      "endings": [
+        {
+          "id": "ending_1757428526084",
+          "name": "澪 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1757428531477",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1757428534058",
+              "type": "choice",
+              "content": "如月澪"
+            },
+            {
+              "id": "step_1757428534232",
+              "type": "choice",
+              "content": "东峰司"
+            },
+            {
+              "id": "step_1757428534466",
+              "type": "choice",
+              "content": "一之濑步"
+            },
+            {
+              "id": "step_1757428534985",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_1757428564315",
+              "type": "choice",
+              "content": "澪"
+            },
+            {
+              "id": "step_1757428564479",
+              "type": "choice",
+              "content": "司"
+            },
+            {
+              "id": "step_1757428564613",
+              "type": "choice",
+              "content": "加奈"
+            },
+            {
+              "id": "step_1757428564774",
+              "type": "choice",
+              "content": "镜"
+            },
+            {
+              "id": "step_1757428564928",
+              "type": "choice",
+              "content": "加奈"
+            },
+            {
+              "id": "step_1757428585276",
+              "type": "choice",
+              "content": "司"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1757428512367",
+      "name": "东峰 司",
+      "endings": [
+        {
+          "id": "ending_1757428625302",
+          "name": "司 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1757428631980",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1757428635677",
+              "type": "choice",
+              "content": "司"
+            },
+            {
+              "id": "step_1757428635839",
+              "type": "choice",
+              "content": "步"
+            },
+            {
+              "id": "step_1757428635987",
+              "type": "choice",
+              "content": "加奈"
+            },
+            {
+              "id": "step_1757428636151",
+              "type": "choice",
+              "content": "司"
+            },
+            {
+              "id": "step_1757428661095",
+              "type": "choice",
+              "content": "镜"
+            },
+            {
+              "id": "step_1757428661277",
+              "type": "choice",
+              "content": "加奈"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1757428512587",
+      "name": "二阶堂 真红",
+      "endings": [
+        {
+          "id": "ending_1757428683905",
+          "name": "真红 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1757428692388",
+              "type": "note",
+              "content": "4人攻略后，标题画面开始新游戏"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

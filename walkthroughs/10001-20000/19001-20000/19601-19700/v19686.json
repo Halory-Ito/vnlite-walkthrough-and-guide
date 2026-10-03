@@ -1,0 +1,158 @@
+{
+  "vid": "v19686",
+  "name": {
+    "zh-cn": "缘结甜祇 ~My Sweet Goddess~",
+    "en-us": "Yomegami: My Sweet Goddess!",
+    "ja-jp": "よめがみ My Sweet Goddess!",
+    "ja-Latn": "yomegami-my-sweet-goddess"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-12",
+  "tips": [
+    "攻略完毕的角色再度从标题画面开始新游戏，可以直接进行路线选择"
+  ],
+  "routes": [
+    {
+      "id": "route_1757076025480",
+      "name": "鳴川 爱丽丝",
+      "endings": [
+        {
+          "id": "ending_1757076132132",
+          "name": "爱丽丝 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1757076159681",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1757076161048",
+              "type": "choice",
+              "content": "先将事情问清楚"
+            },
+            {
+              "id": "step_1757076161301",
+              "type": "choice",
+              "content": "再逗她一会"
+            },
+            {
+              "id": "step_1757076162279",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1757076163672",
+              "type": "choice",
+              "content": "观察一下"
+            },
+            {
+              "id": "step_1757076163944",
+              "type": "choice",
+              "content": "遗失的母乳"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1757076374668",
+      "name": "無花果 美命",
+      "endings": [
+        {
+          "id": "ending_1757076381382",
+          "name": "美命 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1757076388130",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1757076389274",
+              "type": "choice",
+              "content": "将女生保护在身后"
+            },
+            {
+              "id": "step_1757076389494",
+              "type": "choice",
+              "content": "直接给她"
+            },
+            {
+              "id": "step_1757076390551",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_1757076391691",
+              "type": "choice",
+              "content": "向美命打招呼"
+            },
+            {
+              "id": "step_1757076392005",
+              "type": "choice",
+              "content": "丰满的欧派"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1757076462123",
+      "name": "莉子",
+      "endings": [
+        {
+          "id": "ending_1757076475411",
+          "name": "莉子 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1757076477643",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1757076478601",
+              "type": "choice",
+              "content": "向美命打招呼"
+            },
+            {
+              "id": "step_1757076478859",
+              "type": "choice",
+              "content": "恍然大悟"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1757076597670",
+      "name": "秤 真理",
+      "endings": [
+        {
+          "id": "ending_1757076645013",
+          "name": "真理 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1757076670043",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1757076673595",
+              "type": "choice",
+              "content": "观察一下"
+            },
+            {
+              "id": "step_1757076673904",
+              "type": "choice",
+              "content": "挺拔的欧派"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

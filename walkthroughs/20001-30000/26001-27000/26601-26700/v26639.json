@@ -1,0 +1,787 @@
+{
+  "vid": "v26639",
+  "name": {
+    "zh-cn": "献给神明般的你",
+    "en-us": "Hacking the Moon to Find My Goddess",
+    "ja-jp": "神様のような君へ",
+    "ja-Latn": "kami-sama-no-you-na-kimi-e"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-13",
+  "routes": [
+    {
+      "id": "route_1762264025357",
+      "name": "月咏",
+      "endings": [
+        {
+          "id": "ending_1762264043939",
+          "name": "月咏 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762264072223",
+              "type": "choice",
+              "content": "起床"
+            },
+            {
+              "id": "step_1762264072432",
+              "type": "choice",
+              "content": "月咏"
+            },
+            {
+              "id": "step_1762264072626",
+              "type": "choice",
+              "content": "哼哼哼……那就给我看看你的诚意吧"
+            },
+            {
+              "id": "step_1762264072793",
+              "type": "choice",
+              "content": "起床"
+            },
+            {
+              "id": "step_1762264073008",
+              "type": "choice",
+              "content": "「喜欢贫乳」"
+            },
+            {
+              "id": "step_1762264073531",
+              "type": "choice",
+              "content": "那件制服是？"
+            },
+            {
+              "id": "step_1762264073761",
+              "type": "choice",
+              "content": "向她彰显我钢铁般的理性"
+            },
+            {
+              "id": "step_1762264686647",
+              "type": "choice",
+              "content": "继续等着",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1762264686813",
+              "type": "choice",
+              "content": "不骇入网络帮忙",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1762264686974",
+              "type": "choice",
+              "content": "给拉娜投一票！",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1762264687143",
+              "type": "choice",
+              "content": "为了朝仓"
+            },
+            {
+              "id": "step_1762264687316",
+              "type": "choice",
+              "content": "回家",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1762264733593",
+              "type": "choice",
+              "content": "海"
+            },
+            {
+              "id": "step_1762264766906",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1762264770345",
+              "type": "choice",
+              "content": "同意"
+            },
+            {
+              "id": "step_1762264770519",
+              "type": "choice",
+              "content": "带到校医室去"
+            },
+            {
+              "id": "step_1762264791432",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1762264796276",
+              "type": "choice",
+              "content": "不做了"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1762264860446",
+      "name": "黒鳳 玲音",
+      "endings": [
+        {
+          "id": "ending_1762265147102",
+          "name": "玲音 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762265152408",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1762265156665",
+              "type": "choice",
+              "content": "决一胜负"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1762265177939",
+      "name": "拉娜.利德尔.哈特",
+      "endings": [
+        {
+          "id": "ending_1762265187578",
+          "name": "拉娜 END（CS）",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762265196912",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1762265198516",
+              "type": "choice",
+              "content": "拒绝"
+            },
+            {
+              "id": "step_1762265207928",
+              "type": "choice",
+              "content": "你应该是出现幻觉了",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1762265218693",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_1762265224596",
+              "type": "choice",
+              "content": "和月咏一起去"
+            },
+            {
+              "id": "step_1762265234599",
+              "type": "choice",
+              "content": "放着不管。"
+            },
+            {
+              "id": "step_1762265242488",
+              "type": "choice",
+              "content": "不接受"
+            },
+            {
+              "id": "step_1762265253827",
+              "type": "choice",
+              "content": "面对自己的罪恶",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1762265575635",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_1762265593245",
+              "type": "choice",
+              "content": "和拉娜一起走下去",
+              "prefix": "★"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762265612774",
+          "name": "拉娜 BADEND（CS）",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_1762265628850",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_1762265631176",
+              "type": "choice",
+              "content": "将一切托付给索菲娅小姐",
+              "prefix": "★"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1762265794326",
+      "name": "朝倉 霧香",
+      "endings": [
+        {
+          "id": "ending_1762265802164",
+          "name": "霧香 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762265809406",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1762265813901",
+              "type": "choice",
+              "content": "遵守和雾香的约定"
+            },
+            {
+              "id": "step_1762265819476",
+              "type": "save",
+              "content": "SAVE 5"
+            },
+            {
+              "id": "step_1762265823846",
+              "type": "choice",
+              "content": "发送LIME"
+            },
+            {
+              "id": "step_1762265824007",
+              "type": "choice",
+              "content": "走廊"
+            },
+            {
+              "id": "step_1762265824172",
+              "type": "choice",
+              "content": "空教室"
+            },
+            {
+              "id": "step_1762265824917",
+              "type": "save",
+              "content": "SAVE 6"
+            },
+            {
+              "id": "step_1762265825048",
+              "type": "choice",
+              "content": "不同意"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762265893284",
+          "name": "BAD END",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_1762265909599",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1762265911028",
+              "type": "choice",
+              "content": "同意"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1762265926853",
+      "name": "神無月 愛彩梨",
+      "endings": [
+        {
+          "id": "ending_1762265937217",
+          "name": "愛彩梨 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762265960498",
+              "type": "load",
+              "content": "LOAD 5"
+            },
+            {
+              "id": "step_1762265965398",
+              "type": "choice",
+              "content": "不发送LIME"
+            },
+            {
+              "id": "step_1762265965572",
+              "type": "choice",
+              "content": "给愛彩梨(给朝倉)(不做选择)"
+            },
+            {
+              "id": "step_1762265965808",
+              "type": "choice",
+              "content": "里面/外面"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1762266065834",
+      "name": "索菲娅.利德尔.哈特",
+      "endings": [
+        {
+          "id": "ending_1762266101234",
+          "name": "索菲娅 END（CS）",
+          "type": "normal",
+          "requirements": "月咏＆拉娜＆霧香攻略后，从标题画面开始游戏",
+          "steps": [
+            {
+              "id": "step_1762266135625",
+              "type": "choice",
+              "content": "继续睡"
+            },
+            {
+              "id": "step_1762266135756",
+              "type": "choice",
+              "content": "月咏"
+            },
+            {
+              "id": "step_1762266135926",
+              "type": "choice",
+              "content": "知道了"
+            },
+            {
+              "id": "step_1762266136056",
+              "type": "choice",
+              "content": "再睡会儿"
+            },
+            {
+              "id": "step_1762266136229",
+              "type": "choice",
+              "content": "「喜欢巨乳」"
+            },
+            {
+              "id": "step_1762266172901",
+              "type": "choice",
+              "content": "那件制服是？"
+            },
+            {
+              "id": "step_1762266173072",
+              "type": "choice",
+              "content": "向她彰显我钢铁般的理性"
+            },
+            {
+              "id": "step_1762266173221",
+              "type": "choice",
+              "content": "先回去",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1762266173416",
+              "type": "choice",
+              "content": "骇入网络寻找",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1762266187966",
+              "type": "choice",
+              "content": "给索菲娅小姐投一票！",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1762266188132",
+              "type": "choice",
+              "content": "是粉丝"
+            },
+            {
+              "id": "step_1762266188262",
+              "type": "choice",
+              "content": "陪她",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1762266188687",
+              "type": "choice",
+              "content": "葉月",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1762266232749",
+              "type": "choice",
+              "content": "并不讨厌",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1762266232935",
+              "type": "choice",
+              "content": "海"
+            },
+            {
+              "id": "step_1762266233068",
+              "type": "choice",
+              "content": "拒绝"
+            },
+            {
+              "id": "step_1762266233240",
+              "type": "choice",
+              "content": "你应该是出现幻觉了",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1762266233383",
+              "type": "choice",
+              "content": "和月咏一起去"
+            },
+            {
+              "id": "step_1762266233532",
+              "type": "choice",
+              "content": "调查松冈",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1762266233670",
+              "type": "choice",
+              "content": "隐藏他的名字",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1762266233809",
+              "type": "choice",
+              "content": "放着不管。"
+            },
+            {
+              "id": "step_1762266233960",
+              "type": "choice",
+              "content": "去体育馆",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1762266234203",
+              "type": "save",
+              "content": "SAVE 7"
+            },
+            {
+              "id": "step_1762266234354",
+              "type": "choice",
+              "content": "我觉得可以",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1762266234685",
+              "type": "choice",
+              "content": "不接受"
+            },
+            {
+              "id": "step_1762266234858",
+              "type": "choice",
+              "content": "为了赎罪舍弃一切│索菲娅"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1762266448741",
+      "name": "園村 葉月",
+      "endings": [
+        {
+          "id": "ending_1762266715649",
+          "name": "葉月 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762266736934",
+              "type": "load",
+              "content": "LOAD 7"
+            },
+            {
+              "id": "step_1762266745739",
+              "type": "choice",
+              "content": "我觉得不行",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1762266746088",
+              "type": "choice",
+              "content": "我并不这么觉得",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1762266746299",
+              "type": "choice",
+              "content": "自己联系",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1762266746549",
+              "type": "choice",
+              "content": "说",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1762266746961",
+              "type": "choice",
+              "content": "帮她找",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1762266748235",
+              "type": "save",
+              "content": "SAVE 8"
+            },
+            {
+              "id": "step_1762266921823",
+              "type": "choice",
+              "content": "有话想对她说",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1762266922138",
+              "type": "choice",
+              "content": "里面/外面"
+            },
+            {
+              "id": "step_1762266923101",
+              "type": "save",
+              "content": "SAVE 9"
+            },
+            {
+              "id": "step_1762266923885",
+              "type": "choice",
+              "content": "不去碰它",
+              "prefix": "★"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762266976475",
+          "name": "葉月 True END",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_1762267014638",
+              "type": "load",
+              "content": "LOAD 9"
+            },
+            {
+              "id": "step_1762267020376",
+              "type": "choice",
+              "content": "解析",
+              "prefix": "★"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762267059771",
+          "name": "Normal END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762267108215",
+              "type": "load",
+              "content": "LOAD 8"
+            },
+            {
+              "id": "step_1762267117951",
+              "type": "choice",
+              "content": "催促她赶快去参加社团活动",
+              "prefix": "★"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1762267216409",
+      "name": "拉娜后日谈：旧拉娜路线",
+      "endings": [
+        {
+          "id": "ending_1762267976094",
+          "name": "拉娜 END",
+          "type": "normal",
+          "requirements": "拉娜END后从标题画面进入EXTRA",
+          "steps": [
+            {
+              "id": "step_1762268059226",
+              "type": "choice",
+              "content": "继续睡"
+            },
+            {
+              "id": "step_1762268059390",
+              "type": "choice",
+              "content": "月咏"
+            },
+            {
+              "id": "step_1762268059576",
+              "type": "choice",
+              "content": "哼哼哼……那就给我看看你的诚意吧"
+            },
+            {
+              "id": "step_1762268059742",
+              "type": "choice",
+              "content": "这是送给親戚的礼物"
+            },
+            {
+              "id": "step_1762268060004",
+              "type": "choice",
+              "content": "再睡会儿"
+            },
+            {
+              "id": "step_1762268060189",
+              "type": "choice",
+              "content": "闻拉娜的味道"
+            },
+            {
+              "id": "step_1762268060344",
+              "type": "choice",
+              "content": "「喜欢貧乳」"
+            },
+            {
+              "id": "step_1762268060510",
+              "type": "choice",
+              "content": "拉娜"
+            },
+            {
+              "id": "step_1762268122777",
+              "type": "choice",
+              "content": "向她彰显我钢铁般的理性"
+            },
+            {
+              "id": "step_1762268122969",
+              "type": "choice",
+              "content": "给拉娜面子"
+            },
+            {
+              "id": "step_1762268123160",
+              "type": "choice",
+              "content": "为了朝倉"
+            },
+            {
+              "id": "step_1762268123346",
+              "type": "choice",
+              "content": "海"
+            },
+            {
+              "id": "step_1762268139335",
+              "type": "choice",
+              "content": "拒绝"
+            },
+            {
+              "id": "step_1762268139501",
+              "type": "choice",
+              "content": "和月咏一起去"
+            },
+            {
+              "id": "step_1762268139671",
+              "type": "choice",
+              "content": "放着不管。"
+            },
+            {
+              "id": "step_1762268139839",
+              "type": "choice",
+              "content": "嗯，当然可以咯"
+            },
+            {
+              "id": "step_1762268139979",
+              "type": "choice",
+              "content": "想要做对社会有贡献的工作"
+            },
+            {
+              "id": "step_1762268140138",
+              "type": "save",
+              "content": "SAVE 10"
+            },
+            {
+              "id": "step_1762268140445",
+              "type": "choice",
+              "content": "不接吻"
+            },
+            {
+              "id": "step_1762268180967",
+              "type": "save",
+              "content": "SAVE 11"
+            },
+            {
+              "id": "step_1762268197721",
+              "type": "choice",
+              "content": "拒绝"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762268165738",
+          "name": "拉娜 BADEND",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_1762268316723",
+              "type": "load",
+              "content": "LOAD 11"
+            },
+            {
+              "id": "step_1762268324434",
+              "type": "choice",
+              "content": "里面"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1762267961652",
+      "name": "拉娜后日谈：旧索菲娅路线",
+      "endings": [
+        {
+          "id": "ending_1762268364520",
+          "name": "索菲娅END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762268366480",
+              "type": "load",
+              "content": "LOAD 10"
+            },
+            {
+              "id": "step_1762268372089",
+              "type": "choice",
+              "content": "接吻│索菲娅"
+            },
+            {
+              "id": "step_1762268372264",
+              "type": "choice",
+              "content": "里面/外面"
+            },
+            {
+              "id": "step_1762268374420",
+              "type": "save",
+              "content": "SAVE 12"
+            },
+            {
+              "id": "step_1762268378070",
+              "type": "choice",
+              "content": "不能同时爱着两个人"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762268558137",
+          "name": "拉娜＆索菲娅END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762268562822",
+              "type": "load",
+              "content": "LOAD 12"
+            },
+            {
+              "id": "step_1762268566750",
+              "type": "choice",
+              "content": "同时爱着两个人"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

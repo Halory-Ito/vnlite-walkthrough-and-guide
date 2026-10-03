@@ -1,0 +1,311 @@
+{
+  "vid": "v22045",
+  "name": {
+    "zh-cn": "寄宿之恋",
+    "en-us": "Karigurashi Renai: Living on Borrowed Love",
+    "ja-jp": "かりぐらし恋愛",
+    "ja-Latn": "karigurashi-renai"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-11",
+  "routes": [
+    {
+      "id": "route_1755780311966",
+      "name": "世计 绚花",
+      "endings": [
+        {
+          "id": "ending_1755780406878",
+          "name": "绚花 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755780412129",
+              "type": "choice",
+              "content": "感觉还行",
+              "subfix": "杏 +2"
+            },
+            {
+              "id": "step_1755780442834",
+              "type": "choice",
+              "content": "我并不讨厌日和",
+              "subfix": "日和 +2"
+            },
+            {
+              "id": "step_1755780442984",
+              "type": "choice",
+              "content": "真是件充满个性的睡衣呀",
+              "subfix": "绚花 +2"
+            },
+            {
+              "id": "step_1755780545365",
+              "type": "choice",
+              "content": "偷窥浴室",
+              "subfix": "理兔 -1"
+            },
+            {
+              "id": "step_1755780703895",
+              "type": "note",
+              "content": "回到标题"
+            },
+            {
+              "id": "step_1755780707289",
+              "type": "choice",
+              "content": "其实我也很在意哦这样说",
+              "subfix": "日和 +2"
+            },
+            {
+              "id": "step_1755780755413",
+              "type": "choice",
+              "content": "欺负害羞的绚花",
+              "subfix": "绚花 +2"
+            },
+            {
+              "id": "step_1755780755582",
+              "type": "choice",
+              "content": "想让她用欧派帮我洗",
+              "subfix": "杏 +2"
+            },
+            {
+              "id": "step_1755780755778",
+              "type": "choice",
+              "content": "牵手",
+              "subfix": "理兔 +2"
+            },
+            {
+              "id": "step_1755780756065",
+              "type": "choice",
+              "content": "也许会成为义理上的妹妹",
+              "subfix": "绚花 +1（丸的关键选项）"
+            },
+            {
+              "id": "step_1755781422628",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1755781425941",
+              "type": "choice",
+              "content": "想和绚花发展禁断的关系"
+            },
+            {
+              "id": "step_1755781759692",
+              "type": "choice",
+              "content": "寻找妥协点"
+            },
+            {
+              "id": "step_1755781795769",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1755781516971",
+              "type": "choice",
+              "content": "向绚花求助"
+            },
+            {
+              "id": "step_1755783526057",
+              "type": "choice",
+              "content": "摘下眼镜/戴着眼镜"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755783668779",
+      "name": "荒波 杏",
+      "endings": [
+        {
+          "id": "ending_1755784450142",
+          "name": "杏 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755784737938",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1755784739337",
+              "type": "choice",
+              "content": "果然还是兄妹关系就可以了"
+            },
+            {
+              "id": "step_1755784739504",
+              "type": "choice",
+              "content": "因为能够看到杏姐脆弱的一面了",
+              "subfix": "杏 +2"
+            },
+            {
+              "id": "step_1755784740838",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_1755784749248",
+              "type": "choice",
+              "content": "如果你能够努力一点更加自立一点的话"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755783684280",
+      "name": "新津间 日和",
+      "endings": [
+        {
+          "id": "ending_1755785163145",
+          "name": "日和 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755785222848",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_1755785231735",
+              "type": "choice",
+              "content": "还是免了吧"
+            },
+            {
+              "id": "step_1755785231923",
+              "type": "choice",
+              "content": "作为礼物送给她",
+              "subfix": "日和 +2"
+            },
+            {
+              "id": "step_1755785286801",
+              "type": "save",
+              "content": "SAVE 5"
+            },
+            {
+              "id": "step_1755785291070",
+              "type": "choice",
+              "content": "作为女性来对待"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755784487612",
+      "name": "樱木桥 理兔",
+      "endings": [
+        {
+          "id": "ending_1755785453147",
+          "name": "理兔 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755785482323",
+              "type": "load",
+              "content": "LOAD 5"
+            },
+            {
+              "id": "step_1755785491397",
+              "type": "choice",
+              "content": "作为朋友对待"
+            },
+            {
+              "id": "step_1755785491559",
+              "type": "choice",
+              "content": "牵她的手",
+              "subfix": "理兔 +2"
+            },
+            {
+              "id": "step_1755785492289",
+              "type": "save",
+              "content": "SAVE 6"
+            },
+            {
+              "id": "step_1755785538377",
+              "type": "choice",
+              "content": "我也想和理兔住在一起"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755784513125",
+      "name": "世计 丸",
+      "endings": [
+        {
+          "id": "ending_1755785567206",
+          "name": "丸 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755785575264",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1755785585763",
+              "type": "choice",
+              "content": "向妹妹大人发誓进行纯洁的交往"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755784537153",
+      "name": "臼岛奈 奈子",
+      "endings": [
+        {
+          "id": "ending_1755785649126",
+          "name": "奈子 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755785677565",
+              "type": "load",
+              "content": "LOAD 6"
+            },
+            {
+              "id": "step_1755785683553",
+              "type": "choice",
+              "content": "不能这样麻烦你"
+            },
+            {
+              "id": "step_1755785685368",
+              "type": "save",
+              "content": "SAVE 7"
+            },
+            {
+              "id": "step_1755785693905",
+              "type": "choice",
+              "content": "真想知道你平时怎么生活的"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755784559620",
+      "name": "单身",
+      "endings": [
+        {
+          "id": "ending_1755785744663",
+          "name": "单身 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755785788921",
+              "type": "load",
+              "content": "LOAD 7"
+            },
+            {
+              "id": "step_1755785793315",
+              "type": "choice",
+              "content": "比起这个你知道会长在哪里吗"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

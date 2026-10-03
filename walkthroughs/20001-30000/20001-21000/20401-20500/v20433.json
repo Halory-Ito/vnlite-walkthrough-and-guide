@@ -1,0 +1,38 @@
+{
+  "vid": "v20433",
+  "name": {
+    "zh-cn": "猫忍之心",
+    "en-us": "NEKO-NIN exHeart",
+    "ja-jp": "猫忍えくすはーと",
+    "ja-Latn": "neko-nin-exheart"
+  },
+  "level": 2,
+  "updatedAt": "2026-05-08",
+  "routes": [
+    {
+      "id": "route_1778204700560",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1778204705922",
+          "name": "END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1778204710168",
+              "type": "choice",
+              "content": "回家吧",
+              "subfix": "选 设法解读早上收到的信 回收CG"
+            },
+            {
+              "id": "step_1778204710342",
+              "type": "choice",
+              "content": "由良",
+              "subfix": "选 小玉 回收CG"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

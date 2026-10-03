@@ -1,0 +1,306 @@
+{
+  "vid": "v100",
+  "name": {
+    "zh-cn": "假如明日天放晴",
+    "ja-jp": "もしも明日が晴れならば",
+    "ja-Latn": "moshimo-ashita-ga-hare-naraba"
+  },
+  "level": 2,
+  "updatedAt": "2026-05-12",
+  "routes": [
+    {
+      "id": "route_game",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_wing",
+          "name": "翼 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1",
+              "type": "choice",
+              "content": "我是来等小翼的"
+            },
+            {
+              "id": "step_2",
+              "type": "choice",
+              "content": "今天就一起回家吧"
+            },
+            {
+              "id": "step_3",
+              "type": "choice",
+              "content": "是不好"
+            },
+            {
+              "id": "step_4",
+              "type": "choice",
+              "content": "一起去学校食堂"
+            },
+            {
+              "id": "step_5",
+              "type": "choice",
+              "content": "和珠美搭话"
+            },
+            {
+              "id": "step_6",
+              "type": "choice",
+              "content": "明穂"
+            },
+            {
+              "id": "step_7",
+              "type": "choice",
+              "content": "就是那样"
+            },
+            {
+              "id": "step_8",
+              "type": "choice",
+              "content": "静静的等她说"
+            },
+            {
+              "id": "step_9",
+              "type": "choice",
+              "content": "担心千早的事"
+            },
+            {
+              "id": "step_10",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_11",
+              "type": "choice",
+              "content": "去观察翼的情况"
+            },
+            {
+              "id": "step_12",
+              "type": "choice",
+              "content": "你们争吵了？"
+            },
+            {
+              "id": "step_13",
+              "type": "choice",
+              "content": "要不要吃个冰激凌？"
+            },
+            {
+              "id": "step_14",
+              "type": "choice",
+              "content": "我也喜欢小翼"
+            },
+            {
+              "id": "step_15",
+              "type": "choice",
+              "content": "可乐饼"
+            },
+            {
+              "id": "step_16",
+              "type": "choice",
+              "content": "什么意思？"
+            },
+            {
+              "id": "step_17",
+              "type": "choice",
+              "content": "留在这里"
+            },
+            {
+              "id": "step_18",
+              "type": "choice",
+              "content": "护送她回去"
+            },
+            {
+              "id": "step_19",
+              "type": "choice",
+              "content": "不敲"
+            },
+            {
+              "id": "step_20",
+              "type": "choice",
+              "content": "就这件事不行"
+            },
+            {
+              "id": "step_21",
+              "type": "choice",
+              "content": "我们先得把千早妹妹带来商量"
+            },
+            {
+              "id": "step_22",
+              "type": "choice",
+              "content": "要不要交给小翼去做？"
+            },
+            {
+              "id": "step_23",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_24",
+              "type": "choice",
+              "content": "一个人出门"
+            },
+            {
+              "id": "step_25",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_26",
+              "type": "choice",
+              "content": "和小翼一起休息"
+            },
+            {
+              "id": "step_27",
+              "type": "choice",
+              "content": "任意选项"
+            },
+            {
+              "id": "step_28",
+              "type": "choice",
+              "content": "称赞小翼"
+            }
+          ]
+        },
+        {
+          "id": "ending_jumi",
+          "name": "珠美 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_29",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_30",
+              "type": "choice",
+              "content": "和珠美一起休息"
+            },
+            {
+              "id": "step_31",
+              "type": "choice",
+              "content": "全然不同"
+            }
+          ]
+        },
+        {
+          "id": "ending_chihaya",
+          "name": "千早 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_32",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_33",
+              "type": "choice",
+              "content": "和千早一起休息"
+            }
+          ]
+        },
+        {
+          "id": "ending_mihoshi",
+          "name": "明穂 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_34",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_35",
+              "type": "choice",
+              "content": "去看看明穗他们"
+            },
+            {
+              "id": "step_36",
+              "type": "choice",
+              "content": "还是先走吧"
+            },
+            {
+              "id": "step_37",
+              "type": "choice",
+              "content": "你饶了我吧"
+            },
+            {
+              "id": "step_38",
+              "type": "choice",
+              "content": "她不理你了吗？"
+            },
+            {
+              "id": "step_39",
+              "type": "choice",
+              "content": "谢谢你愿意待在我身边"
+            },
+            {
+              "id": "step_40",
+              "type": "choice",
+              "content": "…抱歉"
+            },
+            {
+              "id": "step_41",
+              "type": "choice",
+              "content": "可乐饼"
+            },
+            {
+              "id": "step_42",
+              "type": "choice",
+              "content": "什么意思？"
+            },
+            {
+              "id": "step_43",
+              "type": "choice",
+              "content": "去学校"
+            },
+            {
+              "id": "step_44",
+              "type": "choice",
+              "content": "带明穗去"
+            },
+            {
+              "id": "step_45",
+              "type": "choice",
+              "content": "就这样目送着她走"
+            },
+            {
+              "id": "step_46",
+              "type": "choice",
+              "content": "敲门"
+            },
+            {
+              "id": "step_47",
+              "type": "choice",
+              "content": "只有那件事不行"
+            },
+            {
+              "id": "step_48",
+              "type": "choice",
+              "content": "我们俩先来开个作战会议吧"
+            },
+            {
+              "id": "step_49",
+              "type": "choice",
+              "content": "要不要和珠美商量看看？"
+            },
+            {
+              "id": "step_50",
+              "type": "choice",
+              "content": "接吻"
+            },
+            {
+              "id": "step_51",
+              "type": "choice",
+              "content": "和明穗一起休息"
+            },
+            {
+              "id": "step_52",
+              "type": "choice",
+              "content": "你回去吧"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "vid": "v17969",
+  "name": {
+    "zh-cn": "はにかみCLOVER",
+    "ja-jp": "はにかみ CLOVER",
+    "ja-Latn": "hanikami-clover"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-14",
+  "tips": [
+    "最后的选项选择不知道会进入BAD END"
+  ],
+  "routes": [
+    {
+      "id": "route_1772368985877",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1772369041411",
+          "name": "佐伯莉绪",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1772369076807",
+              "type": "choice",
+              "content": "真希奈"
+            },
+            {
+              "id": "step_1772369077070",
+              "type": "choice",
+              "content": "去寻找"
+            },
+            {
+              "id": "step_1772369077249",
+              "type": "choice",
+              "content": "和莉绪搭话"
+            },
+            {
+              "id": "step_1772369077393",
+              "type": "choice",
+              "content": "取中间的面包：炒面面包"
+            },
+            {
+              "id": "step_1772369077532",
+              "type": "choice",
+              "content": "相信莉绪"
+            },
+            {
+              "id": "step_1772369077702",
+              "type": "choice",
+              "content": "我会陪在你身边"
+            },
+            {
+              "id": "step_1772369077832",
+              "type": "choice",
+              "content": "一看就去文艺部"
+            },
+            {
+              "id": "step_1772369077966",
+              "type": "choice",
+              "content": "又好又是恋人吧"
+            },
+            {
+              "id": "step_1772369122897",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1772369123696",
+              "type": "choice",
+              "content": "看莉绪的样子"
+            },
+            {
+              "id": "step_1772369123906",
+              "type": "choice",
+              "content": "让紫罗兰抱着"
+            },
+            {
+              "id": "step_1772369124741",
+              "type": "choice",
+              "content": "做什么？"
+            },
+            {
+              "id": "step_1772369125074",
+              "type": "choice",
+              "content": "问莉绪"
+            },
+            {
+              "id": "step_1772369126446",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1772369140769",
+              "type": "choice",
+              "content": "莉绪"
+            }
+          ]
+        },
+        {
+          "id": "ending_1772369041568",
+          "name": "柊堇",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1772369165936",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1772369169484",
+              "type": "choice",
+              "content": "堇"
+            }
+          ]
+        },
+        {
+          "id": "ending_1772369041805",
+          "name": "周防惠",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1772369189547",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1772369195090",
+              "type": "choice",
+              "content": "观望"
+            },
+            {
+              "id": "step_1772369195493",
+              "type": "choice",
+              "content": "让真希奈抱着"
+            },
+            {
+              "id": "step_1772369196161",
+              "type": "choice",
+              "content": "没关系的"
+            },
+            {
+              "id": "step_1772369196545",
+              "type": "choice",
+              "content": "问真希奈"
+            },
+            {
+              "id": "step_1772369197306",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_1772369197881",
+              "type": "choice",
+              "content": "惠"
+            }
+          ]
+        },
+        {
+          "id": "ending_1772369050358",
+          "name": "碓冰真希奈",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1772369217913",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1772369222531",
+              "type": "choice",
+              "content": "真希奈"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

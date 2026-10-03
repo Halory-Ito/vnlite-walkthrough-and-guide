@@ -1,0 +1,419 @@
+{
+  "vid": "v423",
+  "name": {
+    "zh-cn": "为与明日君相逢",
+    "ja-jp": "明日の君と逢うために",
+    "ja-Latn": "ashita-no-kimi-to-au-tame-ni"
+  },
+  "level": 2,
+  "updatedAt": "2026-03-24",
+  "tips": [
+    "1周目可攻略琉璃子和小夜",
+    "2周目追加舞、明日香、朝日",
+    "以上角色攻略后追加里佳"
+  ],
+  "routes": [
+    {
+      "id": "route_game",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_ruriko_end1",
+          "name": "琉璃子 END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_ruriko_01",
+              "type": "choice",
+              "content": "我们以前有见过吗?"
+            },
+            {
+              "id": "step_ruriko_02",
+              "type": "choice",
+              "content": "老实的回答"
+            },
+            {
+              "id": "step_ruriko_03",
+              "type": "choice",
+              "content": "赶快闪人"
+            },
+            {
+              "id": "step_ruriko_04",
+              "type": "choice",
+              "content": "再多叫一次"
+            },
+            {
+              "id": "step_ruriko_05",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_ruriko_06",
+              "type": "choice",
+              "content": "送璃子到校门"
+            },
+            {
+              "id": "step_ruriko_07",
+              "type": "choice",
+              "content": "直接回家"
+            },
+            {
+              "id": "step_ruriko_08",
+              "type": "choice",
+              "content": "先出去中庭准备"
+            },
+            {
+              "id": "step_ruriko_09",
+              "type": "choice",
+              "content": "靠自己前进"
+            },
+            {
+              "id": "step_ruriko_10",
+              "type": "choice",
+              "content": "不输我的料理啊"
+            },
+            {
+              "id": "step_ruriko_11",
+              "type": "choice",
+              "content": "回应她们"
+            },
+            {
+              "id": "step_ruriko_12",
+              "type": "choice",
+              "content": "去散步"
+            },
+            {
+              "id": "step_ruriko_13",
+              "type": "choice",
+              "content": "休息一下"
+            },
+            {
+              "id": "step_ruriko_14",
+              "type": "choice",
+              "content": "让七海邀请舞"
+            },
+            {
+              "id": "step_ruriko_15",
+              "type": "choice",
+              "content": "赶出去"
+            },
+            {
+              "id": "step_ruriko_16",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_ruriko_17",
+              "type": "choice",
+              "content": "走到凛身边"
+            }
+          ]
+        },
+        {
+          "id": "ending_ruriko_end2",
+          "name": "琉璃子 END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_ruriko2_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_ruriko2_02",
+              "type": "choice",
+              "content": "牵着璃子的手"
+            }
+          ]
+        },
+        {
+          "id": "ending_sayo_end1",
+          "name": "小夜 END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_sayo_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_sayo_02",
+              "type": "choice",
+              "content": "回教室"
+            },
+            {
+              "id": "step_sayo_03",
+              "type": "choice",
+              "content": "直接回家"
+            },
+            {
+              "id": "step_sayo_04",
+              "type": "choice",
+              "content": "先出去中庭准备"
+            },
+            {
+              "id": "step_sayo_05",
+              "type": "choice",
+              "content": "靠自己前进"
+            },
+            {
+              "id": "step_sayo_06",
+              "type": "choice",
+              "content": "不输我的料理啊"
+            },
+            {
+              "id": "step_sayo_07",
+              "type": "choice",
+              "content": "回应她们"
+            },
+            {
+              "id": "step_sayo_08",
+              "type": "choice",
+              "content": "在意泉水"
+            },
+            {
+              "id": "step_sayo_09",
+              "type": "choice",
+              "content": "休息一下"
+            },
+            {
+              "id": "step_sayo_10",
+              "type": "choice",
+              "content": "让七海邀请舞"
+            },
+            {
+              "id": "step_sayo_11",
+              "type": "choice",
+              "content": "赶出去"
+            },
+            {
+              "id": "step_sayo_12",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_sayo_13",
+              "type": "choice",
+              "content": "成全她的愿望"
+            }
+          ]
+        },
+        {
+          "id": "ending_sayo_end2",
+          "name": "小夜 END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_sayo2_01",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_sayo2_02",
+              "type": "choice",
+              "content": "追上小夜"
+            }
+          ]
+        },
+        {
+          "id": "ending_mai_end",
+          "name": "舞 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_mai_01",
+              "type": "choice",
+              "content": "什么也不说"
+            },
+            {
+              "id": "step_mai_02",
+              "type": "choice",
+              "content": "再蒙混过去"
+            },
+            {
+              "id": "step_mai_03",
+              "type": "choice",
+              "content": "再听一会"
+            },
+            {
+              "id": "step_mai_04",
+              "type": "choice",
+              "content": "再多叫一次"
+            },
+            {
+              "id": "step_mai_05",
+              "type": "choice",
+              "content": "回教室"
+            },
+            {
+              "id": "step_mai_06",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_mai_07",
+              "type": "choice",
+              "content": "送舞回家"
+            },
+            {
+              "id": "step_mai_08",
+              "type": "choice",
+              "content": "作弄一下七海吧"
+            },
+            {
+              "id": "step_mai_09",
+              "type": "choice",
+              "content": "靠自己前进"
+            },
+            {
+              "id": "step_mai_10",
+              "type": "choice",
+              "content": "老实地说好吃"
+            },
+            {
+              "id": "step_mai_11",
+              "type": "choice",
+              "content": "再稍微休息一会"
+            },
+            {
+              "id": "step_mai_12",
+              "type": "choice",
+              "content": "去散步"
+            },
+            {
+              "id": "step_mai_13",
+              "type": "choice",
+              "content": "休息一下"
+            },
+            {
+              "id": "step_mai_14",
+              "type": "choice",
+              "content": "请舞到学园祭去"
+            },
+            {
+              "id": "step_mai_15",
+              "type": "choice",
+              "content": "赶出去"
+            }
+          ]
+        },
+        {
+          "id": "ending_asuka_end",
+          "name": "明日香 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_asuka_01",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_asuka_02",
+              "type": "choice",
+              "content": "直接回家"
+            },
+            {
+              "id": "step_asuka_03",
+              "type": "choice",
+              "content": "先出去中庭准备"
+            },
+            {
+              "id": "step_asuka_04",
+              "type": "choice",
+              "content": "顺着凛所指的方向前进"
+            },
+            {
+              "id": "step_asuka_05",
+              "type": "choice",
+              "content": "不输给我的料理啊"
+            },
+            {
+              "id": "step_asuka_06",
+              "type": "choice",
+              "content": "回应她们"
+            },
+            {
+              "id": "step_asuka_07",
+              "type": "choice",
+              "content": "在意泉水"
+            },
+            {
+              "id": "step_asuka_08",
+              "type": "save",
+              "content": "SAVE 5"
+            },
+            {
+              "id": "step_asuka_09",
+              "type": "choice",
+              "content": "休息一下"
+            },
+            {
+              "id": "step_asuka_10",
+              "type": "choice",
+              "content": "让七海邀请舞"
+            },
+            {
+              "id": "step_asuka_11",
+              "type": "choice",
+              "content": "没办法"
+            }
+          ]
+        },
+        {
+          "id": "ending_asahi_end",
+          "name": "朝日 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_asahi_01",
+              "type": "load",
+              "content": "LOAD 5"
+            },
+            {
+              "id": "step_asahi_02",
+              "type": "choice",
+              "content": "去看看演剧部的情况"
+            },
+            {
+              "id": "step_asahi_03",
+              "type": "choice",
+              "content": "让七海邀请舞"
+            },
+            {
+              "id": "step_asahi_04",
+              "type": "choice",
+              "content": "赶出去"
+            }
+          ]
+        },
+        {
+          "id": "ending_rika_end",
+          "name": "里佳 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_rika_01",
+              "type": "choice",
+              "content": "什么也不说"
+            },
+            {
+              "id": "step_rika_02",
+              "type": "choice",
+              "content": "再蒙混过去"
+            },
+            {
+              "id": "step_rika_03",
+              "type": "choice",
+              "content": "赶快闪人"
+            },
+            {
+              "id": "step_rika_04",
+              "type": "choice",
+              "content": "进房间看看"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

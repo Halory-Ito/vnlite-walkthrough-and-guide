@@ -1,0 +1,361 @@
+{
+  "vid": "v3040",
+  "name": {
+    "zh-cn": "魔法少女Twinkle",
+    "ja-jp": "魔法少女Twin☆kle",
+    "ja-Latn": "mahou-shoujo-twinkle"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-15",
+  "routes": [
+    {
+      "id": "route_game_guide",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_hoshino_yayoi_end",
+          "name": "星野弥生 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_hoshino_yayoi_01",
+              "type": "choice",
+              "content": "[醒来]"
+            },
+            {
+              "id": "step_hoshino_yayoi_02",
+              "type": "choice",
+              "content": "帮助弥生"
+            },
+            {
+              "id": "step_hoshino_yayoi_03",
+              "type": "choice",
+              "content": "用温暖的目光送走两人"
+            },
+            {
+              "id": "step_hoshino_yayoi_04",
+              "type": "choice",
+              "content": "和弥生一起回家"
+            },
+            {
+              "id": "step_hoshino_yayoi_05",
+              "type": "choice",
+              "content": "吃饭就好"
+            },
+            {
+              "id": "step_hoshino_yayoi_06",
+              "type": "choice",
+              "content": "在小卖部买面包"
+            },
+            {
+              "id": "step_hoshino_yayoi_07",
+              "type": "choice",
+              "content": "等待弥生"
+            },
+            {
+              "id": "step_hoshino_yayoi_08",
+              "type": "choice",
+              "content": "没什么"
+            },
+            {
+              "id": "step_hoshino_yayoi_09",
+              "type": "choice",
+              "content": "跑去帮忙！"
+            },
+            {
+              "id": "step_hoshino_yayoi_10",
+              "type": "choice",
+              "content": "瞄准限定菜单去食堂"
+            },
+            {
+              "id": "step_hoshino_yayoi_11",
+              "type": "choice",
+              "content": "我觉得在"
+            },
+            {
+              "id": "step_hoshino_yayoi_12",
+              "type": "choice",
+              "content": "去帐篷的救护点看看"
+            },
+            {
+              "id": "step_hoshino_yayoi_13",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_hoshino_yayoi_14",
+              "type": "choice",
+              "content": "接受告白"
+            }
+          ]
+        },
+        {
+          "id": "ending_hoshino_yayoi_end2",
+          "name": "星野弥生 END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_hoshino_yayoi_19",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_hoshino_yayoi_20",
+              "type": "choice",
+              "content": "不接受告白"
+            }
+          ]
+        },
+        {
+          "id": "ending_mikitani_subaru_end",
+          "name": "三木谷昴 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_mikitani_subaru_01",
+              "type": "choice",
+              "content": "[醒来]"
+            },
+            {
+              "id": "step_mikitani_subaru_02",
+              "type": "choice",
+              "content": "打招呼后告别"
+            },
+            {
+              "id": "step_mikitani_subaru_03",
+              "type": "choice",
+              "content": "忍不住吐槽了"
+            },
+            {
+              "id": "step_mikitani_subaru_04",
+              "type": "choice",
+              "content": "去操场"
+            },
+            {
+              "id": "step_mikitani_subaru_05",
+              "type": "choice",
+              "content": "吃饭就好"
+            },
+            {
+              "id": "step_mikitani_subaru_06",
+              "type": "choice",
+              "content": "食堂"
+            },
+            {
+              "id": "step_mikitani_subaru_07",
+              "type": "choice",
+              "content": "先回去"
+            },
+            {
+              "id": "step_mikitani_subaru_08",
+              "type": "choice",
+              "content": "没什么"
+            },
+            {
+              "id": "step_mikitani_subaru_09",
+              "type": "choice",
+              "content": "观察情况"
+            },
+            {
+              "id": "step_mikitani_subaru_10",
+              "type": "choice",
+              "content": "瞄准限定菜单去食堂"
+            },
+            {
+              "id": "step_mikitani_subaru_11",
+              "type": "choice",
+              "content": "不可能在"
+            },
+            {
+              "id": "step_mikitani_subaru_12",
+              "type": "choice",
+              "content": "眺望啦啦队"
+            },
+            {
+              "id": "step_mikitani_subaru_13",
+              "type": "choice",
+              "content": "什么也说不出来"
+            },
+            {
+              "id": "step_mikitani_subaru_14",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_mikitani_subaru_15",
+              "type": "choice",
+              "content": "一起作为正义的伙伴努力"
+            }
+          ]
+        },
+        {
+          "id": "ending_mikitani_subaru_end2",
+          "name": "三木谷昴 END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_mikitani_subaru_18",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_mikitani_subaru_19",
+              "type": "choice",
+              "content": "绝对要让魔法少女停止"
+            }
+          ]
+        },
+        {
+          "id": "ending_shirogami_shizuki_end",
+          "name": "白神静姫 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_shirogami_shizuki_01",
+              "type": "choice",
+              "content": "[醒来]"
+            },
+            {
+              "id": "step_shirogami_shizuki_02",
+              "type": "choice",
+              "content": "打招呼后告别"
+            },
+            {
+              "id": "step_shirogami_shizuki_03",
+              "type": "choice",
+              "content": "忍不住吐槽了"
+            },
+            {
+              "id": "step_shirogami_shizuki_04",
+              "type": "choice",
+              "content": "在校内闲逛"
+            },
+            {
+              "id": "step_shirogami_shizuki_05",
+              "type": "choice",
+              "content": "吃饭就好"
+            },
+            {
+              "id": "step_shirogami_shizuki_06",
+              "type": "choice",
+              "content": "在小卖部买面包"
+            },
+            {
+              "id": "step_shirogami_shizuki_07",
+              "type": "choice",
+              "content": "先回去"
+            },
+            {
+              "id": "step_shirogami_shizuki_08",
+              "type": "choice",
+              "content": "算是吧"
+            },
+            {
+              "id": "step_shirogami_shizuki_09",
+              "type": "choice",
+              "content": "观察情况"
+            },
+            {
+              "id": "step_shirogami_shizuki_10",
+              "type": "choice",
+              "content": "还是在小卖部买面包"
+            },
+            {
+              "id": "step_shirogami_shizuki_11",
+              "type": "choice",
+              "content": "不可能在"
+            },
+            {
+              "id": "step_shirogami_shizuki_12",
+              "type": "choice",
+              "content": "眺望啦啦队"
+            },
+            {
+              "id": "step_shirogami_shizuki_13",
+              "type": "choice",
+              "content": "说安慰的话"
+            }
+          ]
+        },
+        {
+          "id": "ending_horie_tsubasa_end",
+          "name": "堀江つばさ END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_horie_tsubasa_01",
+              "type": "choice",
+              "content": "[醒来]"
+            },
+            {
+              "id": "step_horie_tsubasa_02",
+              "type": "choice",
+              "content": "食堂"
+            },
+            {
+              "id": "step_horie_tsubasa_03",
+              "type": "choice",
+              "content": "先回去"
+            },
+            {
+              "id": "step_horie_tsubasa_04",
+              "type": "choice",
+              "content": "没什么"
+            },
+            {
+              "id": "step_horie_tsubasa_05",
+              "type": "choice",
+              "content": "观察情况"
+            },
+            {
+              "id": "step_horie_tsubasa_06",
+              "type": "choice",
+              "content": "还是在小卖部买面包"
+            },
+            {
+              "id": "step_horie_tsubasa_07",
+              "type": "choice",
+              "content": "不可能在"
+            },
+            {
+              "id": "step_horie_tsubasa_08",
+              "type": "choice",
+              "content": "其实只对便当感兴趣"
+            },
+            {
+              "id": "step_horie_tsubasa_09",
+              "type": "choice",
+              "content": "什么也说不出来"
+            }
+          ]
+        },
+        {
+          "id": "ending_risitia_end",
+          "name": "リシティア END",
+          "type": "normal",
+          "requirements": "4人END后，从最初开始",
+          "steps": [
+            {
+              "id": "step_risitia_02",
+              "type": "choice",
+              "content": "继续做梦"
+            }
+          ]
+        },
+        {
+          "id": "ending_bita_end",
+          "name": "ビータ END",
+          "type": "normal",
+          "requirements": "リシティアEND后，从最初开始",
+          "steps": [
+            {
+              "id": "step_bita_02",
+              "type": "choice",
+              "content": "喵喵喵喵，喵啊"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

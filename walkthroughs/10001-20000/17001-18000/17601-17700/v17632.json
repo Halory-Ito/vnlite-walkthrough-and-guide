@@ -1,0 +1,125 @@
+{
+  "vid": "v17632",
+  "name": {
+    "zh-cn": "恋慕之心的交织方式",
+    "en-us": "Koikata: How Our Love Grows",
+    "ja-jp": "恋する気持ちのかさねかた",
+    "ja-Latn": "koi-suru-kimochi-no-kasanekata"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-13",
+  "tips": [
+    "攻略前必须先安装「わたしね、兄さんのお嫁さんになりたいの」补丁才可攻略一花"
+  ],
+  "routes": [
+    {
+      "id": "route_1762678003248",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1762678063030",
+          "name": "月島 沙織",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762678148236",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1762678149010",
+              "type": "choice",
+              "content": "去帮下纱织吧"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762678063215",
+          "name": "柊 美桜",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762678184903",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1762678186071",
+              "type": "choice",
+              "content": "挺在意美樱的情况"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762678063569",
+          "name": "鳴海 朱子",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762678195276",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1762678196149",
+              "type": "choice",
+              "content": "去考察下社团活动吧"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762678064105",
+          "name": "久遠寺 日和",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762678225122",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1762678225803",
+              "type": "choice",
+              "content": "留在自助餐厅"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762678064495",
+          "name": "鏑木 由希江",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762678250445",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1762678251674",
+              "type": "choice",
+              "content": "去给由希江帮忙"
+            },
+            {
+              "id": "step_1762678267858",
+              "type": "choice",
+              "content": "典雅成熟的/可爱的少女系/正巧看见的白色",
+              "prefix": "✲"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762678064881",
+          "name": "皇城 一花",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762678372843",
+              "type": "choice",
+              "content": "一花"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

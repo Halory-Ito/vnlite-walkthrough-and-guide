@@ -1,0 +1,428 @@
+{
+  "vid": "v1755",
+  "name": {
+    "zh-cn": "夏梦渚",
+    "ja-jp": "ナツユメナギサ",
+    "ja-Latn": "natsuyume-nagisa"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-14",
+  "tips": [
+    "(　)标注的选项请自行使用快速存档/读档进行回收",
+    "✲标注的选项为追加选项，不出现的时候无视即可。"
+  ],
+  "routes": [
+    {
+      "id": "route_1772963975863",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1772964126269",
+          "name": "序章",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1772964739907",
+              "type": "choice",
+              "content": "海滨公园"
+            },
+            {
+              "id": "step_1772964740101",
+              "type": "choice",
+              "content": "购物街"
+            },
+            {
+              "id": "step_1772964740584",
+              "type": "choice",
+              "content": "原生植物园"
+            },
+            {
+              "id": "step_1772964740829",
+              "type": "choice",
+              "content": "公寓前"
+            },
+            {
+              "id": "step_1772964741052",
+              "type": "choice",
+              "content": "老树真树"
+            },
+            {
+              "id": "step_1772964862767",
+              "type": "choice",
+              "content": "美浜羊"
+            },
+            {
+              "id": "step_1772964862989",
+              "type": "choice",
+              "content": "远野遥"
+            },
+            {
+              "id": "step_1772964892469",
+              "type": "choice",
+              "content": "羊"
+            }
+          ]
+        },
+        {
+          "id": "ending_1772964126454",
+          "name": "美浜羊 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1772972890402",
+              "type": "choice",
+              "content": "美浜羊"
+            },
+            {
+              "id": "step_1772972890548",
+              "type": "choice",
+              "content": "口"
+            },
+            {
+              "id": "step_1772972890703",
+              "type": "choice",
+              "content": "美浜羊"
+            },
+            {
+              "id": "step_1772972890859",
+              "type": "choice",
+              "content": "很重要的后辈"
+            },
+            {
+              "id": "step_1772972891013",
+              "type": "choice",
+              "content": "美浜羊"
+            },
+            {
+              "id": "step_1772972891192",
+              "type": "choice",
+              "content": "羊不喜欢吧"
+            },
+            {
+              "id": "step_1772972891447",
+              "type": "choice",
+              "content": "美浜羊"
+            }
+          ]
+        },
+        {
+          "id": "ending_1772972930513",
+          "name": "青山司 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1772972943434",
+              "type": "choice",
+              "content": "青山司"
+            },
+            {
+              "id": "step_1772972943622",
+              "type": "choice",
+              "content": "有兴趣"
+            },
+            {
+              "id": "step_1772972943788",
+              "type": "choice",
+              "content": "认真思考"
+            },
+            {
+              "id": "step_1772972943950",
+              "type": "choice",
+              "content": "青山司"
+            },
+            {
+              "id": "step_1772972944112",
+              "type": "choice",
+              "content": "帮忙"
+            },
+            {
+              "id": "step_1772972944284",
+              "type": "choice",
+              "content": "翻司的牌子"
+            },
+            {
+              "id": "step_1772972944440",
+              "type": "choice",
+              "content": "青山司"
+            },
+            {
+              "id": "step_1772972944608",
+              "type": "choice",
+              "content": "帮忙"
+            },
+            {
+              "id": "step_1772972972456",
+              "type": "choice",
+              "content": "青山司"
+            },
+            {
+              "id": "step_1772972992722",
+              "type": "choice",
+              "content": "帮忙"
+            },
+            {
+              "id": "step_1772972992915",
+              "type": "choice",
+              "content": "嘴里/脸上"
+            },
+            {
+              "id": "step_1772972993078",
+              "type": "choice",
+              "content": "里面/外面"
+            },
+            {
+              "id": "step_1772972993343",
+              "type": "choice",
+              "content": "还是去洗个澡吧"
+            }
+          ]
+        },
+        {
+          "id": "ending_1772972930657",
+          "name": "老树真树 END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1772973031494",
+              "type": "choice",
+              "content": "老树真树"
+            },
+            {
+              "id": "step_1772973031669",
+              "type": "choice",
+              "content": "朝她的耳朵里吹气"
+            },
+            {
+              "id": "step_1772973031840",
+              "type": "choice",
+              "content": "不需要",
+              "prefix": "✲"
+            },
+            {
+              "id": "step_1772973031999",
+              "type": "choice",
+              "content": "老树真树"
+            },
+            {
+              "id": "step_1772973032161",
+              "type": "choice",
+              "content": "坦率地说是“因为很可爱啊”"
+            },
+            {
+              "id": "step_1772973032302",
+              "type": "choice",
+              "content": "老树真树"
+            },
+            {
+              "id": "step_1772973032459",
+              "type": "choice",
+              "content": "正常地进行说明"
+            },
+            {
+              "id": "step_1772973032583",
+              "type": "choice",
+              "content": "老树真树"
+            },
+            {
+              "id": "step_1772973161643",
+              "type": "choice",
+              "content": "不点鱼没问题吗？"
+            },
+            {
+              "id": "step_1772973161827",
+              "type": "choice",
+              "content": "老树真树"
+            },
+            {
+              "id": "step_1772973162033",
+              "type": "choice",
+              "content": "努力回想起来"
+            },
+            {
+              "id": "step_1772973162364",
+              "type": "choice",
+              "content": "好好地斟酌作战策"
+            }
+          ]
+        },
+        {
+          "id": "ending_1772973189832",
+          "name": "远野遥 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1772973203039",
+              "type": "choice",
+              "content": "远野遥"
+            },
+            {
+              "id": "step_1772973203354",
+              "type": "choice",
+              "content": "像恋人"
+            },
+            {
+              "id": "step_1772973203498",
+              "type": "choice",
+              "content": "远野遥"
+            },
+            {
+              "id": "step_1772973203644",
+              "type": "choice",
+              "content": "五颜六色的刨冰"
+            },
+            {
+              "id": "step_1772973203803",
+              "type": "choice",
+              "content": "红色的刨冰"
+            },
+            {
+              "id": "step_1772973204159",
+              "type": "choice",
+              "content": "绿色的刨冰"
+            },
+            {
+              "id": "step_1772973227781",
+              "type": "choice",
+              "content": "远野遥"
+            },
+            {
+              "id": "step_1772973227956",
+              "type": "choice",
+              "content": "遥"
+            },
+            {
+              "id": "step_1772973228112",
+              "type": "choice",
+              "content": "远野遥"
+            },
+            {
+              "id": "step_1772973228267",
+              "type": "choice",
+              "content": "什么时候开始待在远野身边的？"
+            }
+          ]
+        },
+        {
+          "id": "ending_1772973318399",
+          "name": "七濑步 END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1772973326137",
+              "type": "choice",
+              "content": "是那样的",
+              "group": "CHAPTER-01"
+            },
+            {
+              "id": "step_1772973326270",
+              "type": "choice",
+              "content": "希望步能会做料理",
+              "group": "CHAPTER-01"
+            },
+            {
+              "id": "step_1772973326420",
+              "type": "choice",
+              "content": "步来做不就好了",
+              "group": "CHAPTER-01"
+            },
+            {
+              "id": "step_1772973326539",
+              "type": "choice",
+              "content": "啊——",
+              "group": "CHAPTER-01"
+            },
+            {
+              "id": "step_1772973326683",
+              "type": "choice",
+              "content": "没办法，我知道了啦",
+              "group": "CHAPTER-02"
+            },
+            {
+              "id": "step_1772973326940",
+              "type": "choice",
+              "content": "去看看步的情况",
+              "group": "CHAPTER-02"
+            },
+            {
+              "id": "step_1772973327152",
+              "type": "choice",
+              "content": "什、什么都没藏",
+              "group": "CHAPTER-02"
+            },
+            {
+              "id": "step_1772973327331",
+              "type": "choice",
+              "content": "知道了知道了",
+              "group": "CHAPTER-02"
+            },
+            {
+              "id": "step_1772973327468",
+              "type": "choice",
+              "content": "也并非不行",
+              "group": "CHAPTER-03"
+            },
+            {
+              "id": "step_1772973327605",
+              "type": "choice",
+              "content": "确实是很厉害的景象",
+              "group": "CHAPTER-03"
+            }
+          ]
+        },
+        {
+          "id": "ending_1772973318567",
+          "name": "老树真树 END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1773034526668",
+              "type": "note",
+              "content": "※CHAPTER-03结束后从最初开始"
+            },
+            {
+              "id": "step_1772973617751",
+              "type": "choice",
+              "content": "老树真树"
+            },
+            {
+              "id": "step_1772973617937",
+              "type": "choice",
+              "content": "试着吸引她的注意力"
+            },
+            {
+              "id": "step_1772973620653",
+              "type": "choice",
+              "content": "我也要一个"
+            }
+          ]
+        },
+        {
+          "id": "ending_1772973647466",
+          "name": "七濑步 END2",
+          "type": "normal",
+          "requirements": "※真树END2后，选择CHAPTER-04开始",
+          "steps": [
+            {
+              "id": "step_1772973694946",
+              "type": "choice",
+              "content": "请别做这种事啦！"
+            }
+          ]
+        },
+        {
+          "id": "ending_1772973707997",
+          "name": "夏梦 END",
+          "type": "normal",
+          "requirements": "※以上END后",
+          "steps": [
+            {
+              "id": "step_1772973726319",
+              "type": "choice",
+              "content": "选择夏梦开始"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

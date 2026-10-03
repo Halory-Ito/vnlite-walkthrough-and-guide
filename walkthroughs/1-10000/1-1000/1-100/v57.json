@@ -1,0 +1,699 @@
+{
+  "vid": "v57",
+  "name": {
+    "zh-cn": "车轮之国，向日葵的少女",
+    "en-us": "Sharin no Kuni: The Girl Among the Sunflowers",
+    "ja-jp": "車輪の国、向日葵の少女",
+    "ja-Latn": "sharin-no-kuni-himawari-no-shoujo"
+  },
+  "level": 2,
+  "updatedAt": "2026-02-27",
+  "routes": [
+    {
+      "id": "route_1754661114827",
+      "name": "三广 幸",
+      "endings": [
+        {
+          "id": "ending_1754661128608",
+          "name": "幸 END 1",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_1754661552894",
+              "type": "choice",
+              "content": "叫住她"
+            },
+            {
+              "id": "step_1754661553331",
+              "type": "choice",
+              "content": "叫醒她"
+            },
+            {
+              "id": "step_1755001173349",
+              "type": "choice",
+              "content": "追上夏咲"
+            },
+            {
+              "id": "step_1755001181083",
+              "type": "choice",
+              "content": "放弃"
+            },
+            {
+              "id": "step_1755001181231",
+              "type": "choice",
+              "content": "老实承认自己是无业游民"
+            },
+            {
+              "id": "step_1755001181368",
+              "type": "choice",
+              "content": "或许我会喜欢上她也说不定"
+            },
+            {
+              "id": "step_1755001181490",
+              "type": "choice",
+              "content": "山"
+            },
+            {
+              "id": "step_1755001190552",
+              "type": "choice",
+              "content": "就山上了"
+            },
+            {
+              "id": "step_1755001190689",
+              "type": "choice",
+              "content": "河边"
+            },
+            {
+              "id": "step_1755001190838",
+              "type": "choice",
+              "content": "向夏咲出声"
+            },
+            {
+              "id": "step_1755001190957",
+              "type": "choice",
+              "content": "感觉并不坏"
+            },
+            {
+              "id": "step_1755001202886",
+              "type": "choice",
+              "content": "的确应该送她的"
+            },
+            {
+              "id": "step_1755001203021",
+              "type": "choice",
+              "content": "阔气的出钱买下"
+            },
+            {
+              "id": "step_1755001203134",
+              "type": "choice",
+              "content": "休息"
+            },
+            {
+              "id": "step_1755001203258",
+              "type": "choice",
+              "content": "水流的通路"
+            },
+            {
+              "id": "step_1755001215237",
+              "type": "choice",
+              "content": "继续上"
+            },
+            {
+              "id": "step_1755001215399",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1755001221377",
+              "type": "choice",
+              "content": "选择幸"
+            },
+            {
+              "id": "step_1755001226892",
+              "type": "choice",
+              "content": "强迫她今天开始努力"
+            },
+            {
+              "id": "step_1755001227451",
+              "type": "choice",
+              "content": "警告她"
+            },
+            {
+              "id": "step_1755001236462",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1755002025517",
+              "type": "choice",
+              "content": "就原谅她这次"
+            }
+          ]
+        },
+        {
+          "id": "ending_1755002270076",
+          "name": "幸 END 2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755002285598",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1755002335266",
+              "type": "choice",
+              "content": "不可原谅"
+            },
+            {
+              "id": "step_1755002346643",
+              "type": "choice",
+              "content": "用玩笑糊弄过去"
+            },
+            {
+              "id": "step_1755002346804",
+              "type": "choice",
+              "content": "认真的跟她谈"
+            },
+            {
+              "id": "step_1755002346954",
+              "type": "choice",
+              "content": "你这么喜欢你爸爸啊……"
+            },
+            {
+              "id": "step_1755002375148",
+              "type": "choice",
+              "content": "许可"
+            },
+            {
+              "id": "step_1755002375297",
+              "type": "choice",
+              "content": "交给灯花"
+            },
+            {
+              "id": "step_1755002375468",
+              "type": "choice",
+              "content": "柔和的教导"
+            },
+            {
+              "id": "step_1755002388530",
+              "type": "choice",
+              "content": "拥护京子老师"
+            },
+            {
+              "id": "step_1755002388677",
+              "type": "choice",
+              "content": "绝对不行"
+            },
+            {
+              "id": "step_1755002388835",
+              "type": "choice",
+              "content": "去见见幸"
+            },
+            {
+              "id": "step_1755002389247",
+              "type": "choice",
+              "content": "去"
+            },
+            {
+              "id": "step_1755002404228",
+              "type": "choice",
+              "content": "你就选京子老师吧"
+            },
+            {
+              "id": "step_1755002404399",
+              "type": "choice",
+              "content": "硬是问出来"
+            },
+            {
+              "id": "step_1755002404535",
+              "type": "choice",
+              "content": "追上夏咲"
+            },
+            {
+              "id": "step_1755002404655",
+              "type": "choice",
+              "content": "你对情侣有兴趣吗？"
+            },
+            {
+              "id": "step_1755002404798",
+              "type": "choice",
+              "content": "等待夏咲的回答"
+            },
+            {
+              "id": "step_1755002426641",
+              "type": "choice",
+              "content": "让他进来"
+            },
+            {
+              "id": "step_1755002426767",
+              "type": "choice",
+              "content": "寻找别的出口"
+            },
+            {
+              "id": "step_1755002426895",
+              "type": "choice",
+              "content": "学校宿舍"
+            },
+            {
+              "id": "step_1755002427023",
+              "type": "choice",
+              "content": "商店街"
+            },
+            {
+              "id": "step_1755002427167",
+              "type": "choice",
+              "content": "灯花的家"
+            },
+            {
+              "id": "step_1755002451297",
+              "type": "choice",
+              "content": "其它"
+            },
+            {
+              "id": "step_1755002451448",
+              "type": "choice",
+              "content": "检问所"
+            },
+            {
+              "id": "step_1755002451638",
+              "type": "choice",
+              "content": "担心幸"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755002525554",
+      "name": "大音 灯花",
+      "endings": [
+        {
+          "id": "ending_1755002573812",
+          "name": "灯花 END 1",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_1755002632509",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1755002633702",
+              "type": "choice",
+              "content": "至少现在是不行的"
+            },
+            {
+              "id": "step_1755002633848",
+              "type": "choice",
+              "content": "强迫她今天开始努力"
+            },
+            {
+              "id": "step_1755002633992",
+              "type": "choice",
+              "content": "警告她"
+            },
+            {
+              "id": "step_1755002634146",
+              "type": "choice",
+              "content": "用玩笑模弄过去"
+            },
+            {
+              "id": "step_1755002634339",
+              "type": "choice",
+              "content": "认真的跟她谈"
+            },
+            {
+              "id": "step_1755002675427",
+              "type": "choice",
+              "content": "你这么喜欢你爸爸啊……"
+            },
+            {
+              "id": "step_1755002675586",
+              "type": "choice",
+              "content": "许可"
+            },
+            {
+              "id": "step_1755002675732",
+              "type": "choice",
+              "content": "交给灯花"
+            },
+            {
+              "id": "step_1755002699621",
+              "type": "choice",
+              "content": "柔和的教导"
+            },
+            {
+              "id": "step_1755002699845",
+              "type": "choice",
+              "content": "拥护京子老师"
+            },
+            {
+              "id": "step_1755002700008",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_1755002713989",
+              "type": "choice",
+              "content": "这也是不得已的"
+            }
+          ]
+        },
+        {
+          "id": "ending_1755002721973",
+          "name": "灯花 END 2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755002734999",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1755002743237",
+              "type": "choice",
+              "content": "绝对不行"
+            },
+            {
+              "id": "step_1755002745393",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_1755002756528",
+              "type": "choice",
+              "content": "去她房间"
+            },
+            {
+              "id": "step_1755002756708",
+              "type": "choice",
+              "content": "还是什么地方都别去了"
+            },
+            {
+              "id": "step_1755002756833",
+              "type": "choice",
+              "content": "去"
+            },
+            {
+              "id": "step_1755002756951",
+              "type": "choice",
+              "content": "你就选京子老师吧"
+            },
+            {
+              "id": "step_1755002757100",
+              "type": "choice",
+              "content": "硬是问出来"
+            },
+            {
+              "id": "step_1755002771345",
+              "type": "choice",
+              "content": "追上夏咲"
+            },
+            {
+              "id": "step_1755002771479",
+              "type": "choice",
+              "content": "你对情侣有兴趣吗？"
+            },
+            {
+              "id": "step_1755002796734",
+              "type": "choice",
+              "content": "等待夏咲的回答"
+            },
+            {
+              "id": "step_1755002796873",
+              "type": "choice",
+              "content": "让他进来"
+            },
+            {
+              "id": "step_1755002797008",
+              "type": "choice",
+              "content": "寻找别的出口"
+            },
+            {
+              "id": "step_1755002808573",
+              "type": "choice",
+              "content": "学校宿舍"
+            },
+            {
+              "id": "step_1755002816273",
+              "type": "choice",
+              "content": "商店街"
+            },
+            {
+              "id": "step_1755002816424",
+              "type": "choice",
+              "content": "灯花的家"
+            },
+            {
+              "id": "step_1755002886413",
+              "type": "choice",
+              "content": "其它"
+            },
+            {
+              "id": "step_1755002895479",
+              "type": "choice",
+              "content": "检问所"
+            },
+            {
+              "id": "step_1755002895617",
+              "type": "choice",
+              "content": "担心灯花"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755002944705",
+      "name": "日向 夏咲",
+      "endings": [
+        {
+          "id": "ending_1755002999469",
+          "name": "夏咲 END 1",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_1755003071987",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_1755003079962",
+              "type": "choice",
+              "content": "不去"
+            },
+            {
+              "id": "step_1755003080118",
+              "type": "choice",
+              "content": "去探视夏咲"
+            },
+            {
+              "id": "step_1755003080286",
+              "type": "choice",
+              "content": "去"
+            },
+            {
+              "id": "step_1755003080473",
+              "type": "choice",
+              "content": "你就选京子老师吧"
+            },
+            {
+              "id": "step_1755003119097",
+              "type": "choice",
+              "content": "硬是问出来"
+            },
+            {
+              "id": "step_1755003119328",
+              "type": "choice",
+              "content": "追上夏咲"
+            },
+            {
+              "id": "step_1755003119507",
+              "type": "choice",
+              "content": "你对情侣有兴趣吗？"
+            },
+            {
+              "id": "step_1755003119657",
+              "type": "save",
+              "content": "SAVE 5"
+            },
+            {
+              "id": "step_1755003166128",
+              "type": "choice",
+              "content": "等待夏咲的回答"
+            },
+            {
+              "id": "step_1755003166332",
+              "type": "choice",
+              "content": "让他进来"
+            },
+            {
+              "id": "step_1755003166578",
+              "type": "choice",
+              "content": "寻找别的出口"
+            },
+            {
+              "id": "step_1755003166875",
+              "type": "choice",
+              "content": "学校宿舍"
+            },
+            {
+              "id": "step_1755003167237",
+              "type": "choice",
+              "content": "商店街"
+            },
+            {
+              "id": "step_1755003185519",
+              "type": "choice",
+              "content": "灯花的家"
+            },
+            {
+              "id": "step_1755003185837",
+              "type": "choice",
+              "content": "向日葵田"
+            },
+            {
+              "id": "step_1755003186193",
+              "type": "choice",
+              "content": "商店街"
+            },
+            {
+              "id": "step_1755003186376",
+              "type": "choice",
+              "content": "灯花的家"
+            },
+            {
+              "id": "step_1755003203910",
+              "type": "choice",
+              "content": "向日葵田"
+            },
+            {
+              "id": "step_1755003204067",
+              "type": "choice",
+              "content": "商店街"
+            },
+            {
+              "id": "step_1755003204300",
+              "type": "save",
+              "content": "SAVE 6"
+            },
+            {
+              "id": "step_1755003204433",
+              "type": "choice",
+              "content": "灯花的家"
+            }
+          ]
+        },
+        {
+          "id": "ending_1755003277753",
+          "name": "夏咲 END 2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755003299380",
+              "type": "load",
+              "content": "LOAD 6"
+            },
+            {
+              "id": "step_1755003307902",
+              "type": "choice",
+              "content": "其它"
+            },
+            {
+              "id": "step_1755003308065",
+              "type": "choice",
+              "content": "检问所"
+            },
+            {
+              "id": "step_1755003308210",
+              "type": "choice",
+              "content": "担心夏咲"
+            },
+            {
+              "id": "step_1755003308444",
+              "type": "choice",
+              "content": "和夏咲她们一起相互扶持把握幸福"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755003479314",
+      "name": "樋口璃璃子",
+      "endings": [
+        {
+          "id": "ending_1755003495625",
+          "name": "璃璃子 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755003545147",
+              "type": "load",
+              "content": "LOAD 5"
+            },
+            {
+              "id": "step_1755003551470",
+              "type": "choice",
+              "content": "柏青哥怎么样？"
+            },
+            {
+              "id": "step_1755003551600",
+              "type": "choice",
+              "content": "把门关上"
+            },
+            {
+              "id": "step_1755003551730",
+              "type": "choice",
+              "content": "寻找别的出口"
+            },
+            {
+              "id": "step_1755003551969",
+              "type": "choice",
+              "content": "学校宿舍"
+            },
+            {
+              "id": "step_1755003552375",
+              "type": "choice",
+              "content": "商店街"
+            },
+            {
+              "id": "step_1755003552535",
+              "type": "choice",
+              "content": "灯花的家"
+            },
+            {
+              "id": "step_1755003552876",
+              "type": "choice",
+              "content": "其它"
+            },
+            {
+              "id": "step_1755003553075",
+              "type": "choice",
+              "content": "检问所"
+            },
+            {
+              "id": "step_1755003553267",
+              "type": "choice",
+              "content": "担心矶野"
+            },
+            {
+              "id": "step_1755003607450",
+              "type": "save",
+              "content": "SAVE 7"
+            },
+            {
+              "id": "step_1755003618517",
+              "type": "choice",
+              "content": "和姐姐一起进行社会的变革"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755003669580",
+      "name": "大团圆",
+      "endings": [
+        {
+          "id": "ending_1755003716350",
+          "name": "大团圆 END",
+          "type": "good",
+          "steps": [
+            {
+              "id": "step_1755003767340",
+              "type": "load",
+              "content": "LOAD 7"
+            },
+            {
+              "id": "step_1755003773132",
+              "type": "choice",
+              "content": "和夏咲她们一起相互扶持把握幸福"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

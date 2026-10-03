@@ -1,0 +1,345 @@
+{
+  "vid": "v10957",
+  "name": {
+    "zh-cn": "幸福噩梦",
+    "en-us": "Hapymaher",
+    "ja-jp": "ハピメア",
+    "ja-Latn": "hapymaher"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-14",
+  "tips": [
+    "★选项为追加选项，不出现时无视即可"
+  ],
+  "routes": [
+    {
+      "id": "route_game",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_saki_end",
+          "name": "咲 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_saki_01",
+              "type": "save",
+              "content": "SAVE 1",
+              "prefix": "◆"
+            },
+            {
+              "id": "step_saki_02",
+              "type": "choice",
+              "content": "这，不是我"
+            },
+            {
+              "id": "step_saki_03",
+              "type": "choice",
+              "content": "想起了那个重要的人的脸",
+              "prefix": "★"
+            },
+            {
+              "id": "step_saki_04",
+              "type": "save",
+              "content": "SAVE 2",
+              "prefix": "◆"
+            },
+            {
+              "id": "step_saki_05",
+              "type": "choice",
+              "content": "也不是没有"
+            },
+            {
+              "id": "step_saki_06",
+              "type": "save",
+              "content": "SAVE 3",
+              "prefix": "◆"
+            },
+            {
+              "id": "step_saki_07",
+              "type": "choice",
+              "content": "是你认识的人哦"
+            },
+            {
+              "id": "step_saki_08",
+              "type": "choice",
+              "content": "想要忍耐"
+            },
+            {
+              "id": "step_saki_09",
+              "type": "choice",
+              "content": "在意咲"
+            },
+            {
+              "id": "step_saki_10",
+              "type": "choice",
+              "content": "我房间的钥匙"
+            },
+            {
+              "id": "step_saki_11",
+              "type": "choice",
+              "content": "咲"
+            },
+            {
+              "id": "step_saki_12",
+              "type": "choice",
+              "content": "就是那样"
+            }
+          ]
+        },
+        {
+          "id": "ending_bad_end",
+          "name": "BAD END",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_bad_01",
+              "type": "load",
+              "content": "LOAD 1",
+              "prefix": "◆"
+            },
+            {
+              "id": "step_bad_02",
+              "type": "choice",
+              "content": "我接受了"
+            }
+          ]
+        },
+        {
+          "id": "ending_yayoi_end",
+          "name": "弥生 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_yayoi_01",
+              "type": "load",
+              "content": "LOAD 3",
+              "prefix": "◆"
+            },
+            {
+              "id": "step_yayoi_02",
+              "type": "choice",
+              "content": "是你不知道的人"
+            },
+            {
+              "id": "step_yayoi_03",
+              "type": "save",
+              "content": "SAVE 4",
+              "prefix": "◆"
+            },
+            {
+              "id": "step_yayoi_04",
+              "type": "choice",
+              "content": "却无法忍耐"
+            },
+            {
+              "id": "step_yayoi_05",
+              "type": "save",
+              "content": "SAVE 5",
+              "prefix": "◆"
+            },
+            {
+              "id": "step_yayoi_06",
+              "type": "choice",
+              "content": "在意弥生"
+            },
+            {
+              "id": "step_yayoi_07",
+              "type": "choice",
+              "content": "科学室的钥匙"
+            },
+            {
+              "id": "step_yayoi_08",
+              "type": "choice",
+              "content": "弥生"
+            }
+          ]
+        },
+        {
+          "id": "ending_keiko_end",
+          "name": "景子 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_keiko_01",
+              "type": "load",
+              "content": "LOAD 4",
+              "prefix": "◆"
+            },
+            {
+              "id": "step_keiko_02",
+              "type": "choice",
+              "content": "忍耐"
+            },
+            {
+              "id": "step_keiko_03",
+              "type": "choice",
+              "content": "没什么人好在意的"
+            },
+            {
+              "id": "step_keiko_04",
+              "type": "choice",
+              "content": "吉他盒的钥匙"
+            },
+            {
+              "id": "step_keiko_05",
+              "type": "choice",
+              "content": "景子"
+            }
+          ]
+        },
+        {
+          "id": "ending_maia_end",
+          "name": "舞亚 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_maia_01",
+              "type": "load",
+              "content": "LOAD 2",
+              "prefix": "◆"
+            },
+            {
+              "id": "step_maia_02",
+              "type": "choice",
+              "content": "没有"
+            },
+            {
+              "id": "step_maia_03",
+              "type": "choice",
+              "content": "舞亜"
+            },
+            {
+              "id": "step_maia_04",
+              "type": "choice",
+              "content": "想要忍耐"
+            },
+            {
+              "id": "step_maia_05",
+              "type": "choice",
+              "content": "就这样抓住舞亚"
+            },
+            {
+              "id": "step_maia_06",
+              "type": "choice",
+              "content": "咲"
+            },
+            {
+              "id": "step_maia_07",
+              "type": "choice",
+              "content": "不是那样的"
+            }
+          ]
+        },
+        {
+          "id": "ending_arisu_end1",
+          "name": "有栖 END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_arisu_01",
+              "type": "load",
+              "content": "LOAD 2",
+              "prefix": "◆"
+            },
+            {
+              "id": "step_arisu_02",
+              "type": "choice",
+              "content": "没有"
+            },
+            {
+              "id": "step_arisu_03",
+              "type": "choice",
+              "content": "有栖"
+            },
+            {
+              "id": "step_arisu_04",
+              "type": "choice",
+              "content": "想要忍耐"
+            },
+            {
+              "id": "step_arisu_05",
+              "type": "choice",
+              "content": "在意有栖"
+            },
+            {
+              "id": "step_arisu_06",
+              "type": "choice",
+              "content": "爱心柄的钥匙"
+            },
+            {
+              "id": "step_arisu_07",
+              "type": "choice",
+              "content": "有栖"
+            },
+            {
+              "id": "step_arisu_08",
+              "type": "choice",
+              "content": "不是那样的"
+            }
+          ]
+        },
+        {
+          "id": "ending_arisu_end2",
+          "name": "有栖 END2",
+          "type": "true",
+          "requirements": "2周目后，从最初开始",
+          "steps": [
+            {
+              "id": "step_arisu_true_02",
+              "type": "choice",
+              "content": "这，不是我"
+            },
+            {
+              "id": "step_arisu_true_03",
+              "type": "choice",
+              "content": "不知为何看见了青空",
+              "prefix": "★"
+            },
+            {
+              "id": "step_arisu_true_04",
+              "type": "choice",
+              "content": "没有"
+            },
+            {
+              "id": "step_arisu_true_05",
+              "type": "save",
+              "content": "SAVE 6",
+              "prefix": "◆"
+            },
+            {
+              "id": "step_arisu_true_06",
+              "type": "choice",
+              "content": "有栖"
+            },
+            {
+              "id": "step_arisu_true_07",
+              "type": "choice",
+              "content": "想要忍耐"
+            },
+            {
+              "id": "step_arisu_true_08",
+              "type": "choice",
+              "content": "在意有栖"
+            },
+            {
+              "id": "step_arisu_true_09",
+              "type": "choice",
+              "content": "爱心柄的钥匙"
+            },
+            {
+              "id": "step_arisu_true_10",
+              "type": "choice",
+              "content": "有栖"
+            },
+            {
+              "id": "step_arisu_true_11",
+              "type": "choice",
+              "content": "不是那样的"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

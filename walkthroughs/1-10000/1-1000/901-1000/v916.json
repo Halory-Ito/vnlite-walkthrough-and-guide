@@ -1,0 +1,91 @@
+{
+  "vid": "v916",
+  "name": {
+    "zh-cn": "和之匣",
+    "ja-jp": "和み匣",
+    "ja-Latn": "nagomibako"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-14",
+  "routes": [
+    {
+      "id": "route_sacrament",
+      "name": "サクラメント篇",
+      "endings": [
+        {
+          "id": "ending_wacai_end",
+          "name": "和菜 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_sacrament_wacai_01",
+              "type": "choice",
+              "content": "没那回事"
+            },
+            {
+              "id": "step_sacrament_wacai_02",
+              "type": "choice",
+              "content": "去探望由良吗？"
+            },
+            {
+              "id": "step_sacrament_wacai_03",
+              "type": "choice",
+              "content": "再看看由良"
+            },
+            {
+              "id": "step_sacrament_wacai_04",
+              "type": "choice",
+              "content": "有小偷吗？"
+            },
+            {
+              "id": "step_sacrament_wacai_05",
+              "type": "choice",
+              "content": "没那回事"
+            },
+            {
+              "id": "step_sacrament_wacai_06",
+              "type": "choice",
+              "content": "接近舞台"
+            }
+          ]
+        },
+        {
+          "id": "ending_yura_end",
+          "name": "由良 END",
+          "type": "normal",
+          "requirements": "从最初开始",
+          "steps": [
+            {
+              "id": "step_sacrament_yura_02",
+              "type": "choice",
+              "content": "白诘草"
+            },
+            {
+              "id": "step_sacrament_yura_03",
+              "type": "choice",
+              "content": "没那回事"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_rin",
+      "name": "凛篇",
+      "endings": [
+        {
+          "id": "ending_rin_end",
+          "name": "凛篇 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_rin_01",
+              "type": "choice",
+              "content": "抱她"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "vid": "v33494",
+  "name": {
+    "zh-cn": "猫和女子宿舍",
+    "ja-jp": "ネコと女子寮せよ！",
+    "ja-Latn": "neko-to-wakai-seyo"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-13",
+  "routes": [
+    {
+      "id": "route_1762077126958",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1762077144449",
+          "name": "八坂花音",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762077197834",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1762077199484",
+              "type": "choice",
+              "content": "对联动咖啡厅感兴趣"
+            },
+            {
+              "id": "step_1762077199871",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1762077204682",
+              "type": "choice",
+              "content": "前往花音的房间"
+            },
+            {
+              "id": "step_1762077204961",
+              "type": "choice",
+              "content": "仅传达想协助的事"
+            },
+            {
+              "id": "step_1762077205339",
+              "type": "choice",
+              "content": "选择悠闲度过"
+            },
+            {
+              "id": "step_1762077211054",
+              "type": "choice",
+              "content": "尝试独立解决"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762077244710",
+          "name": "橘晴华",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762077267179",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1762077278849",
+              "type": "choice",
+              "content": "独立解决"
+            },
+            {
+              "id": "step_1762077279226",
+              "type": "choice",
+              "content": "询问理由"
+            },
+            {
+              "id": "step_1762077279879",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_1762077284719",
+              "type": "choice",
+              "content": "向橘搭话"
+            },
+            {
+              "id": "step_1762077284898",
+              "type": "choice",
+              "content": "请求看笔记"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762077331042",
+          "name": "桧叶美月",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762077345609",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_1762077361549",
+              "type": "choice",
+              "content": "向美月搭话"
+            },
+            {
+              "id": "step_1762077361722",
+              "type": "choice",
+              "content": "坦率接受指导"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762077391900",
+          "name": "红叶明",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762077425838",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1762077432196",
+              "type": "choice",
+              "content": "在意最近的话题"
+            },
+            {
+              "id": "step_1762077432364",
+              "type": "choice",
+              "content": "独立解决"
+            },
+            {
+              "id": "step_1762077432591",
+              "type": "choice",
+              "content": "仅传达想协助的事"
+            },
+            {
+              "id": "step_1762077436411",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_1762077450228",
+              "type": "choice",
+              "content": "向红叶搭话"
+            },
+            {
+              "id": "step_1762077450388",
+              "type": "choice",
+              "content": "探查他人情况"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762077392081",
+          "name": "普通结局",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762077509216",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_1762077513901",
+              "type": "choice",
+              "content": "悠闲度过"
+            },
+            {
+              "id": "step_1762077514104",
+              "type": "choice",
+              "content": "尝试独立解决"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762077392569",
+          "name": "八坂柊",
+          "type": "normal",
+          "requirements": "需先完成其他4人攻略，从最初开始",
+          "steps": [
+            {
+              "id": "step_1762077555692",
+              "type": "choice",
+              "content": "《猫国王》最棒"
+            },
+            {
+              "id": "step_1762077555907",
+              "type": "choice",
+              "content": "独立解决"
+            },
+            {
+              "id": "step_1762077556094",
+              "type": "choice",
+              "content": "仅传达想协助的事"
+            },
+            {
+              "id": "step_1762077556283",
+              "type": "choice",
+              "content": "悠闲度过"
+            },
+            {
+              "id": "step_1762077597551",
+              "type": "choice",
+              "content": "尝试独立解决"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

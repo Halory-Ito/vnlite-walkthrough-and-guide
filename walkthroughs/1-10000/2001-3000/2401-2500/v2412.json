@@ -1,0 +1,223 @@
+{
+  "vid": "v2412",
+  "name": {
+    "zh-cn": "亲吻魔王与红茶",
+    "ja-jp": "キスと魔王と紅茶",
+    "ja-Latn": "kiss-to-maou-to-darjeeling"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-16",
+  "routes": [
+    {
+      "id": "route_kyuuyou_sara",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_sara_end",
+          "name": "九曜更纱 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_sara_01",
+              "type": "choice",
+              "content": "软的/硬的"
+            },
+            {
+              "id": "step_sara_02",
+              "type": "choice",
+              "content": "意大利料理/中华料理"
+            },
+            {
+              "id": "step_sara_03",
+              "type": "choice",
+              "content": "和龙二一起逃"
+            },
+            {
+              "id": "step_sara_04",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_sara_05",
+              "type": "choice",
+              "content": "宿舍屋顶：更纱",
+              "prefix": "■"
+            },
+            {
+              "id": "step_sara_06",
+              "type": "choice",
+              "content": "操场：更纱",
+              "prefix": "■"
+            },
+            {
+              "id": "step_sara_07",
+              "type": "choice",
+              "content": "million：更纱",
+              "prefix": "■"
+            }
+          ]
+        },
+        {
+          "id": "ending_tsubasa_end",
+          "name": "八城翼 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_tsubasa_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_tsubasa_02",
+              "type": "choice",
+              "content": "商店街：八城翼",
+              "prefix": "■"
+            },
+            {
+              "id": "step_tsubasa_03",
+              "type": "choice",
+              "content": "我的房间：八城翼",
+              "prefix": "■"
+            },
+            {
+              "id": "step_tsubasa_04",
+              "type": "choice",
+              "content": "上学路：八城翼",
+              "prefix": "■"
+            }
+          ]
+        },
+        {
+          "id": "ending_lysalis_end",
+          "name": "莉赛莉西亚斯 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_lysalis_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_lysalis_02",
+              "type": "choice",
+              "content": "上学路：莉赛莉西亚斯",
+              "prefix": "■"
+            },
+            {
+              "id": "step_lysalis_03",
+              "type": "choice",
+              "content": "宿舍屋顶：莉赛莉西亚斯",
+              "prefix": "■"
+            },
+            {
+              "id": "step_lysalis_04",
+              "type": "choice",
+              "content": "公园：莉赛莉西亚斯",
+              "prefix": "■"
+            }
+          ]
+        },
+        {
+          "id": "ending_yuuna_end",
+          "name": "七瀬优菜 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_yuuna_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_yuuna_02",
+              "type": "choice",
+              "content": "宿舍前：优菜",
+              "prefix": "■"
+            },
+            {
+              "id": "step_yuuna_03",
+              "type": "choice",
+              "content": "million：优菜",
+              "prefix": "■"
+            },
+            {
+              "id": "step_yuuna_04",
+              "type": "choice",
+              "content": "大楼出口：优菜",
+              "prefix": "■"
+            },
+            {
+              "id": "step_yuuna_05",
+              "type": "choice",
+              "content": "白(黒、紫)"
+            }
+          ]
+        },
+        {
+          "id": "ending_chiyoko_end",
+          "name": "柊千夜子 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_chiyoko_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_chiyoko_02",
+              "type": "choice",
+              "content": "million：千夜子",
+              "prefix": "■"
+            },
+            {
+              "id": "step_chiyoko_03",
+              "type": "choice",
+              "content": "教室：千夜子",
+              "prefix": "■"
+            },
+            {
+              "id": "step_chiyoko_04",
+              "type": "choice",
+              "content": "商店街；千夜子",
+              "prefix": "■"
+            }
+          ]
+        },
+        {
+          "id": "ending_shinobu_end",
+          "name": "三条寺忍 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_shinobu_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_shinobu_02",
+              "type": "choice",
+              "content": "宿舍屋顶：更纱",
+              "prefix": "■"
+            },
+            {
+              "id": "step_shinobu_03",
+              "type": "choice",
+              "content": "million：优菜",
+              "prefix": "■"
+            },
+            {
+              "id": "step_shinobu_04",
+              "type": "choice",
+              "content": "上学路：八城翼",
+              "prefix": "■"
+            },
+            {
+              "id": "step_shinobu_05",
+              "type": "choice",
+              "content": "变成女孩子/变成男孩子"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

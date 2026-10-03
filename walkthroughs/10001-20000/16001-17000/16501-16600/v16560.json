@@ -1,0 +1,112 @@
+{
+  "vid": "v16560",
+  "name": {
+    "zh-cn": "仰望夜空的星辰",
+    "en-us": "A Sky Full of Stars",
+    "ja-jp": "見上げてごらん、夜空の星を",
+    "ja-Latn": "miagete-goran-yozora-no-hoshi-o"
+  },
+  "level": 2,
+  "updatedAt": "2026-04-12",
+  "routes": [
+    {
+      "id": "route_game_guide",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_hikari_end",
+          "name": "光 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_hikari_01",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_hikari_02",
+              "type": "choice",
+              "content": "不想还给她"
+            },
+            {
+              "id": "step_hikari_03",
+              "type": "choice",
+              "content": "光"
+            },
+            {
+              "id": "step_hikari_04",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_hikari_05",
+              "type": "choice",
+              "content": "有着其他喜欢的对象"
+            }
+          ]
+        },
+        {
+          "id": "ending_sayo_end",
+          "name": "沙夜 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_sayo_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_sayo_02",
+              "type": "choice",
+              "content": "我想和沙夜交往！"
+            }
+          ]
+        },
+        {
+          "id": "ending_orihime_end",
+          "name": "织姬 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_orihime_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_orihime_02",
+              "type": "choice",
+              "content": "老实还给她"
+            },
+            {
+              "id": "step_orihime_03",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_orihime_04",
+              "type": "choice",
+              "content": "与白鸟同学去天文馆"
+            }
+          ]
+        },
+        {
+          "id": "ending_corona_end",
+          "name": "可乐娜 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_corona_01",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_corona_02",
+              "type": "choice",
+              "content": "接受可乐娜的倾诉"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

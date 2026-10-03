@@ -1,0 +1,963 @@
+{
+  "vid": "v17",
+  "name": {
+    "zh-cn": "时空轮回",
+    "en-us": "Ever17 -the out of infinity-",
+    "ja-jp": "Ever17 -the out of infinity-",
+    "ja-Latn": "ever17"
+  },
+  "level": 1,
+  "updatedAt": "2026-03-25",
+  "tips": [
+    "本攻略为steam重制版攻略",
+    "推荐攻略顺序： 鸠（月海）HE→空HE→鸠和空BE→优HE&BE→沙罗HE&BE→可儿（少年）→可儿（武）→EXTRA篇"
+  ],
+  "routes": [
+    {
+      "id": "route_game",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_tsukuyomi_end",
+          "name": "鸠（月海）篇 END",
+          "type": "good",
+          "steps": [
+            {
+              "id": "step_tsukuyomi_01",
+              "type": "choice",
+              "content": "听一下所谓的美巧",
+              "group": "5月1日"
+            },
+            {
+              "id": "step_tsukuyomi_02",
+              "type": "choice",
+              "content": "那是我的台词",
+              "group": "5月1日"
+            },
+            {
+              "id": "step_tsukuyomi_03",
+              "type": "note",
+              "content": "进入鸠线（月海）",
+              "group": "5月1日"
+            },
+            {
+              "id": "step_tsukuyomi_04",
+              "type": "choice",
+              "content": "比起这些，我更想知道...",
+              "group": "5月1日"
+            },
+            {
+              "id": "step_tsukuyomi_05",
+              "type": "choice",
+              "content": "接受",
+              "group": "5月1日"
+            },
+            {
+              "id": "step_tsukuyomi_06",
+              "type": "choice",
+              "content": "谢谢",
+              "group": "5月1日"
+            },
+            {
+              "id": "step_tsukuyomi_07",
+              "type": "choice",
+              "content": "......咦？",
+              "group": "5月1日"
+            },
+            {
+              "id": "step_tsukuyomi_08",
+              "type": "choice",
+              "content": "月海去哪了呢？",
+              "group": "5月1日"
+            },
+            {
+              "id": "step_tsukuyomi_09",
+              "type": "choice",
+              "content": "看着月海的眼睛",
+              "group": "5月2日"
+            },
+            {
+              "id": "step_tsukuyomi_10",
+              "type": "choice",
+              "content": "和月海一起行动",
+              "group": "5月2日"
+            },
+            {
+              "id": "step_tsukuyomi_11",
+              "type": "choice",
+              "content": "跟在后头",
+              "group": "5月2日"
+            },
+            {
+              "id": "step_tsukuyomi_12",
+              "type": "choice",
+              "content": "是系统？",
+              "group": "5月2日"
+            },
+            {
+              "id": "step_tsukuyomi_13",
+              "type": "choice",
+              "content": "听起来有点熟悉",
+              "group": "5月3日"
+            },
+            {
+              "id": "step_tsukuyomi_14",
+              "type": "choice",
+              "content": "你吃过早餐了吗？",
+              "group": "5月3日"
+            },
+            {
+              "id": "step_tsukuyomi_15",
+              "type": "choice",
+              "content": "逆转时针",
+              "group": "5月3日"
+            },
+            {
+              "id": "step_tsukuyomi_16",
+              "type": "choice",
+              "content": "顺转时针",
+              "group": "5月3日"
+            },
+            {
+              "id": "step_tsukuyomi_17",
+              "type": "choice",
+              "content": "别走",
+              "group": "5月3日"
+            },
+            {
+              "id": "step_tsukuyomi_18",
+              "type": "save",
+              "content": "SAVE 1",
+              "subfix": "为了后续坏结局",
+              "group": "5月4日"
+            },
+            {
+              "id": "step_tsukuyomi_19",
+              "type": "choice",
+              "content": "为她的苏醒感到欣喜",
+              "group": "5月4日"
+            },
+            {
+              "id": "step_tsukuyomi_20",
+              "type": "choice",
+              "content": "因为月海要醒了",
+              "group": "5月4日"
+            },
+            {
+              "id": "step_tsukuyomi_21",
+              "type": "choice",
+              "content": "为什么都是女神？",
+              "group": "5月4日"
+            },
+            {
+              "id": "step_tsukuyomi_22",
+              "type": "choice",
+              "content": "阻止她",
+              "group": "5月4日"
+            },
+            {
+              "id": "step_tsukuyomi_23",
+              "type": "choice",
+              "content": "追问含义",
+              "group": "5月5日"
+            },
+            {
+              "id": "step_tsukuyomi_24",
+              "type": "choice",
+              "content": "人类",
+              "group": "5月5日"
+            },
+            {
+              "id": "step_tsukuyomi_25",
+              "type": "choice",
+              "content": "安慰她",
+              "group": "5月5日"
+            },
+            {
+              "id": "step_tsukuyomi_26",
+              "type": "choice",
+              "content": "抵抗",
+              "group": "5月5日"
+            }
+          ]
+        },
+        {
+          "id": "ending_sora_end",
+          "name": "空篇 END",
+          "type": "good",
+          "steps": [
+            {
+              "id": "step_sora_01",
+              "type": "choice",
+              "content": "更在意那位小姐的讲解",
+              "group": "5月1日"
+            },
+            {
+              "id": "step_sora_02",
+              "type": "choice",
+              "content": "道歉",
+              "group": "5月1日"
+            },
+            {
+              "id": "step_sora_03",
+              "type": "choice",
+              "content": "我竟然...",
+              "subfix": "必须，进入武视角",
+              "group": "5月1日"
+            },
+            {
+              "id": "step_sora_04",
+              "type": "note",
+              "content": "进入空线",
+              "group": "5月1日"
+            },
+            {
+              "id": "step_sora_05",
+              "type": "choice",
+              "content": "不是你的错",
+              "group": "5月1日"
+            },
+            {
+              "id": "step_sora_06",
+              "type": "choice",
+              "content": "不接受",
+              "group": "5月1日"
+            },
+            {
+              "id": "step_sora_07",
+              "type": "choice",
+              "content": "就算不愿意扮家家酒，但至少...",
+              "group": "5月1日"
+            },
+            {
+              "id": "step_sora_08",
+              "type": "choice",
+              "content": "会不会和向导差不多？",
+              "group": "5月1日"
+            },
+            {
+              "id": "step_sora_09",
+              "type": "choice",
+              "content": "空去哪了呢？",
+              "group": "5月1日"
+            },
+            {
+              "id": "step_sora_10",
+              "type": "choice",
+              "content": "但是，空...",
+              "group": "5月2日"
+            },
+            {
+              "id": "step_sora_11",
+              "type": "choice",
+              "content": "必须先确认完所有人的安全才行",
+              "group": "5月2日"
+            },
+            {
+              "id": "step_sora_12",
+              "type": "choice",
+              "content": "随她去",
+              "group": "5月2日"
+            },
+            {
+              "id": "step_sora_13",
+              "type": "choice",
+              "content": "是同伴！",
+              "group": "5月2日"
+            },
+            {
+              "id": "step_sora_14",
+              "type": "choice",
+              "content": "我不认为我知道",
+              "group": "5月3日"
+            },
+            {
+              "id": "step_sora_15",
+              "type": "choice",
+              "content": "你在找什么？",
+              "group": "5月3日"
+            },
+            {
+              "id": "step_sora_16",
+              "type": "choice",
+              "content": "顺转时针",
+              "group": "5月3日"
+            },
+            {
+              "id": "step_sora_17",
+              "type": "choice",
+              "content": "逆转时针",
+              "group": "5月3日"
+            },
+            {
+              "id": "step_sora_18",
+              "type": "choice",
+              "content": "走",
+              "group": "5月3日"
+            },
+            {
+              "id": "step_sora_19",
+              "type": "choice",
+              "content": "还想听听",
+              "group": "5月3日"
+            },
+            {
+              "id": "step_sora_20",
+              "type": "choice",
+              "content": "道歉",
+              "group": "5月4日"
+            },
+            {
+              "id": "step_sora_21",
+              "type": "choice",
+              "content": "空在叫我",
+              "group": "5月4日"
+            },
+            {
+              "id": "step_sora_22",
+              "type": "choice",
+              "content": "我们的命运已定？",
+              "group": "5月4日"
+            },
+            {
+              "id": "step_sora_23",
+              "type": "choice",
+              "content": "不阻止她",
+              "group": "5月4日"
+            },
+            {
+              "id": "step_sora_24",
+              "type": "choice",
+              "content": "不抵抗",
+              "group": "5月5日"
+            },
+            {
+              "id": "step_sora_25",
+              "type": "choice",
+              "content": "你不是我所认识的空",
+              "group": "5月5日"
+            },
+            {
+              "id": "step_sora_26",
+              "type": "choice",
+              "content": "把真正的空还给我！",
+              "group": "5月5日"
+            },
+            {
+              "id": "step_sora_27",
+              "type": "choice",
+              "content": "别消失！不是说好一起拯救其他人吗！",
+              "group": "5月5日"
+            }
+          ]
+        },
+        {
+          "id": "ending_tsukuyomi_sora_bad",
+          "name": "鸠与空 END",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_tsukuyomi_sora_bad_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_tsukuyomi_sora_bad_02",
+              "type": "choice",
+              "content": "道歉",
+              "group": "5月4日"
+            },
+            {
+              "id": "step_tsukuyomi_sora_bad_03",
+              "type": "choice",
+              "content": "空在叫我",
+              "group": "5月4日"
+            },
+            {
+              "id": "step_tsukuyomi_sora_bad_04",
+              "type": "choice",
+              "content": "我们的命运已定？",
+              "group": "5月4日"
+            },
+            {
+              "id": "step_tsukuyomi_sora_bad_05",
+              "type": "choice",
+              "content": "别阻止她",
+              "group": "5月4日"
+            },
+            {
+              "id": "step_tsukuyomi_sora_bad_06",
+              "type": "choice",
+              "content": "不抵抗",
+              "group": "5月5日"
+            },
+            {
+              "id": "step_tsukuyomi_sora_bad_07",
+              "type": "choice",
+              "content": "求你了，收手吧",
+              "group": "5月5日"
+            },
+            {
+              "id": "step_tsukuyomi_sora_bad_08",
+              "type": "choice",
+              "content": "空，你在做什么！？",
+              "group": "5月5日"
+            },
+            {
+              "id": "step_tsukuyomi_sora_bad_09",
+              "type": "choice",
+              "content": "滚出我的视线！",
+              "group": "5月5日"
+            },
+            {
+              "id": "step_tsukuyomi_sora_bad_10",
+              "type": "choice",
+              "content": "别消失！不是说好一起拯救所有人的吗！",
+              "group": "5月5日"
+            }
+          ]
+        },
+        {
+          "id": "ending_yuu_end1",
+          "name": "优篇 END1",
+          "type": "good",
+          "steps": [
+            {
+              "id": "step_yuu_01",
+              "type": "note",
+              "content": "新游戏"
+            },
+            {
+              "id": "step_yuu_02",
+              "type": "choice",
+              "content": "听一下所谓的美巧",
+              "group": "5月1日"
+            },
+            {
+              "id": "step_yuu_03",
+              "type": "choice",
+              "content": "沉默",
+              "group": "5月1日"
+            },
+            {
+              "id": "step_yuu_04",
+              "type": "choice",
+              "content": "我居然...",
+              "subfix": "必选，进入少年视角",
+              "group": "5月1日"
+            },
+            {
+              "id": "step_yuu_05",
+              "type": "save",
+              "content": "SAVE 2",
+              "subfix": "为了进入沙罗线",
+              "group": "5月1日"
+            },
+            {
+              "id": "step_yuu_06",
+              "type": "choice",
+              "content": "你是谁？",
+              "group": "5月1日"
+            },
+            {
+              "id": "step_yuu_07",
+              "type": "choice",
+              "content": "接住她的手",
+              "group": "5月1日"
+            },
+            {
+              "id": "step_yuu_08",
+              "type": "choice",
+              "content": "这里有没有别的逃生仓？",
+              "group": "5月1日"
+            },
+            {
+              "id": "step_yuu_09",
+              "type": "choice",
+              "content": "问优关于第二个声音",
+              "group": "5月1日"
+            },
+            {
+              "id": "step_yuu_10",
+              "type": "choice",
+              "content": "移开视线",
+              "group": "5月1日"
+            },
+            {
+              "id": "step_yuu_11",
+              "type": "choice",
+              "content": "我懂了",
+              "group": "5月2日"
+            },
+            {
+              "id": "step_yuu_12",
+              "type": "choice",
+              "content": "跟优一起走",
+              "group": "5月2日"
+            },
+            {
+              "id": "step_yuu_13",
+              "type": "choice",
+              "content": "红颜薄命",
+              "group": "5月2日"
+            },
+            {
+              "id": "step_yuu_14",
+              "type": "choice",
+              "content": "拜托优",
+              "group": "5月2日"
+            },
+            {
+              "id": "step_yuu_15",
+              "type": "choice",
+              "content": "跟着优",
+              "group": "5月2日"
+            },
+            {
+              "id": "step_yuu_16",
+              "type": "choice",
+              "content": "懂",
+              "group": "5月3日"
+            },
+            {
+              "id": "step_yuu_17",
+              "type": "choice",
+              "content": "斜过来试试",
+              "group": "5月3日"
+            },
+            {
+              "id": "step_yuu_18",
+              "type": "choice",
+              "content": "把纸竖到底斜着看",
+              "group": "5月3日"
+            },
+            {
+              "id": "step_yuu_19",
+              "type": "save",
+              "content": "SAVE 3",
+              "subfix": "为了后续坏结局",
+              "group": "5月4日"
+            },
+            {
+              "id": "step_yuu_20",
+              "type": "choice",
+              "content": "优就是优",
+              "group": "5月4日"
+            },
+            {
+              "id": "step_yuu_21",
+              "type": "choice",
+              "content": "不像",
+              "group": "5月5日"
+            }
+          ]
+        },
+        {
+          "id": "ending_yuu_end2",
+          "name": "优篇 END2",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_yuu_bad_02",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_yuu_bad_03",
+              "type": "choice",
+              "content": "我不知道",
+              "group": "5月4日"
+            },
+            {
+              "id": "step_yuu_bad_04",
+              "type": "choice",
+              "content": "像",
+              "group": "5月5日"
+            }
+          ]
+        },
+        {
+          "id": "ending_sara_end1",
+          "name": "沙罗 END1",
+          "type": "good",
+          "steps": [
+            {
+              "id": "step_sara_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_sara_02",
+              "type": "choice",
+              "content": "我在哪？",
+              "group": "5月1日"
+            },
+            {
+              "id": "step_sara_03",
+              "type": "choice",
+              "content": "犹豫",
+              "group": "5月1日"
+            },
+            {
+              "id": "step_sara_04",
+              "type": "choice",
+              "content": "我们不能走着逃出去吗",
+              "group": "5月1日"
+            },
+            {
+              "id": "step_sara_05",
+              "type": "choice",
+              "content": "别问",
+              "group": "5月1日"
+            },
+            {
+              "id": "step_sara_06",
+              "type": "choice",
+              "content": "盯着她",
+              "group": "5月1日"
+            },
+            {
+              "id": "step_sara_07",
+              "type": "choice",
+              "content": "我不理解",
+              "group": "5月2日"
+            },
+            {
+              "id": "step_sara_08",
+              "type": "choice",
+              "content": "与沙罗一起走",
+              "group": "5月2日"
+            },
+            {
+              "id": "step_sara_09",
+              "type": "choice",
+              "content": "问沙罗",
+              "group": "5月2日"
+            },
+            {
+              "id": "step_sara_10",
+              "type": "choice",
+              "content": "跟着沙罗与空",
+              "group": "5月2日"
+            },
+            {
+              "id": "step_sara_11",
+              "type": "choice",
+              "content": "跟着沙罗",
+              "group": "5月2日"
+            },
+            {
+              "id": "step_sara_12",
+              "type": "save",
+              "content": "SAVE 4",
+              "subfix": "为了后续坏结局",
+              "group": "5月6日"
+            },
+            {
+              "id": "step_sara_13",
+              "type": "choice",
+              "content": "水母缆车",
+              "group": "5月6日"
+            }
+          ]
+        },
+        {
+          "id": "ending_sara_end2",
+          "name": "沙罗 END2",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_sara_bad_02",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_sara_bad_03",
+              "type": "choice",
+              "content": "雷姆利亚遗迹",
+              "group": "5月6日"
+            }
+          ]
+        },
+        {
+          "id": "ending_kani_boy_end",
+          "name": "可儿篇（少年视角）END",
+          "type": "good",
+          "steps": [
+            {
+              "id": "step_kani_boy_01",
+              "type": "note",
+              "content": "新游戏"
+            },
+            {
+              "id": "step_kani_boy_02",
+              "type": "choice",
+              "content": "听一下所谓的美巧",
+              "group": "5月1日"
+            },
+            {
+              "id": "step_kani_boy_03",
+              "type": "choice",
+              "content": "道歉",
+              "group": "5月1日"
+            },
+            {
+              "id": "step_kani_boy_04",
+              "type": "choice",
+              "content": "我居然...",
+              "subfix": "必选，进入少年视角",
+              "group": "5月1日"
+            },
+            {
+              "id": "step_kani_boy_05",
+              "type": "choice",
+              "content": "你是谁？",
+              "group": "5月1日"
+            },
+            {
+              "id": "step_kani_boy_06",
+              "type": "choice",
+              "content": "接住她的手",
+              "group": "5月1日"
+            },
+            {
+              "id": "step_kani_boy_07",
+              "type": "choice",
+              "content": "这里没有别的逃生舱吗？",
+              "group": "5月1日"
+            },
+            {
+              "id": "step_kani_boy_08",
+              "type": "choice",
+              "content": "问优关于第二个声音",
+              "group": "5月1日"
+            },
+            {
+              "id": "step_kani_boy_09",
+              "type": "choice",
+              "content": "真的吗？",
+              "group": "5月1日"
+            },
+            {
+              "id": "step_kani_boy_10",
+              "type": "choice",
+              "content": "8",
+              "group": "5月1日"
+            },
+            {
+              "id": "step_kani_boy_11",
+              "type": "choice",
+              "content": "盯着她",
+              "group": "5月1日"
+            },
+            {
+              "id": "step_kani_boy_12",
+              "type": "choice",
+              "content": "带着她逃出房间",
+              "group": "5月1日"
+            },
+            {
+              "id": "step_kani_boy_13",
+              "type": "choice",
+              "content": "我理解了",
+              "group": "5月2日"
+            },
+            {
+              "id": "step_kani_boy_14",
+              "type": "choice",
+              "content": "大家一起去不好吗？",
+              "group": "5月2日"
+            },
+            {
+              "id": "step_kani_boy_15",
+              "type": "choice",
+              "content": "问优",
+              "group": "5月2日"
+            },
+            {
+              "id": "step_kani_boy_16",
+              "type": "choice",
+              "content": "跟着你",
+              "group": "5月2日"
+            },
+            {
+              "id": "step_kani_boy_17",
+              "type": "choice",
+              "content": "试试看",
+              "group": "5月2日"
+            },
+            {
+              "id": "step_kani_boy_18",
+              "type": "choice",
+              "content": "去确认幻觉中看到的事故现场",
+              "group": "5月2日"
+            },
+            {
+              "id": "step_kani_boy_19",
+              "type": "choice",
+              "content": "我不知道",
+              "group": "5月2日"
+            },
+            {
+              "id": "step_kani_boy_20",
+              "type": "choice",
+              "content": "活下去！",
+              "group": "5月2日"
+            },
+            {
+              "id": "step_kani_boy_22",
+              "type": "choice",
+              "content": "去左边",
+              "group": "5月2日"
+            }
+          ]
+        },
+        {
+          "id": "ending_kani_takeru_end",
+          "name": "可儿篇（武视角）END",
+          "type": "good",
+          "steps": [
+            {
+              "id": "step_kani_takeru_01",
+              "type": "note",
+              "content": "新游戏"
+            },
+            {
+              "id": "step_kani_takeru_02",
+              "type": "choice",
+              "content": "听一下所谓的美巧",
+              "group": "5月1日"
+            },
+            {
+              "id": "step_kani_takeru_03",
+              "type": "choice",
+              "content": "道歉",
+              "group": "5月1日"
+            },
+            {
+              "id": "step_kani_takeru_04",
+              "type": "choice",
+              "content": "我竟然...",
+              "subfix": "必选，进入武视角",
+              "group": "5月1日"
+            },
+            {
+              "id": "step_kani_takeru_05",
+              "type": "choice",
+              "content": "该死，管理人在哪？",
+              "group": "5月1日"
+            },
+            {
+              "id": "step_kani_takeru_06",
+              "type": "choice",
+              "content": "你们有听到什么声音吗？",
+              "group": "5月1日"
+            },
+            {
+              "id": "step_kani_takeru_07",
+              "type": "choice",
+              "content": "接受",
+              "group": "5月1日"
+            },
+            {
+              "id": "step_kani_takeru_08",
+              "type": "choice",
+              "content": "谢谢",
+              "group": "5月1日"
+            },
+            {
+              "id": "step_kani_takeru_09",
+              "type": "choice",
+              "content": "...咦？",
+              "group": "5月1日"
+            },
+            {
+              "id": "step_kani_takeru_10",
+              "type": "choice",
+              "content": "她睡着了吗？",
+              "group": "5月1日"
+            },
+            {
+              "id": "step_kani_takeru_11",
+              "type": "choice",
+              "content": "我为什么会在这感到悲伤？",
+              "group": "5月1日"
+            },
+            {
+              "id": "step_kani_takeru_12",
+              "type": "choice",
+              "content": "看着月海的眼睛",
+              "group": "5月2日"
+            },
+            {
+              "id": "step_kani_takeru_13",
+              "type": "choice",
+              "content": "跟月海一起行动",
+              "group": "5月2日"
+            },
+            {
+              "id": "step_kani_takeru_14",
+              "type": "choice",
+              "content": "跟在后头",
+              "group": "5月2日"
+            },
+            {
+              "id": "step_kani_takeru_15",
+              "type": "choice",
+              "content": "是系统？",
+              "group": "5月2日"
+            },
+            {
+              "id": "step_kani_takeru_16",
+              "type": "choice",
+              "content": "尝试一下",
+              "group": "5月2日"
+            },
+            {
+              "id": "step_kani_takeru_17",
+              "type": "choice",
+              "content": "在意",
+              "group": "5月2日"
+            },
+            {
+              "id": "step_kani_takeru_18",
+              "type": "choice",
+              "content": "去确认幻觉中看到的事故现场",
+              "group": "5月2日"
+            },
+            {
+              "id": "step_kani_takeru_19",
+              "type": "choice",
+              "content": "我不知道",
+              "group": "5月2日"
+            },
+            {
+              "id": "step_kani_takeru_20",
+              "type": "choice",
+              "content": "活下去！",
+              "group": "5月2日"
+            },
+            {
+              "id": "step_kani_takeru_22",
+              "type": "choice",
+              "content": "去左边",
+              "group": "5月2日"
+            }
+          ]
+        },
+        {
+          "id": "ending_extra_true",
+          "name": "EXTRA篇 END",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_extra_01",
+              "type": "note",
+              "content": "进入EXTRA完成真结局"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

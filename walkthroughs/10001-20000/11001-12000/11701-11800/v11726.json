@@ -1,0 +1,358 @@
+{
+  "vid": "v11726",
+  "name": {
+    "zh-cn": "大小姐心情很糟糕",
+    "ja-jp": "お嬢様はご機嫌ナナメ",
+    "ja-Latn": "ojou-sama-wa-gokigen-naname"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-13",
+  "routes": [
+    {
+      "id": "route_1762592456437",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1762592490612",
+          "name": "七枷 七波",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762592508405",
+              "type": "choice",
+              "content": "被一个美丽的女人迷住了"
+            },
+            {
+              "id": "step_1762592508621",
+              "type": "choice",
+              "content": "一起捡"
+            },
+            {
+              "id": "step_1762592508793",
+              "type": "choice",
+              "content": "正确解释"
+            },
+            {
+              "id": "step_1762592508946",
+              "type": "choice",
+              "content": "我会拍拍你的头，让你放心"
+            },
+            {
+              "id": "step_1762592509097",
+              "type": "choice",
+              "content": "图卡小姐更靠谱"
+            },
+            {
+              "id": "step_1762592509248",
+              "type": "choice",
+              "content": "符合七波小姐的意愿"
+            },
+            {
+              "id": "step_1762592509404",
+              "type": "choice",
+              "content": "诚恳地回答"
+            },
+            {
+              "id": "step_1762592509551",
+              "type": "choice",
+              "content": "尽可能地低下头"
+            },
+            {
+              "id": "step_1762592509712",
+              "type": "choice",
+              "content": "哥哥的沐浴露"
+            },
+            {
+              "id": "step_1762592567538",
+              "type": "choice",
+              "content": "诚实道歉"
+            },
+            {
+              "id": "step_1762592567690",
+              "type": "choice",
+              "content": "你谈了什么？"
+            },
+            {
+              "id": "step_1762592567835",
+              "type": "choice",
+              "content": "早餐甜点是布丁"
+            },
+            {
+              "id": "step_1762592567981",
+              "type": "choice",
+              "content": "相反，这是道歉的方式"
+            },
+            {
+              "id": "step_1762592582588",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1762592583208",
+              "type": "choice",
+              "content": "记住鲜花建议"
+            },
+            {
+              "id": "step_1762592583360",
+              "type": "choice",
+              "content": "我决定好好说话"
+            },
+            {
+              "id": "step_1762592583485",
+              "type": "choice",
+              "content": "相反，我不想这样做"
+            },
+            {
+              "id": "step_1762592583610",
+              "type": "choice",
+              "content": "突然，我想起了希亚亚小姐"
+            },
+            {
+              "id": "step_1762592583858",
+              "type": "choice",
+              "content": "我想见见希亚亚小姐"
+            },
+            {
+              "id": "step_1762592584045",
+              "type": "choice",
+              "content": "无论如何，我们都会在您身边"
+            },
+            {
+              "id": "step_1762592584216",
+              "type": "choice",
+              "content": "看在姐姐的份上，我会好好讲课"
+            },
+            {
+              "id": "step_1762592584412",
+              "type": "choice",
+              "content": "温和派的盟友"
+            },
+            {
+              "id": "step_1762592584600",
+              "type": "choice",
+              "content": "我会被希亚宠坏的"
+            },
+            {
+              "id": "step_1762592648361",
+              "type": "choice",
+              "content": "我会拥抱你"
+            },
+            {
+              "id": "step_1762592648965",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1762592662145",
+              "type": "choice",
+              "content": "七海小姐吃"
+            },
+            {
+              "id": "step_1762592662332",
+              "type": "choice",
+              "content": "我问七海小姐"
+            },
+            {
+              "id": "step_1762592662697",
+              "type": "choice",
+              "content": "更强烈地警告"
+            },
+            {
+              "id": "step_1762592677116",
+              "type": "choice",
+              "content": "我担心七海小姐"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762592490769",
+          "name": "雪小路 诗绫",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762592717798",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1762592721210",
+              "type": "choice",
+              "content": "盯着诗绫"
+            },
+            {
+              "id": "step_1762592721404",
+              "type": "choice",
+              "content": "问花"
+            },
+            {
+              "id": "step_1762592721648",
+              "type": "choice",
+              "content": "成为野兽"
+            },
+            {
+              "id": "step_1762592722307",
+              "type": "choice",
+              "content": "我担心詩綾"
+            },
+            {
+              "id": "step_1762592722749",
+              "type": "choice",
+              "content": "知道雪小路宅邸是不是出了什么事"
+            },
+            {
+              "id": "step_1762592723127",
+              "type": "choice",
+              "content": "信任詩綾"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762592491006",
+          "name": "桜咲花",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762592794495",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1762592807162",
+              "type": "choice",
+              "content": "从花里吃"
+            },
+            {
+              "id": "step_1762592807358",
+              "type": "choice",
+              "content": "问花"
+            },
+            {
+              "id": "step_1762592807511",
+              "type": "choice",
+              "content": "更强烈地警告"
+            },
+            {
+              "id": "step_1762592807679",
+              "type": "choice",
+              "content": "我担心花"
+            },
+            {
+              "id": "step_1762592807829",
+              "type": "choice",
+              "content": "因为我是唯一的妹妹"
+            },
+            {
+              "id": "step_1762592807995",
+              "type": "choice",
+              "content": "问花"
+            },
+            {
+              "id": "step_1762592829599",
+              "type": "choice",
+              "content": "妹妹和女仆（妹妹和情人）"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762592491325",
+          "name": "一峰 透夏",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762592848525",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1762592849272",
+              "type": "choice",
+              "content": "缓解透夏小姐的紧张情绪"
+            },
+            {
+              "id": "step_1762592849429",
+              "type": "choice",
+              "content": "默默地低头看"
+            },
+            {
+              "id": "step_1762592849584",
+              "type": "choice",
+              "content": "没有什么是你做不到的"
+            },
+            {
+              "id": "step_1762592849720",
+              "type": "choice",
+              "content": "不知为何，我想起了透夏小姐"
+            },
+            {
+              "id": "step_1762592849879",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_1762592908674",
+              "type": "choice",
+              "content": "与透夏小姐对话"
+            },
+            {
+              "id": "step_1762592908830",
+              "type": "choice",
+              "content": "我问透夏小姐发生了什么事"
+            },
+            {
+              "id": "step_1762592909031",
+              "type": "choice",
+              "content": "我也很高兴。"
+            },
+            {
+              "id": "step_1762592909319",
+              "type": "choice",
+              "content": "太可爱了，我只是"
+            },
+            {
+              "id": "step_1762592909672",
+              "type": "choice",
+              "content": "首先，让透夏小姐放心"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762592491662",
+          "name": "响木音羽",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762592948193",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1762592951704",
+              "type": "choice",
+              "content": "暂时我来照顾音羽"
+            },
+            {
+              "id": "step_1762592951872",
+              "type": "choice",
+              "content": "不管怎样，向音羽问好"
+            },
+            {
+              "id": "step_1762592952302",
+              "type": "choice",
+              "content": "…… 真的可以吗？"
+            },
+            {
+              "id": "step_1762592952680",
+              "type": "choice",
+              "content": "…… 乙和呢？"
+            },
+            {
+              "id": "step_1762592952896",
+              "type": "choice",
+              "content": "立即追逐"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,249 @@
+{
+  "vid": "v26414",
+  "name": {
+    "zh-cn": "星光咖啡馆与死神之蝶",
+    "en-us": "Café Stella and the Reapers' Butterflies",
+    "ja-jp": "喫茶ステラと死神の蝶",
+    "ja-Latn": "cafe-stella-to-shinigami-no-chou"
+  },
+  "level": 2,
+  "updatedAt": "2026-02-27",
+  "routes": [
+    {
+      "id": "route_1749368475386",
+      "name": "明月 栞那",
+      "endings": [
+        {
+          "id": "ending_1749371309473",
+          "name": "栞那 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1749371365072",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1749371366430",
+              "type": "choice",
+              "content": "交出记忆"
+            },
+            {
+              "id": "step_1749371394518",
+              "type": "choice",
+              "content": "接受打工邀请"
+            },
+            {
+              "id": "step_1749371498132",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1749371503064",
+              "type": "choice",
+              "content": "品尝蛋包饭"
+            },
+            {
+              "id": "step_1749371552324",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_1749371533074",
+              "type": "choice",
+              "content": "陪栞那练习"
+            },
+            {
+              "id": "step_1749371577424",
+              "type": "choice",
+              "content": "照常练习"
+            },
+            {
+              "id": "step_1749371579548",
+              "type": "choice",
+              "content": "先去休息"
+            },
+            {
+              "id": "step_1749371580204",
+              "type": "choice",
+              "content": "和凉音姐一起回去"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1749371611760",
+      "name": "四季 夏目",
+      "endings": [
+        {
+          "id": "ending_1749371620222",
+          "name": "夏目 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1749371640872",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1749371644402",
+              "type": "choice",
+              "content": "品尝红茶"
+            },
+            {
+              "id": "step_1749371660970",
+              "type": "choice",
+              "content": "陪小希练习"
+            },
+            {
+              "id": "step_1749371785622",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_1749371672438",
+              "type": "choice",
+              "content": "先休息一会儿"
+            },
+            {
+              "id": "step_1749371678610",
+              "type": "choice",
+              "content": "让凉音姐先休息"
+            },
+            {
+              "id": "step_1749371679973",
+              "type": "choice",
+              "content": "和凉音姐一起回去"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1749371716574",
+      "name": "墨染 希",
+      "endings": [
+        {
+          "id": "ending_1749371731344",
+          "name": "希 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1749371742338",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_1749371834284",
+              "type": "choice",
+              "content": "接待也需要练习"
+            },
+            {
+              "id": "step_1749371992776",
+              "type": "choice",
+              "content": "先去休息"
+            },
+            {
+              "id": "step_1749371992978",
+              "type": "choice",
+              "content": "送小希回去"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1749444497778",
+      "name": "火打谷 爱衣",
+      "endings": [
+        {
+          "id": "ending_1749444609969",
+          "name": "爱衣 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1749444748568",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1749444770039",
+              "type": "choice",
+              "content": "陪爱衣练习"
+            },
+            {
+              "id": "step_1749444784823",
+              "type": "choice",
+              "content": "去用餐区看看"
+            },
+            {
+              "id": "step_1749444805920",
+              "type": "choice",
+              "content": "先去休息"
+            },
+            {
+              "id": "step_1749444806049",
+              "type": "choice",
+              "content": "和凉音姐一起回去"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1749444854335",
+      "name": "汐山 凉音",
+      "endings": [
+        {
+          "id": "ending_1749444887354",
+          "name": "凉音 END",
+          "type": "normal",
+          "requirements": "必须先攻略完成以上四人其中一条路线",
+          "steps": [
+            {
+              "id": "step_1749444894976",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1749444952912",
+              "type": "choice",
+              "content": "交出记忆"
+            },
+            {
+              "id": "step_1749444962469",
+              "type": "choice",
+              "content": "接受邀请"
+            },
+            {
+              "id": "step_1749444969501",
+              "type": "choice",
+              "content": "品尝红茶"
+            },
+            {
+              "id": "step_1749444977342",
+              "type": "choice",
+              "content": "陪小希练习"
+            },
+            {
+              "id": "step_1749444992534",
+              "type": "choice",
+              "content": "照常练习"
+            },
+            {
+              "id": "step_1749444992744",
+              "type": "choice",
+              "content": "先去休息"
+            },
+            {
+              "id": "step_1749444993006",
+              "type": "choice",
+              "content": "和凉音姐一起回去"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

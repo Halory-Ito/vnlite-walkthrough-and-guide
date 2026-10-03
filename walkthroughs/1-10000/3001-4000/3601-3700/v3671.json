@@ -1,0 +1,192 @@
+{
+  "vid": "v3671",
+  "name": {
+    "zh-cn": "逆转爱恋",
+    "ja-jp": "アッチむいて恋",
+    "ja-Latn": "acchi-muite-koi"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-11",
+  "routes": [
+    {
+      "id": "route_1755647962521",
+      "name": "成泽 美奈子",
+      "endings": [
+        {
+          "id": "ending_1755647971109",
+          "name": "美奈子 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755647986302",
+              "type": "choice",
+              "content": "用白玉馅"
+            },
+            {
+              "id": "step_1755647986470",
+              "type": "choice",
+              "content": "我觉得矮个子更可爱"
+            },
+            {
+              "id": "step_1755647986656",
+              "type": "choice",
+              "content": "直接还给朱"
+            },
+            {
+              "id": "step_1755647986826",
+              "type": "choice",
+              "content": "又长又脆的直筒"
+            },
+            {
+              "id": "step_1755647987009",
+              "type": "choice",
+              "content": "松田理沙的声音"
+            },
+            {
+              "id": "step_1755647987196",
+              "type": "choice",
+              "content": "什么也不做"
+            },
+            {
+              "id": "step_1755647987403",
+              "type": "choice",
+              "content": "自己努力"
+            },
+            {
+              "id": "step_1755647988356",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1755647989027",
+              "type": "choice",
+              "content": "肯定是最好的"
+            },
+            {
+              "id": "step_1755647989193",
+              "type": "choice",
+              "content": "漂亮的约会服"
+            },
+            {
+              "id": "step_1755647989880",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1755647990911",
+              "type": "choice",
+              "content": "如果是美奈子的话，可以轻松地说出来"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755648034786",
+      "name": "织叶 朱",
+      "endings": [
+        {
+          "id": "ending_1755648039581",
+          "name": "朱 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755648054010",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1755648062163",
+              "type": "choice",
+              "content": "敢和朱…"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755648069240",
+      "name": "柊 辉夜",
+      "endings": [
+        {
+          "id": "ending_1755648078941",
+          "name": "辉夜 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755648096967",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1755648100377",
+              "type": "choice",
+              "content": "这里是一位不知道内情的前辈"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755648072089",
+      "name": "八乙女 优由",
+      "endings": [
+        {
+          "id": "ending_1755648109509",
+          "name": "优由 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755648126503",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1755648128957",
+              "type": "choice",
+              "content": "小一点比较好，喜欢像菜板一样的流利"
+            },
+            {
+              "id": "step_1755648129321",
+              "type": "choice",
+              "content": "睡衣"
+            },
+            {
+              "id": "step_1755648131672",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_1755648132492",
+              "type": "choice",
+              "content": "如果是优由的话，对话也会很轻松"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755648072638",
+      "name": "鸣海 露娜",
+      "endings": [
+        {
+          "id": "ending_1755648156077",
+          "name": "露娜 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755648164422",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1755648167839",
+              "type": "choice",
+              "content": "今天还是和露娜说话吧"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

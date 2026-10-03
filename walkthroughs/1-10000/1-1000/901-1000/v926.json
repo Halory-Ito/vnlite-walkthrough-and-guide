@@ -1,0 +1,51 @@
+{
+  "vid": "v926",
+  "name": {
+    "zh-cn": "花吻在上 ～珍爱的相片～",
+    "en-us": "A Kiss For The Petals - Beloved Photograph",
+    "ja-jp": "その花びらにくちづけを 愛しさのフォトグラフ",
+    "ja-Latn": "sono-hanabira-ni-kuchizuke-o-itoshisa-no-photograph"
+  },
+  "level": 2,
+  "updatedAt": "2026-05-07",
+  "routes": [
+    {
+      "id": "route_1778152041567",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1778152047831",
+          "name": "END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1778152055662",
+              "type": "choice",
+              "content": "太漂亮了"
+            },
+            {
+              "id": "step_1778152056213",
+              "type": "choice",
+              "content": "大小姐"
+            },
+            {
+              "id": "step_1778152056867",
+              "type": "choice",
+              "content": "追过去看看"
+            },
+            {
+              "id": "step_1778152057459",
+              "type": "choice",
+              "content": "放弃吧"
+            },
+            {
+              "id": "step_1778152059217",
+              "type": "choice",
+              "content": "当然了"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

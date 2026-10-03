@@ -1,0 +1,748 @@
+{
+  "vid": "v5209",
+  "name": {
+    "zh-cn": "With Ribbon",
+    "ja-jp": "With Ribbon",
+    "ja-Latn": "with-ribbon"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-14",
+  "routes": [
+    {
+      "id": "route_1773041574563",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1773041578601",
+          "name": "阳奈 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1773041591280",
+              "type": "choice",
+              "content": "借她作业"
+            },
+            {
+              "id": "step_1773041591457",
+              "type": "choice",
+              "content": "向由美美搭话"
+            },
+            {
+              "id": "step_1773041591626",
+              "type": "choice",
+              "content": "戳戳阳奈的脸颊"
+            },
+            {
+              "id": "step_1773041591724",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1773042951212",
+              "type": "choice",
+              "content": "照顾由美美"
+            },
+            {
+              "id": "step_1773042951359",
+              "type": "choice",
+              "content": "告诉阳奈问题的内容"
+            },
+            {
+              "id": "step_1773042959895",
+              "type": "choice",
+              "content": "去见由美美"
+            },
+            {
+              "id": "step_1773042960048",
+              "type": "choice",
+              "content": "给由美美带便当"
+            },
+            {
+              "id": "step_1773042960199",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1773042960355",
+              "type": "choice",
+              "content": "与阳奈一起帮助大家准备学园祭"
+            },
+            {
+              "id": "step_1773042974595",
+              "type": "choice",
+              "content": "教导阳奈"
+            },
+            {
+              "id": "step_1773042974757",
+              "type": "choice",
+              "content": "不引起对方反感的前提下旁敲侧击"
+            },
+            {
+              "id": "step_1773042974916",
+              "type": "choice",
+              "content": "算了"
+            },
+            {
+              "id": "step_1773042975074",
+              "type": "choice",
+              "content": "前往教学楼"
+            },
+            {
+              "id": "step_1773042975162",
+              "type": "choice",
+              "content": "去教室"
+            },
+            {
+              "id": "step_1773042975315",
+              "type": "choice",
+              "content": "与阳奈一起帮忙"
+            },
+            {
+              "id": "step_1773042975468",
+              "type": "choice",
+              "content": "与阳奈、遥一起吃午饭"
+            },
+            {
+              "id": "step_1773042999126",
+              "type": "choice",
+              "content": "叫醒阳奈"
+            },
+            {
+              "id": "step_1773042999289",
+              "type": "choice",
+              "content": "与阳奈一起帮助大家准备学园祭"
+            },
+            {
+              "id": "step_1773042999407",
+              "type": "choice",
+              "content": "找阳奈帮忙"
+            },
+            {
+              "id": "step_1773042999556",
+              "type": "choice",
+              "content": "与阳奈和遥他们一起吃午饭"
+            },
+            {
+              "id": "step_1773043022977",
+              "type": "choice",
+              "content": "和阳奈一起留下来"
+            }
+          ]
+        },
+        {
+          "id": "ending_1773043035143",
+          "name": "由美美 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1773043042144",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1773043050137",
+              "type": "choice",
+              "content": "去见由美美"
+            },
+            {
+              "id": "step_1773043050265",
+              "type": "choice",
+              "content": "什么都不做"
+            },
+            {
+              "id": "step_1773043050412",
+              "type": "choice",
+              "content": "算了"
+            },
+            {
+              "id": "step_1773043058244",
+              "type": "choice",
+              "content": "向由美美搭话"
+            },
+            {
+              "id": "step_1773043058418",
+              "type": "choice",
+              "content": "看那本锻炼相关的书"
+            },
+            {
+              "id": "step_1773043058590",
+              "type": "choice",
+              "content": "去见由美美"
+            },
+            {
+              "id": "step_1773043073104",
+              "type": "choice",
+              "content": "看那本锻炼相关的书"
+            },
+            {
+              "id": "step_1773043073269",
+              "type": "choice",
+              "content": "去见由美美"
+            },
+            {
+              "id": "step_1773043073418",
+              "type": "choice",
+              "content": "看那本锻炼相关的书"
+            },
+            {
+              "id": "step_1773043073554",
+              "type": "choice",
+              "content": "去见由美美"
+            },
+            {
+              "id": "step_1773043087043",
+              "type": "choice",
+              "content": "独自去救人"
+            },
+            {
+              "id": "step_1773043087216",
+              "type": "choice",
+              "content": "算了，不必担心她"
+            },
+            {
+              "id": "step_1773043087388",
+              "type": "choice",
+              "content": "去见由美美"
+            },
+            {
+              "id": "step_1773043100133",
+              "type": "choice",
+              "content": "什么都不做"
+            },
+            {
+              "id": "step_1773043100274",
+              "type": "choice",
+              "content": "算了"
+            },
+            {
+              "id": "step_1773043100427",
+              "type": "choice",
+              "content": "向由美美搭话"
+            },
+            {
+              "id": "step_1773043100546",
+              "type": "choice",
+              "content": "接受"
+            },
+            {
+              "id": "step_1773043100698",
+              "type": "choice",
+              "content": "看那本锻炼相关的书"
+            },
+            {
+              "id": "step_1773043115451",
+              "type": "choice",
+              "content": "去见由美美"
+            },
+            {
+              "id": "step_1773043115632",
+              "type": "choice",
+              "content": "看那本锻炼相关的书"
+            },
+            {
+              "id": "step_1773043115756",
+              "type": "choice",
+              "content": "去见由美美"
+            },
+            {
+              "id": "step_1773043131227",
+              "type": "choice",
+              "content": "帮助由美美晨练"
+            },
+            {
+              "id": "step_1773043131383",
+              "type": "choice",
+              "content": "邀请由美美一起吃午饭"
+            },
+            {
+              "id": "step_1773043131562",
+              "type": "choice",
+              "content": "看那本锻炼相关的书"
+            },
+            {
+              "id": "step_1773043131757",
+              "type": "choice",
+              "content": "在晚上使用泳池"
+            }
+          ]
+        },
+        {
+          "id": "ending_1773043151987",
+          "name": "澄香 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1773043160942",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1773043163344",
+              "type": "choice",
+              "content": "回家"
+            },
+            {
+              "id": "step_1773043163479",
+              "type": "choice",
+              "content": "什么都不做"
+            },
+            {
+              "id": "step_1773043163636",
+              "type": "choice",
+              "content": "不引起对方反感的前提下旁敲侧击"
+            },
+            {
+              "id": "step_1773043163774",
+              "type": "choice",
+              "content": "干脆连槙喜屋姐妹的份也做了吧？"
+            },
+            {
+              "id": "step_1773043163959",
+              "type": "choice",
+              "content": "前往教学楼"
+            },
+            {
+              "id": "step_1773043164071",
+              "type": "choice",
+              "content": "去教室"
+            },
+            {
+              "id": "step_1773043164235",
+              "type": "choice",
+              "content": "独自帮忙"
+            },
+            {
+              "id": "step_1773043164383",
+              "type": "choice",
+              "content": "去邀请槙喜屋姐妹"
+            },
+            {
+              "id": "step_1773043164532",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_1773043164674",
+              "type": "choice",
+              "content": "去见澄香"
+            },
+            {
+              "id": "step_1773043164962",
+              "type": "choice",
+              "content": "澄香"
+            },
+            {
+              "id": "step_1773043165110",
+              "type": "choice",
+              "content": "独自去救人"
+            },
+            {
+              "id": "step_1773043207577",
+              "type": "choice",
+              "content": "算了，不必担心她"
+            },
+            {
+              "id": "step_1773043207718",
+              "type": "choice",
+              "content": "不去"
+            },
+            {
+              "id": "step_1773043207867",
+              "type": "choice",
+              "content": "去见槙喜屋姐妹"
+            },
+            {
+              "id": "step_1773043208009",
+              "type": "choice",
+              "content": "不引起对方反感的前提下旁敲侧击"
+            },
+            {
+              "id": "step_1773043208170",
+              "type": "choice",
+              "content": "槙喜屋姐妹的份也做吗？"
+            },
+            {
+              "id": "step_1773043208312",
+              "type": "choice",
+              "content": "前往教学楼"
+            },
+            {
+              "id": "step_1773043267741",
+              "type": "choice",
+              "content": "去教室"
+            },
+            {
+              "id": "step_1773043267882",
+              "type": "choice",
+              "content": "独自帮忙"
+            },
+            {
+              "id": "step_1773043268049",
+              "type": "choice",
+              "content": "专心听课"
+            },
+            {
+              "id": "step_1773043268178",
+              "type": "choice",
+              "content": "去邀请槙喜屋姐妹"
+            },
+            {
+              "id": "step_1773043268359",
+              "type": "choice",
+              "content": "专心听课"
+            },
+            {
+              "id": "step_1773043268489",
+              "type": "choice",
+              "content": "去见澄香"
+            },
+            {
+              "id": "step_1773043268630",
+              "type": "choice",
+              "content": "找澄香帮忙"
+            },
+            {
+              "id": "step_1773043268789",
+              "type": "choice",
+              "content": "默默守望着澄香"
+            },
+            {
+              "id": "step_1773043268936",
+              "type": "choice",
+              "content": "打开房门"
+            },
+            {
+              "id": "step_1773043269056",
+              "type": "choice",
+              "content": "继续观看"
+            },
+            {
+              "id": "step_1773043297044",
+              "type": "choice",
+              "content": "只要时间对得上就行"
+            },
+            {
+              "id": "step_1773043297206",
+              "type": "choice",
+              "content": "澄香"
+            },
+            {
+              "id": "step_1773043297351",
+              "type": "choice",
+              "content": "专心听课"
+            },
+            {
+              "id": "step_1773043297512",
+              "type": "choice",
+              "content": "去澄香那边"
+            },
+            {
+              "id": "step_1773043313457",
+              "type": "choice",
+              "content": "留下来帮忙准备"
+            },
+            {
+              "id": "step_1773043313606",
+              "type": "choice",
+              "content": "不讨厌"
+            },
+            {
+              "id": "step_1773043313789",
+              "type": "choice",
+              "content": "喜欢澄香"
+            },
+            {
+              "id": "step_1773043325986",
+              "type": "choice",
+              "content": "拒绝"
+            }
+          ]
+        },
+        {
+          "id": "ending_1773043339375",
+          "name": "华澄 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1773043347604",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1773043349674",
+              "type": "choice",
+              "content": "去见华澄同学"
+            },
+            {
+              "id": "step_1773043349963",
+              "type": "choice",
+              "content": "华澄同学"
+            },
+            {
+              "id": "step_1773043350097",
+              "type": "choice",
+              "content": "谨慎行事"
+            },
+            {
+              "id": "step_1773043350265",
+              "type": "choice",
+              "content": "算了，不必担心她"
+            },
+            {
+              "id": "step_1773043350389",
+              "type": "choice",
+              "content": "不去"
+            },
+            {
+              "id": "step_1773043350541",
+              "type": "choice",
+              "content": "去见槙喜屋姐妹"
+            },
+            {
+              "id": "step_1773043350692",
+              "type": "choice",
+              "content": "不引起对方反感的前提下旁敲侧击"
+            },
+            {
+              "id": "step_1773043350830",
+              "type": "choice",
+              "content": "干脆连槙喜屋姐妹的份也做了吧？"
+            },
+            {
+              "id": "step_1773043350972",
+              "type": "choice",
+              "content": "前往教学楼"
+            },
+            {
+              "id": "step_1773043368655",
+              "type": "choice",
+              "content": "去教室"
+            },
+            {
+              "id": "step_1773043368804",
+              "type": "choice",
+              "content": "独自帮忙"
+            },
+            {
+              "id": "step_1773043383945",
+              "type": "choice",
+              "content": "专心听课"
+            },
+            {
+              "id": "step_1773043384091",
+              "type": "choice",
+              "content": "去邀请槙喜屋姐妹"
+            },
+            {
+              "id": "step_1773043384267",
+              "type": "choice",
+              "content": "专心听课"
+            },
+            {
+              "id": "step_1773043384405",
+              "type": "choice",
+              "content": "去见华澄同学"
+            },
+            {
+              "id": "step_1773043384532",
+              "type": "choice",
+              "content": "与华澄同学接吻"
+            },
+            {
+              "id": "step_1773043384658",
+              "type": "choice",
+              "content": "教澄香"
+            },
+            {
+              "id": "step_1773043384792",
+              "type": "choice",
+              "content": "只要时间对得上就行"
+            },
+            {
+              "id": "step_1773043384941",
+              "type": "choice",
+              "content": "华澄同学"
+            },
+            {
+              "id": "step_1773043385083",
+              "type": "choice",
+              "content": "专心听课"
+            },
+            {
+              "id": "step_1773043385231",
+              "type": "choice",
+              "content": "去华澄那边"
+            },
+            {
+              "id": "step_1773043422711",
+              "type": "choice",
+              "content": "留下来帮忙准备"
+            },
+            {
+              "id": "step_1773043422862",
+              "type": "choice",
+              "content": "喜欢华澄同学"
+            },
+            {
+              "id": "step_1773043423146",
+              "type": "choice",
+              "content": "选择华澄同学"
+            }
+          ]
+        },
+        {
+          "id": "ending_1773043449919",
+          "name": "沙兰 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1773043458960",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1773043461030",
+              "type": "choice",
+              "content": "去见沙兰学姐"
+            },
+            {
+              "id": "step_1773043461165",
+              "type": "choice",
+              "content": "算了，不必担心她"
+            },
+            {
+              "id": "step_1773043461297",
+              "type": "choice",
+              "content": "去见由美美"
+            },
+            {
+              "id": "step_1773043470814",
+              "type": "choice",
+              "content": "不给"
+            },
+            {
+              "id": "step_1773043470990",
+              "type": "choice",
+              "content": "向她借体操服给遥"
+            },
+            {
+              "id": "step_1773043471135",
+              "type": "choice",
+              "content": "去见沙兰学姐"
+            },
+            {
+              "id": "step_1773043471286",
+              "type": "choice",
+              "content": "不引起对方反感的前提下旁敲侧击"
+            },
+            {
+              "id": "step_1773043471422",
+              "type": "choice",
+              "content": "干脆连槙喜屋姐妹的份也做了吧？"
+            },
+            {
+              "id": "step_1773043471558",
+              "type": "choice",
+              "content": "前往教学楼"
+            },
+            {
+              "id": "step_1773043471713",
+              "type": "choice",
+              "content": "帮助沙兰学姐"
+            },
+            {
+              "id": "step_1773043472015",
+              "type": "choice",
+              "content": "去见沙兰学姐"
+            },
+            {
+              "id": "step_1773043472195",
+              "type": "choice",
+              "content": "帮助沙兰学姐"
+            },
+            {
+              "id": "step_1773043472334",
+              "type": "choice",
+              "content": "去见沙兰学姐"
+            },
+            {
+              "id": "step_1773043472472",
+              "type": "choice",
+              "content": "沙兰学姐"
+            },
+            {
+              "id": "step_1773043472606",
+              "type": "choice",
+              "content": "独自去救人"
+            },
+            {
+              "id": "step_1773043472772",
+              "type": "choice",
+              "content": "算了，不必担心她"
+            },
+            {
+              "id": "step_1773043472933",
+              "type": "choice",
+              "content": "去见由美美"
+            },
+            {
+              "id": "step_1773043473078",
+              "type": "choice",
+              "content": "去见沙兰学姐"
+            },
+            {
+              "id": "step_1773043473223",
+              "type": "choice",
+              "content": "不引起对方反感的前提下旁敲侧击"
+            },
+            {
+              "id": "step_1773043473393",
+              "type": "choice",
+              "content": "算了"
+            },
+            {
+              "id": "step_1773043473537",
+              "type": "choice",
+              "content": "前往教学楼"
+            },
+            {
+              "id": "step_1773043473689",
+              "type": "choice",
+              "content": "帮助沙兰学姐"
+            },
+            {
+              "id": "step_1773043543837",
+              "type": "choice",
+              "content": "去见沙兰学姐"
+            },
+            {
+              "id": "step_1773043544040",
+              "type": "choice",
+              "content": "前往社团大楼"
+            },
+            {
+              "id": "step_1773043544186",
+              "type": "choice",
+              "content": "帮助沙兰学姐"
+            },
+            {
+              "id": "step_1773043544348",
+              "type": "choice",
+              "content": "邀请沙兰学姐吃午饭"
+            },
+            {
+              "id": "step_1773043544509",
+              "type": "choice",
+              "content": "叫醒沙兰学姐"
+            },
+            {
+              "id": "step_1773043544657",
+              "type": "choice",
+              "content": "陪沙兰学姐一起留下来"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

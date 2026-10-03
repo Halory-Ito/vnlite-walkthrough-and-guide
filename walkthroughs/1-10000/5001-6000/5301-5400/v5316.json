@@ -1,0 +1,115 @@
+{
+  "vid": "v5316",
+  "name": {
+    "zh-cn": "Hello,good-bye",
+    "en-us": "Hello, Goodbye",
+    "ja-jp": "Hello,good-bye",
+    "ja-Latn": "hello-good-bye"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-12",
+  "tips": [
+    "在动画打开的状态下，选项画面是不能存档的",
+    "小春路线的条件满足后，会在最初的选项中出现路线分歧选项"
+  ],
+  "routes": [
+    {
+      "id": "route_1756446099498",
+      "name": "早乙女 直里",
+      "endings": [
+        {
+          "id": "ending_1756446707202",
+          "name": "直里 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756446721263",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1756446726332",
+              "type": "choice",
+              "content": "不……坦白的说我不认识你，我诚实的回答"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756446102386",
+      "name": "雪代 芽衣",
+      "endings": [
+        {
+          "id": "ending_1756446963734",
+          "name": "芽衣 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756446988914",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1756447048870",
+              "type": "choice",
+              "content": "素酱回答说她也很好，好像他们认识一样"
+            },
+            {
+              "id": "step_1756447108215",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1756447360298",
+              "type": "choice",
+              "content": "我想了解守乃"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756446111080",
+      "name": "龙胆 枣",
+      "endings": [
+        {
+          "id": "ending_1756447403689",
+          "name": "枣 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756447433572",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1756447440561",
+              "type": "choice",
+              "content": "希望能够从天主教学院安全毕业"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756446119905",
+      "name": "柊 小春",
+      "endings": [
+        {
+          "id": "ending_1756447480215",
+          "name": "小春 END",
+          "type": "normal",
+          "requirements": "以上END结束后，标题画面开始新游戏",
+          "steps": [
+            {
+              "id": "step_1756447547248",
+              "type": "choice",
+              "content": "我突然想起了那个叫我哥哥的女孩"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

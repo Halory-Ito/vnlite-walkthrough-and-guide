@@ -1,0 +1,161 @@
+{
+  "vid": "v4041",
+  "name": {
+    "zh-cn": "少女骑士物语",
+    "ja-jp": "ワルキューレロマンツェ ～少女騎士物語～",
+    "ja-Latn": "walkure-romanze"
+  },
+  "level": 2,
+  "updatedAt": "2026-04-13",
+  "routes": [
+    {
+      "id": "route_game_guide",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_mio_end",
+          "name": "美樱 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_mio_02",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_mio_03",
+              "type": "choice",
+              "content": "阻止美樱"
+            },
+            {
+              "id": "step_mio_04",
+              "type": "choice",
+              "content": "改变话题"
+            },
+            {
+              "id": "step_mio_05",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_mio_06",
+              "type": "choice",
+              "content": "向美樱解释"
+            },
+            {
+              "id": "step_mio_07",
+              "type": "choice",
+              "content": "默默地观察"
+            }
+          ]
+        },
+        {
+          "id": "ending_celia_end",
+          "name": "西莉亚 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_celia_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_celia_02",
+              "type": "choice",
+              "content": "阻止西莉亚前辈"
+            },
+            {
+              "id": "step_celia_03",
+              "type": "choice",
+              "content": "说自己也被其他人邀请了"
+            },
+            {
+              "id": "step_celia_04",
+              "type": "choice",
+              "content": "向美樱解释"
+            },
+            {
+              "id": "step_celia_05",
+              "type": "choice",
+              "content": "什么也不说，静静地观察"
+            },
+            {
+              "id": "step_celia_06",
+              "type": "choice",
+              "content": "抱歉，看起来有点难"
+            },
+            {
+              "id": "step_celia_07",
+              "type": "choice",
+              "content": "帮忙做学生会的工作"
+            }
+          ]
+        },
+        {
+          "id": "ending_noel_end",
+          "name": "诺艾尔 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_noel_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_noel_02",
+              "type": "choice",
+              "content": "向诺艾尔道歉"
+            },
+            {
+              "id": "step_noel_03",
+              "type": "choice",
+              "content": "向丽莎求助"
+            },
+            {
+              "id": "step_noel_04",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_noel_05",
+              "type": "choice",
+              "content": "对不起，这有点困难"
+            },
+            {
+              "id": "step_noel_06",
+              "type": "choice",
+              "content": "拒绝帮助"
+            },
+            {
+              "id": "step_noel_07",
+              "type": "choice",
+              "content": "只限于“比赛进程的注意事项”"
+            }
+          ]
+        },
+        {
+          "id": "ending_risa_end",
+          "name": "丽莎 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_risa_01",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_risa_02",
+              "type": "choice",
+              "content": "首先，尝试和丽莎谈谈"
+            },
+            {
+              "id": "step_risa_03",
+              "type": "choice",
+              "content": "向丽莎提出想让她成为伴奏者"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

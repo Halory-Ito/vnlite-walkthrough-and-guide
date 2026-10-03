@@ -1,0 +1,187 @@
+{
+  "vid": "v2955",
+  "name": {
+    "zh-cn": "在夏日奏响的我们的歌谣",
+    "ja-jp": "夏に奏でる僕らの詩",
+    "ja-Latn": "natsu-ni-kanaderu-bokura-no-uta"
+  },
+  "level": 2,
+  "updatedAt": "2026-03-24",
+  "routes": [
+    {
+      "id": "route_game",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_honoka_end",
+          "name": "ほのか END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_honoka_01",
+              "type": "choice",
+              "content": "像往常一样游到岛上调查遗迹",
+              "group": "第一话"
+            },
+            {
+              "id": "step_honoka_02",
+              "type": "choice",
+              "content": "去看看優佳的情况",
+              "group": "第三话"
+            },
+            {
+              "id": "step_honoka_03",
+              "type": "save",
+              "content": "SAVE 1",
+              "group": "第四话"
+            },
+            {
+              "id": "step_honoka_04",
+              "type": "choice",
+              "content": "确实不太好对大家开口啊",
+              "group": "第四话"
+            },
+            {
+              "id": "step_honoka_05",
+              "type": "choice",
+              "content": "去和正跟螃蟹玩耍的ほのちゃん一起玩",
+              "group": "第五话"
+            },
+            {
+              "id": "step_honoka_06",
+              "type": "choice",
+              "content": "去看看ほのちゃん的情况",
+              "group": "第七话"
+            }
+          ]
+        },
+        {
+          "id": "ending_kaho_end",
+          "name": "果歩 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_kaho_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_kaho_02",
+              "type": "choice",
+              "content": "如果人多的话就做不了奇怪的事了",
+              "group": "第四话"
+            },
+            {
+              "id": "step_kaho_03",
+              "type": "choice",
+              "content": "去真夏那边，她正在眺望小岛",
+              "group": "第五话"
+            },
+            {
+              "id": "step_kaho_04",
+              "type": "save",
+              "content": "SAVE 2",
+              "group": "第六话"
+            },
+            {
+              "id": "step_kaho_05",
+              "type": "choice",
+              "content": "用多数决来决定可不好",
+              "group": "第六话"
+            },
+            {
+              "id": "step_kaho_06",
+              "type": "choice",
+              "content": "去看看果歩的情况",
+              "group": "第七话"
+            }
+          ]
+        },
+        {
+          "id": "ending_kanon_end",
+          "name": "歌音 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_kanon_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_kanon_02",
+              "type": "choice",
+              "content": "听听大家的意见再决定也不错",
+              "group": "第六话"
+            },
+            {
+              "id": "step_kanon_03",
+              "type": "save",
+              "content": "SAVE 3",
+              "group": "第七话"
+            },
+            {
+              "id": "step_kanon_04",
+              "type": "choice",
+              "content": "去看看真夏的情况",
+              "group": "第七话"
+            },
+            {
+              "id": "step_kanon_05",
+              "type": "save",
+              "content": "SAVE 4",
+              "group": "第八话"
+            },
+            {
+              "id": "step_kanon_06",
+              "type": "choice",
+              "content": "两个人一起作曲",
+              "group": "第八话"
+            }
+          ]
+        },
+        {
+          "id": "ending_manatsu_end",
+          "name": "真夏 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_manatsu_01",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_manatsu_02",
+              "type": "choice",
+              "content": "大家一起作曲",
+              "group": "第八话"
+            }
+          ]
+        },
+        {
+          "id": "ending_other_end",
+          "name": "其他 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_other_01",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_other_02",
+              "type": "choice",
+              "content": "去看看優佳的情况",
+              "group": "第七话"
+            },
+            {
+              "id": "step_other_03",
+              "type": "choice",
+              "content": "大家一起作曲",
+              "group": "第八话"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

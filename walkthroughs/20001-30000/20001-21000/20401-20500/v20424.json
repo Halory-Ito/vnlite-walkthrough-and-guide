@@ -1,0 +1,2564 @@
+{
+  "vid": "v20424",
+  "name": {
+    "zh-cn": "夏日口袋",
+    "en-us": "Summer Pockets REFLECTION BLUE",
+    "ja-jp": "Summer Pockets REFLECTION BLUE",
+    "ja-Latn": "summer-pockets"
+  },
+  "level": 1,
+  "updatedAt": "2026-07-14",
+  "tips": [
+    "本攻略为Summer Pockets REFLECTION BLUE的攻略，理论上Summer Pockets 也是通用的",
+    "★为RB（REFLECTION BLUE）追加选项",
+    "原女主4人+RB新增女主3人共7人，攻略其中4人后标题画面会追加【ReSTART】按钮,之后从【ReSTART】进入游戏（【ReSTART】1周目状态）",
+    "攻略第5~6个人从【ReSTART】进入游戏。（【ReSTART】1周目状态）",
+    "攻略第7人同样从【ReSTART】进入游戏。（【ReSTART】2周目状态）",
+    "鸥线（8月8日的事件）有四张女仆装cg在海己「鹰原同学(１～４周目)」周目可回收"
+  ],
+  "routes": [
+    {
+      "id": "route_summer_pockets_reflection_blue",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_shiroha_end",
+          "name": "鸣濑 白羽 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_shiroha_02",
+              "type": "note",
+              "content": "序幕不要跳过"
+            },
+            {
+              "id": "step_shiroha_03",
+              "type": "choice",
+              "content": "忘记了歌唱的金丝雀",
+              "group": "7月25日"
+            },
+            {
+              "id": "step_shiroha_04",
+              "type": "choice",
+              "content": "猪排饭",
+              "group": "7月25日"
+            },
+            {
+              "id": "step_shiroha_05",
+              "type": "choice",
+              "content": "作自我介绍",
+              "group": "7月25日"
+            },
+            {
+              "id": "step_shiroha_06",
+              "type": "choice",
+              "content": "牛油果的味道",
+              "group": "7月25日"
+            },
+            {
+              "id": "step_shiroha_07",
+              "type": "choice",
+              "content": "镜子小姐",
+              "group": "7月26日"
+            },
+            {
+              "id": "step_shiroha_08",
+              "type": "choice",
+              "content": "车",
+              "group": "7月26日"
+            },
+            {
+              "id": "step_shiroha_09",
+              "type": "choice",
+              "content": "向着梦想前进",
+              "prefix": "★",
+              "group": "7月26日"
+            },
+            {
+              "id": "step_shiroha_10",
+              "type": "choice",
+              "content": "泳裤部",
+              "group": "7月26日"
+            },
+            {
+              "id": "step_shiroha_11",
+              "type": "choice",
+              "content": "做作业",
+              "group": "7月27日"
+            },
+            {
+              "id": "step_shiroha_12",
+              "type": "choice",
+              "content": "试着月球漫步",
+              "group": "7月27日"
+            },
+            {
+              "id": "step_shiroha_13",
+              "type": "choice",
+              "content": "笑",
+              "prefix": "★",
+              "group": "7月27日"
+            },
+            {
+              "id": "step_shiroha_14",
+              "type": "choice",
+              "content": "摸摸看",
+              "prefix": "★",
+              "group": "7月27日"
+            },
+            {
+              "id": "step_shiroha_15",
+              "type": "choice",
+              "content": "17岁左右",
+              "group": "7月28日"
+            },
+            {
+              "id": "step_shiroha_16",
+              "type": "choice",
+              "content": "帮我免疫这件事",
+              "group": "7月28日"
+            },
+            {
+              "id": "step_shiroha_17",
+              "type": "choice",
+              "content": "穿上再进去",
+              "group": "7月28日"
+            },
+            {
+              "id": "step_shiroha_19",
+              "type": "choice",
+              "content": "地图(上午)：鸣濑 白羽｜小岛外部",
+              "group": "7月29日"
+            },
+            {
+              "id": "step_shiroha_20",
+              "type": "choice",
+              "content": "跟上去",
+              "group": "7月29日"
+            },
+            {
+              "id": "step_shiroha_21",
+              "type": "choice",
+              "content": "地图(下午)：鸣濑 白羽｜蓄水池",
+              "group": "7月29日"
+            },
+            {
+              "id": "step_shiroha_22",
+              "type": "choice",
+              "content": "地图(上午)：鸣濑 白羽｜小岛外部",
+              "group": "7月30日"
+            },
+            {
+              "id": "step_shiroha_23",
+              "type": "choice",
+              "content": "地图(下午)：鸣濑 白羽｜粗点心店",
+              "group": "7月30日"
+            },
+            {
+              "id": "step_shiroha_24",
+              "type": "choice",
+              "content": "地图(上午)：鸣濑 白羽｜蓄水池",
+              "group": "7月31日"
+            },
+            {
+              "id": "step_shiroha_25",
+              "type": "choice",
+              "content": "吃",
+              "group": "7月31日"
+            },
+            {
+              "id": "step_shiroha_26",
+              "type": "choice",
+              "content": "地图(下午)：鸣濑 白羽｜粗点心店",
+              "group": "7月31日"
+            },
+            {
+              "id": "step_shiroha_27",
+              "type": "choice",
+              "content": "地图(上午)：鸣濑 白羽｜食堂",
+              "group": "8月1日"
+            },
+            {
+              "id": "step_shiroha_28",
+              "type": "choice",
+              "content": "地图(下午)：鸣濑 白羽｜粗点心店",
+              "group": "8月1日"
+            },
+            {
+              "id": "step_shiroha_29",
+              "type": "choice",
+              "content": "凝视",
+              "group": "8月1日"
+            },
+            {
+              "id": "step_shiroha_30",
+              "type": "choice",
+              "content": "继续凝视",
+              "group": "8月1日"
+            },
+            {
+              "id": "step_shiroha_31",
+              "type": "choice",
+              "content": "继续凝视着",
+              "group": "8月1日"
+            },
+            {
+              "id": "step_shiroha_32",
+              "type": "choice",
+              "content": "去吃晨间套餐",
+              "subfix": "任意角色通关后出现",
+              "group": "8月2日"
+            },
+            {
+              "id": "step_shiroha_33",
+              "type": "choice",
+              "content": "地图(上午)：！｜粗点心店",
+              "group": "8月2日"
+            },
+            {
+              "id": "step_shiroha_34",
+              "type": "choice",
+              "content": "请给我海唔奇",
+              "group": "8月2日"
+            },
+            {
+              "id": "step_shiroha_35",
+              "type": "choice",
+              "content": "地图(下午)：鸣濑 白羽｜小岛外部",
+              "group": "8月2日"
+            },
+            {
+              "id": "step_shiroha_36",
+              "type": "choice",
+              "content": "看见胖次了",
+              "subfix": "任意角色通关后出现",
+              "group": "8月2日"
+            },
+            {
+              "id": "step_shiroha_37",
+              "type": "choice",
+              "content": "地图(上午)：鸣濑 白羽｜秘密基地",
+              "group": "8月3日"
+            },
+            {
+              "id": "step_shiroha_38",
+              "type": "choice",
+              "content": "地图(下午)：！｜神社",
+              "group": "8月3日"
+            },
+            {
+              "id": "step_shiroha_39",
+              "type": "choice",
+              "content": "100円",
+              "group": "8月3日"
+            },
+            {
+              "id": "step_shiroha_40",
+              "type": "choice",
+              "content": "试试看",
+              "group": "8月3日"
+            },
+            {
+              "id": "step_shiroha_41",
+              "type": "choice",
+              "content": "地图(上午)：！｜粗点心店",
+              "group": "8月4日"
+            },
+            {
+              "id": "step_shiroha_42",
+              "type": "choice",
+              "content": "为扭蛋兑换货币",
+              "group": "8月4日"
+            },
+            {
+              "id": "step_shiroha_43",
+              "type": "save",
+              "content": "SAVE 3",
+              "group": "8月4日"
+            },
+            {
+              "id": "step_shiroha_44",
+              "type": "choice",
+              "content": "地图(下午)：鸣濑 白羽｜小岛外部",
+              "group": "8月4日"
+            },
+            {
+              "id": "step_shiroha_45",
+              "type": "choice",
+              "content": "手枪",
+              "group": "8月6日"
+            },
+            {
+              "id": "step_shiroha_46",
+              "type": "choice",
+              "content": "地图(上午)：加藤｜加藤家／客厅",
+              "group": "8月7日"
+            },
+            {
+              "id": "step_shiroha_47",
+              "type": "choice",
+              "content": "收下",
+              "group": "8月7日"
+            },
+            {
+              "id": "step_shiroha_48",
+              "type": "choice",
+              "content": "地图(上午)：镜子｜加藤家／仓库",
+              "group": "8月7日"
+            },
+            {
+              "id": "step_shiroha_49",
+              "type": "choice",
+              "content": "收下",
+              "group": "8月7日"
+            },
+            {
+              "id": "step_shiroha_50",
+              "type": "choice",
+              "content": "地图(上午)：！｜港口",
+              "group": "8月7日"
+            },
+            {
+              "id": "step_shiroha_51",
+              "type": "choice",
+              "content": "收下",
+              "group": "8月7日"
+            },
+            {
+              "id": "step_shiroha_52",
+              "type": "choice",
+              "content": "爱的泳镜",
+              "group": "8月12日"
+            },
+            {
+              "id": "step_shiroha_53",
+              "type": "choice",
+              "content": "地图(上午)：！｜粗点心店",
+              "group": "8月15日"
+            },
+            {
+              "id": "step_shiroha_54",
+              "type": "choice",
+              "content": "地图(上午)：！｜小岛外部",
+              "group": "8月15日"
+            },
+            {
+              "id": "step_shiroha_55",
+              "type": "choice",
+              "content": "地图(上午)：！｜村公所前",
+              "group": "8月15日"
+            },
+            {
+              "id": "step_shiroha_56",
+              "type": "choice",
+              "content": "地图(上午)：！｜乡间小路",
+              "group": "8月15日"
+            },
+            {
+              "id": "step_shiroha_57",
+              "type": "choice",
+              "content": "地图(上午)：！｜加藤家／客厅",
+              "group": "8月15日"
+            }
+          ]
+        },
+        {
+          "id": "ending_ao_end",
+          "name": "空门 苍 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_ao_02",
+              "type": "note",
+              "content": "从 START 或 ReSTART(第一次) 开始"
+            },
+            {
+              "id": "step_ao_03",
+              "type": "note",
+              "content": "序幕不要跳过"
+            },
+            {
+              "id": "step_ao_04",
+              "type": "choice",
+              "content": "受伤的候鸟",
+              "group": "7月25日"
+            },
+            {
+              "id": "step_ao_05",
+              "type": "choice",
+              "content": "生鱼片套餐",
+              "group": "7月25日"
+            },
+            {
+              "id": "step_ao_06",
+              "type": "choice",
+              "content": "作自我介绍",
+              "group": "7月25日"
+            },
+            {
+              "id": "step_ao_07",
+              "type": "choice",
+              "content": "牛奶的味道",
+              "group": "7月25日"
+            },
+            {
+              "id": "step_ao_08",
+              "type": "choice",
+              "content": "儿时的朋友",
+              "group": "7月26日"
+            },
+            {
+              "id": "step_ao_09",
+              "type": "choice",
+              "content": "在一个夏天的恋爱中",
+              "group": "7月26日"
+            },
+            {
+              "id": "step_ao_10",
+              "type": "choice",
+              "content": "面向明天",
+              "prefix": "★",
+              "group": "7月26日"
+            },
+            {
+              "id": "step_ao_11",
+              "type": "choice",
+              "content": "花样游泳部",
+              "group": "7月26日"
+            },
+            {
+              "id": "step_ao_12",
+              "type": "choice",
+              "content": "写歌",
+              "group": "7月27日"
+            },
+            {
+              "id": "step_ao_13",
+              "type": "choice",
+              "content": "谈论熟悉的艺人",
+              "group": "7月27日"
+            },
+            {
+              "id": "step_ao_14",
+              "type": "choice",
+              "content": "不笑",
+              "group": "7月27日"
+            },
+            {
+              "id": "step_ao_15",
+              "type": "choice",
+              "content": "试着抓住",
+              "prefix": "★",
+              "group": "7月27日"
+            },
+            {
+              "id": "step_ao_16",
+              "type": "choice",
+              "content": "17岁左右",
+              "group": "7月28日"
+            },
+            {
+              "id": "step_ao_17",
+              "type": "choice",
+              "content": "姑且不论刨冰……",
+              "group": "7月28日"
+            },
+            {
+              "id": "step_ao_18",
+              "type": "choice",
+              "content": "请用刨冰浇我",
+              "group": "7月28日"
+            },
+            {
+              "id": "step_ao_19",
+              "type": "choice",
+              "content": "穿衣服进去",
+              "group": "7月28日"
+            },
+            {
+              "id": "step_ao_21",
+              "type": "choice",
+              "content": "地图(上午)：加藤｜粗点心店",
+              "group": "7月29日"
+            },
+            {
+              "id": "step_ao_22",
+              "type": "choice",
+              "content": "一份刨冰",
+              "group": "7月29日"
+            },
+            {
+              "id": "step_ao_23",
+              "type": "choice",
+              "content": "地图(下午)：空门苍｜乡村路",
+              "group": "7月29日"
+            },
+            {
+              "id": "step_ao_24",
+              "type": "choice",
+              "content": "帮助她",
+              "group": "7月29日"
+            },
+            {
+              "id": "step_ao_25",
+              "type": "choice",
+              "content": "地图(上午)：空门苍｜点心店",
+              "group": "7月30日"
+            },
+            {
+              "id": "step_ao_26",
+              "type": "choice",
+              "content": "地图(上午)：！｜加藤家／仓库",
+              "group": "7月30日"
+            },
+            {
+              "id": "step_ao_27",
+              "type": "choice",
+              "content": "继续",
+              "group": "7月30日"
+            },
+            {
+              "id": "step_ao_28",
+              "type": "choice",
+              "content": "地图(上午)：！｜有点H的秘密基地的书",
+              "group": "7月30日"
+            },
+            {
+              "id": "step_ao_29",
+              "type": "choice",
+              "content": "饲料",
+              "prefix": "▼",
+              "group": "7月30日"
+            },
+            {
+              "id": "step_ao_30",
+              "type": "choice",
+              "content": "认输",
+              "group": "7月30日"
+            },
+            {
+              "id": "step_ao_31",
+              "type": "choice",
+              "content": "地图(下午)：！｜神社",
+              "group": "7月30日"
+            },
+            {
+              "id": "step_ao_32",
+              "type": "choice",
+              "content": "50日元",
+              "group": "7月30日"
+            },
+            {
+              "id": "step_ao_33",
+              "type": "choice",
+              "content": "地图(上午)：！｜粗点心店",
+              "group": "7月31日"
+            },
+            {
+              "id": "step_ao_34",
+              "type": "choice",
+              "content": "看守一下店铺",
+              "group": "7月31日"
+            },
+            {
+              "id": "step_ao_35",
+              "type": "choice",
+              "content": "地图(下午)：空门苍｜乡村小路",
+              "group": "7月31日"
+            },
+            {
+              "id": "step_ao_36",
+              "type": "choice",
+              "content": "在一旁观察",
+              "group": "7月31日"
+            },
+            {
+              "id": "step_ao_37",
+              "type": "choice",
+              "content": "问三围",
+              "group": "7月31日"
+            },
+            {
+              "id": "step_ao_38",
+              "type": "choice",
+              "content": "问一问朋友",
+              "group": "7月31日"
+            },
+            {
+              "id": "step_ao_39",
+              "type": "choice",
+              "content": "问家人的事",
+              "group": "7月31日"
+            },
+            {
+              "id": "step_ao_40",
+              "type": "choice",
+              "content": "问一问恋人的事",
+              "group": "7月31日"
+            },
+            {
+              "id": "step_ao_41",
+              "type": "choice",
+              "content": "问自己喜欢的食物",
+              "group": "7月31日"
+            },
+            {
+              "id": "step_ao_42",
+              "type": "choice",
+              "content": "问喜欢的人",
+              "group": "7月31日"
+            },
+            {
+              "id": "step_ao_43",
+              "type": "choice",
+              "content": "问问弱点",
+              "group": "7月31日"
+            },
+            {
+              "id": "step_ao_44",
+              "type": "note",
+              "content": "这里的都要问一遍",
+              "group": "7月31日"
+            },
+            {
+              "id": "step_ao_45",
+              "type": "choice",
+              "content": "地图(上午)：！｜粗点心店",
+              "group": "8月1日"
+            },
+            {
+              "id": "step_ao_46",
+              "type": "choice",
+              "content": "想要玩扭蛋",
+              "group": "8月1日"
+            },
+            {
+              "id": "step_ao_47",
+              "type": "choice",
+              "content": "地图(下午)：空门苍｜乡间小路",
+              "group": "8月1日"
+            },
+            {
+              "id": "step_ao_48",
+              "type": "choice",
+              "content": "绅士地行动",
+              "group": "8月1日"
+            },
+            {
+              "id": "step_ao_49",
+              "type": "choice",
+              "content": "去吃晨间套餐",
+              "subfix": "任意角色通关后出现",
+              "group": "8月2日"
+            },
+            {
+              "id": "step_ao_50",
+              "type": "choice",
+              "content": "地图(上午)：！｜粗点心店",
+              "group": "8月2日"
+            },
+            {
+              "id": "step_ao_51",
+              "type": "choice",
+              "content": "请给我海唔奇",
+              "group": "8月2日"
+            },
+            {
+              "id": "step_ao_52",
+              "type": "choice",
+              "content": "地图(下午)：空门苍｜粗点心店",
+              "group": "8月2日"
+            },
+            {
+              "id": "step_ao_53",
+              "type": "choice",
+              "content": "为了提神做点什么",
+              "group": "8月2日"
+            },
+            {
+              "id": "step_ao_54",
+              "type": "choice",
+              "content": "抱紧她",
+              "group": "8月2日"
+            },
+            {
+              "id": "step_ao_55",
+              "type": "choice",
+              "content": "内裤一览无余",
+              "subfix": "任意角色通关后出现",
+              "group": "8月2日"
+            },
+            {
+              "id": "step_ao_56",
+              "type": "choice",
+              "content": "地图(上午)：！｜粗点心店",
+              "group": "8月3日"
+            },
+            {
+              "id": "step_ao_57",
+              "type": "choice",
+              "content": "玩扭蛋",
+              "group": "8月3日"
+            },
+            {
+              "id": "step_ao_58",
+              "type": "choice",
+              "content": "地图(下午)：空门苍｜粗点心店",
+              "group": "8月3日"
+            },
+            {
+              "id": "step_ao_59",
+              "type": "choice",
+              "content": "不成为偶像吗?",
+              "group": "8月3日"
+            },
+            {
+              "id": "step_ao_60",
+              "type": "choice",
+              "content": "迷上了",
+              "group": "8月3日"
+            },
+            {
+              "id": "step_ao_61",
+              "type": "choice",
+              "content": "试试看",
+              "group": "8月3日"
+            },
+            {
+              "id": "step_ao_62",
+              "type": "choice",
+              "content": "地图(上午)：！｜粗点心店",
+              "group": "8月4日"
+            },
+            {
+              "id": "step_ao_63",
+              "type": "choice",
+              "content": "为扭蛋兑换货币",
+              "group": "8月4日"
+            },
+            {
+              "id": "step_ao_64",
+              "type": "choice",
+              "content": "100円的扭蛋",
+              "group": "8月4日"
+            },
+            {
+              "id": "step_ao_65",
+              "type": "choice",
+              "content": "地图(下午)：空门苍｜海边",
+              "group": "8月4日"
+            },
+            {
+              "id": "step_ao_66",
+              "type": "choice",
+              "content": "轻轻温柔地拥抱他",
+              "group": "8月4日"
+            },
+            {
+              "id": "step_ao_67",
+              "type": "choice",
+              "content": "地图(上午)：！｜粗点心店",
+              "group": "8月5日"
+            },
+            {
+              "id": "step_ao_68",
+              "type": "choice",
+              "content": "想去玩扭蛋",
+              "group": "8月5日"
+            },
+            {
+              "id": "step_ao_69",
+              "type": "choice",
+              "content": "地图(下午)：空门苍｜村公所前",
+              "group": "8月5日"
+            },
+            {
+              "id": "step_ao_70",
+              "type": "choice",
+              "content": "请给我带路",
+              "group": "8月5日"
+            },
+            {
+              "id": "step_ao_71",
+              "type": "choice",
+              "content": "关于岛上的娱乐",
+              "group": "8月5日"
+            },
+            {
+              "id": "step_ao_72",
+              "type": "choice",
+              "content": "正在看",
+              "group": "8月5日"
+            },
+            {
+              "id": "step_ao_73",
+              "type": "choice",
+              "content": "地图(上午)：！｜粗点心店",
+              "group": "8月6日"
+            },
+            {
+              "id": "step_ao_74",
+              "type": "choice",
+              "content": "地图(下午)：空门苍｜粗点心店",
+              "group": "8月6日"
+            },
+            {
+              "id": "step_ao_75",
+              "type": "choice",
+              "content": "喂她吃蒲焼さま太郎",
+              "group": "8月6日"
+            },
+            {
+              "id": "step_ao_76",
+              "type": "choice",
+              "content": "喂她吃美味棒",
+              "group": "8月6日"
+            },
+            {
+              "id": "step_ao_77",
+              "type": "choice",
+              "content": "这就是所谓的喂养……！",
+              "group": "8月6日"
+            },
+            {
+              "id": "step_ao_78",
+              "type": "save",
+              "content": "SAVE 4",
+              "group": "8月6日"
+            },
+            {
+              "id": "step_ao_79",
+              "type": "choice",
+              "content": "去看看",
+              "group": "8月6日"
+            },
+            {
+              "id": "step_ao_80",
+              "type": "choice",
+              "content": "看上去非常漂亮",
+              "group": "8月7日"
+            },
+            {
+              "id": "step_ao_81",
+              "type": "choice",
+              "content": "胳膊给你枕吧?",
+              "group": "8月7日"
+            },
+            {
+              "id": "step_ao_82",
+              "type": "choice",
+              "content": "悄悄跟在后面",
+              "group": "8月7日"
+            },
+            {
+              "id": "step_ao_83",
+              "type": "choice",
+              "content": "在意苍的事",
+              "group": "8月8日"
+            },
+            {
+              "id": "step_ao_84",
+              "type": "choice",
+              "content": "她的父母",
+              "group": "8月10日"
+            },
+            {
+              "id": "step_ao_85",
+              "type": "choice",
+              "content": "我觉得我爱上你了",
+              "group": "8月10日"
+            },
+            {
+              "id": "step_ao_86",
+              "type": "choice",
+              "content": "OK，一起去吧",
+              "group": "8月12日"
+            },
+            {
+              "id": "step_ao_87",
+              "type": "choice",
+              "content": "我是苍的恋人羽依里",
+              "group": "8月12日"
+            },
+            {
+              "id": "step_ao_88",
+              "type": "choice",
+              "content": "老实承认",
+              "group": "8月13日"
+            },
+            {
+              "id": "step_ao_89",
+              "type": "choice",
+              "content": "揉",
+              "group": "8月13日"
+            },
+            {
+              "id": "step_ao_90",
+              "type": "choice",
+              "content": "触摸七影蝶",
+              "group": "8月15日"
+            },
+            {
+              "id": "step_ao_91",
+              "type": "choice",
+              "content": "轻咬她的嘴唇",
+              "group": "8月15日"
+            },
+            {
+              "id": "step_ao_92",
+              "type": "choice",
+              "content": "高呼苍害羞的秘密",
+              "group": "8月15日"
+            }
+          ]
+        },
+        {
+          "id": "ending_tsumugi_end",
+          "name": "紬 文德斯 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1774318293606",
+              "type": "note",
+              "content": "为了回收CG，在鸥线前攻略紬"
+            },
+            {
+              "id": "step_tsumugi_01",
+              "type": "note",
+              "content": "从 START 或 ReSTART(第一次) 开始"
+            },
+            {
+              "id": "step_tsumugi_02",
+              "type": "note",
+              "content": "序幕不要跳过"
+            },
+            {
+              "id": "step_tsumugi_03",
+              "type": "choice",
+              "content": "嘴巴不利索的牛郎",
+              "subfix": "阿鹰系称号",
+              "group": "7月25日"
+            },
+            {
+              "id": "step_tsumugi_04",
+              "type": "choice",
+              "content": "快乐套餐",
+              "group": "7月25日"
+            },
+            {
+              "id": "step_tsumugi_05",
+              "type": "choice",
+              "content": "作自我介绍",
+              "group": "7月25日"
+            },
+            {
+              "id": "step_tsumugi_06",
+              "type": "choice",
+              "content": "牛奶的味道",
+              "group": "7月25日"
+            },
+            {
+              "id": "step_tsumugi_07",
+              "type": "choice",
+              "content": "老妈",
+              "group": "7月26日"
+            },
+            {
+              "id": "step_tsumugi_08",
+              "type": "choice",
+              "content": "卓帕卡布拉",
+              "group": "7月26日"
+            },
+            {
+              "id": "step_tsumugi_09",
+              "type": "choice",
+              "content": "向着梦想前进",
+              "prefix": "★",
+              "group": "7月26日"
+            },
+            {
+              "id": "step_tsumugi_10",
+              "type": "choice",
+              "content": "泳裤部",
+              "group": "7月26日"
+            },
+            {
+              "id": "step_tsumugi_11",
+              "type": "choice",
+              "content": "做作业",
+              "group": "7月27日"
+            },
+            {
+              "id": "step_tsumugi_12",
+              "type": "choice",
+              "content": "试着进行月球漫步",
+              "group": "7月27日"
+            },
+            {
+              "id": "step_tsumugi_13",
+              "type": "choice",
+              "content": "笑",
+              "prefix": "★",
+              "group": "7月27日"
+            },
+            {
+              "id": "step_tsumugi_14",
+              "type": "choice",
+              "content": "摸摸看",
+              "prefix": "★",
+              "group": "7月27日"
+            },
+            {
+              "id": "step_tsumugi_15",
+              "type": "choice",
+              "content": "17岁左右",
+              "group": "7月28日"
+            },
+            {
+              "id": "step_tsumugi_16",
+              "type": "choice",
+              "content": "帮我免疫这件事",
+              "group": "7月28日"
+            },
+            {
+              "id": "step_tsumugi_17",
+              "type": "choice",
+              "content": "穿上再进去",
+              "group": "7月28日"
+            },
+            {
+              "id": "step_tsumugi_18",
+              "type": "note",
+              "content": "序章结束"
+            },
+            {
+              "id": "step_tsumugi_19",
+              "type": "save",
+              "content": "SAVE 1",
+              "group": "7月29日"
+            },
+            {
+              "id": "step_tsumugi_20",
+              "type": "choice",
+              "content": "地图(上午)：久岛 鸥｜村公所前",
+              "group": "7月29日"
+            },
+            {
+              "id": "step_tsumugi_21",
+              "type": "choice",
+              "content": "地图(下午)：紬 文德斯｜灯塔",
+              "group": "7月29日"
+            },
+            {
+              "id": "step_tsumugi_22",
+              "type": "choice",
+              "content": "我也找东西吧",
+              "group": "7月29日"
+            },
+            {
+              "id": "step_tsumugi_23",
+              "type": "choice",
+              "content": "帮忙捡垃圾吧",
+              "group": "7月29日"
+            },
+            {
+              "id": "step_tsumugi_24",
+              "type": "choice",
+              "content": "地图(上午)：久岛 鸥｜村公所前",
+              "group": "7月30日"
+            },
+            {
+              "id": "step_tsumugi_25",
+              "type": "choice",
+              "content": "帮忙",
+              "group": "7月30日"
+            },
+            {
+              "id": "step_tsumugi_26",
+              "type": "choice",
+              "content": "地图(下午)：紬 文德斯｜灯塔",
+              "group": "7月30日"
+            },
+            {
+              "id": "step_tsumugi_27",
+              "type": "choice",
+              "content": "去帮她搬东西",
+              "group": "7月30日"
+            },
+            {
+              "id": "step_tsumugi_28",
+              "type": "choice",
+              "content": "我自己来找吧",
+              "group": "7月30日"
+            },
+            {
+              "id": "step_tsumugi_29",
+              "type": "choice",
+              "content": "地图(上午)：久岛 鸥｜村公所前",
+              "group": "7月31日"
+            },
+            {
+              "id": "step_tsumugi_30",
+              "type": "choice",
+              "content": "地图(下午)：！｜神社",
+              "group": "7月31日"
+            },
+            {
+              "id": "step_tsumugi_31",
+              "type": "choice",
+              "content": "地图(上午)：！｜神社",
+              "group": "8月1日"
+            },
+            {
+              "id": "step_tsumugi_32",
+              "type": "choice",
+              "content": "50円",
+              "group": "8月1日"
+            },
+            {
+              "id": "step_tsumugi_33",
+              "type": "choice",
+              "content": "地图(下午)：紬 文德斯｜灯塔",
+              "group": "8月1日"
+            },
+            {
+              "id": "step_tsumugi_34",
+              "type": "choice",
+              "content": "一起把它变大吧！",
+              "group": "8月1日"
+            },
+            {
+              "id": "step_tsumugi_35",
+              "type": "note",
+              "content": "吃杯面",
+              "subfix": "一个人过关后出现",
+              "group": "8月2日"
+            },
+            {
+              "id": "step_tsumugi_36",
+              "type": "choice",
+              "content": "地图(上午)：！｜神社",
+              "group": "8月2日"
+            },
+            {
+              "id": "step_tsumugi_37",
+              "type": "choice",
+              "content": "走在右边",
+              "group": "8月2日"
+            },
+            {
+              "id": "step_tsumugi_38",
+              "type": "choice",
+              "content": "手和口",
+              "group": "8月2日"
+            },
+            {
+              "id": "step_tsumugi_39",
+              "type": "choice",
+              "content": "轻轻温柔地投下",
+              "group": "8月2日"
+            },
+            {
+              "id": "step_tsumugi_40",
+              "type": "choice",
+              "content": "二礼二拍一礼",
+              "subfix": "☆",
+              "group": "8月2日"
+            },
+            {
+              "id": "step_tsumugi_41",
+              "type": "choice",
+              "content": "地图(下午)：！｜秘密基地",
+              "group": "8月2日"
+            },
+            {
+              "id": "step_tsumugi_42",
+              "type": "choice",
+              "content": "非常色＊的东西",
+              "group": "8月2日"
+            },
+            {
+              "id": "step_tsumugi_43",
+              "type": "choice",
+              "content": "笨—蛋",
+              "subfix": "一个人过关后出现",
+              "group": "8月2日"
+            },
+            {
+              "id": "step_tsumugi_44",
+              "type": "choice",
+              "content": "地图(上午)：久岛 鸥｜村公所前",
+              "group": "8月3日"
+            },
+            {
+              "id": "step_tsumugi_45",
+              "type": "choice",
+              "content": "烟囱",
+              "group": "8月3日"
+            },
+            {
+              "id": "step_tsumugi_46",
+              "type": "choice",
+              "content": "地图(下午)：！｜神社",
+              "group": "8月3日"
+            },
+            {
+              "id": "step_tsumugi_47",
+              "type": "choice",
+              "content": "50円",
+              "group": "8月3日"
+            },
+            {
+              "id": "step_tsumugi_48",
+              "type": "choice",
+              "content": "试试看",
+              "group": "8月3日"
+            },
+            {
+              "id": "step_tsumugi_49",
+              "type": "choice",
+              "content": "地图(上午)：久岛 鸥｜村公所前",
+              "group": "8月4日"
+            },
+            {
+              "id": "step_tsumugi_50",
+              "type": "choice",
+              "content": "苍",
+              "group": "8月4日"
+            },
+            {
+              "id": "step_tsumugi_51",
+              "type": "choice",
+              "content": "地图(下午)：紬 文德斯｜灯塔",
+              "group": "8月4日"
+            },
+            {
+              "id": "step_tsumugi_52",
+              "type": "choice",
+              "content": "欧派",
+              "group": "8月4日"
+            },
+            {
+              "id": "step_tsumugi_53",
+              "type": "choice",
+              "content": "超神魂颠倒的",
+              "group": "8月4日"
+            },
+            {
+              "id": "step_tsumugi_54",
+              "type": "choice",
+              "content": "地图(下午)：！｜粗点心店",
+              "group": "8月4日"
+            },
+            {
+              "id": "step_tsumugi_55",
+              "type": "choice",
+              "content": "地图(下午)：！｜乡村小路",
+              "group": "8月4日"
+            },
+            {
+              "id": "step_tsumugi_56",
+              "type": "choice",
+              "content": "地图(下午)：！｜乡间小路",
+              "group": "8月4日"
+            },
+            {
+              "id": "step_tsumugi_57",
+              "type": "choice",
+              "content": "地图(下午)：！｜秘密基地",
+              "group": "8月4日"
+            },
+            {
+              "id": "step_tsumugi_58",
+              "type": "choice",
+              "content": "地图(上午)：！｜神社",
+              "group": "8月5日"
+            },
+            {
+              "id": "step_tsumugi_59",
+              "type": "choice",
+              "content": "希望交到女友",
+              "group": "8月5日"
+            },
+            {
+              "id": "step_tsumugi_60",
+              "type": "choice",
+              "content": "地图(下午)：紬 文德斯｜灯塔",
+              "group": "8月5日"
+            },
+            {
+              "id": "step_tsumugi_61",
+              "type": "choice",
+              "content": "My darling",
+              "group": "8月5日"
+            },
+            {
+              "id": "step_tsumugi_62",
+              "type": "choice",
+              "content": "地图(上午)：！｜粗点心店",
+              "group": "8月6日"
+            },
+            {
+              "id": "step_tsumugi_63",
+              "type": "choice",
+              "content": "地图(下午)：紬 文德斯｜灯塔",
+              "group": "8月6日"
+            },
+            {
+              "id": "step_tsumugi_64",
+              "type": "choice",
+              "content": "寻找想一起做的事",
+              "group": "8月6日"
+            },
+            {
+              "id": "step_tsumugi_65",
+              "type": "choice",
+              "content": "摸欧派",
+              "group": "8月7日"
+            },
+            {
+              "id": "step_tsumugi_66",
+              "type": "choice",
+              "content": "喜欢",
+              "group": "8月9日"
+            },
+            {
+              "id": "step_tsumugi_67",
+              "type": "choice",
+              "content": "喜欢紬啊",
+              "group": "8月13日"
+            }
+          ]
+        },
+        {
+          "id": "ending_miki_end",
+          "name": "野村 美希 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_miki_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_miki_02",
+              "type": "choice",
+              "content": "地图(上午)：野村 美希｜村公所",
+              "group": "7月29日"
+            },
+            {
+              "id": "step_miki_03",
+              "type": "choice",
+              "content": "脱下来看看",
+              "group": "7月29日"
+            },
+            {
+              "id": "step_miki_04",
+              "type": "choice",
+              "content": "地图(下午)：水织 静久｜海边",
+              "group": "7月29日"
+            },
+            {
+              "id": "step_miki_05",
+              "type": "choice",
+              "content": "牛奶",
+              "group": "7月29日"
+            },
+            {
+              "id": "step_miki_06",
+              "type": "choice",
+              "content": "4.0",
+              "group": "7月29日"
+            },
+            {
+              "id": "step_miki_07",
+              "type": "choice",
+              "content": "地图(上午)：野村 美希｜村公所",
+              "group": "7月30日"
+            },
+            {
+              "id": "step_miki_08",
+              "type": "choice",
+              "content": "脱下来看看",
+              "group": "7月30日"
+            },
+            {
+              "id": "step_miki_09",
+              "type": "choice",
+              "content": "女孩子",
+              "group": "7月30日"
+            },
+            {
+              "id": "step_miki_10",
+              "type": "choice",
+              "content": "认真地说",
+              "group": "7月30日"
+            },
+            {
+              "id": "step_miki_11",
+              "type": "choice",
+              "content": "地图(下午)：水织 静久｜海边",
+              "group": "7月30日"
+            },
+            {
+              "id": "step_miki_12",
+              "type": "choice",
+              "content": "要帮忙打扫吗？",
+              "group": "7月30日"
+            },
+            {
+              "id": "step_miki_13",
+              "type": "choice",
+              "content": "加油",
+              "group": "7月30日"
+            },
+            {
+              "id": "step_miki_14",
+              "type": "choice",
+              "content": "地图(上午)：野村 美希｜村公所",
+              "group": "7月31日"
+            },
+            {
+              "id": "step_miki_15",
+              "type": "choice",
+              "content": "以防万一，带上备用的水去",
+              "group": "7月31日"
+            },
+            {
+              "id": "step_miki_16",
+              "type": "choice",
+              "content": "地图(下午)：水织 静久｜海边",
+              "group": "7月31日"
+            },
+            {
+              "id": "step_miki_17",
+              "type": "choice",
+              "content": "是为了欧派",
+              "group": "7月31日"
+            },
+            {
+              "id": "step_miki_18",
+              "type": "choice",
+              "content": "地图(上午)：野村 美希｜村公所",
+              "group": "8月1日"
+            },
+            {
+              "id": "step_miki_19",
+              "type": "save",
+              "content": "SAVE 2",
+              "group": "8月1日"
+            },
+            {
+              "id": "step_miki_20",
+              "type": "choice",
+              "content": "帮助美希",
+              "group": "8月1日"
+            },
+            {
+              "id": "step_miki_21",
+              "type": "note",
+              "content": "去吃晨间套餐",
+              "subfix": "任意角色通关后出现",
+              "group": "8月2日"
+            },
+            {
+              "id": "step_miki_22",
+              "type": "choice",
+              "content": "地图(上午)：！｜粗点心店",
+              "group": "8月2日"
+            },
+            {
+              "id": "step_miki_23",
+              "type": "choice",
+              "content": "返还100円",
+              "group": "8月2日"
+            },
+            {
+              "id": "step_miki_24",
+              "type": "choice",
+              "content": "地图(下午)：野村 美希｜村公所",
+              "group": "8月2日"
+            },
+            {
+              "id": "step_miki_25",
+              "type": "choice",
+              "content": "继续看",
+              "group": "8月2日"
+            },
+            {
+              "id": "step_miki_26",
+              "type": "choice",
+              "content": "我爱你",
+              "group": "8月2日"
+            },
+            {
+              "id": "step_miki_27",
+              "type": "choice",
+              "content": "地图(上午)：！｜粗点心店",
+              "group": "8月3日"
+            },
+            {
+              "id": "step_miki_28",
+              "type": "choice",
+              "content": "不玩扭蛋",
+              "group": "8月3日"
+            },
+            {
+              "id": "step_miki_29",
+              "type": "choice",
+              "content": "地图(下午)：！｜食堂",
+              "group": "8月3日"
+            },
+            {
+              "id": "step_miki_30",
+              "type": "choice",
+              "content": "盛得满满的鱼子酱！",
+              "group": "8月3日"
+            },
+            {
+              "id": "step_miki_31",
+              "type": "choice",
+              "content": "地图(上午)：野村 美希｜村公所",
+              "group": "8月4日"
+            },
+            {
+              "id": "step_miki_32",
+              "type": "choice",
+              "content": "地图(下午)：！｜食堂",
+              "group": "8月4日"
+            },
+            {
+              "id": "step_miki_33",
+              "type": "choice",
+              "content": "地图(上午)：野村 美希｜村公所",
+              "group": "8月5日"
+            },
+            {
+              "id": "step_miki_34",
+              "type": "choice",
+              "content": "地图(上午)：野村 美希｜村公所",
+              "group": "8月6日"
+            },
+            {
+              "id": "step_miki_35",
+              "type": "choice",
+              "content": "地图(下午)：！｜食堂",
+              "group": "8月6日"
+            }
+          ]
+        },
+        {
+          "id": "ending_shizuku_end",
+          "name": "水织 静久 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_shizuku_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_shizuku_02",
+              "type": "choice",
+              "content": "拒绝帮忙"
+            },
+            {
+              "id": "step_shizuku_03",
+              "type": "choice",
+              "content": "地图(下午)：水织 静久｜海边"
+            },
+            {
+              "id": "step_shizuku_04",
+              "type": "choice",
+              "content": "去"
+            },
+            {
+              "id": "step_shizuku_05",
+              "type": "note",
+              "content": "去吃晨间套餐",
+              "subfix": "任意角色通关后出现",
+              "group": "8月2日"
+            },
+            {
+              "id": "step_shizuku_06",
+              "type": "choice",
+              "content": "地图(上午)：！｜粗点心店",
+              "group": "8月2日"
+            },
+            {
+              "id": "step_shizuku_07",
+              "type": "choice",
+              "content": "返还100円",
+              "group": "8月2日"
+            },
+            {
+              "id": "step_shizuku_08",
+              "type": "choice",
+              "content": "地图(下午)：！｜神社",
+              "group": "8月2日"
+            },
+            {
+              "id": "step_shizuku_09",
+              "type": "choice",
+              "content": "100円",
+              "group": "8月2日"
+            },
+            {
+              "id": "step_shizuku_10",
+              "type": "choice",
+              "content": "看见胖次了",
+              "group": "8月2日"
+            },
+            {
+              "id": "step_shizuku_11",
+              "type": "choice",
+              "content": "地图(上午)：！｜粗点心店",
+              "group": "8月3日"
+            },
+            {
+              "id": "step_shizuku_12",
+              "type": "choice",
+              "content": "不玩扭蛋",
+              "group": "8月3日"
+            },
+            {
+              "id": "step_shizuku_13",
+              "type": "choice",
+              "content": "地图(下午)：！｜食堂",
+              "group": "8月3日"
+            },
+            {
+              "id": "step_shizuku_14",
+              "type": "choice",
+              "content": "A5等级的沙托布林！",
+              "group": "8月3日"
+            },
+            {
+              "id": "step_shizuku_15",
+              "type": "choice",
+              "content": "拒绝",
+              "group": "8月3日"
+            },
+            {
+              "id": "step_shizuku_16",
+              "type": "choice",
+              "content": "地图(上午)：水织 静久｜海边",
+              "group": "8月4日"
+            },
+            {
+              "id": "step_shizuku_17",
+              "type": "choice",
+              "content": "最喜欢",
+              "group": "8月4日"
+            },
+            {
+              "id": "step_shizuku_18",
+              "type": "choice",
+              "content": "地图(下午)：！｜食堂",
+              "group": "8月4日"
+            },
+            {
+              "id": "step_shizuku_19",
+              "type": "choice",
+              "content": "地图(上午)：水织 静久｜海边",
+              "group": "8月5日"
+            },
+            {
+              "id": "step_shizuku_20",
+              "type": "choice",
+              "content": "地图(下午)：！｜食堂",
+              "group": "8月5日"
+            },
+            {
+              "id": "step_shizuku_21",
+              "type": "choice",
+              "content": "地图(上午)：！｜粗点心店",
+              "group": "8月6日"
+            },
+            {
+              "id": "step_shizuku_22",
+              "type": "choice",
+              "content": "地图(下午)：！｜食堂",
+              "group": "8月6日"
+            },
+            {
+              "id": "step_shizuku_23",
+              "type": "choice",
+              "content": "胸部",
+              "group": "8月10日"
+            },
+            {
+              "id": "step_shizuku_24",
+              "type": "choice",
+              "content": "你是不是努力过头了？",
+              "group": "8月26日"
+            }
+          ]
+        },
+        {
+          "id": "ending_shiki_end",
+          "name": "神山 识 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_shiki_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_shiki_02",
+              "type": "choice",
+              "content": "地图(上午)：神山 识｜海边",
+              "group": "7月29日"
+            },
+            {
+              "id": "step_shiki_03",
+              "type": "choice",
+              "content": "地图(下午)：！｜秘密基地",
+              "group": "7月29日"
+            },
+            {
+              "id": "step_shiki_04",
+              "type": "choice",
+              "content": "拜托了，良一！",
+              "group": "7月29日"
+            },
+            {
+              "id": "step_shiki_05",
+              "type": "choice",
+              "content": "地图(上午)：！｜神社",
+              "group": "7月30日"
+            },
+            {
+              "id": "step_shiki_06",
+              "type": "choice",
+              "content": "50円",
+              "group": "7月30日"
+            },
+            {
+              "id": "step_shiki_07",
+              "type": "choice",
+              "content": "地图(下午)：神山 识｜村公所前",
+              "group": "7月30日"
+            },
+            {
+              "id": "step_shiki_08",
+              "type": "choice",
+              "content": "地图(上午)：神山 识｜乡间小路",
+              "group": "7月31日"
+            },
+            {
+              "id": "step_shiki_09",
+              "type": "choice",
+              "content": "追赶",
+              "group": "7月31日"
+            },
+            {
+              "id": "step_shiki_10",
+              "type": "choice",
+              "content": "地图(下午)：！｜食堂",
+              "group": "7月31日"
+            },
+            {
+              "id": "step_shiki_11",
+              "type": "choice",
+              "content": "喝燕窝汤！",
+              "group": "7月31日"
+            },
+            {
+              "id": "step_shiki_12",
+              "type": "choice",
+              "content": "地图(上午)：神山 识｜乡间小路",
+              "group": "8月1日"
+            },
+            {
+              "id": "step_shiki_13",
+              "type": "choice",
+              "content": "地图(下午)：！｜食堂",
+              "group": "8月1日"
+            },
+            {
+              "id": "step_shiki_14",
+              "type": "choice",
+              "content": "吃杯面",
+              "subfix": "一个人过关后出现",
+              "group": "8月2日"
+            },
+            {
+              "id": "step_shiki_15",
+              "type": "choice",
+              "content": "地图(上午)：！｜神社",
+              "group": "8月2日"
+            },
+            {
+              "id": "step_shiki_16",
+              "type": "choice",
+              "content": "走在右边",
+              "group": "8月2日"
+            },
+            {
+              "id": "step_shiki_17",
+              "type": "choice",
+              "content": "手和口",
+              "group": "8月2日"
+            },
+            {
+              "id": "step_shiki_18",
+              "type": "choice",
+              "content": "轻轻温柔地投下",
+              "group": "8月2日"
+            },
+            {
+              "id": "step_shiki_19",
+              "type": "choice",
+              "content": "二礼二拍一礼",
+              "subfix": "☆",
+              "group": "8月2日"
+            },
+            {
+              "id": "step_shiki_20",
+              "type": "choice",
+              "content": "地图(下午)：神山 识｜村公所前",
+              "group": "8月2日"
+            },
+            {
+              "id": "step_shiki_21",
+              "type": "choice",
+              "content": "地图(上午)：神山 识｜海边",
+              "group": "8月3日"
+            },
+            {
+              "id": "step_shiki_22",
+              "type": "choice",
+              "content": "东",
+              "group": "8月3日"
+            },
+            {
+              "id": "step_shiki_23",
+              "type": "choice",
+              "content": "地图(下午)：！｜食堂",
+              "group": "8月3日"
+            },
+            {
+              "id": "step_shiki_24",
+              "type": "choice",
+              "content": "拒绝",
+              "group": "8月3日"
+            },
+            {
+              "id": "step_shiki_25",
+              "type": "choice",
+              "content": "地图(上午)：神山 识｜乡间小路",
+              "group": "8月4日"
+            },
+            {
+              "id": "step_shiki_26",
+              "type": "choice",
+              "content": "地图(下午)：！｜食堂",
+              "group": "8月4日"
+            },
+            {
+              "id": "step_shiki_27",
+              "type": "choice",
+              "content": "地图(上午)：！｜神社",
+              "group": "8月5日"
+            },
+            {
+              "id": "step_shiki_28",
+              "type": "choice",
+              "content": "50円",
+              "group": "8月5日"
+            },
+            {
+              "id": "step_shiki_29",
+              "type": "choice",
+              "content": "地图(下午)：神山 识｜乡间小路",
+              "group": "8月5日"
+            },
+            {
+              "id": "step_shiki_30",
+              "type": "choice",
+              "content": "地图(上午)：神山 识｜岛的边缘",
+              "group": "8月6日"
+            },
+            {
+              "id": "step_shiki_31",
+              "type": "choice",
+              "content": "地图(下午)：！｜食堂",
+              "group": "8月6日"
+            },
+            {
+              "id": "step_shiki_32",
+              "type": "choice",
+              "content": "不是恋人吗？",
+              "group": "8月19日"
+            }
+          ]
+        },
+        {
+          "id": "ending_umi_end",
+          "name": "海已 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_umi_01",
+              "type": "note",
+              "content": "只能在「鹰原同学(1~4周目期间)」进入"
+            },
+            {
+              "id": "step_umi_02",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_umi_03",
+              "type": "choice",
+              "content": "不去看"
+            },
+            {
+              "id": "step_umi_04",
+              "type": "choice",
+              "content": "地图(上午)：加纳 天善｜秘密基地",
+              "group": "8月7日"
+            },
+            {
+              "id": "step_umi_05",
+              "type": "choice",
+              "content": "不做",
+              "group": "8月7日"
+            },
+            {
+              "id": "step_umi_06",
+              "type": "choice",
+              "content": "地图(下午)：！｜秘密基地",
+              "group": "8月7日"
+            },
+            {
+              "id": "step_umi_07",
+              "type": "choice",
+              "content": "打消念头",
+              "group": "8月8日"
+            }
+          ]
+        },
+        {
+          "id": "ending_hairi_end",
+          "name": "海己(鹰原同学) END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_hairi_01",
+              "type": "note",
+              "content": "只能在「鹰原同学(1~4周目期间)」进入"
+            },
+            {
+              "id": "step_hairi_03",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_hairi_04",
+              "type": "choice",
+              "content": "地图(下午)：！｜秘密基地"
+            },
+            {
+              "id": "step_hairi_05",
+              "type": "choice",
+              "content": "地图(上午)：加纳 天善｜秘密基地",
+              "group": "8月5日"
+            },
+            {
+              "id": "step_hairi_06",
+              "type": "choice",
+              "content": "不做",
+              "group": "8月5日"
+            },
+            {
+              "id": "step_hairi_07",
+              "type": "choice",
+              "content": "地图(下午)：！｜秘密基地",
+              "group": "8月5日"
+            },
+            {
+              "id": "step_hairi_08",
+              "type": "choice",
+              "content": "良一啊",
+              "group": "8月5日"
+            },
+            {
+              "id": "step_hairi_09",
+              "type": "choice",
+              "content": "地图(上午)：加纳 天善｜秘密基地",
+              "group": "8月6日"
+            },
+            {
+              "id": "step_hairi_10",
+              "type": "choice",
+              "content": "不做",
+              "group": "8月6日"
+            },
+            {
+              "id": "step_hairi_11",
+              "type": "choice",
+              "content": "地图(下午)：！｜食堂",
+              "group": "8月6日"
+            },
+            {
+              "id": "step_hairi_12",
+              "type": "choice",
+              "content": "盛得满满的鱼子酱！",
+              "group": "8月6日"
+            },
+            {
+              "id": "step_hairi_13",
+              "type": "choice",
+              "content": "地图(上午)：加纳 天善｜秘密基地",
+              "group": "8月7日"
+            },
+            {
+              "id": "step_hairi_14",
+              "type": "choice",
+              "content": "不做",
+              "group": "8月7日"
+            },
+            {
+              "id": "step_hairi_15",
+              "type": "choice",
+              "content": "地图(下午)：！｜秘密基地",
+              "group": "8月7日"
+            },
+            {
+              "id": "step_hairi_16",
+              "type": "choice",
+              "content": "打消念头",
+              "group": "8月8日"
+            },
+            {
+              "id": "step_hairi_17",
+              "type": "note",
+              "content": "回收后结束，继续进行可进入鷹原羽依里 END",
+              "group": "8月8日"
+            }
+          ]
+        },
+        {
+          "id": "ending_kamome_end",
+          "name": "久岛 鸥 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_kamome_01",
+              "type": "note",
+              "content": "为了回收CG，推荐最后（即第2次【ReSTART】）攻略这个角色"
+            },
+            {
+              "id": "step_kamome_02",
+              "type": "note",
+              "content": "序章不要跳过"
+            },
+            {
+              "id": "step_kamome_03",
+              "type": "choice",
+              "content": "一个弄坏了拳头的拳击手",
+              "group": "序章7月25日"
+            },
+            {
+              "id": "step_kamome_04",
+              "type": "choice",
+              "content": "奶油面包定食",
+              "group": "序章7月25日"
+            },
+            {
+              "id": "step_kamome_05",
+              "type": "choice",
+              "content": "向她做自我介绍",
+              "group": "序章7月25日"
+            },
+            {
+              "id": "step_kamome_06",
+              "type": "choice",
+              "content": "是初恋的气味",
+              "group": "序章7月25日"
+            },
+            {
+              "id": "step_kamome_07",
+              "type": "choice",
+              "content": "外婆",
+              "group": "序章7月26日"
+            },
+            {
+              "id": "step_kamome_08",
+              "type": "choice",
+              "content": "晒黑",
+              "group": "序章7月26日"
+            },
+            {
+              "id": "step_kamome_09",
+              "type": "choice",
+              "content": "面向明天",
+              "prefix": "★",
+              "group": "序章7月26日"
+            },
+            {
+              "id": "step_kamome_10",
+              "type": "choice",
+              "content": "水球部",
+              "group": "序章7月26日"
+            },
+            {
+              "id": "step_kamome_11",
+              "type": "choice",
+              "content": "锻炼肌肉",
+              "group": "序章7月27日"
+            },
+            {
+              "id": "step_kamome_12",
+              "type": "choice",
+              "content": "给她们表演一段月球漫步",
+              "group": "序章7月27日"
+            },
+            {
+              "id": "step_kamome_13",
+              "type": "choice",
+              "content": "不笑",
+              "prefix": "★",
+              "group": "序章7月27日"
+            },
+            {
+              "id": "step_kamome_14",
+              "type": "choice",
+              "content": "试着抓住",
+              "prefix": "★",
+              "group": "序章7月27日"
+            },
+            {
+              "id": "step_kamome_15",
+              "type": "choice",
+              "content": "17岁左右",
+              "group": "序章7月28日"
+            },
+            {
+              "id": "step_kamome_16",
+              "type": "choice",
+              "content": "那就干脆来帮我免疫这种事情吧",
+              "group": "序章7月28日"
+            },
+            {
+              "id": "step_kamome_17",
+              "type": "choice",
+              "content": "穿上它以后再进去",
+              "group": "序章7月28日"
+            },
+            {
+              "id": "step_kamome_18",
+              "type": "choice",
+              "content": "一起去洗吧!",
+              "prefix": "★",
+              "subfix": "ReSTART 第2周目出现",
+              "group": "序章7月28日"
+            },
+            {
+              "id": "step_kamome_19",
+              "type": "choice",
+              "content": "再催她一下X10次",
+              "prefix": "★",
+              "group": "序章7月28日"
+            },
+            {
+              "id": "step_kamome_20",
+              "type": "note",
+              "content": "序章结束"
+            },
+            {
+              "id": "step_kamome_21",
+              "type": "choice",
+              "content": "地图AM：久岛 鸥｜村公所前",
+              "group": "7月29日"
+            },
+            {
+              "id": "step_kamome_22",
+              "type": "choice",
+              "content": "地图PM：！｜秘密基地",
+              "group": "7月29日"
+            },
+            {
+              "id": "step_kamome_23",
+              "type": "choice",
+              "content": "那就只有让我亲自上阵了吧!",
+              "group": "7月29日"
+            },
+            {
+              "id": "step_kamome_24",
+              "type": "choice",
+              "content": "地图AM：久岛 鸥｜村公所前",
+              "group": "7月30日"
+            },
+            {
+              "id": "step_kamome_25",
+              "type": "choice",
+              "content": "帮忙",
+              "group": "7月30日"
+            },
+            {
+              "id": "step_kamome_26",
+              "type": "choice",
+              "content": "地图PM：！｜秘密基地",
+              "group": "7月30日"
+            },
+            {
+              "id": "step_kamome_27",
+              "type": "choice",
+              "content": "地图AM：久岛 鸥｜村公所前",
+              "group": "7月31日"
+            },
+            {
+              "id": "step_kamome_28",
+              "type": "choice",
+              "content": "地图PM：！｜神社",
+              "group": "7月31日"
+            },
+            {
+              "id": "step_kamome_29",
+              "type": "choice",
+              "content": "地图AM：！｜粗点心店",
+              "group": "8月1日"
+            },
+            {
+              "id": "step_kamome_30",
+              "type": "choice",
+              "content": "我想玩扭蛋",
+              "group": "8月1日"
+            },
+            {
+              "id": "step_kamome_31",
+              "type": "choice",
+              "content": "地图PM：！｜秘密基地",
+              "group": "8月1日"
+            },
+            {
+              "id": "step_kamome_32",
+              "type": "choice",
+              "content": "会让人着迷的休闲款式",
+              "group": "8月1日"
+            },
+            {
+              "id": "step_kamome_33",
+              "type": "note",
+              "content": "吃杯面",
+              "subfix": "任意1位女主角通关后出现，第7次中不出现",
+              "group": "8月2日"
+            },
+            {
+              "id": "step_kamome_34",
+              "type": "choice",
+              "content": "地图AM：！｜粗点心店",
+              "group": "8月2日"
+            },
+            {
+              "id": "step_kamome_35",
+              "type": "choice",
+              "content": "把100日元还给我吧",
+              "group": "8月2日"
+            },
+            {
+              "id": "step_kamome_36",
+              "type": "choice",
+              "content": "地图PM：！｜秘密基地",
+              "group": "8月2日"
+            },
+            {
+              "id": "step_kamome_37",
+              "type": "choice",
+              "content": "是很色＊的东西哦",
+              "group": "8月2日"
+            },
+            {
+              "id": "step_kamome_38",
+              "type": "choice",
+              "content": "闭上嘴走掉",
+              "subfix": "任意1位女主角通关后出现",
+              "group": "8月2日"
+            },
+            {
+              "id": "step_kamome_39",
+              "type": "choice",
+              "content": "地图AM：久岛 鸥｜村公所前",
+              "group": "8月3日"
+            },
+            {
+              "id": "step_kamome_40",
+              "type": "choice",
+              "content": "烟囱",
+              "group": "8月3日"
+            },
+            {
+              "id": "step_kamome_41",
+              "type": "choice",
+              "content": "地图PM：！｜秘密基地",
+              "group": "8月3日"
+            },
+            {
+              "id": "step_kamome_42",
+              "type": "choice",
+              "content": "拒绝",
+              "group": "8月3日"
+            },
+            {
+              "id": "step_kamome_43",
+              "type": "choice",
+              "content": "给她涂",
+              "prefix": "★",
+              "subfix": "第2次 ReSTART 中出现",
+              "group": "8月4日"
+            },
+            {
+              "id": "step_kamome_44",
+              "type": "choice",
+              "content": "地图AM：久岛 鸥｜村公所前",
+              "group": "8月4日"
+            },
+            {
+              "id": "step_kamome_45",
+              "type": "choice",
+              "content": "苍",
+              "group": "8月4日"
+            },
+            {
+              "id": "step_kamome_46",
+              "type": "choice",
+              "content": "地图PM：！｜秘密基地",
+              "group": "8月4日"
+            },
+            {
+              "id": "step_kamome_47",
+              "type": "choice",
+              "content": "地图AM：！｜粗点心店",
+              "group": "8月5日"
+            },
+            {
+              "id": "step_kamome_48",
+              "type": "choice",
+              "content": "我想要您的心",
+              "group": "8月5日"
+            },
+            {
+              "id": "step_kamome_49",
+              "type": "choice",
+              "content": "地图PM：！｜秘密基地",
+              "group": "8月5日"
+            },
+            {
+              "id": "step_kamome_50",
+              "type": "choice",
+              "content": "应该是我吧",
+              "group": "8月5日"
+            },
+            {
+              "id": "step_kamome_51",
+              "type": "choice",
+              "content": "地图AM：久岛 鸥｜村公所前",
+              "group": "8月6日"
+            },
+            {
+              "id": "step_kamome_52",
+              "type": "choice",
+              "content": "最破旧的巢箱",
+              "subfix": "★正解",
+              "group": "8月6日"
+            },
+            {
+              "id": "step_kamome_53",
+              "type": "choice",
+              "content": "让她帮忙换衣服",
+              "group": "8月8日鸥"
+            },
+            {
+              "id": "step_kamome_54",
+              "type": "note",
+              "content": "美味棒X2个",
+              "group": "8月15日鸥"
+            },
+            {
+              "id": "step_kamome_55",
+              "type": "note",
+              "content": "醋昆布X1个",
+              "group": "8月15日鸥"
+            },
+            {
+              "id": "step_kamome_56",
+              "type": "note",
+              "content": "5日元巧克力X2个",
+              "group": "8月15日鸥"
+            },
+            {
+              "id": "step_kamome_57",
+              "type": "note",
+              "content": "50日元巧克力X2个",
+              "group": "8月15日鸥"
+            },
+            {
+              "id": "step_kamome_58",
+              "type": "note",
+              "content": "30日元膨化食品X2个",
+              "group": "8月15日鸥"
+            },
+            {
+              "id": "step_kamome_59",
+              "type": "note",
+              "content": "捏他食品X1个",
+              "group": "8月15日鸥"
+            },
+            {
+              "id": "step_kamome_60",
+              "type": "choice",
+              "content": "OK",
+              "group": "8月15日鸥"
+            },
+            {
+              "id": "step_kamome_61",
+              "type": "choice",
+              "content": "YES",
+              "group": "8月15日鸥"
+            }
+          ]
+        },
+        {
+          "id": "ending_umi_alka_end",
+          "name": "羽未 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_umi_alka_01",
+              "type": "note",
+              "content": "7人攻略后从标题画面 ALKA 开始"
+            },
+            {
+              "id": "step_umi_alka_02",
+              "type": "choice",
+              "content": "原来如此，原来如此"
+            },
+            {
+              "id": "step_umi_alka_03",
+              "type": "choice",
+              "content": "乌列尔"
+            },
+            {
+              "id": "step_umi_alka_04",
+              "type": "choice",
+              "content": "凝视",
+              "group": "7月26日"
+            },
+            {
+              "id": "step_umi_alka_05",
+              "type": "choice",
+              "content": "离家出走吗?",
+              "group": "7月26日"
+            },
+            {
+              "id": "step_umi_alka_06",
+              "type": "choice",
+              "content": "萝莉控",
+              "group": "7月26日"
+            },
+            {
+              "id": "step_umi_alka_07",
+              "type": "choice",
+              "content": "我当然喜欢",
+              "group": "7月27日"
+            },
+            {
+              "id": "step_umi_alka_08",
+              "type": "choice",
+              "content": "这是……恋爱?",
+              "group": "7月28日"
+            },
+            {
+              "id": "step_umi_alka_09",
+              "type": "choice",
+              "content": "交上女朋友",
+              "group": "7月28日"
+            },
+            {
+              "id": "step_umi_alka_10",
+              "type": "choice",
+              "content": "你不是已经......是我的女人了吗?",
+              "group": "7月28日"
+            },
+            {
+              "id": "step_umi_alka_11",
+              "type": "choice",
+              "content": "试着喊叫",
+              "group": "7月28日"
+            },
+            {
+              "id": "step_umi_alka_12",
+              "type": "choice",
+              "content": "地图(下午)：鸣濑 白羽｜小岛外部",
+              "group": "7月31日"
+            },
+            {
+              "id": "step_umi_alka_13",
+              "type": "choice",
+              "content": "地图(下午)：空门 苍｜粗点心店",
+              "group": "7月31日"
+            },
+            {
+              "id": "step_umi_alka_14",
+              "type": "choice",
+              "content": "地图(下午)：久岛 鸥｜乡间小路",
+              "group": "7月31日"
+            },
+            {
+              "id": "step_umi_alka_15",
+              "type": "choice",
+              "content": "地图(下午)：紬 文德斯｜灯塔",
+              "group": "7月31日"
+            },
+            {
+              "id": "step_umi_alka_16",
+              "type": "choice",
+              "content": "地图(下午)：水织 静久｜灯塔",
+              "group": "7月31日"
+            },
+            {
+              "id": "step_umi_alka_17",
+              "type": "choice",
+              "content": "地图(下午)：野村 美希｜村公所前",
+              "group": "7月31日"
+            },
+            {
+              "id": "step_umi_alka_18",
+              "type": "choice",
+              "content": "地图(下午)：三谷 良一｜村中小路",
+              "group": "7月31日"
+            },
+            {
+              "id": "step_umi_alka_19",
+              "type": "choice",
+              "content": "地图(下午)：加纳 天善｜秘密基地",
+              "group": "7月31日"
+            },
+            {
+              "id": "step_umi_alka_20",
+              "type": "choice",
+              "content": "为了羽未",
+              "group": "8月14日"
+            }
+          ]
+        },
+        {
+          "id": "ending_true_end",
+          "name": "TRUE END",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_true_01",
+              "type": "note",
+              "content": "羽未 END 后从标题画面开始 Pocket"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

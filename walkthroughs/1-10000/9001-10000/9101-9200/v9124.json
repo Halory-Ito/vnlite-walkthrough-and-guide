@@ -1,0 +1,427 @@
+{
+  "vid": "v9124",
+  "name": {
+    "zh-cn": "初恋1/1",
+    "ja-jp": "初恋１／１",
+    "ja-Latn": "hatsukoi-1-1"
+  },
+  "level": 2,
+  "updatedAt": "2026-05-07",
+  "routes": [
+    {
+      "id": "route_snow",
+      "name": "森野 雪乃",
+      "endings": [
+        {
+          "id": "ending_snow_end",
+          "name": "雪乃 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_snow_01",
+              "type": "choice",
+              "content": "当然是OK"
+            },
+            {
+              "id": "step_snow_02",
+              "type": "choice",
+              "content": "我知道了"
+            },
+            {
+              "id": "step_snow_03",
+              "type": "choice",
+              "content": "确实如此"
+            },
+            {
+              "id": "step_snow_04",
+              "type": "choice",
+              "content": "搞不好有戏"
+            },
+            {
+              "id": "step_snow_05",
+              "type": "choice",
+              "content": "……瑠奈吗？"
+            },
+            {
+              "id": "step_snow_06",
+              "type": "choice",
+              "content": "都是为了？"
+            },
+            {
+              "id": "step_snow_07",
+              "type": "choice",
+              "content": "真是活泼开朗的人啊"
+            },
+            {
+              "id": "step_snow_08",
+              "type": "choice",
+              "content": "不过...稍微有点帅气"
+            },
+            {
+              "id": "step_snow_09",
+              "type": "choice",
+              "content": "拍照"
+            },
+            {
+              "id": "step_snow_10",
+              "type": "choice",
+              "content": "是处男"
+            },
+            {
+              "id": "step_snow_11",
+              "type": "choice",
+              "content": "如你所见"
+            },
+            {
+              "id": "step_snow_12",
+              "type": "choice",
+              "content": "想要改变学校"
+            },
+            {
+              "id": "step_snow_13",
+              "type": "choice",
+              "content": "为了复仇"
+            },
+            {
+              "id": "step_snow_14",
+              "type": "choice",
+              "content": "想要和在意的人搞好关系"
+            },
+            {
+              "id": "step_snow_15",
+              "type": "choice",
+              "content": "其实..."
+            },
+            {
+              "id": "step_snow_16",
+              "type": "choice",
+              "content": "小菜一碟"
+            },
+            {
+              "id": "step_snow_17",
+              "type": "choice",
+              "content": "绝对适合"
+            },
+            {
+              "id": "step_snow_18",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_snow_19",
+              "type": "choice",
+              "content": "青梅竹马系工口ＤＶＤ"
+            },
+            {
+              "id": "step_snow_20",
+              "type": "choice",
+              "content": "发邮件关心一下吧"
+            },
+            {
+              "id": "step_snow_21",
+              "type": "choice",
+              "content": "不是什么重要的事"
+            },
+            {
+              "id": "step_snow_22",
+              "type": "choice",
+              "content": "掩饰到底"
+            },
+            {
+              "id": "step_snow_23",
+              "type": "choice",
+              "content": "无视老师很不好"
+            },
+            {
+              "id": "step_snow_24",
+              "type": "choice",
+              "content": "雪乃"
+            },
+            {
+              "id": "step_snow_25",
+              "type": "choice",
+              "content": "丰满的女孩子"
+            },
+            {
+              "id": "step_snow_26",
+              "type": "choice",
+              "content": "向雪乃打招呼"
+            },
+            {
+              "id": "step_snow_27",
+              "type": "choice",
+              "content": "雪乃想怎么样做？"
+            },
+            {
+              "id": "step_snow_28",
+              "type": "choice",
+              "content": "现在这程度刚刚好"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_runa",
+      "name": "藤川 瑠奈",
+      "endings": [
+        {
+          "id": "ending_runa_end",
+          "name": "瑠奈 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_runa_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_runa_02",
+              "type": "choice",
+              "content": "妹系エロＤＶＤ"
+            },
+            {
+              "id": "step_runa_03",
+              "type": "choice",
+              "content": "就交给雪乃了"
+            },
+            {
+              "id": "step_runa_04",
+              "type": "choice",
+              "content": "不是什么重要的事"
+            },
+            {
+              "id": "step_runa_05",
+              "type": "choice",
+              "content": "掩饰到底"
+            },
+            {
+              "id": "step_runa_06",
+              "type": "choice",
+              "content": "无视老师很不好"
+            },
+            {
+              "id": "step_runa_07",
+              "type": "choice",
+              "content": "瑠奈"
+            },
+            {
+              "id": "step_runa_08",
+              "type": "choice",
+              "content": "苗条的好"
+            },
+            {
+              "id": "step_runa_09",
+              "type": "choice",
+              "content": "向瑠奈打招呼"
+            },
+            {
+              "id": "step_runa_10",
+              "type": "choice",
+              "content": "小动物系"
+            },
+            {
+              "id": "step_runa_11",
+              "type": "choice",
+              "content": "去接她"
+            },
+            {
+              "id": "step_runa_12",
+              "type": "choice",
+              "content": "发送『我爱你』"
+            },
+            {
+              "id": "step_runa_13",
+              "type": "choice",
+              "content": "发送『我爱你哦』"
+            },
+            {
+              "id": "step_runa_14",
+              "type": "choice",
+              "content": "发个『我随时都在看着你哦』"
+            },
+            {
+              "id": "step_runa_15",
+              "type": "choice",
+              "content": "里面/外面"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_midori",
+      "name": "真加辺 碧",
+      "endings": [
+        {
+          "id": "ending_midori_end",
+          "name": "碧 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_midori_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_midori_02",
+              "type": "choice",
+              "content": "美人上司工口DVD"
+            },
+            {
+              "id": "step_midori_03",
+              "type": "choice",
+              "content": "就交给雪乃了"
+            },
+            {
+              "id": "step_midori_04",
+              "type": "choice",
+              "content": "不是什么重要的事"
+            },
+            {
+              "id": "step_midori_05",
+              "type": "choice",
+              "content": "掩饰到底"
+            },
+            {
+              "id": "step_midori_06",
+              "type": "choice",
+              "content": "无视老师很不好"
+            },
+            {
+              "id": "step_midori_07",
+              "type": "choice",
+              "content": "真加辺同学"
+            },
+            {
+              "id": "step_midori_08",
+              "type": "choice",
+              "content": "向真加辺同学打招呼"
+            },
+            {
+              "id": "step_midori_09",
+              "type": "choice",
+              "content": "里面/外面"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_maya",
+      "name": "鸨崎 摩耶",
+      "endings": [
+        {
+          "id": "ending_maya_end",
+          "name": "摩耶 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_maya_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_maya_02",
+              "type": "choice",
+              "content": "科幻系エロＤＶＤ"
+            },
+            {
+              "id": "step_maya_03",
+              "type": "choice",
+              "content": "就交给雪乃了"
+            },
+            {
+              "id": "step_maya_04",
+              "type": "choice",
+              "content": "向更了解鸨崎的事"
+            },
+            {
+              "id": "step_maya_05",
+              "type": "choice",
+              "content": "老实坦白"
+            },
+            {
+              "id": "step_maya_06",
+              "type": "choice",
+              "content": "今天居然迟到了"
+            },
+            {
+              "id": "step_maya_07",
+              "type": "choice",
+              "content": "鸨崎"
+            },
+            {
+              "id": "step_maya_08",
+              "type": "choice",
+              "content": "向鸨崎打招呼"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_ha",
+      "name": "月岛 叶",
+      "endings": [
+        {
+          "id": "ending_ha_end",
+          "name": "叶 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_ha_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_ha_02",
+              "type": "choice",
+              "content": "体操服类"
+            },
+            {
+              "id": "step_ha_03",
+              "type": "choice",
+              "content": "就交给雪乃了"
+            },
+            {
+              "id": "step_ha_04",
+              "type": "choice",
+              "content": "不是什么重要的事"
+            },
+            {
+              "id": "step_ha_05",
+              "type": "choice",
+              "content": "掩饰到底"
+            },
+            {
+              "id": "step_ha_06",
+              "type": "choice",
+              "content": "无视老师很不好"
+            },
+            {
+              "id": "step_ha_07",
+              "type": "choice",
+              "content": "月岛"
+            },
+            {
+              "id": "step_ha_08",
+              "type": "choice",
+              "content": "向月岛打招呼"
+            },
+            {
+              "id": "step_ha_09",
+              "type": "choice",
+              "content": "我很喜欢"
+            },
+            {
+              "id": "step_ha_10",
+              "type": "choice",
+              "content": "务必拜托了"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "vid": "v10304",
+  "name": {
+    "zh-cn": "恋花绽放樱飞时",
+    "en-us": "Saku Saku: Love Blooms with the Cherry Blossoms",
+    "ja-jp": "恋がさくころ桜どき",
+    "ja-Latn": "koi-ga-saku-koro-sakura-doki"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-15",
+  "routes": [
+    {
+      "id": "route_game",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_an",
+          "name": "杏 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_an_1",
+              "type": "choice",
+              "content": "帮忙"
+            },
+            {
+              "id": "step_an_2",
+              "type": "choice",
+              "content": "邀她去食堂"
+            },
+            {
+              "id": "step_an_3",
+              "type": "choice",
+              "content": "岔开话题"
+            },
+            {
+              "id": "step_an_4",
+              "type": "choice",
+              "content": "接受邀请"
+            },
+            {
+              "id": "step_an_5",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_an_6",
+              "type": "choice",
+              "content": "听听学姐的请求"
+            }
+          ]
+        },
+        {
+          "id": "ending_mio",
+          "name": "美樱 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_mio_1",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_mio_2",
+              "type": "choice",
+              "content": "说去上厕所"
+            }
+          ]
+        },
+        {
+          "id": "ending_yuri",
+          "name": "夕莉 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_yuri_1",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_yuri_2",
+              "type": "choice",
+              "content": "我也去买饮料"
+            }
+          ]
+        },
+        {
+          "id": "ending_konami",
+          "name": "小奈美 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_konami_1",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_konami_2",
+              "type": "choice",
+              "content": "交给爽，自己逃走"
+            }
+          ]
+        },
+        {
+          "id": "ending_tina",
+          "name": "蒂娜 END",
+          "type": "normal",
+          "requirements": "杏攻略完毕后，标题画面选择【-Tina-恋が咲くころ】开始",
+          "steps": [
+            {
+              "type": "choice",
+              "content": "（源站步骤均为空）"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

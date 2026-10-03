@@ -1,0 +1,211 @@
+{
+  "vid": "v32811",
+  "name": {
+    "zh-cn": "恋爱成双",
+    "en-us": "Futamata Ren'ai: Two Times the Trouble",
+    "ja-jp": "フタマタ恋愛",
+    "ja-Latn": "futamata-renai"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-11",
+  "routes": [
+    {
+      "id": "route_1755868834695",
+      "name": "信田 结爱",
+      "endings": [
+        {
+          "id": "ending_1755869094669",
+          "name": "结爱 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755869213399",
+              "type": "choice",
+              "content": "直接叫她的名字"
+            },
+            {
+              "id": "step_1755869213814",
+              "type": "choice",
+              "content": "总之先道歉"
+            },
+            {
+              "id": "step_1755869221915",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1755869340412",
+              "type": "choice",
+              "content": "在外面"
+            },
+            {
+              "id": "step_1755869341343",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1755869342673",
+              "type": "choice",
+              "content": "再度转过身去"
+            },
+            {
+              "id": "step_1755869343603",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_1755869345792",
+              "type": "choice",
+              "content": "相互碰拳"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755870056811",
+      "name": "御子柴 瑠衣",
+      "endings": [
+        {
+          "id": "ending_1755870092444",
+          "name": "瑠衣 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755870107618",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1755870120793",
+              "type": "choice",
+              "content": "当场抱紧瑠衣"
+            },
+            {
+              "id": "step_1755870124488",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_1755870130076",
+              "type": "choice",
+              "content": "解开误会"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755870153176",
+      "name": "精华",
+      "endings": [
+        {
+          "id": "ending_1755870163917",
+          "name": "精华 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755870168644",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_1755870180935",
+              "type": "choice",
+              "content": "询问茨同学她到底想怎么样"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755870284851",
+      "name": "十色 煌",
+      "endings": [
+        {
+          "id": "ending_1755870287967",
+          "name": "煌 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755870377886",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1755870385519",
+              "type": "choice",
+              "content": "成为渣男"
+            },
+            {
+              "id": "step_1755870389956",
+              "type": "save",
+              "content": "SAVE 5"
+            },
+            {
+              "id": "step_1755870400191",
+              "type": "choice",
+              "content": "严厉拒绝"
+            },
+            {
+              "id": "step_1755870403219",
+              "type": "save",
+              "content": "SAVE 6"
+            },
+            {
+              "id": "step_1755870422543",
+              "type": "choice",
+              "content": "紧紧抱住煌"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755870290083",
+      "name": "海野 宫子",
+      "endings": [
+        {
+          "id": "ending_1755870629838",
+          "name": "宫子 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755870783440",
+              "type": "load",
+              "content": "LOAD 6"
+            },
+            {
+              "id": "step_1755870794703",
+              "type": "choice",
+              "content": "道歉"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755870307141",
+      "name": "蕾拉",
+      "endings": [
+        {
+          "id": "ending_1755870503275",
+          "name": "蕾拉 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755870508457",
+              "type": "load",
+              "content": "LOAD 5"
+            },
+            {
+              "id": "step_1755870513829",
+              "type": "choice",
+              "content": "回击"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

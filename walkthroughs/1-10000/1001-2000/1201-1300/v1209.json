@@ -1,0 +1,224 @@
+{
+  "vid": "v1209",
+  "name": {
+    "zh-cn": "あると",
+    "en-us": "Alto",
+    "ja-jp": "あると",
+    "ja-Latn": "alto-purple"
+  },
+  "level": 2,
+  "updatedAt": "2026-03-24",
+  "routes": [
+    {
+      "id": "route_game",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_megumi_end",
+          "name": "恵 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_megumi_01",
+              "type": "choice",
+              "content": "讲些悠闲工作的事"
+            },
+            {
+              "id": "step_megumi_02",
+              "type": "choice",
+              "content": "邀请其他人"
+            },
+            {
+              "id": "step_megumi_03",
+              "type": "choice",
+              "content": "坐在千岁旁边"
+            },
+            {
+              "id": "step_megumi_04",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_megumi_05",
+              "type": "choice",
+              "content": "选蛋糕"
+            },
+            {
+              "id": "step_megumi_06",
+              "type": "choice",
+              "content": "邀请惠"
+            },
+            {
+              "id": "step_megumi_07",
+              "type": "choice",
+              "content": "无论如何都要忍住"
+            },
+            {
+              "id": "step_megumi_08",
+              "type": "choice",
+              "content": "试着问问沙织小姐怎么样"
+            },
+            {
+              "id": "step_megumi_09",
+              "type": "choice",
+              "content": "还是拒绝比较好"
+            },
+            {
+              "id": "step_megumi_10",
+              "type": "choice",
+              "content": "是惠吗？"
+            },
+            {
+              "id": "step_megumi_11",
+              "type": "choice",
+              "content": "老实地和惠一起回家"
+            },
+            {
+              "id": "step_megumi_12",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_megumi_13",
+              "type": "choice",
+              "content": "和惠一起回去"
+            }
+          ]
+        },
+        {
+          "id": "ending_saori_end",
+          "name": "沙織 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_saori_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_saori_02",
+              "type": "choice",
+              "content": "提出帮沙织小姐的忙"
+            }
+          ]
+        },
+        {
+          "id": "ending_shoko_end",
+          "name": "翔子 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_shoko_01",
+              "type": "note",
+              "content": "通关后读取 SAVE1"
+            },
+            {
+              "id": "step_shoko_02",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_shoko_03",
+              "type": "choice",
+              "content": "选荻饼"
+            },
+            {
+              "id": "step_shoko_04",
+              "type": "choice",
+              "content": "翔子就可以"
+            },
+            {
+              "id": "step_shoko_05",
+              "type": "choice",
+              "content": "照惠说的做"
+            },
+            {
+              "id": "step_shoko_06",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_shoko_07",
+              "type": "choice",
+              "content": "还没法明确决定"
+            },
+            {
+              "id": "step_shoko_08",
+              "type": "choice",
+              "content": "护送翔子"
+            },
+            {
+              "id": "step_shoko_09",
+              "type": "choice",
+              "content": "接受邀请"
+            }
+          ]
+        },
+        {
+          "id": "ending_mizuho_end",
+          "name": "瑞穂 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_mizuho_01",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_mizuho_02",
+              "type": "choice",
+              "content": "已经决定好了"
+            },
+            {
+              "id": "step_mizuho_03",
+              "type": "choice",
+              "content": "和千岁搭话"
+            },
+            {
+              "id": "step_mizuho_04",
+              "type": "choice",
+              "content": "送千岁回去"
+            },
+            {
+              "id": "step_mizuho_05",
+              "type": "choice",
+              "content": "再多帮忙一会儿"
+            },
+            {
+              "id": "step_mizuho_06",
+              "type": "choice",
+              "content": "对千岁隐瞒今天的事"
+            },
+            {
+              "id": "step_mizuho_07",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_mizuho_08",
+              "type": "choice",
+              "content": "在意凤学姐的事"
+            }
+          ]
+        },
+        {
+          "id": "ending_chitose_end",
+          "name": "千歳 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_chitose_01",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_chitose_02",
+              "type": "choice",
+              "content": "在意千岁"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,333 @@
+{
+  "vid": "v33036",
+  "name": {
+    "zh-cn": "AMBITIOUS MISSION",
+    "en-us": "AMBITIOUS MISSION",
+    "ja-jp": "AMBITIOUS MISSION",
+    "ja-Latn": "ambitious-mission"
+  },
+  "level": 2,
+  "updatedAt": "2026-03-04",
+  "tips": [
+    "雅典娜在攻略其他三人后就可以攻略",
+    "如果游玩到【PROLOGUE】结束以后的情况下 第二个人以后可以直接从【START】开始直接跳到角色选择上。",
+    "在特定日期启动时会发生启动日期事件。"
+  ],
+  "routes": [
+    {
+      "id": "route_1772635636240",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1772635658907",
+          "name": "有濑 辉夜",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1772635830663",
+              "type": "choice",
+              "content": "【PROLOGUE】开始開始"
+            },
+            {
+              "id": "step_1772635831025",
+              "type": "choice",
+              "content": "啾~"
+            },
+            {
+              "id": "step_1772635831401",
+              "type": "choice",
+              "content": "爱"
+            },
+            {
+              "id": "step_1772635831637",
+              "type": "choice",
+              "content": "kiss"
+            },
+            {
+              "id": "step_1772635875628",
+              "type": "choice",
+              "content": "你的心"
+            },
+            {
+              "id": "step_1772635876174",
+              "type": "choice",
+              "content": "※PROLOGUE終了"
+            },
+            {
+              "id": "step_1772635876366",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1772635876521",
+              "type": "choice",
+              "content": "有濑 辉夜"
+            },
+            {
+              "id": "step_1772635904775",
+              "type": "choice",
+              "content": "摸大腿"
+            },
+            {
+              "id": "step_1772635911500",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1772635917808",
+              "type": "choice",
+              "content": "冷静一下"
+            },
+            {
+              "id": "step_1772635929608",
+              "type": "note",
+              "content": "※辉夜END后"
+            },
+            {
+              "id": "step_1772635949966",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1772635963413",
+              "type": "choice",
+              "content": "飞扑~~~~~！"
+            },
+            {
+              "id": "step_1772635992565",
+              "type": "note",
+              "content": "3P场景回收后结束(雅典娜)"
+            },
+            {
+              "id": "step_1772635992850",
+              "type": "note",
+              "content": "※走到END后，最后阶段有文本差异"
+            }
+          ]
+        },
+        {
+          "id": "ending_1772635659119",
+          "name": "石川 弥荣",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1772636111782",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1772636127472",
+              "type": "choice",
+              "content": "石川 弥荣"
+            },
+            {
+              "id": "step_1772636133180",
+              "type": "choice",
+              "content": "一、二？"
+            },
+            {
+              "id": "step_1772636133358",
+              "type": "choice",
+              "content": "辉夜"
+            },
+            {
+              "id": "step_1772636144750",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_1772636153282",
+              "type": "choice",
+              "content": "幻觉……吧?"
+            },
+            {
+              "id": "step_1772636163321",
+              "type": "note",
+              "content": "※弥荣END后"
+            },
+            {
+              "id": "step_1772636171059",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1772636178984",
+              "type": "choice",
+              "content": "小弥荣吧!摸!"
+            },
+            {
+              "id": "step_1772636186312",
+              "type": "choice",
+              "content": "3P场景回收后结束(蜜子)"
+            }
+          ]
+        },
+        {
+          "id": "ending_1772636206255",
+          "name": "本乡 虹梦",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1772636219096",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1772636221597",
+              "type": "choice",
+              "content": "本乡 虹梦"
+            },
+            {
+              "id": "step_1772636226817",
+              "type": "choice",
+              "content": "和辉夜聊"
+            },
+            {
+              "id": "step_1772636232092",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_1772636235754",
+              "type": "choice",
+              "content": "投降吧"
+            },
+            {
+              "id": "step_1772636236019",
+              "type": "note",
+              "content": "※虹梦END后"
+            },
+            {
+              "id": "step_1772636253607",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_1772636258448",
+              "type": "choice",
+              "content": "现在正是反击的机会!"
+            },
+            {
+              "id": "step_1772636258627",
+              "type": "choice",
+              "content": "3P场景回收后结束(卡莉斯)"
+            }
+          ]
+        },
+        {
+          "id": "ending_1772636282717",
+          "name": "有濑 雅典娜",
+          "type": "true",
+          "requirements": "※3人攻略后",
+          "steps": [
+            {
+              "id": "step_1772636307713",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1772636309777",
+              "type": "choice",
+              "content": "有濑 雅典娜"
+            },
+            {
+              "id": "step_1772636320822",
+              "type": "note",
+              "content": "※以上完成后打开【EXTRA】开始特殊活动(初回)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1772636358194",
+      "name": "启动日 事件发生日期",
+      "endings": [
+        {
+          "id": "ending_1772636365706",
+          "name": "节日",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1772636389076",
+              "type": "choice",
+              "content": "01月01日：元旦。"
+            },
+            {
+              "id": "step_1772636389287",
+              "type": "choice",
+              "content": "02月14日：情人节。"
+            },
+            {
+              "id": "step_1772636389456",
+              "type": "choice",
+              "content": "03月14日：白色情人节。"
+            },
+            {
+              "id": "step_1772636389795",
+              "type": "choice",
+              "content": "04月01日：愚人节。"
+            },
+            {
+              "id": "step_1772636390042",
+              "type": "choice",
+              "content": "10月31日：万圣节。"
+            },
+            {
+              "id": "step_1772636390385",
+              "type": "choice",
+              "content": "12月25日：圣诞节。"
+            },
+            {
+              "id": "step_1772636422882",
+              "type": "choice",
+              "content": "12月31日：除夕"
+            }
+          ]
+        },
+        {
+          "id": "ending_1772636499069",
+          "name": "生肉",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1772636547544",
+              "type": "choice",
+              "content": "01月06日│夏洛克·福尔摩斯"
+            },
+            {
+              "id": "step_1772636513612",
+              "type": "choice",
+              "content": "02月14日│虹梦"
+            },
+            {
+              "id": "step_1772636514125",
+              "type": "choice",
+              "content": "04月11日│辉夜"
+            },
+            {
+              "id": "step_1772636516162",
+              "type": "choice",
+              "content": "05月05日│雅典娜"
+            },
+            {
+              "id": "step_1772636516328",
+              "type": "choice",
+              "content": "07月20日│夏洛特"
+            },
+            {
+              "id": "step_1772636516514",
+              "type": "choice",
+              "content": "08月01日│弥荣"
+            },
+            {
+              "id": "step_1772636565472",
+              "type": "choice",
+              "content": "11月11日|有濑辉夜"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

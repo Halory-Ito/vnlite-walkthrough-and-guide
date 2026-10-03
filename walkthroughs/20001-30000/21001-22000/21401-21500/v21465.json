@@ -1,0 +1,110 @@
+{
+  "vid": "v21465",
+  "name": {
+    "zh-cn": "牵绊闪耀的恋之伊吕波",
+    "ja-jp": "絆きらめく恋いろは",
+    "ja-Latn": "kizuna-kirameku-koi-iroha"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-15",
+  "tips": [
+    "其他3人攻略完毕后，才可攻略樱夜"
+  ],
+  "routes": [
+    {
+      "id": "route_game_guide",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_tsubaki",
+          "name": "朱雀院 椿 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_tsubaki_01",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_tsubaki_03",
+              "type": "choice",
+              "content": "椿的咖哩"
+            },
+            {
+              "id": "step_tsubaki_04",
+              "type": "choice",
+              "content": "陪在一直当我姐姐的椿身旁"
+            }
+          ]
+        },
+        {
+          "id": "ending_shion",
+          "name": "蓝原 诗音 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_shion_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_shion_03",
+              "type": "choice",
+              "content": "诗音的牛排"
+            },
+            {
+              "id": "step_shion_04",
+              "type": "choice",
+              "content": "作为教练照顾诗音"
+            }
+          ]
+        },
+        {
+          "id": "ending_felicia",
+          "name": "弗利西亚 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_felicia_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_felicia_03",
+              "type": "choice",
+              "content": "弗利希亚的披萨"
+            },
+            {
+              "id": "step_felicia_04",
+              "type": "choice",
+              "content": "帮助把我当师傅仰慕的希亚"
+            }
+          ]
+        },
+        {
+          "id": "ending_sakuya",
+          "name": "上和泉 樱夜 END",
+          "type": "normal",
+          "requirements": "其他3人攻略完毕后",
+          "steps": [
+            {
+              "id": "step_sakuya_02",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_sakuya_04",
+              "type": "choice",
+              "content": "樱夜的乌冬"
+            },
+            {
+              "id": "step_sakuya_05",
+              "type": "choice",
+              "content": "支持现在仍是我挚友的樱夜"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

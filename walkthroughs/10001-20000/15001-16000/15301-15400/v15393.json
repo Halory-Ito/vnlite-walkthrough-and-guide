@@ -1,0 +1,263 @@
+{
+  "vid": "v15393",
+  "name": {
+    "zh-cn": "恋爱中的她的笨拙舞台",
+    "ja-jp": "恋する彼女の不器用な舞台",
+    "ja-Latn": "koi-suru-kanojo-no-bukiyou-na-butai"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-13",
+  "routes": [
+    {
+      "id": "route_1762336243039",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1762336275093",
+          "name": "十川 真优",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762336300750",
+              "type": "choice",
+              "content": "自己想办法"
+            },
+            {
+              "id": "step_1762336300944",
+              "type": "choice",
+              "content": "虽然我是真优这边的伙伴啦……"
+            },
+            {
+              "id": "step_1762336301111",
+              "type": "choice",
+              "content": "称赞奈塔林"
+            },
+            {
+              "id": "step_1762336301287",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1762336301561",
+              "type": "choice",
+              "content": "去找爱丽丝会长"
+            },
+            {
+              "id": "step_1762336301767",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1762336302809",
+              "type": "choice",
+              "content": "在意小百花"
+            },
+            {
+              "id": "step_1762336302985",
+              "type": "choice",
+              "content": "交给小百花测里"
+            },
+            {
+              "id": "step_1762336303137",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_1762336303303",
+              "type": "choice",
+              "content": "是啊"
+            },
+            {
+              "id": "step_1762336303468",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_1762336303627",
+              "type": "choice",
+              "content": "和真优一起回去"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762336380876",
+          "name": "七瀬 千奈",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762336406772",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1762336411396",
+              "type": "choice",
+              "content": "奈塔林也觉得会做料理的男生更好对吧?"
+            },
+            {
+              "id": "step_1762336411583",
+              "type": "choice",
+              "content": "跟奈塔林搭话"
+            },
+            {
+              "id": "step_1762336434349",
+              "type": "choice",
+              "content": "自己选射哪里"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762336381246",
+          "name": "爱丽丝·瑟德·梅茜",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762350881453",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_1762350890369",
+              "type": "choice",
+              "content": "与爱丽丝会长说话"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762336381456",
+          "name": "千代田 百花、ノーマル",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762351008559",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_1762351073689",
+              "type": "choice",
+              "content": "去小百花家探望"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762336381652",
+          "name": "通常 END(知紗＆真里亜)",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762354909787",
+              "type": "note",
+              "content": "CG回收"
+            },
+            {
+              "id": "step_1762354917185",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1762354919369",
+              "type": "choice",
+              "content": "去找真优"
+            },
+            {
+              "id": "step_1762354922924",
+              "type": "note",
+              "content": "※優CG回收后结束"
+            },
+            {
+              "id": "step_1762354937017",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1762354937932",
+              "type": "choice",
+              "content": "去找奈塔林"
+            },
+            {
+              "id": "step_1762354944390",
+              "type": "note",
+              "content": "※千奈CG回收后结束"
+            },
+            {
+              "id": "step_1762354961965",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1762354964954",
+              "type": "choice",
+              "content": "去找小百花"
+            },
+            {
+              "id": "step_1762354979042",
+              "type": "note",
+              "content": "※百花CG回收后结束"
+            },
+            {
+              "id": "step_1762354985422",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1762354989811",
+              "type": "choice",
+              "content": "在意真优"
+            },
+            {
+              "id": "step_1762354997410",
+              "type": "note",
+              "content": "※差分CG回收后结束"
+            },
+            {
+              "id": "step_1762355017651",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1762355036748",
+              "type": "choice",
+              "content": "在意奈塔林"
+            },
+            {
+              "id": "step_1762355037431",
+              "type": "note",
+              "content": "※差分CG回收后结束"
+            },
+            {
+              "id": "step_1762355043097",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1762355047384",
+              "type": "choice",
+              "content": "在意爱丽丝会长"
+            },
+            {
+              "id": "step_1762355047924",
+              "type": "note",
+              "content": "※差分CG回收后结束"
+            },
+            {
+              "id": "step_1762355076175",
+              "type": "choice",
+              "content": "知紗先生 、九重 真里亜"
+            },
+            {
+              "id": "step_1762355092542",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_1762355097088",
+              "type": "choice",
+              "content": "在家里等待联络"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

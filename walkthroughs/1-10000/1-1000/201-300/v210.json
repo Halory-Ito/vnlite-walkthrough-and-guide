@@ -1,0 +1,786 @@
+{
+  "vid": "v210",
+  "name": {
+    "zh-cn": "向日葵 天空鹅卵石",
+    "en-us": "Himawari - The Sunflower -",
+    "ja-jp": "ひまわり",
+    "ja-Latn": "himawari"
+  },
+  "level": 1,
+  "updatedAt": "2026-07-14",
+  "tips": [
+    "最开始仅可攻略Aries",
+    "攻略 “Aries TRUE END”后，出现“restart",
+    "攻略“星乃 明香里 TRUE END”后，可攻略Aqua  ；攻略“Aqua TRUE END”后，可攻略“西园寺明香”"
+  ],
+  "routes": [
+    {
+      "id": "route_aries",
+      "name": "Aries",
+      "endings": [
+        {
+          "id": "ending_aries_black_giant",
+          "name": "黑色的巨人",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_1777970696788",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "s_aries_02",
+              "type": "choice",
+              "content": "回家"
+            }
+          ]
+        },
+        {
+          "id": "ending_aries_see_stars",
+          "name": "见星之梦",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "s_aries_04",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1777970710121",
+              "type": "choice",
+              "content": "去"
+            },
+            {
+              "id": "s_aries_05",
+              "type": "choice",
+              "content": "不能放着Aries不管"
+            },
+            {
+              "id": "step_1777970721419",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "s_aries_07",
+              "type": "choice",
+              "content": "全都是，黄粱一梦"
+            }
+          ]
+        },
+        {
+          "id": "ending_aries_dont_touch_me",
+          "name": "别碰我",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "s_aries_09",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1777970798019",
+              "type": "choice",
+              "content": "她，确实存在"
+            },
+            {
+              "id": "step_1777970838720",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "s_aries_13",
+              "type": "choice",
+              "content": "牵住她的手"
+            }
+          ]
+        },
+        {
+          "id": "ending_aries_vanish",
+          "name": "梦的延续",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "s_aries_15",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "s_aries_18",
+              "type": "choice",
+              "content": "放开她的手"
+            },
+            {
+              "id": "s_aries_19",
+              "type": "choice",
+              "content": "Aries没问题吧？"
+            },
+            {
+              "id": "s_aries_20",
+              "type": "choice",
+              "content": "果然还是不换了"
+            },
+            {
+              "id": "s_aries_21",
+              "type": "choice",
+              "content": "联系部长",
+              "prefix": "★"
+            },
+            {
+              "id": "s_aries_22",
+              "type": "choice",
+              "content": "困扰个球/困扰个屁/困扰个蛇"
+            },
+            {
+              "id": "s_aries_23",
+              "type": "choice",
+              "content": "部长，别开无聊的玩笑了"
+            },
+            {
+              "id": "step_1777971022492",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "s_aries_24",
+              "type": "choice",
+              "content": "放弃月球这个目标"
+            }
+          ]
+        },
+        {
+          "id": "ending_4",
+          "name": "消失的Aries",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "s_aries_15_1",
+              "type": "load",
+              "content": "LOAD 5"
+            },
+            {
+              "id": "s_aries_20_1",
+              "type": "choice",
+              "content": "即便如此也要以月球为目标"
+            },
+            {
+              "id": "s_aries_21_1",
+              "type": "choice",
+              "content": "舔吧(一起舔→重新选择)",
+              "prefix": "★"
+            },
+            {
+              "id": "s_aries_22_1",
+              "type": "choice",
+              "content": "Aries不错"
+            },
+            {
+              "id": "s_aries_23_1",
+              "type": "choice",
+              "content": "和Aries组队？"
+            },
+            {
+              "id": "step_1777971089711",
+              "type": "save",
+              "content": "SAVE 6"
+            },
+            {
+              "id": "s_aries_24_1",
+              "type": "choice",
+              "content": "不行"
+            }
+          ]
+        },
+        {
+          "id": "ending_aries_fallingstar",
+          "name": "FallingStar",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "s_aries_29",
+              "type": "load",
+              "content": "LOAD 6"
+            },
+            {
+              "id": "s_aries_41",
+              "type": "choice",
+              "content": "可以"
+            },
+            {
+              "id": "step_1777971137655",
+              "type": "save",
+              "content": "SAVE 7"
+            },
+            {
+              "id": "s_aries_43",
+              "type": "choice",
+              "content": "向Aries出手"
+            }
+          ]
+        },
+        {
+          "id": "ending_aries_no_key",
+          "name": "无钥之锁",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "s_aries_45",
+              "type": "load",
+              "content": "LOAD 7"
+            },
+            {
+              "id": "s_aries_58",
+              "type": "choice",
+              "content": "我所期望的并不是这种事"
+            },
+            {
+              "id": "step_1777971188363",
+              "type": "save",
+              "content": "SAVE 8"
+            },
+            {
+              "id": "s_aries_60",
+              "type": "choice",
+              "content": "放回去"
+            }
+          ]
+        },
+        {
+          "id": "ending_aries_pure_white",
+          "name": "洁白世界",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "s_aries_62",
+              "type": "load",
+              "content": "LOAD 8"
+            },
+            {
+              "id": "s_aries_76",
+              "type": "choice",
+              "content": "看相册"
+            },
+            {
+              "id": "step_1777971232629",
+              "type": "save",
+              "content": "SAVE 9"
+            },
+            {
+              "id": "s_aries_78",
+              "type": "choice",
+              "content": "放任Aries"
+            }
+          ]
+        },
+        {
+          "id": "ending_aries_rain",
+          "name": "烟雨",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "s_aries_80",
+              "type": "load",
+              "content": "LOAD 8"
+            },
+            {
+              "id": "s_aries_95",
+              "type": "choice",
+              "content": "果然还是不行！"
+            },
+            {
+              "id": "step_1777971363051",
+              "type": "save",
+              "content": "SAVE 9"
+            },
+            {
+              "id": "s_aries_97",
+              "type": "choice",
+              "content": "在公园/在明香的家"
+            }
+          ]
+        },
+        {
+          "id": "ending_aries_true",
+          "name": "Aries TURE END",
+          "type": "true",
+          "steps": [
+            {
+              "id": "s_aries_123",
+              "type": "load",
+              "content": "LOAD 9"
+            },
+            {
+              "id": "s_aries_139",
+              "type": "choice",
+              "content": "在学校"
+            },
+            {
+              "id": "s_aries_140",
+              "type": "choice",
+              "content": "向Aqua冲去/现在先等待机会"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1777971529076",
+      "name": "明香里",
+      "endings": [
+        {
+          "id": "ending_1777971539605",
+          "name": "启程",
+          "type": "normal",
+          "requirements": "Aries路线结束后在标题页面选择Restart",
+          "steps": [
+            {
+              "id": "step_1777971571114",
+              "type": "save",
+              "content": "SAVE 10"
+            },
+            {
+              "id": "step_1777971550919",
+              "type": "choice",
+              "content": "我想和大吾在一起"
+            }
+          ]
+        },
+        {
+          "id": "ending_1777971587930",
+          "name": "明香里 TURE END",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_1777971590415",
+              "type": "load",
+              "content": "LOAD 10"
+            },
+            {
+              "id": "step_1777971595641",
+              "type": "choice",
+              "content": "我必须对大吾说出事实"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_aqua",
+      "name": "Aqua",
+      "endings": [
+        {
+          "id": "ending_aqua_worst",
+          "name": "最糟糕的结局",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "s_aqua_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "s_aqua_02",
+              "type": "choice",
+              "content": "总之，先吃炒饭！"
+            },
+            {
+              "id": "s_aqua_03",
+              "type": "choice",
+              "content": "她，确实存在"
+            },
+            {
+              "id": "s_aqua_04",
+              "type": "choice",
+              "content": "放开她的手"
+            },
+            {
+              "id": "s_aqua_05",
+              "type": "choice",
+              "content": "Aqua不会还在喝吧？"
+            },
+            {
+              "id": "s_aqua_06",
+              "type": "choice",
+              "content": "换就换吧"
+            },
+            {
+              "id": "s_aqua_07",
+              "type": "choice",
+              "content": "不告诉部长"
+            },
+            {
+              "id": "s_aqua_08",
+              "type": "choice",
+              "content": "该死的怪盗G！"
+            },
+            {
+              "id": "s_aqua_09",
+              "type": "choice",
+              "content": "用开锁器开锁"
+            },
+            {
+              "id": "s_aqua_10",
+              "type": "save",
+              "content": "SAVE 11"
+            },
+            {
+              "id": "s_aqua_11",
+              "type": "choice",
+              "content": "告诉她"
+            }
+          ]
+        },
+        {
+          "id": "ending_aqua_goodbye",
+          "name": "GoodBye MyFriend",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "s_aqua_21",
+              "type": "load",
+              "content": "LOAD 11"
+            },
+            {
+              "id": "s_aqua_22",
+              "type": "choice",
+              "content": "隐瞒过去"
+            },
+            {
+              "id": "s_aqua_23",
+              "type": "choice",
+              "content": "上/中/下"
+            },
+            {
+              "id": "s_aqua_24",
+              "type": "choice",
+              "content": "投影·开始(Trace·on)/现在还不是能力展现的时候"
+            },
+            {
+              "id": "s_aqua_25",
+              "type": "save",
+              "content": "SAVE 12"
+            },
+            {
+              "id": "s_aqua_26",
+              "type": "choice",
+              "content": "我没能行动起来"
+            }
+          ]
+        },
+        {
+          "id": "ending_aqua_trauma",
+          "name": "创伤",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "s_aqua_39",
+              "type": "load",
+              "content": "LOAD 12"
+            },
+            {
+              "id": "s_aqua_40",
+              "type": "choice",
+              "content": "部长，打住吧"
+            },
+            {
+              "id": "s_aqua_41",
+              "type": "save",
+              "content": "SAVE 13"
+            },
+            {
+              "id": "s_aqua_42",
+              "type": "choice",
+              "content": "你在想些什么呢！"
+            }
+          ]
+        },
+        {
+          "id": "ending_aqua_hinata",
+          "name": "日向葵",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "s_aqua_44",
+              "type": "load",
+              "content": "LOAD 13"
+            },
+            {
+              "id": "s_aqua_57",
+              "type": "choice",
+              "content": "Aqua…你在干什么呢！"
+            },
+            {
+              "id": "s_aqua_45",
+              "type": "save",
+              "content": "SAVE 14"
+            },
+            {
+              "id": "s_aqua_58",
+              "type": "choice",
+              "content": "抱紧Aries的身体"
+            },
+            {
+              "id": "s_aqua_46",
+              "type": "save",
+              "content": "SAVE 15"
+            },
+            {
+              "id": "s_aqua_59",
+              "type": "choice",
+              "content": "已经，无法回头了"
+            }
+          ]
+        },
+        {
+          "id": "ending_aqua_extract",
+          "name": "摘出",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "s_aqua_61",
+              "type": "load",
+              "content": "LOAD 15"
+            },
+            {
+              "id": "s_aqua_76",
+              "type": "choice",
+              "content": "放开Aries"
+            }
+          ]
+        },
+        {
+          "id": "ending_aqua_dream_place",
+          "name": "梦所在的地方",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "s_aqua_78",
+              "type": "load",
+              "content": "LOAD 14"
+            },
+            {
+              "id": "s_aqua_92",
+              "type": "choice",
+              "content": "甩开Aries的手"
+            },
+            {
+              "id": "s_aqua_93",
+              "type": "save",
+              "content": "SAVE 16"
+            },
+            {
+              "id": "s_aqua_94",
+              "type": "choice",
+              "content": "我还想再一次喝到Aqua做的味增汤"
+            }
+          ]
+        },
+        {
+          "id": "ending_aqua_great_step",
+          "name": "伟大的一步",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "s_aqua_96",
+              "type": "load",
+              "content": "LOAD 16"
+            },
+            {
+              "id": "s_aqua_97",
+              "type": "choice",
+              "content": "我还想再一次见到葵"
+            },
+            {
+              "id": "s_aqua_114",
+              "type": "save",
+              "content": "SAVE 17"
+            },
+            {
+              "id": "s_aqua_113",
+              "type": "choice",
+              "content": "去机场"
+            }
+          ]
+        },
+        {
+          "id": "ending_aqua_true",
+          "name": "Aqua TURE END",
+          "type": "true",
+          "steps": [
+            {
+              "id": "s_aqua_115",
+              "type": "load",
+              "content": "LOAD 16"
+            },
+            {
+              "id": "s_aqua_116",
+              "type": "choice",
+              "content": "去学校"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_saionji",
+      "name": "西园寺明香",
+      "endings": [
+        {
+          "id": "ending_saionji_beautiful_dreamer",
+          "name": "Beautiful Dreamer",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "s_saion_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "s_saion_02",
+              "type": "choice",
+              "content": "不快点给明香解释的话"
+            },
+            {
+              "id": "s_saion_03",
+              "type": "choice",
+              "content": "她，确实存在"
+            },
+            {
+              "id": "s_saion_04",
+              "type": "choice",
+              "content": "放开她的手"
+            },
+            {
+              "id": "s_saion_05",
+              "type": "choice",
+              "content": "有点不放心明香…"
+            },
+            {
+              "id": "s_saion_06",
+              "type": "choice",
+              "content": "果然还是不换了"
+            },
+            {
+              "id": "s_saion_07",
+              "type": "choice",
+              "content": "叫部长过来"
+            },
+            {
+              "id": "s_saion_08",
+              "type": "choice",
+              "content": "困扰个球/困扰个屁/困扰个蛇"
+            },
+            {
+              "id": "s_saion_09",
+              "type": "choice",
+              "content": "明香，这声音可真厉害"
+            },
+            {
+              "id": "s_saion_10",
+              "type": "choice",
+              "content": "即便如此也要以月球为目标"
+            },
+            {
+              "id": "s_saion_11",
+              "type": "choice",
+              "content": "不舔"
+            },
+            {
+              "id": "s_saion_12",
+              "type": "choice",
+              "content": "最终兵器，明香"
+            },
+            {
+              "id": "s_saion_13",
+              "type": "choice",
+              "content": "相信明香说的"
+            },
+            {
+              "id": "s_saion_14",
+              "type": "choice",
+              "content": "继续制作向日葵"
+            },
+            {
+              "id": "s_saion_15",
+              "type": "choice",
+              "content": "爸爸/前辈/社长"
+            },
+            {
+              "id": "s_saion_16",
+              "type": "save",
+              "content": "SAVE 17"
+            },
+            {
+              "id": "s_saion_17",
+              "type": "choice",
+              "content": "…我明白了"
+            }
+          ]
+        },
+        {
+          "id": "ending_saionji_escape",
+          "name": "逃避",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "s_saion_19",
+              "type": "load",
+              "content": "LOAD 17"
+            },
+            {
+              "id": "s_saion_34",
+              "type": "choice",
+              "content": "……这是假的"
+            },
+            {
+              "id": "s_saion_35",
+              "type": "save",
+              "content": "SAVE 18"
+            },
+            {
+              "id": "s_saion_36",
+              "type": "choice",
+              "content": "回家"
+            }
+          ]
+        },
+        {
+          "id": "ending_saionji_true",
+          "name": "明香 TURE END",
+          "type": "true",
+          "steps": [
+            {
+              "id": "s_saion_37",
+              "type": "load",
+              "content": "LOAD 18"
+            },
+            {
+              "id": "s_saion_36_1",
+              "type": "choice",
+              "content": "去学校"
+            },
+            {
+              "id": "s_saion_38",
+              "type": "note",
+              "content": "以下选项无顺序要求"
+            },
+            {
+              "id": "s_saion_39",
+              "type": "choice",
+              "content": "去看看Aries和Aqua的情况"
+            },
+            {
+              "id": "s_saion_40",
+              "type": "choice",
+              "content": "去明香和明那边"
+            },
+            {
+              "id": "s_saion_41",
+              "type": "choice",
+              "content": "关心部长和乔尼那边"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

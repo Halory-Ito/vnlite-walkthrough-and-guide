@@ -1,0 +1,83 @@
+{
+  "vid": "v12072",
+  "name": {
+    "zh-cn": "愿望的碎片与白银契约者",
+    "en-us": "The Shadows of Pygmalion",
+    "ja-jp": "願いの欠片と白銀の契約者",
+    "ja-Latn": "negai-no-kakera-to-hakugin-no-agreement"
+  },
+  "level": 1,
+  "updatedAt": "2026-07-15",
+  "routes": [
+    {
+      "id": "route_1",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1",
+          "name": "END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_2",
+              "type": "choice",
+              "content": "回我的家"
+            }
+          ]
+        },
+        {
+          "id": "ending_2",
+          "name": "END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_3",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_4",
+              "type": "choice",
+              "content": "目送杨先生的背影"
+            }
+          ]
+        },
+        {
+          "id": "ending_3",
+          "name": "END3",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_5",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_6",
+              "type": "choice",
+              "content": "让玲香小姐和茜小姐回去"
+            }
+          ]
+        },
+        {
+          "id": "ending_4",
+          "name": "END4",
+          "type": "normal",
+          "requirements": "完成上述结局后，从最初开始",
+          "steps": [
+            {
+              "id": "step_9",
+              "type": "choice",
+              "content": "意识突然中断了"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

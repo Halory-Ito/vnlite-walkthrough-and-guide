@@ -1,0 +1,119 @@
+{
+  "vid": "v26485",
+  "name": {
+    "zh-cn": "在月之彼岸邂逅~甜蜜的夏日彩虹~",
+    "ja-jp": "月の彼方で逢いましょう SweetSummerRainbow",
+    "ja-Latn": "tsuki-no-kanata-de-aimashou-sweetsummerrainbow"
+  },
+  "level": 2,
+  "updatedAt": "2026-05-07",
+  "routes": [
+    {
+      "id": "route_tsukikana_school",
+      "name": "月彼学校篇",
+      "endings": [
+        {
+          "id": "ending_tsukikana_school_end",
+          "name": "月彼学校 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_tsukikana_school_03",
+              "type": "choice",
+              "content": "有没有什么东西可以擦一下…"
+            },
+            {
+              "id": "step_tsukikana_school_04",
+              "type": "choice",
+              "content": "我也喜欢"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_tsukikana_after",
+      "name": "月彼后日谈",
+      "endings": [
+        {
+          "id": "ending_tsukikana_after_end",
+          "name": "月彼后日谈 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1778144241761",
+              "type": "note",
+              "content": "无选项"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_ssr_school",
+      "name": "SSR 学校篇",
+      "endings": [
+        {
+          "id": "ending_ssr_school_end",
+          "name": "SSR学校篇 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_ssr_school_03",
+              "type": "choice",
+              "content": "绕道走"
+            },
+            {
+              "id": "step_ssr_school_04",
+              "type": "choice",
+              "content": "很可爱哦"
+            },
+            {
+              "id": "step_ssr_school_05",
+              "type": "choice",
+              "content": "躲到什么地方去"
+            },
+            {
+              "id": "step_ssr_school_06",
+              "type": "choice",
+              "content": "啊，雨音的内裤…"
+            },
+            {
+              "id": "step_ssr_school_07",
+              "type": "choice",
+              "content": "色情神大人"
+            },
+            {
+              "id": "step_ssr_school_08",
+              "type": "choice",
+              "content": "因为超级色情"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_ssr_after",
+      "name": "SSR 后日谈",
+      "endings": [
+        {
+          "id": "ending_ssr_after_end",
+          "name": "SSR后日谈 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_ssr_after_03",
+              "type": "choice",
+              "content": "雨音"
+            },
+            {
+              "id": "step_ssr_after_04",
+              "type": "choice",
+              "content": "从暑期学校照顾她的时候开始"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

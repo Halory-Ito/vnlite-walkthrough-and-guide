@@ -1,0 +1,162 @@
+{
+  "vid": "v12849",
+  "name": {
+    "zh-cn": "苍之彼方的四重奏",
+    "en-us": "Aokana - Four Rhythms Across the Blue",
+    "ja-jp": "蒼の彼方のフォーリズム",
+    "ja-Latn": "ao-no-kanata-no-four-rhythm"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-14",
+  "routes": [
+    {
+      "id": "route_1772367564804",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1772367573576",
+          "name": "仓科 明日香",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1772367588868",
+              "type": "choice",
+              "content": "打招呼"
+            },
+            {
+              "id": "step_1772367598992",
+              "type": "choice",
+              "content": "因为我希望仓科同学能够学会飞行"
+            },
+            {
+              "id": "step_1772367599196",
+              "type": "choice",
+              "content": "跟真白谈谈如何提高美咲的干劲"
+            },
+            {
+              "id": "step_1772367599362",
+              "type": "choice",
+              "content": "我也要告诉她这肉很好吃"
+            },
+            {
+              "id": "step_1772367599616",
+              "type": "choice",
+              "content": "对待社团活动的态度再认真点啊"
+            },
+            {
+              "id": "step_1772367599970",
+              "type": "choice",
+              "content": "继续和莉佳一起训练"
+            },
+            {
+              "id": "step_1772367600251",
+              "type": "choice",
+              "content": "考虑一下把这个当作必杀技吧"
+            },
+            {
+              "id": "step_1772367600592",
+              "type": "choice",
+              "content": "告诉她"
+            },
+            {
+              "id": "step_1772367601036",
+              "type": "choice",
+              "content": "叫住美咲"
+            },
+            {
+              "id": "step_1772367602129",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1772367603046",
+              "type": "choice",
+              "content": "……明白了"
+            }
+          ]
+        },
+        {
+          "id": "ending_1772367579685",
+          "name": "有坂 真白",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1772367642283",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1772367643010",
+              "type": "choice",
+              "content": "对不起，我做不到"
+            },
+            {
+              "id": "step_1772367645038",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1772367654906",
+              "type": "choice",
+              "content": "我想和你一起继续下去"
+            }
+          ]
+        },
+        {
+          "id": "ending_1772367579880",
+          "name": "市之濑 莉佳",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1772367675210",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1772367677551",
+              "type": "choice",
+              "content": "按你自己想的做就好"
+            },
+            {
+              "id": "step_1772367680561",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_1772367683341",
+              "type": "choice",
+              "content": "如果我可以的话……我愿意"
+            }
+          ]
+        },
+        {
+          "id": "ending_1772367580060",
+          "name": "鸢泽 美咲",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1772367694401",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1772367698560",
+              "type": "choice",
+              "content": "非常抱歉，我做不到"
+            },
+            {
+              "id": "step_1772367698722",
+              "type": "choice",
+              "content": "给我来训练！"
+            },
+            {
+              "id": "step_1772367707946",
+              "type": "note",
+              "content": "※4人END后会自动进入【FINALE 在彼端的彼端】"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

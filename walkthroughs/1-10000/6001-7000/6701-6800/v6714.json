@@ -1,0 +1,153 @@
+{
+  "vid": "v6714",
+  "name": {
+    "zh-cn": "恋爱0公里",
+    "en-us": "Ren'ai 0 Kilometer",
+    "ja-jp": "恋愛0キロメートル",
+    "ja-Latn": "renai-0-kilometer"
+  },
+  "level": 2,
+  "updatedAt": "2026-02-27",
+  "routes": [
+    {
+      "id": "route_1755696575350",
+      "name": "木之本 真夜",
+      "endings": [
+        {
+          "id": "ending_1755696644813",
+          "name": "真夜 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755696667890",
+              "type": "choice",
+              "content": "跟华打听"
+            },
+            {
+              "id": "step_1755696668050",
+              "type": "choice",
+              "content": "去寻求华最信任的真夜姐的帮助"
+            },
+            {
+              "id": "step_1755696668216",
+              "type": "choice",
+              "content": "繁华街的路上找找"
+            },
+            {
+              "id": "step_1755696668378",
+              "type": "choice",
+              "content": "倒不如说实咲更辛苦吧"
+            },
+            {
+              "id": "step_1755696668559",
+              "type": "choice",
+              "content": "填饱肚子再回去"
+            },
+            {
+              "id": "step_1755696669082",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1755696698581",
+              "type": "choice",
+              "content": "和威风凛凛的姐姐搭话"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755696702983",
+      "name": "木之本 咲耶",
+      "endings": [
+        {
+          "id": "ending_1755696704847",
+          "name": "咲耶 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755696715303",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1755696721887",
+              "type": "choice",
+              "content": "和扎马尾辫的青梅竹马搭话"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755696742597",
+      "name": "木之本 实咲",
+      "endings": [
+        {
+          "id": "ending_1755696745160",
+          "name": "实咲 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755696751549",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1755696752575",
+              "type": "choice",
+              "content": "和总是为姐妹们操劳的妹妹搭话"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755696759011",
+      "name": "木之本 乃来亚",
+      "endings": [
+        {
+          "id": "ending_1755696772611",
+          "name": "乃来亚 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755696781711",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1755696782896",
+              "type": "choice",
+              "content": "和吵吵闹闹的妹妹搭话"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755696800396",
+      "name": "木之本 华",
+      "endings": [
+        {
+          "id": "ending_1755696802742",
+          "name": "华 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755696812746",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1755696817162",
+              "type": "choice",
+              "content": "和稍微露出了点疲劳的神态的最小的妹妹搭话"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

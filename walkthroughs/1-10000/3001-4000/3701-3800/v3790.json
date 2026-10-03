@@ -1,0 +1,222 @@
+{
+  "vid": "v3790",
+  "name": {
+    "zh-cn": "绕一圈就能找到！？",
+    "ja-jp": "廻り巡ればめぐるときっ!?",
+    "ja-Latn": "meguri-megureba-meguru-toki"
+  },
+  "level": 2,
+  "updatedAt": "2026-02-27",
+  "routes": [
+    {
+      "id": "route_1757751010753",
+      "name": "由希",
+      "endings": [
+        {
+          "id": "ending_1757751020427",
+          "name": "由希 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1757751032416",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1757751034337",
+              "type": "choice",
+              "content": "上楼"
+            },
+            {
+              "id": "step_1757751038191",
+              "type": "note",
+              "content": "（CG回收）"
+            },
+            {
+              "id": "step_1757751047699",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1757751049821",
+              "type": "choice",
+              "content": "继续在一楼搜寻"
+            },
+            {
+              "id": "step_1757751050263",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1757751062924",
+              "type": "choice",
+              "content": "向美遥和由希商量"
+            },
+            {
+              "id": "step_1757751067682",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1757751071267",
+              "type": "choice",
+              "content": "向美世子等人商量"
+            },
+            {
+              "id": "step_1757751071435",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_1757751071619",
+              "type": "choice",
+              "content": "安静地回到教室"
+            },
+            {
+              "id": "step_1757751081487",
+              "type": "choice",
+              "content": "返回常世"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1757751086597",
+      "name": "美遥",
+      "endings": [
+        {
+          "id": "ending_1757751098444",
+          "name": "美遥 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1757751106084",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1757751109966",
+              "type": "choice",
+              "content": "试着和同班同学商量"
+            },
+            {
+              "id": "step_1757751115016",
+              "type": "choice",
+              "content": "返回常世"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1757751849802",
+      "name": "铃音",
+      "endings": [
+        {
+          "id": "ending_1757751857993",
+          "name": "铃音 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1757753523576",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1757753527024",
+              "type": "choice",
+              "content": "回去制定对策"
+            },
+            {
+              "id": "step_1757753527621",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_1757753536269",
+              "type": "choice",
+              "content": "和铃音玩耍"
+            },
+            {
+              "id": "step_1757753536447",
+              "type": "choice",
+              "content": "仍留在幽世"
+            },
+            {
+              "id": "step_1757753536809",
+              "type": "choice",
+              "content": "即便如此也要留在幽世"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1757753945293",
+      "name": "空美",
+      "endings": [
+        {
+          "id": "ending_1757753955452",
+          "name": "空美 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1757753962423",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_1757753964172",
+              "type": "choice",
+              "content": "寻找空美"
+            },
+            {
+              "id": "step_1757753964318",
+              "type": "choice",
+              "content": "仍留在幽世"
+            },
+            {
+              "id": "step_1757753964504",
+              "type": "choice",
+              "content": "即便如此也要留在幽世"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1757753982443",
+      "name": "美世子",
+      "endings": [
+        {
+          "id": "ending_1757753989364",
+          "name": "美世子 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1757753997187",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_1757754003659",
+              "type": "choice",
+              "content": "寻找美世子"
+            },
+            {
+              "id": "step_1757754003814",
+              "type": "choice",
+              "content": "仍留在幽世"
+            },
+            {
+              "id": "step_1757754004034",
+              "type": "choice",
+              "content": "即便如此也要留在幽世"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

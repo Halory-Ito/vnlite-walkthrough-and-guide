@@ -1,0 +1,204 @@
+{
+  "vid": "v9093",
+  "name": {
+    "zh-cn": "在这苍穹展翅",
+    "en-us": "If My Heart Had Wings",
+    "ja-jp": "この大空に、翼をひろげて",
+    "ja-Latn": "kono-oozora-ni-tsubasa-o-hirogete"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-14",
+  "tips": [
+    "1周目只能攻略小鸟和扬羽。小鸟攻略完毕后，天音和亚纱变为可攻略",
+    "★选项为一人攻略后才会出现的选项，不出现的情况下无视即可",
+    "天音需要选择追加选项「喜欢」才可攻略"
+  ],
+  "routes": [
+    {
+      "id": "route_game_guide",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_kotori_end",
+          "name": "羽羽音小鸟 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_kotori_01",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_kotori_02",
+              "type": "choice",
+              "content": "和小鸟一起提前离开"
+            },
+            {
+              "id": "step_kotori_03",
+              "type": "choice",
+              "content": "误会",
+              "prefix": "★"
+            },
+            {
+              "id": "step_kotori_04",
+              "type": "choice",
+              "content": "小鸟"
+            },
+            {
+              "id": "step_kotori_06",
+              "type": "choice",
+              "content": "和小鸟一起回去"
+            }
+          ]
+        },
+        {
+          "id": "ending_ageha_end",
+          "name": "姬城扬羽 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_ageha_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_ageha_02",
+              "type": "choice",
+              "content": "等等扬羽"
+            },
+            {
+              "id": "step_ageha_03",
+              "type": "choice",
+              "content": "误会",
+              "prefix": "★"
+            },
+            {
+              "id": "step_ageha_04",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_ageha_05",
+              "type": "choice",
+              "content": "扬羽"
+            },
+            {
+              "id": "step_ageha_07",
+              "type": "choice",
+              "content": "陪扬羽一起去"
+            }
+          ]
+        },
+        {
+          "id": "ending_amane_end",
+          "name": "望月天音 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_amane_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_amane_02",
+              "type": "choice",
+              "content": "等等扬羽"
+            },
+            {
+              "id": "step_amane_03",
+              "type": "choice",
+              "content": "喜欢",
+              "prefix": "★"
+            },
+            {
+              "id": "step_amane_04",
+              "type": "choice",
+              "content": "天音前辈"
+            }
+          ]
+        },
+        {
+          "id": "ending_asa_end",
+          "name": "风户亚纱 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_asa_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_asa_02",
+              "type": "choice",
+              "content": "对谁都没什么感觉"
+            },
+            {
+              "id": "step_asa_03",
+              "type": "choice",
+              "content": "我"
+            },
+            {
+              "id": "step_asa_04",
+              "type": "choice",
+              "content": "去亚纱酱那里"
+            },
+            {
+              "id": "step_asa_05",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_asa_06",
+              "type": "choice",
+              "content": "选择亚纱酱"
+            }
+          ]
+        },
+        {
+          "id": "ending_iru_asa_end",
+          "name": "依瑠&亚纱 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_iru_asa_01",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_iru_asa_02",
+              "type": "choice",
+              "content": "哪边都不选"
+            }
+          ]
+        },
+        {
+          "id": "ending_bad_end",
+          "name": "BAD END",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_bad_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_bad_02",
+              "type": "choice",
+              "content": "小鸟"
+            },
+            {
+              "id": "step_bad_03",
+              "type": "choice",
+              "content": "我"
+            },
+            {
+              "id": "step_bad_04",
+              "type": "choice",
+              "content": "陪扬羽一起去"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

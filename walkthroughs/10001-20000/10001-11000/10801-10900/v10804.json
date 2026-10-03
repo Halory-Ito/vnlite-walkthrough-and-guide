@@ -1,0 +1,213 @@
+{
+  "vid": "v10804",
+  "name": {
+    "zh-cn": "我成为天使的理由",
+    "en-us": "Bokuten - Why I Became an Angel",
+    "ja-jp": "僕が天使になった理由",
+    "ja-Latn": "boku-ga-tenshi-ni-natta-wake"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-16",
+  "tips": [
+    "★选项为追加选项，不出现时无视即可"
+  ],
+  "routes": [
+    {
+      "id": "route_main",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_naruko_1",
+          "name": "奈留子 END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_naruko_01",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_naruko_02",
+              "type": "choice",
+              "content": "归还碎片"
+            },
+            {
+              "id": "step_naruko_05",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_naruko_06",
+              "type": "choice",
+              "content": "归还碎片"
+            },
+            {
+              "id": "step_naruko_07",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_naruko_08",
+              "type": "choice",
+              "content": "归还碎片"
+            },
+            {
+              "id": "step_naruko_09",
+              "type": "choice",
+              "content": "只是错觉",
+              "prefix": "★"
+            },
+            {
+              "id": "step_naruko_11",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_naruko_12",
+              "type": "choice",
+              "content": "回应这份感情"
+            }
+          ]
+        },
+        {
+          "id": "ending_naruko_2",
+          "name": "奈留子 END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_naruko_13",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_naruko_14",
+              "type": "choice",
+              "content": "无法回应这份感情"
+            }
+          ]
+        },
+        {
+          "id": "ending_yuri_1",
+          "name": "百合 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_yuri_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_yuri_02",
+              "type": "choice",
+              "content": "不归还碎片"
+            },
+            {
+              "id": "step_yuri_04",
+              "type": "choice",
+              "content": "放弃"
+            },
+            {
+              "id": "step_yuri_05",
+              "type": "choice",
+              "content": "不归还碎片"
+            },
+            {
+              "id": "step_yuri_07",
+              "type": "save",
+              "content": "SAVE 6"
+            },
+            {
+              "id": "step_yuri_08",
+              "type": "choice",
+              "content": "归还碎片"
+            }
+          ]
+        },
+        {
+          "id": "ending_yuri_2",
+          "name": "百合 END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_yuri_09",
+              "type": "load",
+              "content": "LOAD 6"
+            },
+            {
+              "id": "step_yuri_10",
+              "type": "choice",
+              "content": "尊重百合的意志"
+            }
+          ]
+        },
+        {
+          "id": "ending_mizumo_1",
+          "name": "水萌 END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_mizumo_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_mizumo_02",
+              "type": "choice",
+              "content": "不归还碎片"
+            },
+            {
+              "id": "step_mizumo_04",
+              "type": "save",
+              "content": "SAVE 5"
+            },
+            {
+              "id": "step_mizumo_05",
+              "type": "choice",
+              "content": "为水萌加油"
+            }
+          ]
+        },
+        {
+          "id": "ending_mizumo_2",
+          "name": "水萌 END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_mizumo_06",
+              "type": "load",
+              "content": "LOAD 5"
+            },
+            {
+              "id": "step_mizumo_07",
+              "type": "choice",
+              "content": "制止水萌"
+            }
+          ]
+        },
+        {
+          "id": "ending_ain",
+          "name": "爱音 END",
+          "type": "normal",
+          "requirements": "上述三人攻略后",
+          "steps": [
+            {
+              "id": "step_ain_02",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_ain_03",
+              "type": "choice",
+              "content": "归还碎片"
+            },
+            {
+              "id": "step_ain_04",
+              "type": "choice",
+              "content": "他解决不了这个问题"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "vid": "v3746",
+  "name": {
+    "zh-cn": "实妹相伴的大泉君",
+    "ja-jp": "リアル妹がいる大泉くんのばあい",
+    "ja-Latn": "real-imouto-ga-iru-ooizumi-kun-no-baai"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-13",
+  "routes": [
+    {
+      "id": "route_1769605054564",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1769605069769",
+          "name": "美纪 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1769605194970",
+              "type": "choice",
+              "content": "仔细观察",
+              "group": "5月7日"
+            },
+            {
+              "id": "step_1769605195178",
+              "type": "choice",
+              "content": "不介意这些，去接栞",
+              "group": "5月12日"
+            },
+            {
+              "id": "step_1769605219785",
+              "type": "save",
+              "content": "SAVE 1",
+              "group": "5月16日"
+            },
+            {
+              "id": "step_1769605226228",
+              "type": "choice",
+              "content": "给吧，全部都交给美纪吧"
+            }
+          ]
+        },
+        {
+          "id": "ending_1769605069916",
+          "name": "麻衣 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1769605266631",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1769605267624",
+              "type": "choice",
+              "content": "哥哥的童贞是属于妹妹的",
+              "group": "5月16日"
+            }
+          ]
+        },
+        {
+          "id": "ending_1769605070170",
+          "name": "栞 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1769605298977",
+              "type": "note",
+              "content": "麻衣END后，最初选栞开始"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

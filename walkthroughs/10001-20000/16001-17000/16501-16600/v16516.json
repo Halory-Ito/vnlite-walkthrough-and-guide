@@ -1,0 +1,382 @@
+{
+  "vid": "v16516",
+  "name": {
+    "zh-cn": "由梦想与色彩编织而成",
+    "ja-jp": "夢と色でできている",
+    "ja-Latn": "yume-to-iro-de-dekiteiru"
+  },
+  "level": 2,
+  "updatedAt": "2026-05-12",
+  "tips": [
+    "一周目可攻略姬色、鸥、紫织，二周目可攻略云",
+    "4人END后会追加选项，可攻略恋"
+  ],
+  "routes": [
+    {
+      "id": "route_game_guide",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_himeiro_end",
+          "name": "飞鸟井姬色 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_himeiro_01",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_himeiro_02",
+              "type": "choice",
+              "content": "不回顾"
+            },
+            {
+              "id": "step_himeiro_03",
+              "type": "choice",
+              "content": "因为恋在包庇着那个人"
+            },
+            {
+              "id": "step_himeiro_04",
+              "type": "choice",
+              "content": "防卫军的再次组建"
+            },
+            {
+              "id": "step_himeiro_05",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_himeiro_06",
+              "type": "choice",
+              "content": "飞鸟井姬色"
+            },
+            {
+              "id": "step_himeiro_07",
+              "type": "choice",
+              "content": "恋爱"
+            },
+            {
+              "id": "step_himeiro_08",
+              "type": "choice",
+              "content": "没说对"
+            },
+            {
+              "id": "step_himeiro_09",
+              "type": "choice",
+              "content": "一起回去"
+            },
+            {
+              "id": "step_himeiro_10",
+              "type": "choice",
+              "content": "橙花小姐"
+            },
+            {
+              "id": "step_himeiro_11",
+              "type": "choice",
+              "content": "自己在这里等"
+            },
+            {
+              "id": "step_himeiro_12",
+              "type": "choice",
+              "content": "防卫部的活动室"
+            },
+            {
+              "id": "step_himeiro_13",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_himeiro_14",
+              "type": "choice",
+              "content": "之后再考虑"
+            },
+            {
+              "id": "step_himeiro_15",
+              "type": "choice",
+              "content": "回家"
+            },
+            {
+              "id": "step_himeiro_16",
+              "type": "choice",
+              "content": "直接回去"
+            },
+            {
+              "id": "step_himeiro_17",
+              "type": "choice",
+              "content": "红"
+            },
+            {
+              "id": "step_himeiro_18",
+              "type": "choice",
+              "content": "……人影？应该是错觉吧"
+            },
+            {
+              "id": "step_himeiro_19",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_himeiro_20",
+              "type": "choice",
+              "content": "肯定还带着的"
+            },
+            {
+              "id": "step_himeiro_21",
+              "type": "choice",
+              "content": "不接电话"
+            }
+          ]
+        },
+        {
+          "id": "ending_shiori_end",
+          "name": "七夕紫织 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_shiori_01",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_shiori_02",
+              "type": "choice",
+              "content": "肯定已经丢掉了"
+            },
+            {
+              "id": "step_shiori_03",
+              "type": "choice",
+              "content": "不接电话"
+            }
+          ]
+        },
+        {
+          "id": "ending_kamome_end",
+          "name": "黑羽鸥 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_kamome_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_kamome_02",
+              "type": "choice",
+              "content": "黑羽鸥"
+            },
+            {
+              "id": "step_kamome_03",
+              "type": "choice",
+              "content": "恋爱"
+            },
+            {
+              "id": "step_kamome_04",
+              "type": "choice",
+              "content": "说对了"
+            },
+            {
+              "id": "step_kamome_05",
+              "type": "choice",
+              "content": "不知道该怎么做"
+            },
+            {
+              "id": "step_kamome_06",
+              "type": "choice",
+              "content": "恋"
+            },
+            {
+              "id": "step_kamome_07",
+              "type": "choice",
+              "content": "交给英雄"
+            },
+            {
+              "id": "step_kamome_08",
+              "type": "choice",
+              "content": "警卫室"
+            },
+            {
+              "id": "step_kamome_09",
+              "type": "choice",
+              "content": "让它成佛"
+            },
+            {
+              "id": "step_kamome_10",
+              "type": "choice",
+              "content": "回家"
+            },
+            {
+              "id": "step_kamome_11",
+              "type": "choice",
+              "content": "直接回去"
+            },
+            {
+              "id": "step_kamome_12",
+              "type": "choice",
+              "content": "蓝"
+            },
+            {
+              "id": "step_kamome_13",
+              "type": "choice",
+              "content": "……人影？应该是错觉吧"
+            },
+            {
+              "id": "step_kamome_14",
+              "type": "choice",
+              "content": "肯定已经丢掉了"
+            },
+            {
+              "id": "step_kamome_15",
+              "type": "choice",
+              "content": "不接电话"
+            }
+          ]
+        },
+        {
+          "id": "ending_un_end",
+          "name": "刻乃云 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_un_01",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_un_02",
+              "type": "choice",
+              "content": "让它成佛"
+            },
+            {
+              "id": "step_un_03",
+              "type": "choice",
+              "content": "回家"
+            },
+            {
+              "id": "step_un_04",
+              "type": "choice",
+              "content": "直接回去"
+            },
+            {
+              "id": "step_un_05",
+              "type": "choice",
+              "content": "白"
+            },
+            {
+              "id": "step_un_06",
+              "type": "choice",
+              "content": "……人影？应该是错觉吧"
+            },
+            {
+              "id": "step_un_07",
+              "type": "choice",
+              "content": "肯定已经丢掉了"
+            },
+            {
+              "id": "step_un_08",
+              "type": "choice",
+              "content": "不接电话"
+            }
+          ]
+        },
+        {
+          "id": "ending_ren_end",
+          "name": "乙原恋 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_ren_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_ren_02",
+              "type": "choice",
+              "content": "回顾"
+            },
+            {
+              "id": "step_ren_03",
+              "type": "choice",
+              "content": "因为恋在包庇着那个人"
+            },
+            {
+              "id": "step_ren_04",
+              "type": "choice",
+              "content": "解决恋裸奔事件"
+            },
+            {
+              "id": "step_ren_05",
+              "type": "choice",
+              "content": "乙原恋"
+            },
+            {
+              "id": "step_ren_06",
+              "type": "choice",
+              "content": "恋爱"
+            },
+            {
+              "id": "step_ren_07",
+              "type": "choice",
+              "content": "说对了"
+            },
+            {
+              "id": "step_ren_08",
+              "type": "choice",
+              "content": "不知道该怎么做"
+            },
+            {
+              "id": "step_ren_09",
+              "type": "choice",
+              "content": "还不清楚"
+            },
+            {
+              "id": "step_ren_10",
+              "type": "choice",
+              "content": "交给英雄"
+            },
+            {
+              "id": "step_ren_11",
+              "type": "choice",
+              "content": "恋的房间"
+            },
+            {
+              "id": "step_ren_12",
+              "type": "choice",
+              "content": "让它成佛"
+            },
+            {
+              "id": "step_ren_13",
+              "type": "choice",
+              "content": "向绿打招呼"
+            },
+            {
+              "id": "step_ren_14",
+              "type": "choice",
+              "content": "目送她离开"
+            },
+            {
+              "id": "step_ren_15",
+              "type": "choice",
+              "content": "黑"
+            },
+            {
+              "id": "step_ren_16",
+              "type": "choice",
+              "content": "毫无疑问，有谁在那里"
+            },
+            {
+              "id": "step_ren_17",
+              "type": "choice",
+              "content": "肯定已经丢掉了"
+            },
+            {
+              "id": "step_ren_18",
+              "type": "choice",
+              "content": "接电话"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

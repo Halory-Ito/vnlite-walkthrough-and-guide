@@ -1,0 +1,151 @@
+{
+  "vid": "v30228",
+  "name": {
+    "zh-cn": "巧可甜恋2",
+    "en-us": "Amairo Chocolate 2",
+    "ja-jp": "あまいろショコラータ２",
+    "ja-Latn": "amairo-chocolata-2"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-14",
+  "routes": [
+    {
+      "id": "route_game",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_ichigo_end",
+          "name": "御园 草莓华 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_ichigo_001",
+              "type": "choice",
+              "content": "回想起来"
+            },
+            {
+              "id": "step_ichigo_002",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_ichigo_003",
+              "type": "choice",
+              "content": "在Sweet Tail工作"
+            },
+            {
+              "id": "step_ichigo_004",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_ichigo_005",
+              "type": "choice",
+              "content": "想要得到"
+            },
+            {
+              "id": "step_ichigo_006",
+              "type": "choice",
+              "content": "我想要草莓华的巧克力"
+            },
+            {
+              "id": "step_ichigo_007",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_ichigo_008",
+              "type": "choice",
+              "content": "找草莓华"
+            }
+          ]
+        },
+        {
+          "id": "ending_nana_end",
+          "name": "舞羽 娜娜 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_nana_001",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_nana_002",
+              "type": "choice",
+              "content": "寻找娜娜"
+            }
+          ]
+        },
+        {
+          "id": "ending_kaguya_end",
+          "name": "百百濑 辉夜 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_kaguya_001",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_kaguya_002",
+              "type": "choice",
+              "content": "在Mochizuki工作"
+            }
+          ]
+        },
+        {
+          "id": "ending_normal_end1",
+          "name": "Normal END 1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_normal1_001",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_normal1_002",
+              "type": "choice",
+              "content": "无法选择"
+            }
+          ]
+        },
+        {
+          "id": "ending_normal_end2",
+          "name": "Normal END 2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_normal2_001",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_normal2_002",
+              "type": "choice",
+              "content": "如果可以的话......"
+            },
+            {
+              "id": "step_normal2_003",
+              "type": "choice",
+              "content": "不用勉强"
+            }
+          ]
+        },
+        {
+          "id": "ending_harem_end",
+          "name": "后宫 END",
+          "type": "normal",
+          "requirements": "完成以上END后可从标题画面开始",
+          "steps": [
+            {
+              "type": "choice",
+              "content": "（源站步骤均为空）"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

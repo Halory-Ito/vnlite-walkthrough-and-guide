@@ -1,0 +1,93 @@
+{
+  "vid": "v21501",
+  "name": {
+    "zh-cn": "近月少女的礼仪2.2",
+    "ja-jp": "月に寄りそう乙女の作法2.2 A×L+SA!!",
+    "ja-Latn": "tsuki-ni-yorisou-otome-no-sahou-2-2"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-14",
+  "routes": [
+    {
+      "id": "route_rumine_after",
+      "name": "大蔵 ルミネ After",
+      "endings": [
+        {
+          "id": "ending_rumine_end",
+          "name": "ルミネ END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_rum_01",
+              "type": "choice",
+              "content": "弟弟般的关系"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_sakuya_after",
+      "name": "八日堂 朔莉 After",
+      "endings": [
+        {
+          "id": "ending_sakuya_after_end",
+          "name": "朔莉 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_sak_01",
+              "type": "note",
+              "content": "无选项"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_atre_story",
+      "name": "アトレ STORY",
+      "endings": [
+        {
+          "id": "ending_atre_end",
+          "name": "アトレ END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_atre_01",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_atre_02",
+              "type": "choice",
+              "content": "不想体验那么悲惨的心情"
+            },
+            {
+              "id": "step_atre_03",
+              "type": "choice",
+              "content": "用手请求/九字护身法"
+            }
+          ]
+        },
+        {
+          "id": "ending_atre_bad",
+          "name": "アトレ BAD END",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_atrb_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_atrb_02",
+              "type": "choice",
+              "content": "用手请求"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

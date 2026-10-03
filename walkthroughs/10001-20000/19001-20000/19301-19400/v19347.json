@@ -1,0 +1,1603 @@
+{
+  "vid": "v19347",
+  "name": {
+    "zh-cn": "与她＊心渐近",
+    "ja-jp": "カノジョ＊ステップ",
+    "ja-Latn": "kanojo-step"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-12",
+  "routes": [
+    {
+      "id": "route_1756541151118",
+      "name": "华野 椎名",
+      "endings": [
+        {
+          "id": "ending_1756541152927",
+          "name": "椎名 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756541223513",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1756541224994",
+              "type": "choice",
+              "content": "地图：学校一楼：食堂：椎名",
+              "group": "4/18"
+            },
+            {
+              "id": "step_1756541237681",
+              "type": "choice",
+              "content": "一起以星光大道作为目标吧",
+              "group": "4/18"
+            },
+            {
+              "id": "step_1756541242446",
+              "type": "choice",
+              "content": "地图：学校二楼：3年级教室：椎名",
+              "group": "4/20"
+            },
+            {
+              "id": "step_1756541242565",
+              "type": "choice",
+              "content": "既然如此要牵手吗",
+              "group": "4/20"
+            },
+            {
+              "id": "step_1756541242744",
+              "type": "choice",
+              "content": "地图：学校一楼：食堂：椎名",
+              "group": "4/22"
+            },
+            {
+              "id": "step_1756541243034",
+              "type": "choice",
+              "content": "不太适合呢",
+              "group": "4/22"
+            },
+            {
+              "id": "step_1756541243333",
+              "type": "choice",
+              "content": "地图：学校二楼：三年级教室：椎名",
+              "group": "4/25"
+            },
+            {
+              "id": "step_1756541252434",
+              "type": "choice",
+              "content": "相合伞是青春！",
+              "group": "4/25"
+            },
+            {
+              "id": "step_1756541252569",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1756541252704",
+              "type": "choice",
+              "content": "地图：体育馆：温室：椎名",
+              "group": "4/27"
+            },
+            {
+              "id": "step_1756541252831",
+              "type": "choice",
+              "content": "不错吧......我下次会使出全力的※进度LV3",
+              "group": "4/27"
+            },
+            {
+              "id": "step_1756541325729",
+              "type": "choice",
+              "content": "地图：体育馆：观赏长廊：椎名",
+              "group": "4/29"
+            },
+            {
+              "id": "step_1756541325871",
+              "type": "choice",
+              "content": "从平均值考虑，是有点高呢",
+              "group": "4/29"
+            },
+            {
+              "id": "step_1756541326032",
+              "type": "choice",
+              "content": "⇒谁也不见",
+              "group": "5/02"
+            },
+            {
+              "id": "step_1756541326181",
+              "type": "choice",
+              "content": "地图：学校一楼：图书馆：椎名",
+              "group": "5/04"
+            },
+            {
+              "id": "step_1756541326317",
+              "type": "choice",
+              "content": "好了。正坐",
+              "group": "5/04"
+            },
+            {
+              "id": "step_1756541326457",
+              "type": "choice",
+              "content": "地图：学校一楼：楼梯口：椎名",
+              "group": "5/06"
+            },
+            {
+              "id": "step_1756541326614",
+              "type": "choice",
+              "content": "前辈去做的话就更厉害了",
+              "group": "5/06"
+            },
+            {
+              "id": "step_1756541326894",
+              "type": "choice",
+              "content": "说了一些多余的话真是对不起",
+              "group": "5/07"
+            },
+            {
+              "id": "step_1756541327064",
+              "type": "choice",
+              "content": "到底是从哪里开始听的？",
+              "group": "5/07"
+            },
+            {
+              "id": "step_1756541327207",
+              "type": "choice",
+              "content": "⇒谁也不见",
+              "group": "5/09"
+            },
+            {
+              "id": "step_1756541327355",
+              "type": "choice",
+              "content": "地图：体育馆：温室：椎名",
+              "group": "5/11"
+            },
+            {
+              "id": "step_1756541434329",
+              "type": "choice",
+              "content": "这种事和我没什么关系※进度LV4",
+              "group": "5/11"
+            },
+            {
+              "id": "step_1756541434467",
+              "type": "choice",
+              "content": "地图：学校一楼：食堂：椎名",
+              "group": "5/13"
+            },
+            {
+              "id": "step_1756541434616",
+              "type": "choice",
+              "content": "我也要以积极的方式思考活下去",
+              "group": "5/13"
+            },
+            {
+              "id": "step_1756541434727",
+              "type": "choice",
+              "content": "地图：学校一楼：教职员办公室：椎名",
+              "group": "5/16"
+            },
+            {
+              "id": "step_1756541434852",
+              "type": "choice",
+              "content": "请一定让我用一下",
+              "group": "5/16"
+            },
+            {
+              "id": "step_1756541435001",
+              "type": "choice",
+              "content": "⇒谁也不见",
+              "group": "5/18"
+            },
+            {
+              "id": "step_1756541435152",
+              "type": "choice",
+              "content": "地图：学校一楼：食堂：椎名",
+              "group": "5/20"
+            },
+            {
+              "id": "step_1756541435290",
+              "type": "choice",
+              "content": "说起来，稍微依赖一下我也可以哦？",
+              "group": "5/20"
+            },
+            {
+              "id": "step_1756541524804",
+              "type": "choice",
+              "content": "前辈，果然是一个漂亮的女生啊",
+              "group": "5/21"
+            },
+            {
+              "id": "step_1756541524946",
+              "type": "choice",
+              "content": "我想让咱们现在的关系更近一步",
+              "group": "5/21"
+            },
+            {
+              "id": "step_1756541525226",
+              "type": "choice",
+              "content": "地图：学校二楼：三年级教室：椎名",
+              "group": "5/23"
+            },
+            {
+              "id": "step_1756541525433",
+              "type": "choice",
+              "content": "告白",
+              "group": "5/23"
+            },
+            {
+              "id": "step_1756541525561",
+              "type": "save",
+              "content": "SAVE 3",
+              "subfix": "剧本分歧回收使用",
+              "group": "椎名篇"
+            },
+            {
+              "id": "step_1756541525689",
+              "type": "choice",
+              "content": "公开交往/暂时偷偷交往",
+              "group": "椎名篇"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756541620966",
+      "name": "如月 乃绘",
+      "endings": [
+        {
+          "id": "ending_1756541642172",
+          "name": "乃绘 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756541808815",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1756541819153",
+              "type": "choice",
+              "content": "地图：学校二楼：二年级教室：乃绘",
+              "group": "4/18"
+            },
+            {
+              "id": "step_1756541819330",
+              "type": "choice",
+              "content": "时常考虑，时常不考虑",
+              "group": "4/18"
+            },
+            {
+              "id": "step_1756541819486",
+              "type": "choice",
+              "content": "地图：学校一楼：图书馆：乃绘",
+              "group": "4/20"
+            },
+            {
+              "id": "step_1756541819633",
+              "type": "choice",
+              "content": "不如说我想帮你挖耳朵",
+              "group": "4/20"
+            },
+            {
+              "id": "step_1756541819770",
+              "type": "choice",
+              "content": "地图：学校一楼：出口：乃绘",
+              "group": "4/22"
+            },
+            {
+              "id": "step_1756541819924",
+              "type": "choice",
+              "content": "我也觉得平时的日常是最好的※进度LV2",
+              "group": "4/22"
+            },
+            {
+              "id": "step_1756541820069",
+              "type": "choice",
+              "content": "地图：学校一楼：图书馆：乃绘",
+              "group": "4/25"
+            },
+            {
+              "id": "step_1756541820359",
+              "type": "choice",
+              "content": "乃绘老师真的让人忍不住想要去捉弄一下",
+              "group": "4/25"
+            },
+            {
+              "id": "step_1756541820536",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_1756541820793",
+              "type": "choice",
+              "content": "地图：学校一楼：食堂：乃绘",
+              "group": "4/27"
+            },
+            {
+              "id": "step_1756541821273",
+              "type": "choice",
+              "content": "如果乃绘老师帮我按摩的话※进度LV3",
+              "group": "4/27"
+            },
+            {
+              "id": "step_1756541821430",
+              "type": "choice",
+              "content": "地图：学校一楼：出口：乃绘",
+              "group": "4/29"
+            },
+            {
+              "id": "step_1756541821607",
+              "type": "choice",
+              "content": "幸福",
+              "group": "4/29"
+            },
+            {
+              "id": "step_1756541821754",
+              "type": "choice",
+              "content": "地图：学校二楼：二年级教室：乃绘",
+              "group": "5/02"
+            },
+            {
+              "id": "step_1756541821897",
+              "type": "choice",
+              "content": "如月",
+              "group": "5/02"
+            },
+            {
+              "id": "step_1756541822029",
+              "type": "choice",
+              "content": "地图：体育馆：观赏长廊：乃绘",
+              "group": "5/04"
+            },
+            {
+              "id": "step_1756541822164",
+              "type": "choice",
+              "content": "我觉得没必要那么的在意啊",
+              "group": "5/04"
+            },
+            {
+              "id": "step_1756541822309",
+              "type": "choice",
+              "content": "地图：学校二楼：二楼走廊：乃绘",
+              "group": "5/06"
+            },
+            {
+              "id": "step_1756541822424",
+              "type": "choice",
+              "content": "狐狸很可爱啊",
+              "group": "5/06"
+            },
+            {
+              "id": "step_1756541822553",
+              "type": "choice",
+              "content": "这个反而有问题啊！",
+              "group": "5/07"
+            },
+            {
+              "id": "step_1756541987720",
+              "type": "choice",
+              "content": "问一下关于她喜欢类型男生的事情",
+              "group": "5/07"
+            },
+            {
+              "id": "step_1756541987852",
+              "type": "choice",
+              "content": "地图：学校二楼：二年级教室：乃绘",
+              "group": "5/09"
+            },
+            {
+              "id": "step_1756541987999",
+              "type": "choice",
+              "content": "应该是可爱吧※进度LV4",
+              "group": "5/09"
+            },
+            {
+              "id": "step_1756541988145",
+              "type": "choice",
+              "content": "地图：学校一楼：教职工办公室：乃绘",
+              "group": "5/11"
+            },
+            {
+              "id": "step_1756541988280",
+              "type": "choice",
+              "content": "容我谢绝",
+              "group": "5/11"
+            },
+            {
+              "id": "step_1756541988409",
+              "type": "choice",
+              "content": "地图：学校一楼：图书馆：乃绘",
+              "group": "5/13"
+            },
+            {
+              "id": "step_1756541988539",
+              "type": "choice",
+              "content": "乃绘老师好可怕",
+              "group": "5/13"
+            },
+            {
+              "id": "step_1756541988666",
+              "type": "choice",
+              "content": "地图：学校一楼：食堂：乃绘",
+              "group": "5/16"
+            },
+            {
+              "id": "step_1756541988767",
+              "type": "choice",
+              "content": "虽然逊毙了但诉说真心话要好点吗",
+              "group": "5/16"
+            },
+            {
+              "id": "step_1756541988907",
+              "type": "choice",
+              "content": "不能放任你不管呢",
+              "group": "5/17"
+            },
+            {
+              "id": "step_1756542087238",
+              "type": "choice",
+              "content": "那是环她们的错",
+              "group": "5/17"
+            },
+            {
+              "id": "step_1756542087385",
+              "type": "choice",
+              "content": "地图：学校二楼：二年级教室：乃绘",
+              "group": "5/18"
+            },
+            {
+              "id": "step_1756542087510",
+              "type": "choice",
+              "content": "告白",
+              "group": "5/18"
+            },
+            {
+              "id": "step_1756542087645",
+              "type": "save",
+              "content": "SAVE 5",
+              "subfix": "(剧本分歧回收使用)",
+              "group": "乃绘篇"
+            },
+            {
+              "id": "step_1756542087778",
+              "type": "choice",
+              "content": "去光明正大的打招呼/害羞死人了，逃走吧",
+              "group": "乃绘篇"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756542157142",
+      "name": "柳 明日香",
+      "endings": [
+        {
+          "id": "ending_1756542160409",
+          "name": "明日香 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756542162455",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1756542164677",
+              "type": "note",
+              "content": "※(或在开始游戏时选择从日常校园生活开始)"
+            },
+            {
+              "id": "step_1756542172175",
+              "type": "choice",
+              "content": "地图：体育馆：体育馆：明日香",
+              "group": "４／１８"
+            },
+            {
+              "id": "step_1756542172348",
+              "type": "choice",
+              "content": "老实说，还是有点难受......",
+              "group": "４／１８"
+            },
+            {
+              "id": "step_1756542172523",
+              "type": "choice",
+              "content": "地图：学校一楼：校内：明日香",
+              "group": "４／２０"
+            },
+            {
+              "id": "step_1756542172708",
+              "type": "choice",
+              "content": "柳你表演得太逼真了",
+              "group": "４／２０"
+            },
+            {
+              "id": "step_1756542172843",
+              "type": "choice",
+              "content": "地图：体育馆：观赏长廊：明日香",
+              "group": "４／２２"
+            },
+            {
+              "id": "step_1756542173324",
+              "type": "choice",
+              "content": "我觉得柳现在就挺好的哦？※进度LV2",
+              "group": "４／２２"
+            },
+            {
+              "id": "step_1756542173493",
+              "type": "choice",
+              "content": "⇒谁也不见",
+              "group": "４／２５"
+            },
+            {
+              "id": "step_1756542173623",
+              "type": "choice",
+              "content": "地图：学校一楼：校内：明日香",
+              "group": "４／２７"
+            },
+            {
+              "id": "step_1756542173750",
+              "type": "choice",
+              "content": "觉得自己也想看看堕落了的柳的样子",
+              "group": "４／２７"
+            },
+            {
+              "id": "step_1756542174192",
+              "type": "choice",
+              "content": "地图：学校二楼：二楼走廊：明日香",
+              "group": "４／２９"
+            },
+            {
+              "id": "step_1756542174359",
+              "type": "choice",
+              "content": "真合适，超可爱",
+              "group": "４／２９"
+            },
+            {
+              "id": "step_1756542174634",
+              "type": "choice",
+              "content": "地图：体育馆：体育馆：明日香",
+              "group": "５／０２"
+            },
+            {
+              "id": "step_1756542174807",
+              "type": "choice",
+              "content": "这个不是挺适合柳的吗？※进度LV3",
+              "group": "５／０２"
+            },
+            {
+              "id": "step_1756542174942",
+              "type": "choice",
+              "content": "地图：学校二楼：二楼走廊：明日香",
+              "group": "５／０４"
+            },
+            {
+              "id": "step_1756542175077",
+              "type": "choice",
+              "content": "请教我让手部皮肤保持光滑的秘诀",
+              "group": "５／０４"
+            },
+            {
+              "id": "step_1756542175224",
+              "type": "choice",
+              "content": "地图：学校二楼：二年级教室：明日香",
+              "group": "５／０６"
+            },
+            {
+              "id": "step_1756542175359",
+              "type": "choice",
+              "content": "心为之怦然一跳",
+              "group": "５／０６"
+            },
+            {
+              "id": "step_1756542175486",
+              "type": "choice",
+              "content": "地图：学校一楼：校内：明日香",
+              "group": "５／０９"
+            },
+            {
+              "id": "step_1756542175630",
+              "type": "choice",
+              "content": "我加入柳的海贼团所以就原谅我吧",
+              "group": "５／０９"
+            },
+            {
+              "id": "step_1756542175792",
+              "type": "choice",
+              "content": "你要是真心想那么做，还是算了吧",
+              "group": "５／１０"
+            },
+            {
+              "id": "step_1756542175957",
+              "type": "choice",
+              "content": "最近总觉得有点不对劲呢",
+              "group": "５／１０"
+            },
+            {
+              "id": "step_1756542176105",
+              "type": "choice",
+              "content": "⇒谁也不见",
+              "group": "５／１１"
+            },
+            {
+              "id": "step_1756542176232",
+              "type": "choice",
+              "content": "地图：学校二楼：二年级教室：明日香",
+              "group": "５／１３"
+            },
+            {
+              "id": "step_1756542176367",
+              "type": "choice",
+              "content": "试试探过头来看看脸怎么样？※进度LV4",
+              "group": "５／１３"
+            },
+            {
+              "id": "step_1756542176511",
+              "type": "choice",
+              "content": "地图：体育馆：体育馆：明日香",
+              "group": "５／１６"
+            },
+            {
+              "id": "step_1756542176661",
+              "type": "choice",
+              "content": "专门给柳的......",
+              "group": "５／１６"
+            },
+            {
+              "id": "step_1756542176818",
+              "type": "choice",
+              "content": "地图：学校一楼：校内：明日香",
+              "group": "５／１８"
+            },
+            {
+              "id": "step_1756542406383",
+              "type": "choice",
+              "content": "让我看看？",
+              "group": "５／１８"
+            },
+            {
+              "id": "step_1756542406548",
+              "type": "choice",
+              "content": "地图：学校二楼：二楼走廊：明日香",
+              "group": "５／２０"
+            },
+            {
+              "id": "step_1756542406783",
+              "type": "choice",
+              "content": "更加用力",
+              "group": "５／２０"
+            },
+            {
+              "id": "step_1756542406956",
+              "type": "choice",
+              "content": "我，现在表情很怪吗？",
+              "group": "５／２１"
+            },
+            {
+              "id": "step_1756542407120",
+              "type": "choice",
+              "content": "尝试转向“结缘日”相关的话题",
+              "group": "５／２１"
+            },
+            {
+              "id": "step_1756542407277",
+              "type": "choice",
+              "content": "地图：体育馆：体育馆：明日香",
+              "group": "５／２３"
+            },
+            {
+              "id": "step_1756542407435",
+              "type": "choice",
+              "content": "告白",
+              "group": "５／２３"
+            },
+            {
+              "id": "step_1756542407601",
+              "type": "save",
+              "content": "SAVE 6",
+              "subfix": "(剧本分歧回收使用)",
+              "group": "明日香篇"
+            },
+            {
+              "id": "step_1756542407756",
+              "type": "choice",
+              "content": "说出交往的事/不说交往的事",
+              "group": "明日香篇"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756542520252",
+      "name": "芹沢 久远",
+      "endings": [
+        {
+          "id": "ending_1756542526490",
+          "name": "久远 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756542529496",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1756542530475",
+              "type": "note",
+              "content": "※(或在开始游戏时选择从日常校园生活开始)"
+            },
+            {
+              "id": "step_1756542534375",
+              "type": "choice",
+              "content": "地图：学校二楼：化学室：久远",
+              "group": "４／１８"
+            },
+            {
+              "id": "step_1756542534536",
+              "type": "choice",
+              "content": "你还能做到更厉害的事吧？",
+              "group": "４／１８"
+            },
+            {
+              "id": "step_1756542534708",
+              "type": "choice",
+              "content": "地图：学校二楼：化学室：久远",
+              "group": "４／２０"
+            },
+            {
+              "id": "step_1756542534880",
+              "type": "choice",
+              "content": "没事，就随口问问而已",
+              "group": "４／２０"
+            },
+            {
+              "id": "step_1756542535068",
+              "type": "choice",
+              "content": "地图：学校一楼：一年级教室：久远",
+              "group": "４／２２"
+            },
+            {
+              "id": "step_1756542535258",
+              "type": "choice",
+              "content": "你还真坚强啊※进度LV2",
+              "group": "４／２２"
+            },
+            {
+              "id": "step_1756542535432",
+              "type": "choice",
+              "content": "⇒谁也不见",
+              "group": "４／２５"
+            },
+            {
+              "id": "step_1756542536324",
+              "type": "choice",
+              "content": "地图：学校二楼：化学室：久远",
+              "group": "４／２７"
+            },
+            {
+              "id": "step_1756542536485",
+              "type": "choice",
+              "content": "你",
+              "group": "４／２７"
+            },
+            {
+              "id": "step_1756542536666",
+              "type": "choice",
+              "content": "地图：学校一楼：一楼走廊：久远",
+              "group": "４／２９"
+            },
+            {
+              "id": "step_1756542536840",
+              "type": "choice",
+              "content": "就说没试过就说讨厌是不对的吧？",
+              "group": "４／２９"
+            },
+            {
+              "id": "step_1756542537015",
+              "type": "choice",
+              "content": "地图：体育馆：观赏长廊：久远",
+              "group": "５／０２"
+            },
+            {
+              "id": "step_1756542537181",
+              "type": "choice",
+              "content": "没关系啊※进度LV3",
+              "group": "５／０２"
+            },
+            {
+              "id": "step_1756542537384",
+              "type": "choice",
+              "content": "⇒谁也不见",
+              "group": "５／０４"
+            },
+            {
+              "id": "step_1756542537558",
+              "type": "choice",
+              "content": "地图：学校一楼：一年级教室：久远",
+              "group": "５／０６"
+            },
+            {
+              "id": "step_1756542537731",
+              "type": "choice",
+              "content": "大份",
+              "group": "５／０６"
+            },
+            {
+              "id": "step_1756542537914",
+              "type": "choice",
+              "content": "地图：学校二楼：化学室：久远",
+              "group": "５／０９"
+            },
+            {
+              "id": "step_1756542538108",
+              "type": "choice",
+              "content": "不如说更想了解久远的事情",
+              "group": "５／０９"
+            },
+            {
+              "id": "step_1756542538295",
+              "type": "choice",
+              "content": "刚才其实挺紧张的吧？",
+              "group": "５／１０"
+            },
+            {
+              "id": "step_1756542538504",
+              "type": "choice",
+              "content": "讲关于恋爱的话题",
+              "group": "５／１０"
+            },
+            {
+              "id": "step_1756542538691",
+              "type": "choice",
+              "content": "地图：学校一楼：楼梯口：久远",
+              "group": "５／１１"
+            },
+            {
+              "id": "step_1756542538878",
+              "type": "choice",
+              "content": "红茶好厉害啊※进度LV4",
+              "group": "５／１１"
+            },
+            {
+              "id": "step_1756542539064",
+              "type": "choice",
+              "content": "地图：体育馆：观赏长廊：久远",
+              "group": "５／１３"
+            },
+            {
+              "id": "step_1756542539255",
+              "type": "choice",
+              "content": "因为对方是可爱的学妹",
+              "group": "５／１３"
+            },
+            {
+              "id": "step_1756542539461",
+              "type": "choice",
+              "content": "地图：学校一楼：校内：久远",
+              "group": "５／１６"
+            },
+            {
+              "id": "step_1756542767747",
+              "type": "choice",
+              "content": "你自己玩吧",
+              "group": "５／１６"
+            },
+            {
+              "id": "step_1756542767969",
+              "type": "choice",
+              "content": "地图：学校一楼：一年级教室：久远",
+              "group": "５／１８"
+            },
+            {
+              "id": "step_1756542768196",
+              "type": "choice",
+              "content": "正位恋人",
+              "group": "５／１８"
+            },
+            {
+              "id": "step_1756542768426",
+              "type": "choice",
+              "content": "地图：学校二楼：化学室：久远",
+              "group": "５／２０"
+            },
+            {
+              "id": "step_1756542768650",
+              "type": "choice",
+              "content": "能够收下的东西，就应该收下"
+            },
+            {
+              "id": "step_1756542768865",
+              "type": "choice",
+              "content": "地图：学校一楼：一楼走廊：久远",
+              "group": "５／２３"
+            },
+            {
+              "id": "step_1756542769080",
+              "type": "choice",
+              "content": "告白",
+              "group": "５／２３"
+            },
+            {
+              "id": "step_1756542769295",
+              "type": "save",
+              "content": "SAVE 7",
+              "subfix": "(剧本分歧回收使用)",
+              "group": "久远篇"
+            },
+            {
+              "id": "step_1756542769532",
+              "type": "choice",
+              "content": "公开恋情/不公开恋情",
+              "group": "久远篇"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756542862486",
+      "name": "岡田 富美子",
+      "endings": [
+        {
+          "id": "ending_1756542867313",
+          "name": "富美子 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756542870372",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1756542870812",
+              "type": "note",
+              "content": "※(或在开始游戏时选择从日常校园生活开始)"
+            },
+            {
+              "id": "step_1756542877334",
+              "type": "choice",
+              "content": "地图：学校二楼：二楼走廊：？？？flag",
+              "group": "４／１８"
+            },
+            {
+              "id": "step_1756542877820",
+              "type": "choice",
+              "content": "地图：学校一楼：楼梯口：？？？flag",
+              "group": "４／２０"
+            },
+            {
+              "id": "step_1756542878060",
+              "type": "choice",
+              "content": "⇒谁也不见",
+              "group": "４／２２"
+            },
+            {
+              "id": "step_1756542878322",
+              "type": "choice",
+              "content": "地图：学校一楼：一楼走廊：？？？flag",
+              "group": "４／２５"
+            },
+            {
+              "id": "step_1756542878565",
+              "type": "choice",
+              "content": "⇒谁也不见",
+              "group": "４／２７"
+            },
+            {
+              "id": "step_1756542878811",
+              "type": "choice",
+              "content": "⇒谁也不见",
+              "group": "４／２９"
+            },
+            {
+              "id": "step_1756542879065",
+              "type": "choice",
+              "content": "⇒谁也不见",
+              "group": "５／０２"
+            },
+            {
+              "id": "step_1756542879304",
+              "type": "choice",
+              "content": "地图：学校一楼：楼梯口：？？？flag",
+              "group": "５／０４"
+            },
+            {
+              "id": "step_1756542881764",
+              "type": "choice",
+              "content": "⇒谁也不见",
+              "group": "５／０６"
+            },
+            {
+              "id": "step_1756542881994",
+              "type": "choice",
+              "content": "地图：学校二楼：二楼走廊：？？？flag",
+              "group": "５／０９"
+            },
+            {
+              "id": "step_1756542882231",
+              "type": "choice",
+              "content": "地图：学校一楼：一楼走廊：富美子",
+              "group": "５／１１"
+            },
+            {
+              "id": "step_1756543009141",
+              "type": "choice",
+              "content": "你真的以为不用测试了吗※进度LV2",
+              "group": "５／１１"
+            },
+            {
+              "id": "step_1756543009373",
+              "type": "choice",
+              "content": "地图：学校一楼：出口：富美子",
+              "group": "５／１３"
+            },
+            {
+              "id": "step_1756543009612",
+              "type": "choice",
+              "content": "不如说我也想被爱",
+              "group": "５／１３"
+            },
+            {
+              "id": "step_1756543009845",
+              "type": "choice",
+              "content": "⇒谁也不见",
+              "group": "５／１６"
+            },
+            {
+              "id": "step_1756543010106",
+              "type": "choice",
+              "content": "地图：学校一楼：一楼走廊：富美子",
+              "group": "５／１８"
+            },
+            {
+              "id": "step_1756543010355",
+              "type": "choice",
+              "content": "比起脂肪好像是肌肉更加重哦",
+              "group": "５／１８"
+            },
+            {
+              "id": "step_1756543353876",
+              "type": "choice",
+              "content": "地图：学校一楼：校内：富美子",
+              "group": "５／２０"
+            },
+            {
+              "id": "step_1756543354141",
+              "type": "choice",
+              "content": "有点遗憾呢",
+              "group": "５／２０"
+            },
+            {
+              "id": "step_1756543354395",
+              "type": "choice",
+              "content": "⇒谁也不见",
+              "group": "５／２３"
+            },
+            {
+              "id": "step_1756543354654",
+              "type": "choice",
+              "content": "⇒谁也不见",
+              "group": "５／２５"
+            },
+            {
+              "id": "step_1756543354908",
+              "type": "choice",
+              "content": "地图：学校一楼：一楼走廊：富美子",
+              "group": "５／２７"
+            },
+            {
+              "id": "step_1756543355187",
+              "type": "choice",
+              "content": "这不是学会了吗※进度LV3",
+              "group": "５／２７"
+            },
+            {
+              "id": "step_1756543355444",
+              "type": "choice",
+              "content": "⇒谁也不见",
+              "group": "５／３０"
+            },
+            {
+              "id": "step_1756543355711",
+              "type": "choice",
+              "content": "地图：学校一楼：食堂：富美子",
+              "group": "６／１"
+            },
+            {
+              "id": "step_1756543355995",
+              "type": "choice",
+              "content": "主人",
+              "group": "６／１"
+            },
+            {
+              "id": "step_1756543356298",
+              "type": "choice",
+              "content": "地图：学校一楼：楼梯口：富美子",
+              "group": "６／３"
+            },
+            {
+              "id": "step_1756543356669",
+              "type": "choice",
+              "content": "富美子呢？",
+              "group": "６／３"
+            },
+            {
+              "id": "step_1756543356957",
+              "type": "choice",
+              "content": "地图：学校一楼：一楼走廊：富美子",
+              "group": "６／６"
+            },
+            {
+              "id": "step_1756543357412",
+              "type": "choice",
+              "content": "内裤，是粉色的吧",
+              "group": "６／６"
+            },
+            {
+              "id": "step_1756543357686",
+              "type": "choice",
+              "content": "⇒谁也不见",
+              "group": "６／８"
+            },
+            {
+              "id": "step_1756543358076",
+              "type": "choice",
+              "content": "地图：学校一楼：出口：富美子",
+              "group": "６／１０"
+            },
+            {
+              "id": "step_1756543358376",
+              "type": "choice",
+              "content": "告白",
+              "group": "６／１０"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756543503974",
+      "name": "吃醋事件回收",
+      "endings": [
+        {
+          "id": "ending_1756543508948",
+          "name": "椎名＆久远",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756543548174",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1756543553233",
+              "type": "choice",
+              "content": "地图：学校二楼：化学室：久远",
+              "group": "４／２７"
+            },
+            {
+              "id": "step_1756543553523",
+              "type": "choice",
+              "content": "你还能做到更厉害的事吧？",
+              "group": "４／２７"
+            },
+            {
+              "id": "step_1756543554886",
+              "type": "choice",
+              "content": "地图：学校一楼：一楼走廊：久远",
+              "group": "４／２９"
+            },
+            {
+              "id": "step_1756543555173",
+              "type": "choice",
+              "content": "没事，就随口问问而已",
+              "group": "４／２９"
+            },
+            {
+              "id": "step_1756543555444",
+              "type": "choice",
+              "content": "地图：体育馆：观赏长廊：久远",
+              "group": "５／０２"
+            },
+            {
+              "id": "step_1756543555735",
+              "type": "choice",
+              "content": "不，也没特别想",
+              "group": "５／０２"
+            },
+            {
+              "id": "step_1756543556021",
+              "type": "choice",
+              "content": "⇒谁也不见",
+              "group": "５／０４"
+            },
+            {
+              "id": "step_1756543556299",
+              "type": "choice",
+              "content": "地图：学校一楼：一年级教室：久远",
+              "group": "５／０６"
+            },
+            {
+              "id": "step_1756543556576",
+              "type": "choice",
+              "content": "你还真坚强啊※进度LV2"
+            },
+            {
+              "id": "step_1756543556888",
+              "type": "choice",
+              "content": "地图：学校二楼：化学室：久远",
+              "group": "５／０９"
+            },
+            {
+              "id": "step_1756543557187",
+              "type": "choice",
+              "content": "你",
+              "group": "５／０９"
+            },
+            {
+              "id": "step_1756543557475",
+              "type": "choice",
+              "content": "地图：学校一楼：楼梯口：久远",
+              "group": "５／１１"
+            },
+            {
+              "id": "step_1756543557830",
+              "type": "choice",
+              "content": "就说没试过就说讨厌是不对的吧？",
+              "group": "５／１１"
+            },
+            {
+              "id": "step_1756543558113",
+              "type": "choice",
+              "content": "地图：学校一楼：食堂：椎名",
+              "group": "５／１３"
+            },
+            {
+              "id": "step_1756543558420",
+              "type": "choice",
+              "content": "不错吧......我下次会使出全力的",
+              "group": "５／１３"
+            },
+            {
+              "id": "step_1756543558777",
+              "type": "save",
+              "content": "SAVE 8"
+            },
+            {
+              "id": "step_1756543559103",
+              "type": "choice",
+              "content": "地图：学校一楼：教职员办公室：椎名",
+              "group": "５／１６"
+            },
+            {
+              "id": "step_1756543559403",
+              "type": "choice",
+              "content": "从平均值考虑，是有点高呢※进度LV3",
+              "group": "５／１６"
+            },
+            {
+              "id": "step_1756543559701",
+              "type": "choice",
+              "content": "⇒谁也不见",
+              "group": "５／１８"
+            },
+            {
+              "id": "step_1756543722148",
+              "type": "choice",
+              "content": "地图：学校一楼：食堂：椎名",
+              "group": "５／２０"
+            },
+            {
+              "id": "step_1756543722442",
+              "type": "choice",
+              "content": "好了。正座",
+              "group": "５／２０"
+            },
+            {
+              "id": "step_1756543722766",
+              "type": "choice",
+              "content": "说了一些多余的话真是对不起。",
+              "group": "５／２１"
+            },
+            {
+              "id": "step_1756543723077",
+              "type": "choice",
+              "content": "到底是从哪里开始听的？",
+              "group": "５／２１"
+            },
+            {
+              "id": "step_1756543723400",
+              "type": "choice",
+              "content": "地图：体育馆：观赏长廊",
+              "group": "５／２３"
+            }
+          ]
+        },
+        {
+          "id": "ending_1756543770949",
+          "name": "久远",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756543777708",
+              "type": "load",
+              "content": "LOAD 8"
+            },
+            {
+              "id": "step_1756543785521",
+              "type": "choice",
+              "content": "地图：学校一楼：校内：久远",
+              "group": "５／１６"
+            },
+            {
+              "id": "step_1756543785841",
+              "type": "choice",
+              "content": "没关系啊※进度LV3",
+              "group": "５／１６"
+            },
+            {
+              "id": "step_1756543786152",
+              "type": "choice",
+              "content": "地图：学校一楼：一年级教室：久远",
+              "group": "５／１８"
+            },
+            {
+              "id": "step_1756543786489",
+              "type": "choice",
+              "content": "大份",
+              "group": "５／１８"
+            },
+            {
+              "id": "step_1756543786816",
+              "type": "choice",
+              "content": "地图：学校二楼：化学室：久远",
+              "group": "５／２０"
+            },
+            {
+              "id": "step_1756543787137",
+              "type": "choice",
+              "content": "不如说更想了解久远的事情",
+              "group": "５／２０"
+            },
+            {
+              "id": "step_1756543787458",
+              "type": "choice",
+              "content": "地图：学校一楼：一楼走廊：久远",
+              "group": "５／２３"
+            },
+            {
+              "id": "step_1756543787792",
+              "type": "choice",
+              "content": "你唱的真烂",
+              "group": "５／２３"
+            },
+            {
+              "id": "step_1756543788090",
+              "type": "choice",
+              "content": "刚才其实挺紧张的吧？",
+              "group": "５／２４"
+            },
+            {
+              "id": "step_1756543788475",
+              "type": "choice",
+              "content": "讲关于恋爱的话题",
+              "group": "５／２４"
+            },
+            {
+              "id": "step_1756543788823",
+              "type": "choice",
+              "content": "地图：体育馆：观赏长廊",
+              "group": "５／２５"
+            }
+          ]
+        },
+        {
+          "id": "ending_1756543913250",
+          "name": "乃绘",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756543920451",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_1756543925488",
+              "type": "choice",
+              "content": "地图：学校一楼：校内：明日香",
+              "group": "４／２７"
+            },
+            {
+              "id": "step_1756543925800",
+              "type": "choice",
+              "content": "老实说，还是有点难受……",
+              "group": "４／２７"
+            },
+            {
+              "id": "step_1756543926134",
+              "type": "choice",
+              "content": "地图：学校二楼：二楼走廊：明日香",
+              "group": "４／２９"
+            },
+            {
+              "id": "step_1756543926463",
+              "type": "choice",
+              "content": "柳你表演得太逼真了",
+              "group": "４／２９"
+            },
+            {
+              "id": "step_1756543926812",
+              "type": "choice",
+              "content": "地图：体育馆：体育馆：明日香",
+              "group": "５／０２"
+            },
+            {
+              "id": "step_1756543927137",
+              "type": "choice",
+              "content": "只有你才会那么柔软灵活啊",
+              "group": "５／０２"
+            },
+            {
+              "id": "step_1756543927468",
+              "type": "choice",
+              "content": "地图：学校二楼：二楼走廊：明日香",
+              "group": "５／０４"
+            },
+            {
+              "id": "step_1756543927858",
+              "type": "choice",
+              "content": "我觉得柳现在就挺好的哦？※进度LV2",
+              "group": "５／０４"
+            },
+            {
+              "id": "step_1756543928189",
+              "type": "choice",
+              "content": "地图：学校二楼：二年级教室：明日香",
+              "group": "５／０６"
+            },
+            {
+              "id": "step_1756543928520",
+              "type": "choice",
+              "content": "觉得自己也想看看堕落了的柳的样子",
+              "group": "５／０６"
+            },
+            {
+              "id": "step_1756543928870",
+              "type": "save",
+              "content": "SAVE 9"
+            },
+            {
+              "id": "step_1756543929208",
+              "type": "choice",
+              "content": "地图：学校二楼：二年级教室：乃绘",
+              "group": "５／０９"
+            },
+            {
+              "id": "step_1756543929545",
+              "type": "choice",
+              "content": "如果乃绘老师帮我按摩的话※进度LV3",
+              "group": "５／０９"
+            },
+            {
+              "id": "step_1756543929884",
+              "type": "choice",
+              "content": "地图：学校一楼：教职员办公室：乃绘",
+              "group": "５／１１"
+            },
+            {
+              "id": "step_1756543930312",
+              "type": "choice",
+              "content": "幸福",
+              "group": "５／１１"
+            },
+            {
+              "id": "step_1756543930672",
+              "type": "choice",
+              "content": "地图：学校一楼：図書室：乃绘",
+              "group": "５／１３"
+            },
+            {
+              "id": "step_1756543931024",
+              "type": "choice",
+              "content": "如月",
+              "group": "５／１３"
+            },
+            {
+              "id": "step_1756543931381",
+              "type": "choice",
+              "content": "这个反而有问题啊！",
+              "group": "５／１４"
+            },
+            {
+              "id": "step_1756543931724",
+              "type": "choice",
+              "content": "问一下关于她喜欢类型男生的事情",
+              "group": "５／１４"
+            },
+            {
+              "id": "step_1756544147752",
+              "type": "choice",
+              "content": "地图：体育馆：观赏长廊",
+              "group": "５／１６"
+            }
+          ]
+        },
+        {
+          "id": "ending_1756544175066",
+          "name": "明日香",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756544182081",
+              "type": "load",
+              "content": "LOAD 9"
+            },
+            {
+              "id": "step_1756544183556",
+              "type": "choice",
+              "content": "地图：学校一楼：校内：明日香",
+              "group": "５／０９"
+            },
+            {
+              "id": "step_1756544183929",
+              "type": "choice",
+              "content": "这个不是挺适合柳的吗？※进度LV3",
+              "group": "５／０９"
+            },
+            {
+              "id": "step_1756544184302",
+              "type": "choice",
+              "content": "⇒谁也不见",
+              "group": "５／１１"
+            },
+            {
+              "id": "step_1756544184689",
+              "type": "choice",
+              "content": "地图：学校二楼：二年级教室：明日香",
+              "group": "５／１３"
+            },
+            {
+              "id": "step_1756544185074",
+              "type": "choice",
+              "content": "请教我让手部皮肤保持光滑的秘诀",
+              "group": "５／１３"
+            },
+            {
+              "id": "step_1756544185424",
+              "type": "choice",
+              "content": "地图：体育馆：体育馆：明日香",
+              "group": "５／１６"
+            },
+            {
+              "id": "step_1756544185812",
+              "type": "choice",
+              "content": "心为之怦然一跳",
+              "group": "５／１６"
+            },
+            {
+              "id": "step_1756544186304",
+              "type": "choice",
+              "content": "你要是真心想那么做，还是算了吧",
+              "group": "５／１７"
+            },
+            {
+              "id": "step_1756544186705",
+              "type": "choice",
+              "content": "最近总觉得有点不对劲呢",
+              "group": "５／１７"
+            },
+            {
+              "id": "step_1756544187101",
+              "type": "choice",
+              "content": "地图：体育馆：观赏长廊",
+              "group": "５／１８"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

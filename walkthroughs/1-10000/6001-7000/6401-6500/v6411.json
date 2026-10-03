@@ -1,0 +1,312 @@
+{
+  "vid": "v6411",
+  "name": {
+    "zh-cn": "不要践踏天使的羽毛",
+    "ja-jp": "天使の羽根を踏まないでっ",
+    "ja-Latn": "tenshi-no-hane-o-fumanaide"
+  },
+  "level": 2,
+  "updatedAt": "2026-05-05",
+  "routes": [
+    {
+      "id": "route_hikari",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_hikari",
+          "name": "光 END",
+          "type": "good",
+          "steps": [
+            {
+              "id": "step_hikari_01",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_hikari_02",
+              "type": "choice",
+              "content": "去『太阳学园』"
+            },
+            {
+              "id": "step_hikari_03",
+              "type": "choice",
+              "content": "纠正她"
+            },
+            {
+              "id": "step_hikari_04",
+              "type": "choice",
+              "content": "接受"
+            },
+            {
+              "id": "step_hikari_05",
+              "type": "choice",
+              "content": "拒绝"
+            }
+          ]
+        },
+        {
+          "id": "ending_hane",
+          "name": "羽音 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_hane_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_hane_02",
+              "type": "choice",
+              "content": "去『太阳学园』"
+            },
+            {
+              "id": "step_hane_03",
+              "type": "choice",
+              "content": "忍耐"
+            },
+            {
+              "id": "step_hane_04",
+              "type": "choice",
+              "content": "拒绝"
+            }
+          ]
+        },
+        {
+          "id": "ending_iki",
+          "name": "憩 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_iki_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_iki_02",
+              "type": "choice",
+              "content": "去『月亮学园』"
+            },
+            {
+              "id": "step_iki_03",
+              "type": "choice",
+              "content": "能让我也加入『零』吗？"
+            },
+            {
+              "id": "step_iki_04",
+              "type": "choice",
+              "content": "……明白了"
+            }
+          ]
+        },
+        {
+          "id": "ending_sora",
+          "name": "空 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_sora_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_sora_02",
+              "type": "choice",
+              "content": "去『月亮学园』"
+            },
+            {
+              "id": "step_sora_03",
+              "type": "choice",
+              "content": "再试着考虑考虑"
+            },
+            {
+              "id": "step_sora_04",
+              "type": "choice",
+              "content": "请让我再想一想"
+            },
+            {
+              "id": "step_sora_05",
+              "type": "choice",
+              "content": "考虑关于世界的事"
+            }
+          ]
+        },
+        {
+          "id": "ending_hane_true",
+          "name": "羽音 真实 END",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_hane_true_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_hane_true_02",
+              "type": "choice",
+              "content": "去『月亮学园』"
+            },
+            {
+              "id": "step_hane_true_03",
+              "type": "choice",
+              "content": "再试着考虑考虑"
+            },
+            {
+              "id": "step_hane_true_04",
+              "type": "choice",
+              "content": "请让我再想一想"
+            },
+            {
+              "id": "step_hane_true_05",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_hane_true_06",
+              "type": "choice",
+              "content": "这是误会"
+            },
+            {
+              "id": "step_hane_true_07",
+              "type": "choice",
+              "content": "我希望让大小姐成为μ"
+            },
+            {
+              "id": "step_1777967316685",
+              "type": "choice",
+              "content": "考虑世界"
+            },
+            {
+              "id": "step_hane_true_08",
+              "type": "choice",
+              "content": "想要知道真实"
+            },
+            {
+              "id": "step_hane_true_09",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_hane_true_10",
+              "type": "choice",
+              "content": "大小姐"
+            }
+          ]
+        },
+        {
+          "id": "ending_sora_true",
+          "name": "空 真实 END",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_sora_true_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_sora_true_02",
+              "type": "choice",
+              "content": "去『月亮学园』"
+            },
+            {
+              "id": "step_sora_true_03",
+              "type": "choice",
+              "content": "再试着考虑考虑"
+            },
+            {
+              "id": "step_sora_true_04",
+              "type": "choice",
+              "content": "请让我再想一想"
+            },
+            {
+              "id": "step_sora_true_05",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_sora_true_06",
+              "type": "choice",
+              "content": "这是误会"
+            },
+            {
+              "id": "step_sora_true_07",
+              "type": "choice",
+              "content": "我希望让大小姐成为μ"
+            },
+            {
+              "id": "step_sora_true_08",
+              "type": "choice",
+              "content": "想要知道真实"
+            },
+            {
+              "id": "step_sora_true_09",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_sora_true_10",
+              "type": "choice",
+              "content": "小空"
+            }
+          ]
+        },
+        {
+          "id": "ending_harem",
+          "name": "后宫 END",
+          "type": "good",
+          "steps": [
+            {
+              "id": "step_harem_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_harem_02",
+              "type": "choice",
+              "content": "去『月亮学园』"
+            },
+            {
+              "id": "step_harem_03",
+              "type": "choice",
+              "content": "再试着考虑考虑"
+            },
+            {
+              "id": "step_harem_04",
+              "type": "choice",
+              "content": "请让我再想一想"
+            },
+            {
+              "id": "step_harem_05",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_harem_06",
+              "type": "choice",
+              "content": "这是误会"
+            },
+            {
+              "id": "step_harem_07",
+              "type": "choice",
+              "content": "我希望让大小姐成为μ"
+            },
+            {
+              "id": "step_harem_08",
+              "type": "choice",
+              "content": "想要知道真实"
+            },
+            {
+              "id": "step_harem_09",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_harem_10",
+              "type": "choice",
+              "content": "无法选择"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

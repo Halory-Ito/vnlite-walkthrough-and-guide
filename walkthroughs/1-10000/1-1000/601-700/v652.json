@@ -1,0 +1,187 @@
+{
+  "vid": "v652",
+  "name": {
+    "zh-cn": "Lili:miesta",
+    "ja-jp": "リリミエスタ",
+    "ja-Latn": "lili-miesta"
+  },
+  "level": 2,
+  "updatedAt": "2026-02-27",
+  "routes": [
+    {
+      "id": "route_1756820456806",
+      "name": "逢坂 菜桜子",
+      "endings": [
+        {
+          "id": "ending_1756820647271",
+          "name": "菜桜子 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756820777174",
+              "type": "choice",
+              "content": "挂念菜桜子"
+            },
+            {
+              "id": "step_1756820832887",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1756820841442",
+              "type": "choice",
+              "content": "菜桜子"
+            },
+            {
+              "id": "step_1756820842228",
+              "type": "choice",
+              "content": "帮助菜桜子"
+            },
+            {
+              "id": "step_1756820842432",
+              "type": "choice",
+              "content": "菜桜子"
+            },
+            {
+              "id": "step_1756820842894",
+              "type": "choice",
+              "content": "看看房间外"
+            },
+            {
+              "id": "step_1756820843086",
+              "type": "choice",
+              "content": "菜桜子"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756820949550",
+      "name": "东云 蓝里",
+      "endings": [
+        {
+          "id": "ending_1756821050928",
+          "name": "蓝里 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756821073059",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1756821081212",
+              "type": "choice",
+              "content": "蓝里"
+            },
+            {
+              "id": "step_1756821081885",
+              "type": "choice",
+              "content": "帮助蓝里"
+            },
+            {
+              "id": "step_1756821082056",
+              "type": "choice",
+              "content": "蓝里"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756821158054",
+      "name": "菊池 希娜",
+      "endings": [
+        {
+          "id": "ending_1756821212457",
+          "name": "希娜 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756821284727",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1756821286455",
+              "type": "choice",
+              "content": "希娜"
+            },
+            {
+              "id": "step_1756821287673",
+              "type": "choice",
+              "content": "帮助希娜"
+            },
+            {
+              "id": "step_1756821287918",
+              "type": "choice",
+              "content": "希娜"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756821325789",
+      "name": "西園寺 桃佳",
+      "endings": [
+        {
+          "id": "ending_1756821408185",
+          "name": "桃佳 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756821422199",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1756821427149",
+              "type": "choice",
+              "content": "桃佳"
+            },
+            {
+              "id": "step_1756821428380",
+              "type": "choice",
+              "content": "当然跳过"
+            },
+            {
+              "id": "step_1756821428875",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1756821434909",
+              "type": "choice",
+              "content": "桃佳"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756821520614",
+      "name": "其他",
+      "endings": [
+        {
+          "id": "ending_1756821527265",
+          "name": "其他 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756821530070",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1756821533620",
+              "type": "choice",
+              "content": "蓝里"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

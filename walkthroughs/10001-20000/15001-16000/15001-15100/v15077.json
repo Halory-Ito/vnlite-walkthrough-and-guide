@@ -1,0 +1,135 @@
+{
+  "vid": "v15077",
+  "name": {
+    "zh-cn": "冲破万里晴空之上",
+    "en-us": "Farther Than the Blue Sky",
+    "ja-jp": "あの晴れわたる空より高く",
+    "ja-Latn": "ano-harewataru-sora-yori-takaku"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-11",
+  "routes": [
+    {
+      "id": "route_game",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_arisa",
+          "name": "有佐 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_01",
+              "type": "choice",
+              "content": "B 复合材料"
+            },
+            {
+              "id": "step_02",
+              "type": "choice",
+              "content": "A 铝粉"
+            },
+            {
+              "id": "step_03",
+              "type": "choice",
+              "content": "B 诱导控制软件"
+            },
+            {
+              "id": "step_04",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_05",
+              "type": "choice",
+              "content": "帮助有佐"
+            },
+            {
+              "id": "step_06",
+              "type": "choice",
+              "content": "有佐"
+            }
+          ]
+        },
+        {
+          "id": "ending_kaho",
+          "name": "夏帆 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_09",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_10",
+              "type": "choice",
+              "content": "帮助夏帆"
+            },
+            {
+              "id": "step_11",
+              "type": "choice",
+              "content": "夏帆"
+            }
+          ]
+        },
+        {
+          "id": "ending_honoka",
+          "name": "帆乃香 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_12",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_13",
+              "type": "choice",
+              "content": "帮助帆乃香"
+            },
+            {
+              "id": "step_14",
+              "type": "choice",
+              "content": "帆乃香"
+            }
+          ]
+        },
+        {
+          "id": "ending_nazuna",
+          "name": "那津奈 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_15",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_16",
+              "type": "choice",
+              "content": "帮助那津前辈"
+            },
+            {
+              "id": "step_17",
+              "type": "choice",
+              "content": "那津前辈"
+            }
+          ]
+        },
+        {
+          "id": "ending_true",
+          "name": "TRUE END",
+          "type": "true",
+          "requirements": "4人攻略后从标题画面开始",
+          "steps": [
+            {
+              "id": "step_08",
+              "type": "choice",
+              "content": "Liftoff!!开始"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,454 @@
+{
+  "vid": "v7238",
+  "name": {
+    "zh-cn": "翠之海",
+    "en-us": "Endless Jade Sea -Midori no Umi-",
+    "ja-jp": "翠の海",
+    "ja-Latn": "midori-no-umi"
+  },
+  "level": 2,
+  "updatedAt": "2026-05-12",
+  "tips": [
+    "★选项为特定END后才会出现的选项"
+  ],
+  "routes": [
+    {
+      "id": "route_game",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_end2",
+          "name": "END2 留命",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_2",
+              "type": "choice",
+              "content": "这样的事很奇怪，去追究"
+            },
+            {
+              "id": "step_3",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_4",
+              "type": "choice",
+              "content": "再靠近一点"
+            }
+          ]
+        },
+        {
+          "id": "ending_end3",
+          "name": "END3 杀人者",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_7",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_8",
+              "type": "choice",
+              "content": "性命宝贵，现在暂时接受"
+            },
+            {
+              "id": "step_9",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_10",
+              "type": "choice",
+              "content": "去找拓真"
+            },
+            {
+              "id": "step_11",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_12",
+              "type": "choice",
+              "content": "和灰奈说话"
+            },
+            {
+              "id": "step_13",
+              "type": "save",
+              "content": "SAVE 5"
+            },
+            {
+              "id": "step_14",
+              "type": "choice",
+              "content": "只是错觉……冷静一点……"
+            }
+          ]
+        },
+        {
+          "id": "ending_end4",
+          "name": "END4 逃走-知纱",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_5",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_6",
+              "type": "choice",
+              "content": "姑且先离开"
+            }
+          ]
+        },
+        {
+          "id": "ending_end5",
+          "name": "END5 在疯狂之中",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_15",
+              "type": "load",
+              "content": "LOAD 5"
+            },
+            {
+              "id": "step_16",
+              "type": "choice",
+              "content": "不是错觉……我也……"
+            }
+          ]
+        },
+        {
+          "id": "ending_end6",
+          "name": "END6 闪烁的星星之下-空音＆陆乃",
+          "type": "good",
+          "steps": [
+            {
+              "id": "step_17",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_18",
+              "type": "choice",
+              "content": "不和灰奈说话"
+            },
+            {
+              "id": "step_19",
+              "type": "save",
+              "content": "SAVE 6"
+            },
+            {
+              "id": "step_20",
+              "type": "choice",
+              "content": "询问双胞胎"
+            },
+            {
+              "id": "step_21",
+              "type": "save",
+              "content": "SAVE 7"
+            },
+            {
+              "id": "step_22",
+              "type": "choice",
+              "content": "选择空音",
+              "prefix": "★"
+            }
+          ]
+        },
+        {
+          "id": "ending_cg_recovery",
+          "name": "CG回收",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_23",
+              "type": "load",
+              "content": "LOAD 7"
+            },
+            {
+              "id": "step_24",
+              "type": "choice",
+              "content": "选择陆乃"
+            },
+            {
+              "id": "step_25",
+              "type": "note",
+              "content": "CG回收后结束"
+            }
+          ]
+        },
+        {
+          "id": "ending_end7",
+          "name": "END7 在应守护之人的身边-沙罗",
+          "type": "good",
+          "steps": [
+            {
+              "id": "step_26",
+              "type": "load",
+              "content": "LOAD 6"
+            },
+            {
+              "id": "step_27",
+              "type": "choice",
+              "content": "询问沙罗",
+              "prefix": "★"
+            }
+          ]
+        },
+        {
+          "id": "ending_end10",
+          "name": "END10 永远的乐园-满",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_28",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_29",
+              "type": "choice",
+              "content": "不去找拓真"
+            },
+            {
+              "id": "step_30",
+              "type": "save",
+              "content": "SAVE 8"
+            },
+            {
+              "id": "step_31",
+              "type": "choice",
+              "content": "接受满说的话"
+            },
+            {
+              "id": "step_32",
+              "type": "save",
+              "content": "SAVE 9"
+            },
+            {
+              "id": "step_33",
+              "type": "choice",
+              "content": "帮满的忙"
+            }
+          ]
+        },
+        {
+          "id": "ending_end11",
+          "name": "END11 赤红之塔-知纱",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_34",
+              "type": "load",
+              "content": "LOAD 9"
+            },
+            {
+              "id": "step_35",
+              "type": "choice",
+              "content": "帮知纱的忙"
+            }
+          ]
+        },
+        {
+          "id": "ending_end14",
+          "name": "END14 必要之人",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_36",
+              "type": "load",
+              "content": "LOAD 9"
+            },
+            {
+              "id": "step_37",
+              "type": "choice",
+              "content": "找别的能做的事做"
+            },
+            {
+              "id": "step_38",
+              "type": "save",
+              "content": "SAVE 10"
+            },
+            {
+              "id": "step_39",
+              "type": "choice",
+              "content": "和知纱一起学习"
+            }
+          ]
+        },
+        {
+          "id": "ending_end12",
+          "name": "END12 为了幸福-真希奈",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_40",
+              "type": "load",
+              "content": "LOAD 10"
+            },
+            {
+              "id": "step_41",
+              "type": "choice",
+              "content": "拒绝知纱的提议"
+            },
+            {
+              "id": "step_42",
+              "type": "choice",
+              "content": "是错觉，是我太累了",
+              "prefix": "★"
+            }
+          ]
+        },
+        {
+          "id": "ending_end13",
+          "name": "END13 永远的幸福-真希奈",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_43",
+              "type": "load",
+              "content": "LOAD 10"
+            },
+            {
+              "id": "step_44",
+              "type": "choice",
+              "content": "拒绝知纱的提议"
+            },
+            {
+              "id": "step_45",
+              "type": "choice",
+              "content": "……没错，真希奈是……",
+              "prefix": "★"
+            }
+          ]
+        },
+        {
+          "id": "ending_end1",
+          "name": "END1 为了幸福之鸟-满",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_46",
+              "type": "load",
+              "content": "LOAD 8"
+            },
+            {
+              "id": "step_47",
+              "type": "choice",
+              "content": "把梦的内容接受为现实"
+            },
+            {
+              "id": "step_48",
+              "type": "save",
+              "content": "SAVE 11"
+            },
+            {
+              "id": "step_49",
+              "type": "choice",
+              "content": "无视纺",
+              "prefix": "★"
+            }
+          ]
+        },
+        {
+          "id": "ending_end9",
+          "name": "END9 幸福的荆棘道-纺",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_50",
+              "type": "load",
+              "content": "LOAD 11"
+            },
+            {
+              "id": "step_51",
+              "type": "choice",
+              "content": "开门",
+              "prefix": "★"
+            }
+          ]
+        },
+        {
+          "id": "ending_end8",
+          "name": "END8 解不开的魔法-灰奈",
+          "type": "good",
+          "requirements": "其他所有END结束后",
+          "steps": [
+            {
+              "id": "step_52",
+              "type": "load",
+              "content": "LOAD 8"
+            },
+            {
+              "id": "step_53",
+              "type": "choice",
+              "content": "接受自己的记忆及憎恶",
+              "prefix": "★"
+            },
+            {
+              "id": "step_54",
+              "type": "save",
+              "content": "SAVE 12"
+            },
+            {
+              "id": "step_55",
+              "type": "choice",
+              "content": "接受这里的一切，在这里活下去"
+            }
+          ]
+        },
+        {
+          "id": "ending_end15",
+          "name": "END15 踏上的道路-知纱",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_56",
+              "type": "load",
+              "content": "LOAD 12"
+            },
+            {
+              "id": "step_57",
+              "type": "choice",
+              "content": "追求这以上的结果，寻找别的道路"
+            },
+            {
+              "id": "step_58",
+              "type": "save",
+              "content": "SAVE 13"
+            },
+            {
+              "id": "step_59",
+              "type": "choice",
+              "content": "向知纱全盘托出"
+            }
+          ]
+        },
+        {
+          "id": "ending_end16",
+          "name": "END16 展翅-满",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_60",
+              "type": "load",
+              "content": "LOAD 13"
+            },
+            {
+              "id": "step_61",
+              "type": "choice",
+              "content": "什么也不说"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

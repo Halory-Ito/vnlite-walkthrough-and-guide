@@ -1,0 +1,156 @@
+{
+  "vid": "v19769",
+  "name": {
+    "zh-cn": "太依赖咒术的我未来堪忧。",
+    "en-us": "KamiYaba: Destiny on a Dicey Deadline",
+    "ja-jp": "神頼みしすぎて俺の未来がヤバい。",
+    "ja-Latn": "kamidanomi-shisugite-ore-no-mirai-ga-yabai"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-14",
+  "tips": [
+    "★标注的选项为追加选项，不出现时无视即可",
+    "一周目可攻略七海、铃奈、由香里，二周目可攻略丽、花夜、真央"
+  ],
+  "routes": [
+    {
+      "id": "route_1773045229202",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1773045234890",
+          "name": "七海 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1773045242068",
+              "type": "choice",
+              "content": "不能就这样顺势而为",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1773045250989",
+              "type": "choice",
+              "content": "不能被冲走"
+            },
+            {
+              "id": "step_1773045256853",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1773045262927",
+              "type": "choice",
+              "content": "里面/外面"
+            }
+          ]
+        },
+        {
+          "id": "ending_1773045283868",
+          "name": "铃奈 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1773045295496",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1773045300340",
+              "type": "choice",
+              "content": "选择铃奈"
+            }
+          ]
+        },
+        {
+          "id": "ending_1773045325807",
+          "name": "由香里 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1773045335862",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1773045337026",
+              "type": "choice",
+              "content": "选择由香里"
+            }
+          ]
+        },
+        {
+          "id": "ending_1773045362137",
+          "name": "丽 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1773045370853",
+              "type": "note",
+              "content": "任意一人攻略完毕后，从最初开始"
+            },
+            {
+              "id": "step_1773045384801",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1773045386685",
+              "type": "choice",
+              "content": "不能就这样顺势而为"
+            },
+            {
+              "id": "step_1773045477027",
+              "type": "choice",
+              "content": "…………"
+            },
+            {
+              "id": "step_1773045482662",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_1773045485891",
+              "type": "choice",
+              "content": "不，肯定是错觉"
+            }
+          ]
+        },
+        {
+          "id": "ending_1773045504114",
+          "name": "花夜 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1773045514807",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1773045516938",
+              "type": "choice",
+              "content": "我很在意花夜？"
+            }
+          ]
+        },
+        {
+          "id": "ending_1773045542358",
+          "name": "真央 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1773045549857",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1773045551993",
+              "type": "choice",
+              "content": "想和真央接吻"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

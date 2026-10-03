@@ -1,0 +1,584 @@
+{
+  "vid": "v466",
+  "name": {
+    "zh-cn": "那一天，去往何方",
+    "ja-jp": "何処へ行くの、あの日",
+    "ja-Latn": "doko-e-iku-no-ano-hi"
+  },
+  "level": 2,
+  "updatedAt": "2026-05-09",
+  "tips": [
+    "按照茂木一叶→麻生桐李→青井智加子→神崎千寻→国见绘麻顺序通关后，标题界面会由夕阳变化为青空"
+  ],
+  "routes": [
+    {
+      "id": "route_kazuha",
+      "name": "茂木一叶",
+      "endings": [
+        {
+          "id": "ending_kazuha",
+          "name": "一叶 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_kazuha_01",
+              "type": "choice",
+              "content": "好奇那是什么",
+              "group": "1月8日"
+            },
+            {
+              "id": "step_kazuha_02",
+              "type": "choice",
+              "content": "逃跑",
+              "group": "1月8日"
+            },
+            {
+              "id": "step_kazuha_03",
+              "type": "choice",
+              "content": "千寻在看什么呢？",
+              "group": "1月8日"
+            },
+            {
+              "id": "step_kazuha_04",
+              "type": "choice",
+              "content": "拒绝",
+              "group": "1月8日"
+            },
+            {
+              "id": "step_kazuha_05",
+              "type": "choice",
+              "content": "问问她是不是真的饿了",
+              "group": "1月9日"
+            },
+            {
+              "id": "step_kazuha_06",
+              "type": "choice",
+              "content": "悄悄告诉她",
+              "group": "1月9日"
+            },
+            {
+              "id": "step_kazuha_07",
+              "type": "choice",
+              "content": "一个人回家",
+              "group": "1月9日"
+            },
+            {
+              "id": "step_kazuha_08",
+              "type": "choice",
+              "content": "有约在先嘛……",
+              "group": "1月10日"
+            },
+            {
+              "id": "step_kazuha_09",
+              "type": "choice",
+              "content": "瞒着她",
+              "group": "1月10日"
+            },
+            {
+              "id": "step_kazuha_10",
+              "type": "choice",
+              "content": "出门",
+              "group": "1月11日"
+            },
+            {
+              "id": "step_kazuha_11",
+              "type": "choice",
+              "content": "只告诉她桐李家在哪",
+              "group": "1月11日"
+            },
+            {
+              "id": "step_kazuha_12",
+              "type": "choice",
+              "content": "实在很好奇",
+              "group": "1月11日"
+            },
+            {
+              "id": "step_kazuha_13",
+              "type": "choice",
+              "content": "一叶",
+              "group": "1月13日"
+            },
+            {
+              "id": "step_kazuha_14",
+              "type": "choice",
+              "content": "一个人回家",
+              "group": "1月13日"
+            },
+            {
+              "id": "step_kazuha_15",
+              "type": "choice",
+              "content": "一叶",
+              "group": "1月14日"
+            },
+            {
+              "id": "step_kazuha_16",
+              "type": "choice",
+              "content": "一叶",
+              "group": "1月15日"
+            },
+            {
+              "id": "step_kazuha_17",
+              "type": "choice",
+              "content": "还是去厕所吧",
+              "group": "1月16日"
+            },
+            {
+              "id": "step_kazuha_18",
+              "type": "choice",
+              "content": "还是叫出租车吧",
+              "group": "1月16日"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_kouri",
+      "name": "麻生桐李",
+      "endings": [
+        {
+          "id": "ending_kouri",
+          "name": "桐李 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_kouri_01",
+              "type": "choice",
+              "content": "好奇那是什么",
+              "group": "1月8日"
+            },
+            {
+              "id": "step_kouri_02",
+              "type": "choice",
+              "content": "战斗",
+              "group": "1月8日"
+            },
+            {
+              "id": "step_kouri_03",
+              "type": "choice",
+              "content": "千寻在看什么呢？",
+              "group": "1月8日"
+            },
+            {
+              "id": "step_kouri_04",
+              "type": "choice",
+              "content": "拒绝",
+              "group": "1月8日"
+            },
+            {
+              "id": "step_kouri_05",
+              "type": "choice",
+              "content": "问问她是不是真的饿了",
+              "group": "1月9日"
+            },
+            {
+              "id": "step_kouri_06",
+              "type": "choice",
+              "content": "悄悄告诉她",
+              "group": "1月9日"
+            },
+            {
+              "id": "step_kouri_07",
+              "type": "choice",
+              "content": "和桐李一起回家",
+              "group": "1月9日"
+            },
+            {
+              "id": "step_kouri_08",
+              "type": "choice",
+              "content": "有约在先嘛……",
+              "group": "1月10日"
+            },
+            {
+              "id": "step_kouri_09",
+              "type": "choice",
+              "content": "瞒着她",
+              "group": "1月10日"
+            },
+            {
+              "id": "step_kouri_10",
+              "type": "choice",
+              "content": "只告诉她桐李家在哪",
+              "group": "1月11日"
+            },
+            {
+              "id": "step_kouri_11",
+              "type": "choice",
+              "content": "肯定是看错人了",
+              "group": "1月11日"
+            },
+            {
+              "id": "step_kouri_12",
+              "type": "choice",
+              "content": "桐李",
+              "group": "1月13日"
+            },
+            {
+              "id": "step_kouri_13",
+              "type": "choice",
+              "content": "桐李",
+              "group": "1月14日"
+            },
+            {
+              "id": "step_kouri_14",
+              "type": "choice",
+              "content": "桐李",
+              "group": "1月15日"
+            },
+            {
+              "id": "step_kouri_15",
+              "type": "choice",
+              "content": "还是去厕所吧",
+              "group": "1月16日"
+            },
+            {
+              "id": "step_kouri_16",
+              "type": "choice",
+              "content": "努努力背她回去吧",
+              "group": "1月16日"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_chikako",
+      "name": "青井智加子",
+      "endings": [
+        {
+          "id": "ending_chikako",
+          "name": "智加子 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_chikako_01",
+              "type": "choice",
+              "content": "好奇那是什么",
+              "group": "1月8日"
+            },
+            {
+              "id": "step_chikako_02",
+              "type": "choice",
+              "content": "逃跑",
+              "group": "1月8日"
+            },
+            {
+              "id": "step_chikako_03",
+              "type": "choice",
+              "content": "先找点事干吧",
+              "group": "1月8日"
+            },
+            {
+              "id": "step_chikako_04",
+              "type": "choice",
+              "content": "拒绝",
+              "group": "1月8日"
+            },
+            {
+              "id": "step_chikako_05",
+              "type": "choice",
+              "content": "问问她是不是真的饿了",
+              "group": "1月9日"
+            },
+            {
+              "id": "step_chikako_06",
+              "type": "choice",
+              "content": "悄悄告诉她",
+              "group": "1月9日"
+            },
+            {
+              "id": "step_chikako_07",
+              "type": "choice",
+              "content": "去图书馆",
+              "group": "1月9日"
+            },
+            {
+              "id": "step_chikako_08",
+              "type": "choice",
+              "content": "观察她",
+              "group": "1月9日"
+            },
+            {
+              "id": "step_chikako_09",
+              "type": "choice",
+              "content": "打扫",
+              "group": "1月9日"
+            },
+            {
+              "id": "step_chikako_10",
+              "type": "choice",
+              "content": "有约在先嘛……",
+              "group": "1月10日"
+            },
+            {
+              "id": "step_chikako_11",
+              "type": "choice",
+              "content": "瞒着她",
+              "group": "1月10日"
+            },
+            {
+              "id": "step_chikako_12",
+              "type": "choice",
+              "content": "肯定是看错人了",
+              "group": "1月11日"
+            },
+            {
+              "id": "step_chikako_13",
+              "type": "choice",
+              "content": "青井同学",
+              "group": "1月13日"
+            },
+            {
+              "id": "step_chikako_14",
+              "type": "choice",
+              "content": "请她细说男人们害怕的情形",
+              "group": "1月13日"
+            },
+            {
+              "id": "step_chikako_15",
+              "type": "choice",
+              "content": "青井同学",
+              "group": "1月14日"
+            },
+            {
+              "id": "step_chikako_16",
+              "type": "choice",
+              "content": "不去",
+              "group": "1月14日"
+            },
+            {
+              "id": "step_chikako_17",
+              "type": "choice",
+              "content": "青井同学",
+              "group": "1月15日"
+            },
+            {
+              "id": "step_chikako_18",
+              "type": "choice",
+              "content": "她是来做什么的？",
+              "group": "1月16日"
+            },
+            {
+              "id": "step_chikako_19",
+              "type": "choice",
+              "content": "还是叫出租车吧",
+              "group": "1月16日"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_chihiro",
+      "name": "神崎千寻",
+      "endings": [
+        {
+          "id": "ending_chihiro",
+          "name": "千寻 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_chihiro_01",
+              "type": "choice",
+              "content": "好奇那是什么",
+              "group": "1月8日"
+            },
+            {
+              "id": "step_chihiro_02",
+              "type": "choice",
+              "content": "战斗",
+              "group": "1月8日"
+            },
+            {
+              "id": "step_chihiro_03",
+              "type": "choice",
+              "content": "千寻在看什么呢？",
+              "group": "1月8日"
+            },
+            {
+              "id": "step_chihiro_04",
+              "type": "choice",
+              "content": "为她带路",
+              "group": "1月8日"
+            },
+            {
+              "id": "step_chihiro_05",
+              "type": "choice",
+              "content": "悄悄告诉她",
+              "group": "1月9日"
+            },
+            {
+              "id": "step_chihiro_06",
+              "type": "choice",
+              "content": "去图书馆",
+              "group": "1月9日"
+            },
+            {
+              "id": "step_chihiro_07",
+              "type": "choice",
+              "content": "向她搭话",
+              "group": "1月9日"
+            },
+            {
+              "id": "step_chihiro_08",
+              "type": "choice",
+              "content": "打扫",
+              "group": "1月9日"
+            },
+            {
+              "id": "step_chihiro_09",
+              "type": "choice",
+              "content": "晚点也无妨",
+              "group": "1月10日"
+            },
+            {
+              "id": "step_chihiro_10",
+              "type": "choice",
+              "content": "瞒着她",
+              "group": "1月10日"
+            },
+            {
+              "id": "step_chihiro_11",
+              "type": "choice",
+              "content": "千寻",
+              "group": "1月13日"
+            },
+            {
+              "id": "step_chihiro_12",
+              "type": "choice",
+              "content": "绘麻",
+              "group": "1月14日"
+            },
+            {
+              "id": "step_chihiro_13",
+              "type": "choice",
+              "content": "去",
+              "group": "1月14日"
+            },
+            {
+              "id": "step_chihiro_14",
+              "type": "choice",
+              "content": "千寻",
+              "group": "1月15日"
+            },
+            {
+              "id": "step_chihiro_15",
+              "type": "choice",
+              "content": "还是去厕所吧",
+              "group": "1月16日"
+            },
+            {
+              "id": "step_chihiro_16",
+              "type": "choice",
+              "content": "努努力背她回去吧",
+              "group": "1月16日"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_ema",
+      "name": "国见绘麻",
+      "endings": [
+        {
+          "id": "ending_ema",
+          "name": "绘麻 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_ema_01",
+              "type": "choice",
+              "content": "好奇那是什么",
+              "group": "1月8日"
+            },
+            {
+              "id": "step_ema_02",
+              "type": "choice",
+              "content": "战斗",
+              "group": "1月8日"
+            },
+            {
+              "id": "step_ema_03",
+              "type": "choice",
+              "content": "千寻在看什么呢？",
+              "group": "1月8日"
+            },
+            {
+              "id": "step_ema_04",
+              "type": "choice",
+              "content": "拒绝",
+              "group": "1月8日"
+            },
+            {
+              "id": "step_ema_05",
+              "type": "choice",
+              "content": "保持沉默",
+              "group": "1月9日"
+            },
+            {
+              "id": "step_ema_06",
+              "type": "choice",
+              "content": "不告诉她才是为她好",
+              "group": "1月9日"
+            },
+            {
+              "id": "step_ema_07",
+              "type": "choice",
+              "content": "观察她",
+              "group": "1月9日"
+            },
+            {
+              "id": "step_ema_08",
+              "type": "choice",
+              "content": "太麻烦了",
+              "group": "1月9日"
+            },
+            {
+              "id": "step_ema_09",
+              "type": "choice",
+              "content": "有约在先嘛……",
+              "group": "1月10日"
+            },
+            {
+              "id": "step_ema_10",
+              "type": "choice",
+              "content": "把药效告诉她",
+              "group": "1月10日"
+            },
+            {
+              "id": "step_ema_11",
+              "type": "choice",
+              "content": "桐李",
+              "group": "1月13日"
+            },
+            {
+              "id": "step_ema_12",
+              "type": "choice",
+              "content": "绘麻",
+              "group": "1月14日"
+            },
+            {
+              "id": "step_ema_13",
+              "type": "choice",
+              "content": "绘麻",
+              "group": "1月15日"
+            },
+            {
+              "id": "step_ema_14",
+              "type": "choice",
+              "content": "还是去厕所吧",
+              "group": "1月16日"
+            },
+            {
+              "id": "step_ema_15",
+              "type": "choice",
+              "content": "还是叫出租车吧",
+              "group": "1月16日"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

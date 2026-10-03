@@ -1,0 +1,397 @@
+{
+  "vid": "v56650",
+  "name": {
+    "zh-cn": "聚光灯下的青柠恋曲",
+    "en-us": "LimeLight Lemonade Jam",
+    "ja-jp": "ライムライト・レモネードジャム",
+    "ja-Latn": "limelight-lemonade-jam"
+  },
+  "level": 2,
+  "updatedAt": "2026-05-17",
+  "tips": [
+    "共通路线中，随着故事的进展，侧面情节★将被添加到流程图屏幕中"
+  ],
+  "routes": [
+    {
+      "id": "route_1759831991092",
+      "name": "阳见 惠凪",
+      "endings": [
+        {
+          "id": "ending_1759832009997",
+          "name": "惠凪 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1759832201042",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1759832226168",
+              "type": "note",
+              "content": "阳见惠凪的每天",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1759832135030",
+              "type": "choice",
+              "content": "阳见同学"
+            },
+            {
+              "id": "step_1759832303775",
+              "type": "note",
+              "content": "阳见惠凪崭新的每天",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1759832148618",
+              "type": "choice",
+              "content": "自己寻找"
+            },
+            {
+              "id": "step_1759832170027",
+              "type": "choice",
+              "content": "坚持自己做到最后"
+            },
+            {
+              "id": "step_1759832189466",
+              "type": "note",
+              "content": "二见原莉莉子的心意",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1759832354713",
+              "type": "note",
+              "content": "隐杏珠是大小姐？",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1759832388804",
+              "type": "choice",
+              "content": "因为很在意所以选冰咖啡"
+            },
+            {
+              "id": "step_1759832432510",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1759832453945",
+              "type": "choice",
+              "content": "听取本人的意见"
+            },
+            {
+              "id": "step_1759832455890",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_1759832478142",
+              "type": "choice",
+              "content": "惠凪"
+            },
+            {
+              "id": "step_1759833060360",
+              "type": "note",
+              "content": "岛越月望的战斗",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1759832521643",
+              "type": "choice",
+              "content": "就这样直到最后.../果然最后还是要..."
+            },
+            {
+              "id": "step_1759832610622",
+              "type": "choice",
+              "content": "就这样吧/让她摘掉"
+            },
+            {
+              "id": "step_1759832610769",
+              "type": "choice",
+              "content": "就这样任由她摆布/阻止惠凪"
+            },
+            {
+              "id": "step_1759832717783",
+              "type": "choice",
+              "content": "在内部摩擦直到最后/更大幅度摆动腰部"
+            },
+            {
+              "id": "step_1759832807424",
+              "type": "choice",
+              "content": "怎么能摘掉呢！/非要说的话...?"
+            },
+            {
+              "id": "step_1759832837241",
+              "type": "choice",
+              "content": "就想这样/想再次射在里面"
+            },
+            {
+              "id": "step_1759832919086",
+              "type": "choice",
+              "content": "想要填满惠凪的里面/下次我想弄脏她的脸"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1759832996904",
+      "name": "隐 杏珠",
+      "endings": [
+        {
+          "id": "ending_1759833014312",
+          "name": "杏珠 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1759833022571",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1759833026395",
+              "type": "choice",
+              "content": "问她本人"
+            },
+            {
+              "id": "step_1759833148439",
+              "type": "choice",
+              "content": "寻求帮助"
+            },
+            {
+              "id": "step_1759833148794",
+              "type": "choice",
+              "content": "虽然很在意但还是选冰红茶"
+            },
+            {
+              "id": "step_1759833148938",
+              "type": "choice",
+              "content": "听取本人的意见"
+            },
+            {
+              "id": "step_1759833332981",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_1759833236302",
+              "type": "choice",
+              "content": "杏珠"
+            },
+            {
+              "id": "step_1759833236441",
+              "type": "choice",
+              "content": "里面/外面"
+            },
+            {
+              "id": "step_1759833251262",
+              "type": "choice",
+              "content": "嘴里/脸上"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1759833264080",
+      "name": "二见原 莉莉子",
+      "endings": [
+        {
+          "id": "ending_1759833278489",
+          "name": "莉莉子 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1759833351945",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_1759833358785",
+              "type": "choice",
+              "content": "莉莉子"
+            },
+            {
+              "id": "step_1759833364387",
+              "type": "choice",
+              "content": "一直深入到底/想再继续品味一下"
+            },
+            {
+              "id": "step_1759833364529",
+              "type": "choice",
+              "content": "射在莉莉子肚子上的印记处/覆盖莉莉子肚子上的印记"
+            },
+            {
+              "id": "step_1759833487571",
+              "type": "choice",
+              "content": "带蕾丝的透明内衣/布料少的内衣"
+            },
+            {
+              "id": "step_1759833487703",
+              "type": "choice",
+              "content": "就这样一口气/一边试探着极限"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1759833594769",
+      "name": "岛越 月望",
+      "endings": [
+        {
+          "id": "ending_1759833635172",
+          "name": "月望 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1759833641563",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1759833662686",
+              "type": "choice",
+              "content": "月望"
+            },
+            {
+              "id": "step_1759833666086",
+              "type": "choice",
+              "content": "里面/外面"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1759833727512",
+      "name": "茶园 那优花",
+      "endings": [
+        {
+          "id": "ending_1759833890803",
+          "name": "那优花 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1759833895123",
+              "type": "note",
+              "content": "需要上述4人有一人通关后"
+            },
+            {
+              "id": "step_1759833914598",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1759833916129",
+              "type": "choice",
+              "content": "就这样继续思考"
+            },
+            {
+              "id": "step_1759833918013",
+              "type": "save",
+              "content": "SAVE 5"
+            },
+            {
+              "id": "step_1759833961441",
+              "type": "choice",
+              "content": "稍后再联系"
+            },
+            {
+              "id": "step_1759833978184",
+              "type": "choice",
+              "content": "莉莉子"
+            },
+            {
+              "id": "step_1759833985812",
+              "type": "choice",
+              "content": "就这样一口气/再稍微慢一点"
+            },
+            {
+              "id": "step_1759834013518",
+              "type": "choice",
+              "content": "任由她口交/重新开始自慰"
+            },
+            {
+              "id": "step_1759834034437",
+              "type": "choice",
+              "content": "就这样用力碾磨/尽情的活塞运动"
+            },
+            {
+              "id": "step_1759834043931",
+              "type": "choice",
+              "content": "以更深处为目标/就这样继续摩擦"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1759833727956",
+      "name": "砾川 美玖",
+      "endings": [
+        {
+          "id": "ending_1759833782430",
+          "name": "美玖 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1759833804940",
+              "type": "load",
+              "content": "LOAD 5"
+            },
+            {
+              "id": "step_1759833786038",
+              "type": "choice",
+              "content": "现在就联系"
+            },
+            {
+              "id": "step_1759833828218",
+              "type": "choice",
+              "content": "莉莉子"
+            },
+            {
+              "id": "step_1759833852320",
+              "type": "choice",
+              "content": "里面/外面"
+            },
+            {
+              "id": "step_1759834111059",
+              "type": "choice",
+              "content": "嘴里/脸上"
+            },
+            {
+              "id": "step_1759834118339",
+              "type": "choice",
+              "content": "里面/外面"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1759834139870",
+      "name": "单身线",
+      "endings": [
+        {
+          "id": "ending_1759834153472",
+          "name": "单身 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1759834160220",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1759834163303",
+              "type": "choice",
+              "content": "莉莉子"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

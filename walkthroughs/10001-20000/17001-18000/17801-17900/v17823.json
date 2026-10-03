@@ -1,0 +1,170 @@
+{
+  "vid": "v17823",
+  "name": {
+    "zh-cn": "娇蛮任性HIGHSPEC",
+    "en-us": "WAGAMAMA HIGH SPEC",
+    "ja-jp": "ワガママハイスペック",
+    "ja-Latn": "wagamama-high-spec"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-14",
+  "tips": [
+    "共通路线结束时，会进入好感度最高角色的路线分支。好感度相同时，按以下优先度进行： 香织子＞亚瑟＞兔亚＞未寻"
+  ],
+  "routes": [
+    {
+      "id": "route_1772357295359",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1772357313514",
+          "name": "鹿苑寺香织子",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1772362169107",
+              "type": "choice",
+              "content": "接受"
+            },
+            {
+              "id": "step_1772362169276",
+              "type": "choice",
+              "content": "能过来真实帮大忙了"
+            },
+            {
+              "id": "step_1772362169526",
+              "type": "choice",
+              "content": "那就做吧！"
+            },
+            {
+              "id": "step_1772362169720",
+              "type": "choice",
+              "content": "未寻穿裸体围裙的样子？"
+            },
+            {
+              "id": "step_1772362169990",
+              "type": "choice",
+              "content": "要吃一口吗？"
+            },
+            {
+              "id": "step_1772362222633",
+              "type": "choice",
+              "content": "可爱"
+            },
+            {
+              "id": "step_1772362222798",
+              "type": "choice",
+              "content": "这么点事算得了什么！"
+            },
+            {
+              "id": "step_1772362223051",
+              "type": "choice",
+              "content": "分成两队"
+            },
+            {
+              "id": "step_1772362223353",
+              "type": "choice",
+              "content": "这是为了大家"
+            },
+            {
+              "id": "step_1772363709992",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1772363711313",
+              "type": "choice",
+              "content": "反过来赞扬她"
+            },
+            {
+              "id": "step_1772363711504",
+              "type": "choice",
+              "content": "大家都好可爱"
+            },
+            {
+              "id": "step_1772363711733",
+              "type": "choice",
+              "content": "去厨房帮忙"
+            }
+          ]
+        },
+        {
+          "id": "ending_1772357313723",
+          "name": "樱木・R・亚瑟",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1772364185392",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1772364187619",
+              "type": "choice",
+              "content": "用冷笑话回应"
+            },
+            {
+              "id": "step_1772364194661",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1772364206874",
+              "type": "choice",
+              "content": "……硬要说的话那就是兔亚吧"
+            },
+            {
+              "id": "step_1772364225814",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_1772364239987",
+              "type": "choice",
+              "content": "去前台帮忙"
+            }
+          ]
+        },
+        {
+          "id": "ending_1772357314065",
+          "name": "宫瀨未寻",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1772364352934",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1772364357329",
+              "type": "choice",
+              "content": "大家都好可爱"
+            },
+            {
+              "id": "step_1772364357499",
+              "type": "choice",
+              "content": "去厨房帮忙"
+            }
+          ]
+        },
+        {
+          "id": "ending_1772364565731",
+          "name": "鸣海兔亚",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1772364584946",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1772364589063",
+              "type": "choice",
+              "content": "去厨房帮忙"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

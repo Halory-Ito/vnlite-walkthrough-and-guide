@@ -1,0 +1,104 @@
+{
+  "vid": "v429",
+  "name": {
+    "zh-cn": "天使的双枪",
+    "ja-jp": "天使ノ二挺拳銃 -Angelos Armas-",
+    "ja-Latn": "tenshi-no-nichou-kenjuu"
+  },
+  "level": 2,
+  "updatedAt": "2026-05-08",
+  "routes": [
+    {
+      "id": "route_game",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_xiaojuan",
+          "name": "小卷 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_xiaojuan_01",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_xiaojuan_02",
+              "type": "choice",
+              "content": "射击"
+            },
+            {
+              "id": "step_xiaojuan_03",
+              "type": "choice",
+              "content": "看着小卷"
+            },
+            {
+              "id": "step_xiaojuan_04",
+              "type": "choice",
+              "content": "询问安丽"
+            },
+            {
+              "id": "step_xiaojuan_05",
+              "type": "choice",
+              "content": "去神社救小卷"
+            }
+          ]
+        },
+        {
+          "id": "ending_fengzi",
+          "name": "风子 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_fengzi_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_fengzi_02",
+              "type": "choice",
+              "content": "不射击"
+            },
+            {
+              "id": "step_fengzi_03",
+              "type": "choice",
+              "content": "去追风子"
+            },
+            {
+              "id": "step_fengzi_04",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_fengzi_05",
+              "type": "choice",
+              "content": "去追风子"
+            }
+          ]
+        },
+        {
+          "id": "ending_anli",
+          "name": "安丽 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_anli_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_anli_02",
+              "type": "choice",
+              "content": "询问安丽"
+            },
+            {
+              "id": "step_anli_03",
+              "type": "choice",
+              "content": "决定安慰安丽"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

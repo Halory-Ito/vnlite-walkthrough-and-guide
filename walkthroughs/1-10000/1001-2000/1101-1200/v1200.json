@@ -1,0 +1,884 @@
+{
+  "vid": "v1200",
+  "name": {
+    "zh-cn": "教你说再见～comment te dire adieu～",
+    "ja-jp": "さよならを教えて～comment te dire adieu～",
+    "ja-Latn": "sayonara-o-oshiete"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-11",
+  "tips": [
+    "*表示此处的选项可以任选，并不影响CG和结局，想要阅读全文本、看全部表情的玩家可以自行存档进行回收。"
+  ],
+  "routes": [
+    {
+      "id": "route_1755271642929",
+      "name": "高田望美",
+      "endings": [
+        {
+          "id": "ending_1755271644202",
+          "name": "望美 END 1",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_1755271655545",
+              "type": "choice",
+              "content": "教室",
+              "group": "第一天"
+            },
+            {
+              "id": "step_1755271670038",
+              "type": "choice",
+              "content": "屋顶",
+              "group": "第一天"
+            },
+            {
+              "id": "step_1755271670303",
+              "type": "choice",
+              "content": "打招呼",
+              "prefix": "★",
+              "group": "第一天"
+            },
+            {
+              "id": "step_1755271670486",
+              "type": "choice",
+              "content": "保健室",
+              "group": "第一天"
+            },
+            {
+              "id": "step_1755271670751",
+              "type": "choice",
+              "content": "回去",
+              "group": "第一天"
+            },
+            {
+              "id": "step_1755271671073",
+              "type": "choice",
+              "content": "教室",
+              "group": "第二天"
+            },
+            {
+              "id": "step_1755271671289",
+              "type": "choice",
+              "content": "打招呼",
+              "prefix": "*",
+              "group": "第二天"
+            },
+            {
+              "id": "step_1755271730691",
+              "type": "choice",
+              "content": "屋顶",
+              "group": "第二天"
+            },
+            {
+              "id": "step_1755271730848",
+              "type": "choice",
+              "content": "图书馆",
+              "group": "第二天"
+            },
+            {
+              "id": "step_1755271731127",
+              "type": "choice",
+              "content": "回去",
+              "group": "第二天"
+            },
+            {
+              "id": "step_1755271731321",
+              "type": "choice",
+              "content": "图书馆",
+              "group": "第三天"
+            },
+            {
+              "id": "step_1755271832191",
+              "type": "save",
+              "content": "SAVE 1",
+              "group": "第三天"
+            },
+            {
+              "id": "step_1755271783674",
+              "type": "choice",
+              "content": "屋顶",
+              "group": "第三天"
+            },
+            {
+              "id": "step_1755271784086",
+              "type": "choice",
+              "content": "教室",
+              "group": "第三天"
+            },
+            {
+              "id": "step_1755271784248",
+              "type": "load",
+              "content": "LOAD 1",
+              "subfix": "回收完毕",
+              "group": "第三天"
+            },
+            {
+              "id": "step_1755271784417",
+              "type": "choice",
+              "content": "教室",
+              "group": "第三天"
+            },
+            {
+              "id": "step_1755271784612",
+              "type": "choice",
+              "content": "屋顶",
+              "group": "第三天"
+            },
+            {
+              "id": "step_1755271832337",
+              "type": "choice",
+              "content": "中庭",
+              "group": "第三天"
+            },
+            {
+              "id": "step_1755271832422",
+              "type": "choice",
+              "content": "弓道场",
+              "group": "第三天"
+            },
+            {
+              "id": "step_1755271832885",
+              "type": "choice",
+              "content": "回去",
+              "group": "第三天"
+            },
+            {
+              "id": "step_1755271833113",
+              "type": "choice",
+              "content": "弓道场",
+              "group": "第四天"
+            },
+            {
+              "id": "step_1755271833264",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1755271939132",
+              "type": "choice",
+              "content": "弓道场"
+            },
+            {
+              "id": "step_1755271939942",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_1755271940418",
+              "type": "choice",
+              "content": "中庭"
+            },
+            {
+              "id": "step_1755271957451",
+              "type": "choice",
+              "content": "图书馆"
+            },
+            {
+              "id": "step_1755271958780",
+              "type": "choice",
+              "content": "回去"
+            },
+            {
+              "id": "step_1755271959310",
+              "type": "choice",
+              "content": "她即使天使也不是天使",
+              "prefix": "*",
+              "group": "第五天"
+            },
+            {
+              "id": "step_1755271959867",
+              "type": "choice",
+              "content": "弓道场"
+            },
+            {
+              "id": "step_1755271960210",
+              "type": "choice",
+              "content": "揍她",
+              "prefix": "*"
+            },
+            {
+              "id": "step_1755271960562",
+              "type": "choice",
+              "content": "杀人",
+              "prefix": "*"
+            },
+            {
+              "id": "step_1755271960737",
+              "type": "choice",
+              "content": "让她口交",
+              "prefix": "*"
+            },
+            {
+              "id": "step_1755271961001",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_1755271961146",
+              "type": "choice",
+              "content": "教室"
+            },
+            {
+              "id": "step_1755271961301",
+              "type": "choice",
+              "content": "屋顶"
+            },
+            {
+              "id": "step_1755271961463",
+              "type": "choice",
+              "content": "会再次见到前来参加葬礼的男人",
+              "prefix": "*"
+            },
+            {
+              "id": "step_1755271961616",
+              "type": "choice",
+              "content": "回去"
+            },
+            {
+              "id": "step_1755271961767",
+              "type": "choice",
+              "content": "屋顶",
+              "group": "第七天"
+            },
+            {
+              "id": "step_1755271961923",
+              "type": "choice",
+              "content": "中庭"
+            },
+            {
+              "id": "step_1755271962072",
+              "type": "choice",
+              "content": "教室"
+            },
+            {
+              "id": "step_1755271962233",
+              "type": "choice",
+              "content": "弓道场"
+            },
+            {
+              "id": "step_1755271962493",
+              "type": "choice",
+              "content": "回去"
+            },
+            {
+              "id": "step_1755271962675",
+              "type": "choice",
+              "content": "屋顶",
+              "group": "第八天"
+            },
+            {
+              "id": "step_1755271962818",
+              "type": "choice",
+              "content": "后面的穴比起前面的穴更敏感的你还真是变态啊",
+              "prefix": "*"
+            },
+            {
+              "id": "step_1755271962955",
+              "type": "choice",
+              "content": "避开",
+              "prefix": "*"
+            },
+            {
+              "id": "step_1755271963129",
+              "type": "choice",
+              "content": "图书馆"
+            },
+            {
+              "id": "step_1755271963286",
+              "type": "choice",
+              "content": "中庭"
+            },
+            {
+              "id": "step_1755271963462",
+              "type": "choice",
+              "content": "教室"
+            },
+            {
+              "id": "step_1755271963619",
+              "type": "choice",
+              "content": "喜欢你",
+              "prefix": "*"
+            },
+            {
+              "id": "step_1755271963785",
+              "type": "choice",
+              "content": "弓道场"
+            },
+            {
+              "id": "step_1755271963965",
+              "type": "choice",
+              "content": "回去"
+            },
+            {
+              "id": "step_1755271964121",
+              "type": "choice",
+              "content": "觉得很有魅力",
+              "prefix": "*",
+              "group": "第九天"
+            },
+            {
+              "id": "step_1755271964430",
+              "type": "save",
+              "content": "SAVE 5"
+            },
+            {
+              "id": "step_1755271972074",
+              "type": "choice",
+              "content": "屋顶的少女"
+            }
+          ]
+        },
+        {
+          "id": "ending_1755273556523",
+          "name": "望美 END 2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755273562410",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1755273565823",
+              "type": "choice",
+              "content": "教室"
+            },
+            {
+              "id": "step_1755273565995",
+              "type": "choice",
+              "content": "屋顶"
+            },
+            {
+              "id": "step_1755273566159",
+              "type": "choice",
+              "content": "回去"
+            },
+            {
+              "id": "step_1755273566285",
+              "type": "choice",
+              "content": "这不过是我的妄想",
+              "prefix": "*",
+              "group": "第五天"
+            },
+            {
+              "id": "step_1755273566413",
+              "type": "choice",
+              "content": "教室"
+            },
+            {
+              "id": "step_1755273566573",
+              "type": "choice",
+              "content": "中庭"
+            },
+            {
+              "id": "step_1755273566705",
+              "type": "choice",
+              "content": "图书馆"
+            },
+            {
+              "id": "step_1755273566851",
+              "type": "choice",
+              "content": "莫非你没有朋友？",
+              "prefix": "*"
+            },
+            {
+              "id": "step_1755273566985",
+              "type": "choice",
+              "content": "回去"
+            },
+            {
+              "id": "step_1755273567127",
+              "type": "choice",
+              "content": "中庭",
+              "group": "第七天"
+            },
+            {
+              "id": "step_1755273567274",
+              "type": "choice",
+              "content": "弓道场"
+            },
+            {
+              "id": "step_1755273567570",
+              "type": "choice",
+              "content": "教室"
+            },
+            {
+              "id": "step_1755273567754",
+              "type": "choice",
+              "content": "屋顶"
+            },
+            {
+              "id": "step_1755273567890",
+              "type": "choice",
+              "content": "回去"
+            },
+            {
+              "id": "step_1755273568046",
+              "type": "choice",
+              "content": "图书馆",
+              "group": "第八天"
+            },
+            {
+              "id": "step_1755273568209",
+              "type": "choice",
+              "content": "教室"
+            },
+            {
+              "id": "step_1755273568371",
+              "type": "choice",
+              "content": "让我杀了你吧",
+              "prefix": "*"
+            },
+            {
+              "id": "step_1755273568532",
+              "type": "choice",
+              "content": "屋顶"
+            },
+            {
+              "id": "step_1755273568689",
+              "type": "choice",
+              "content": "你想把我的手指吞入你的后庭吧？",
+              "prefix": "*"
+            },
+            {
+              "id": "step_1755273568836",
+              "type": "choice",
+              "content": "更进一步",
+              "prefix": "*"
+            },
+            {
+              "id": "step_1755273568984",
+              "type": "choice",
+              "content": "回去"
+            },
+            {
+              "id": "step_1755273569127",
+              "type": "choice",
+              "content": "不是这种问题",
+              "prefix": "*",
+              "group": "第九天"
+            },
+            {
+              "id": "step_1755273569273",
+              "type": "choice",
+              "content": "屋顶的少女"
+            },
+            {
+              "id": "step_1755273569436",
+              "type": "choice",
+              "content": "屋顶",
+              "prefix": "*"
+            },
+            {
+              "id": "step_1755273569601",
+              "type": "choice",
+              "content": "不可原谅",
+              "prefix": "*"
+            },
+            {
+              "id": "step_1755275148158",
+              "type": "choice",
+              "content": "揍她",
+              "prefix": "*"
+            },
+            {
+              "id": "step_1755275148428",
+              "type": "choice",
+              "content": "教室",
+              "prefix": "*"
+            },
+            {
+              "id": "step_1755275148603",
+              "type": "choice",
+              "content": "中庭",
+              "prefix": "*"
+            },
+            {
+              "id": "step_1755275148776",
+              "type": "choice",
+              "content": "其实什么都记不得了。",
+              "prefix": "*"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755272173641",
+      "name": "田町真昼",
+      "endings": [
+        {
+          "id": "ending_1755272178813",
+          "name": "真昼 END 1",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_1755272180792",
+              "type": "load",
+              "content": "LOAD 5"
+            },
+            {
+              "id": "step_1755272186696",
+              "type": "choice",
+              "content": "校庭的少女"
+            }
+          ]
+        },
+        {
+          "id": "ending_1755273284133",
+          "name": "真昼 END 2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755273289457",
+              "type": "load",
+              "content": "LOAD 6"
+            },
+            {
+              "id": "step_1755273293947",
+              "type": "choice",
+              "content": "校庭的少女"
+            },
+            {
+              "id": "step_1755273298790",
+              "type": "choice",
+              "content": "中庭",
+              "prefix": "*"
+            },
+            {
+              "id": "step_1755273299017",
+              "type": "choice",
+              "content": "绝不再欺负",
+              "prefix": "*"
+            },
+            {
+              "id": "step_1755273299192",
+              "type": "choice",
+              "content": "弓道场",
+              "prefix": "*"
+            },
+            {
+              "id": "step_1755273307846",
+              "type": "choice",
+              "content": "教室",
+              "prefix": "*"
+            },
+            {
+              "id": "step_1755273308224",
+              "type": "choice",
+              "content": "虽然还是有罪恶感……",
+              "prefix": "*"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755272201338",
+      "name": "目黑御幸",
+      "endings": [
+        {
+          "id": "ending_1755272204948",
+          "name": "御幸 END 1",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_1755272208550",
+              "type": "load",
+              "content": "LOAD 5"
+            },
+            {
+              "id": "step_1755272214090",
+              "type": "choice",
+              "content": "图书馆的少女"
+            }
+          ]
+        },
+        {
+          "id": "ending_1755273329432",
+          "name": "御幸 END 2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755273334173",
+              "type": "load",
+              "content": "LOAD 6"
+            },
+            {
+              "id": "step_1755273339343",
+              "type": "choice",
+              "content": "图书馆的少女"
+            },
+            {
+              "id": "step_1755273339521",
+              "type": "choice",
+              "content": "图书馆",
+              "prefix": "*"
+            },
+            {
+              "id": "step_1755273339698",
+              "type": "choice",
+              "content": "教室",
+              "prefix": "*"
+            },
+            {
+              "id": "step_1755273339854",
+              "type": "choice",
+              "content": "屋顶",
+              "prefix": "*"
+            },
+            {
+              "id": "step_1755273339988",
+              "type": "choice",
+              "content": "其实什么都记不得了。",
+              "prefix": "*"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755272229008",
+      "name": "巢鸭睦月",
+      "endings": [
+        {
+          "id": "ending_1755272234277",
+          "name": "睦月 END 1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755272242960",
+              "type": "load",
+              "content": "LOAD 5"
+            },
+            {
+              "id": "step_1755272251707",
+              "type": "choice",
+              "content": "天使的少女"
+            },
+            {
+              "id": "step_1755272257639",
+              "type": "choice",
+              "content": "教室",
+              "prefix": "*"
+            },
+            {
+              "id": "step_1755272257789",
+              "type": "choice",
+              "content": "屋顶",
+              "prefix": "*"
+            },
+            {
+              "id": "step_1755272258161",
+              "type": "choice",
+              "content": "中庭",
+              "prefix": "*"
+            },
+            {
+              "id": "step_1755272267031",
+              "type": "choice",
+              "content": "其实什么都记不得了。",
+              "prefix": "*"
+            }
+          ]
+        },
+        {
+          "id": "ending_1755272394720",
+          "name": "睦月 END 2",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_1755272436774",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_1755272659986",
+              "type": "choice",
+              "content": "中庭"
+            },
+            {
+              "id": "step_1755272660215",
+              "type": "choice",
+              "content": "图书馆"
+            },
+            {
+              "id": "step_1755272660378",
+              "type": "choice",
+              "content": "……对不起，其实，我对这方面很不擅长",
+              "prefix": "*"
+            },
+            {
+              "id": "step_1755272660621",
+              "type": "choice",
+              "content": "回去"
+            },
+            {
+              "id": "step_1755272660778",
+              "type": "choice",
+              "content": "弓道场",
+              "group": "第七天"
+            },
+            {
+              "id": "step_1755272660900",
+              "type": "choice",
+              "content": "教室"
+            },
+            {
+              "id": "step_1755272661045",
+              "type": "choice",
+              "content": "屋顶"
+            },
+            {
+              "id": "step_1755272661175",
+              "type": "choice",
+              "content": "中庭"
+            },
+            {
+              "id": "step_1755272661306",
+              "type": "choice",
+              "content": "图书馆"
+            },
+            {
+              "id": "step_1755272661450",
+              "type": "choice",
+              "content": "回去"
+            },
+            {
+              "id": "step_1755272661591",
+              "type": "choice",
+              "content": "弓道场",
+              "group": "第八天"
+            },
+            {
+              "id": "step_1755272661731",
+              "type": "choice",
+              "content": "屋顶"
+            },
+            {
+              "id": "step_1755272661884",
+              "type": "choice",
+              "content": "中庭"
+            },
+            {
+              "id": "step_1755272662024",
+              "type": "choice",
+              "content": "图书馆"
+            },
+            {
+              "id": "step_1755272662172",
+              "type": "choice",
+              "content": "回去"
+            },
+            {
+              "id": "step_1755272662433",
+              "type": "choice",
+              "content": "含糊其辞",
+              "prefix": "*",
+              "group": "第九天"
+            },
+            {
+              "id": "step_1755272662602",
+              "type": "save",
+              "content": "SAVE 6"
+            },
+            {
+              "id": "step_1755272662753",
+              "type": "choice",
+              "content": "天使的少女"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755272299140",
+      "name": "上野羽由",
+      "endings": [
+        {
+          "id": "ending_1755272300486",
+          "name": "羽由 END 1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755272303293",
+              "type": "load",
+              "content": "LOAD 5"
+            },
+            {
+              "id": "step_1755272313061",
+              "type": "choice",
+              "content": "弓道场的少女"
+            },
+            {
+              "id": "step_1755272313232",
+              "type": "choice",
+              "content": "弓道场",
+              "prefix": "*"
+            },
+            {
+              "id": "step_1755272313431",
+              "type": "choice",
+              "content": "话说，你不是没穿衣服吗",
+              "prefix": "*"
+            },
+            {
+              "id": "step_1755272313598",
+              "type": "choice",
+              "content": "教室",
+              "prefix": "*"
+            },
+            {
+              "id": "step_1755272313882",
+              "type": "choice",
+              "content": "屋顶",
+              "prefix": "*"
+            },
+            {
+              "id": "step_1755272314190",
+              "type": "choice",
+              "content": "虽然还是有罪恶感……",
+              "prefix": "*"
+            }
+          ]
+        },
+        {
+          "id": "ending_1755273165532",
+          "name": "羽由 END 2",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_1755273168043",
+              "type": "load",
+              "content": "LOAD 6"
+            },
+            {
+              "id": "step_1755273261171",
+              "type": "choice",
+              "content": "弓道场的少女"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755275250693",
+      "name": "CG回收",
+      "endings": [
+        {
+          "id": "ending_1783758372206",
+          "name": "END",
+          "type": "normal",
+          "requirements": "对于想把第六天梦境里的文本全部回收的玩家（没有新的CG和结局，每次只有一页的对话，而且回收起来会有点辛苦）。 注意：第五天结束，天色暗下来后请不要再加速了，第六天凌晨就会开始梦境。看完对话后才算“回收完毕”。",
+          "steps": [
+            {
+              "type": "choice",
+              "content": "（源站步骤均为空）"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

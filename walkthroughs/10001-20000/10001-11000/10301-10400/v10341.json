@@ -1,0 +1,340 @@
+{
+  "vid": "v10341",
+  "name": {
+    "zh-cn": "LOVELY QUEST",
+    "ja-jp": "LOVELY QUEST",
+    "ja-Latn": "lovely-quest"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-14",
+  "tips": [
+    "○号选项为Girls Talk选项，■号选项为角色选择。はつね二周目之后才可攻略",
+    "RTC:选项部分对攻略的进行无影响。任意人攻略完毕后，配角おまけ剧情会追加"
+  ],
+  "routes": [
+    {
+      "id": "route_game",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_hami",
+          "name": "羽美 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_hami_01",
+              "type": "note",
+              "content": "水穗＆爱乃＆伊吕波",
+              "prefix": "○"
+            },
+            {
+              "id": "step_hami_02",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_hami_03",
+              "type": "note",
+              "content": "瑚乃瀬 羽美",
+              "prefix": "■"
+            },
+            {
+              "id": "step_hami_04",
+              "type": "note",
+              "content": "RTC："
+            },
+            {
+              "id": "step_hami_05",
+              "type": "note",
+              "content": "桜庭 水穂",
+              "prefix": "■"
+            },
+            {
+              "id": "step_hami_06",
+              "type": "note",
+              "content": "瑚乃瀬 羽美",
+              "prefix": "■"
+            },
+            {
+              "id": "step_hami_07",
+              "type": "note",
+              "content": "RTC："
+            },
+            {
+              "id": "step_hami_08",
+              "type": "note",
+              "content": "瑚乃瀬 羽美",
+              "prefix": "■"
+            },
+            {
+              "id": "step_hami_09",
+              "type": "note",
+              "content": "RTC:"
+            },
+            {
+              "id": "step_hami_10",
+              "type": "note",
+              "content": "自宅前：羽美",
+              "prefix": "■"
+            },
+            {
+              "id": "step_hami_11",
+              "type": "note",
+              "content": "自宅・客厅：羽美",
+              "prefix": "■"
+            },
+            {
+              "id": "step_hami_12",
+              "type": "choice",
+              "content": "羽美你才是辛苦了。"
+            },
+            {
+              "id": "step_hami_13",
+              "type": "choice",
+              "content": "明天早上我想喝羽美做的味噌汤。"
+            },
+            {
+              "id": "step_hami_14",
+              "type": "choice",
+              "content": "明天也请多关照。"
+            },
+            {
+              "id": "step_hami_15",
+              "type": "choice",
+              "content": "嗯，这样就好"
+            },
+            {
+              "id": "step_hami_16",
+              "type": "note",
+              "content": "瑚乃瀬 羽美",
+              "prefix": "■"
+            },
+            {
+              "id": "step_hami_17",
+              "type": "note",
+              "content": "RTC:"
+            },
+            {
+              "id": "step_hami_18",
+              "type": "choice",
+              "content": "要回家吗……→回家",
+              "prefix": "■"
+            },
+            {
+              "id": "step_hami_19",
+              "type": "note",
+              "content": "走廊：羽美",
+              "prefix": "■"
+            },
+            {
+              "id": "step_hami_20",
+              "type": "note",
+              "content": "RTC:"
+            },
+            {
+              "id": "step_hami_21",
+              "type": "note",
+              "content": "──羽美篇──"
+            },
+            {
+              "id": "step_hami_22",
+              "type": "choice",
+              "content": "我也很享受这次约会。"
+            },
+            {
+              "id": "step_hami_23",
+              "type": "choice",
+              "content": "下次两个人独处时尽情接吻吧。"
+            },
+            {
+              "id": "step_hami_24",
+              "type": "choice",
+              "content": "我爱你，羽美。"
+            },
+            {
+              "id": "step_hami_25",
+              "type": "choice",
+              "content": "嗯，这样就好"
+            },
+            {
+              "id": "step_hami_31",
+              "type": "choice",
+              "content": "我也很舒服哦，羽美。"
+            },
+            {
+              "id": "step_hami_32",
+              "type": "choice",
+              "content": "我也想早点见到羽美……。"
+            },
+            {
+              "id": "step_hami_33",
+              "type": "choice",
+              "content": "晚安，羽美，我爱你。"
+            },
+            {
+              "id": "step_hami_34",
+              "type": "choice",
+              "content": "嗯，这样就好"
+            }
+          ]
+        },
+        {
+          "id": "ending_mizuho",
+          "name": "水穗 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_mizuho_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_mizuho_02",
+              "type": "note",
+              "content": "桜庭 水穂",
+              "prefix": "■"
+            },
+            {
+              "id": "step_mizuho_03",
+              "type": "note",
+              "content": "RTC："
+            },
+            {
+              "id": "step_mizuho_04",
+              "type": "note",
+              "content": "瑚乃瀬 羽美",
+              "prefix": "■"
+            },
+            {
+              "id": "step_mizuho_05",
+              "type": "note",
+              "content": "RTC："
+            },
+            {
+              "id": "step_mizuho_06",
+              "type": "choice",
+              "content": "要回家吗……→回家",
+              "prefix": "■"
+            },
+            {
+              "id": "step_mizuho_07",
+              "type": "note",
+              "content": "桜庭 水穂",
+              "prefix": "■"
+            },
+            {
+              "id": "step_mizuho_08",
+              "type": "note",
+              "content": "RTC："
+            },
+            {
+              "id": "step_mizuho_09",
+              "type": "note",
+              "content": "自宅・客厅：水穗",
+              "prefix": "■"
+            },
+            {
+              "id": "step_mizuho_10",
+              "type": "note",
+              "content": "自宅・水穗的房间：水穗",
+              "prefix": "■"
+            },
+            {
+              "id": "step_mizuho_11",
+              "type": "choice",
+              "content": "我也还没睡着。"
+            },
+            {
+              "id": "step_mizuho_12",
+              "type": "choice",
+              "content": "既然睡不着，要不要睡在我旁边？"
+            },
+            {
+              "id": "step_mizuho_13",
+              "type": "choice",
+              "content": "梦里见吧。"
+            },
+            {
+              "id": "step_mizuho_14",
+              "type": "choice",
+              "content": "嗯，这样就好"
+            },
+            {
+              "id": "step_mizuho_15",
+              "type": "note",
+              "content": "桜庭 水穂",
+              "prefix": "■"
+            },
+            {
+              "id": "step_mizuho_16",
+              "type": "note",
+              "content": "RTC："
+            },
+            {
+              "id": "step_mizuho_17",
+              "type": "note",
+              "content": "桜庭 水穂",
+              "prefix": "■"
+            },
+            {
+              "id": "step_mizuho_18",
+              "type": "note",
+              "content": "RTC："
+            },
+            {
+              "id": "step_mizuho_19",
+              "type": "note",
+              "content": "车站前：水穗",
+              "prefix": "■"
+            },
+            {
+              "id": "step_mizuho_20",
+              "type": "note",
+              "content": "RTC："
+            },
+            {
+              "id": "step_mizuho_21",
+              "type": "choice",
+              "content": "下次再一起约会吧。"
+            },
+            {
+              "id": "step_mizuho_22",
+              "type": "choice",
+              "content": "我很期待明天早安的吻。"
+            },
+            {
+              "id": "step_mizuho_23",
+              "type": "choice",
+              "content": "水穗，我爱你。"
+            },
+            {
+              "id": "step_mizuho_24",
+              "type": "choice",
+              "content": "嗯，这样就好"
+            },
+            {
+              "id": "step_mizuho_30",
+              "type": "choice",
+              "content": "刚才已经说完了。"
+            },
+            {
+              "id": "step_mizuho_31",
+              "type": "choice",
+              "content": "我会一直和水穗在一起。"
+            },
+            {
+              "id": "step_mizuho_32",
+              "type": "choice",
+              "content": "我马上过去。我想早点见到水穗。"
+            },
+            {
+              "id": "step_mizuho_33",
+              "type": "choice",
+              "content": "嗯，这样就好"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

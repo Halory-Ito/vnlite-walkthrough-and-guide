@@ -1,0 +1,257 @@
+{
+  "vid": "v16070",
+  "name": {
+    "zh-cn": "花咲work spring！",
+    "ja-jp": "花咲ワークスプリング！",
+    "ja-Latn": "hanasaki-work-spring"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-14",
+  "tips": [
+    "上月 柑南、花咲 乃乃香：需通关最初的4位女主角（不知火 祈、玖音 彩乃、琴吹 光、空森 若叶）路线后解锁",
+    "推荐按照以下顺序进行游玩： Normal End (普通结局) ➔ 光 ➔ 若叶 ➔ 彩乃 ➔ 祈 ➔ 柑南 / 乃乃香 ➔ Grand (真结局) ➔ AFTER",
+    "Grand (真结局) 路线：需通关包含『上月 柑南』、『花咲 乃乃香』在内的全部6位女主角路线后自动解锁。"
+  ],
+  "routes": [
+    {
+      "id": "route_1772869957933",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1772869966497",
+          "name": "共通路线",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1773021901844",
+              "type": "choice",
+              "content": "不给点心"
+            },
+            {
+              "id": "step_1773021904109",
+              "type": "choice",
+              "content": "给点心"
+            },
+            {
+              "id": "step_1773021905290",
+              "type": "save",
+              "content": "SAVE 1"
+            }
+          ]
+        },
+        {
+          "id": "ending_1773021920865",
+          "name": "Normal End",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1773021939721",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1773021941787",
+              "type": "choice",
+              "content": "可能比较喜欢好胜的女孩"
+            },
+            {
+              "id": "step_1773021941942",
+              "type": "choice",
+              "content": "不知火祈"
+            },
+            {
+              "id": "step_1773021942090",
+              "type": "choice",
+              "content": "玖音彩乃"
+            },
+            {
+              "id": "step_1773021942238",
+              "type": "choice",
+              "content": "琴吹光"
+            },
+            {
+              "id": "step_1773021942351",
+              "type": "choice",
+              "content": "空森若叶"
+            },
+            {
+              "id": "step_1773021967876",
+              "type": "choice",
+              "content": "不知火祈"
+            }
+          ]
+        },
+        {
+          "id": "ending_1773021981903",
+          "name": "琴吹 光",
+          "type": "good",
+          "steps": [
+            {
+              "id": "step_1773022000253",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1773022001946",
+              "type": "choice",
+              "content": "想守护坦率的学妹"
+            },
+            {
+              "id": "step_1773022002091",
+              "type": "choice",
+              "content": "琴吹光"
+            }
+          ]
+        },
+        {
+          "id": "ending_1773022036098",
+          "name": "空森 若叶",
+          "type": "good",
+          "steps": [
+            {
+              "id": "step_1773022047343",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1773022047907",
+              "type": "choice",
+              "content": "那就是眼前的青梅竹马，你啊！"
+            },
+            {
+              "id": "step_1773022048055",
+              "type": "choice",
+              "content": "空森若叶"
+            }
+          ]
+        },
+        {
+          "id": "ending_1773022064737",
+          "name": "玖音 彩乃",
+          "type": "good",
+          "steps": [
+            {
+              "id": "step_1773022074229",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1773022074763",
+              "type": "choice",
+              "content": "漂亮的大姐姐万岁！"
+            },
+            {
+              "id": "step_1773022076521",
+              "type": "choice",
+              "content": "玖音彩乃"
+            }
+          ]
+        },
+        {
+          "id": "ending_1773022093588",
+          "name": "不知火 祈",
+          "type": "good",
+          "steps": [
+            {
+              "id": "step_1773022103669",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1773022104083",
+              "type": "choice",
+              "content": "可能比较喜欢好胜的女孩"
+            },
+            {
+              "id": "step_1773022104351",
+              "type": "choice",
+              "content": "不知火祈"
+            },
+            {
+              "id": "step_1773022104828",
+              "type": "choice",
+              "content": "有点在意。追上去吧。硬要说的话"
+            },
+            {
+              "id": "step_1773022104928",
+              "type": "choice",
+              "content": "不知火祈"
+            },
+            {
+              "id": "step_1773022164176",
+              "type": "choice",
+              "content": "不知火祈",
+              "subfix": "选择「空森若叶」➔ 会触发一段“和久美酱一起吃晚饭”的剧情并进入 Normal END"
+            }
+          ]
+        },
+        {
+          "id": "ending_1773022093772",
+          "name": "上月 柑南",
+          "type": "good",
+          "steps": [
+            {
+              "id": "step_1773022282429",
+              "type": "note",
+              "content": "通关祈、彩乃、光、若叶4位主要角色的结局后，从标题画面选择「AFTER」开始"
+            },
+            {
+              "id": "step_1773022309997",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1773022309226",
+              "type": "choice",
+              "content": "倾听柑南的烦恼"
+            },
+            {
+              "id": "step_1773022321133",
+              "type": "choice",
+              "content": "喜欢短发/喜欢长发"
+            }
+          ]
+        },
+        {
+          "id": "ending_1773022344768",
+          "name": "花咲 乃乃香",
+          "type": "good",
+          "steps": [
+            {
+              "id": "step_1773022353147",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1773022355149",
+              "type": "choice",
+              "content": "听从乃乃香的请求"
+            }
+          ]
+        },
+        {
+          "id": "ending_1773022360568",
+          "name": "真结局",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_1773022389758",
+              "type": "note",
+              "content": "通关『柑南』与『乃乃香』的结局后解锁"
+            },
+            {
+              "id": "step_1773022405645",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1773022412406",
+              "type": "choice",
+              "content": "收下钥匙扣"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

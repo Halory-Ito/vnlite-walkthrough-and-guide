@@ -1,0 +1,45 @@
+{
+  "vid": "v5244",
+  "name": {
+    "zh-cn": "はなひらっ!",
+    "ja-jp": "はなひらっ！",
+    "ja-Latn": "hanahira"
+  },
+  "level": 1,
+  "updatedAt": "2026-05-06",
+  "routes": [
+    {
+      "id": "route_1778062182166",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1778062186748",
+          "name": "END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1778062191724",
+              "type": "choice",
+              "content": "你可以一边微笑一边看出来"
+            },
+            {
+              "id": "step_1778062191882",
+              "type": "choice",
+              "content": "我来收拾"
+            },
+            {
+              "id": "step_1778062192039",
+              "type": "choice",
+              "content": "真尴尬"
+            },
+            {
+              "id": "step_1778062192196",
+              "type": "choice",
+              "content": "不可能！？"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

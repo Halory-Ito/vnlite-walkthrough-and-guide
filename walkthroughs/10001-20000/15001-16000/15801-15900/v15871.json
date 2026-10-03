@@ -1,0 +1,133 @@
+{
+  "vid": "v15871",
+  "name": {
+    "zh-cn": "纸上的魔法使",
+    "ja-jp": "紙の上の魔法使い",
+    "ja-Latn": "kami-no-ue-no-mahoutsukai"
+  },
+  "level": 2,
+  "updatedAt": "2026-05-08",
+  "routes": [
+    {
+      "id": "route_1778218880945",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1778218886767",
+          "name": "伏见 理央 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1778218897137",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1778218897286",
+              "type": "choice",
+              "content": "对钟爱少女的，极致的爱意"
+            }
+          ]
+        },
+        {
+          "id": "ending_1778218907173",
+          "name": "月社 妃 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1778218919871",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1778218921223",
+              "type": "choice",
+              "content": "对钟爱朋友的，极致的友谊"
+            },
+            {
+              "id": "step_1778218921696",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1778218922714",
+              "type": "choice",
+              "content": "可最喜欢你"
+            }
+          ]
+        },
+        {
+          "id": "ending_1778218930966",
+          "name": "游行寺 夜子 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1778218938213",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1778218940594",
+              "type": "choice",
+              "content": "可最讨厌你"
+            },
+            {
+              "id": "step_1778218958518",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_1778218960888",
+              "type": "choice",
+              "content": "为了夜子，返还撕掉的书页"
+            }
+          ]
+        },
+        {
+          "id": "ending_1778218964067",
+          "name": "日向 彼方 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1778218976464",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1778218978826",
+              "type": "choice",
+              "content": "为了自己，阅读撕掉的书页"
+            },
+            {
+              "id": "step_1778218980603",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_1778218980958",
+              "type": "choice",
+              "content": "撕毁魔法之书"
+            }
+          ]
+        },
+        {
+          "id": "ending_1778218989578",
+          "name": "克丽索贝莉露 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1778219000356",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_1778219001445",
+              "type": "choice",
+              "content": "不撕毁魔法之书"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

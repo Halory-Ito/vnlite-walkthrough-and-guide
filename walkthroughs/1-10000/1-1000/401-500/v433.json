@@ -1,0 +1,126 @@
+{
+  "vid": "v433",
+  "name": {
+    "zh-cn": "吸血歼鬼",
+    "ja-jp": "吸血殲鬼ヴェドゴニア",
+    "ja-Latn": "vampirdzhija-vjedogonia"
+  },
+  "level": 2,
+  "updatedAt": "2026-05-08",
+  "routes": [
+    {
+      "id": "route_1",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_kaori",
+          "name": "来栖 香织 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1",
+              "type": "choice",
+              "content": "思考"
+            },
+            {
+              "id": "step_2",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_3",
+              "type": "choice",
+              "content": "拜托弥沙子"
+            },
+            {
+              "id": "step_4",
+              "type": "choice",
+              "content": "沉默"
+            }
+          ]
+        },
+        {
+          "id": "ending_misako",
+          "name": "白柳 弥沙子 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_5",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_6",
+              "type": "choice",
+              "content": "帮助弥沙子"
+            },
+            {
+              "id": "step_7",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_8",
+              "type": "choice",
+              "content": "沉默"
+            },
+            {
+              "id": "step_9",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_10",
+              "type": "choice",
+              "content": "去部室"
+            }
+          ]
+        },
+        {
+          "id": "ending_mora",
+          "name": "茉拉 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_11",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_12",
+              "type": "choice",
+              "content": "回家"
+            }
+          ]
+        },
+        {
+          "id": "ending_renano",
+          "name": "莲雅诺 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_13",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_14",
+              "type": "choice",
+              "content": "点头"
+            },
+            {
+              "id": "step_15",
+              "type": "choice",
+              "content": "去部室"
+            },
+            {
+              "id": "step_16",
+              "type": "choice",
+              "content": "不想再做人类"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

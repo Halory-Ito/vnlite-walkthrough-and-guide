@@ -1,0 +1,364 @@
+{
+  "vid": "v12984",
+  "name": {
+    "zh-cn": "星辰恋曲的白色永恒",
+    "ja-jp": "アストラエアの白き永遠",
+    "ja-Latn": "astralair-no-shiroki-towa"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-12",
+  "tips": [
+    "一周目只能攻略落叶、一夏、琴里。落叶END后，铃音和科罗娜路线开放。雪雪必须在以上5人END后才可攻略。",
+    "★选项为追加选项，不出现的话无视即可。"
+  ],
+  "routes": [
+    {
+      "id": "route_1757425039150",
+      "name": "橘 落叶",
+      "endings": [
+        {
+          "id": "ending_1757425044560",
+          "name": "落叶 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1757425188537",
+              "type": "choice",
+              "content": "不回忆",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1757425188754",
+              "type": "choice",
+              "content": "从明天开始，也一起吃饭吗？",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1757425190684",
+              "type": "choice",
+              "content": "对铃音的话点头",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1757425191076",
+              "type": "choice",
+              "content": "强行蒙过去",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1757425191870",
+              "type": "choice",
+              "content": "给她台阶下"
+            },
+            {
+              "id": "step_1757425194653",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1757425195882",
+              "type": "choice",
+              "content": "不向她搭话"
+            },
+            {
+              "id": "step_1757425196307",
+              "type": "choice",
+              "content": "不觉得"
+            },
+            {
+              "id": "step_1757425196771",
+              "type": "choice",
+              "content": "不必着急"
+            },
+            {
+              "id": "step_1757425197286",
+              "type": "choice",
+              "content": "旁观"
+            },
+            {
+              "id": "step_1757425201041",
+              "type": "choice",
+              "content": "不赞同"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1757425407853",
+      "name": "夕凪 一夏",
+      "endings": [
+        {
+          "id": "ending_1757425449754",
+          "name": "一夏 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1757425452638",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1757425453491",
+              "type": "choice",
+              "content": "向她搭话"
+            },
+            {
+              "id": "step_1757425453712",
+              "type": "choice",
+              "content": "觉得"
+            },
+            {
+              "id": "step_1757425464559",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1757425469253",
+              "type": "choice",
+              "content": "立刻确认"
+            },
+            {
+              "id": "step_1757425469478",
+              "type": "choice",
+              "content": "旁观"
+            },
+            {
+              "id": "step_1757425469858",
+              "type": "choice",
+              "content": "不赞同"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1757425608466",
+      "name": "水之濑 琴里",
+      "endings": [
+        {
+          "id": "ending_1757425643745",
+          "name": "琴里 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1757425659878",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1757425679004",
+              "type": "choice",
+              "content": "不必着急"
+            },
+            {
+              "id": "step_1757425679165",
+              "type": "choice",
+              "content": "帮忙"
+            },
+            {
+              "id": "step_1757425679414",
+              "type": "choice",
+              "content": "赞同她"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1757425751654",
+      "name": "萤铃音",
+      "endings": [
+        {
+          "id": "ending_1757425769472",
+          "name": "铃音 END",
+          "type": "normal",
+          "requirements": "※落叶END后从最初开始",
+          "steps": [
+            {
+              "id": "step_1757425967670",
+              "type": "choice",
+              "content": "回忆过往",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1757425967859",
+              "type": "choice",
+              "content": "我们试着成为朋友吧？",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1757425970257",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_1757425974348",
+              "type": "choice",
+              "content": "对铃音的话摇头",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1757425974525",
+              "type": "choice",
+              "content": "强行蒙过去",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1757425974709",
+              "type": "choice",
+              "content": "不管"
+            },
+            {
+              "id": "step_1757425974864",
+              "type": "choice",
+              "content": "不向她搭话"
+            },
+            {
+              "id": "step_1757425975009",
+              "type": "choice",
+              "content": "觉得"
+            },
+            {
+              "id": "step_1757425975170",
+              "type": "choice",
+              "content": "不必着急"
+            },
+            {
+              "id": "step_1757425976250",
+              "type": "choice",
+              "content": "旁观"
+            },
+            {
+              "id": "step_1757425976415",
+              "type": "choice",
+              "content": "不赞同"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1757426483725",
+      "name": "科罗娜",
+      "endings": [
+        {
+          "id": "ending_1757426547361",
+          "name": "科罗娜 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1757426556058",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1757426564048",
+              "type": "choice",
+              "content": "★对铃音的话点头"
+            },
+            {
+              "id": "step_1757426564232",
+              "type": "choice",
+              "content": "★开玩笑蒙过去"
+            },
+            {
+              "id": "step_1757426564745",
+              "type": "choice",
+              "content": "不管"
+            },
+            {
+              "id": "step_1757426565668",
+              "type": "choice",
+              "content": "不向她搭话"
+            },
+            {
+              "id": "step_1757426566060",
+              "type": "choice",
+              "content": "觉得"
+            },
+            {
+              "id": "step_1757426566437",
+              "type": "choice",
+              "content": "不必着急"
+            },
+            {
+              "id": "step_1757426566873",
+              "type": "choice",
+              "content": "旁观"
+            },
+            {
+              "id": "step_1757426567292",
+              "type": "choice",
+              "content": "不赞同"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1757426485227",
+      "name": "雪雪",
+      "endings": [
+        {
+          "id": "ending_1757426753454",
+          "name": "雪雪 END",
+          "type": "normal",
+          "requirements": "※以上5人END后从最初开始。",
+          "steps": [
+            {
+              "id": "step_1757426794599",
+              "type": "choice",
+              "content": "★不回忆"
+            },
+            {
+              "id": "step_1757426794738",
+              "type": "choice",
+              "content": "★从明天开始，也一起吃饭吗？"
+            },
+            {
+              "id": "step_1757426794879",
+              "type": "choice",
+              "content": "★对铃音的话点头"
+            },
+            {
+              "id": "step_1757426795015",
+              "type": "choice",
+              "content": "★强行蒙过去"
+            },
+            {
+              "id": "step_1757426795180",
+              "type": "choice",
+              "content": "不管"
+            },
+            {
+              "id": "step_1757426795484",
+              "type": "choice",
+              "content": "不向她搭话"
+            },
+            {
+              "id": "step_1757426795671",
+              "type": "choice",
+              "content": "觉得"
+            },
+            {
+              "id": "step_1757426795837",
+              "type": "choice",
+              "content": "不必着急"
+            },
+            {
+              "id": "step_1757426795986",
+              "type": "choice",
+              "content": "旁观"
+            },
+            {
+              "id": "step_1757426796128",
+              "type": "choice",
+              "content": "不赞同"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

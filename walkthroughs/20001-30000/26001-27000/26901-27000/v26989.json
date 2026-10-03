@@ -1,0 +1,217 @@
+{
+  "vid": "v26989",
+  "name": {
+    "zh-cn": "我的身体透明了！？不可视之药与坎坷的命运",
+    "ja-jp": "俺の姿が、透明に!? 不可視の薬と数奇な運命",
+    "ja-Latn": "ore-no-sugata-ga-toumei-ni"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-14",
+  "routes": [
+    {
+      "id": "route_1773046160436",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1773046166752",
+          "name": "亚芽 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1773046311612",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1773046312704",
+              "type": "choice",
+              "content": "接受亚芽"
+            },
+            {
+              "id": "step_1773046312883",
+              "type": "choice",
+              "content": "七夕莉、琥珀、应援、琥珀、冬羽"
+            }
+          ]
+        },
+        {
+          "id": "ending_1773046323503",
+          "name": "琥珀 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1773046330637",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1773046334304",
+              "type": "choice",
+              "content": "取回理性"
+            },
+            {
+              "id": "step_1773046334450",
+              "type": "choice",
+              "content": "就在这里清醒"
+            },
+            {
+              "id": "step_1773046334599",
+              "type": "choice",
+              "content": "学生会和作战会议"
+            },
+            {
+              "id": "step_1773046345307",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1773046349977",
+              "type": "choice",
+              "content": "让我来做杂事吧"
+            },
+            {
+              "id": "step_1773046351893",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_1773046354676",
+              "type": "choice",
+              "content": "去看看亚芽她们"
+            },
+            {
+              "id": "step_1773046359692",
+              "type": "choice",
+              "content": "制作沙滩城堡"
+            }
+          ]
+        },
+        {
+          "id": "ending_1773046366250",
+          "name": "七夕莉 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1773046379957",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1773046383340",
+              "type": "choice",
+              "content": "担心直播的地方"
+            },
+            {
+              "id": "step_1773046383508",
+              "type": "choice",
+              "content": "请教学姐"
+            },
+            {
+              "id": "step_1773046388228",
+              "type": "choice",
+              "content": "制作沙滩城堡"
+            }
+          ]
+        },
+        {
+          "id": "ending_1773046394579",
+          "name": "冬羽 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1773046406300",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1773046409103",
+              "type": "choice",
+              "content": "去看看学妹"
+            },
+            {
+              "id": "step_1773046409611",
+              "type": "choice",
+              "content": "参加沙滩排球"
+            }
+          ]
+        },
+        {
+          "id": "ending_1773046420383",
+          "name": "千岁 END",
+          "type": "true",
+          "requirements": "通关以上4位角色的线路后，选择“从最初开始”进入",
+          "steps": [
+            {
+              "id": "step_1773046443802",
+              "type": "choice",
+              "content": "取回理性"
+            },
+            {
+              "id": "step_1773046451403",
+              "type": "choice",
+              "content": "抗拒不了的感觉"
+            },
+            {
+              "id": "step_1773046451559",
+              "type": "choice",
+              "content": "看看有没有需要帮忙的"
+            },
+            {
+              "id": "step_1773046451714",
+              "type": "choice",
+              "content": "担心直播的地方"
+            },
+            {
+              "id": "step_1773046451833",
+              "type": "choice",
+              "content": "转换心情看看直播"
+            },
+            {
+              "id": "step_1773046457021",
+              "type": "choice",
+              "content": "轻松度过"
+            }
+          ]
+        },
+        {
+          "id": "ending_1773046469553",
+          "name": "后宫",
+          "type": "good",
+          "requirements": "通关【千岁 END】后，标题画面会新增“后宫路线”入口",
+          "steps": [
+            {
+              "id": "step_1773046527161",
+              "type": "choice",
+              "content": "亚芽和千岁一起的话就很不错",
+              "subfix": "亚芽＆千岁 END"
+            },
+            {
+              "id": "step_1773046527360",
+              "type": "choice",
+              "content": "可以来场学生会！",
+              "subfix": "七夕莉＆冬羽 END"
+            },
+            {
+              "id": "step_1773046527556",
+              "type": "choice",
+              "content": "果然琥珀和紫绪都难以舍弃呢",
+              "subfix": "琥珀＆紫绪 END"
+            },
+            {
+              "id": "step_1773046527854",
+              "type": "choice",
+              "content": "选择亲切的异性作为对象吧",
+              "subfix": "水无月 紫绪 END"
+            },
+            {
+              "id": "step_1773046528213",
+              "type": "choice",
+              "content": "我想吃的，是－你－哦！！",
+              "subfix": "待雪 雾 END"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

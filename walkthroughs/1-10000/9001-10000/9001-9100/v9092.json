@@ -1,0 +1,156 @@
+{
+  "vid": "v9092",
+  "name": {
+    "zh-cn": "Prism Recollection!",
+    "ja-jp": "プリズム◇リコレクション！",
+    "ja-Latn": "prism-recollection"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-14",
+  "routes": [
+    {
+      "id": "route_game_guide",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_hinano_end",
+          "name": "雏乃 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_hinano_01",
+              "type": "choice",
+              "content": "被自称超厉害的导航员带来了……"
+            },
+            {
+              "id": "step_hinano_02",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_hinano_03",
+              "type": "choice",
+              "content": "我倒也不否认……"
+            },
+            {
+              "id": "step_hinano_04",
+              "type": "choice",
+              "content": "知道了……骂我吧！"
+            },
+            {
+              "id": "step_hinano_05",
+              "type": "choice",
+              "content": "想享受和她一起度过的时光"
+            },
+            {
+              "id": "step_hinano_06",
+              "type": "choice",
+              "content": "独占回忆会更好吧"
+            },
+            {
+              "id": "step_hinano_07",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_hinano_08",
+              "type": "choice",
+              "content": "我想和雏乃一起接受"
+            },
+            {
+              "id": "step_hinano_09",
+              "type": "choice",
+              "content": "纱耶香的欧派"
+            }
+          ]
+        },
+        {
+          "id": "ending_konoka_end",
+          "name": "木乃香 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_konoka_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_konoka_02",
+              "type": "choice",
+              "content": "因为觉得会很开心"
+            },
+            {
+              "id": "step_konoka_03",
+              "type": "choice",
+              "content": "因为木乃香经常这么说"
+            },
+            {
+              "id": "step_konoka_04",
+              "type": "choice",
+              "content": "想把它用在能给对方带来幸福的地方"
+            },
+            {
+              "id": "step_konoka_05",
+              "type": "choice",
+              "content": "被拍照会更好吧"
+            },
+            {
+              "id": "step_konoka_06",
+              "type": "choice",
+              "content": "我想和雏乃一起接受"
+            },
+            {
+              "id": "step_konoka_07",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_konoka_08",
+              "type": "choice",
+              "content": "木乃香的欧派"
+            }
+          ]
+        },
+        {
+          "id": "ending_aina_end",
+          "name": "艾娜 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_aina_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_aina_02",
+              "type": "choice",
+              "content": "让艾娜来教我也不错"
+            },
+            {
+              "id": "step_aina_03",
+              "type": "choice",
+              "content": "木乃香的欧派"
+            }
+          ]
+        },
+        {
+          "id": "ending_sayaka_end",
+          "name": "纱耶香 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_sayaka_01",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_sayaka_02",
+              "type": "choice",
+              "content": "纱耶香的欧派"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

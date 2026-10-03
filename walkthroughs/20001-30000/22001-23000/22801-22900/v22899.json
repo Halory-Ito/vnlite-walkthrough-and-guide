@@ -1,0 +1,115 @@
+{
+  "vid": "v22899",
+  "name": {
+    "zh-cn": "NUKITASHI",
+    "en-us": "NUKITASHI",
+    "ja-jp": "抜きゲーみたいな島に住んでる貧乳はどうすりゃいいですか？",
+    "ja-Latn": "nukitashi"
+  },
+  "level": 2,
+  "updatedAt": "2026-05-17",
+  "tips": [
+    "推荐顺序：片桐奈奈濑 - 渡会雏见 - 畔美岬 - 琴寄文乃"
+  ],
+  "routes": [
+    {
+      "id": "route_1773038768036",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1773038778961",
+          "name": "奈奈濑 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1773038793706",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1773038796057",
+              "type": "choice",
+              "content": "片桐奈奈濑"
+            }
+          ]
+        },
+        {
+          "id": "ending_1773038802699",
+          "name": "雏见 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1773038813979",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1773038814857",
+              "type": "choice",
+              "content": "渡会雏见"
+            }
+          ]
+        },
+        {
+          "id": "ending_1773038802932",
+          "name": "美岬 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1773038827963",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1773038828547",
+              "type": "choice",
+              "content": "畔美岬"
+            }
+          ]
+        },
+        {
+          "id": "ending_1773038803129",
+          "name": "文乃 END",
+          "type": "true",
+          "requirements": "必须先通关前三位女主路线",
+          "steps": [
+            {
+              "id": "step_1779027044701",
+              "type": "note",
+              "content": "重开游戏"
+            },
+            {
+              "id": "step_1773038842167",
+              "type": "choice",
+              "content": "选项三人中任意一人"
+            },
+            {
+              "id": "step_1779027070194",
+              "type": "choice",
+              "content": "不能就这样倒下去"
+            }
+          ]
+        },
+        {
+          "id": "ending_1779027427619",
+          "name": "场景回收",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1779027463332",
+              "type": "choice",
+              "content": "场景路线2： 2-24 中场之恋",
+              "subfix": "桐香场景回收"
+            },
+            {
+              "id": "step_1779027501540",
+              "type": "choice",
+              "content": "场景路线3： 3-27",
+              "subfix": "礼场景回收"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

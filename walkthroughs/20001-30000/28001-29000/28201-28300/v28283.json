@@ -1,0 +1,2901 @@
+{
+  "vid": "v28283",
+  "name": {
+    "zh-cn": "放学后的灰姑娘",
+    "ja-jp": "放課後シンデレラ",
+    "ja-Latn": "houkago-cinderella"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-14",
+  "tips": [
+    "选择回家路线时按选择顺序从上到下移动，以生成女主事件的分支选项或普通事件的分支选项。第一个选择触发女主事件，其余适当选择即可",
+    "从二周目开始，可以直接选择MAP画面右上方的「★和○○回家」以缩短选择时间",
+    "多次选定目标女主事件将触发进展事件，在进展事件3后，可以通过女主事件选项路线的分歧选项进入个人路线",
+    "如果在【日常 20】结束之前没有进入任何女主的路线，将直接进入BADEND",
+    "BADEND没有额外的CG和回想",
+    "在攻略时可以通过选择同时攻略2名角色，在最后「进展事件3」时进行存档，如果不是为了进入BADEND的话不建议这么做",
+    "该攻略的BAD路线是按照多乃实⇒茉莉爱⇒BAD来进行的"
+  ],
+  "routes": [
+    {
+      "id": "route_game_walkthrough",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_tayori_tanomi_end",
+          "name": "田寄多乃实 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_tanomi_01",
+              "type": "choice",
+              "content": "你喜欢什么？",
+              "group": "PROLOGUE 04"
+            },
+            {
+              "id": "step_tanomi_02",
+              "type": "save",
+              "content": "SAVE 1",
+              "group": "日常 01"
+            },
+            {
+              "id": "step_tanomi_03",
+              "type": "note",
+              "content": "选择回家路线01",
+              "group": "日常 01"
+            },
+            {
+              "id": "step_tanomi_04",
+              "type": "choice",
+              "content": "商务街│多乃实1",
+              "prefix": "■",
+              "group": "日常 01"
+            },
+            {
+              "id": "step_tanomi_05",
+              "type": "choice",
+              "content": "适当选择",
+              "prefix": "■",
+              "group": "日常 01"
+            },
+            {
+              "id": "step_tanomi_08",
+              "type": "choice",
+              "content": "是的",
+              "prefix": "⇒",
+              "group": "日常 01"
+            },
+            {
+              "id": "step_tanomi_09",
+              "type": "choice",
+              "content": "打招呼",
+              "group": "日常 01"
+            },
+            {
+              "id": "step_tanomi_10",
+              "type": "choice",
+              "content": "学园生活",
+              "prefix": "○",
+              "group": "日常 01"
+            },
+            {
+              "id": "step_tanomi_11",
+              "type": "choice",
+              "content": "饭堂",
+              "prefix": "○",
+              "group": "日常 01"
+            },
+            {
+              "id": "step_tanomi_12",
+              "type": "choice",
+              "content": "爱好",
+              "prefix": "○",
+              "group": "日常 01"
+            },
+            {
+              "id": "step_tanomi_13",
+              "type": "note",
+              "content": "占卜",
+              "group": "日常 02"
+            },
+            {
+              "id": "step_tanomi_14",
+              "type": "note",
+              "content": "选择回家路线02",
+              "group": "日常 02"
+            },
+            {
+              "id": "step_tanomi_15",
+              "type": "note",
+              "content": "(★和多乃实回家)",
+              "group": "日常 02"
+            },
+            {
+              "id": "step_tanomi_16",
+              "type": "choice",
+              "content": "岔路│多乃实2",
+              "prefix": "■",
+              "group": "日常 02"
+            },
+            {
+              "id": "step_tanomi_17",
+              "type": "choice",
+              "content": "适当选择",
+              "prefix": "■",
+              "group": "日常 02"
+            },
+            {
+              "id": "step_tanomi_20",
+              "type": "choice",
+              "content": "是的",
+              "prefix": "⇒",
+              "group": "日常 02"
+            },
+            {
+              "id": "step_tanomi_21",
+              "type": "choice",
+              "content": "靠近点看看",
+              "group": "日常 02"
+            },
+            {
+              "id": "step_tanomi_22",
+              "type": "note",
+              "content": "占卜",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_tanomi_23",
+              "type": "note",
+              "content": "选择回家路线03",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_tanomi_24",
+              "type": "note",
+              "content": "(★和多乃实回家)",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_tanomi_25",
+              "type": "choice",
+              "content": "林荫路│多乃实3",
+              "prefix": "■",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_tanomi_26",
+              "type": "choice",
+              "content": "适当选择",
+              "prefix": "■",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_tanomi_29",
+              "type": "choice",
+              "content": "是的",
+              "prefix": "⇒",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_tanomi_30",
+              "type": "choice",
+              "content": "一起回去",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_tanomi_31",
+              "type": "choice",
+              "content": "甜食",
+              "prefix": "○",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_tanomi_32",
+              "type": "choice",
+              "content": "美食店",
+              "prefix": "○",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_tanomi_33",
+              "type": "choice",
+              "content": "粗点心店",
+              "prefix": "○",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_tanomi_34",
+              "type": "choice",
+              "content": "喜欢的科目",
+              "prefix": "○",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_tanomi_35",
+              "type": "note",
+              "content": "多乃实进展事件1",
+              "prefix": "※"
+            },
+            {
+              "id": "step_tanomi_36",
+              "type": "note",
+              "content": "占卜",
+              "group": "日常 04"
+            },
+            {
+              "id": "step_tanomi_37",
+              "type": "note",
+              "content": "选择回家路线04",
+              "group": "日常 04"
+            },
+            {
+              "id": "step_tanomi_38",
+              "type": "note",
+              "content": "(★和多乃实回家)",
+              "group": "日常 04"
+            },
+            {
+              "id": "step_tanomi_39",
+              "type": "choice",
+              "content": "桥│多乃实4",
+              "prefix": "■",
+              "group": "日常 04"
+            },
+            {
+              "id": "step_tanomi_40",
+              "type": "choice",
+              "content": "适当选择",
+              "prefix": "■",
+              "group": "日常 04"
+            },
+            {
+              "id": "step_tanomi_43",
+              "type": "choice",
+              "content": "是的",
+              "prefix": "⇒",
+              "group": "日常 04"
+            },
+            {
+              "id": "step_tanomi_44",
+              "type": "choice",
+              "content": "打招呼",
+              "group": "日常 04"
+            },
+            {
+              "id": "step_tanomi_45",
+              "type": "choice",
+              "content": "外面的景色",
+              "prefix": "○",
+              "group": "日常 04"
+            },
+            {
+              "id": "step_tanomi_46",
+              "type": "choice",
+              "content": "动物",
+              "prefix": "○",
+              "group": "日常 04"
+            },
+            {
+              "id": "step_tanomi_47",
+              "type": "choice",
+              "content": "动物园",
+              "prefix": "○",
+              "group": "日常 04"
+            },
+            {
+              "id": "step_tanomi_48",
+              "type": "note",
+              "content": "占卜",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_tanomi_49",
+              "type": "note",
+              "content": "选择回家路线05",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_tanomi_50",
+              "type": "note",
+              "content": "(★和多乃实回家)",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_tanomi_51",
+              "type": "choice",
+              "content": "商店街│多乃实5",
+              "prefix": "■",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_tanomi_52",
+              "type": "choice",
+              "content": "适当选择",
+              "prefix": "■",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_tanomi_55",
+              "type": "choice",
+              "content": "是的",
+              "prefix": "⇒",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_tanomi_56",
+              "type": "choice",
+              "content": "听她细说",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_tanomi_57",
+              "type": "note",
+              "content": "占卜",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_tanomi_58",
+              "type": "note",
+              "content": "选择回家路线06",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_tanomi_59",
+              "type": "note",
+              "content": "(★和多乃实回家)",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_tanomi_60",
+              "type": "choice",
+              "content": "购物中心│多乃实6",
+              "prefix": "■",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_tanomi_61",
+              "type": "choice",
+              "content": "适当选择",
+              "prefix": "■",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_tanomi_64",
+              "type": "choice",
+              "content": "是的",
+              "prefix": "⇒",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_tanomi_65",
+              "type": "choice",
+              "content": "和她搭话",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_tanomi_66",
+              "type": "note",
+              "content": "多乃实进展事件2",
+              "prefix": "※"
+            },
+            {
+              "id": "step_tanomi_67",
+              "type": "note",
+              "content": "占卜",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_tanomi_68",
+              "type": "note",
+              "content": "选择回家路线07",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_tanomi_69",
+              "type": "note",
+              "content": "(★和多乃实回家)",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_tanomi_70",
+              "type": "choice",
+              "content": "自然公园│多乃实7",
+              "prefix": "■",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_tanomi_71",
+              "type": "choice",
+              "content": "适当选择",
+              "prefix": "■",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_tanomi_74",
+              "type": "choice",
+              "content": "是的",
+              "prefix": "⇒",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_tanomi_75",
+              "type": "choice",
+              "content": "一起回去",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_tanomi_76",
+              "type": "choice",
+              "content": "购物",
+              "prefix": "○",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_tanomi_77",
+              "type": "choice",
+              "content": "服装",
+              "prefix": "○",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_tanomi_78",
+              "type": "choice",
+              "content": "季节",
+              "prefix": "○",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_tanomi_79",
+              "type": "choice",
+              "content": "不擅长的东西",
+              "prefix": "○",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_tanomi_80",
+              "type": "note",
+              "content": "占卜",
+              "group": "日常 08"
+            },
+            {
+              "id": "step_tanomi_81",
+              "type": "note",
+              "content": "选择回家路线08",
+              "group": "日常 08"
+            },
+            {
+              "id": "step_tanomi_82",
+              "type": "note",
+              "content": "(★和多乃实回家)",
+              "group": "日常 08"
+            },
+            {
+              "id": "step_tanomi_83",
+              "type": "choice",
+              "content": "学前路│多乃实8",
+              "prefix": "■",
+              "group": "日常 08"
+            },
+            {
+              "id": "step_tanomi_84",
+              "type": "choice",
+              "content": "适当选择",
+              "prefix": "■",
+              "group": "日常 08"
+            },
+            {
+              "id": "step_tanomi_87",
+              "type": "choice",
+              "content": "是的",
+              "prefix": "⇒",
+              "group": "日常 08"
+            },
+            {
+              "id": "step_tanomi_88",
+              "type": "choice",
+              "content": "一起回去",
+              "group": "日常 08"
+            },
+            {
+              "id": "step_tanomi_89",
+              "type": "choice",
+              "content": "书",
+              "prefix": "○",
+              "group": "日常 08"
+            },
+            {
+              "id": "step_tanomi_90",
+              "type": "choice",
+              "content": "喜欢的节目",
+              "prefix": "○",
+              "group": "日常 08"
+            },
+            {
+              "id": "step_tanomi_91",
+              "type": "choice",
+              "content": "牵起她的手",
+              "prefix": "○",
+              "group": "日常 08"
+            },
+            {
+              "id": "step_tanomi_92",
+              "type": "note",
+              "content": "多乃实进展事件3",
+              "prefix": "※"
+            },
+            {
+              "id": "step_tanomi_93",
+              "type": "note",
+              "content": "占卜",
+              "group": "日常 09"
+            },
+            {
+              "id": "step_tanomi_94",
+              "type": "save",
+              "content": "SAVE 2",
+              "group": "日常 09"
+            },
+            {
+              "id": "step_tanomi_95",
+              "type": "note",
+              "content": "选择回家路线09",
+              "group": "日常 09"
+            },
+            {
+              "id": "step_tanomi_96",
+              "type": "note",
+              "content": "(★和多乃实回家)",
+              "group": "日常 09"
+            },
+            {
+              "id": "step_tanomi_97",
+              "type": "choice",
+              "content": "高地│多乃实9",
+              "prefix": "■",
+              "group": "日常 09"
+            },
+            {
+              "id": "step_tanomi_98",
+              "type": "choice",
+              "content": "适当选择",
+              "prefix": "■",
+              "group": "日常 09"
+            },
+            {
+              "id": "step_tanomi_101",
+              "type": "choice",
+              "content": "是的",
+              "prefix": "⇒",
+              "group": "日常 09"
+            },
+            {
+              "id": "step_tanomi_102",
+              "type": "choice",
+              "content": "考虑多乃实的事",
+              "group": "日常 09"
+            },
+            {
+              "id": "step_tanomi_103",
+              "type": "choice",
+              "content": "邀请她一起回家",
+              "group": "日常 09"
+            },
+            {
+              "id": "step_tanomi_104",
+              "type": "choice",
+              "content": "坦白自己的心情",
+              "group": "日常 09"
+            },
+            {
+              "id": "step_tanomi_109",
+              "type": "choice",
+              "content": "相信",
+              "group": "多乃实 08"
+            }
+          ]
+        },
+        {
+          "id": "ending_changnan_haruka_end",
+          "name": "长南阳佳 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_haruka_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_haruka_02",
+              "type": "note",
+              "content": "选择回家路线01"
+            },
+            {
+              "id": "step_haruka_03",
+              "type": "choice",
+              "content": "学前路│阳佳1",
+              "prefix": "■"
+            },
+            {
+              "id": "step_haruka_04",
+              "type": "choice",
+              "content": "适当选择",
+              "prefix": "■"
+            },
+            {
+              "id": "step_haruka_07",
+              "type": "choice",
+              "content": "是的",
+              "prefix": "⇒"
+            },
+            {
+              "id": "step_haruka_08",
+              "type": "choice",
+              "content": "搭话"
+            },
+            {
+              "id": "step_haruka_09",
+              "type": "note",
+              "content": "占卜",
+              "group": "日常 02"
+            },
+            {
+              "id": "step_haruka_10",
+              "type": "note",
+              "content": "选择回家路线02",
+              "group": "日常 02"
+            },
+            {
+              "id": "step_haruka_11",
+              "type": "note",
+              "content": "(★和阳佳回家)",
+              "group": "日常 02"
+            },
+            {
+              "id": "step_haruka_12",
+              "type": "choice",
+              "content": "时尚街│阳佳2",
+              "prefix": "■",
+              "group": "日常 02"
+            },
+            {
+              "id": "step_haruka_13",
+              "type": "choice",
+              "content": "适当选择",
+              "prefix": "■",
+              "group": "日常 02"
+            },
+            {
+              "id": "step_haruka_16",
+              "type": "choice",
+              "content": "是的",
+              "prefix": "⇒",
+              "group": "日常 02"
+            },
+            {
+              "id": "step_haruka_17",
+              "type": "choice",
+              "content": "看看她们在干什么",
+              "group": "日常 02"
+            },
+            {
+              "id": "step_haruka_18",
+              "type": "note",
+              "content": "占卜",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_haruka_19",
+              "type": "note",
+              "content": "选择回家路线03",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_haruka_20",
+              "type": "note",
+              "content": "(★和阳佳回家)",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_haruka_21",
+              "type": "choice",
+              "content": "林荫路│阳佳3",
+              "prefix": "■",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_haruka_22",
+              "type": "choice",
+              "content": "适当选择",
+              "prefix": "■",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_haruka_25",
+              "type": "choice",
+              "content": "是的",
+              "prefix": "⇒",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_haruka_26",
+              "type": "choice",
+              "content": "打招呼",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_haruka_27",
+              "type": "choice",
+              "content": "搭话试试",
+              "prefix": "○",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_haruka_28",
+              "type": "choice",
+              "content": "城市的变化",
+              "prefix": "○",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_haruka_29",
+              "type": "choice",
+              "content": "粗点心店的话题",
+              "prefix": "○",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_haruka_30",
+              "type": "note",
+              "content": "占卜",
+              "group": "日常 04"
+            },
+            {
+              "id": "step_haruka_31",
+              "type": "note",
+              "content": "选择回家路线04",
+              "group": "日常 04"
+            },
+            {
+              "id": "step_haruka_32",
+              "type": "note",
+              "content": "(★和阳佳回家)",
+              "group": "日常 04"
+            },
+            {
+              "id": "step_haruka_33",
+              "type": "choice",
+              "content": "桥│阳佳4",
+              "prefix": "■",
+              "group": "日常 04"
+            },
+            {
+              "id": "step_haruka_34",
+              "type": "choice",
+              "content": "适当选择",
+              "prefix": "■",
+              "group": "日常 04"
+            },
+            {
+              "id": "step_haruka_37",
+              "type": "choice",
+              "content": "是的",
+              "prefix": "⇒",
+              "group": "日常 04"
+            },
+            {
+              "id": "step_haruka_38",
+              "type": "choice",
+              "content": "我也没什么别的事",
+              "group": "日常 04"
+            },
+            {
+              "id": "step_haruka_39",
+              "type": "note",
+              "content": "阳佳进展事件1",
+              "prefix": "※"
+            },
+            {
+              "id": "step_haruka_40",
+              "type": "note",
+              "content": "占卜",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_haruka_41",
+              "type": "note",
+              "content": "选择回家路线05",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_haruka_42",
+              "type": "note",
+              "content": "(★和阳佳回家)",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_haruka_43",
+              "type": "choice",
+              "content": "学生歇息地│阳佳5",
+              "prefix": "■",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_haruka_44",
+              "type": "choice",
+              "content": "适当选择",
+              "prefix": "■",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_haruka_47",
+              "type": "choice",
+              "content": "是的",
+              "prefix": "⇒",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_haruka_48",
+              "type": "choice",
+              "content": "打招呼",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_haruka_49",
+              "type": "choice",
+              "content": "卡拉OK",
+              "prefix": "○",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_haruka_50",
+              "type": "choice",
+              "content": "和米莎亲的关系",
+              "prefix": "○",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_haruka_51",
+              "type": "choice",
+              "content": "辣的食物",
+              "prefix": "○",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_haruka_52",
+              "type": "note",
+              "content": "占卜",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_haruka_53",
+              "type": "note",
+              "content": "选择回家路线06",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_haruka_54",
+              "type": "note",
+              "content": "(★和阳佳回家)",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_haruka_55",
+              "type": "choice",
+              "content": "商务街│阳佳6",
+              "prefix": "■",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_haruka_56",
+              "type": "choice",
+              "content": "适当选择",
+              "prefix": "■",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_haruka_59",
+              "type": "choice",
+              "content": "是的",
+              "prefix": "⇒",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_haruka_60",
+              "type": "choice",
+              "content": "一起回家",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_haruka_61",
+              "type": "choice",
+              "content": "美甲",
+              "prefix": "○",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_haruka_62",
+              "type": "choice",
+              "content": "时装",
+              "prefix": "○",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_haruka_63",
+              "type": "choice",
+              "content": "头发",
+              "prefix": "○",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_haruka_64",
+              "type": "note",
+              "content": "阳佳进展事件2",
+              "prefix": "※"
+            },
+            {
+              "id": "step_haruka_65",
+              "type": "note",
+              "content": "占卜",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_haruka_66",
+              "type": "note",
+              "content": "选择回家路线07",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_haruka_67",
+              "type": "note",
+              "content": "(★和阳佳回家)",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_haruka_68",
+              "type": "choice",
+              "content": "林荫路│阳佳7",
+              "prefix": "■",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_haruka_69",
+              "type": "choice",
+              "content": "适当选择",
+              "prefix": "■",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_haruka_72",
+              "type": "choice",
+              "content": "是的",
+              "prefix": "⇒",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_haruka_73",
+              "type": "choice",
+              "content": "陪她去",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_haruka_74",
+              "type": "note",
+              "content": "占卜",
+              "group": "日常 08"
+            },
+            {
+              "id": "step_haruka_75",
+              "type": "note",
+              "content": "选择回家路线08",
+              "group": "日常 08"
+            },
+            {
+              "id": "step_haruka_76",
+              "type": "note",
+              "content": "(★和阳佳回家)",
+              "group": "日常 08"
+            },
+            {
+              "id": "step_haruka_77",
+              "type": "choice",
+              "content": "林荫路│阳佳8",
+              "prefix": "■",
+              "group": "日常 08"
+            },
+            {
+              "id": "step_haruka_78",
+              "type": "choice",
+              "content": "适当选择",
+              "prefix": "■",
+              "group": "日常 08"
+            },
+            {
+              "id": "step_haruka_81",
+              "type": "choice",
+              "content": "是的",
+              "prefix": "⇒",
+              "group": "日常 08"
+            },
+            {
+              "id": "step_haruka_82",
+              "type": "choice",
+              "content": "一起回去",
+              "group": "日常 08"
+            },
+            {
+              "id": "step_haruka_83",
+              "type": "choice",
+              "content": "化妆",
+              "prefix": "○",
+              "group": "日常 08"
+            },
+            {
+              "id": "step_haruka_84",
+              "type": "choice",
+              "content": "美容",
+              "prefix": "○",
+              "group": "日常 08"
+            },
+            {
+              "id": "step_haruka_85",
+              "type": "choice",
+              "content": "摸一下阳佳的皮肤",
+              "prefix": "○",
+              "group": "日常 08"
+            },
+            {
+              "id": "step_haruka_86",
+              "type": "note",
+              "content": "阳佳进展事件3",
+              "prefix": "※"
+            },
+            {
+              "id": "step_haruka_87",
+              "type": "note",
+              "content": "占卜",
+              "group": "日常 09"
+            },
+            {
+              "id": "step_haruka_88",
+              "type": "note",
+              "content": "选择回家路线09",
+              "group": "日常 09"
+            },
+            {
+              "id": "step_haruka_89",
+              "type": "note",
+              "content": "(★和阳佳回家)",
+              "group": "日常 09"
+            },
+            {
+              "id": "step_haruka_90",
+              "type": "choice",
+              "content": "林荫路│阳佳9",
+              "prefix": "■",
+              "group": "日常 09"
+            },
+            {
+              "id": "step_haruka_91",
+              "type": "choice",
+              "content": "适当选择",
+              "prefix": "■",
+              "group": "日常 09"
+            },
+            {
+              "id": "step_haruka_94",
+              "type": "choice",
+              "content": "是的",
+              "prefix": "⇒",
+              "group": "日常 09"
+            },
+            {
+              "id": "step_haruka_95",
+              "type": "choice",
+              "content": "想想关于阳佳的事",
+              "group": "日常 09"
+            },
+            {
+              "id": "step_haruka_96",
+              "type": "choice",
+              "content": "邀请她一起回家",
+              "group": "日常 09"
+            },
+            {
+              "id": "step_haruka_97",
+              "type": "choice",
+              "content": "说出真实的想法",
+              "group": "日常 09"
+            }
+          ]
+        },
+        {
+          "id": "ending_tsukishima_tsukushi_end",
+          "name": "筑岛筑紫 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_tsukushi_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_tsukushi_02",
+              "type": "note",
+              "content": "选择回家路线01"
+            },
+            {
+              "id": "step_tsukushi_03",
+              "type": "choice",
+              "content": "桥│筑紫1",
+              "prefix": "■"
+            },
+            {
+              "id": "step_tsukushi_04",
+              "type": "choice",
+              "content": "适当选择",
+              "prefix": "■"
+            },
+            {
+              "id": "step_tsukushi_07",
+              "type": "choice",
+              "content": "是的",
+              "prefix": "⇒"
+            },
+            {
+              "id": "step_tsukushi_08",
+              "type": "choice",
+              "content": "向她搭话"
+            },
+            {
+              "id": "step_tsukushi_09",
+              "type": "choice",
+              "content": "向她搭话",
+              "prefix": "○"
+            },
+            {
+              "id": "step_tsukushi_10",
+              "type": "choice",
+              "content": "烤玉米",
+              "prefix": "○"
+            },
+            {
+              "id": "step_tsukushi_11",
+              "type": "choice",
+              "content": "喜欢的食物",
+              "prefix": "○"
+            },
+            {
+              "id": "step_tsukushi_12",
+              "type": "note",
+              "content": "占卜",
+              "group": "日常 02"
+            },
+            {
+              "id": "step_tsukushi_13",
+              "type": "note",
+              "content": "选择回家路线02",
+              "group": "日常 02"
+            },
+            {
+              "id": "step_tsukushi_14",
+              "type": "note",
+              "content": "(★和筑紫回家)",
+              "group": "日常 02"
+            },
+            {
+              "id": "step_tsukushi_15",
+              "type": "choice",
+              "content": "商务街│筑紫2",
+              "prefix": "■",
+              "group": "日常 02"
+            },
+            {
+              "id": "step_tsukushi_16",
+              "type": "choice",
+              "content": "适当选择",
+              "prefix": "■",
+              "group": "日常 02"
+            },
+            {
+              "id": "step_tsukushi_19",
+              "type": "choice",
+              "content": "是的",
+              "prefix": "⇒",
+              "group": "日常 02"
+            },
+            {
+              "id": "step_tsukushi_20",
+              "type": "choice",
+              "content": "向她搭话",
+              "group": "日常 02"
+            },
+            {
+              "id": "step_tsukushi_21",
+              "type": "choice",
+              "content": "动物",
+              "prefix": "○",
+              "group": "日常 02"
+            },
+            {
+              "id": "step_tsukushi_22",
+              "type": "choice",
+              "content": "不擅长的科目",
+              "prefix": "○",
+              "group": "日常 02"
+            },
+            {
+              "id": "step_tsukushi_23",
+              "type": "choice",
+              "content": "玩偶",
+              "prefix": "○",
+              "group": "日常 02"
+            },
+            {
+              "id": "step_tsukushi_24",
+              "type": "note",
+              "content": "占卜",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_tsukushi_25",
+              "type": "note",
+              "content": "选择回家路线03",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_tsukushi_26",
+              "type": "note",
+              "content": "(★和筑紫回家)",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_tsukushi_27",
+              "type": "choice",
+              "content": "桥│筑紫3",
+              "prefix": "■",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_tsukushi_28",
+              "type": "choice",
+              "content": "适当选择",
+              "prefix": "■",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_tsukushi_31",
+              "type": "choice",
+              "content": "是的",
+              "prefix": "⇒",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_tsukushi_32",
+              "type": "choice",
+              "content": "找她搭话",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_tsukushi_33",
+              "type": "note",
+              "content": "筑紫进展事件1",
+              "prefix": "※"
+            },
+            {
+              "id": "step_tsukushi_34",
+              "type": "note",
+              "content": "占卜",
+              "group": "日常 04"
+            },
+            {
+              "id": "step_tsukushi_35",
+              "type": "note",
+              "content": "选择回家路线04",
+              "group": "日常 04"
+            },
+            {
+              "id": "step_tsukushi_36",
+              "type": "note",
+              "content": "(★和筑紫回家)",
+              "group": "日常 04"
+            },
+            {
+              "id": "step_tsukushi_37",
+              "type": "choice",
+              "content": "岔路│筑紫4",
+              "prefix": "■",
+              "group": "日常 04"
+            },
+            {
+              "id": "step_tsukushi_38",
+              "type": "choice",
+              "content": "适当选择",
+              "prefix": "■",
+              "group": "日常 04"
+            },
+            {
+              "id": "step_tsukushi_41",
+              "type": "choice",
+              "content": "是的",
+              "prefix": "⇒",
+              "group": "日常 04"
+            },
+            {
+              "id": "step_tsukushi_42",
+              "type": "choice",
+              "content": "向她搭话",
+              "group": "日常 04"
+            },
+            {
+              "id": "step_tsukushi_43",
+              "type": "choice",
+              "content": "可丽饼",
+              "prefix": "○",
+              "group": "日常 04"
+            },
+            {
+              "id": "step_tsukushi_44",
+              "type": "choice",
+              "content": "睡觉的时候",
+              "prefix": "○",
+              "group": "日常 04"
+            },
+            {
+              "id": "step_tsukushi_45",
+              "type": "choice",
+              "content": "深情地注视",
+              "prefix": "○",
+              "group": "日常 04"
+            },
+            {
+              "id": "step_tsukushi_46",
+              "type": "note",
+              "content": "占卜",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_tsukushi_47",
+              "type": "note",
+              "content": "选择回家路线05",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_tsukushi_48",
+              "type": "note",
+              "content": "(★和筑紫回家)",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_tsukushi_49",
+              "type": "choice",
+              "content": "繁华街",
+              "prefix": "■",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_tsukushi_50",
+              "type": "choice",
+              "content": "商店街",
+              "prefix": "■",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_tsukushi_51",
+              "type": "choice",
+              "content": "时尚街",
+              "prefix": "■",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_tsukushi_52",
+              "type": "choice",
+              "content": "自然公园",
+              "prefix": "■",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_tsukushi_53",
+              "type": "choice",
+              "content": "是的",
+              "prefix": "⇒",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_tsukushi_54",
+              "type": "choice",
+              "content": "结束对话",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_tsukushi_55",
+              "type": "note",
+              "content": "谁都没碰到＝│筑紫5",
+              "prefix": "※",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_tsukushi_56",
+              "type": "choice",
+              "content": "听到了",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_tsukushi_57",
+              "type": "choice",
+              "content": "食堂",
+              "prefix": "○",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_tsukushi_58",
+              "type": "choice",
+              "content": "蛋包咖喱饭",
+              "prefix": "○",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_tsukushi_59",
+              "type": "choice",
+              "content": "牵手",
+              "prefix": "○",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_tsukushi_60",
+              "type": "note",
+              "content": "筑紫进展事件2",
+              "prefix": "※"
+            },
+            {
+              "id": "step_tsukushi_61",
+              "type": "note",
+              "content": "占卜",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_tsukushi_62",
+              "type": "note",
+              "content": "选择回家路线06",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_tsukushi_63",
+              "type": "note",
+              "content": "(★和筑紫回家)",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_tsukushi_64",
+              "type": "choice",
+              "content": "商务街│筑紫6",
+              "prefix": "■",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_tsukushi_65",
+              "type": "choice",
+              "content": "适当选择",
+              "prefix": "■",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_tsukushi_68",
+              "type": "choice",
+              "content": "是的",
+              "prefix": "⇒",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_tsukushi_69",
+              "type": "choice",
+              "content": "向她搭话",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_tsukushi_70",
+              "type": "note",
+              "content": "占卜",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_tsukushi_71",
+              "type": "note",
+              "content": "选择回家路线07",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_tsukushi_72",
+              "type": "note",
+              "content": "(★和筑紫回家)",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_tsukushi_73",
+              "type": "choice",
+              "content": "繁华街│筑紫7",
+              "prefix": "■",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_tsukushi_74",
+              "type": "choice",
+              "content": "适当选择",
+              "prefix": "■",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_tsukushi_77",
+              "type": "choice",
+              "content": "是的",
+              "prefix": "⇒",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_tsukushi_78",
+              "type": "choice",
+              "content": "有时间",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_tsukushi_79",
+              "type": "note",
+              "content": "占卜",
+              "group": "日常 08"
+            },
+            {
+              "id": "step_tsukushi_80",
+              "type": "note",
+              "content": "选择回家路线08",
+              "group": "日常 08"
+            },
+            {
+              "id": "step_tsukushi_81",
+              "type": "note",
+              "content": "(★和筑紫回家)",
+              "group": "日常 08"
+            },
+            {
+              "id": "step_tsukushi_82",
+              "type": "choice",
+              "content": "桥│筑紫8",
+              "prefix": "■",
+              "group": "日常 08"
+            },
+            {
+              "id": "step_tsukushi_83",
+              "type": "choice",
+              "content": "适当选择",
+              "prefix": "■",
+              "group": "日常 08"
+            },
+            {
+              "id": "step_tsukushi_86",
+              "type": "choice",
+              "content": "是的",
+              "prefix": "⇒",
+              "group": "日常 08"
+            },
+            {
+              "id": "step_tsukushi_87",
+              "type": "choice",
+              "content": "一起回去",
+              "group": "日常 08"
+            },
+            {
+              "id": "step_tsukushi_88",
+              "type": "choice",
+              "content": "家庭科目",
+              "prefix": "○",
+              "group": "日常 08"
+            },
+            {
+              "id": "step_tsukushi_89",
+              "type": "choice",
+              "content": "喂我吃饭",
+              "prefix": "○",
+              "group": "日常 08"
+            },
+            {
+              "id": "step_tsukushi_90",
+              "type": "choice",
+              "content": "公主抱",
+              "prefix": "○",
+              "group": "日常 08"
+            },
+            {
+              "id": "step_tsukushi_91",
+              "type": "choice",
+              "content": "牵手",
+              "prefix": "○",
+              "group": "日常 08"
+            },
+            {
+              "id": "step_tsukushi_92",
+              "type": "note",
+              "content": "筑紫进展事件3",
+              "prefix": "※"
+            },
+            {
+              "id": "step_tsukushi_93",
+              "type": "note",
+              "content": "占卜",
+              "group": "日常 09"
+            },
+            {
+              "id": "step_tsukushi_94",
+              "type": "note",
+              "content": "选择回家路线09",
+              "group": "日常 09"
+            },
+            {
+              "id": "step_tsukushi_95",
+              "type": "note",
+              "content": "(★和筑紫回家)",
+              "group": "日常 09"
+            },
+            {
+              "id": "step_tsukushi_96",
+              "type": "choice",
+              "content": "商店街│筑紫9",
+              "prefix": "■",
+              "group": "日常 09"
+            },
+            {
+              "id": "step_tsukushi_97",
+              "type": "choice",
+              "content": "适当选择",
+              "prefix": "■",
+              "group": "日常 09"
+            },
+            {
+              "id": "step_tsukushi_100",
+              "type": "choice",
+              "content": "是的",
+              "prefix": "⇒",
+              "group": "日常 09"
+            },
+            {
+              "id": "step_tsukushi_101",
+              "type": "choice",
+              "content": "思考筑紫的事情",
+              "group": "日常 09"
+            },
+            {
+              "id": "step_tsukushi_102",
+              "type": "choice",
+              "content": "邀请她一起回家",
+              "group": "日常 09"
+            },
+            {
+              "id": "step_tsukushi_103",
+              "type": "choice",
+              "content": "实话实说吧",
+              "group": "日常 09"
+            }
+          ]
+        },
+        {
+          "id": "ending_usagawa_yukiko_end",
+          "name": "宇佐川雪子 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_yukiko_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_yukiko_02",
+              "type": "note",
+              "content": "选择回家路线01"
+            },
+            {
+              "id": "step_yukiko_03",
+              "type": "choice",
+              "content": "公园旁的住宅群│雪子1",
+              "prefix": "■"
+            },
+            {
+              "id": "step_yukiko_04",
+              "type": "choice",
+              "content": "适当选择",
+              "prefix": "■"
+            },
+            {
+              "id": "step_yukiko_07",
+              "type": "choice",
+              "content": "是的",
+              "prefix": "⇒"
+            },
+            {
+              "id": "step_yukiko_08",
+              "type": "choice",
+              "content": "打招呼"
+            },
+            {
+              "id": "step_yukiko_09",
+              "type": "note",
+              "content": "占卜",
+              "group": "日常 02"
+            },
+            {
+              "id": "step_yukiko_10",
+              "type": "note",
+              "content": "选择回家路线02",
+              "group": "日常 02"
+            },
+            {
+              "id": "step_yukiko_11",
+              "type": "note",
+              "content": "(★和雪子回家)",
+              "group": "日常 02"
+            },
+            {
+              "id": "step_yukiko_12",
+              "type": "choice",
+              "content": "岔路│雪子2",
+              "prefix": "■",
+              "group": "日常 02"
+            },
+            {
+              "id": "step_yukiko_13",
+              "type": "choice",
+              "content": "适当选择",
+              "prefix": "■",
+              "group": "日常 02"
+            },
+            {
+              "id": "step_yukiko_16",
+              "type": "choice",
+              "content": "是的",
+              "prefix": "⇒",
+              "group": "日常 02"
+            },
+            {
+              "id": "step_yukiko_17",
+              "type": "choice",
+              "content": "和她们一起去",
+              "group": "日常 02"
+            },
+            {
+              "id": "step_yukiko_18",
+              "type": "note",
+              "content": "占卜",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_yukiko_19",
+              "type": "note",
+              "content": "选择回家路线03",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_yukiko_20",
+              "type": "note",
+              "content": "(★和雪子回家)",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_yukiko_21",
+              "type": "choice",
+              "content": "公园旁的住宅群│雪子3",
+              "prefix": "■",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_yukiko_22",
+              "type": "choice",
+              "content": "适当选择",
+              "prefix": "■",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_yukiko_25",
+              "type": "choice",
+              "content": "是的",
+              "prefix": "⇒",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_yukiko_26",
+              "type": "choice",
+              "content": "搭话",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_yukiko_27",
+              "type": "choice",
+              "content": "保龄球",
+              "prefix": "○",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_yukiko_28",
+              "type": "choice",
+              "content": "料理",
+              "prefix": "○",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_yukiko_29",
+              "type": "choice",
+              "content": "盯着她看",
+              "prefix": "○",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_yukiko_30",
+              "type": "note",
+              "content": "占卜",
+              "group": "日常 04"
+            },
+            {
+              "id": "step_yukiko_31",
+              "type": "note",
+              "content": "选择回家路线04",
+              "group": "日常 04"
+            },
+            {
+              "id": "step_yukiko_32",
+              "type": "note",
+              "content": "(★和雪子回家)",
+              "group": "日常 04"
+            },
+            {
+              "id": "step_yukiko_33",
+              "type": "choice",
+              "content": "岔路│雪子4",
+              "prefix": "■",
+              "group": "日常 04"
+            },
+            {
+              "id": "step_yukiko_34",
+              "type": "choice",
+              "content": "适当选择",
+              "prefix": "■",
+              "group": "日常 04"
+            },
+            {
+              "id": "step_yukiko_37",
+              "type": "choice",
+              "content": "是的",
+              "prefix": "⇒",
+              "group": "日常 04"
+            },
+            {
+              "id": "step_yukiko_38",
+              "type": "choice",
+              "content": "陪她们调查",
+              "group": "日常 04"
+            },
+            {
+              "id": "step_yukiko_39",
+              "type": "note",
+              "content": "雪子进展事件1",
+              "prefix": "※"
+            },
+            {
+              "id": "step_yukiko_40",
+              "type": "note",
+              "content": "占卜",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_yukiko_41",
+              "type": "note",
+              "content": "选择回家路线05",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_yukiko_42",
+              "type": "note",
+              "content": "(★和雪子回家)",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_yukiko_43",
+              "type": "choice",
+              "content": "自然公园│雪子5",
+              "prefix": "■",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_yukiko_44",
+              "type": "choice",
+              "content": "适当选择",
+              "prefix": "■",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_yukiko_47",
+              "type": "choice",
+              "content": "是的",
+              "prefix": "⇒",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_yukiko_48",
+              "type": "choice",
+              "content": "在一旁看着",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_yukiko_49",
+              "type": "choice",
+              "content": "购物中心",
+              "prefix": "○",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_yukiko_50",
+              "type": "choice",
+              "content": "书店",
+              "prefix": "○",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_yukiko_51",
+              "type": "choice",
+              "content": "直接告白",
+              "prefix": "○",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_yukiko_52",
+              "type": "note",
+              "content": "占卜",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_yukiko_53",
+              "type": "note",
+              "content": "选择回家路线06",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_yukiko_54",
+              "type": "note",
+              "content": "(★和雪子回家)",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_yukiko_55",
+              "type": "choice",
+              "content": "公园旁的住宅群│雪子6",
+              "prefix": "■",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_yukiko_56",
+              "type": "choice",
+              "content": "适当选择",
+              "prefix": "■",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_yukiko_59",
+              "type": "choice",
+              "content": "是的",
+              "prefix": "⇒",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_yukiko_60",
+              "type": "choice",
+              "content": "搭话",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_yukiko_61",
+              "type": "choice",
+              "content": "甜的",
+              "prefix": "○",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_yukiko_62",
+              "type": "choice",
+              "content": "相机",
+              "prefix": "○",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_yukiko_63",
+              "type": "choice",
+              "content": "牵起她的手",
+              "prefix": "○",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_yukiko_64",
+              "type": "note",
+              "content": "雪子进展事件2",
+              "prefix": "※"
+            },
+            {
+              "id": "step_yukiko_65",
+              "type": "note",
+              "content": "占卜",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_yukiko_66",
+              "type": "note",
+              "content": "选择回家路线07",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_yukiko_67",
+              "type": "note",
+              "content": "(★和雪子回家)",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_yukiko_68",
+              "type": "choice",
+              "content": "高地│雪子7",
+              "prefix": "■",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_yukiko_69",
+              "type": "choice",
+              "content": "适当选择",
+              "prefix": "■",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_yukiko_72",
+              "type": "choice",
+              "content": "是的",
+              "prefix": "⇒",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_yukiko_73",
+              "type": "choice",
+              "content": "看看是谁在叫我",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_yukiko_74",
+              "type": "choice",
+              "content": "自然公园",
+              "prefix": "○",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_yukiko_75",
+              "type": "choice",
+              "content": "海外",
+              "prefix": "○",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_yukiko_76",
+              "type": "choice",
+              "content": "尽情玩乐的约会",
+              "prefix": "○",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_yukiko_77",
+              "type": "choice",
+              "content": "恋人式牵手",
+              "prefix": "○",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_yukiko_78",
+              "type": "note",
+              "content": "占卜",
+              "group": "日常 08"
+            },
+            {
+              "id": "step_yukiko_79",
+              "type": "note",
+              "content": "选择回家路线08",
+              "group": "日常 08"
+            },
+            {
+              "id": "step_yukiko_80",
+              "type": "note",
+              "content": "(★和雪子回家)",
+              "group": "日常 08"
+            },
+            {
+              "id": "step_yukiko_81",
+              "type": "choice",
+              "content": "岔路│雪子8",
+              "prefix": "■",
+              "group": "日常 08"
+            },
+            {
+              "id": "step_yukiko_82",
+              "type": "choice",
+              "content": "适当选择",
+              "prefix": "■",
+              "group": "日常 08"
+            },
+            {
+              "id": "step_yukiko_85",
+              "type": "choice",
+              "content": "是的",
+              "prefix": "⇒",
+              "group": "日常 08"
+            },
+            {
+              "id": "step_yukiko_86",
+              "type": "choice",
+              "content": "出声打招呼",
+              "group": "日常 08"
+            },
+            {
+              "id": "step_yukiko_87",
+              "type": "note",
+              "content": "雪子进展事件3",
+              "prefix": "※"
+            },
+            {
+              "id": "step_yukiko_88",
+              "type": "note",
+              "content": "占卜",
+              "group": "日常 09"
+            },
+            {
+              "id": "step_yukiko_89",
+              "type": "note",
+              "content": "选择回家路线09",
+              "group": "日常 09"
+            },
+            {
+              "id": "step_yukiko_90",
+              "type": "note",
+              "content": "(★和雪子回家)",
+              "group": "日常 09"
+            },
+            {
+              "id": "step_yukiko_91",
+              "type": "choice",
+              "content": "山路│雪子9",
+              "prefix": "■",
+              "group": "日常 09"
+            },
+            {
+              "id": "step_yukiko_92",
+              "type": "choice",
+              "content": "适当选择",
+              "prefix": "■",
+              "group": "日常 09"
+            },
+            {
+              "id": "step_yukiko_95",
+              "type": "choice",
+              "content": "是的",
+              "prefix": "⇒",
+              "group": "日常 09"
+            },
+            {
+              "id": "step_yukiko_96",
+              "type": "choice",
+              "content": "搭话",
+              "group": "日常 09"
+            },
+            {
+              "id": "step_yukiko_97",
+              "type": "choice",
+              "content": "考虑雪子的事",
+              "group": "日常 09"
+            }
+          ]
+        },
+        {
+          "id": "ending_oujou_marie_end",
+          "name": "王城茉莉爱 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_marie_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_marie_02",
+              "type": "note",
+              "content": "如果想进入BAD 分支就从SAVE 2开始"
+            },
+            {
+              "id": "step_marie_03",
+              "type": "note",
+              "content": "选择回家路线0109"
+            },
+            {
+              "id": "step_marie_04",
+              "type": "choice",
+              "content": "山路│",
+              "prefix": "■"
+            },
+            {
+              "id": "step_marie_05",
+              "type": "choice",
+              "content": "岔路│",
+              "prefix": "■"
+            },
+            {
+              "id": "step_marie_06",
+              "type": "choice",
+              "content": "购物中心│",
+              "prefix": "■"
+            },
+            {
+              "id": "step_marie_07",
+              "type": "choice",
+              "content": "繁华街│",
+              "prefix": "■"
+            },
+            {
+              "id": "step_marie_08",
+              "type": "choice",
+              "content": "是的",
+              "prefix": "⇒"
+            },
+            {
+              "id": "step_marie_09",
+              "type": "choice",
+              "content": "就这么离去"
+            },
+            {
+              "id": "step_marie_10",
+              "type": "note",
+              "content": "谁都没碰到⇒│茉莉爱1(早见)",
+              "prefix": "※"
+            },
+            {
+              "id": "step_marie_11",
+              "type": "choice",
+              "content": "向他们搭话"
+            },
+            {
+              "id": "step_marie_12",
+              "type": "note",
+              "content": "占卜",
+              "group": "日常 02"
+            },
+            {
+              "id": "step_marie_13",
+              "type": "note",
+              "content": "选择回家路线0210",
+              "group": "日常 02"
+            },
+            {
+              "id": "step_marie_14",
+              "type": "note",
+              "content": "(★和茉莉爱回家)",
+              "group": "日常 02"
+            },
+            {
+              "id": "step_marie_15",
+              "type": "choice",
+              "content": "公园旁的住宅群│茉莉爱2(早见)",
+              "prefix": "■",
+              "group": "日常 02"
+            },
+            {
+              "id": "step_marie_16",
+              "type": "choice",
+              "content": "适当选择",
+              "prefix": "■",
+              "group": "日常 02"
+            },
+            {
+              "id": "step_marie_19",
+              "type": "choice",
+              "content": "是的",
+              "prefix": "⇒",
+              "group": "日常 02"
+            },
+            {
+              "id": "step_marie_20",
+              "type": "choice",
+              "content": "向她搭话",
+              "group": "日常 02"
+            },
+            {
+              "id": "step_marie_21",
+              "type": "note",
+              "content": "占卜",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_marie_22",
+              "type": "note",
+              "content": "选择回家路线0311",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_marie_23",
+              "type": "note",
+              "content": "(★和茉莉爱回家)",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_marie_24",
+              "type": "choice",
+              "content": "商店街│茉莉爱3",
+              "prefix": "■",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_marie_25",
+              "type": "choice",
+              "content": "适当选择",
+              "prefix": "■",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_marie_28",
+              "type": "choice",
+              "content": "是的",
+              "prefix": "⇒",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_marie_29",
+              "type": "choice",
+              "content": "去看看",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_marie_30",
+              "type": "note",
+              "content": "茉莉爱进展事件1",
+              "prefix": "※"
+            },
+            {
+              "id": "step_marie_31",
+              "type": "note",
+              "content": "占卜",
+              "group": "日常 04"
+            },
+            {
+              "id": "step_marie_32",
+              "type": "note",
+              "content": "选择回家路线0412",
+              "group": "日常 04"
+            },
+            {
+              "id": "step_marie_33",
+              "type": "note",
+              "content": "(★和茉莉爱回家)",
+              "group": "日常 04"
+            },
+            {
+              "id": "step_marie_34",
+              "type": "choice",
+              "content": "桥│茉莉爱4",
+              "prefix": "■",
+              "group": "日常 04"
+            },
+            {
+              "id": "step_marie_35",
+              "type": "choice",
+              "content": "适当选择",
+              "prefix": "■",
+              "group": "日常 04"
+            },
+            {
+              "id": "step_marie_38",
+              "type": "choice",
+              "content": "是的",
+              "prefix": "⇒",
+              "group": "日常 04"
+            },
+            {
+              "id": "step_marie_39",
+              "type": "choice",
+              "content": "朝她搭话",
+              "group": "日常 04"
+            },
+            {
+              "id": "step_marie_40",
+              "type": "choice",
+              "content": "早见小姐",
+              "prefix": "○",
+              "group": "日常 04"
+            },
+            {
+              "id": "step_marie_41",
+              "type": "choice",
+              "content": "圣莉莉女子学园",
+              "prefix": "○",
+              "group": "日常 04"
+            },
+            {
+              "id": "step_marie_42",
+              "type": "choice",
+              "content": "特摄剧",
+              "prefix": "○",
+              "group": "日常 04"
+            },
+            {
+              "id": "step_marie_43",
+              "type": "note",
+              "content": "占卜",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_marie_44",
+              "type": "note",
+              "content": "选择回家路线0513",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_marie_45",
+              "type": "note",
+              "content": "(★和茉莉爱回家)",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_marie_46",
+              "type": "choice",
+              "content": "林荫路│茉莉爱5",
+              "prefix": "■",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_marie_47",
+              "type": "choice",
+              "content": "适当选择",
+              "prefix": "■",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_marie_50",
+              "type": "choice",
+              "content": "是的",
+              "prefix": "⇒",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_marie_51",
+              "type": "choice",
+              "content": "朝她搭话",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_marie_52",
+              "type": "choice",
+              "content": "日本料理",
+              "prefix": "○",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_marie_53",
+              "type": "choice",
+              "content": "猪肝",
+              "prefix": "○",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_marie_54",
+              "type": "choice",
+              "content": "做点心",
+              "prefix": "○",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_marie_55",
+              "type": "choice",
+              "content": "注视着她",
+              "prefix": "○",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_marie_56",
+              "type": "note",
+              "content": "占卜",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_marie_57",
+              "type": "note",
+              "content": "选择回家路线0614",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_marie_58",
+              "type": "note",
+              "content": "(★和茉莉爱回家)",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_marie_59",
+              "type": "choice",
+              "content": "商务街│茉莉爱6",
+              "prefix": "■",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_marie_60",
+              "type": "choice",
+              "content": "适当选择",
+              "prefix": "■",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_marie_63",
+              "type": "choice",
+              "content": "是的",
+              "prefix": "⇒",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_marie_64",
+              "type": "choice",
+              "content": "停住脚步",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_marie_65",
+              "type": "note",
+              "content": "占卜",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_marie_66",
+              "type": "note",
+              "content": "选择回家路线0715",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_marie_67",
+              "type": "note",
+              "content": "(★和茉莉爱回家)",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_marie_68",
+              "type": "choice",
+              "content": "桥│茉莉爱7",
+              "prefix": "■",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_marie_69",
+              "type": "choice",
+              "content": "适当选择",
+              "prefix": "■",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_marie_72",
+              "type": "choice",
+              "content": "是的",
+              "prefix": "⇒",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_marie_73",
+              "type": "choice",
+              "content": "一起回去",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_marie_74",
+              "type": "choice",
+              "content": "高台",
+              "prefix": "○",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_marie_75",
+              "type": "choice",
+              "content": "温柔之处",
+              "prefix": "○",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_marie_76",
+              "type": "choice",
+              "content": "日本史",
+              "prefix": "○",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_marie_77",
+              "type": "choice",
+              "content": "打招呼",
+              "prefix": "○",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_marie_78",
+              "type": "choice",
+              "content": "咖喱面包",
+              "prefix": "○",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_marie_79",
+              "type": "note",
+              "content": "茉莉爱进展事件2",
+              "prefix": "※"
+            },
+            {
+              "id": "step_marie_80",
+              "type": "note",
+              "content": "占卜",
+              "group": "日常 08"
+            },
+            {
+              "id": "step_marie_81",
+              "type": "note",
+              "content": "选择回家路线0816",
+              "group": "日常 08"
+            },
+            {
+              "id": "step_marie_82",
+              "type": "note",
+              "content": "(★和茉莉爱回家)",
+              "group": "日常 08"
+            },
+            {
+              "id": "step_marie_83",
+              "type": "choice",
+              "content": "学前路│茉莉爱8",
+              "prefix": "■",
+              "group": "日常 08"
+            },
+            {
+              "id": "step_marie_84",
+              "type": "choice",
+              "content": "适当选择",
+              "prefix": "■",
+              "group": "日常 08"
+            },
+            {
+              "id": "step_marie_87",
+              "type": "choice",
+              "content": "是的",
+              "prefix": "⇒",
+              "group": "日常 08"
+            },
+            {
+              "id": "step_marie_88",
+              "type": "choice",
+              "content": "打招呼",
+              "group": "日常 08"
+            },
+            {
+              "id": "step_marie_89",
+              "type": "note",
+              "content": "占卜",
+              "group": "日常 09"
+            },
+            {
+              "id": "step_marie_90",
+              "type": "choice",
+              "content": "打招呼│茉莉爱9",
+              "group": "日常 09"
+            },
+            {
+              "id": "step_marie_91",
+              "type": "choice",
+              "content": "桥",
+              "prefix": "○",
+              "group": "日常 09"
+            },
+            {
+              "id": "step_marie_92",
+              "type": "choice",
+              "content": "国外",
+              "prefix": "○",
+              "group": "日常 09"
+            },
+            {
+              "id": "step_marie_93",
+              "type": "choice",
+              "content": "握手",
+              "prefix": "○",
+              "group": "日常 09"
+            },
+            {
+              "id": "step_marie_94",
+              "type": "choice",
+              "content": "恋人式牵手",
+              "prefix": "○",
+              "group": "日常 09"
+            },
+            {
+              "id": "step_marie_95",
+              "type": "note",
+              "content": "茉莉爱进展事件3",
+              "prefix": "※"
+            },
+            {
+              "id": "step_marie_96",
+              "type": "note",
+              "content": "占卜",
+              "group": "日常 10"
+            },
+            {
+              "id": "step_marie_97",
+              "type": "note",
+              "content": "在从SAVE 2开始的情况下进行SAVE 3存档",
+              "group": "日常 10"
+            },
+            {
+              "id": "step_marie_98",
+              "type": "save",
+              "content": "SAVE 3",
+              "group": "日常 10"
+            },
+            {
+              "id": "step_marie_99",
+              "type": "note",
+              "content": "选择回家路线1018",
+              "group": "日常 10"
+            },
+            {
+              "id": "step_marie_100",
+              "type": "note",
+              "content": "(★和茉莉爱回家)",
+              "group": "日常 10"
+            },
+            {
+              "id": "step_marie_101",
+              "type": "choice",
+              "content": "学前路│茉莉爱10",
+              "prefix": "■",
+              "group": "日常 10"
+            },
+            {
+              "id": "step_marie_102",
+              "type": "choice",
+              "content": "适当选择",
+              "prefix": "■",
+              "group": "日常 10"
+            },
+            {
+              "id": "step_marie_105",
+              "type": "choice",
+              "content": "是的",
+              "prefix": "⇒",
+              "group": "日常 10"
+            },
+            {
+              "id": "step_marie_106",
+              "type": "choice",
+              "content": "朝她搭话",
+              "group": "日常 10"
+            },
+            {
+              "id": "step_marie_107",
+              "type": "choice",
+              "content": "考虑茉莉爱的事",
+              "group": "日常 10"
+            }
+          ]
+        },
+        {
+          "id": "ending_bad_end",
+          "name": "BAD END",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_bad_01",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_bad_02",
+              "type": "note",
+              "content": "选择回家路线18"
+            },
+            {
+              "id": "step_bad_03",
+              "type": "choice",
+              "content": "岔路│",
+              "prefix": "■"
+            },
+            {
+              "id": "step_bad_04",
+              "type": "choice",
+              "content": "适当选择",
+              "prefix": "■"
+            },
+            {
+              "id": "step_bad_07",
+              "type": "choice",
+              "content": "是的",
+              "prefix": "⇒"
+            },
+            {
+              "id": "step_bad_08",
+              "type": "choice",
+              "content": "继续说"
+            },
+            {
+              "id": "step_bad_09",
+              "type": "note",
+              "content": "不占卜",
+              "group": "日常 19"
+            },
+            {
+              "id": "step_bad_10",
+              "type": "note",
+              "content": "选择回家路线19",
+              "group": "日常 19"
+            },
+            {
+              "id": "step_bad_11",
+              "type": "choice",
+              "content": "商店街│",
+              "prefix": "■",
+              "group": "日常 19"
+            },
+            {
+              "id": "step_bad_12",
+              "type": "choice",
+              "content": "适当选择",
+              "prefix": "■",
+              "group": "日常 19"
+            },
+            {
+              "id": "step_bad_15",
+              "type": "choice",
+              "content": "是的",
+              "prefix": "⇒",
+              "group": "日常 19"
+            },
+            {
+              "id": "step_bad_16",
+              "type": "choice",
+              "content": "尝尝味道",
+              "group": "日常 19"
+            },
+            {
+              "id": "step_bad_17",
+              "type": "note",
+              "content": "不占卜",
+              "group": "日常 20"
+            },
+            {
+              "id": "step_bad_18",
+              "type": "note",
+              "content": "选择回家路线20",
+              "group": "日常 20"
+            },
+            {
+              "id": "step_bad_19",
+              "type": "choice",
+              "content": "时尚街",
+              "prefix": "■",
+              "group": "日常 20"
+            },
+            {
+              "id": "step_bad_20",
+              "type": "choice",
+              "content": "适当选择",
+              "prefix": "■",
+              "group": "日常 20"
+            },
+            {
+              "id": "step_bad_23",
+              "type": "choice",
+              "content": "是的",
+              "prefix": "⇒",
+              "group": "日常 20"
+            },
+            {
+              "id": "step_bad_24",
+              "type": "choice",
+              "content": "继续说话",
+              "group": "日常 20"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

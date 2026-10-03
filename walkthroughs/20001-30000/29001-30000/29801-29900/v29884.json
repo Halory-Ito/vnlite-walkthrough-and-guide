@@ -1,0 +1,643 @@
+{
+  "vid": "v29884",
+  "name": {
+    "zh-cn": "Happy Live, Show Up!",
+    "ja-jp": "ハッピーライヴ ショウアップ！",
+    "ja-Latn": "happy-live-show-up"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-12",
+  "routes": [
+    {
+      "id": "route_1757333318949",
+      "name": "索菲",
+      "endings": [
+        {
+          "id": "ending_1757333680147",
+          "name": "索菲 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1757333686209",
+              "type": "choice",
+              "content": "因为可以得到索菲的夸奖"
+            },
+            {
+              "id": "step_1757333686490",
+              "type": "choice",
+              "content": "嗯，好久不见！"
+            },
+            {
+              "id": "step_1757333686846",
+              "type": "choice",
+              "content": "去看看佩奇卡的情况"
+            },
+            {
+              "id": "step_1757333687248",
+              "type": "choice",
+              "content": "佩奇卡同学很漂亮"
+            },
+            {
+              "id": "step_1757333687470",
+              "type": "choice",
+              "content": "的确是这样"
+            },
+            {
+              "id": "step_1757333687654",
+              "type": "choice",
+              "content": "同意"
+            },
+            {
+              "id": "step_1757333706903",
+              "type": "choice",
+              "content": "继续摸她的头"
+            },
+            {
+              "id": "step_1757333711512",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1757333712584",
+              "type": "choice",
+              "content": "继续谈下去"
+            },
+            {
+              "id": "step_1757333712968",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1757333715468",
+              "type": "choice",
+              "content": "再加把劲"
+            },
+            {
+              "id": "step_1757333725987",
+              "type": "choice",
+              "content": "有喜欢的人",
+              "subfix": "如果有这个选项的话"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1757334254821",
+      "name": "卡恰",
+      "endings": [
+        {
+          "id": "ending_1757334266993",
+          "name": "卡恰 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1757334278049",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1757334281623",
+              "type": "choice",
+              "content": "太危险了，就到这里吧"
+            },
+            {
+              "id": "step_1757334282228",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_1757334283000",
+              "type": "choice",
+              "content": "总之先介入"
+            },
+            {
+              "id": "step_1757334284036",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_1757334284688",
+              "type": "choice",
+              "content": "有喜欢的人"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1757334531862",
+      "name": "佩奇卡",
+      "endings": [
+        {
+          "id": "ending_1757334541795",
+          "name": "佩奇卡 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1757334558560",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1757334561644",
+              "type": "choice",
+              "content": "再看看情况"
+            },
+            {
+              "id": "step_1757334561917",
+              "type": "choice",
+              "content": "有喜欢的人"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1757334573019",
+      "name": "雅",
+      "endings": [
+        {
+          "id": "ending_1757334679931",
+          "name": "雅 END",
+          "type": "normal",
+          "requirements": "通过索菲线后解锁",
+          "steps": [
+            {
+              "id": "step_1757334700823",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_1757334704392",
+              "type": "choice",
+              "content": "不选择任何人"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1757334711545",
+      "name": "克拉丽丝",
+      "endings": [
+        {
+          "id": "ending_1757334725979",
+          "name": "克拉丽丝 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1757334859819",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1757334861088",
+              "type": "choice",
+              "content": "就谈到这里吧"
+            },
+            {
+              "id": "step_1757334861299",
+              "type": "choice",
+              "content": "太危险了，就到这里吧"
+            },
+            {
+              "id": "step_1757334861873",
+              "type": "save",
+              "content": "SAVE 5"
+            },
+            {
+              "id": "step_1757334863304",
+              "type": "choice",
+              "content": "和看起来很无聊的克拉丽丝同学聊天"
+            },
+            {
+              "id": "step_1757334863534",
+              "type": "choice",
+              "content": "再看看情况"
+            },
+            {
+              "id": "step_1757334863869",
+              "type": "choice",
+              "content": "有喜欢的人"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1757334888528",
+      "name": "露",
+      "endings": [
+        {
+          "id": "ending_1757334898077",
+          "name": "露 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1757334907896",
+              "type": "load",
+              "content": "LOAD 5"
+            },
+            {
+              "id": "step_1757334908876",
+              "type": "choice",
+              "content": "照顾倒下的露"
+            },
+            {
+              "id": "step_1757334909049",
+              "type": "choice",
+              "content": "再看看情况"
+            },
+            {
+              "id": "step_1757334909243",
+              "type": "choice",
+              "content": "有喜欢的人"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1757334983254",
+      "name": "索菲亚·图里纳",
+      "endings": [
+        {
+          "id": "ending_1757334995183",
+          "name": "索菲 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1757335004201",
+              "type": "choice",
+              "content": "索菲亚·图里纳"
+            },
+            {
+              "id": "step_1757335004401",
+              "type": "choice",
+              "content": "因为可以得到索菲的夸奖"
+            },
+            {
+              "id": "step_1757335004601",
+              "type": "choice",
+              "content": "嗯，好久不见！"
+            },
+            {
+              "id": "step_1757335004773",
+              "type": "choice",
+              "content": "去看看佩奇卡的情况"
+            },
+            {
+              "id": "step_1757335005294",
+              "type": "choice",
+              "content": "佩奇卡同学很漂亮"
+            },
+            {
+              "id": "step_1757335005891",
+              "type": "choice",
+              "content": "的确是这样"
+            },
+            {
+              "id": "step_1757335006051",
+              "type": "choice",
+              "content": "同意"
+            },
+            {
+              "id": "step_1757335006215",
+              "type": "choice",
+              "content": "继续摸她的头"
+            },
+            {
+              "id": "step_1757335006369",
+              "type": "choice",
+              "content": "继续谈下去"
+            },
+            {
+              "id": "step_1757335006527",
+              "type": "choice",
+              "content": "再加把劲",
+              "subfix": "关键+1"
+            },
+            {
+              "id": "step_1757335006675",
+              "type": "choice",
+              "content": "有喜欢的人",
+              "subfix": "如果有这个选项"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1757335472017",
+      "name": "卡莲提亚·威廉贝尔",
+      "endings": [
+        {
+          "id": "ending_1757335554923",
+          "name": "卡恰 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1757335568908",
+              "type": "choice",
+              "content": "因为可以得到索菲的夸奖"
+            },
+            {
+              "id": "step_1757335569076",
+              "type": "choice",
+              "content": "嗯，好久不见！"
+            },
+            {
+              "id": "step_1757335569296",
+              "type": "choice",
+              "content": "去看看佩奇卡的情况"
+            },
+            {
+              "id": "step_1757335569456",
+              "type": "choice",
+              "content": "佩奇卡同学很漂亮"
+            },
+            {
+              "id": "step_1757335569619",
+              "type": "choice",
+              "content": "的确是这样"
+            },
+            {
+              "id": "step_1757335569779",
+              "type": "choice",
+              "content": "同意"
+            },
+            {
+              "id": "step_1757335569939",
+              "type": "choice",
+              "content": "继续摸她的头"
+            },
+            {
+              "id": "step_1757335570093",
+              "type": "choice",
+              "content": "继续谈下去"
+            },
+            {
+              "id": "step_1757335570257",
+              "type": "choice",
+              "content": "太危险了，就到这里吧"
+            },
+            {
+              "id": "step_1757335660697",
+              "type": "choice",
+              "content": "总之先介入",
+              "subfix": "关键+1"
+            },
+            {
+              "id": "step_1757335661070",
+              "type": "choice",
+              "content": "有喜欢的人"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1757335677341",
+      "name": "佩奇卡·莫妮卡",
+      "endings": [
+        {
+          "id": "ending_1757418869527",
+          "name": "佩奇卡 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1757418879101",
+              "type": "choice",
+              "content": "嗯，好久不见！"
+            },
+            {
+              "id": "step_1757418879292",
+              "type": "choice",
+              "content": "去看看佩奇卡的情况",
+              "subfix": "（+1）"
+            },
+            {
+              "id": "step_1757418879965",
+              "type": "choice",
+              "content": "佩奇卡同学很漂亮",
+              "subfix": "（+1）"
+            },
+            {
+              "id": "step_1757418880132",
+              "type": "choice",
+              "content": "的确是这样"
+            },
+            {
+              "id": "step_1757418880296",
+              "type": "choice",
+              "content": "同意"
+            },
+            {
+              "id": "step_1757418880469",
+              "type": "choice",
+              "content": "继续摸她的头"
+            },
+            {
+              "id": "step_1757418880634",
+              "type": "choice",
+              "content": "继续谈下去"
+            },
+            {
+              "id": "step_1757418880804",
+              "type": "choice",
+              "content": "太危险了，就到这里吧"
+            },
+            {
+              "id": "step_1757418880976",
+              "type": "choice",
+              "content": "再看看情况"
+            },
+            {
+              "id": "step_1757418881137",
+              "type": "choice",
+              "content": "有喜欢的人"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1757418966562",
+      "name": "克拉丽丝·克罗亚",
+      "endings": [
+        {
+          "id": "ending_1757418976006",
+          "name": "克拉丽丝 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1757418982375",
+              "type": "choice",
+              "content": "因为可以得到索菲的夸奖"
+            },
+            {
+              "id": "step_1757418982537",
+              "type": "choice",
+              "content": "嗯，好久不见！"
+            },
+            {
+              "id": "step_1757418982701",
+              "type": "choice",
+              "content": "去看看佩奇卡的情况"
+            },
+            {
+              "id": "step_1757418982858",
+              "type": "choice",
+              "content": "佩奇卡同学很漂亮"
+            },
+            {
+              "id": "step_1757418983015",
+              "type": "choice",
+              "content": "的确是这样"
+            },
+            {
+              "id": "step_1757418983172",
+              "type": "choice",
+              "content": "同意"
+            },
+            {
+              "id": "step_1757418983327",
+              "type": "choice",
+              "content": "继续摸她的头"
+            },
+            {
+              "id": "step_1757418983473",
+              "type": "choice",
+              "content": "就谈到这里吧"
+            },
+            {
+              "id": "step_1757418983626",
+              "type": "choice",
+              "content": "太危险了，就到这里吧"
+            },
+            {
+              "id": "step_1757418983764",
+              "type": "choice",
+              "content": "和看起来很无聊的克拉丽丝同学聊天",
+              "subfix": "关键+1"
+            },
+            {
+              "id": "step_1757418983918",
+              "type": "choice",
+              "content": "再看看情况"
+            },
+            {
+              "id": "step_1757418984071",
+              "type": "choice",
+              "content": "有喜欢的人"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1757419102053",
+      "name": "露·昴",
+      "endings": [
+        {
+          "id": "ending_1757419106484",
+          "name": "露 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1757419116247",
+              "type": "choice",
+              "content": "因为露觉得有意思"
+            },
+            {
+              "id": "step_1757419116401",
+              "type": "choice",
+              "content": "嗯，好久不见！"
+            },
+            {
+              "id": "step_1757419116548",
+              "type": "choice",
+              "content": "去看看佩奇卡的情况"
+            },
+            {
+              "id": "step_1757419116692",
+              "type": "choice",
+              "content": "佩奇卡同学很漂亮"
+            },
+            {
+              "id": "step_1757419116846",
+              "type": "choice",
+              "content": "的确是这样"
+            },
+            {
+              "id": "step_1757419117081",
+              "type": "choice",
+              "content": "同意"
+            },
+            {
+              "id": "step_1757419117233",
+              "type": "choice",
+              "content": "继续摸她的头"
+            },
+            {
+              "id": "step_1757419117394",
+              "type": "choice",
+              "content": "就谈到这里吧"
+            },
+            {
+              "id": "step_1757419117556",
+              "type": "choice",
+              "content": "太危险了，就到这里吧"
+            },
+            {
+              "id": "step_1757419117709",
+              "type": "choice",
+              "content": "照顾倒下的露",
+              "subfix": "关键+1"
+            },
+            {
+              "id": "step_1757419117855",
+              "type": "choice",
+              "content": "再看看情况"
+            },
+            {
+              "id": "step_1757419117999",
+              "type": "choice",
+              "content": "有喜欢的人"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1757419216500",
+      "name": "雅",
+      "endings": [
+        {
+          "id": "ending_1757419218135",
+          "name": "雅 END",
+          "type": "normal",
+          "requirements": "有剧情锁，通过索菲线后才能解锁",
+          "steps": [
+            {
+              "id": "step_1757419239793",
+              "type": "choice",
+              "content": "前面选项随意"
+            },
+            {
+              "id": "step_1757419251835",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_1757419259661",
+              "type": "choice",
+              "content": "不选择任何人"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

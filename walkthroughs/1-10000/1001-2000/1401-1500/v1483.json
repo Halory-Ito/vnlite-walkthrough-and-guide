@@ -1,0 +1,70 @@
+{
+  "vid": "v1483",
+  "name": {
+    "zh-cn": "从晴朗的朝色泛起之际开始",
+    "ja-jp": "きっと、澄みわたる朝色よりも、",
+    "ja-Latn": "kitto-sumiwataru-asairo-yori-mo"
+  },
+  "level": 2,
+  "updatedAt": "2026-05-08",
+  "routes": [
+    {
+      "id": "route_common",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_common_end",
+          "name": "END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1",
+              "type": "choice",
+              "content": "青组好厉害啊……"
+            },
+            {
+              "id": "step_2",
+              "type": "choice",
+              "content": "起来抗议"
+            },
+            {
+              "id": "step_3",
+              "type": "choice",
+              "content": "桔世被人怀疑的话哪能忍得住啊！"
+            },
+            {
+              "id": "step_4",
+              "type": "choice",
+              "content": "从桔世的样子得到提示的我……"
+            },
+            {
+              "id": "step_5",
+              "type": "choice",
+              "content": "现在马上去确认"
+            },
+            {
+              "id": "step_6",
+              "type": "choice",
+              "content": "『学生会发行指南』"
+            },
+            {
+              "id": "step_7",
+              "type": "choice",
+              "content": "不停下来"
+            },
+            {
+              "id": "step_8",
+              "type": "choice",
+              "content": "「伙伴」"
+            },
+            {
+              "id": "step_9",
+              "type": "choice",
+              "content": "「选择」"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

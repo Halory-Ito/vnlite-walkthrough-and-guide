@@ -1,0 +1,150 @@
+{
+  "vid": "v30216",
+  "name": {
+    "zh-cn": "Princess × Princess",
+    "ja-Latn": "princess-princess"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-14",
+  "tips": [
+    "★ 选项不会出现在一周目，可忽略",
+    "有些场景是随机播放的请注意，游戏默认你正在参与游戏"
+  ],
+  "routes": [
+    {
+      "id": "route_1775301858899",
+      "name": "奥路线（深处的路线）",
+      "endings": [
+        {
+          "id": "ending_1775301874352",
+          "name": "蓝END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1775301913819",
+              "type": "choice",
+              "content": "没有特别思考，就打开了眼前的门",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1775301923050",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1775301924966",
+              "type": "choice",
+              "content": "奥侧的向日葵之门比较好吗"
+            },
+            {
+              "id": "step_1775301925230",
+              "type": "choice",
+              "content": "决定打开奥侧的矢车菊之门"
+            },
+            {
+              "id": "step_1775301925874",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1775301926740",
+              "type": "choice",
+              "content": "决定打开奥侧的蓼蓝之门"
+            }
+          ]
+        },
+        {
+          "id": "ending_1775301958004",
+          "name": "莉西亚END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1775301963312",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1775301968654",
+              "type": "choice",
+              "content": "决定打开眼前的红花之门"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1775301982734",
+      "name": "眼前路线（手前的路线）",
+      "endings": [
+        {
+          "id": "ending_1775301989470",
+          "name": "拉比斯END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1775302004119",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1775302005833",
+              "type": "choice",
+              "content": "决定选择眼前的百合之门"
+            },
+            {
+              "id": "step_1775302006214",
+              "type": "choice",
+              "content": "选择了眼前的勿忘我之门"
+            },
+            {
+              "id": "step_1775302007193",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_1775302008556",
+              "type": "choice",
+              "content": "决定打开眼前的红花之门"
+            }
+          ]
+        },
+        {
+          "id": "ending_1775301990596",
+          "name": "全員END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1775302032691",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1775302036960",
+              "type": "choice",
+              "content": "决定打开奥侧的蓼蓝之门"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1775302052184",
+      "name": "赛蕾娜",
+      "endings": [
+        {
+          "id": "ending_1775302069957",
+          "name": "赛蕾娜END",
+          "type": "normal",
+          "requirements": "※达成任意一个END后，从最初开始",
+          "steps": [
+            {
+              "id": "step_1775302081814",
+              "type": "choice",
+              "content": "稍微思考了一下，打开了奥侧的门"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

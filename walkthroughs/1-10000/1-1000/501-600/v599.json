@@ -1,0 +1,400 @@
+{
+  "vid": "v599",
+  "name": {
+    "zh-cn": "Forest",
+    "ja-Latn": "forest"
+  },
+  "level": 2,
+  "updatedAt": "2026-03-03",
+  "routes": [
+    {
+      "id": "route_1767422070090",
+      "name": "第一章",
+      "endings": [
+        {
+          "id": "ending_1767422103254",
+          "name": "END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1767426041583",
+              "type": "choice",
+              "content": "无选项"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1767422204793",
+      "name": "第二章",
+      "endings": [
+        {
+          "id": "ending_1767426101832",
+          "name": "END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1767426125882",
+              "type": "choice",
+              "content": "无选项"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1767426141044",
+      "name": "第三章",
+      "endings": [
+        {
+          "id": "ending_1767426206906",
+          "name": "END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1767426239851",
+              "type": "choice",
+              "content": "到外面",
+              "subfix": "到里面直接BE"
+            },
+            {
+              "id": "step_1767426240207",
+              "type": "choice",
+              "content": "下车",
+              "subfix": "不下车直接BE"
+            },
+            {
+              "id": "step_1767426240423",
+              "type": "choice",
+              "content": "制止九月",
+              "subfix": "不制止直接BE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1767426143811",
+      "name": "第四章",
+      "endings": [
+        {
+          "id": "ending_1767426293803",
+          "name": "END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1767426306233",
+              "type": "choice",
+              "content": "让她安息",
+              "subfix": "复活第七章BE"
+            },
+            {
+              "id": "step_1767426325227",
+              "type": "note",
+              "content": "删除save文件夹中的rssave.dat文件可使游戏回到一周目，对于恢复第五章的flag有用"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1767426145510",
+      "name": "第五章",
+      "endings": [
+        {
+          "id": "ending_1767426396681",
+          "name": "第一轮",
+          "type": "normal",
+          "requirements": "以一周目状态开局",
+          "steps": [
+            {
+              "id": "step_1767426530542",
+              "type": "choice",
+              "content": "九月"
+            },
+            {
+              "id": "step_1767426530706",
+              "type": "choice",
+              "content": "才刚开始，小心为上"
+            },
+            {
+              "id": "step_1767426530904",
+              "type": "choice",
+              "content": "补充失落的数字"
+            },
+            {
+              "id": "step_1767426531080",
+              "type": "choice",
+              "content": "九月的骰子",
+              "subfix": "格利泽贝拉的骰子直接BE，下轮这个选项消失"
+            },
+            {
+              "id": "step_1767426531268",
+              "type": "choice",
+              "content": "奇数/偶数"
+            },
+            {
+              "id": "step_1767426531447",
+              "type": "choice",
+              "content": "尽全力扔/收集数字"
+            },
+            {
+              "id": "step_1767426531651",
+              "type": "choice",
+              "content": "堂堂正正地掷出去"
+            },
+            {
+              "id": "step_1767426531922",
+              "type": "choice",
+              "content": "向前走/往回走/使用GIFT"
+            }
+          ]
+        },
+        {
+          "id": "ending_1767426399399",
+          "name": "第二轮",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1767426717041",
+              "type": "choice",
+              "content": "黛",
+              "subfix": "注意选黛第七章会BE，所以如果想进入第八章，绝对不要从这一轮进入第六章"
+            },
+            {
+              "id": "step_1767426717215",
+              "type": "choice",
+              "content": "才刚开始，小心为上"
+            },
+            {
+              "id": "step_1767426717406",
+              "type": "choice",
+              "content": "先不着急，休息一会儿",
+              "subfix": "解锁“她想上天国”选项"
+            },
+            {
+              "id": "step_1767426717636",
+              "type": "choice",
+              "content": "尽人事听天命",
+              "subfix": "这里只是一种选法，有多种通关选择"
+            },
+            {
+              "id": "step_1767426717838",
+              "type": "choice",
+              "content": "灰流",
+              "subfix": "黑之爱丽丝和黛直接BE"
+            },
+            {
+              "id": "step_1767426718238",
+              "type": "choice",
+              "content": "和往常一样掷骰子",
+              "subfix": "都去砸戒灵直接BE"
+            },
+            {
+              "id": "step_1767426718531",
+              "type": "choice",
+              "content": "堂堂正正地掷出去"
+            }
+          ]
+        },
+        {
+          "id": "ending_1767426399926",
+          "name": "第三轮",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1767426922119",
+              "type": "choice",
+              "content": "九月"
+            },
+            {
+              "id": "step_1767426922299",
+              "type": "choice",
+              "content": "全力掷出去！"
+            },
+            {
+              "id": "step_1767426922475",
+              "type": "choice",
+              "content": "不管她了，直接冲",
+              "subfix": "催促黛直接BE"
+            },
+            {
+              "id": "step_1767426922660",
+              "type": "choice",
+              "content": "尽人事听天命",
+              "subfix": "其它选项均BE"
+            },
+            {
+              "id": "step_1767426922844",
+              "type": "choice",
+              "content": "她真的很想去天国",
+              "subfix": "不想去天国BE"
+            },
+            {
+              "id": "step_1767426923048",
+              "type": "choice",
+              "content": "砸向戒灵",
+              "subfix": "存档，不断读档，直到出现黑爱丽丝死亡的BE，回档，注意观察结局的不同"
+            },
+            {
+              "id": "step_1767426923356",
+              "type": "choice",
+              "content": "向前走/往回走/使用GIFT"
+            }
+          ]
+        },
+        {
+          "id": "ending_1767426400502",
+          "name": "第四轮",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1767427101588",
+              "type": "choice",
+              "content": "九月"
+            },
+            {
+              "id": "step_1767427101760",
+              "type": "choice",
+              "content": "才刚开始，小心为上"
+            },
+            {
+              "id": "step_1767427102054",
+              "type": "choice",
+              "content": "先不着急，休息一会儿"
+            },
+            {
+              "id": "step_1767427102296",
+              "type": "choice",
+              "content": "尽人事听天命",
+              "subfix": "必选"
+            },
+            {
+              "id": "step_1767427102500",
+              "type": "choice",
+              "content": "霖",
+              "subfix": "必选"
+            },
+            {
+              "id": "step_1767427284864",
+              "type": "choice",
+              "content": "堂堂正正地掷了出去"
+            },
+            {
+              "id": "step_1767427285030",
+              "type": "choice",
+              "content": "前往佩葛莉亚的所在！",
+              "subfix": "九月打破棋盘"
+            },
+            {
+              "id": "step_1767427285432",
+              "type": "note",
+              "content": "这之后第五章可以随意探索"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1767426147075",
+      "name": "第六章",
+      "endings": [
+        {
+          "id": "ending_1767427413596",
+          "name": "END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1767427492523",
+              "type": "choice",
+              "content": "1.不要选“完蛋”"
+            },
+            {
+              "id": "step_1767427492688",
+              "type": "choice",
+              "content": "2.不要选“沉睡”",
+              "subfix": "直接BE选项"
+            },
+            {
+              "id": "step_1767427492946",
+              "type": "choice",
+              "content": "3.随便选"
+            },
+            {
+              "id": "step_1767427493136",
+              "type": "choice",
+              "content": "4.选“城之崎灰流”"
+            },
+            {
+              "id": "step_1767427493350",
+              "type": "choice",
+              "content": "5.随便选"
+            },
+            {
+              "id": "step_1767427493557",
+              "type": "choice",
+              "content": "6.“特伦加”"
+            },
+            {
+              "id": "step_1767427493808",
+              "type": "choice",
+              "content": "7.“涅墨西斯”",
+              "subfix": "如果前面选错，这里的选项是“妈妈”"
+            },
+            {
+              "id": "step_1767427495469",
+              "type": "choice",
+              "content": "8.随便选"
+            },
+            {
+              "id": "step_1767427788360",
+              "type": "note",
+              "content": "接下来这些选项会影响第七章的剧情"
+            },
+            {
+              "id": "step_1767427809644",
+              "type": "choice",
+              "content": "“当没看见”"
+            },
+            {
+              "id": "step_1767427809829",
+              "type": "choice",
+              "content": "随便选"
+            },
+            {
+              "id": "step_1767427809989",
+              "type": "choice",
+              "content": "“九月回答‘我留下’”"
+            },
+            {
+              "id": "step_1767427810151",
+              "type": "choice",
+              "content": "“就在此时此刻”"
+            },
+            {
+              "id": "step_1767427810356",
+              "type": "choice",
+              "content": "“让自己的手染上鲜血”"
+            },
+            {
+              "id": "step_1767427810531",
+              "type": "choice",
+              "content": "随便选"
+            },
+            {
+              "id": "step_1767427864553",
+              "type": "note",
+              "content": "若前六个选项没有按要求选择，则之后第六章剧情走向BE分支。此分支对于理解剧情非常关键。建议在回收此分支以及“妈妈”选项的剧情之后进入第七章。"
+            },
+            {
+              "id": "step_1767427869167",
+              "type": "note",
+              "content": "此后所有章节均无选项"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

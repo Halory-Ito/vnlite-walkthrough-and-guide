@@ -1,0 +1,551 @@
+{
+  "vid": "v1354",
+  "name": {
+    "zh-cn": "聖炎天使エレアノール",
+    "ja-jp": "聖炎天使エレアノール",
+    "ja-Latn": "seien-tenshi-eleanor"
+  },
+  "level": 2,
+  "updatedAt": "2026-03-09",
+  "tips": [
+    "攻略中标注为【败北】的地方，请在战斗战败后选择 放弃"
+  ],
+  "routes": [
+    {
+      "id": "route_1773036464193",
+      "name": "兰 (ラン) 路线 & 莉兹 (リズ)",
+      "endings": [
+        {
+          "id": "ending_1773036502658",
+          "name": "BAD END 1",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_1773036509110",
+              "type": "choice",
+              "content": "战斗（欧加尔）－【胜利】",
+              "subfix": "敌方出招规律：眼睛发红光=攻击，部分皮肤发青=反击，爪子发光=突击",
+              "group": "序章"
+            },
+            {
+              "id": "step_1773036509256",
+              "type": "save",
+              "content": "SAVE 1",
+              "group": "第1话"
+            },
+            {
+              "id": "step_1773036509406",
+              "type": "choice",
+              "content": "战斗（加鲁肯）－【败北】",
+              "group": "第1话"
+            }
+          ]
+        },
+        {
+          "id": "ending_1773036598729",
+          "name": "BAD END 2",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_1773036610440",
+              "type": "load",
+              "content": "LOAD 1",
+              "group": "第1话"
+            },
+            {
+              "id": "step_1773036616186",
+              "type": "choice",
+              "content": "战斗（加鲁肯）－【胜利】",
+              "subfix": "敌方出招规律：眼睛发红=攻击，发青=反击，闭眼=突击",
+              "group": "第1话"
+            },
+            {
+              "id": "step_1773036669623",
+              "type": "save",
+              "content": "SAVE 2",
+              "group": "第2话"
+            },
+            {
+              "id": "step_1773036687786",
+              "type": "choice",
+              "content": "战斗（欧加尔）－【败北】",
+              "group": "第2话"
+            }
+          ]
+        },
+        {
+          "id": "ending_1773036693947",
+          "name": "BAD END 3",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_1773036709326",
+              "type": "load",
+              "content": "LOAD 2",
+              "group": "第2话"
+            },
+            {
+              "id": "step_1773036720054",
+              "type": "choice",
+              "content": "战斗（欧加尔）－【胜利】",
+              "group": "第2话"
+            },
+            {
+              "id": "step_1773036743539",
+              "type": "save",
+              "content": "SAVE 3",
+              "group": "第3话"
+            },
+            {
+              "id": "step_1773036754965",
+              "type": "choice",
+              "content": "委身于他",
+              "group": "第3话"
+            }
+          ]
+        },
+        {
+          "id": "ending_1773036767158",
+          "name": "BAD END 4",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_1773036779698",
+              "type": "load",
+              "content": "LOAD 3",
+              "group": "第3话"
+            },
+            {
+              "id": "step_1773036798279",
+              "type": "choice",
+              "content": "坚持反抗",
+              "group": "第3话"
+            },
+            {
+              "id": "step_1773036805691",
+              "type": "save",
+              "content": "SAVE 4",
+              "group": "第3话"
+            },
+            {
+              "id": "step_1773036809285",
+              "type": "choice",
+              "content": "战斗（巴根塞尔）－【败北】",
+              "group": "第3话"
+            }
+          ]
+        },
+        {
+          "id": "ending_1773036821179",
+          "name": "BAD END 5",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_1773036840023",
+              "type": "load",
+              "content": "LOAD 4",
+              "group": "第3话"
+            },
+            {
+              "id": "step_1773036851117",
+              "type": "choice",
+              "content": "战斗（巴根塞尔）－【胜利】",
+              "subfix": "敌方出招规律：平局时会往前走。胸毛变黄=突击。眼睛发青=反击",
+              "group": "第3话"
+            },
+            {
+              "id": "step_1773036952849",
+              "type": "save",
+              "content": "SAVE 5",
+              "group": "【第4话】"
+            },
+            {
+              "id": "step_1773036964547",
+              "type": "choice",
+              "content": "战斗（欧加尔）－【败北】",
+              "group": "【第4话】"
+            }
+          ]
+        },
+        {
+          "id": "ending_1773036980550",
+          "name": "BAD END 6",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_1773036990979",
+              "type": "load",
+              "content": "LOAD 5",
+              "group": "第4话"
+            },
+            {
+              "id": "step_1773036999824",
+              "type": "choice",
+              "content": "战斗（欧加尔）－【胜利】",
+              "subfix": "敌方出招规律：如果往后跳则是反击",
+              "group": "第4话"
+            },
+            {
+              "id": "step_1773036999991",
+              "type": "save",
+              "content": "SAVE 6",
+              "subfix": "古比登场时存档",
+              "group": "第4话"
+            },
+            {
+              "id": "step_1773037000119",
+              "type": "choice",
+              "content": "战斗（古比）－【败北】",
+              "group": "第4话"
+            }
+          ]
+        },
+        {
+          "id": "ending_1773037065368",
+          "name": "BAD END 7",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_1773037193591",
+              "type": "load",
+              "content": "LOAD 6",
+              "group": "第4话"
+            },
+            {
+              "id": "step_1773037193947",
+              "type": "choice",
+              "content": "战斗（古比）－【胜利】",
+              "subfix": "敌方出招规律：发抖时=突击，身体发青光时=攻击顺序反转",
+              "group": "第4话"
+            },
+            {
+              "id": "step_1773037194082",
+              "type": "choice",
+              "content": "战斗（欧加尔）－【胜利】",
+              "subfix": "敌方出招规律：与颜色无关，固定按 攻击、反击、突击 的顺序",
+              "group": "第5话"
+            },
+            {
+              "id": "step_1773037243824",
+              "type": "save",
+              "content": "SAVE 7",
+              "subfix": "安娜斯塔西娅登场后存档",
+              "group": "第5话"
+            }
+          ]
+        },
+        {
+          "id": "ending_1773037266868",
+          "name": "BAD END 8",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_1773037275195",
+              "type": "load",
+              "content": "LOAD 7",
+              "group": "第5话"
+            },
+            {
+              "id": "step_1773037291197",
+              "type": "choice",
+              "content": "战斗（卡特琳）－【胜利】",
+              "subfix": "敌方出招规律：往后跳=攻击。身体发光时=胜负判定反转（再次发光则恢复正常）",
+              "group": "第5话"
+            },
+            {
+              "id": "step_1773037314984",
+              "type": "save",
+              "content": "SAVE 8",
+              "group": "第6话"
+            },
+            {
+              "id": "step_1773037328053",
+              "type": "choice",
+              "content": "战斗（加鲁斯波）－【败北】",
+              "group": "第6话"
+            }
+          ]
+        },
+        {
+          "id": "ending_1773037333589",
+          "name": "BAD END 9",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_1773037343556",
+              "type": "load",
+              "content": "LOAD 8",
+              "group": "第6话"
+            },
+            {
+              "id": "step_1773037352931",
+              "type": "choice",
+              "content": "战斗（加鲁斯波）－【胜利】",
+              "subfix": "敌方出招规律：触手发光=攻击，隐藏触手=反击，牙齿变黄=突击",
+              "group": "第6话"
+            },
+            {
+              "id": "step_1773037371942",
+              "type": "choice",
+              "content": "战斗（安娜斯塔西娅）－【败北】",
+              "subfix": "剧情杀，无法获胜",
+              "group": "第6话"
+            },
+            {
+              "id": "step_1773037385205",
+              "type": "save",
+              "content": "SAVE 9",
+              "group": "第7话"
+            },
+            {
+              "id": "step_1773037398638",
+              "type": "choice",
+              "content": "战斗（加鲁肯）－【败北】",
+              "group": "第7话"
+            }
+          ]
+        },
+        {
+          "id": "ending_1773037404366",
+          "name": "BAD END 10",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_1773037419822",
+              "type": "load",
+              "content": "LOAD 9",
+              "group": "第7话"
+            },
+            {
+              "id": "step_1773037429950",
+              "type": "choice",
+              "content": "战斗（加鲁肯）－【胜利】",
+              "subfix": "敌方出招规律：眼睛发红=攻击，头部发青=反击，闭眼=突击",
+              "group": "第7话"
+            },
+            {
+              "id": "step_1773037430106",
+              "type": "choice",
+              "content": "战斗（安娜斯塔西娅）－【胜利】",
+              "subfix": "敌方出招规律：身体发光=胜负判定反转（再次发光恢复）。发抖时：第一下突击，第二下反击，第三下攻击",
+              "group": "第7话"
+            },
+            {
+              "id": "step_1773037430303",
+              "type": "choice",
+              "content": "这……我做不到",
+              "group": "第8话"
+            },
+            {
+              "id": "step_1773037476341",
+              "type": "save",
+              "content": "SAVE 10",
+              "group": "第8话"
+            },
+            {
+              "id": "step_1773037485499",
+              "type": "choice",
+              "content": "战斗（古比）－【败北】",
+              "group": "第8话"
+            }
+          ]
+        },
+        {
+          "id": "ending_1773037504173",
+          "name": "BAD END 11",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_1773037516075",
+              "type": "load",
+              "content": "LOAD 10",
+              "group": "第8话"
+            },
+            {
+              "id": "step_1773037522445",
+              "type": "choice",
+              "content": "战斗（古比）－【胜利】",
+              "subfix": "敌方出招规律：发抖=突击。身体发光=胜负判定反转。身体发青光=攻击顺序反转",
+              "group": "第8话"
+            },
+            {
+              "id": "step_1773037528346",
+              "type": "save",
+              "content": "SAVE 11",
+              "group": "第8话"
+            },
+            {
+              "id": "step_1773037536147",
+              "type": "choice",
+              "content": "怎么可能和这种家伙做",
+              "group": "第8话"
+            },
+            {
+              "id": "step_1773037555589",
+              "type": "save",
+              "content": "SAVE 12",
+              "group": "第9话"
+            },
+            {
+              "id": "step_1773037572297",
+              "type": "choice",
+              "content": "战斗（安娜斯塔西娅）－【败北】",
+              "group": "第9话"
+            }
+          ]
+        },
+        {
+          "id": "ending_1773037593762",
+          "name": "莉兹 (リズ) END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1773037604078",
+              "type": "load",
+              "content": "LOAD 12",
+              "group": "第9话"
+            },
+            {
+              "id": "step_1773037610633",
+              "type": "choice",
+              "content": "战斗（安娜斯塔西娅）－【胜利】",
+              "subfix": "敌方出招规律：发光=胜负反转。发抖时：一突击，二反击，三攻击。身体发青光=攻击顺序反转",
+              "group": "第9话"
+            },
+            {
+              "id": "step_1773037708523",
+              "type": "choice",
+              "content": "战斗（加鲁斯波）－【胜利】",
+              "subfix": "敌方出招规律：发光=胜负反转。触手发光=攻击，隐藏触手=反击，牙齿变黄=突击",
+              "group": "第10话"
+            },
+            {
+              "id": "step_1773037742065",
+              "type": "save",
+              "content": "SAVE 13",
+              "group": "第10话"
+            },
+            {
+              "id": "step_1773037744320",
+              "type": "choice",
+              "content": "不，是错觉吧",
+              "group": "第10话"
+            }
+          ]
+        },
+        {
+          "id": "ending_1773037755506",
+          "name": "BAD END 12",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_1773037763161",
+              "type": "load",
+              "content": "LOAD 13",
+              "group": "第10话"
+            },
+            {
+              "id": "step_1773037778871",
+              "type": "choice",
+              "content": "把她……",
+              "group": "第10话"
+            },
+            {
+              "id": "step_1773037785540",
+              "type": "save",
+              "content": "SAVE 14",
+              "subfix": "卡德萨拉登场时存档",
+              "group": "第10话"
+            },
+            {
+              "id": "step_1773037795008",
+              "type": "choice",
+              "content": "战斗（卡德萨拉）－【败北】",
+              "group": "第10话"
+            }
+          ]
+        },
+        {
+          "id": "ending_1773037814623",
+          "name": "兰 (ラン) END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1773037819228",
+              "type": "load",
+              "content": "LOAD 14",
+              "group": "第10话"
+            },
+            {
+              "id": "step_1773037826576",
+              "type": "choice",
+              "content": "战斗（卡德萨拉）－【胜利】",
+              "subfix": "敌方出招规律：身体发光=胜负反转。发抖时：一攻击，二反击，三突击。身体发青光=攻击顺序反转",
+              "group": "第10话"
+            },
+            {
+              "id": "step_1773037854523",
+              "type": "note",
+              "content": "通关后标题画面追加 Another Story"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1773037865163",
+      "name": "妮洁 (ニージェ)",
+      "endings": [
+        {
+          "id": "ending_1773037876049",
+          "name": "妮洁 (ニージェ) END",
+          "type": "normal",
+          "requirements": "在游戏标题画面（Title）选择 “another story” 开始",
+          "steps": [
+            {
+              "id": "step_1773037899979",
+              "type": "choice",
+              "content": "感觉像圣女",
+              "group": "第6话"
+            },
+            {
+              "id": "step_1773037900127",
+              "type": "choice",
+              "content": "跳过战斗",
+              "group": "第7话"
+            },
+            {
+              "id": "step_1773037926117",
+              "type": "choice",
+              "content": "脱下外套给她披上",
+              "group": "第9话"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1773037954155",
+      "name": "后宫",
+      "endings": [
+        {
+          "id": "ending_1773037980223",
+          "name": "后宫 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1773037987964",
+              "type": "load",
+              "content": "LOAD 11"
+            },
+            {
+              "id": "step_1773037999772",
+              "type": "note",
+              "content": "在选项处选择与兰线相反的选项进入后宫线，后续战斗尽量使用 跳过战斗 功能即可"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

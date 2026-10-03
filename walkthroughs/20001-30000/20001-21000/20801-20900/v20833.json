@@ -1,0 +1,92 @@
+{
+  "vid": "v20833",
+  "name": {
+    "zh-cn": "茜色的境界线",
+    "ja-jp": "茜色の境界線",
+    "ja-Latn": "akaneiro-no-kyoukaisen"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-13",
+  "routes": [
+    {
+      "id": "route_1769332370873",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1769332686940",
+          "name": "巴 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1769332706494",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1769332707078",
+              "type": "choice",
+              "content": "一起睡"
+            }
+          ]
+        },
+        {
+          "id": "ending_1769332723291",
+          "name": "尼崎霞 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1769332739880",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1769332743615",
+              "type": "choice",
+              "content": "分开睡"
+            },
+            {
+              "id": "step_1769332747798",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1769332756329",
+              "type": "choice",
+              "content": "战斗"
+            }
+          ]
+        },
+        {
+          "id": "ending_1769332723983",
+          "name": "姬路紫苑 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1769332794850",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1769332799729",
+              "type": "choice",
+              "content": "不战斗"
+            }
+          ]
+        },
+        {
+          "id": "ending_1769332724332",
+          "name": "巴2 END",
+          "type": "normal",
+          "requirements": "※3人全部攻略后，从最初开始",
+          "steps": [
+            {
+              "id": "step_1769332868431",
+              "type": "choice",
+              "content": "恳求（交给巴决定）"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

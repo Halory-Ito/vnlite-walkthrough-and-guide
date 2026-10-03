@@ -1,0 +1,175 @@
+{
+  "vid": "v3368",
+  "name": {
+    "zh-cn": "ねこ☆こい！～猫神さまとネコミミのたたり～",
+    "ja-jp": "ねこ☆こい！～猫神さまとネコミミのたたり～",
+    "ja-Latn": "neko-koi-nekogami-sama-to-nekomimi-no-tatari"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-14",
+  "routes": [
+    {
+      "id": "route_game",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_misaki",
+          "name": "美咲 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_misaki_01",
+              "type": "choice",
+              "content": "才不是什么麻烦事"
+            },
+            {
+              "id": "step_misaki_02",
+              "type": "choice",
+              "content": "我知道的"
+            },
+            {
+              "id": "step_misaki_03",
+              "type": "choice",
+              "content": "因为美咲对我来说很重要"
+            },
+            {
+              "id": "step_misaki_04",
+              "type": "choice",
+              "content": "我遇到的全是好事"
+            },
+            {
+              "id": "step_misaki_05",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_misaki_06",
+              "type": "choice",
+              "content": "向美咲搭话",
+              "subfix": "CG回收"
+            },
+            {
+              "id": "step_misaki_07",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_misaki_08",
+              "type": "choice",
+              "content": "向沙耶香搭话"
+            },
+            {
+              "id": "step_misaki_09",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_misaki_10",
+              "type": "choice",
+              "content": "向美咲搭话",
+              "subfix": "CG回收"
+            },
+            {
+              "id": "step_misaki_11",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_misaki_12",
+              "type": "choice",
+              "content": "急忙赶往学生会室"
+            },
+            {
+              "id": "step_misaki_13",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_misaki_14",
+              "type": "choice",
+              "content": "不希望她们任何一方做"
+            },
+            {
+              "id": "step_misaki_15",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_misaki_16",
+              "type": "choice",
+              "content": "也让美咲来做"
+            }
+          ]
+        },
+        {
+          "id": "ending_younan",
+          "name": "阳南 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_younan_01",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_younan_02",
+              "type": "choice",
+              "content": "让阳南继续"
+            }
+          ]
+        },
+        {
+          "id": "ending_sayaka",
+          "name": "沙耶香 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_sayaka_01",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_sayaka_02",
+              "type": "choice",
+              "content": "想办法忍耐"
+            }
+          ]
+        },
+        {
+          "id": "ending_ren",
+          "name": "怜 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_ren_01",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_ren_02",
+              "type": "choice",
+              "content": "怜小姐"
+            },
+            {
+              "id": "step_ren_03",
+              "type": "choice",
+              "content": "想办法忍耐"
+            }
+          ]
+        },
+        {
+          "id": "ending_sakuya",
+          "name": "朔夜 END",
+          "type": "normal",
+          "requirements": "以上全部结局后，标题画面选择EX剧情",
+          "steps": [
+            {
+              "type": "choice",
+              "content": "（源站步骤均为空）"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

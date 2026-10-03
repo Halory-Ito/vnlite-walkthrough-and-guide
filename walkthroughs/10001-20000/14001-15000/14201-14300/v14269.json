@@ -1,0 +1,282 @@
+{
+  "vid": "v14269",
+  "name": {
+    "zh-cn": "Love Sweets",
+    "ja-Latn": "love-sweets"
+  },
+  "level": 2,
+  "updatedAt": "2026-05-11",
+  "routes": [
+    {
+      "id": "route_kanae",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_kanae_end",
+          "name": "音无奏绘 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_kanae_01",
+              "type": "choice",
+              "content": "继续说下去"
+            },
+            {
+              "id": "step_kanae_02",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_kanae_03",
+              "type": "choice",
+              "content": "邀请演奏"
+            },
+            {
+              "id": "step_kanae_04",
+              "type": "choice",
+              "content": "洗碗"
+            },
+            {
+              "id": "step_kanae_05",
+              "type": "choice",
+              "content": "不，没关系吧"
+            },
+            {
+              "id": "step_kanae_06",
+              "type": "choice",
+              "content": "边说边回去"
+            },
+            {
+              "id": "step_kanae_07",
+              "type": "choice",
+              "content": "邀请演奏"
+            },
+            {
+              "id": "step_kanae_08",
+              "type": "choice",
+              "content": "教奏绘"
+            },
+            {
+              "id": "step_kanae_09",
+              "type": "choice",
+              "content": "有空去看看"
+            },
+            {
+              "id": "step_kanae_10",
+              "type": "choice",
+              "content": "邀请演奏"
+            },
+            {
+              "id": "step_kanae_11",
+              "type": "choice",
+              "content": "再坚持一下吗"
+            }
+          ]
+        },
+        {
+          "id": "ending_yui_end",
+          "name": "一之濑结衣 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_yui_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_yui_02",
+              "type": "choice",
+              "content": "邀请穿和服"
+            },
+            {
+              "id": "step_yui_03",
+              "type": "choice",
+              "content": "检查结衣的工作情况"
+            },
+            {
+              "id": "step_yui_04",
+              "type": "choice",
+              "content": "不，没关系吧"
+            },
+            {
+              "id": "step_yui_05",
+              "type": "choice",
+              "content": "邀请穿和服"
+            },
+            {
+              "id": "step_yui_06",
+              "type": "choice",
+              "content": "努力接待客人"
+            },
+            {
+              "id": "step_yui_07",
+              "type": "choice",
+              "content": "有空去看看"
+            },
+            {
+              "id": "step_yui_08",
+              "type": "choice",
+              "content": "邀请穿和服"
+            },
+            {
+              "id": "step_yui_09",
+              "type": "choice",
+              "content": "休息吗……"
+            }
+          ]
+        },
+        {
+          "id": "ending_kushina_end",
+          "name": "音无栉无 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_kushina_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_kushina_02",
+              "type": "choice",
+              "content": "引诱栉无不戴"
+            },
+            {
+              "id": "step_kushina_03",
+              "type": "choice",
+              "content": "那么，做什么呢"
+            },
+            {
+              "id": "step_kushina_04",
+              "type": "choice",
+              "content": "去看伊织和栉无的样子"
+            },
+            {
+              "id": "step_kushina_05",
+              "type": "choice",
+              "content": "引诱栉无不戴"
+            },
+            {
+              "id": "step_kushina_06",
+              "type": "choice",
+              "content": "洗衣服"
+            },
+            {
+              "id": "step_kushina_07",
+              "type": "choice",
+              "content": "有空去看看"
+            },
+            {
+              "id": "step_kushina_08",
+              "type": "choice",
+              "content": "引诱栉无不戴"
+            },
+            {
+              "id": "step_kushina_09",
+              "type": "choice",
+              "content": "梳洗衣服"
+            }
+          ]
+        },
+        {
+          "id": "ending_taika_end",
+          "name": "圆城大家 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_taika_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_taika_02",
+              "type": "choice",
+              "content": "诱惑大家"
+            },
+            {
+              "id": "step_taika_04",
+              "type": "choice",
+              "content": "不，没关系吧"
+            },
+            {
+              "id": "step_taika_05",
+              "type": "choice",
+              "content": "诱惑大家"
+            },
+            {
+              "id": "step_taika_06",
+              "type": "choice",
+              "content": "到各处去"
+            },
+            {
+              "id": "step_taika_07",
+              "type": "choice",
+              "content": "有空去看看"
+            },
+            {
+              "id": "step_taika_08",
+              "type": "choice",
+              "content": "诱惑大家"
+            },
+            {
+              "id": "step_taika_09",
+              "type": "choice",
+              "content": "到各处去"
+            }
+          ]
+        },
+        {
+          "id": "ending_iori_end",
+          "name": "双见伊织 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_iori_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_iori_02",
+              "type": "choice",
+              "content": "嗯，邀请谁呢……"
+            },
+            {
+              "id": "step_iori_03",
+              "type": "choice",
+              "content": "和妹妹打扫卫生"
+            },
+            {
+              "id": "step_iori_04",
+              "type": "choice",
+              "content": "去看伊织和栉无的样子"
+            },
+            {
+              "id": "step_iori_05",
+              "type": "choice",
+              "content": "邀请妹妹"
+            },
+            {
+              "id": "step_iori_06",
+              "type": "choice",
+              "content": "看妹妹的样子"
+            },
+            {
+              "id": "step_iori_07",
+              "type": "choice",
+              "content": "也有伊织的照顾，我不干了"
+            },
+            {
+              "id": "step_iori_08",
+              "type": "choice",
+              "content": "嗯，邀请谁呢……"
+            },
+            {
+              "id": "step_iori_09",
+              "type": "choice",
+              "content": "告诉妹妹休息"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

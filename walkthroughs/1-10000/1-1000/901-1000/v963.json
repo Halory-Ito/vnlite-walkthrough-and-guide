@@ -1,0 +1,716 @@
+{
+  "vid": "v963",
+  "name": {
+    "zh-cn": "这是一个关于妖怪的故事",
+    "ja-jp": "とっぱら～ざしきわらしのはなし～",
+    "ja-Latn": "toppara-zashikiwarashi-no-hanashi"
+  },
+  "level": 2,
+  "updatedAt": "2026-02-27",
+  "tips": [
+    "标注★号的地方请选择另外的选项回收ＣＧ"
+  ],
+  "routes": [
+    {
+      "id": "route_1757754576694",
+      "name": "幸子",
+      "endings": [
+        {
+          "id": "ending_1757754613722",
+          "name": "幸子 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1757754618237",
+              "type": "choice",
+              "content": "ご主人様",
+              "group": "４月２９日"
+            },
+            {
+              "id": "step_1757754618393",
+              "type": "choice",
+              "content": "？（温泉）",
+              "group": "４月３０日"
+            },
+            {
+              "id": "step_1757754618537",
+              "type": "choice",
+              "content": "？（橋）",
+              "group": "５月１日"
+            },
+            {
+              "id": "step_1757754618677",
+              "type": "choice",
+              "content": "？（川）",
+              "group": "５月２日"
+            },
+            {
+              "id": "step_1757754618834",
+              "type": "choice",
+              "content": "？（温泉）",
+              "group": "５月３日"
+            },
+            {
+              "id": "step_1757754618985",
+              "type": "choice",
+              "content": "？（スーパー）",
+              "group": "５月３日"
+            },
+            {
+              "id": "step_1757754619128",
+              "type": "save",
+              "content": "SAVE 1",
+              "group": "５月４日"
+            },
+            {
+              "id": "step_1757754619245",
+              "type": "choice",
+              "content": "佐久夜（白沢商店）",
+              "group": "５月４日"
+            },
+            {
+              "id": "step_1757754619397",
+              "type": "choice",
+              "content": "？（別宅）",
+              "group": "５月５日"
+            },
+            {
+              "id": "step_1757754619547",
+              "type": "choice",
+              "content": "狐について聞く",
+              "group": "５月５日"
+            },
+            {
+              "id": "step_1757754619677",
+              "type": "choice",
+              "content": "夜の相手もしてくれるのだろうか。",
+              "group": "５月７日"
+            },
+            {
+              "id": "step_1757754739018",
+              "type": "choice",
+              "content": "大人しく引き下がる。",
+              "group": "５月７日"
+            },
+            {
+              "id": "step_1757754739178",
+              "type": "choice",
+              "content": "女の子なんだから気にしたらどうだ。",
+              "group": "５月９日"
+            },
+            {
+              "id": "step_1757754739319",
+              "type": "save",
+              "content": "SAVE 2",
+              "group": "５月１０日"
+            },
+            {
+              "id": "step_1757754770884",
+              "type": "choice",
+              "content": "幸子（自宅）",
+              "group": "５月１０日"
+            },
+            {
+              "id": "step_1757754771120",
+              "type": "choice",
+              "content": "幸子（自宅）",
+              "group": "５月１１日"
+            },
+            {
+              "id": "step_1757754771279",
+              "type": "choice",
+              "content": "幸子（自宅）",
+              "group": "５月１２日"
+            },
+            {
+              "id": "step_1757754771444",
+              "type": "choice",
+              "content": "幸子（自宅）",
+              "group": "５月１３日"
+            },
+            {
+              "id": "step_1757754771597",
+              "type": "choice",
+              "content": "幸子（自宅）",
+              "group": "５月１５日"
+            },
+            {
+              "id": "step_1757754771757",
+              "type": "choice",
+              "content": "幸子（自宅）",
+              "group": "５月１６日"
+            },
+            {
+              "id": "step_1757754771912",
+              "type": "choice",
+              "content": "幸子（自宅）",
+              "group": "５月１７日"
+            },
+            {
+              "id": "step_1757754772068",
+              "type": "choice",
+              "content": "幸子（自宅）",
+              "group": "５月１８日"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1757754899439",
+      "name": "藤花",
+      "endings": [
+        {
+          "id": "ending_1757754902840",
+          "name": "藤花 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1757754923247",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1757754930577",
+              "type": "choice",
+              "content": "藤花（温泉",
+              "group": "５月１０日"
+            },
+            {
+              "id": "step_1757754930724",
+              "type": "choice",
+              "content": "藤花（温泉）",
+              "group": "５月１１日"
+            },
+            {
+              "id": "step_1757754930864",
+              "type": "choice",
+              "content": "穂波（学校）",
+              "group": "５月１２日"
+            },
+            {
+              "id": "step_1757754931026",
+              "type": "choice",
+              "content": "穂波（学校）",
+              "group": "５月１３日"
+            },
+            {
+              "id": "step_1757754931186",
+              "type": "choice",
+              "content": "藤花（温泉）",
+              "group": "５月１５日"
+            },
+            {
+              "id": "step_1757754931344",
+              "type": "choice",
+              "content": "藤花（温泉）",
+              "group": "５月１６日"
+            },
+            {
+              "id": "step_1757754931500",
+              "type": "choice",
+              "content": "藤花（温泉）",
+              "group": "５月１７日"
+            },
+            {
+              "id": "step_1757754931693",
+              "type": "choice",
+              "content": "藤花（温泉）",
+              "group": "５月１８日"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1757755009215",
+      "name": "瀬織",
+      "endings": [
+        {
+          "id": "ending_1757755017564",
+          "name": "瀬織 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1757755021061",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1757755023843",
+              "type": "choice",
+              "content": "瀬織（橋）",
+              "group": "５月１０日"
+            },
+            {
+              "id": "step_1757755024014",
+              "type": "choice",
+              "content": "瀬織（橋）",
+              "group": "５月１１日"
+            },
+            {
+              "id": "step_1757755024171",
+              "type": "choice",
+              "content": "瀬織（橋）",
+              "group": "５月１２日"
+            },
+            {
+              "id": "step_1757755024313",
+              "type": "choice",
+              "content": "瀬織（橋）",
+              "group": "５月１３日"
+            },
+            {
+              "id": "step_1757755024468",
+              "type": "choice",
+              "content": "瀬織（橋）",
+              "group": "５月１５日"
+            },
+            {
+              "id": "step_1757755024605",
+              "type": "choice",
+              "content": "瀬織（橋）",
+              "group": "５月１６日"
+            },
+            {
+              "id": "step_1757755024739",
+              "type": "choice",
+              "content": "瀬織（橋）",
+              "group": "５月１７日"
+            },
+            {
+              "id": "step_1757755024875",
+              "type": "choice",
+              "content": "瀬織（橋）",
+              "group": "５月１８日"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1757755092624",
+      "name": "佐久夜",
+      "endings": [
+        {
+          "id": "ending_1757755101963",
+          "name": "佐久夜 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1757755114724",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1757755118875",
+              "type": "choice",
+              "content": "佐久夜（白沢商店）",
+              "group": "５月１０日"
+            },
+            {
+              "id": "step_1757755119037",
+              "type": "choice",
+              "content": "？（別宅）",
+              "group": "５月１１日"
+            },
+            {
+              "id": "step_1757755119189",
+              "type": "choice",
+              "content": "佐久夜（白沢商店）",
+              "group": "５月１２日"
+            },
+            {
+              "id": "step_1757755119307",
+              "type": "choice",
+              "content": "佐久夜（白沢商店）",
+              "group": "５月１３日"
+            },
+            {
+              "id": "step_1757755119489",
+              "type": "save",
+              "content": "SAVE 3",
+              "group": "５月１５日"
+            },
+            {
+              "id": "step_1757755119628",
+              "type": "choice",
+              "content": "佐久夜（白沢商店）",
+              "group": "５月１５日"
+            },
+            {
+              "id": "step_1757755119758",
+              "type": "choice",
+              "content": "佐久夜（白沢商店）",
+              "group": "５月１６日"
+            },
+            {
+              "id": "step_1757755119912",
+              "type": "load",
+              "content": "LOAD 4",
+              "group": "５月１７日"
+            },
+            {
+              "id": "step_1757755120063",
+              "type": "choice",
+              "content": "佐久夜（白沢商店）",
+              "group": "５月１７日"
+            },
+            {
+              "id": "step_1757755120207",
+              "type": "choice",
+              "content": "佐久夜（白沢商店）",
+              "group": "５月１８日"
+            },
+            {
+              "id": "step_1757755231210",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_1757755235227",
+              "type": "choice",
+              "content": "幸子（自宅）",
+              "group": "５月１７日"
+            },
+            {
+              "id": "step_1757755235394",
+              "type": "choice",
+              "content": "幸子（自宅）",
+              "group": "５月１８日"
+            },
+            {
+              "id": "step_1757755235557",
+              "type": "choice",
+              "content": "佐久夜（白沢商店）",
+              "group": "５月１９日"
+            },
+            {
+              "id": "step_1757755235727",
+              "type": "note",
+              "content": "佐久夜ＣＧ回收"
+            },
+            {
+              "id": "step_1757755235878",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1757755236074",
+              "type": "choice",
+              "content": "瀬織（橋）",
+              "group": "５月１５日"
+            },
+            {
+              "id": "step_1757755299388",
+              "type": "choice",
+              "content": "瀬織（橋）",
+              "group": "５月１６日"
+            },
+            {
+              "id": "step_1757755299634",
+              "type": "choice",
+              "content": "瀬織（橋）",
+              "group": "５月１７日"
+            },
+            {
+              "id": "step_1757755299804",
+              "type": "choice",
+              "content": "瀬織（橋）",
+              "group": "５月１８日"
+            },
+            {
+              "id": "step_1757755299948",
+              "type": "choice",
+              "content": "佐久夜（白沢商店）",
+              "group": "５月１９日"
+            },
+            {
+              "id": "step_1757755300086",
+              "type": "note",
+              "content": "佐久夜ＣＧ回收"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1757755336493",
+      "name": "イソラ",
+      "endings": [
+        {
+          "id": "ending_1757755341771",
+          "name": "イソラ END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1757755354812",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1757755355952",
+              "type": "choice",
+              "content": "イソラ（川）",
+              "group": "５月４日"
+            },
+            {
+              "id": "step_1757755356110",
+              "type": "choice",
+              "content": "大自然に癒されたかった",
+              "group": "５月４日"
+            },
+            {
+              "id": "step_1757755356259",
+              "type": "choice",
+              "content": "美影（自宅）",
+              "group": "５月５日"
+            },
+            {
+              "id": "step_1757755356407",
+              "type": "choice",
+              "content": "美影は俺のことが好きなのだろうか。",
+              "group": "５月７日"
+            },
+            {
+              "id": "step_1757755361372",
+              "type": "choice",
+              "content": "それでも見たい。",
+              "group": "５月７日"
+            },
+            {
+              "id": "step_1757755361524",
+              "type": "choice",
+              "content": "寒くないのか。",
+              "group": "５月９日"
+            },
+            {
+              "id": "step_1757755361660",
+              "type": "save",
+              "content": "SAVE 5",
+              "group": "５月１０日"
+            },
+            {
+              "id": "step_1757755361789",
+              "type": "choice",
+              "content": "イソラ（川）",
+              "group": "５月１０日"
+            },
+            {
+              "id": "step_1757755361923",
+              "type": "choice",
+              "content": "イソラ（川）",
+              "group": "５月１１日"
+            },
+            {
+              "id": "step_1757755362043",
+              "type": "choice",
+              "content": "イソラ（川）",
+              "group": "５月１２日"
+            },
+            {
+              "id": "step_1757755457366",
+              "type": "choice",
+              "content": "覗きに行く"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1757755471254",
+      "name": "千鶴美",
+      "endings": [
+        {
+          "id": "ending_1757755478409",
+          "name": "千鶴美 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1757755484545",
+              "type": "choice",
+              "content": "千鶴美（スーパー）",
+              "group": "５月１０日"
+            },
+            {
+              "id": "step_1757755485279",
+              "type": "choice",
+              "content": "千鶴美（スーパー）",
+              "group": "５月１１日"
+            },
+            {
+              "id": "step_1757755485439",
+              "type": "choice",
+              "content": "千鶴美（スーパー）",
+              "group": "５月１２日"
+            },
+            {
+              "id": "step_1757755485604",
+              "type": "choice",
+              "content": "千鶴美（スーパー）",
+              "group": "５月１３日"
+            },
+            {
+              "id": "step_1757755485763",
+              "type": "choice",
+              "content": "千鶴美（スーパー）",
+              "group": "５月１５日"
+            },
+            {
+              "id": "step_1757755485917",
+              "type": "choice",
+              "content": "千鶴美（別宅）",
+              "group": "５月１６日"
+            },
+            {
+              "id": "step_1757755488818",
+              "type": "choice",
+              "content": "千鶴美（スーパー）",
+              "group": "５月１７日"
+            },
+            {
+              "id": "step_1757755488984",
+              "type": "choice",
+              "content": "千鶴美（スーパー）",
+              "group": "５月１８日"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1757755574967",
+      "name": "穂波",
+      "endings": [
+        {
+          "id": "ending_1757755580507",
+          "name": "穂波 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1757755593506",
+              "type": "load",
+              "content": "LOAD 5"
+            },
+            {
+              "id": "step_1757755593670",
+              "type": "choice",
+              "content": "美影（自宅）",
+              "group": "５月１０日"
+            },
+            {
+              "id": "step_1757755593811",
+              "type": "save",
+              "content": "SAVE 6",
+              "group": "５月１１日"
+            },
+            {
+              "id": "step_1757755594056",
+              "type": "choice",
+              "content": "穂波（学校",
+              "group": "５月１１日"
+            },
+            {
+              "id": "step_1757755594213",
+              "type": "choice",
+              "content": "穂波（学校）",
+              "group": "５月１２日"
+            },
+            {
+              "id": "step_1757755594375",
+              "type": "choice",
+              "content": "穂波（学校）",
+              "group": "５月１３日"
+            },
+            {
+              "id": "step_1757755594510",
+              "type": "choice",
+              "content": "色っぽいな",
+              "group": "５月１４日"
+            },
+            {
+              "id": "step_1757755594650",
+              "type": "choice",
+              "content": "口の中に出す",
+              "prefix": "★",
+              "group": "５月１４日"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1757755668350",
+      "name": "美影",
+      "endings": [
+        {
+          "id": "ending_1757755677637",
+          "name": "美影 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1757755690254",
+              "type": "load",
+              "content": "LOAD 6"
+            },
+            {
+              "id": "step_1757755695999",
+              "type": "choice",
+              "content": "美影（自宅）",
+              "group": "５月１１日"
+            },
+            {
+              "id": "step_1757755696164",
+              "type": "choice",
+              "content": "美影（自宅）",
+              "group": "５月１２日"
+            },
+            {
+              "id": "step_1757755696303",
+              "type": "choice",
+              "content": "美影（自宅）",
+              "group": "５月１３日"
+            },
+            {
+              "id": "step_1757755696827",
+              "type": "save",
+              "content": "SAVE 7",
+              "group": "５月１５日"
+            },
+            {
+              "id": "step_1757755697189",
+              "type": "choice",
+              "content": "美影（自宅）",
+              "group": "５月１５日"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1757755777515",
+      "name": "ミドリ",
+      "endings": [
+        {
+          "id": "ending_1757755779529",
+          "name": "ミドリ END",
+          "type": "normal",
+          "requirements": "以上END结束",
+          "steps": [
+            {
+              "id": "step_1757755825297",
+              "type": "load",
+              "content": "LOAD 7"
+            },
+            {
+              "id": "step_1757755836452",
+              "type": "choice",
+              "content": "美影（自宅）",
+              "group": "５月１５日"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

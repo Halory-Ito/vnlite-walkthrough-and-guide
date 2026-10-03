@@ -1,0 +1,92 @@
+{
+  "vid": "v19658",
+  "name": {
+    "zh-cn": "永不枯萎的世界与终焉之花",
+    "en-us": "Waning Flowers of a World Eternal - The Rainbow Appears After Flowering Rain",
+    "ja-jp": "枯れない世界と終わる花",
+    "ja-Latn": "karenai-sekai-to-owaru-hana"
+  },
+  "level": 2,
+  "updatedAt": "2026-05-05",
+  "routes": [
+    {
+      "id": "route_1777966090877",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1777966102010",
+          "name": "春",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1777966112534",
+              "type": "choice",
+              "content": "她是我的家人"
+            },
+            {
+              "id": "step_1777966112765",
+              "type": "choice",
+              "content": "我是把雪莱，当做家人来看待的"
+            },
+            {
+              "id": "step_1777966113065",
+              "type": "choice",
+              "content": "我、想保护春"
+            }
+          ]
+        },
+        {
+          "id": "ending_1777966165977",
+          "name": "琴濑",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1777966178510",
+              "type": "choice",
+              "content": "因为她是特别的"
+            }
+          ]
+        },
+        {
+          "id": "ending_1777966186679",
+          "name": "雪莱",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1777966198316",
+              "type": "choice",
+              "content": "她是我的家人"
+            },
+            {
+              "id": "step_1777966198504",
+              "type": "choice",
+              "content": "因为我想要保护雪莱"
+            }
+          ]
+        },
+        {
+          "id": "ending_1777966212996",
+          "name": "莲",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1777966239800",
+              "type": "choice",
+              "content": "她是我的家人"
+            },
+            {
+              "id": "step_1777966240154",
+              "type": "choice",
+              "content": "我是把雪莱，当做家人来看待的"
+            },
+            {
+              "id": "step_1777966240487",
+              "type": "choice",
+              "content": "我、想要守护大家"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

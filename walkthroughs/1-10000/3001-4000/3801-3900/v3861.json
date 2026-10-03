@@ -1,0 +1,436 @@
+{
+  "vid": "v3861",
+  "name": {
+    "zh-cn": "少女爱上姐姐2",
+    "ja-jp": "処女はお姉さまに恋してる ～2人のエルダー～",
+    "ja-Latn": "otome-wa-boku-ni-koishiteru-futari-no-elder"
+  },
+  "level": 2,
+  "updatedAt": "2026-02-27",
+  "tips": [
+    "STAFF ROOM中的附赠剧本中有CG，所以请务必观看回收"
+  ],
+  "routes": [
+    {
+      "id": "route_1757750367561",
+      "name": "七七原 薰子",
+      "endings": [
+        {
+          "id": "ending_1757750386079",
+          "name": "薫子 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1757750397370",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1757750398525",
+              "type": "choice",
+              "content": "继续找参考书"
+            },
+            {
+              "id": "step_1757750398754",
+              "type": "choice",
+              "content": "和凯莉一起散步"
+            },
+            {
+              "id": "step_1757750399184",
+              "type": "choice",
+              "content": "果然还是很在意"
+            },
+            {
+              "id": "step_1757750399760",
+              "type": "choice",
+              "content": "没关系"
+            },
+            {
+              "id": "step_1757750400200",
+              "type": "choice",
+              "content": "薰子同学的影响"
+            },
+            {
+              "id": "step_1757750400642",
+              "type": "choice",
+              "content": "留有余力"
+            },
+            {
+              "id": "step_1757750401253",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1757750402373",
+              "type": "choice",
+              "content": "去食堂"
+            },
+            {
+              "id": "step_1757750403009",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_1757750403556",
+              "type": "choice",
+              "content": "回教室"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1757750430712",
+      "name": "凯莉",
+      "endings": [
+        {
+          "id": "ending_1757750447148",
+          "name": "凯莉 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1757750476833",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1757750480167",
+              "type": "choice",
+              "content": "去小卖店解决"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1757750434965",
+      "name": "度会 史",
+      "endings": [
+        {
+          "id": "ending_1757750513818",
+          "name": "史 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1757750520321",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1757750524044",
+              "type": "choice",
+              "content": "去图书室"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1757750537120",
+      "name": "神近 香织理",
+      "endings": [
+        {
+          "id": "ending_1757750586237",
+          "name": "香织理 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1757750592188",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1757750593430",
+              "type": "choice",
+              "content": "打招呼"
+            },
+            {
+              "id": "step_1757750593633",
+              "type": "choice",
+              "content": "和凯莉在这里道别"
+            },
+            {
+              "id": "step_1757750594771",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_1757750597588",
+              "type": "choice",
+              "content": "稍微休息一会儿吧"
+            },
+            {
+              "id": "step_1757750597811",
+              "type": "choice",
+              "content": "算了吧……"
+            },
+            {
+              "id": "step_1757750598347",
+              "type": "choice",
+              "content": "没关系"
+            },
+            {
+              "id": "step_1757750598863",
+              "type": "choice",
+              "content": "薰子同学的影响"
+            },
+            {
+              "id": "step_1757750599331",
+              "type": "choice",
+              "content": "留有余力"
+            },
+            {
+              "id": "step_1757750599804",
+              "type": "choice",
+              "content": "去食堂"
+            },
+            {
+              "id": "step_1757750600248",
+              "type": "choice",
+              "content": "回教室"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1757750564808",
+      "name": "哘 雅乐乃",
+      "endings": [
+        {
+          "id": "ending_1757750669858",
+          "name": "雅乐乃 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1757750705632",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_1757750710057",
+              "type": "choice",
+              "content": "回去比较好吧"
+            },
+            {
+              "id": "step_1757750712076",
+              "type": "save",
+              "content": "SAVE 5"
+            },
+            {
+              "id": "step_1757750716076",
+              "type": "choice",
+              "content": "果然还是回去吧"
+            },
+            {
+              "id": "step_1757750716281",
+              "type": "choice",
+              "content": "也不一定"
+            },
+            {
+              "id": "step_1757750716808",
+              "type": "choice",
+              "content": "圣同学的影响"
+            },
+            {
+              "id": "step_1757750717213",
+              "type": "choice",
+              "content": "留有余力"
+            },
+            {
+              "id": "step_1757750718713",
+              "type": "choice",
+              "content": "去食堂"
+            },
+            {
+              "id": "step_1757750718887",
+              "type": "choice",
+              "content": "回教室"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1757750565058",
+      "name": "冷泉 淡雪",
+      "endings": [
+        {
+          "id": "ending_1757750755788",
+          "name": "淡雪 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1757750765123",
+              "type": "load",
+              "content": "LOAD 5"
+            },
+            {
+              "id": "step_1757750768500",
+              "type": "choice",
+              "content": "贯彻初衷去屋顶"
+            },
+            {
+              "id": "step_1757750768714",
+              "type": "choice",
+              "content": "算了吧……"
+            },
+            {
+              "id": "step_1757750770637",
+              "type": "choice",
+              "content": "没关系"
+            },
+            {
+              "id": "step_1757750770996",
+              "type": "choice",
+              "content": "薰子同学的影响"
+            },
+            {
+              "id": "step_1757750771595",
+              "type": "choice",
+              "content": "全力以赴"
+            },
+            {
+              "id": "step_1757750772058",
+              "type": "choice",
+              "content": "去小卖店解决"
+            },
+            {
+              "id": "step_1757750772379",
+              "type": "choice",
+              "content": "去图书室"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1757750812925",
+      "name": "附加剧本",
+      "endings": [
+        {
+          "id": "ending_1757750824498",
+          "name": "附加剧本",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1757750834981",
+              "type": "note",
+              "content": "■STAFF ROOM"
+            },
+            {
+              "id": "step_1757750843169",
+              "type": "choice",
+              "content": "⇒嵩夜あや"
+            },
+            {
+              "id": "step_1757750857074",
+              "type": "note",
+              "content": "观看附加剧本！"
+            },
+            {
+              "id": "step_1757750863448",
+              "type": "note",
+              "content": "○茉清和圣的圣诞节"
+            },
+            {
+              "id": "step_1757750863601",
+              "type": "note",
+              "content": "○关于舞台剧的各种幕后故事"
+            },
+            {
+              "id": "step_1757750872465",
+              "type": "choice",
+              "content": "○甜点危机"
+            },
+            {
+              "id": "step_1757750875836",
+              "type": "choice",
+              "content": "07 侦查一下周围"
+            },
+            {
+              "id": "step_1757750876236",
+              "type": "choice",
+              "content": "03 就这样沿着岔道走"
+            },
+            {
+              "id": "step_1757750876711",
+              "type": "choice",
+              "content": "04 走大路"
+            },
+            {
+              "id": "step_1757750877149",
+              "type": "choice",
+              "content": "11 就这样去宅子的外边"
+            },
+            {
+              "id": "step_1757750877620",
+              "type": "choice",
+              "content": "12 就这么前进"
+            },
+            {
+              "id": "step_1757750879260",
+              "type": "note",
+              "content": "■VS：香织理"
+            },
+            {
+              "id": "step_1757750880100",
+              "type": "choice",
+              "content": "23 警惕地侦查周围"
+            },
+            {
+              "id": "step_1757750880263",
+              "type": "choice",
+              "content": "28 跑上二楼"
+            },
+            {
+              "id": "step_1757750880453",
+              "type": "choice",
+              "content": "33 跳到对面屋顶"
+            },
+            {
+              "id": "step_1757750905381",
+              "type": "note",
+              "content": "■VS：薰子"
+            },
+            {
+              "id": "step_1757750910129",
+              "type": "choice",
+              "content": "43 上楼"
+            },
+            {
+              "id": "step_1757750910322",
+              "type": "choice",
+              "content": "49 往右走"
+            },
+            {
+              "id": "step_1757750910570",
+              "type": "choice",
+              "content": "50 慎重地向相反一方去"
+            },
+            {
+              "id": "step_1757750918248",
+              "type": "note",
+              "content": "■VS：史"
+            },
+            {
+              "id": "step_1757750923719",
+              "type": "choice",
+              "content": "44 踏入房间"
+            },
+            {
+              "id": "step_1757750924235",
+              "type": "note",
+              "content": "■VS：妃宫夫人1"
+            },
+            {
+              "id": "step_1757750924393",
+              "type": "note",
+              "content": "■VS：妃宫夫人2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

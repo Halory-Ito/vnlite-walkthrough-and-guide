@@ -1,0 +1,256 @@
+{
+  "vid": "v53486",
+  "name": {
+    "zh-cn": "废村少女［贰］～阴影诱惑的秘姬之匣～",
+    "ja-jp": "廃村少女［弐］　～陰り誘う秘姫の匣～",
+    "ja-Latn": "haison-shoujo-ni-kageri-sasou-hime-no-hako"
+  },
+  "level": 2,
+  "updatedAt": "2026-02-27",
+  "routes": [
+    {
+      "id": "route_1755270516583",
+      "name": "龙灯 八千代",
+      "endings": [
+        {
+          "id": "ending_1755270538048",
+          "name": "八千代 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755270547899",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1755270559944",
+              "type": "choice",
+              "content": "想知道真相",
+              "group": "第8天"
+            },
+            {
+              "id": "step_1755270561473",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1755270562133",
+              "type": "choice",
+              "content": "我不想见到任何人",
+              "group": "第10天"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755270617710",
+      "name": "心珠(月海)",
+      "endings": [
+        {
+          "id": "ending_1755270631086",
+          "name": "心珠(月海) END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755270643989",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1755270655214",
+              "type": "choice",
+              "content": "想见到谁",
+              "group": "第10天"
+            },
+            {
+              "id": "step_1755270657641",
+              "type": "save",
+              "content": "SAVE 6"
+            },
+            {
+              "id": "step_1755270658394",
+              "type": "choice",
+              "content": "即便如此,也要追求现实",
+              "group": "第11天"
+            },
+            {
+              "id": "step_1755270663611",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_1755270665974",
+              "type": "choice",
+              "content": "在山边散步",
+              "group": "第12天"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755270739001",
+      "name": "御汐 阳渚",
+      "endings": [
+        {
+          "id": "ending_1755270748633",
+          "name": "阳渚 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755270758960",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1755270759485",
+              "type": "choice",
+              "content": "在海边散步",
+              "group": "第12天"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755270778762",
+      "name": "月海&阳渚",
+      "endings": [
+        {
+          "id": "ending_1755270788169",
+          "name": "月海&阳渚 END",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_1755270816785",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1755270825094",
+              "type": "choice",
+              "content": "第12天 老实地休息一下"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755270857394",
+      "name": "都筑七七濑",
+      "endings": [
+        {
+          "id": "ending_1755270865306",
+          "name": "七七濑 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755270874612",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1755270878938",
+              "type": "choice",
+              "content": "逃脱最优先",
+              "group": "第8天"
+            },
+            {
+              "id": "step_1755270880312",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_1755270881466",
+              "type": "choice",
+              "content": "不像样子啊",
+              "group": "第9天"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755270907414",
+      "name": "新沼 铃",
+      "endings": [
+        {
+          "id": "ending_1755270918319",
+          "name": "铃 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755270935381",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_1755270943483",
+              "type": "choice",
+              "content": "到此为止吧",
+              "group": "第9天"
+            },
+            {
+              "id": "step_1755270945297",
+              "type": "save",
+              "content": "SAVE 5"
+            },
+            {
+              "id": "step_1755270946761",
+              "type": "choice",
+              "content": "和铃一起行动",
+              "group": "第11天"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755270978785",
+      "name": "BAD END",
+      "endings": [
+        {
+          "id": "ending_1755270990705",
+          "name": "醒不来的梦",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_1755271009781",
+              "type": "load",
+              "content": "LOAD 6"
+            },
+            {
+              "id": "step_1755271010487",
+              "type": "choice",
+              "content": "第11天 闭上眼睛，守护现在的幸福就好"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755271043042",
+      "name": "全员恶堕线",
+      "endings": [
+        {
+          "id": "ending_1755271053653",
+          "name": "全员恶堕 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755271074542",
+              "type": "load",
+              "content": "LOAD 5"
+            },
+            {
+              "id": "step_1755271075427",
+              "type": "choice",
+              "content": "第11天,今天试着一个人行动吧"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

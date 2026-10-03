@@ -1,0 +1,101 @@
+{
+  "vid": "v18790",
+  "name": {
+    "zh-cn": "缘契初情乃今家舍妹",
+    "ja-jp": "そして初恋が妹になる",
+    "ja-Latn": "soshite-hatsukoi-ga-imouto-ni-naru"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-13",
+  "tips": [
+    "一周目开始游戏后，会自动进入序章，二周目开始可以进行章节选择",
+    "三人攻略完毕后，才可攻略翼"
+  ],
+  "routes": [
+    {
+      "id": "route_1769330764125",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1769330776958",
+          "name": "時谷 忍 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1769330787238",
+              "type": "note",
+              "content": "序幕"
+            },
+            {
+              "id": "step_1769330792675",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1769330793153",
+              "type": "choice",
+              "content": "冷静沉着的冰美人"
+            },
+            {
+              "id": "step_1769330793457",
+              "type": "choice",
+              "content": "与妹妹约会"
+            }
+          ]
+        },
+        {
+          "id": "ending_1769330777225",
+          "name": "田中 宁宁子 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1769330830660",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1769330831578",
+              "type": "choice",
+              "content": "可靠的像姐姐般的女性"
+            }
+          ]
+        },
+        {
+          "id": "ending_1769330777539",
+          "name": "宮本 遊花 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1769330853132",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1769330854058",
+              "type": "choice",
+              "content": "爽朗的同班同学"
+            }
+          ]
+        },
+        {
+          "id": "ending_1769330777935",
+          "name": "川津 翼 END",
+          "type": "normal",
+          "requirements": "3人攻略完毕后",
+          "steps": [
+            {
+              "id": "step_1769330883430",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1769330888909",
+              "type": "choice",
+              "content": "翼"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

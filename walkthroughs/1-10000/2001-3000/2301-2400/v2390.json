@@ -1,0 +1,215 @@
+{
+  "vid": "v2390",
+  "name": {
+    "zh-cn": "白光的伐鲁希亚",
+    "ja-jp": "白光のヴァルーシア ～What a beautiful hopes～",
+    "ja-Latn": "hikari-no-valusia"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-13",
+  "routes": [
+    {
+      "id": "route_1766306785460",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1766306800298",
+          "name": "END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1766306828542",
+              "type": "choice",
+              "content": "Xel。 那个女孩，金发女孩",
+              "group": "第１章"
+            },
+            {
+              "id": "step_1766306829165",
+              "type": "choice",
+              "content": "我肯定不会察觉到它",
+              "group": "第１章"
+            },
+            {
+              "id": "step_1766306829333",
+              "type": "choice",
+              "content": "但现在，我答应了那个女孩",
+              "group": "第１章"
+            },
+            {
+              "id": "step_1766306829521",
+              "type": "choice",
+              "content": "死亡的白色面具居住在这具身体里",
+              "group": "第２章"
+            },
+            {
+              "id": "step_1766306830042",
+              "type": "choice",
+              "content": "秘密。 对我妹妹来说，不是对其他人",
+              "group": "第２章"
+            },
+            {
+              "id": "step_1766306832516",
+              "type": "choice",
+              "content": "姐姐",
+              "group": "第２章"
+            },
+            {
+              "id": "step_1766306832660",
+              "type": "choice",
+              "content": "我的天啊，厌恶阴影",
+              "group": "第３章"
+            },
+            {
+              "id": "step_1766306832810",
+              "type": "choice",
+              "content": "我依然爱你",
+              "group": "第３章"
+            },
+            {
+              "id": "step_1766306832963",
+              "type": "choice",
+              "content": "抹去我的这种感觉",
+              "group": "第３章"
+            },
+            {
+              "id": "step_1766306833125",
+              "type": "choice",
+              "content": "利奥",
+              "group": "第４章"
+            },
+            {
+              "id": "step_1766306833402",
+              "type": "choice",
+              "content": "关于 Leo 的一切都被否认了，那一刻",
+              "group": "第４章"
+            },
+            {
+              "id": "step_1766306833581",
+              "type": "choice",
+              "content": "一片美丽却灰蒙蒙的天空",
+              "group": "第５章"
+            },
+            {
+              "id": "step_1766306983731",
+              "type": "choice",
+              "content": "一颗依然脆弱、有时犹豫、哀叹的心",
+              "group": "第５章"
+            },
+            {
+              "id": "step_1766306983926",
+              "type": "choice",
+              "content": "阿苏尔。 妾，我，从这里",
+              "group": "第５章"
+            },
+            {
+              "id": "step_1766306984101",
+              "type": "choice",
+              "content": "唯一燃烧这具身体的野心",
+              "group": "第６章"
+            },
+            {
+              "id": "step_1766306984290",
+              "type": "choice",
+              "content": "哦不。 根本没有这种东西",
+              "group": "第６章"
+            },
+            {
+              "id": "step_1766306984451",
+              "type": "choice",
+              "content": "万物皆应成为我的养分",
+              "group": "第６章"
+            },
+            {
+              "id": "step_1766306984616",
+              "type": "choice",
+              "content": "亲爱的，直到现在还能继续想着你",
+              "group": "第７章"
+            },
+            {
+              "id": "step_1766306984780",
+              "type": "choice",
+              "content": "我还在折磨你，我的愚蠢",
+              "group": "第７章"
+            },
+            {
+              "id": "step_1766306984953",
+              "type": "choice",
+              "content": "一切，求你了，永远",
+              "group": "第７章"
+            },
+            {
+              "id": "step_1766306985138",
+              "type": "choice",
+              "content": "月亮",
+              "group": "第８章"
+            },
+            {
+              "id": "step_1766306985323",
+              "type": "choice",
+              "content": "我甚至不觉得内疚，我的身体",
+              "group": "第８章"
+            },
+            {
+              "id": "step_1766306985508",
+              "type": "choice",
+              "content": "七井。 你是太阳的，只有你",
+              "group": "第８章"
+            },
+            {
+              "id": "step_1766306985688",
+              "type": "choice",
+              "content": "我的卡西姆。 亲爱的",
+              "group": "第９章"
+            },
+            {
+              "id": "step_1766306985893",
+              "type": "choice",
+              "content": "这颗心中的思绪，炽热的我自己",
+              "group": "第９章"
+            },
+            {
+              "id": "step_1766306986074",
+              "type": "choice",
+              "content": "就，就，我是卡西姆，还有",
+              "group": "第９章"
+            },
+            {
+              "id": "step_1766306986248",
+              "type": "choice",
+              "content": "爱",
+              "group": "第１０章"
+            },
+            {
+              "id": "step_1766306986460",
+              "type": "choice",
+              "content": "尽管如此，我依然爱上帝",
+              "group": "第１０章"
+            },
+            {
+              "id": "step_1766306986604",
+              "type": "choice",
+              "content": "人们，人们，给你",
+              "group": "第１０章"
+            },
+            {
+              "id": "step_1766306986791",
+              "type": "choice",
+              "content": "愿望。 来自世界各地的人们",
+              "group": "最终章"
+            },
+            {
+              "id": "step_1766306986985",
+              "type": "choice",
+              "content": "然而，我身体的全能"
+            },
+            {
+              "id": "step_1766307183025",
+              "type": "choice",
+              "content": "哦，那是——"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

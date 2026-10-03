@@ -1,0 +1,1597 @@
+{
+  "vid": "v417",
+  "name": {
+    "zh-cn": "赫炎的印加诺克",
+    "en-us": "Inganock of the Raging Flame: What a Beautiful People",
+    "ja-jp": "赫炎のインガノック -What a beautiful people-",
+    "ja-Latn": "sekien-no-inganock"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-13",
+  "tips": [
+    "数字序号为标记次数",
+    "最后的目标为中间人物消失，两侧人物头像从马赛克变成清晰状态"
+  ],
+  "routes": [
+    {
+      "id": "route_1767274302706",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1767274337620",
+          "name": "第一章『天空，暖阳成双』",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1767274354488",
+              "type": "note",
+              "content": "角色从左往右分别为："
+            },
+            {
+              "id": "step_1767274357953",
+              "type": "choice",
+              "content": "第一行：手臂，面具"
+            },
+            {
+              "id": "step_1767274358116",
+              "type": "choice",
+              "content": "第二行：撒冷，艾缇，琪雅，寂"
+            },
+            {
+              "id": "step_1767274378649",
+              "type": "note",
+              "content": "心声环节选择人物顺序如下："
+            },
+            {
+              "id": "step_1767274384865",
+              "type": "choice",
+              "content": "1、艾缇"
+            },
+            {
+              "id": "step_1767274385030",
+              "type": "choice",
+              "content": "2、寂"
+            },
+            {
+              "id": "step_1767274385294",
+              "type": "choice",
+              "content": "3、手臂"
+            },
+            {
+              "id": "step_1767274385488",
+              "type": "choice",
+              "content": "4、撒冷"
+            },
+            {
+              "id": "step_1767274385639",
+              "type": "choice",
+              "content": "5、面具"
+            },
+            {
+              "id": "step_1767274385789",
+              "type": "choice",
+              "content": "6、琪雅"
+            },
+            {
+              "id": "step_1767274385960",
+              "type": "choice",
+              "content": "7、艾缇"
+            },
+            {
+              "id": "step_1767274386131",
+              "type": "choice",
+              "content": "8、寂"
+            },
+            {
+              "id": "step_1767274386293",
+              "type": "choice",
+              "content": "9、手臂"
+            },
+            {
+              "id": "step_1767274386448",
+              "type": "choice",
+              "content": "10、琪雅"
+            },
+            {
+              "id": "step_1767274386612",
+              "type": "choice",
+              "content": "11、撒冷"
+            },
+            {
+              "id": "step_1767274386757",
+              "type": "choice",
+              "content": "12、面具"
+            },
+            {
+              "id": "step_1767274386940",
+              "type": "choice",
+              "content": "13、寂"
+            },
+            {
+              "id": "step_1767274387089",
+              "type": "choice",
+              "content": "14、面具"
+            },
+            {
+              "id": "step_1767274387238",
+              "type": "choice",
+              "content": "15、手臂"
+            },
+            {
+              "id": "step_1767274387407",
+              "type": "choice",
+              "content": "16、撒冷"
+            },
+            {
+              "id": "step_1767274387584",
+              "type": "choice",
+              "content": "17、面具"
+            },
+            {
+              "id": "step_1767274436344",
+              "type": "choice",
+              "content": "18、手臂"
+            },
+            {
+              "id": "step_1767274436870",
+              "type": "choice",
+              "content": "19、艾缇"
+            },
+            {
+              "id": "step_1767274437081",
+              "type": "choice",
+              "content": "20、琪雅"
+            },
+            {
+              "id": "step_1767274465253",
+              "type": "choice",
+              "content": "选项环节——『伸出右手』"
+            }
+          ]
+        },
+        {
+          "id": "ending_1767274473841",
+          "name": "第二章『而今，一篇童话』",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1767274530549",
+              "type": "note",
+              "content": "角色从左往右分别为："
+            },
+            {
+              "id": "step_1767274533913",
+              "type": "choice",
+              "content": "第一行：手臂，面具"
+            },
+            {
+              "id": "step_1767274534089",
+              "type": "choice",
+              "content": "第二行：尼亚诺，艾缇，琪雅，寂"
+            },
+            {
+              "id": "step_1767274580795",
+              "type": "note",
+              "content": "心声环节选择人物顺序如下："
+            },
+            {
+              "id": "step_1767274584719",
+              "type": "choice",
+              "content": "1、手臂"
+            },
+            {
+              "id": "step_1767274584876",
+              "type": "choice",
+              "content": "2、尼亚诺"
+            },
+            {
+              "id": "step_1767274585025",
+              "type": "choice",
+              "content": "3、琪雅"
+            },
+            {
+              "id": "step_1767274585186",
+              "type": "choice",
+              "content": "4、艾缇"
+            },
+            {
+              "id": "step_1767274585376",
+              "type": "choice",
+              "content": "5、手臂"
+            },
+            {
+              "id": "step_1767274585524",
+              "type": "choice",
+              "content": "6、寂"
+            },
+            {
+              "id": "step_1767274585689",
+              "type": "choice",
+              "content": "7、尼亚诺"
+            },
+            {
+              "id": "step_1767274585820",
+              "type": "choice",
+              "content": "8、面具"
+            },
+            {
+              "id": "step_1767274585991",
+              "type": "choice",
+              "content": "9、琪雅"
+            },
+            {
+              "id": "step_1767274586139",
+              "type": "choice",
+              "content": "10、艾缇"
+            },
+            {
+              "id": "step_1767274611253",
+              "type": "choice",
+              "content": "11、寂"
+            },
+            {
+              "id": "step_1767274611417",
+              "type": "choice",
+              "content": "12、面具"
+            },
+            {
+              "id": "step_1767274611548",
+              "type": "choice",
+              "content": "13、手臂"
+            },
+            {
+              "id": "step_1767274611724",
+              "type": "choice",
+              "content": "14、面具"
+            },
+            {
+              "id": "step_1767274611879",
+              "type": "choice",
+              "content": "15、寂"
+            },
+            {
+              "id": "step_1767274631354",
+              "type": "choice",
+              "content": "16、尼亚诺"
+            },
+            {
+              "id": "step_1767274631572",
+              "type": "choice",
+              "content": "17、琪雅"
+            },
+            {
+              "id": "step_1767274664369",
+              "type": "choice",
+              "content": "选项环节——无选项"
+            }
+          ]
+        },
+        {
+          "id": "ending_1767274680312",
+          "name": "第三章『曲调，若能奏响』",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1767274694590",
+              "type": "note",
+              "content": "角色从左往右分别为："
+            },
+            {
+              "id": "step_1767274698496",
+              "type": "choice",
+              "content": "第一行：面具，手臂"
+            },
+            {
+              "id": "step_1767274698880",
+              "type": "choice",
+              "content": "第二行：凯尔，多萝茜，琪雅，寂"
+            },
+            {
+              "id": "step_1767274731120",
+              "type": "note",
+              "content": "心声环节选择人物顺序如下："
+            },
+            {
+              "id": "step_1767274733700",
+              "type": "choice",
+              "content": "1、多萝茜"
+            },
+            {
+              "id": "step_1767274733842",
+              "type": "choice",
+              "content": "2、琪雅"
+            },
+            {
+              "id": "step_1767274734011",
+              "type": "choice",
+              "content": "3、手臂"
+            },
+            {
+              "id": "step_1767274734183",
+              "type": "choice",
+              "content": "4、面具"
+            },
+            {
+              "id": "step_1767274734339",
+              "type": "choice",
+              "content": "5、寂"
+            },
+            {
+              "id": "step_1767274734504",
+              "type": "choice",
+              "content": "6、凯尔"
+            },
+            {
+              "id": "step_1767274734587",
+              "type": "choice",
+              "content": "7、寂"
+            },
+            {
+              "id": "step_1767274734771",
+              "type": "choice",
+              "content": "8、凯尔"
+            },
+            {
+              "id": "step_1767274734958",
+              "type": "choice",
+              "content": "9、面具"
+            },
+            {
+              "id": "step_1767274948880",
+              "type": "choice",
+              "content": "10、多萝茜"
+            },
+            {
+              "id": "step_1767274949042",
+              "type": "choice",
+              "content": "11、手臂"
+            },
+            {
+              "id": "step_1767274949197",
+              "type": "choice",
+              "content": "12、手臂"
+            },
+            {
+              "id": "step_1767274949345",
+              "type": "choice",
+              "content": "13、寂"
+            },
+            {
+              "id": "step_1767274949501",
+              "type": "choice",
+              "content": "14、凯尔"
+            },
+            {
+              "id": "step_1767274949662",
+              "type": "choice",
+              "content": "15、琪雅"
+            },
+            {
+              "id": "step_1767274967037",
+              "type": "choice",
+              "content": "16、多萝茜"
+            },
+            {
+              "id": "step_1767274967317",
+              "type": "choice",
+              "content": "17、面具"
+            },
+            {
+              "id": "step_1767274967484",
+              "type": "choice",
+              "content": "18、琪雅"
+            },
+            {
+              "id": "step_1767274982166",
+              "type": "choice",
+              "content": "选项环节——『伸手握住』"
+            }
+          ]
+        },
+        {
+          "id": "ending_1767274987831",
+          "name": "第四章『镜中，纵使无物』",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1767274998564",
+              "type": "note",
+              "content": "角色从左往右分别为："
+            },
+            {
+              "id": "step_1767275002065",
+              "type": "choice",
+              "content": "第一行：面具，手臂"
+            },
+            {
+              "id": "step_1767275002236",
+              "type": "choice",
+              "content": "第二行：自动人偶，艾缇，琪雅，寂"
+            },
+            {
+              "id": "step_1767275019345",
+              "type": "note",
+              "content": "心声环节选择人物顺序如下："
+            },
+            {
+              "id": "step_1767275022465",
+              "type": "choice",
+              "content": "1、手臂"
+            },
+            {
+              "id": "step_1767275022634",
+              "type": "choice",
+              "content": "2、寂"
+            },
+            {
+              "id": "step_1767275022930",
+              "type": "choice",
+              "content": "3、手臂"
+            },
+            {
+              "id": "step_1767275023173",
+              "type": "choice",
+              "content": "4、自动人偶"
+            },
+            {
+              "id": "step_1767275023355",
+              "type": "choice",
+              "content": "5、艾缇"
+            },
+            {
+              "id": "step_1767275023541",
+              "type": "choice",
+              "content": "6、琪雅"
+            },
+            {
+              "id": "step_1767275023733",
+              "type": "choice",
+              "content": "7、寂"
+            },
+            {
+              "id": "step_1767275023922",
+              "type": "choice",
+              "content": "8、手臂"
+            },
+            {
+              "id": "step_1767275024125",
+              "type": "choice",
+              "content": "9、面具"
+            },
+            {
+              "id": "step_1767275025998",
+              "type": "choice",
+              "content": "10、手臂"
+            },
+            {
+              "id": "step_1767275026203",
+              "type": "choice",
+              "content": "11、面具"
+            },
+            {
+              "id": "step_1767275026438",
+              "type": "choice",
+              "content": "12、琪雅"
+            },
+            {
+              "id": "step_1767275026667",
+              "type": "choice",
+              "content": "13、艾缇"
+            },
+            {
+              "id": "step_1767275026933",
+              "type": "choice",
+              "content": "14、自动人偶"
+            },
+            {
+              "id": "step_1767275027204",
+              "type": "choice",
+              "content": "15、寂"
+            },
+            {
+              "id": "step_1767275027483",
+              "type": "choice",
+              "content": "16、琪雅"
+            },
+            {
+              "id": "step_1767275027774",
+              "type": "choice",
+              "content": "17、自动人偶"
+            },
+            {
+              "id": "step_1767275028081",
+              "type": "choice",
+              "content": "18、面具"
+            },
+            {
+              "id": "step_1767275102688",
+              "type": "choice",
+              "content": "选项环节——『伸出右手』"
+            }
+          ]
+        },
+        {
+          "id": "ending_1767275111659",
+          "name": "第五章『当下，泪已成灰』",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1767275140116",
+              "type": "note",
+              "content": "角色从左往右分别为："
+            },
+            {
+              "id": "step_1767275144075",
+              "type": "choice",
+              "content": "第一行：手臂，面具"
+            },
+            {
+              "id": "step_1767275144465",
+              "type": "choice",
+              "content": "第二行：黑衣的孩子，阿格尼丝&弗朗西斯卡，艾缇，琪雅，寂"
+            },
+            {
+              "id": "step_1767275151314",
+              "type": "note",
+              "content": "心声环节选择人物顺序如下："
+            },
+            {
+              "id": "step_1767275158471",
+              "type": "choice",
+              "content": "1、阿格尼丝&弗朗西斯卡"
+            },
+            {
+              "id": "step_1767275158648",
+              "type": "choice",
+              "content": "2、手臂"
+            },
+            {
+              "id": "step_1767275158824",
+              "type": "choice",
+              "content": "3、面具"
+            },
+            {
+              "id": "step_1767275159004",
+              "type": "choice",
+              "content": "4、手臂"
+            },
+            {
+              "id": "step_1767275159152",
+              "type": "choice",
+              "content": "5、寂"
+            },
+            {
+              "id": "step_1767275159320",
+              "type": "choice",
+              "content": "6、艾缇"
+            },
+            {
+              "id": "step_1767275159499",
+              "type": "choice",
+              "content": "7、琪雅"
+            },
+            {
+              "id": "step_1767275159697",
+              "type": "choice",
+              "content": "8、阿格尼丝&弗朗西斯卡"
+            },
+            {
+              "id": "step_1767275159932",
+              "type": "choice",
+              "content": "9、黑衣的孩子"
+            },
+            {
+              "id": "step_1767275160112",
+              "type": "choice",
+              "content": "10、面具"
+            },
+            {
+              "id": "step_1767275160346",
+              "type": "choice",
+              "content": "11、寂"
+            },
+            {
+              "id": "step_1767275160567",
+              "type": "choice",
+              "content": "12、琪雅"
+            },
+            {
+              "id": "step_1767275160809",
+              "type": "choice",
+              "content": "13、面具"
+            },
+            {
+              "id": "step_1767275161085",
+              "type": "choice",
+              "content": "14、手臂"
+            },
+            {
+              "id": "step_1767275161346",
+              "type": "choice",
+              "content": "15、艾缇"
+            },
+            {
+              "id": "step_1767275161586",
+              "type": "choice",
+              "content": "16、面具"
+            },
+            {
+              "id": "step_1767275161865",
+              "type": "choice",
+              "content": "17、艾缇"
+            },
+            {
+              "id": "step_1767275162123",
+              "type": "choice",
+              "content": "18、面具"
+            },
+            {
+              "id": "step_1767275162400",
+              "type": "choice",
+              "content": "19、手臂"
+            },
+            {
+              "id": "step_1767275162682",
+              "type": "choice",
+              "content": "20、寂"
+            },
+            {
+              "id": "step_1767275162964",
+              "type": "choice",
+              "content": "21、琪雅"
+            },
+            {
+              "id": "step_1767275163222",
+              "type": "choice",
+              "content": "22、阿格尼丝&弗朗西斯卡"
+            },
+            {
+              "id": "step_1767275163474",
+              "type": "choice",
+              "content": "23、黑衣的孩子"
+            },
+            {
+              "id": "step_1767275164191",
+              "type": "choice",
+              "content": "选项环节——『——不，这是无可代替的』"
+            }
+          ]
+        },
+        {
+          "id": "ending_1767275288915",
+          "name": "第六章『窗外，在雨夜中』",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1767275302999",
+              "type": "note",
+              "content": "角色从左往右分别为："
+            },
+            {
+              "id": "step_1767275303665",
+              "type": "choice",
+              "content": "第一行：手臂，面具"
+            },
+            {
+              "id": "step_1767275304019",
+              "type": "choice",
+              "content": "第二行：凯尔，少年，玛格达鲁，寂"
+            },
+            {
+              "id": "step_1767275328246",
+              "type": "note",
+              "content": "心声环节选择人物顺序如下："
+            },
+            {
+              "id": "step_1767275331543",
+              "type": "choice",
+              "content": "1、面具"
+            },
+            {
+              "id": "step_1767275331726",
+              "type": "choice",
+              "content": "2、玛格达鲁"
+            },
+            {
+              "id": "step_1767275331911",
+              "type": "choice",
+              "content": "3、寂"
+            },
+            {
+              "id": "step_1767275332209",
+              "type": "choice",
+              "content": "4、手臂"
+            },
+            {
+              "id": "step_1767275332437",
+              "type": "choice",
+              "content": "5、凯尔"
+            },
+            {
+              "id": "step_1767275332760",
+              "type": "choice",
+              "content": "6、少年"
+            },
+            {
+              "id": "step_1767275333049",
+              "type": "choice",
+              "content": "7、玛格达鲁"
+            },
+            {
+              "id": "step_1767275333309",
+              "type": "choice",
+              "content": "8、手臂"
+            },
+            {
+              "id": "step_1767275333661",
+              "type": "choice",
+              "content": "9、面具"
+            },
+            {
+              "id": "step_1767275334035",
+              "type": "choice",
+              "content": "10、寂"
+            },
+            {
+              "id": "step_1767275334361",
+              "type": "choice",
+              "content": "11、凯尔"
+            },
+            {
+              "id": "step_1767275334661",
+              "type": "choice",
+              "content": "12、少年"
+            },
+            {
+              "id": "step_1767275335032",
+              "type": "choice",
+              "content": "13、玛格达鲁"
+            },
+            {
+              "id": "step_1767275337678",
+              "type": "choice",
+              "content": "14、手臂"
+            },
+            {
+              "id": "step_1767275337957",
+              "type": "choice",
+              "content": "15、寂"
+            },
+            {
+              "id": "step_1767275338231",
+              "type": "choice",
+              "content": "16、少年"
+            },
+            {
+              "id": "step_1767275338567",
+              "type": "choice",
+              "content": "17、面具"
+            },
+            {
+              "id": "step_1767275338882",
+              "type": "choice",
+              "content": "18、凯尔"
+            },
+            {
+              "id": "step_1767275339552",
+              "type": "choice",
+              "content": "选项环节——『......伸出右手』"
+            }
+          ]
+        },
+        {
+          "id": "ending_1767275399438",
+          "name": "第七章『声音，纵是无途』",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1767275410945",
+              "type": "note",
+              "content": "角色从左往右分别为："
+            },
+            {
+              "id": "step_1767275411841",
+              "type": "choice",
+              "content": "第一行：手臂，面具"
+            },
+            {
+              "id": "step_1767275412181",
+              "type": "choice",
+              "content": "第二行：凯尔，约翰，萨拉，寂"
+            },
+            {
+              "id": "step_1767275424773",
+              "type": "note",
+              "content": "心声环节选择人物顺序如下："
+            },
+            {
+              "id": "step_1767275431031",
+              "type": "choice",
+              "content": "1、萨拉"
+            },
+            {
+              "id": "step_1767275431245",
+              "type": "choice",
+              "content": "2、手臂"
+            },
+            {
+              "id": "step_1767275431481",
+              "type": "choice",
+              "content": "3、寂"
+            },
+            {
+              "id": "step_1767275431726",
+              "type": "choice",
+              "content": "4、约翰"
+            },
+            {
+              "id": "step_1767275431985",
+              "type": "choice",
+              "content": "5、萨拉"
+            },
+            {
+              "id": "step_1767275432217",
+              "type": "choice",
+              "content": "6、约翰"
+            },
+            {
+              "id": "step_1767275432468",
+              "type": "choice",
+              "content": "7、手臂"
+            },
+            {
+              "id": "step_1767275432720",
+              "type": "choice",
+              "content": "8、面具"
+            },
+            {
+              "id": "step_1767275432984",
+              "type": "choice",
+              "content": "9、凯尔"
+            },
+            {
+              "id": "step_1767275433232",
+              "type": "choice",
+              "content": "10、手臂"
+            },
+            {
+              "id": "step_1767275433533",
+              "type": "choice",
+              "content": "11、面具"
+            },
+            {
+              "id": "step_1767275433854",
+              "type": "choice",
+              "content": "12、凯尔"
+            },
+            {
+              "id": "step_1767275434198",
+              "type": "choice",
+              "content": "13、寂"
+            },
+            {
+              "id": "step_1767275434530",
+              "type": "choice",
+              "content": "14、萨拉"
+            },
+            {
+              "id": "step_1767275434850",
+              "type": "choice",
+              "content": "15、约翰"
+            },
+            {
+              "id": "step_1767275435137",
+              "type": "choice",
+              "content": "16、凯尔"
+            },
+            {
+              "id": "step_1767275435437",
+              "type": "choice",
+              "content": "17、手臂"
+            },
+            {
+              "id": "step_1767275435742",
+              "type": "choice",
+              "content": "18、面具"
+            },
+            {
+              "id": "step_1767275436040",
+              "type": "choice",
+              "content": "19、手臂"
+            },
+            {
+              "id": "step_1767275436367",
+              "type": "choice",
+              "content": "20、寂"
+            },
+            {
+              "id": "step_1767275436696",
+              "type": "choice",
+              "content": "21、面具"
+            },
+            {
+              "id": "step_1767275437567",
+              "type": "choice",
+              "content": "选项环节——『触摸面颊』"
+            }
+          ]
+        },
+        {
+          "id": "ending_1767275604378",
+          "name": "第八章『死亡，幕间其声』",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1767275646158",
+              "type": "note",
+              "content": "角色从左往右分别为："
+            },
+            {
+              "id": "step_1767275650884",
+              "type": "choice",
+              "content": "第一行：面具，手臂"
+            },
+            {
+              "id": "step_1767275651143",
+              "type": "choice",
+              "content": "第二行：凯尔，露尔哈，寂"
+            },
+            {
+              "id": "step_1767275659544",
+              "type": "note",
+              "content": "心声环节选择人物顺序如下："
+            },
+            {
+              "id": "step_1767275662830",
+              "type": "choice",
+              "content": "1、凯尔"
+            },
+            {
+              "id": "step_1767275663010",
+              "type": "choice",
+              "content": "2、露尔哈"
+            },
+            {
+              "id": "step_1767275663198",
+              "type": "choice",
+              "content": "3、寂"
+            },
+            {
+              "id": "step_1767275663441",
+              "type": "choice",
+              "content": "4、面具"
+            },
+            {
+              "id": "step_1767275663731",
+              "type": "choice",
+              "content": "5、手臂"
+            },
+            {
+              "id": "step_1767275664001",
+              "type": "choice",
+              "content": "6、面具"
+            },
+            {
+              "id": "step_1767275664295",
+              "type": "choice",
+              "content": "7、手臂"
+            },
+            {
+              "id": "step_1767275664558",
+              "type": "choice",
+              "content": "8、寂"
+            },
+            {
+              "id": "step_1767275664871",
+              "type": "choice",
+              "content": "9、面具"
+            },
+            {
+              "id": "step_1767275665172",
+              "type": "choice",
+              "content": "10、手臂"
+            },
+            {
+              "id": "step_1767275665542",
+              "type": "choice",
+              "content": "11、露尔哈"
+            },
+            {
+              "id": "step_1767275665898",
+              "type": "choice",
+              "content": "12、凯尔"
+            },
+            {
+              "id": "step_1767275666289",
+              "type": "choice",
+              "content": "13、露尔哈"
+            },
+            {
+              "id": "step_1767275666643",
+              "type": "choice",
+              "content": "14、凯尔"
+            },
+            {
+              "id": "step_1767275667038",
+              "type": "choice",
+              "content": "15、手臂"
+            },
+            {
+              "id": "step_1767275667461",
+              "type": "choice",
+              "content": "16、面具"
+            },
+            {
+              "id": "step_1767275667833",
+              "type": "choice",
+              "content": "17、寂"
+            },
+            {
+              "id": "step_1767275715660",
+              "type": "choice",
+              "content": "选项环节——『根本不存在』"
+            }
+          ]
+        },
+        {
+          "id": "ending_1767275614877",
+          "name": "第九章『花朵，辉光一物』",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1767275741955",
+              "type": "note",
+              "content": "角色从左往右分别为："
+            },
+            {
+              "id": "step_1767275745478",
+              "type": "choice",
+              "content": "第一行：面具，手臂"
+            },
+            {
+              "id": "step_1767275745660",
+              "type": "choice",
+              "content": "第二行：珞姆·雷姆珞，尼亚诺，琪雅，艾缇，寂"
+            },
+            {
+              "id": "step_1767275752974",
+              "type": "note",
+              "content": "心声环节选择人物顺序如下："
+            },
+            {
+              "id": "step_1767275759011",
+              "type": "choice",
+              "content": "1、寂"
+            },
+            {
+              "id": "step_1767275759175",
+              "type": "choice",
+              "content": "2、艾缇"
+            },
+            {
+              "id": "step_1767275759349",
+              "type": "choice",
+              "content": "3、琪雅"
+            },
+            {
+              "id": "step_1767275759627",
+              "type": "choice",
+              "content": "4、尼亚诺"
+            },
+            {
+              "id": "step_1767275759899",
+              "type": "choice",
+              "content": "5、手臂"
+            },
+            {
+              "id": "step_1767275760158",
+              "type": "choice",
+              "content": "6、珞姆·雷姆珞"
+            },
+            {
+              "id": "step_1767275760411",
+              "type": "choice",
+              "content": "7、尼亚诺"
+            },
+            {
+              "id": "step_1767275760609",
+              "type": "choice",
+              "content": "8、面具"
+            },
+            {
+              "id": "step_1767275760805",
+              "type": "choice",
+              "content": "9、手臂"
+            },
+            {
+              "id": "step_1767275761072",
+              "type": "choice",
+              "content": "10、寂"
+            },
+            {
+              "id": "step_1767275761348",
+              "type": "choice",
+              "content": "11、艾缇"
+            },
+            {
+              "id": "step_1767275761607",
+              "type": "choice",
+              "content": "12、琪雅"
+            },
+            {
+              "id": "step_1767275761867",
+              "type": "choice",
+              "content": "13、珞姆·雷姆珞"
+            },
+            {
+              "id": "step_1767275762098",
+              "type": "choice",
+              "content": "14、琪雅"
+            },
+            {
+              "id": "step_1767275762360",
+              "type": "choice",
+              "content": "15、珞姆·雷姆珞"
+            },
+            {
+              "id": "step_1767275762639",
+              "type": "choice",
+              "content": "16、面具"
+            },
+            {
+              "id": "step_1767275762901",
+              "type": "choice",
+              "content": "17、艾缇"
+            },
+            {
+              "id": "step_1767275763149",
+              "type": "choice",
+              "content": "18、琪雅"
+            },
+            {
+              "id": "step_1767275763416",
+              "type": "choice",
+              "content": "19、尼亚诺"
+            },
+            {
+              "id": "step_1767275763755",
+              "type": "choice",
+              "content": "20、寂"
+            },
+            {
+              "id": "step_1767275764035",
+              "type": "choice",
+              "content": "21、尼亚诺"
+            },
+            {
+              "id": "step_1767275764290",
+              "type": "choice",
+              "content": "22、面具"
+            },
+            {
+              "id": "step_1767275764615",
+              "type": "choice",
+              "content": "23、手臂"
+            },
+            {
+              "id": "step_1767275765904",
+              "type": "choice",
+              "content": "选项环节——无选项"
+            }
+          ]
+        },
+        {
+          "id": "ending_1767275615315",
+          "name": "第十章『花朵，待其傲放』",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1767275886660",
+              "type": "note",
+              "content": "角色从左往右分别为："
+            },
+            {
+              "id": "step_1767275896471",
+              "type": "choice",
+              "content": "第一行：面具，手臂"
+            },
+            {
+              "id": "step_1767275896657",
+              "type": "choice",
+              "content": "第二行：凯尔，珞姆·雷姆珞，佩特罗娜，琪雅，寂"
+            },
+            {
+              "id": "step_1767275905628",
+              "type": "note",
+              "content": "心声环节选择人物顺序如下："
+            },
+            {
+              "id": "step_1767275906465",
+              "type": "choice",
+              "content": "1、手臂"
+            },
+            {
+              "id": "step_1767275906661",
+              "type": "choice",
+              "content": "2、寂"
+            },
+            {
+              "id": "step_1767275906831",
+              "type": "choice",
+              "content": "3、凯尔"
+            },
+            {
+              "id": "step_1767275907060",
+              "type": "choice",
+              "content": "4、琪雅"
+            },
+            {
+              "id": "step_1767275907275",
+              "type": "choice",
+              "content": "5、珞姆·雷姆珞"
+            },
+            {
+              "id": "step_1767275907462",
+              "type": "choice",
+              "content": "6、佩特罗娜"
+            },
+            {
+              "id": "step_1767275907719",
+              "type": "choice",
+              "content": "7、面具"
+            },
+            {
+              "id": "step_1767275907900",
+              "type": "choice",
+              "content": "8、佩特罗娜"
+            },
+            {
+              "id": "step_1767275908079",
+              "type": "choice",
+              "content": "9、面具"
+            },
+            {
+              "id": "step_1767275908298",
+              "type": "choice",
+              "content": "10、寂"
+            },
+            {
+              "id": "step_1767275908505",
+              "type": "choice",
+              "content": "11、珞姆·雷姆珞"
+            },
+            {
+              "id": "step_1767275908710",
+              "type": "choice",
+              "content": "12、凯尔"
+            },
+            {
+              "id": "step_1767275908934",
+              "type": "choice",
+              "content": "13、琪雅"
+            },
+            {
+              "id": "step_1767275909257",
+              "type": "choice",
+              "content": "14、手臂"
+            },
+            {
+              "id": "step_1767275909557",
+              "type": "choice",
+              "content": "15、佩特罗娜"
+            },
+            {
+              "id": "step_1767275909972",
+              "type": "choice",
+              "content": "16、寂"
+            },
+            {
+              "id": "step_1767275912146",
+              "type": "choice",
+              "content": "17、珞姆·雷姆珞"
+            },
+            {
+              "id": "step_1767275912455",
+              "type": "choice",
+              "content": "18、手臂"
+            },
+            {
+              "id": "step_1767275912845",
+              "type": "choice",
+              "content": "19、凯尔"
+            },
+            {
+              "id": "step_1767275913266",
+              "type": "choice",
+              "content": "20、面具"
+            },
+            {
+              "id": "step_1767275915089",
+              "type": "choice",
+              "content": "选项环节——『将右手，伸出』"
+            }
+          ]
+        },
+        {
+          "id": "ending_1767275632246",
+          "name": "第十一章『我心，何处可循』",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1767276266155",
+              "type": "note",
+              "content": "角色从左往右分别为："
+            },
+            {
+              "id": "step_1767276269942",
+              "type": "choice",
+              "content": "第一行：面具，手臂"
+            },
+            {
+              "id": "step_1767276270157",
+              "type": "choice",
+              "content": "第二行：凯尔，珞姆·雷姆珞，琪雅，艾缇，寂"
+            },
+            {
+              "id": "step_1767276278408",
+              "type": "note",
+              "content": "心声环节选择人物顺序如下："
+            },
+            {
+              "id": "step_1767276285405",
+              "type": "choice",
+              "content": "1、手臂"
+            },
+            {
+              "id": "step_1767276285591",
+              "type": "choice",
+              "content": "2、琪雅"
+            },
+            {
+              "id": "step_1767276285783",
+              "type": "choice",
+              "content": "3、寂"
+            },
+            {
+              "id": "step_1767276286014",
+              "type": "choice",
+              "content": "4、艾缇"
+            },
+            {
+              "id": "step_1767276286190",
+              "type": "choice",
+              "content": "5、手臂"
+            },
+            {
+              "id": "step_1767276286402",
+              "type": "choice",
+              "content": "6、凯尔"
+            },
+            {
+              "id": "step_1767276286643",
+              "type": "choice",
+              "content": "7、面具"
+            },
+            {
+              "id": "step_1767276286863",
+              "type": "choice",
+              "content": "8、珞姆·雷姆珞"
+            },
+            {
+              "id": "step_1767276287121",
+              "type": "choice",
+              "content": "9、琪雅"
+            },
+            {
+              "id": "step_1767276287354",
+              "type": "choice",
+              "content": "10、艾缇"
+            },
+            {
+              "id": "step_1767276287631",
+              "type": "choice",
+              "content": "11、寂"
+            },
+            {
+              "id": "step_1767276287924",
+              "type": "choice",
+              "content": "12、手臂"
+            },
+            {
+              "id": "step_1767276288193",
+              "type": "choice",
+              "content": "13、凯尔"
+            },
+            {
+              "id": "step_1767276288469",
+              "type": "choice",
+              "content": "14、珞姆·雷姆珞"
+            },
+            {
+              "id": "step_1767276288750",
+              "type": "choice",
+              "content": "15、琪雅"
+            },
+            {
+              "id": "step_1767276289050",
+              "type": "choice",
+              "content": "16、面具"
+            },
+            {
+              "id": "step_1767276289381",
+              "type": "choice",
+              "content": "17、凯尔"
+            },
+            {
+              "id": "step_1767276289724",
+              "type": "choice",
+              "content": "18、珞姆·雷姆珞"
+            },
+            {
+              "id": "step_1767276290102",
+              "type": "choice",
+              "content": "19、艾缇"
+            },
+            {
+              "id": "step_1767276290522",
+              "type": "choice",
+              "content": "20、寂"
+            },
+            {
+              "id": "step_1767276290944",
+              "type": "choice",
+              "content": "21、手臂"
+            },
+            {
+              "id": "step_1767276291372",
+              "type": "choice",
+              "content": "22、面具"
+            },
+            {
+              "id": "step_1767276292281",
+              "type": "choice",
+              "content": "选项环节——『伸出右手』"
+            }
+          ]
+        },
+        {
+          "id": "ending_1767275632760",
+          "name": "第十二章『赫炎的印加诺克』",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1767276451947",
+              "type": "note",
+              "content": "角色从左往右分别为："
+            },
+            {
+              "id": "step_1767276455263",
+              "type": "choice",
+              "content": "第一行：面具，手臂"
+            },
+            {
+              "id": "step_1767276455469",
+              "type": "choice",
+              "content": "第二行：凯尔，珞姆·雷姆珞，琪雅，露尔哈，寂"
+            },
+            {
+              "id": "step_1767276462760",
+              "type": "note",
+              "content": "心声环节选择人物顺序如下："
+            },
+            {
+              "id": "step_1767276470826",
+              "type": "choice",
+              "content": "1、手臂"
+            },
+            {
+              "id": "step_1767276471043",
+              "type": "choice",
+              "content": "2、露尔哈"
+            },
+            {
+              "id": "step_1767276471284",
+              "type": "choice",
+              "content": "3、珞姆·雷姆珞"
+            },
+            {
+              "id": "step_1767276471503",
+              "type": "choice",
+              "content": "4、面具"
+            },
+            {
+              "id": "step_1767276471728",
+              "type": "choice",
+              "content": "5、凯尔"
+            },
+            {
+              "id": "step_1767276471941",
+              "type": "choice",
+              "content": "6、寂"
+            },
+            {
+              "id": "step_1767276472157",
+              "type": "choice",
+              "content": "7、琪雅"
+            },
+            {
+              "id": "step_1767276472410",
+              "type": "choice",
+              "content": "8、露尔哈"
+            },
+            {
+              "id": "step_1767276472678",
+              "type": "choice",
+              "content": "9、琪雅"
+            },
+            {
+              "id": "step_1767276472924",
+              "type": "choice",
+              "content": "10、珞姆·雷姆珞"
+            },
+            {
+              "id": "step_1767276473187",
+              "type": "choice",
+              "content": "11、凯尔"
+            },
+            {
+              "id": "step_1767276473456",
+              "type": "choice",
+              "content": "12、寂"
+            },
+            {
+              "id": "step_1767276473711",
+              "type": "choice",
+              "content": "13、露尔哈"
+            },
+            {
+              "id": "step_1767276473977",
+              "type": "choice",
+              "content": "14、凯尔"
+            },
+            {
+              "id": "step_1767276474286",
+              "type": "choice",
+              "content": "15、手臂"
+            },
+            {
+              "id": "step_1767276474568",
+              "type": "choice",
+              "content": "16、面具"
+            },
+            {
+              "id": "step_1767276474848",
+              "type": "choice",
+              "content": "17、珞姆·雷姆珞"
+            },
+            {
+              "id": "step_1767276475162",
+              "type": "choice",
+              "content": "18、手臂"
+            },
+            {
+              "id": "step_1767276475487",
+              "type": "choice",
+              "content": "19、琪雅"
+            },
+            {
+              "id": "step_1767276475787",
+              "type": "choice",
+              "content": "20、寂"
+            },
+            {
+              "id": "step_1767276476091",
+              "type": "choice",
+              "content": "21、面具"
+            },
+            {
+              "id": "step_1767276476763",
+              "type": "choice",
+              "content": "选项环节——『——将右手，伸出』"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

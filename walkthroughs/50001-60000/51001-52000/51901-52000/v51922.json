@@ -1,0 +1,299 @@
+{
+  "vid": "v51922",
+  "name": {
+    "zh-cn": "唇心絮语",
+    "ja-jp": "リップリップルズ",
+    "ja-Latn": "lip-lipples"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-14",
+  "routes": [
+    {
+      "id": "route_game",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_kiri",
+          "name": "基利 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_kiri_02",
+              "type": "choice",
+              "content": "凯",
+              "group": "外"
+            },
+            {
+              "id": "step_kiri_03",
+              "type": "choice",
+              "content": "继续打听",
+              "prefix": "⇒",
+              "group": "外"
+            },
+            {
+              "id": "step_kiri_04",
+              "type": "choice",
+              "content": "女学生A",
+              "group": "外"
+            },
+            {
+              "id": "step_kiri_05",
+              "type": "choice",
+              "content": "继续打听",
+              "prefix": "⇒",
+              "group": "外"
+            },
+            {
+              "id": "step_kiri_06",
+              "type": "choice",
+              "content": "男学生A",
+              "group": "大厅"
+            },
+            {
+              "id": "step_kiri_07",
+              "type": "choice",
+              "content": "继续打听",
+              "prefix": "⇒",
+              "group": "大厅"
+            },
+            {
+              "id": "step_kiri_08",
+              "type": "choice",
+              "content": "男学生B",
+              "group": "大厅"
+            },
+            {
+              "id": "step_kiri_09",
+              "type": "choice",
+              "content": "继续打听",
+              "prefix": "⇒",
+              "group": "大厅"
+            },
+            {
+              "id": "step_kiri_10",
+              "type": "choice",
+              "content": "女学生B",
+              "group": "教室"
+            },
+            {
+              "id": "step_kiri_11",
+              "type": "choice",
+              "content": "继续打听",
+              "prefix": "⇒",
+              "group": "教室"
+            },
+            {
+              "id": "step_kiri_12",
+              "type": "choice",
+              "content": "女学生C",
+              "group": "教室"
+            },
+            {
+              "id": "step_kiri_13",
+              "type": "choice",
+              "content": "继续打听",
+              "prefix": "⇒",
+              "group": "教室"
+            },
+            {
+              "id": "step_kiri_14",
+              "type": "choice",
+              "content": "男学生C",
+              "group": "走廊"
+            },
+            {
+              "id": "step_kiri_15",
+              "type": "choice",
+              "content": "继续打听",
+              "prefix": "⇒",
+              "group": "走廊"
+            },
+            {
+              "id": "step_kiri_16",
+              "type": "choice",
+              "content": "女学生D",
+              "group": "走廊"
+            },
+            {
+              "id": "step_kiri_17",
+              "type": "choice",
+              "content": "继续打听",
+              "prefix": "⇒",
+              "group": "走廊"
+            },
+            {
+              "id": "step_kiri_18",
+              "type": "choice",
+              "content": "シズク",
+              "group": "学食"
+            },
+            {
+              "id": "step_kiri_19",
+              "type": "choice",
+              "content": "继续打听",
+              "prefix": "⇒",
+              "group": "学食"
+            },
+            {
+              "id": "step_kiri_20",
+              "type": "choice",
+              "content": "阿姨",
+              "group": "学食"
+            },
+            {
+              "id": "step_kiri_21",
+              "type": "choice",
+              "content": "继续打听",
+              "prefix": "⇒",
+              "group": "学食"
+            },
+            {
+              "id": "step_kiri_22",
+              "type": "choice",
+              "content": "教员A",
+              "group": "图书室"
+            },
+            {
+              "id": "step_kiri_23",
+              "type": "choice",
+              "content": "继续打听",
+              "prefix": "⇒",
+              "group": "图书室"
+            },
+            {
+              "id": "step_kiri_24",
+              "type": "choice",
+              "content": "女学生E",
+              "group": "图书室"
+            },
+            {
+              "id": "step_kiri_25",
+              "type": "choice",
+              "content": "结束打听",
+              "prefix": "⇒",
+              "group": "图书室"
+            },
+            {
+              "id": "step_kiri_26",
+              "type": "choice",
+              "content": "YES"
+            },
+            {
+              "id": "step_kiri_27",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_kiri_28",
+              "type": "choice",
+              "content": "基利"
+            },
+            {
+              "id": "step_kiri_29",
+              "type": "choice",
+              "content": "食堂"
+            },
+            {
+              "id": "step_kiri_30",
+              "type": "choice",
+              "content": "从教室跑到食堂就到了"
+            }
+          ]
+        },
+        {
+          "id": "ending_hibana",
+          "name": "丝绒 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_hibana_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_hibana_02",
+              "type": "choice",
+              "content": "丝绒"
+            },
+            {
+              "id": "step_hibana_03",
+              "type": "choice",
+              "content": "在大厅时的发言"
+            },
+            {
+              "id": "step_hibana_04",
+              "type": "choice",
+              "content": "教室"
+            }
+          ]
+        },
+        {
+          "id": "ending_matsuri",
+          "name": "松 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_matsuri_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_matsuri_02",
+              "type": "choice",
+              "content": "松"
+            },
+            {
+              "id": "step_matsuri_03",
+              "type": "choice",
+              "content": "夺走初吻"
+            },
+            {
+              "id": "step_matsuri_04",
+              "type": "choice",
+              "content": "香味"
+            }
+          ]
+        },
+        {
+          "id": "ending_runa",
+          "name": "露娜 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_runa_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_runa_02",
+              "type": "choice",
+              "content": "露娜"
+            },
+            {
+              "id": "step_runa_03",
+              "type": "choice",
+              "content": "教室"
+            },
+            {
+              "id": "step_runa_04",
+              "type": "choice",
+              "content": "从其他人那里听说的"
+            }
+          ]
+        },
+        {
+          "id": "ending_nana",
+          "name": "娜娜 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_nana_01",
+              "type": "note",
+              "content": "4人END后自动开始娜娜线"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

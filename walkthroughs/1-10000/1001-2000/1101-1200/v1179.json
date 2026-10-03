@@ -1,0 +1,642 @@
+{
+  "vid": "v1179",
+  "name": {
+    "zh-cn": "Flyable Heart",
+    "ja-Latn": "flyable-heart"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-16",
+  "routes": [
+    {
+      "id": "route_game_guide",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_tenon",
+          "name": "天音 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_tenon_01",
+              "type": "choice",
+              "content": "不要"
+            },
+            {
+              "id": "step_tenon_02",
+              "type": "choice",
+              "content": "不管它"
+            },
+            {
+              "id": "step_tenon_03",
+              "type": "choice",
+              "content": "绕道而行"
+            },
+            {
+              "id": "step_tenon_04",
+              "type": "choice",
+              "content": "去学生会"
+            },
+            {
+              "id": "step_tenon_05",
+              "type": "choice",
+              "content": "看看玖琉璃的样子"
+            },
+            {
+              "id": "step_tenon_06",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_tenon_07",
+              "type": "choice",
+              "content": "暂且…现在，几点了呢"
+            },
+            {
+              "id": "step_tenon_08",
+              "type": "choice",
+              "content": "看着天音的方向"
+            },
+            {
+              "id": "step_tenon_09",
+              "type": "choice",
+              "content": "防守据点"
+            },
+            {
+              "id": "step_tenon_10",
+              "type": "choice",
+              "content": "追上去彻底消灭她们"
+            },
+            {
+              "id": "step_tenon_11",
+              "type": "choice",
+              "content": "两人一起跑"
+            },
+            {
+              "id": "step_tenon_12",
+              "type": "choice",
+              "content": "将其找出来挑战"
+            },
+            {
+              "id": "step_tenon_13",
+              "type": "choice",
+              "content": "试着潜伏进学生会室？"
+            },
+            {
+              "id": "step_tenon_14",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_tenon_15",
+              "type": "choice",
+              "content": "寻找天音"
+            },
+            {
+              "id": "step_tenon_16",
+              "type": "choice",
+              "content": "去缭兰会"
+            },
+            {
+              "id": "step_tenon_17",
+              "type": "choice",
+              "content": "去入口【逃跑】(回到入口)"
+            },
+            {
+              "id": "step_tenon_18",
+              "type": "choice",
+              "content": "飞奔出校舍"
+            },
+            {
+              "id": "step_tenon_19",
+              "type": "choice",
+              "content": "还要继续吗?是"
+            },
+            {
+              "id": "step_tenon_20",
+              "type": "choice",
+              "content": "毫不犹豫强行突破"
+            },
+            {
+              "id": "step_tenon_21",
+              "type": "choice",
+              "content": "逃向食堂方向"
+            },
+            {
+              "id": "step_tenon_22",
+              "type": "choice",
+              "content": "甜甜圈就是正义！前进"
+            },
+            {
+              "id": "step_tenon_23",
+              "type": "choice",
+              "content": "靠近看看"
+            },
+            {
+              "id": "step_tenon_24",
+              "type": "choice",
+              "content": "就这样沉默忍耐着"
+            },
+            {
+              "id": "step_tenon_25",
+              "type": "choice",
+              "content": "为了安全起见躲到教室里去"
+            },
+            {
+              "id": "step_tenon_26",
+              "type": "choice",
+              "content": "回复"
+            },
+            {
+              "id": "step_tenon_27",
+              "type": "choice",
+              "content": "跟他一起走"
+            },
+            {
+              "id": "step_tenon_28",
+              "type": "choice",
+              "content": "还要继续吗?是"
+            },
+            {
+              "id": "step_tenon_29",
+              "type": "choice",
+              "content": "一个人行动"
+            },
+            {
+              "id": "step_tenon_30",
+              "type": "choice",
+              "content": "逃到别的楼层"
+            },
+            {
+              "id": "step_tenon_31",
+              "type": "choice",
+              "content": "天音的蛋糕"
+            }
+          ]
+        },
+        {
+          "id": "ending_sakurako",
+          "name": "樱子 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_sakurako_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_sakurako_02",
+              "type": "choice",
+              "content": "寻找樱子"
+            },
+            {
+              "id": "step_sakurako_03",
+              "type": "choice",
+              "content": "问樱子"
+            },
+            {
+              "id": "step_sakurako_04",
+              "type": "choice",
+              "content": "去缭兰会"
+            },
+            {
+              "id": "step_sakurako_05",
+              "type": "choice",
+              "content": "去入口【逃跑】(回到入口)"
+            },
+            {
+              "id": "step_sakurako_06",
+              "type": "choice",
+              "content": "毫不犹豫强行突破"
+            },
+            {
+              "id": "step_sakurako_07",
+              "type": "choice",
+              "content": "逃向楼梯方向"
+            },
+            {
+              "id": "step_sakurako_08",
+              "type": "choice",
+              "content": "分头逃走"
+            },
+            {
+              "id": "step_sakurako_09",
+              "type": "choice",
+              "content": "不去"
+            },
+            {
+              "id": "step_sakurako_10",
+              "type": "choice",
+              "content": "为了安全起见躲到教室里去"
+            },
+            {
+              "id": "step_sakurako_11",
+              "type": "choice",
+              "content": "回复"
+            },
+            {
+              "id": "step_sakurako_12",
+              "type": "choice",
+              "content": "一个人行动"
+            },
+            {
+              "id": "step_sakurako_13",
+              "type": "choice",
+              "content": "就这样往走廊逃"
+            },
+            {
+              "id": "step_sakurako_14",
+              "type": "choice",
+              "content": "樱子的蛋糕"
+            },
+            {
+              "id": "step_sakurako_15",
+              "type": "choice",
+              "content": "去校舍外面"
+            }
+          ]
+        },
+        {
+          "id": "ending_momohana",
+          "name": "茉百合 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_momohana_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_momohana_02",
+              "type": "choice",
+              "content": "参加沙滩排球"
+            },
+            {
+              "id": "step_momohana_03",
+              "type": "choice",
+              "content": "全力截击"
+            },
+            {
+              "id": "step_momohana_04",
+              "type": "choice",
+              "content": "问茉百合"
+            },
+            {
+              "id": "step_momohana_05",
+              "type": "choice",
+              "content": "去学生会"
+            },
+            {
+              "id": "step_momohana_06",
+              "type": "choice",
+              "content": "去入口【逃跑】(回到入口)"
+            },
+            {
+              "id": "step_momohana_07",
+              "type": "choice",
+              "content": "毫不犹豫强行突破"
+            },
+            {
+              "id": "step_momohana_08",
+              "type": "choice",
+              "content": "逃向教室方向"
+            },
+            {
+              "id": "step_momohana_09",
+              "type": "choice",
+              "content": "不去"
+            },
+            {
+              "id": "step_momohana_10",
+              "type": "choice",
+              "content": "为了安全起见躲到教室里去"
+            },
+            {
+              "id": "step_momohana_11",
+              "type": "choice",
+              "content": "回复"
+            },
+            {
+              "id": "step_momohana_12",
+              "type": "choice",
+              "content": "一个人行动"
+            },
+            {
+              "id": "step_momohana_13",
+              "type": "choice",
+              "content": "把他拽到别的地方去"
+            },
+            {
+              "id": "step_momohana_14",
+              "type": "choice",
+              "content": "茉百合的蛋糕"
+            },
+            {
+              "id": "step_momohana_15",
+              "type": "choice",
+              "content": "去展览教室"
+            }
+          ]
+        },
+        {
+          "id": "ending_kururi",
+          "name": "玖琉璃 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_kururi_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_kururi_02",
+              "type": "choice",
+              "content": "去看看九条和小惠那边"
+            },
+            {
+              "id": "step_kururi_03",
+              "type": "choice",
+              "content": "去学生会"
+            },
+            {
+              "id": "step_kururi_04",
+              "type": "choice",
+              "content": "进入笔直的走廊【逃跑】(在笔直的走廊前进)"
+            },
+            {
+              "id": "step_kururi_05",
+              "type": "choice",
+              "content": "逃向食堂方向"
+            },
+            {
+              "id": "step_kururi_06",
+              "type": "choice",
+              "content": "躲在空教室里"
+            },
+            {
+              "id": "step_kururi_07",
+              "type": "choice",
+              "content": "还要继续吗?是"
+            },
+            {
+              "id": "step_kururi_08",
+              "type": "choice",
+              "content": "朝着楼梯的方向"
+            },
+            {
+              "id": "step_kururi_09",
+              "type": "choice",
+              "content": "放着不管"
+            },
+            {
+              "id": "step_kururi_10",
+              "type": "choice",
+              "content": "还是放着不管"
+            },
+            {
+              "id": "step_kururi_11",
+              "type": "choice",
+              "content": "为了安全起见躲到教室里去"
+            },
+            {
+              "id": "step_kururi_12",
+              "type": "choice",
+              "content": "回复"
+            },
+            {
+              "id": "step_kururi_13",
+              "type": "choice",
+              "content": "一个人行动"
+            },
+            {
+              "id": "step_kururi_14",
+              "type": "choice",
+              "content": "那就死一次吧。默默地旁观"
+            },
+            {
+              "id": "step_kururi_15",
+              "type": "choice",
+              "content": "玖琉璃的蛋糕"
+            }
+          ]
+        },
+        {
+          "id": "ending_yui",
+          "name": "结衣 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_yui_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_yui_02",
+              "type": "choice",
+              "content": "参加沙滩排球"
+            },
+            {
+              "id": "step_yui_03",
+              "type": "choice",
+              "content": "全力救球"
+            },
+            {
+              "id": "step_yui_04",
+              "type": "choice",
+              "content": "去缭兰会"
+            },
+            {
+              "id": "step_yui_05",
+              "type": "choice",
+              "content": "去入口【逃跑】(回到入口)"
+            },
+            {
+              "id": "step_yui_06",
+              "type": "choice",
+              "content": "毫不犹豫强行突破"
+            },
+            {
+              "id": "step_yui_07",
+              "type": "choice",
+              "content": "逃向教室方向"
+            },
+            {
+              "id": "step_yui_08",
+              "type": "choice",
+              "content": "不去"
+            },
+            {
+              "id": "step_yui_09",
+              "type": "choice",
+              "content": "为了安全起见躲到教室里去"
+            },
+            {
+              "id": "step_yui_10",
+              "type": "choice",
+              "content": "回复"
+            },
+            {
+              "id": "step_yui_11",
+              "type": "choice",
+              "content": "一个人行动"
+            },
+            {
+              "id": "step_yui_12",
+              "type": "choice",
+              "content": "找间教室暂时避难"
+            },
+            {
+              "id": "step_yui_13",
+              "type": "choice",
+              "content": "哪个都不选"
+            }
+          ]
+        },
+        {
+          "id": "ending_suzuno",
+          "name": "铃乃 END",
+          "type": "normal",
+          "requirements": "以上全通后",
+          "steps": [
+            {
+              "id": "step_suzuno_02",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_suzuno_03",
+              "type": "choice",
+              "content": "什么声音？"
+            },
+            {
+              "id": "step_suzuno_04",
+              "type": "choice",
+              "content": "看着樱子的方向"
+            },
+            {
+              "id": "step_suzuno_05",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_suzuno_06",
+              "type": "choice",
+              "content": "攻击是最好的防御"
+            },
+            {
+              "id": "step_suzuno_07",
+              "type": "choice",
+              "content": "这里应该将水无 濑 打 倒"
+            },
+            {
+              "id": "step_suzuno_08",
+              "type": "choice",
+              "content": "这里应该逃走"
+            },
+            {
+              "id": "step_suzuno_09",
+              "type": "choice",
+              "content": "该出手时就出手"
+            },
+            {
+              "id": "step_suzuno_10",
+              "type": "note",
+              "content": "CG回收完毕"
+            },
+            {
+              "id": "step_suzuno_11",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_suzuno_12",
+              "type": "choice",
+              "content": "独立愚连队"
+            },
+            {
+              "id": "step_suzuno_13",
+              "type": "choice",
+              "content": "正面挑战"
+            },
+            {
+              "id": "step_suzuno_14",
+              "type": "choice",
+              "content": "和天音他们一起去会长退治"
+            },
+            {
+              "id": "step_suzuno_15",
+              "type": "choice",
+              "content": "殿后"
+            },
+            {
+              "id": "step_suzuno_16",
+              "type": "choice",
+              "content": "以团队合作挑战"
+            },
+            {
+              "id": "step_suzuno_17",
+              "type": "choice",
+              "content": "也许呆在教室里就行了"
+            },
+            {
+              "id": "step_suzuno_18",
+              "type": "choice",
+              "content": "去看看九条和小惠那边"
+            },
+            {
+              "id": "step_suzuno_19",
+              "type": "choice",
+              "content": "拉她起来"
+            },
+            {
+              "id": "step_suzuno_20",
+              "type": "choice",
+              "content": "去缭兰会"
+            },
+            {
+              "id": "step_suzuno_21",
+              "type": "choice",
+              "content": "装备铜剑【战斗】"
+            },
+            {
+              "id": "step_suzuno_22",
+              "type": "choice",
+              "content": "为了安全起见躲到教室里去"
+            },
+            {
+              "id": "step_suzuno_23",
+              "type": "choice",
+              "content": "回复"
+            },
+            {
+              "id": "step_suzuno_24",
+              "type": "choice",
+              "content": "一个人行动"
+            },
+            {
+              "id": "step_suzuno_25",
+              "type": "choice",
+              "content": "逃到别的楼层"
+            },
+            {
+              "id": "step_suzuno_26",
+              "type": "choice",
+              "content": "哪个都不选"
+            }
+          ]
+        },
+        {
+          "id": "ending_1784163071172",
+          "name": "Ture",
+          "type": "true",
+          "requirements": "铃乃 END 后选择「Die zukunft hat schon begonnen」开始游戏",
+          "steps": [
+            {
+              "type": "choice",
+              "content": "（源站步骤均为空）"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

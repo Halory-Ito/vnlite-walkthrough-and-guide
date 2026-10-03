@@ -1,0 +1,183 @@
+{
+  "vid": "v38430",
+  "name": {
+    "zh-cn": "GINKA",
+    "en-us": "GINKA",
+    "ja-jp": "GINKA",
+    "ja-Latn": "ginka"
+  },
+  "level": 1,
+  "updatedAt": "2026-02-27",
+  "routes": [
+    {
+      "id": "route_1755265165961",
+      "name": "本篇",
+      "endings": [
+        {
+          "id": "ending_1755265253818",
+          "name": "TRUE END 1",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_1755265262001",
+              "type": "choice",
+              "content": "*狠下决心，认真打扫"
+            },
+            {
+              "id": "step_1755265262303",
+              "type": "choice",
+              "content": "*“要留下一起吃吗？”"
+            },
+            {
+              "id": "step_1755265311274",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1755265313381",
+              "type": "choice",
+              "content": "穿过鸟居"
+            },
+            {
+              "id": "step_1755265313676",
+              "type": "choice",
+              "content": "*是个出众的女孩"
+            },
+            {
+              "id": "step_1755265314106",
+              "type": "choice",
+              "content": "*试着动一下"
+            },
+            {
+              "id": "step_1755265315283",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1755265512939",
+              "type": "choice",
+              "content": "我会挣扎到最后一刻"
+            },
+            {
+              "id": "step_1755265513130",
+              "type": "choice",
+              "content": "*干脆光明磊落地鉴赏"
+            },
+            {
+              "id": "step_1755265515248",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_1755265536789",
+              "type": "choice",
+              "content": "果然还是想留在这里"
+            },
+            {
+              "id": "step_1755265537031",
+              "type": "choice",
+              "content": "*说出实话"
+            }
+          ]
+        },
+        {
+          "id": "ending_1755265605224",
+          "name": "TRUE END 2",
+          "type": "true",
+          "requirements": "TRUE END1后，由标题画面进入[NEXT]篇",
+          "steps": [
+            {
+              "id": "step_1755442050811",
+              "type": "note",
+              "content": "从标题画面进入[NEXT]篇"
+            },
+            {
+              "id": "step_1755265647152",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_1755265657825",
+              "type": "choice",
+              "content": "不实现神明的愿望"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755265165961_1",
+      "name": "BAD END 回收",
+      "endings": [
+        {
+          "id": "ending_1755265668735",
+          "name": "BAD END 1",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_1755265680138",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1755265689173",
+              "type": "choice",
+              "content": "原路折返"
+            }
+          ]
+        },
+        {
+          "id": "ending_1755265736925",
+          "name": "BAD END 2",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_1755265748253",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1755265748802",
+              "type": "choice",
+              "content": "那我宁愿牺牲自己"
+            }
+          ]
+        },
+        {
+          "id": "ending_1755265769279",
+          "name": "BAD END 3",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_1755265788325",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1755265792853",
+              "type": "choice",
+              "content": "明天就拜托你了"
+            }
+          ]
+        },
+        {
+          "id": "ending_1755265773499",
+          "name": "BAD END 4",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_1755265811208",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_1755265811739",
+              "type": "choice",
+              "content": "实现神明的愿望"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

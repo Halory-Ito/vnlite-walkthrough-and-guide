@@ -1,0 +1,102 @@
+{
+  "vid": "v6671",
+  "name": {
+    "zh-cn": "Diamic Days",
+    "ja-jp": "ダイヤミック・デイズ",
+    "ja-Latn": "diamic-days"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-12",
+  "routes": [
+    {
+      "id": "route_1783847203473",
+      "name": "初芝 希沙",
+      "endings": [
+        {
+          "id": "ending_1783847205728",
+          "name": "希沙 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1783847226397",
+              "type": "choice",
+              "content": "想让希沙被原谅"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1783847252933",
+      "name": "姬野川 コトラ",
+      "endings": [
+        {
+          "id": "ending_1783847271992",
+          "name": "コトラ END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1783847295312",
+              "type": "choice",
+              "content": "会是コトラ吗？"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1783847309519",
+      "name": "小星 蓮子",
+      "endings": [
+        {
+          "id": "ending_1783847314246",
+          "name": "蓮子 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1783847323924",
+              "type": "choice",
+              "content": "性格就像小星前辈......"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1783847337541",
+      "name": "篠山 時羽",
+      "endings": [
+        {
+          "id": "ending_1783847341969",
+          "name": "時羽 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1783847362144",
+              "type": "choice",
+              "content": "那样的话应该是時羽吧"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1783847369865",
+      "name": "姫野川 かなか",
+      "endings": [
+        {
+          "id": "ending_1783847380831",
+          "name": "かなか END",
+          "type": "normal",
+          "requirements": "在标题菜单的“Bonus -omake-”中，选择“Ex 场景”开始游戏",
+          "steps": [
+            {
+              "type": "choice",
+              "content": "（源站步骤均为空）"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

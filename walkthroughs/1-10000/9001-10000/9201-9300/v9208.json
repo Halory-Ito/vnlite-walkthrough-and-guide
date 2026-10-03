@@ -1,0 +1,1224 @@
+{
+  "vid": "v9208",
+  "name": {
+    "zh-cn": "少女神域∽少女天狱",
+    "ja-jp": "少女神域∽少女天獄 -The Garden of Fifth Zoa-",
+    "ja-Latn": "shoujo-shiniki-shoujo-tengoku"
+  },
+  "level": 2,
+  "updatedAt": "2026-03-31",
+  "routes": [
+    {
+      "id": "route_dixi",
+      "name": "澳城 迪希",
+      "endings": [
+        {
+          "id": "ending_dixi_end",
+          "name": "迪希 END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_dixi_end_01",
+              "type": "choice",
+              "content": "关于学校的生活"
+            },
+            {
+              "id": "step_dixi_end_02",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_dixi_end_03",
+              "type": "choice",
+              "content": "迪希的事"
+            },
+            {
+              "id": "step_dixi_end_04",
+              "type": "choice",
+              "content": "在观望一段时间"
+            },
+            {
+              "id": "step_dixi_end_05",
+              "type": "choice",
+              "content": "试着移动到迪希附近"
+            },
+            {
+              "id": "step_dixi_end_06",
+              "type": "choice",
+              "content": "去猪肉店【越冢火腿】那边"
+            },
+            {
+              "id": "step_dixi_end_07",
+              "type": "choice",
+              "content": "尝试着和一口特制饮料"
+            },
+            {
+              "id": "step_dixi_end_08",
+              "type": "choice",
+              "content": "开始读新·稜祁家家训第一条"
+            },
+            {
+              "id": "step_dixi_end_09",
+              "type": "choice",
+              "content": "向外远眺欣赏这美"
+            },
+            {
+              "id": "step_dixi_end_10",
+              "type": "choice",
+              "content": "星鸿祭"
+            },
+            {
+              "id": "step_dixi_end_11",
+              "type": "choice",
+              "content": "概括梦见的事"
+            },
+            {
+              "id": "step_dixi_end_12",
+              "type": "choice",
+              "content": "关于午饭的事情"
+            },
+            {
+              "id": "step_dixi_end_13",
+              "type": "choice",
+              "content": "询问巫女要做什么样的事情"
+            },
+            {
+              "id": "step_dixi_end_14",
+              "type": "choice",
+              "content": "就顺便问一问有关于巫女的舞蹈"
+            }
+          ]
+        },
+        {
+          "id": "ending_dixi_end1",
+          "name": "迪希 END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_dixi_end1_01",
+              "type": "choice",
+              "content": "关于学校的生活"
+            },
+            {
+              "id": "step_dixi_end1_02",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_dixi_end1_03",
+              "type": "choice",
+              "content": "迪希的事"
+            },
+            {
+              "id": "step_dixi_end1_04",
+              "type": "choice",
+              "content": "在观望一段时间"
+            },
+            {
+              "id": "step_dixi_end1_05",
+              "type": "choice",
+              "content": "试着移动到迪希附近"
+            },
+            {
+              "id": "step_dixi_end1_06",
+              "type": "choice",
+              "content": "去猪肉店【越冢火腿】那边"
+            },
+            {
+              "id": "step_dixi_end1_07",
+              "type": "choice",
+              "content": "尝试着和一口特制饮料"
+            },
+            {
+              "id": "step_dixi_end1_08",
+              "type": "choice",
+              "content": "开始读新·稜祁家家训第一条"
+            },
+            {
+              "id": "step_dixi_end1_09",
+              "type": "choice",
+              "content": "向外远眺欣赏这美"
+            },
+            {
+              "id": "step_dixi_end1_10",
+              "type": "choice",
+              "content": "星鸿祭"
+            },
+            {
+              "id": "step_dixi_end1_11",
+              "type": "choice",
+              "content": "概括梦见的事"
+            },
+            {
+              "id": "step_dixi_end1_12",
+              "type": "choice",
+              "content": "关于午饭的事情"
+            },
+            {
+              "id": "step_dixi_end1_13",
+              "type": "choice",
+              "content": "询问巫女要做什么样的事情"
+            },
+            {
+              "id": "step_dixi_end1_14",
+              "type": "choice",
+              "content": "就顺便问一问有关于巫女的舞蹈"
+            },
+            {
+              "id": "step_dixi_end1_15",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_dixi_end1_16",
+              "type": "choice",
+              "content": "自己想作为人死去"
+            }
+          ]
+        },
+        {
+          "id": "ending_dixi_bad_end",
+          "name": "迪希 END3",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_dixi_bad_01",
+              "type": "choice",
+              "content": "关于学校的生活"
+            },
+            {
+              "id": "step_dixi_bad_02",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_dixi_bad_03",
+              "type": "choice",
+              "content": "迪希的事"
+            },
+            {
+              "id": "step_dixi_bad_04",
+              "type": "choice",
+              "content": "在观望一段时间"
+            },
+            {
+              "id": "step_dixi_bad_05",
+              "type": "choice",
+              "content": "试着移动到迪希附近"
+            },
+            {
+              "id": "step_dixi_bad_06",
+              "type": "choice",
+              "content": "去猪肉店【越冢火腿】那边"
+            },
+            {
+              "id": "step_dixi_bad_07",
+              "type": "choice",
+              "content": "尝试着和一口特制饮料"
+            },
+            {
+              "id": "step_dixi_bad_08",
+              "type": "choice",
+              "content": "开始读新·稜祁家家训第一条"
+            },
+            {
+              "id": "step_dixi_bad_09",
+              "type": "choice",
+              "content": "向外远眺欣赏这美"
+            },
+            {
+              "id": "step_dixi_bad_10",
+              "type": "choice",
+              "content": "星鸿祭"
+            },
+            {
+              "id": "step_dixi_bad_11",
+              "type": "choice",
+              "content": "概括梦见的事"
+            },
+            {
+              "id": "step_dixi_bad_12",
+              "type": "choice",
+              "content": "关于午饭的事情"
+            },
+            {
+              "id": "step_dixi_bad_13",
+              "type": "choice",
+              "content": "询问巫女要做什么样的事情"
+            },
+            {
+              "id": "step_dixi_bad_14",
+              "type": "choice",
+              "content": "就顺便问一问有关于巫女的舞蹈"
+            },
+            {
+              "id": "step_dixi_bad_15",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_dixi_bad_16",
+              "type": "choice",
+              "content": "我想活下去"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_bizhi",
+      "name": "垄峯 碧织",
+      "endings": [
+        {
+          "id": "ending_bizhi_end",
+          "name": "碧织 END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_bizhi_end_01",
+              "type": "choice",
+              "content": "关于祭典的准备"
+            },
+            {
+              "id": "step_bizhi_end_02",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_bizhi_end_03",
+              "type": "choice",
+              "content": "碧织的事"
+            },
+            {
+              "id": "step_bizhi_end_04",
+              "type": "choice",
+              "content": "在观望一段时间"
+            },
+            {
+              "id": "step_bizhi_end_05",
+              "type": "choice",
+              "content": "试着移动到碧织附近"
+            },
+            {
+              "id": "step_bizhi_end_06",
+              "type": "choice",
+              "content": "去鲜鱼店【采茶庵】那边"
+            },
+            {
+              "id": "step_bizhi_end_07",
+              "type": "choice",
+              "content": "尝试着喝一口特制饮料"
+            },
+            {
+              "id": "step_bizhi_end_08",
+              "type": "choice",
+              "content": "开始读新·稜祁家家训第二条"
+            },
+            {
+              "id": "step_bizhi_end_09",
+              "type": "choice",
+              "content": "向外远眺欣赏这美"
+            },
+            {
+              "id": "step_bizhi_end_10",
+              "type": "choice",
+              "content": "星鸿祭"
+            },
+            {
+              "id": "step_bizhi_end_11",
+              "type": "choice",
+              "content": "概括梦见的事"
+            },
+            {
+              "id": "step_bizhi_end_12",
+              "type": "choice",
+              "content": "关于午饭的事情"
+            },
+            {
+              "id": "step_bizhi_end_13",
+              "type": "choice",
+              "content": "询问巫女要做什么样的事情"
+            },
+            {
+              "id": "step_bizhi_end_14",
+              "type": "choice",
+              "content": "就顺便问一问有关于巫女的舞蹈"
+            },
+            {
+              "id": "step_bizhi_end_15",
+              "type": "choice",
+              "content": "碧织的事",
+              "prefix": "--"
+            },
+            {
+              "id": "step_bizhi_end_16",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_bizhi_end_17",
+              "type": "choice",
+              "content": "我要离开她"
+            }
+          ]
+        },
+        {
+          "id": "ending_bizhi_bad_end",
+          "name": "碧织 END2",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_bizhi_bad_01",
+              "type": "choice",
+              "content": "关于祭典的准备"
+            },
+            {
+              "id": "step_bizhi_bad_02",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_bizhi_bad_03",
+              "type": "choice",
+              "content": "碧织的事"
+            },
+            {
+              "id": "step_bizhi_bad_04",
+              "type": "choice",
+              "content": "在观望一段时间"
+            },
+            {
+              "id": "step_bizhi_bad_05",
+              "type": "choice",
+              "content": "试着移动到碧织附近"
+            },
+            {
+              "id": "step_bizhi_bad_06",
+              "type": "choice",
+              "content": "去鲜鱼店【采茶庵】那边"
+            },
+            {
+              "id": "step_bizhi_bad_07",
+              "type": "choice",
+              "content": "尝试着喝一口特制饮料"
+            },
+            {
+              "id": "step_bizhi_bad_08",
+              "type": "choice",
+              "content": "开始读新·稜祁家家训第二条"
+            },
+            {
+              "id": "step_bizhi_bad_09",
+              "type": "choice",
+              "content": "向外远眺欣赏这美"
+            },
+            {
+              "id": "step_bizhi_bad_10",
+              "type": "choice",
+              "content": "星鸿祭"
+            },
+            {
+              "id": "step_bizhi_bad_11",
+              "type": "choice",
+              "content": "概括梦见的事"
+            },
+            {
+              "id": "step_bizhi_bad_12",
+              "type": "choice",
+              "content": "关于午饭的事情"
+            },
+            {
+              "id": "step_bizhi_bad_13",
+              "type": "choice",
+              "content": "询问巫女要做什么样的事情"
+            },
+            {
+              "id": "step_bizhi_bad_14",
+              "type": "choice",
+              "content": "就顺便问一问有关于巫女的舞蹈"
+            },
+            {
+              "id": "step_bizhi_bad_15",
+              "type": "choice",
+              "content": "碧织的事",
+              "prefix": "--"
+            },
+            {
+              "id": "step_bizhi_bad_16",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_bizhi_bad_17",
+              "type": "choice",
+              "content": "我将她抱住"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_airi",
+      "name": "道陵 爱莉",
+      "endings": [
+        {
+          "id": "ending_airi_end",
+          "name": "爱莉 END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_airi_end_01",
+              "type": "choice",
+              "content": "关于祭典的准备"
+            },
+            {
+              "id": "step_airi_end_02",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_airi_end_03",
+              "type": "choice",
+              "content": "爱莉的事"
+            },
+            {
+              "id": "step_airi_end_04",
+              "type": "choice",
+              "content": "这情况下，还是起床吧"
+            },
+            {
+              "id": "step_airi_end_05",
+              "type": "choice",
+              "content": "试着移动到祥那附近"
+            },
+            {
+              "id": "step_airi_end_06",
+              "type": "choice",
+              "content": "去青果店【三步蛙】那边"
+            },
+            {
+              "id": "step_airi_end_07",
+              "type": "choice",
+              "content": "不，的赶快准备咖啡才行"
+            },
+            {
+              "id": "step_airi_end_08",
+              "type": "choice",
+              "content": "开始读新·稜祁家家训第三条"
+            },
+            {
+              "id": "step_airi_end_09",
+              "type": "choice",
+              "content": "远眺之时忆起往昔"
+            },
+            {
+              "id": "step_airi_end_10",
+              "type": "choice",
+              "content": "道陵老师"
+            },
+            {
+              "id": "step_airi_end_11",
+              "type": "choice",
+              "content": "更多关于道陵老师的事"
+            },
+            {
+              "id": "step_airi_end_12",
+              "type": "choice",
+              "content": "说出确信的事"
+            },
+            {
+              "id": "step_airi_end_13",
+              "type": "choice",
+              "content": "询问菩乃花的意见"
+            },
+            {
+              "id": "step_airi_end_14",
+              "type": "choice",
+              "content": "关于祥那她们的事情"
+            },
+            {
+              "id": "step_airi_end_15",
+              "type": "choice",
+              "content": "询问祥那今天的感想"
+            },
+            {
+              "id": "step_airi_end_16",
+              "type": "choice",
+              "content": "爱莉",
+              "prefix": "--"
+            },
+            {
+              "id": "step_airi_end_17",
+              "type": "save",
+              "content": "SAVE 5"
+            },
+            {
+              "id": "step_airi_end_18",
+              "type": "choice",
+              "content": "我紧握着剑"
+            }
+          ]
+        },
+        {
+          "id": "ending_airi_bad_end",
+          "name": "爱莉 END2",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_airi_bad_01",
+              "type": "choice",
+              "content": "关于祭典的准备"
+            },
+            {
+              "id": "step_airi_bad_02",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_airi_bad_03",
+              "type": "choice",
+              "content": "爱莉的事"
+            },
+            {
+              "id": "step_airi_bad_04",
+              "type": "choice",
+              "content": "这情况下，还是起床吧"
+            },
+            {
+              "id": "step_airi_bad_05",
+              "type": "choice",
+              "content": "试着移动到祥那附近"
+            },
+            {
+              "id": "step_airi_bad_06",
+              "type": "choice",
+              "content": "去青果店【三步蛙】那边"
+            },
+            {
+              "id": "step_airi_bad_07",
+              "type": "choice",
+              "content": "不，的赶快准备咖啡才行"
+            },
+            {
+              "id": "step_airi_bad_08",
+              "type": "choice",
+              "content": "开始读新·稜祁家家训第三条"
+            },
+            {
+              "id": "step_airi_bad_09",
+              "type": "choice",
+              "content": "远眺之时忆起往昔"
+            },
+            {
+              "id": "step_airi_bad_10",
+              "type": "choice",
+              "content": "道陵老师"
+            },
+            {
+              "id": "step_airi_bad_11",
+              "type": "choice",
+              "content": "更多关于道陵老师的事"
+            },
+            {
+              "id": "step_airi_bad_12",
+              "type": "choice",
+              "content": "说出确信的事"
+            },
+            {
+              "id": "step_airi_bad_13",
+              "type": "choice",
+              "content": "询问菩乃花的意见"
+            },
+            {
+              "id": "step_airi_bad_14",
+              "type": "choice",
+              "content": "关于祥那她们的事情"
+            },
+            {
+              "id": "step_airi_bad_15",
+              "type": "choice",
+              "content": "询问祥那今天的感想"
+            },
+            {
+              "id": "step_airi_bad_16",
+              "type": "choice",
+              "content": "爱莉",
+              "prefix": "--"
+            },
+            {
+              "id": "step_airi_bad_17",
+              "type": "load",
+              "content": "LOAD 5"
+            },
+            {
+              "id": "step_airi_bad_18",
+              "type": "choice",
+              "content": "想要保护她"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_xiangna",
+      "name": "稜祁 祥那",
+      "endings": [
+        {
+          "id": "ending_xiangna_end",
+          "name": "祥那 END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_xiangna_end_01",
+              "type": "choice",
+              "content": "关于祭典的准备"
+            },
+            {
+              "id": "step_xiangna_end_02",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_xiangna_end_03",
+              "type": "choice",
+              "content": "祥那的事"
+            },
+            {
+              "id": "step_xiangna_end_04",
+              "type": "choice",
+              "content": "这情况下，还是起床吧"
+            },
+            {
+              "id": "step_xiangna_end_05",
+              "type": "choice",
+              "content": "试着移动到祥那附近"
+            },
+            {
+              "id": "step_xiangna_end_06",
+              "type": "choice",
+              "content": "去青果店【三步蛙】那边"
+            },
+            {
+              "id": "step_xiangna_end_07",
+              "type": "choice",
+              "content": "不，的赶快准备咖啡才行"
+            },
+            {
+              "id": "step_xiangna_end_08",
+              "type": "choice",
+              "content": "开始读新·稜祁家家训第四条"
+            },
+            {
+              "id": "step_xiangna_end_09",
+              "type": "choice",
+              "content": "远眺之时忆起往昔"
+            },
+            {
+              "id": "step_xiangna_end_10",
+              "type": "choice",
+              "content": "星鸿祭"
+            },
+            {
+              "id": "step_xiangna_end_11",
+              "type": "choice",
+              "content": "说出确信的事"
+            },
+            {
+              "id": "step_xiangna_end_12",
+              "type": "choice",
+              "content": "询问菩乃花的意见"
+            },
+            {
+              "id": "step_xiangna_end_13",
+              "type": "choice",
+              "content": "关于祥那她们的事情"
+            },
+            {
+              "id": "step_xiangna_end_14",
+              "type": "choice",
+              "content": "询问祥那今天的感想"
+            },
+            {
+              "id": "step_xiangna_end_15",
+              "type": "choice",
+              "content": "祥那",
+              "prefix": "--"
+            },
+            {
+              "id": "step_xiangna_end_16",
+              "type": "save",
+              "content": "SAVE 6"
+            },
+            {
+              "id": "step_xiangna_end_17",
+              "type": "choice",
+              "content": "努力保持理性"
+            },
+            {
+              "id": "step_xiangna_end_18",
+              "type": "save",
+              "content": "SAVE 7"
+            },
+            {
+              "id": "step_xiangna_end_19",
+              "type": "choice",
+              "content": "保持理性"
+            },
+            {
+              "id": "step_xiangna_end_20",
+              "type": "save",
+              "content": "SAVE 8"
+            },
+            {
+              "id": "step_xiangna_end_21",
+              "type": "choice",
+              "content": "全力保持住理性"
+            },
+            {
+              "id": "step_xiangna_end_22",
+              "type": "save",
+              "content": "SAVE 9"
+            },
+            {
+              "id": "step_xiangna_end_23",
+              "type": "choice",
+              "content": "忆起父亲的梦"
+            }
+          ]
+        },
+        {
+          "id": "ending_xiangna_bad_end1",
+          "name": "祥那 END2",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_xiangna_bad1_01",
+              "type": "choice",
+              "content": "关于祭典的准备"
+            },
+            {
+              "id": "step_xiangna_bad1_02",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_xiangna_bad1_03",
+              "type": "choice",
+              "content": "祥那的事"
+            },
+            {
+              "id": "step_xiangna_bad1_04",
+              "type": "choice",
+              "content": "这情况下，还是起床吧"
+            },
+            {
+              "id": "step_xiangna_bad1_05",
+              "type": "choice",
+              "content": "试着移动到祥那附近"
+            },
+            {
+              "id": "step_xiangna_bad1_06",
+              "type": "choice",
+              "content": "去青果店【三步蛙】那边"
+            },
+            {
+              "id": "step_xiangna_bad1_07",
+              "type": "choice",
+              "content": "不，的赶快准备咖啡才行"
+            },
+            {
+              "id": "step_xiangna_bad1_08",
+              "type": "choice",
+              "content": "开始读新·稜祁家家训第四条"
+            },
+            {
+              "id": "step_xiangna_bad1_09",
+              "type": "choice",
+              "content": "远眺之时忆起往昔"
+            },
+            {
+              "id": "step_xiangna_bad1_10",
+              "type": "choice",
+              "content": "星鸿祭"
+            },
+            {
+              "id": "step_xiangna_bad1_11",
+              "type": "choice",
+              "content": "说出确信的事"
+            },
+            {
+              "id": "step_xiangna_bad1_12",
+              "type": "choice",
+              "content": "询问菩乃花的意见"
+            },
+            {
+              "id": "step_xiangna_bad1_13",
+              "type": "choice",
+              "content": "关于祥那她们的事情"
+            },
+            {
+              "id": "step_xiangna_bad1_14",
+              "type": "choice",
+              "content": "询问祥那今天的感想"
+            },
+            {
+              "id": "step_xiangna_bad1_15",
+              "type": "choice",
+              "content": "祥那",
+              "prefix": "--"
+            },
+            {
+              "id": "step_xiangna_bad1_16",
+              "type": "load",
+              "content": "LOAD 6"
+            },
+            {
+              "id": "step_xiangna_bad1_17",
+              "type": "choice",
+              "content": "向祥那伸出手"
+            }
+          ]
+        },
+        {
+          "id": "ending_xiangna_bad_end2",
+          "name": "祥那 END3",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_xiangna_bad2_01",
+              "type": "choice",
+              "content": "关于祭典的准备"
+            },
+            {
+              "id": "step_xiangna_bad2_02",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_xiangna_bad2_03",
+              "type": "choice",
+              "content": "祥那的事"
+            },
+            {
+              "id": "step_xiangna_bad2_04",
+              "type": "choice",
+              "content": "这情况下，还是起床吧"
+            },
+            {
+              "id": "step_xiangna_bad2_05",
+              "type": "choice",
+              "content": "试着移动到祥那附近"
+            },
+            {
+              "id": "step_xiangna_bad2_06",
+              "type": "choice",
+              "content": "去青果店【三步蛙】那边"
+            },
+            {
+              "id": "step_xiangna_bad2_07",
+              "type": "choice",
+              "content": "不，的赶快准备咖啡才行"
+            },
+            {
+              "id": "step_xiangna_bad2_08",
+              "type": "choice",
+              "content": "开始读新·稜祁家家训第四条"
+            },
+            {
+              "id": "step_xiangna_bad2_09",
+              "type": "choice",
+              "content": "远眺之时忆起往昔"
+            },
+            {
+              "id": "step_xiangna_bad2_10",
+              "type": "choice",
+              "content": "星鸿祭"
+            },
+            {
+              "id": "step_xiangna_bad2_11",
+              "type": "choice",
+              "content": "说出确信的事"
+            },
+            {
+              "id": "step_xiangna_bad2_12",
+              "type": "choice",
+              "content": "询问菩乃花的意见"
+            },
+            {
+              "id": "step_xiangna_bad2_13",
+              "type": "choice",
+              "content": "关于祥那她们的事情"
+            },
+            {
+              "id": "step_xiangna_bad2_14",
+              "type": "choice",
+              "content": "询问祥那今天的感想"
+            },
+            {
+              "id": "step_xiangna_bad2_15",
+              "type": "choice",
+              "content": "祥那",
+              "prefix": "--"
+            },
+            {
+              "id": "step_xiangna_bad2_16",
+              "type": "save",
+              "content": "SAVE 6"
+            },
+            {
+              "id": "step_xiangna_bad2_17",
+              "type": "choice",
+              "content": "努力保持理性"
+            },
+            {
+              "id": "step_xiangna_bad2_18",
+              "type": "load",
+              "content": "LOAD 7"
+            },
+            {
+              "id": "step_xiangna_bad2_19",
+              "type": "choice",
+              "content": "顺从本能"
+            }
+          ]
+        },
+        {
+          "id": "ending_xiangna_bad_end3",
+          "name": "祥那 END4",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_xiangna_bad3_01",
+              "type": "choice",
+              "content": "关于祭典的准备"
+            },
+            {
+              "id": "step_xiangna_bad3_02",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_xiangna_bad3_03",
+              "type": "choice",
+              "content": "祥那的事"
+            },
+            {
+              "id": "step_xiangna_bad3_04",
+              "type": "choice",
+              "content": "这情况下，还是起床吧"
+            },
+            {
+              "id": "step_xiangna_bad3_05",
+              "type": "choice",
+              "content": "试着移动到祥那附近"
+            },
+            {
+              "id": "step_xiangna_bad3_06",
+              "type": "choice",
+              "content": "去青果店【三步蛙】那边"
+            },
+            {
+              "id": "step_xiangna_bad3_07",
+              "type": "choice",
+              "content": "不，的赶快准备咖啡才行"
+            },
+            {
+              "id": "step_xiangna_bad3_08",
+              "type": "choice",
+              "content": "开始读新·稜祁家家训第四条"
+            },
+            {
+              "id": "step_xiangna_bad3_09",
+              "type": "choice",
+              "content": "远眺之时忆起往昔"
+            },
+            {
+              "id": "step_xiangna_bad3_10",
+              "type": "choice",
+              "content": "星鸿祭"
+            },
+            {
+              "id": "step_xiangna_bad3_11",
+              "type": "choice",
+              "content": "说出确信的事"
+            },
+            {
+              "id": "step_xiangna_bad3_12",
+              "type": "choice",
+              "content": "询问菩乃花的意见"
+            },
+            {
+              "id": "step_xiangna_bad3_13",
+              "type": "choice",
+              "content": "关于祥那她们的事情"
+            },
+            {
+              "id": "step_xiangna_bad3_14",
+              "type": "choice",
+              "content": "询问祥那今天的感想"
+            },
+            {
+              "id": "step_xiangna_bad3_15",
+              "type": "choice",
+              "content": "祥那",
+              "prefix": "--"
+            },
+            {
+              "id": "step_xiangna_bad3_16",
+              "type": "save",
+              "content": "SAVE 6"
+            },
+            {
+              "id": "step_xiangna_bad3_17",
+              "type": "choice",
+              "content": "努力保持理性"
+            },
+            {
+              "id": "step_xiangna_bad3_18",
+              "type": "save",
+              "content": "SAVE 7"
+            },
+            {
+              "id": "step_xiangna_bad3_19",
+              "type": "choice",
+              "content": "保持理性"
+            },
+            {
+              "id": "step_xiangna_bad3_20",
+              "type": "load",
+              "content": "LOAD 8"
+            },
+            {
+              "id": "step_xiangna_bad3_21",
+              "type": "choice",
+              "content": "将手伸向了祥那"
+            }
+          ]
+        },
+        {
+          "id": "ending_xiangna_bad_end4",
+          "name": "祥那 END5",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_xiangna_bad4_01",
+              "type": "choice",
+              "content": "关于祭典的准备"
+            },
+            {
+              "id": "step_xiangna_bad4_02",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_xiangna_bad4_03",
+              "type": "choice",
+              "content": "祥那的事"
+            },
+            {
+              "id": "step_xiangna_bad4_04",
+              "type": "choice",
+              "content": "这情况下，还是起床吧"
+            },
+            {
+              "id": "step_xiangna_bad4_05",
+              "type": "choice",
+              "content": "试着移动到祥那附近"
+            },
+            {
+              "id": "step_xiangna_bad4_06",
+              "type": "choice",
+              "content": "去青果店【三步蛙】那边"
+            },
+            {
+              "id": "step_xiangna_bad4_07",
+              "type": "choice",
+              "content": "不，的赶快准备咖啡才行"
+            },
+            {
+              "id": "step_xiangna_bad4_08",
+              "type": "choice",
+              "content": "开始读新·稜祁家家训第四条"
+            },
+            {
+              "id": "step_xiangna_bad4_09",
+              "type": "choice",
+              "content": "远眺之时忆起往昔"
+            },
+            {
+              "id": "step_xiangna_bad4_10",
+              "type": "choice",
+              "content": "星鸿祭"
+            },
+            {
+              "id": "step_xiangna_bad4_11",
+              "type": "choice",
+              "content": "说出确信的事"
+            },
+            {
+              "id": "step_xiangna_bad4_12",
+              "type": "choice",
+              "content": "询问菩乃花的意见"
+            },
+            {
+              "id": "step_xiangna_bad4_13",
+              "type": "choice",
+              "content": "关于祥那她们的事情"
+            },
+            {
+              "id": "step_xiangna_bad4_14",
+              "type": "choice",
+              "content": "询问祥那今天的感想"
+            },
+            {
+              "id": "step_xiangna_bad4_15",
+              "type": "choice",
+              "content": "祥那",
+              "prefix": "--"
+            },
+            {
+              "id": "step_xiangna_bad4_16",
+              "type": "save",
+              "content": "SAVE 6"
+            },
+            {
+              "id": "step_xiangna_bad4_17",
+              "type": "choice",
+              "content": "努力保持理性"
+            },
+            {
+              "id": "step_xiangna_bad4_18",
+              "type": "save",
+              "content": "SAVE 7"
+            },
+            {
+              "id": "step_xiangna_bad4_19",
+              "type": "choice",
+              "content": "保持理性"
+            },
+            {
+              "id": "step_xiangna_bad4_20",
+              "type": "save",
+              "content": "SAVE 8"
+            },
+            {
+              "id": "step_xiangna_bad4_21",
+              "type": "choice",
+              "content": "全力保持住理性"
+            },
+            {
+              "id": "step_xiangna_bad4_22",
+              "type": "load",
+              "content": "LOAD 9"
+            },
+            {
+              "id": "step_xiangna_bad4_23",
+              "type": "choice",
+              "content": "我想要救祥那"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

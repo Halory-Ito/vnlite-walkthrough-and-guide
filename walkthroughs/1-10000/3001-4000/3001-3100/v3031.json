@@ -1,0 +1,46 @@
+{
+  "vid": "v3031",
+  "name": {
+    "zh-cn": "花吻在上甜蜜相思的融化之吻",
+    "en-us": "A Kiss For The Petals - Sweet Enchanting Kisses",
+    "ja-jp": "その花びらにくちづけを　あまくてほしくてとろけるちゅう",
+    "ja-Latn": "sono-hanabira-ni-kuchizuke-o-amakute-hoshikute-torokeru-chuu"
+  },
+  "level": 2,
+  "updatedAt": "2026-05-07",
+  "routes": [
+    {
+      "id": "route_1778151775013",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1778151781677",
+          "name": "END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1778151789075",
+              "type": "choice",
+              "content": "让蓬莱泉同学自己说明"
+            },
+            {
+              "id": "step_1778151789303",
+              "type": "choice",
+              "content": "没关系"
+            },
+            {
+              "id": "step_1778151789532",
+              "type": "choice",
+              "content": "不久就会觉得美味了"
+            },
+            {
+              "id": "step_1778151790480",
+              "type": "choice",
+              "content": "舔"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

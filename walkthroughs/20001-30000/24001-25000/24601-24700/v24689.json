@@ -1,0 +1,548 @@
+{
+  "vid": "v24689",
+  "name": {
+    "zh-cn": "见习恋人",
+    "en-us": "Study § Steady",
+    "ja-jp": "スタディ§ステディ",
+    "ja-Latn": "study-steady"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-16",
+  "tips": [
+    "★是 的选项处可以阅读游戏精装版附带的情书"
+  ],
+  "routes": [
+    {
+      "id": "route_kurumiya_nanoka",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_nanoka_end1",
+          "name": "奈乃香 END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_nanoka_01",
+              "type": "choice",
+              "content": "剑道"
+            },
+            {
+              "id": "step_nanoka_02",
+              "type": "choice",
+              "content": "帮忙"
+            },
+            {
+              "id": "step_nanoka_04",
+              "type": "choice",
+              "content": "带她出来"
+            },
+            {
+              "id": "step_nanoka_05",
+              "type": "choice",
+              "content": "帮忙"
+            },
+            {
+              "id": "step_nanoka_06",
+              "type": "choice",
+              "content": "支援就拜托你了"
+            },
+            {
+              "id": "step_nanoka_07",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_nanoka_08",
+              "type": "note",
+              "content": "来宫 奈乃香│宠物商店",
+              "prefix": "■"
+            },
+            {
+              "id": "step_nanoka_09",
+              "type": "note",
+              "content": "来宫 奈乃香│通学路",
+              "prefix": "■"
+            },
+            {
+              "id": "step_nanoka_10",
+              "type": "note",
+              "content": "来宫 奈乃香│学園",
+              "prefix": "■"
+            },
+            {
+              "id": "step_nanoka_11",
+              "type": "note",
+              "content": "来宫 奈乃香│商店街",
+              "prefix": "■"
+            },
+            {
+              "id": "step_nanoka_12",
+              "type": "choice",
+              "content": "是",
+              "prefix": "★"
+            },
+            {
+              "id": "step_nanoka_13",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_nanoka_14",
+              "type": "choice",
+              "content": "真想一饱眼福"
+            },
+            {
+              "id": "step_nanoka_15",
+              "type": "choice",
+              "content": "选侧马尾"
+            },
+            {
+              "id": "step_nanoka_16",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_nanoka_17",
+              "type": "choice",
+              "content": "要为了一同成为兽医而努力"
+            }
+          ]
+        },
+        {
+          "id": "ending_nanoka_end2",
+          "name": "奈乃香 END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_nanoka_end2_01",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_nanoka_end2_02",
+              "type": "choice",
+              "content": "会用自己的方法支持她"
+            }
+          ]
+        },
+        {
+          "id": "ending_nanoka_branch1_end",
+          "name": "奈乃香分支1 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_nanoka_branch1_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_nanoka_branch1_02",
+              "type": "choice",
+              "content": "还是竞速泳衣好"
+            },
+            {
+              "id": "step_nanoka_branch1_03",
+              "type": "choice",
+              "content": "选双马尾"
+            },
+            {
+              "id": "step_nanoka_branch1_04",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_nanoka_branch1_05",
+              "type": "choice",
+              "content": "要为了一同成为兽医而努力"
+            }
+          ]
+        },
+        {
+          "id": "ending_nanoka_branch2_end",
+          "name": "奈乃香分支2 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_nanoka_branch2_01",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_nanoka_branch2_02",
+              "type": "choice",
+              "content": "会用自己的方法支持她"
+            }
+          ]
+        },
+        {
+          "id": "ending_yuu_end1",
+          "name": "悠羽 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_yuu_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_yuu_02",
+              "type": "choice",
+              "content": "御前崎 悠羽│雑貨屋",
+              "prefix": "■"
+            },
+            {
+              "id": "step_yuu_03",
+              "type": "choice",
+              "content": "御前崎 悠羽│公園",
+              "prefix": "■"
+            },
+            {
+              "id": "step_yuu_05",
+              "type": "choice",
+              "content": "御前崎 悠羽│上学路",
+              "prefix": "■"
+            },
+            {
+              "id": "step_yuu_06",
+              "type": "choice",
+              "content": "是",
+              "prefix": "★"
+            },
+            {
+              "id": "step_yuu_07",
+              "type": "save",
+              "content": "SAVE 5"
+            },
+            {
+              "id": "step_yuu_08",
+              "type": "choice",
+              "content": "麻烦穿比基尼吧"
+            },
+            {
+              "id": "step_yuu_09",
+              "type": "choice",
+              "content": "还是散发黑长直好"
+            },
+            {
+              "id": "step_yuu_10",
+              "type": "save",
+              "content": "SAVE 6"
+            },
+            {
+              "id": "step_yuu_11",
+              "type": "choice",
+              "content": "要娶你回家"
+            }
+          ]
+        },
+        {
+          "id": "ending_yuu_end2",
+          "name": "悠羽 END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_yuu_end2_01",
+              "type": "load",
+              "content": "LOAD 6"
+            },
+            {
+              "id": "step_yuu_end2_02",
+              "type": "choice",
+              "content": "目标是考上同一所大学"
+            }
+          ]
+        },
+        {
+          "id": "ending_yuu_branch1_end",
+          "name": "悠羽分支1 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_yuu_branch1_01",
+              "type": "load",
+              "content": "LOAD 5"
+            },
+            {
+              "id": "step_yuu_branch1_02",
+              "type": "choice",
+              "content": "麻烦穿竞速泳衣吧"
+            },
+            {
+              "id": "step_yuu_branch1_03",
+              "type": "choice",
+              "content": "还是马尾辫好"
+            },
+            {
+              "id": "step_yuu_branch1_04",
+              "type": "save",
+              "content": "SAVE 7"
+            },
+            {
+              "id": "step_yuu_branch1_05",
+              "type": "choice",
+              "content": "要娶你回家"
+            }
+          ]
+        },
+        {
+          "id": "ending_yuu_branch2_end",
+          "name": "悠羽分支2 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_yuu_branch2_01",
+              "type": "load",
+              "content": "LOAD 7"
+            },
+            {
+              "id": "step_yuu_branch2_02",
+              "type": "choice",
+              "content": "目标是考上同一所大学"
+            }
+          ]
+        },
+        {
+          "id": "ending_mai_end1",
+          "name": "茉衣 END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_mai_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_mai_02",
+              "type": "choice",
+              "content": "舞阪 茉衣│蛋糕店",
+              "prefix": "■"
+            },
+            {
+              "id": "step_mai_03",
+              "type": "choice",
+              "content": "舞阪 茉衣│学園",
+              "prefix": "■"
+            },
+            {
+              "id": "step_mai_04",
+              "type": "choice",
+              "content": "舞阪 茉衣│商店街",
+              "prefix": "■"
+            },
+            {
+              "id": "step_mai_05",
+              "type": "choice",
+              "content": "舞阪 茉衣│学園",
+              "prefix": "■"
+            },
+            {
+              "id": "step_mai_06",
+              "type": "choice",
+              "content": "是",
+              "prefix": "★"
+            },
+            {
+              "id": "step_mai_07",
+              "type": "save",
+              "content": "SAVE 8"
+            },
+            {
+              "id": "step_mai_08",
+              "type": "choice",
+              "content": "条纹"
+            },
+            {
+              "id": "step_mai_09",
+              "type": "save",
+              "content": "SAVE 9"
+            },
+            {
+              "id": "step_mai_10",
+              "type": "choice",
+              "content": "同居吧"
+            },
+            {
+              "id": "step_mai_11",
+              "type": "save",
+              "content": "SAVE 10"
+            },
+            {
+              "id": "step_mai_12",
+              "type": "choice",
+              "content": "现在的发型"
+            }
+          ]
+        },
+        {
+          "id": "ending_mai_end2",
+          "name": "茉衣 END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_mai_end2_01",
+              "type": "load",
+              "content": "LOAD 9"
+            },
+            {
+              "id": "step_mai_end2_02",
+              "type": "choice",
+              "content": "哪怕拉开了距离，不过心中有爱就没问题"
+            },
+            {
+              "id": "step_mai_end2_03",
+              "type": "save",
+              "content": "SAVE 11"
+            },
+            {
+              "id": "step_mai_end2_04",
+              "type": "choice",
+              "content": "现在的发型"
+            }
+          ]
+        },
+        {
+          "id": "ending_mai_branch1_end",
+          "name": "茉衣分支1 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_mai_branch1_01",
+              "type": "load",
+              "content": "LOAD 8"
+            },
+            {
+              "id": "step_mai_branch1_02",
+              "type": "choice",
+              "content": "黑色蕾丝"
+            }
+          ]
+        },
+        {
+          "id": "ending_mai_branch2_end",
+          "name": "茉衣分支2 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_mai_branch2_01",
+              "type": "load",
+              "content": "LOAD 8"
+            },
+            {
+              "id": "step_mai_branch2_02",
+              "type": "choice",
+              "content": "开洞的"
+            }
+          ]
+        },
+        {
+          "id": "ending_mai_branch3_end",
+          "name": "茉衣分支3 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_mai_branch3_01",
+              "type": "load",
+              "content": "LOAD 10"
+            },
+            {
+              "id": "step_mai_branch3_02",
+              "type": "choice",
+              "content": "双马尾"
+            }
+          ]
+        },
+        {
+          "id": "ending_mai_branch4_end",
+          "name": "茉衣分支4 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_mai_branch4_01",
+              "type": "load",
+              "content": "LOAD 11"
+            },
+            {
+              "id": "step_mai_branch4_02",
+              "type": "choice",
+              "content": "双马尾"
+            }
+          ]
+        },
+        {
+          "id": "ending_hazuki_end1",
+          "name": "叶月 END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_hazuki_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_hazuki_02",
+              "type": "note",
+              "content": "挂川 叶月│游戏中心",
+              "prefix": "■"
+            },
+            {
+              "id": "step_hazuki_03",
+              "type": "note",
+              "content": "挂川 叶月│商店街",
+              "prefix": "■"
+            },
+            {
+              "id": "step_hazuki_04",
+              "type": "note",
+              "content": "挂川 叶月│上学路",
+              "prefix": "■"
+            },
+            {
+              "id": "step_hazuki_05",
+              "type": "note",
+              "content": "挂川 叶月│公園",
+              "prefix": "■"
+            },
+            {
+              "id": "step_hazuki_06",
+              "type": "choice",
+              "content": "是",
+              "prefix": "★"
+            },
+            {
+              "id": "step_hazuki_07",
+              "type": "choice",
+              "content": "相信叶月选『萨赫蛋糕』"
+            },
+            {
+              "id": "step_hazuki_08",
+              "type": "save",
+              "content": "SAVE 12"
+            },
+            {
+              "id": "step_hazuki_09",
+              "type": "choice",
+              "content": "怀上也好！"
+            }
+          ]
+        },
+        {
+          "id": "ending_hazuki_end2",
+          "name": "叶月 END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_hazuki_end2_01",
+              "type": "load",
+              "content": "LOAD 12"
+            },
+            {
+              "id": "step_hazuki_end2_02",
+              "type": "choice",
+              "content": "还是得有点计划"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

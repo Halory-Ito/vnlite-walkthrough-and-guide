@@ -1,0 +1,401 @@
+{
+  "vid": "v689",
+  "name": {
+    "zh-cn": "MagusTale~世界树与恋爱的魔法使~",
+    "ja-jp": "MagusTale ～世界樹と恋する魔法使い～",
+    "ja-Latn": "magus-tale-sekaiju-to-koisuru-mahoutsukai"
+  },
+  "level": 2,
+  "updatedAt": "2026-05-07",
+  "routes": [
+    {
+      "id": "route_game",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_alicia",
+          "name": "艾莉西亚 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_alicia_01",
+              "type": "choice",
+              "content": "看星莱",
+              "group": "11月29日"
+            },
+            {
+              "id": "step_alicia_02",
+              "type": "save",
+              "content": "SAVE 1",
+              "group": "12月1日"
+            },
+            {
+              "id": "step_alicia_03",
+              "type": "choice",
+              "content": "恭敬不如从命",
+              "subfix": "CG回收",
+              "group": "12月1日"
+            },
+            {
+              "id": "step_alicia_04",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_alicia_05",
+              "type": "choice",
+              "content": "还是算了",
+              "group": "12月1日"
+            },
+            {
+              "id": "step_alicia_06",
+              "type": "choice",
+              "content": "去观测台",
+              "group": "12月1日"
+            },
+            {
+              "id": "step_alicia_07",
+              "type": "save",
+              "content": "SAVE 2",
+              "group": "12月2日"
+            },
+            {
+              "id": "step_alicia_08",
+              "type": "choice",
+              "content": "阿鲁贝鲁特？",
+              "group": "12月2日"
+            },
+            {
+              "id": "step_alicia_09",
+              "type": "load",
+              "content": "LOAD 2",
+              "subfix": "CG回收",
+              "group": "12月2日"
+            },
+            {
+              "id": "step_alicia_10",
+              "type": "choice",
+              "content": "雨声？",
+              "group": "12月2日"
+            },
+            {
+              "id": "step_alicia_11",
+              "type": "choice",
+              "content": "荒无人烟的森林？",
+              "group": "12月3日"
+            },
+            {
+              "id": "step_alicia_12",
+              "type": "save",
+              "content": "SAVE 3",
+              "group": "12月6日"
+            },
+            {
+              "id": "step_alicia_13",
+              "type": "choice",
+              "content": "去组队考试那边帮忙",
+              "subfix": "CG回收",
+              "group": "12月6日"
+            },
+            {
+              "id": "step_alicia_14",
+              "type": "choice",
+              "content": "去下级生那边",
+              "subfix": "CG回收",
+              "group": "12月6日"
+            },
+            {
+              "id": "step_alicia_15",
+              "type": "choice",
+              "content": "不，应该公私分明",
+              "subfix": "CG回收",
+              "group": "12月6日"
+            },
+            {
+              "id": "step_alicia_16",
+              "type": "load",
+              "content": "LOAD 3",
+              "group": "12月6日"
+            },
+            {
+              "id": "step_alicia_17",
+              "type": "choice",
+              "content": "去个人考试那边帮忙",
+              "group": "12月6日"
+            },
+            {
+              "id": "step_alicia_18",
+              "type": "choice",
+              "content": "去上级生那边",
+              "group": "12月6日"
+            },
+            {
+              "id": "step_alicia_19",
+              "type": "choice",
+              "content": "魔法世界的星空吧……",
+              "group": "12月7日"
+            },
+            {
+              "id": "step_alicia_20",
+              "type": "choice",
+              "content": "再在学校里逛逛",
+              "group": "12月7日"
+            },
+            {
+              "id": "step_alicia_21",
+              "type": "save",
+              "content": "SAVE 4",
+              "group": "12月7日"
+            },
+            {
+              "id": "step_alicia_22",
+              "type": "choice",
+              "content": "先吃饭",
+              "subfix": "CG回收",
+              "group": "12月7日"
+            },
+            {
+              "id": "step_alicia_23",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_alicia_24",
+              "type": "choice",
+              "content": "先搞阿鲁贝鲁特",
+              "group": "12月7日"
+            },
+            {
+              "id": "step_alicia_25",
+              "type": "save",
+              "content": "SAVE 5",
+              "group": "12月8日"
+            },
+            {
+              "id": "step_alicia_26",
+              "type": "choice",
+              "content": "自己给送过去",
+              "group": "12月8日"
+            },
+            {
+              "id": "step_alicia_27",
+              "type": "save",
+              "content": "SAVE 6",
+              "group": "12月9日"
+            },
+            {
+              "id": "step_alicia_28",
+              "type": "choice",
+              "content": "世界树那边吧",
+              "group": "12月9日"
+            },
+            {
+              "id": "step_alicia_29",
+              "type": "choice",
+              "content": "图书馆！",
+              "group": "12月10日"
+            }
+          ]
+        },
+        {
+          "id": "ending_koyuki",
+          "name": "小雪 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_koyuki_01",
+              "type": "load",
+              "content": "LOAD 6",
+              "group": "12月9日"
+            },
+            {
+              "id": "step_koyuki_02",
+              "type": "choice",
+              "content": "去花坛看看吧",
+              "group": "12月9日"
+            },
+            {
+              "id": "step_koyuki_03",
+              "type": "save",
+              "content": "SAVE 7",
+              "group": "12月10日"
+            },
+            {
+              "id": "step_koyuki_04",
+              "type": "choice",
+              "content": "图书馆！",
+              "group": "12月10日"
+            }
+          ]
+        },
+        {
+          "id": "ending_hoshirai",
+          "name": "星莱 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_hoshirai_01",
+              "type": "load",
+              "content": "LOAD 7",
+              "group": "12月10日"
+            },
+            {
+              "id": "step_hoshirai_02",
+              "type": "choice",
+              "content": "是放在宿舍里没拿出来吧？",
+              "group": "12月10日"
+            }
+          ]
+        },
+        {
+          "id": "ending_yuka",
+          "name": "优花 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_yuka_01",
+              "type": "load",
+              "content": "LOAD 5",
+              "group": "12月8日"
+            },
+            {
+              "id": "step_yuka_02",
+              "type": "choice",
+              "content": "拜托优花前辈",
+              "group": "12月8日"
+            },
+            {
+              "id": "step_yuka_03",
+              "type": "save",
+              "content": "SAVE 8",
+              "group": "12月9日"
+            },
+            {
+              "id": "step_yuka_04",
+              "type": "choice",
+              "content": "去花坛看看吧",
+              "group": "12月9日"
+            },
+            {
+              "id": "step_yuka_05",
+              "type": "choice",
+              "content": "图书馆！",
+              "group": "12月10日"
+            }
+          ]
+        },
+        {
+          "id": "ending_rena",
+          "name": "蕾娜 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_rena_01",
+              "type": "load",
+              "content": "LOAD 8",
+              "group": "12月9日"
+            },
+            {
+              "id": "step_rena_02",
+              "type": "choice",
+              "content": "世界树那边吧",
+              "group": "12月9日"
+            },
+            {
+              "id": "step_rena_03",
+              "type": "choice",
+              "content": "图书馆！",
+              "group": "12月10日"
+            },
+            {
+              "id": "step_rena_04",
+              "type": "choice",
+              "content": "必须要两人一起解说",
+              "group": "12月11日"
+            },
+            {
+              "id": "step_rena_05",
+              "type": "choice",
+              "content": "那样太勉强了",
+              "group": "12月13日"
+            },
+            {
+              "id": "step_rena_06",
+              "type": "choice",
+              "content": "有做好准备吗？",
+              "group": "12月14日"
+            },
+            {
+              "id": "step_rena_07",
+              "type": "choice",
+              "content": "佯装不知道",
+              "group": "12月15日"
+            },
+            {
+              "id": "step_rena_08",
+              "type": "save",
+              "content": "SAVE 9",
+              "group": "12月16日"
+            },
+            {
+              "id": "step_rena_09",
+              "type": "choice",
+              "content": "嘛，今天玩得很开心",
+              "group": "12月16日"
+            }
+          ]
+        },
+        {
+          "id": "ending_nina",
+          "name": "妮娜 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_nina_01",
+              "type": "load",
+              "content": "LOAD 9",
+              "group": "12月16日"
+            },
+            {
+              "id": "step_nina_02",
+              "type": "choice",
+              "content": "今天真是倒大霉了",
+              "group": "12月16日"
+            }
+          ]
+        },
+        {
+          "id": "ending_rena_nina",
+          "name": "蕾娜＆妮娜 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_rena_nina_01",
+              "type": "load",
+              "content": "LOAD 9",
+              "group": "12月16日"
+            },
+            {
+              "id": "step_rena_nina_02",
+              "type": "choice",
+              "content": "才不应该谈更喜欢谁那种话题",
+              "group": "12月16日"
+            }
+          ]
+        },
+        {
+          "id": "ending_true",
+          "name": "TRUE END",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_true_01",
+              "type": "note",
+              "content": "以上全END后，选择真结局篇开始"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "vid": "v4495",
+  "name": {
+    "zh-cn": "初恋圣礼",
+    "ja-jp": "初恋サクラメント",
+    "ja-Latn": "hatsukoi-sacrament"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-14",
+  "routes": [
+    {
+      "id": "route_game",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_iroha_end",
+          "name": "伊呂波 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_iroha_01",
+              "type": "choice",
+              "content": "光",
+              "group": "4月15日"
+            },
+            {
+              "id": "step_iroha_02",
+              "type": "choice",
+              "content": "从教室阳台上不小心把油漆掉下去这件事",
+              "group": "4月18日"
+            },
+            {
+              "id": "step_iroha_03",
+              "type": "choice",
+              "content": "起火原因是香烟",
+              "group": "4月23日"
+            },
+            {
+              "id": "step_iroha_04",
+              "type": "choice",
+              "content": "连别的手段也一起用上",
+              "group": "5月7日"
+            },
+            {
+              "id": "step_iroha_05",
+              "type": "choice",
+              "content": "利用岬来使用屋顶",
+              "group": "5月14日"
+            },
+            {
+              "id": "step_iroha_06",
+              "type": "choice",
+              "content": "这起事件其实是假装成盗窃的毒品贩卖",
+              "group": "5月17日"
+            },
+            {
+              "id": "step_iroha_07",
+              "type": "save",
+              "content": "SAVE 1",
+              "group": "5月25日"
+            },
+            {
+              "id": "step_iroha_08",
+              "type": "choice",
+              "content": "逃跑",
+              "group": "5月25日"
+            },
+            {
+              "id": "step_iroha_09",
+              "type": "save",
+              "content": "SAVE 2",
+              "group": "5月25日"
+            },
+            {
+              "id": "step_iroha_10",
+              "type": "choice",
+              "content": "前往伊呂波家",
+              "group": "5月25日"
+            }
+          ]
+        },
+        {
+          "id": "ending_hoshimi_end",
+          "name": "星見 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_hoshimi_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_hoshimi_02",
+              "type": "choice",
+              "content": "前往星見家",
+              "group": "5月25日"
+            }
+          ]
+        },
+        {
+          "id": "ending_misaki_end",
+          "name": "岬 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_misaki_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_misaki_02",
+              "type": "choice",
+              "content": "给岬打电话",
+              "group": "5月25日"
+            }
+          ]
+        },
+        {
+          "id": "ending_hikari_end1",
+          "name": "光 END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_hikari_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_hikari_02",
+              "type": "choice",
+              "content": "正座",
+              "group": "5月25日"
+            }
+          ]
+        },
+        {
+          "id": "ending_hikari_end2",
+          "name": "光 END2",
+          "type": "normal",
+          "requirements": "以上全部 END 后，选择 光 开始",
+          "steps": [
+            {
+              "type": "choice",
+              "content": "（源站步骤均为空）"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

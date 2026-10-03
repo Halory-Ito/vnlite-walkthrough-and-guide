@@ -1,0 +1,75 @@
+{
+  "vid": "v428",
+  "name": {
+    "zh-cn": "续杀戮姜戈 -地狱通缉犯-",
+    "ja-jp": "続・殺戮のジャンゴ ─地獄の賞金首─",
+    "ja-Latn": "zoku-satsuriku-no-django"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-16",
+  "routes": [
+    {
+      "id": "route_game",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_main",
+          "name": "END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_01",
+              "type": "choice",
+              "content": "让她退出"
+            },
+            {
+              "id": "step_02",
+              "type": "choice",
+              "content": "杀掉"
+            },
+            {
+              "id": "step_03",
+              "type": "choice",
+              "content": "不相信"
+            },
+            {
+              "id": "step_04",
+              "type": "choice",
+              "content": "慎重的瞄准再开枪"
+            },
+            {
+              "id": "step_05",
+              "type": "choice",
+              "content": "离开这里"
+            },
+            {
+              "id": "step_06",
+              "type": "choice",
+              "content": "替换弹药"
+            },
+            {
+              "id": "step_07",
+              "type": "choice",
+              "content": "7.7mm"
+            },
+            {
+              "id": "step_08",
+              "type": "choice",
+              "content": "首先收缴武器"
+            },
+            {
+              "id": "step_09",
+              "type": "choice",
+              "content": "只能上了"
+            },
+            {
+              "id": "step_10",
+              "type": "choice",
+              "content": "不，不是笨蛋"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

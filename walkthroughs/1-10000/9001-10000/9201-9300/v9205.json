@@ -1,0 +1,254 @@
+{
+  "vid": "v9205",
+  "name": {
+    "zh-cn": "東京バベル",
+    "ja-jp": "東京バベル",
+    "ja-Latn": "tokyo-babel"
+  },
+  "level": 1,
+  "updatedAt": "2026-05-08",
+  "routes": [
+    {
+      "id": "route_game_guide",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_ragil_true",
+          "name": "拉吉尔 END1",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_1",
+              "type": "choice",
+              "content": "去见大天使卡麦尔"
+            },
+            {
+              "id": "step_2",
+              "type": "choice",
+              "content": "噬天使的少女　刳狼都"
+            },
+            {
+              "id": "step_3",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_4",
+              "type": "choice",
+              "content": "回到潘多拉"
+            }
+          ]
+        },
+        {
+          "id": "ending_ragil_bad",
+          "name": "拉吉尔 END2",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_5",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_6",
+              "type": "choice",
+              "content": "前往第七阶层"
+            }
+          ]
+        },
+        {
+          "id": "ending_sorami_true",
+          "name": "空见 END1",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_7",
+              "type": "choice",
+              "content": "去见魔王亚斯塔禄"
+            },
+            {
+              "id": "step_8",
+              "type": "choice",
+              "content": "身份不明　押刃钢"
+            },
+            {
+              "id": "step_9",
+              "type": "choice",
+              "content": "选择了左边的便当"
+            },
+            {
+              "id": "step_10",
+              "type": "choice",
+              "content": "公主抱"
+            },
+            {
+              "id": "step_11",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_12",
+              "type": "choice",
+              "content": "推开"
+            },
+            {
+              "id": "step_13",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_14",
+              "type": "choice",
+              "content": "去往未来"
+            }
+          ]
+        },
+        {
+          "id": "ending_sorami_normal",
+          "name": "空见 END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_15",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_16",
+              "type": "choice",
+              "content": "不去往未来"
+            }
+          ]
+        },
+        {
+          "id": "ending_sorami_bad",
+          "name": "空见 END3",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_17",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_18",
+              "type": "choice",
+              "content": "鼓励"
+            }
+          ]
+        },
+        {
+          "id": "ending_lilith_true",
+          "name": "莉莉丝 END1",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_19",
+              "type": "choice",
+              "content": "去见大天使卡麦尔"
+            },
+            {
+              "id": "step_20",
+              "type": "choice",
+              "content": "噬恶魔的少年　火之上亘"
+            },
+            {
+              "id": "step_21",
+              "type": "choice",
+              "content": "为你而泣"
+            },
+            {
+              "id": "step_22",
+              "type": "choice",
+              "content": "观看"
+            },
+            {
+              "id": "step_23",
+              "type": "choice",
+              "content": "进一步深入"
+            },
+            {
+              "id": "step_24",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_25",
+              "type": "choice",
+              "content": "不参加宴会"
+            },
+            {
+              "id": "step_26",
+              "type": "choice",
+              "content": "是来打好关系的"
+            },
+            {
+              "id": "step_27",
+              "type": "choice",
+              "content": "不是那样的"
+            },
+            {
+              "id": "step_28",
+              "type": "choice",
+              "content": "选择莉莉丝"
+            }
+          ]
+        },
+        {
+          "id": "ending_lilith_bad",
+          "name": "莉莉丝 END2",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_29",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_30",
+              "type": "choice",
+              "content": "参加宴会"
+            },
+            {
+              "id": "step_31",
+              "type": "choice",
+              "content": "是来打好关系的"
+            },
+            {
+              "id": "step_32",
+              "type": "choice",
+              "content": "喜欢"
+            },
+            {
+              "id": "step_33",
+              "type": "save",
+              "content": "SAVE 5"
+            },
+            {
+              "id": "step_34",
+              "type": "choice",
+              "content": "选择两人"
+            }
+          ]
+        },
+        {
+          "id": "ending_setsuna",
+          "name": "刹那 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_35",
+              "type": "load",
+              "content": "LOAD 5"
+            },
+            {
+              "id": "step_36",
+              "type": "choice",
+              "content": "选择莉莉丝"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

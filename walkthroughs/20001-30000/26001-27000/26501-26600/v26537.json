@@ -1,0 +1,111 @@
+{
+  "vid": "v26537",
+  "name": {
+    "zh-cn": "密语",
+    "ja-jp": "アイコトバ",
+    "ja-Latn": "aikotoba"
+  },
+  "level": 2,
+  "updatedAt": "2026-02-27",
+  "tips": [
+    "游戏初期行动会进入END1，最后时刻依然不行动进入END2，中期行动则在END1回收CG差异"
+  ],
+  "routes": [
+    {
+      "id": "route_1755948998828",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1755951455811",
+          "name": "END 1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755951472633",
+              "type": "choice",
+              "content": "卯月一定能成为一个好妻子的"
+            },
+            {
+              "id": "step_1755951472820",
+              "type": "choice",
+              "content": "放任本能抱住卯月"
+            },
+            {
+              "id": "step_1755951470930",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1755951472993",
+              "type": "choice",
+              "content": "去个可以两人独处的地方"
+            }
+          ]
+        },
+        {
+          "id": "ending_1755952526925",
+          "name": "END 2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755952545111",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1755952549551",
+              "type": "choice",
+              "content": "下次有机会再说吧"
+            },
+            {
+              "id": "step_1755952549712",
+              "type": "choice",
+              "content": "尽全力保持理性"
+            },
+            {
+              "id": "step_1755952549958",
+              "type": "choice",
+              "content": "卵月，难道说──"
+            },
+            {
+              "id": "step_1755952550851",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1755952556442",
+              "type": "choice",
+              "content": "总之先去吃饭吧"
+            },
+            {
+              "id": "step_1755952556631",
+              "type": "choice",
+              "content": "抚摸卯月的头"
+            },
+            {
+              "id": "step_1755952556889",
+              "type": "choice",
+              "content": "抱住卯月"
+            },
+            {
+              "id": "step_1755952557123",
+              "type": "choice",
+              "content": "将内心的心意传达给她"
+            },
+            {
+              "id": "step_1755952648537",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1755952654933",
+              "type": "choice",
+              "content": "姑且试着说一个",
+              "subfix": "※回收END1场景"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

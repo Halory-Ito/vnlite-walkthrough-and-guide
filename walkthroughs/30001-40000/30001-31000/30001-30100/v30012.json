@@ -1,0 +1,89 @@
+{
+  "vid": "v30012",
+  "name": {
+    "zh-cn": "冬旅，方冥冥",
+    "ja-jp": "ふゆから、くるる。",
+    "ja-Latn": "fuyukara-kururu"
+  },
+  "level": 2,
+  "updatedAt": "2026-02-27",
+  "routes": [
+    {
+      "id": "route_1756305044527",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1756305055467",
+          "name": "True END",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_1756305119821",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1756305121607",
+              "type": "choice",
+              "content": "开始"
+            },
+            {
+              "id": "step_1756305129440",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1756305132586",
+              "type": "choice",
+              "content": "才没忍耐"
+            },
+            {
+              "id": "step_1756305147865",
+              "type": "choice",
+              "content": "不，不对"
+            },
+            {
+              "id": "step_1756305160003",
+              "type": "choice",
+              "content": "没什么好恶心的"
+            }
+          ]
+        },
+        {
+          "id": "ending_1756305188242",
+          "name": "Bad END1",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_1756305283131",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1756305284366",
+              "type": "choice",
+              "content": "不，不用忍耐"
+            }
+          ]
+        },
+        {
+          "id": "ending_1756305312492",
+          "name": "Bad END2",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_1756305338352",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1756305344815",
+              "type": "choice",
+              "content": "那我除了"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

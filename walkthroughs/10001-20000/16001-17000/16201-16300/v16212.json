@@ -1,0 +1,367 @@
+{
+  "vid": "v16212",
+  "name": {
+    "zh-cn": "时钟机关的Ley-line -朝雾中飘零之花-",
+    "en-us": "A Clockwork Ley-Line: Flowers Falling in the Morning Mist",
+    "ja-jp": "時計仕掛けのレイライン －朝霧に散る花－",
+    "ja-Latn": "tokeijikake-no-ley-line-asagiri-ni-chiru-hana"
+  },
+  "level": 2,
+  "updatedAt": "2026-05-18",
+  "tips": [
+    "★选项为会影响推理Rank的选项"
+  ],
+  "routes": [
+    {
+      "id": "route_main_story",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_true_end",
+          "name": "END1",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_true_01",
+              "type": "choice",
+              "content": "没能隐藏",
+              "prefix": "★"
+            },
+            {
+              "id": "step_true_02",
+              "type": "choice",
+              "content": "询问笔的形状与效果"
+            },
+            {
+              "id": "step_true_03",
+              "type": "choice",
+              "content": "询问使用方法"
+            },
+            {
+              "id": "step_true_04",
+              "type": "choice",
+              "content": "询问代偿"
+            },
+            {
+              "id": "step_true_05",
+              "type": "choice",
+              "content": "在表演什么才艺吗？"
+            },
+            {
+              "id": "step_true_06",
+              "type": "choice",
+              "content": "黑谷",
+              "prefix": "★"
+            },
+            {
+              "id": "step_true_07",
+              "type": "choice",
+              "content": "总之先否认掉"
+            },
+            {
+              "id": "step_true_08",
+              "type": "choice",
+              "content": "传闻的事"
+            },
+            {
+              "id": "step_true_09",
+              "type": "choice",
+              "content": "睦月没有消失",
+              "prefix": "★"
+            },
+            {
+              "id": "step_true_10",
+              "type": "choice",
+              "content": "莉塔",
+              "prefix": "★"
+            },
+            {
+              "id": "step_true_11",
+              "type": "choice",
+              "content": "是想要探查我们的情况吧？",
+              "prefix": "★"
+            },
+            {
+              "id": "step_true_12",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_true_13",
+              "type": "choice",
+              "content": "学园长的事吗？",
+              "prefix": "★"
+            },
+            {
+              "id": "step_true_14",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_true_15",
+              "type": "choice",
+              "content": "被施加了暗示",
+              "prefix": "★"
+            },
+            {
+              "id": "step_true_16",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_true_17",
+              "type": "choice",
+              "content": "学园故意要把魔法阵停下",
+              "prefix": "★"
+            }
+          ]
+        },
+        {
+          "id": "ending_a",
+          "name": "END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_a_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_a_02",
+              "type": "choice",
+              "content": "魔方遗品的事吗？",
+              "prefix": "★"
+            },
+            {
+              "id": "step_a_03",
+              "type": "choice",
+              "content": "考验特查",
+              "prefix": "★"
+            },
+            {
+              "id": "step_a_04",
+              "type": "choice",
+              "content": "学园要保留春霞和锷姬的力量",
+              "prefix": "★"
+            }
+          ]
+        },
+        {
+          "id": "ending_s",
+          "name": "END3",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_s_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_s_02",
+              "type": "choice",
+              "content": "考验特查",
+              "prefix": "★"
+            },
+            {
+              "id": "step_s_03",
+              "type": "choice",
+              "content": "学园要保留春霞和锷姬的力量",
+              "prefix": "★"
+            }
+          ]
+        },
+        {
+          "id": "ending_ss",
+          "name": "END4",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_ss_01",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_ss_02",
+              "type": "choice",
+              "content": "学园要保留春霞和锷姬的力量",
+              "prefix": "★"
+            }
+          ]
+        },
+        {
+          "id": "ending_e",
+          "name": "END5",
+          "type": "normal",
+          "requirements": "从最初开始",
+          "steps": [
+            {
+              "id": "step_e_02",
+              "type": "choice",
+              "content": "没去隐藏",
+              "prefix": "★"
+            },
+            {
+              "id": "step_e_03",
+              "type": "choice",
+              "content": "询问笔的形状与效果"
+            },
+            {
+              "id": "step_e_04",
+              "type": "choice",
+              "content": "询问使用方法"
+            },
+            {
+              "id": "step_e_05",
+              "type": "choice",
+              "content": "询问代偿"
+            },
+            {
+              "id": "step_e_06",
+              "type": "choice",
+              "content": "想要去厕所吗？"
+            },
+            {
+              "id": "step_e_07",
+              "type": "choice",
+              "content": "学园长",
+              "prefix": "★"
+            },
+            {
+              "id": "step_e_08",
+              "type": "choice",
+              "content": "转移话题"
+            },
+            {
+              "id": "step_e_09",
+              "type": "choice",
+              "content": "睦月的事"
+            },
+            {
+              "id": "step_e_10",
+              "type": "choice",
+              "content": "这个小太郎是本人",
+              "prefix": "★"
+            },
+            {
+              "id": "step_e_11",
+              "type": "choice",
+              "content": "小太郎",
+              "prefix": "★"
+            },
+            {
+              "id": "step_e_12",
+              "type": "choice",
+              "content": "是为了让我们看不穿她的演技吧？",
+              "prefix": "★"
+            },
+            {
+              "id": "step_e_13",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_e_14",
+              "type": "choice",
+              "content": "埃里克的事吗？",
+              "prefix": "★"
+            },
+            {
+              "id": "step_e_15",
+              "type": "save",
+              "content": "SAVE 5"
+            },
+            {
+              "id": "step_e_16",
+              "type": "choice",
+              "content": "带回路易的计策的一环",
+              "prefix": "★"
+            },
+            {
+              "id": "step_e_17",
+              "type": "save",
+              "content": "SAVE 6"
+            },
+            {
+              "id": "step_e_18",
+              "type": "choice",
+              "content": "因为要发动移动魔术，不得已必须停止",
+              "prefix": "★"
+            }
+          ]
+        },
+        {
+          "id": "ending_b",
+          "name": "END6",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_b_01",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_b_02",
+              "type": "choice",
+              "content": "学园长的事吗？",
+              "prefix": "★"
+            },
+            {
+              "id": "step_b_03",
+              "type": "choice",
+              "content": "被施加了暗示",
+              "prefix": "★"
+            },
+            {
+              "id": "step_b_04",
+              "type": "choice",
+              "content": "学园故意要把魔法阵停下",
+              "prefix": "★"
+            }
+          ]
+        },
+        {
+          "id": "ending_c",
+          "name": "END7",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_c_01",
+              "type": "load",
+              "content": "LOAD 5"
+            },
+            {
+              "id": "step_c_02",
+              "type": "choice",
+              "content": "被施加了暗示",
+              "prefix": "★"
+            },
+            {
+              "id": "step_c_03",
+              "type": "choice",
+              "content": "学园故意要把魔法阵停下",
+              "prefix": "★"
+            }
+          ]
+        },
+        {
+          "id": "ending_d",
+          "name": "END8",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_d_01",
+              "type": "load",
+              "content": "LOAD 6"
+            },
+            {
+              "id": "step_d_02",
+              "type": "choice",
+              "content": "学园故意要把魔法阵停下",
+              "prefix": "★"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

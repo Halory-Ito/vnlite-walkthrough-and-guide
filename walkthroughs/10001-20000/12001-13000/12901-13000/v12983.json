@@ -1,0 +1,215 @@
+{
+  "vid": "v12983",
+  "name": {
+    "zh-cn": "まじかりっく⇔スカイハイ ～空飛ぶホウキに想いをのせて～",
+    "ja-jp": "まじかりっく⇔スカイハイ ～空飛ぶホウキに想いをのせて～",
+    "ja-Latn": "magicalic-sky-high-soratobu-houki-ni-omoi-o-nosete"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-14",
+  "routes": [
+    {
+      "id": "route_group1",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_yurika",
+          "name": "百合香 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_yurika_01",
+              "type": "choice",
+              "content": "和法娜说话"
+            },
+            {
+              "id": "step_yurika_03",
+              "type": "choice",
+              "content": "完全没问题！"
+            },
+            {
+              "id": "step_yurika_04",
+              "type": "choice",
+              "content": "虽然喜欢女仆……"
+            },
+            {
+              "id": "step_yurika_05",
+              "type": "choice",
+              "content": "试试和艾米莉亚前辈组队"
+            },
+            {
+              "id": "step_yurika_06",
+              "type": "choice",
+              "content": "我可以的话就帮忙"
+            },
+            {
+              "id": "step_yurika_07",
+              "type": "choice",
+              "content": "不说明情况直接道歉"
+            },
+            {
+              "id": "step_yurika_08",
+              "type": "choice",
+              "content": "那当然要！"
+            },
+            {
+              "id": "step_yurika_09",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_yurika_10",
+              "type": "choice",
+              "content": "百合香更适合"
+            }
+          ]
+        },
+        {
+          "id": "ending_fana",
+          "name": "法娜 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_fana_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_fana_02",
+              "type": "choice",
+              "content": "法娜更适合"
+            },
+            {
+              "id": "step_fana_03",
+              "type": "choice",
+              "content": "只有法娜"
+            }
+          ]
+        },
+        {
+          "id": "ending_sharu",
+          "name": "夏露 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_sharu_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_sharu_02",
+              "type": "choice",
+              "content": "夏露更适合"
+            },
+            {
+              "id": "step_sharu_03",
+              "type": "choice",
+              "content": "只有夏露"
+            }
+          ]
+        },
+        {
+          "id": "ending_emiria",
+          "name": "艾米莉亚 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_emiria_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_emiria_02",
+              "type": "choice",
+              "content": "艾米莉亚前辈更适合"
+            },
+            {
+              "id": "step_emiria_03",
+              "type": "choice",
+              "content": "只有艾米莉亚"
+            }
+          ]
+        },
+        {
+          "id": "ending_saraira",
+          "name": "萨莱拉 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_saraira_01",
+              "type": "choice",
+              "content": "和玛丽说话"
+            },
+            {
+              "id": "step_saraira_02",
+              "type": "choice",
+              "content": "和萨莱拉去空中散步"
+            },
+            {
+              "id": "step_saraira_03",
+              "type": "choice",
+              "content": "抱枕有点……"
+            },
+            {
+              "id": "step_saraira_04",
+              "type": "choice",
+              "content": "对女仆没兴趣"
+            },
+            {
+              "id": "step_saraira_05",
+              "type": "choice",
+              "content": "和往常一样和法娜组队"
+            },
+            {
+              "id": "step_saraira_06",
+              "type": "choice",
+              "content": "非我不可吗？"
+            },
+            {
+              "id": "step_saraira_07",
+              "type": "choice",
+              "content": "在能解释的范围内蒙混过去"
+            },
+            {
+              "id": "step_saraira_08",
+              "type": "choice",
+              "content": "也没那么……"
+            },
+            {
+              "id": "step_saraira_09",
+              "type": "choice",
+              "content": "百合香更适合"
+            },
+            {
+              "id": "step_saraira_10",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_saraira_11",
+              "type": "choice",
+              "content": "只有萨莱拉就足够了"
+            }
+          ]
+        },
+        {
+          "id": "ending_marie",
+          "name": "玛丽 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_marie_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_marie_02",
+              "type": "choice",
+              "content": "只有玛丽"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "vid": "v25135",
+  "name": {
+    "zh-cn": "罐头少女的終末世界",
+    "ja-jp": "缶詰少女ノ終末世界",
+    "ja-Latn": "kanzume-shoujo-no-shuumatsu-sekai"
+  },
+  "level": 2,
+  "updatedAt": "2026-02-27",
+  "routes": [
+    {
+      "id": "route_1756304621441",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1756304636988",
+          "name": "True END",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_1756304713571",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1756304715740",
+              "type": "choice",
+              "content": "我觉得有些不同"
+            },
+            {
+              "id": "step_1756304716672",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1756304717179",
+              "type": "choice",
+              "content": "我必须离开乌森小姐"
+            },
+            {
+              "id": "step_1756304730759",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_1756304734840",
+              "type": "choice",
+              "content": "看看印花棉布"
+            }
+          ]
+        },
+        {
+          "id": "ending_1756304643391",
+          "name": "END 1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756304846378",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1756304852933",
+              "type": "choice",
+              "content": "我想就这样和八乙女小姐在一起也没关系"
+            }
+          ]
+        },
+        {
+          "id": "ending_1756304643974",
+          "name": "END 2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756304890123",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1756304921462",
+              "type": "choice",
+              "content": "我想和乌森小姐在一起"
+            }
+          ]
+        },
+        {
+          "id": "ending_1756304644293",
+          "name": "END 3",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756304975590",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1756304976493",
+              "type": "choice",
+              "content": "我看着辻花",
+              "subfix": "回收CG"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

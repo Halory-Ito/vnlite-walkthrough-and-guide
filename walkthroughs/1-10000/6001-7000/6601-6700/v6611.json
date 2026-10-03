@@ -1,0 +1,171 @@
+{
+  "vid": "v6611",
+  "name": {
+    "zh-cn": "神圣不可侵犯",
+    "ja-jp": "神聖にして侵すべからず",
+    "ja-Latn": "shinsei-ni-shite-okasubekarazu"
+  },
+  "level": 2,
+  "updatedAt": "2026-04-12",
+  "routes": [
+    {
+      "id": "route_game_guide",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_nozomi_end",
+          "name": "希 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_nozomi_01",
+              "type": "choice",
+              "content": "接受"
+            },
+            {
+              "id": "step_nozomi_02",
+              "type": "choice",
+              "content": "和操商量"
+            },
+            {
+              "id": "step_nozomi_03",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_nozomi_04",
+              "type": "choice",
+              "content": "去请她告诉我"
+            },
+            {
+              "id": "step_nozomi_05",
+              "type": "choice",
+              "content": "重新看感觉很新鲜"
+            },
+            {
+              "id": "step_nozomi_06",
+              "type": "choice",
+              "content": "等澪里开口"
+            },
+            {
+              "id": "step_nozomi_07",
+              "type": "choice",
+              "content": "寻找别的方法"
+            },
+            {
+              "id": "step_nozomi_08",
+              "type": "choice",
+              "content": "装作镇定地回答"
+            }
+          ]
+        },
+        {
+          "id": "ending_misao_end",
+          "name": "操 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_misao_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_misao_02",
+              "type": "choice",
+              "content": "总之先把她交给国友"
+            },
+            {
+              "id": "step_misao_03",
+              "type": "choice",
+              "content": "由我这边来问"
+            },
+            {
+              "id": "step_misao_04",
+              "type": "choice",
+              "content": "为什么要对国友多管闲事？"
+            },
+            {
+              "id": "step_misao_05",
+              "type": "choice",
+              "content": "接受操的好意"
+            },
+            {
+              "id": "step_misao_06",
+              "type": "choice",
+              "content": "什么也没说"
+            },
+            {
+              "id": "step_misao_07",
+              "type": "choice",
+              "content": "因为我从没想过"
+            },
+            {
+              "id": "step_misao_08",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_misao_09",
+              "type": "choice",
+              "content": "“我该为她做些什么才好呢？”"
+            }
+          ]
+        },
+        {
+          "id": "ending_miori_end",
+          "name": "澪里 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_miori_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_miori_02",
+              "type": "choice",
+              "content": "“……到底该怎么办呢？”"
+            },
+            {
+              "id": "step_miori_03",
+              "type": "choice",
+              "content": "按她说的假装回去"
+            },
+            {
+              "id": "step_miori_04",
+              "type": "choice",
+              "content": "介入其中"
+            },
+            {
+              "id": "step_miori_05",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_miori_06",
+              "type": "choice",
+              "content": "我想应该不止如此"
+            }
+          ]
+        },
+        {
+          "id": "ending_runa_end",
+          "name": "瑠波 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_runa_01",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_runa_02",
+              "type": "choice",
+              "content": "不，没什么"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

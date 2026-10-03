@@ -1,0 +1,1345 @@
+{
+  "vid": "v729",
+  "name": {
+    "zh-cn": "11eyes -罪与罚与赎的少女-",
+    "en-us": "11eyes -Tsumi to Batsu to Aganai no Shoujo-",
+    "ja-jp": "11eyes－罪と罰と贖いの少女－",
+    "ja-Latn": "11eyes"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-14",
+  "tips": [
+    "游玩过程中会发生CrossVision事件，发生时请随时观看",
+    "※的选项为选项回收用，使用快速跳跃功能进行回收"
+  ],
+  "routes": [
+    {
+      "id": "route_game",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_01",
+          "name": "由佳 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_01_001",
+              "type": "save",
+              "content": "SAVE 1",
+              "group": "9月17日"
+            },
+            {
+              "id": "step_01_002",
+              "type": "choice",
+              "content": "向学园方向跑去",
+              "group": "9月17日"
+            },
+            {
+              "id": "step_01_003",
+              "type": "choice",
+              "content": "接",
+              "subfix": "不接",
+              "group": "9月18日"
+            },
+            {
+              "id": "step_01_004",
+              "type": "choice",
+              "content": "把匡带到保健室",
+              "subfix": "交给香央里处理",
+              "group": "9月18日"
+            },
+            {
+              "id": "step_01_005",
+              "type": "choice",
+              "content": "答应由佳的要求",
+              "subfix": "坚定地拒绝由佳的要求",
+              "group": "9月20日"
+            },
+            {
+              "id": "step_01_006",
+              "type": "save",
+              "content": "SAVE 2",
+              "group": "9月21日"
+            },
+            {
+              "id": "step_01_007",
+              "type": "choice",
+              "content": "与草壁学姐同行",
+              "group": "9月21日"
+            },
+            {
+              "id": "step_01_008",
+              "type": "save",
+              "content": "SAVE 3",
+              "group": "9月21日"
+            },
+            {
+              "id": "step_01_009",
+              "type": "choice",
+              "content": "听从学姐的制止",
+              "group": "9月21日"
+            },
+            {
+              "id": "step_01_012",
+              "type": "save",
+              "content": "SAVE 4",
+              "group": "9月25日"
+            },
+            {
+              "id": "step_01_013",
+              "type": "choice",
+              "content": "朝着学园，从旁迂回前进",
+              "group": "9月25日"
+            },
+            {
+              "id": "step_01_015",
+              "type": "choice",
+              "content": "OK",
+              "subfix": "选择拒绝回收28日的CV",
+              "group": "9月26日"
+            },
+            {
+              "id": "step_01_019",
+              "type": "save",
+              "content": "SAVE 5",
+              "group": "9月30日"
+            },
+            {
+              "id": "step_01_020",
+              "type": "choice",
+              "content": "抱起由佳",
+              "group": "9月30日"
+            },
+            {
+              "id": "step_01_021",
+              "type": "save",
+              "content": "SAVE 6",
+              "group": "9月30日"
+            },
+            {
+              "id": "step_01_022",
+              "type": "choice",
+              "content": "观察状况",
+              "group": "9月30日"
+            },
+            {
+              "id": "step_01_026",
+              "type": "save",
+              "content": "SAVE 7",
+              "group": "10月5日"
+            },
+            {
+              "id": "step_01_027",
+              "type": "choice",
+              "content": "挺身保护由佳",
+              "group": "10月5日"
+            },
+            {
+              "id": "step_01_028",
+              "type": "save",
+              "content": "SAVE 8",
+              "group": "10月7日"
+            },
+            {
+              "id": "step_01_029",
+              "type": "choice",
+              "content": "对草壁学姐说话",
+              "group": "10月7日"
+            },
+            {
+              "id": "step_01_030",
+              "type": "save",
+              "content": "SAVE 9",
+              "group": "10月7日"
+            },
+            {
+              "id": "step_01_031",
+              "type": "choice",
+              "content": "信任草壁学姐",
+              "group": "10月7日"
+            },
+            {
+              "id": "step_01_033",
+              "type": "save",
+              "content": "SAVE 10",
+              "group": "10月7日"
+            },
+            {
+              "id": "step_01_034",
+              "type": "choice",
+              "content": "提醒贤久小心",
+              "group": "10月7日"
+            },
+            {
+              "id": "step_01_035",
+              "type": "save",
+              "content": "SAVE 11",
+              "group": "10月7日"
+            },
+            {
+              "id": "step_01_036",
+              "type": "choice",
+              "content": "拔起雷切",
+              "group": "10月7日"
+            },
+            {
+              "id": "step_01_037",
+              "type": "save",
+              "content": "SAVE 12",
+              "group": "10月7日"
+            },
+            {
+              "id": "step_01_038",
+              "type": "choice",
+              "content": "全力刺进去",
+              "group": "10月7日"
+            },
+            {
+              "id": "step_01_044",
+              "type": "choice",
+              "content": "想着去考现学部教室看看",
+              "group": "10月9日"
+            },
+            {
+              "id": "step_01_045",
+              "type": "save",
+              "content": "SAVE 13",
+              "group": "10月11日"
+            },
+            {
+              "id": "step_01_046",
+              "type": "choice",
+              "content": "看着由佳",
+              "group": "10月11日"
+            },
+            {
+              "id": "step_01_047",
+              "type": "save",
+              "content": "SAVE 14",
+              "group": "10月12日"
+            },
+            {
+              "id": "step_01_048",
+              "type": "choice",
+              "content": "一边保护由佳，一边关注着战斗",
+              "group": "10月12日"
+            },
+            {
+              "id": "step_01_049",
+              "type": "save",
+              "content": "SAVE 15",
+              "group": "10月12日"
+            },
+            {
+              "id": "step_01_050",
+              "type": "choice",
+              "content": "跑向阿凯提亚的落下位置",
+              "group": "10月12日"
+            },
+            {
+              "id": "step_01_057",
+              "type": "choice",
+              "content": "打听",
+              "group": "10月19日"
+            },
+            {
+              "id": "step_01_058",
+              "type": "save",
+              "content": "SAVE 16",
+              "group": "10月19日"
+            },
+            {
+              "id": "step_01_059",
+              "type": "choice",
+              "content": "拒绝",
+              "group": "10月19日"
+            },
+            {
+              "id": "step_01_069",
+              "type": "save",
+              "content": "SAVE 17",
+              "group": "10月21日"
+            },
+            {
+              "id": "step_01_070",
+              "type": "choice",
+              "content": "向雷切跑去",
+              "group": "10月21日"
+            },
+            {
+              "id": "step_01_071",
+              "type": "save",
+              "content": "SAVE 18",
+              "group": "10月21日"
+            },
+            {
+              "id": "step_01_072",
+              "type": "choice",
+              "content": "尽力把握状况",
+              "group": "10月21日"
+            },
+            {
+              "id": "step_01_078",
+              "type": "choice",
+              "content": "回答喜欢由佳",
+              "group": "10月22日"
+            },
+            {
+              "id": "step_01_089",
+              "type": "save",
+              "content": "SAVE 19",
+              "group": "10月27日"
+            },
+            {
+              "id": "step_01_090",
+              "type": "choice",
+              "content": "抑制厌恶感，继续突进",
+              "group": "10月27日"
+            },
+            {
+              "id": "step_01_099",
+              "type": "save",
+              "content": "SAVE 20",
+              "group": "10月28日"
+            },
+            {
+              "id": "step_01_100",
+              "type": "choice",
+              "content": "对贤久挥剑什么的做不到",
+              "group": "10月28日"
+            },
+            {
+              "id": "step_01_103",
+              "type": "save",
+              "content": "SAVE 21",
+              "group": "10月29日"
+            },
+            {
+              "id": "step_01_104",
+              "type": "choice",
+              "content": "看准空隙把手伸向雷切",
+              "group": "10月29日"
+            },
+            {
+              "id": "step_01_105",
+              "type": "save",
+              "content": "SAVE 22",
+              "group": "10月29日"
+            },
+            {
+              "id": "step_01_106",
+              "type": "choice",
+              "content": "出声制止美铃学姐",
+              "group": "10月29日"
+            },
+            {
+              "id": "step_01_110",
+              "type": "save",
+              "content": "SAVE 23",
+              "group": "10月29日"
+            },
+            {
+              "id": "step_01_111",
+              "type": "choice",
+              "content": "给雪子盖上毯子",
+              "group": "10月29日"
+            },
+            {
+              "id": "step_01_116",
+              "type": "choice",
+              "content": "在经历赤之夜后",
+              "group": "10月30日"
+            },
+            {
+              "id": "step_01_117",
+              "type": "choice",
+              "content": "我们几个在赤之夜之前没有见过面",
+              "group": "10月30日"
+            },
+            {
+              "id": "step_01_118",
+              "type": "choice",
+              "content": "没有存在过",
+              "group": "10月30日"
+            },
+            {
+              "id": "step_01_120",
+              "type": "choice",
+              "content": "草壁美铃",
+              "group": "11月1日"
+            },
+            {
+              "id": "step_01_121",
+              "type": "choice",
+              "content": "橘菊理",
+              "group": "11月1日"
+            },
+            {
+              "id": "step_01_122",
+              "type": "choice",
+              "content": "百野栞",
+              "group": "11月1日"
+            },
+            {
+              "id": "step_01_129",
+              "type": "save",
+              "content": "SAVE 24",
+              "group": "11月3日"
+            },
+            {
+              "id": "step_01_130",
+              "type": "choice",
+              "content": "向新绫女跑去",
+              "group": "11月3日"
+            },
+            {
+              "id": "step_01_135",
+              "type": "save",
+              "content": "SAVE 25",
+              "group": "11月3日"
+            },
+            {
+              "id": "step_01_136",
+              "type": "choice",
+              "content": "一边回避攻击一边思考",
+              "group": "11月3日"
+            },
+            {
+              "id": "step_01_137",
+              "type": "save",
+              "content": "SAVE 26",
+              "group": "11月3日"
+            },
+            {
+              "id": "step_01_138",
+              "type": "choice",
+              "content": "相信劫之眼的力量",
+              "group": "11月3日"
+            }
+          ]
+        },
+        {
+          "id": "ending_02",
+          "name": "美铃 END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_02_001",
+              "type": "load",
+              "content": "LOAD 13"
+            },
+            {
+              "id": "step_02_002",
+              "type": "choice",
+              "content": "看着美铃学姐",
+              "group": "10月11日"
+            },
+            {
+              "id": "step_02_003",
+              "type": "choice",
+              "content": "一边保护由佳，一边关注着战斗",
+              "group": "10月12日"
+            },
+            {
+              "id": "step_02_004",
+              "type": "choice",
+              "content": "跑向阿凯提亚的落下位置",
+              "group": "10月12日"
+            },
+            {
+              "id": "step_02_005",
+              "type": "choice",
+              "content": "不问",
+              "group": "10月19日"
+            },
+            {
+              "id": "step_02_006",
+              "type": "choice",
+              "content": "向雷切跑去",
+              "group": "10月21日"
+            },
+            {
+              "id": "step_02_007",
+              "type": "choice",
+              "content": "尽力把握状况",
+              "group": "10月21日"
+            },
+            {
+              "id": "step_02_008",
+              "type": "choice",
+              "content": "无法回答",
+              "group": "10月22日"
+            },
+            {
+              "id": "step_02_009",
+              "type": "choice",
+              "content": "吃美铃学姐的饭团",
+              "subfix": "自己去买",
+              "group": "10月25日"
+            },
+            {
+              "id": "step_02_010",
+              "type": "choice",
+              "content": "抑制厌恶感，继续突进",
+              "group": "10月27日"
+            },
+            {
+              "id": "step_02_011",
+              "type": "choice",
+              "content": "对贤久挥剑什么的做不到",
+              "group": "10月28日"
+            },
+            {
+              "id": "step_02_012",
+              "type": "choice",
+              "content": "看准空隙把手伸向雷切",
+              "group": "10月29日"
+            },
+            {
+              "id": "step_02_013",
+              "type": "choice",
+              "content": "出声制止美铃学姐",
+              "group": "10月29日"
+            },
+            {
+              "id": "step_02_014",
+              "type": "choice",
+              "content": "给雪子盖上毯子",
+              "group": "10月29日"
+            },
+            {
+              "id": "step_02_015",
+              "type": "choice",
+              "content": "在经历赤之夜后",
+              "group": "10月30日"
+            },
+            {
+              "id": "step_02_016",
+              "type": "choice",
+              "content": "我们几个在赤之夜之前没有见过面",
+              "group": "10月30日"
+            },
+            {
+              "id": "step_02_017",
+              "type": "choice",
+              "content": "没有存在过",
+              "group": "10月30日"
+            },
+            {
+              "id": "step_02_018",
+              "type": "choice",
+              "content": "草壁美铃",
+              "group": "11月1日"
+            },
+            {
+              "id": "step_02_019",
+              "type": "save",
+              "content": "SAVE 27",
+              "group": "11月1日"
+            },
+            {
+              "id": "step_02_020",
+              "type": "choice",
+              "content": "不抱她",
+              "group": "11月1日"
+            },
+            {
+              "id": "step_02_021",
+              "type": "choice",
+              "content": "橘菊理",
+              "group": "11月1日"
+            },
+            {
+              "id": "step_02_022",
+              "type": "choice",
+              "content": "百野栞",
+              "group": "11月1日"
+            },
+            {
+              "id": "step_02_023",
+              "type": "choice",
+              "content": "向新绫女跑去",
+              "group": "11月3日"
+            },
+            {
+              "id": "step_02_024",
+              "type": "choice",
+              "content": "一边回避攻击一边思考",
+              "group": "11月3日"
+            },
+            {
+              "id": "step_02_025",
+              "type": "choice",
+              "content": "相信劫之眼的力量",
+              "group": "11月3日"
+            }
+          ]
+        },
+        {
+          "id": "ending_03",
+          "name": "美铃 END2(H回收)",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_03_001",
+              "type": "load",
+              "content": "LOAD 27"
+            },
+            {
+              "id": "step_03_002",
+              "type": "choice",
+              "content": "拥抱她"
+            }
+          ]
+        },
+        {
+          "id": "ending_04",
+          "name": "雪子 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_04_001",
+              "type": "load",
+              "content": "LOAD 13"
+            },
+            {
+              "id": "step_04_002",
+              "type": "choice",
+              "content": "看着雪子",
+              "group": "10月11日"
+            },
+            {
+              "id": "step_04_003",
+              "type": "choice",
+              "content": "一边保护由佳，一边关注着战斗",
+              "group": "10月12日"
+            },
+            {
+              "id": "step_04_004",
+              "type": "choice",
+              "content": "跑向阿凯提亚的落下位置",
+              "group": "10月12日"
+            },
+            {
+              "id": "step_04_005",
+              "type": "choice",
+              "content": "不问",
+              "group": "10月19日"
+            },
+            {
+              "id": "step_04_006",
+              "type": "choice",
+              "content": "向雷切跑去",
+              "group": "10月21日"
+            },
+            {
+              "id": "step_04_007",
+              "type": "choice",
+              "content": "尽力把握状况",
+              "group": "10月21日"
+            },
+            {
+              "id": "step_04_010",
+              "type": "choice",
+              "content": "无法回答",
+              "group": "10月22日"
+            },
+            {
+              "id": "step_04_014",
+              "type": "choice",
+              "content": "抑制厌恶感，继续突进",
+              "group": "10月27日"
+            },
+            {
+              "id": "step_04_019",
+              "type": "choice",
+              "content": "对贤久挥剑什么的做不到",
+              "group": "10月28日"
+            },
+            {
+              "id": "step_04_020",
+              "type": "choice",
+              "content": "看准空隙把手伸向雷切",
+              "group": "10月29日"
+            },
+            {
+              "id": "step_04_021",
+              "type": "choice",
+              "content": "出声制止美铃学姐",
+              "group": "10月29日"
+            },
+            {
+              "id": "step_04_022",
+              "type": "choice",
+              "content": "给雪子盖上毯子",
+              "group": "10月29日"
+            },
+            {
+              "id": "step_04_023",
+              "type": "choice",
+              "content": "在经历赤之夜前",
+              "group": "10月30日"
+            },
+            {
+              "id": "step_04_024",
+              "type": "choice",
+              "content": "我们几个在赤之夜之前曾经见过面",
+              "group": "10月30日"
+            },
+            {
+              "id": "step_04_025",
+              "type": "choice",
+              "content": "一直存在着",
+              "group": "10月30日"
+            },
+            {
+              "id": "step_04_026",
+              "type": "choice",
+              "content": "草壁美铃",
+              "group": "11月1日"
+            },
+            {
+              "id": "step_04_027",
+              "type": "choice",
+              "content": "橘菊理",
+              "group": "11月1日"
+            },
+            {
+              "id": "step_04_028",
+              "type": "choice",
+              "content": "百野栞",
+              "group": "11月1日"
+            },
+            {
+              "id": "step_04_029",
+              "type": "choice",
+              "content": "向新绫女跑去",
+              "group": "11月3日"
+            },
+            {
+              "id": "step_04_030",
+              "type": "choice",
+              "content": "一边回避攻击一边思考",
+              "group": "11月3日"
+            },
+            {
+              "id": "step_04_031",
+              "type": "choice",
+              "content": "相信劫之眼的力量",
+              "group": "11月3日"
+            }
+          ]
+        },
+        {
+          "id": "ending_05",
+          "name": "菊理 END1",
+          "type": "normal",
+          "requirements": "其他3人END后",
+          "steps": [
+            {
+              "id": "step_05_002",
+              "type": "load",
+              "content": "LOAD 8"
+            },
+            {
+              "id": "step_05_003",
+              "type": "choice",
+              "content": "对橘学姐说话",
+              "group": "10月7日"
+            },
+            {
+              "id": "step_05_004",
+              "type": "choice",
+              "content": "信任草壁学姐",
+              "group": "10月7日"
+            },
+            {
+              "id": "step_05_005",
+              "type": "choice",
+              "content": "提醒贤久小心",
+              "group": "10月7日"
+            },
+            {
+              "id": "step_05_006",
+              "type": "choice",
+              "content": "拔起雷切",
+              "group": "10月7日"
+            },
+            {
+              "id": "step_05_007",
+              "type": "choice",
+              "content": "全力刺进去",
+              "group": "10月7日"
+            },
+            {
+              "id": "step_05_008",
+              "type": "choice",
+              "content": "想着去图书馆看看",
+              "group": "10月9日"
+            },
+            {
+              "id": "step_05_009",
+              "type": "choice",
+              "content": "看着橘学姐",
+              "group": "10月11日"
+            },
+            {
+              "id": "step_05_010",
+              "type": "choice",
+              "content": "一边保护由佳，一边关注着战斗",
+              "group": "10月12日"
+            },
+            {
+              "id": "step_05_011",
+              "type": "choice",
+              "content": "跑向阿凯提亚的落下位置",
+              "group": "10月12日"
+            },
+            {
+              "id": "step_05_012",
+              "type": "choice",
+              "content": "不问",
+              "group": "10月19日"
+            },
+            {
+              "id": "step_05_013",
+              "type": "choice",
+              "content": "向雷切跑去",
+              "group": "10月21日"
+            },
+            {
+              "id": "step_05_014",
+              "type": "choice",
+              "content": "尽力把握状况",
+              "group": "10月21日"
+            },
+            {
+              "id": "step_05_015",
+              "type": "choice",
+              "content": "无法回答",
+              "group": "10月22日"
+            },
+            {
+              "id": "step_05_016",
+              "type": "choice",
+              "content": "抑制厌恶感，继续突进",
+              "group": "10月27日"
+            },
+            {
+              "id": "step_05_017",
+              "type": "choice",
+              "content": "对贤久挥剑什么的做不到",
+              "group": "10月28日"
+            },
+            {
+              "id": "step_05_018",
+              "type": "choice",
+              "content": "看准空隙把手伸向雷切",
+              "group": "10月29日"
+            },
+            {
+              "id": "step_05_019",
+              "type": "choice",
+              "content": "出声制止美铃学姐",
+              "group": "10月29日"
+            },
+            {
+              "id": "step_05_020",
+              "type": "choice",
+              "content": "给雪子盖上毯子",
+              "group": "10月29日"
+            },
+            {
+              "id": "step_05_021",
+              "type": "choice",
+              "content": "在经历赤之夜后",
+              "group": "10月30日"
+            },
+            {
+              "id": "step_05_022",
+              "type": "choice",
+              "content": "我们几个在赤之夜之前没有见过面",
+              "group": "10月30日"
+            },
+            {
+              "id": "step_05_023",
+              "type": "choice",
+              "content": "没有存在过",
+              "group": "10月30日"
+            },
+            {
+              "id": "step_05_024",
+              "type": "choice",
+              "content": "草壁美铃",
+              "group": "11月1日"
+            },
+            {
+              "id": "step_05_025",
+              "type": "choice",
+              "content": "橘菊理",
+              "group": "11月1日"
+            },
+            {
+              "id": "step_05_026",
+              "type": "choice",
+              "content": "不会杀",
+              "subfix": "会杀",
+              "group": "11月1日"
+            },
+            {
+              "id": "step_05_027",
+              "type": "choice",
+              "content": "百野栞",
+              "group": "11月1日"
+            },
+            {
+              "id": "step_05_028",
+              "type": "choice",
+              "content": "做",
+              "subfix": "不做",
+              "group": "11月1日"
+            },
+            {
+              "id": "step_05_029",
+              "type": "choice",
+              "content": "向新绫女跑去",
+              "group": "11月3日"
+            },
+            {
+              "id": "step_05_030",
+              "type": "choice",
+              "content": "一边回避攻击一边思考",
+              "group": "11月3日"
+            },
+            {
+              "id": "step_05_031",
+              "type": "choice",
+              "content": "相信劫之眼的力量",
+              "group": "11月3日"
+            }
+          ]
+        },
+        {
+          "id": "ending_06",
+          "name": "菊理 END2",
+          "type": "normal",
+          "requirements": "以上END后从标题画面【菊理】开始。",
+          "steps": [
+            {
+              "type": "choice",
+              "content": "（源站步骤均为空）"
+            }
+          ]
+        },
+        {
+          "id": "ending_07",
+          "name": "BAD END1",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_07_001",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_07_002",
+              "type": "choice",
+              "content": "向由佳家的方向跑去"
+            }
+          ]
+        },
+        {
+          "id": "ending_08",
+          "name": "BAD END2",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_08_001",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_08_002",
+              "type": "choice",
+              "content": "不与草壁学姐同行"
+            }
+          ]
+        },
+        {
+          "id": "ending_09",
+          "name": "BAD END3",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_09_001",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_09_002",
+              "type": "choice",
+              "content": "无视草壁学姐的制止"
+            }
+          ]
+        },
+        {
+          "id": "ending_10",
+          "name": "BAD END4",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_10_001",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_10_002",
+              "type": "choice",
+              "content": "朝着学园方向冲刺"
+            }
+          ]
+        },
+        {
+          "id": "ending_11",
+          "name": "BAD END5",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_11_001",
+              "type": "load",
+              "content": "LOAD 5"
+            },
+            {
+              "id": "step_11_002",
+              "type": "choice",
+              "content": "拉着由佳的手，强行把她拉起来"
+            }
+          ]
+        },
+        {
+          "id": "ending_12",
+          "name": "BAD END6",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_12_001",
+              "type": "load",
+              "content": "LOAD 6"
+            },
+            {
+              "id": "step_12_002",
+              "type": "choice",
+              "content": "跑到雪子身边"
+            }
+          ]
+        },
+        {
+          "id": "ending_13",
+          "name": "BAD END7",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_13_001",
+              "type": "load",
+              "content": "LOAD 7"
+            },
+            {
+              "id": "step_13_002",
+              "type": "choice",
+              "content": "逃离暗精灵的威胁"
+            }
+          ]
+        },
+        {
+          "id": "ending_14",
+          "name": "BAD END8",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_14_001",
+              "type": "load",
+              "content": "LOAD 9"
+            },
+            {
+              "id": "step_14_002",
+              "type": "choice",
+              "content": "帮助草壁学姐"
+            }
+          ]
+        },
+        {
+          "id": "ending_15",
+          "name": "BAD END9",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_15_001",
+              "type": "load",
+              "content": "LOAD 10"
+            },
+            {
+              "id": "step_15_002",
+              "type": "choice",
+              "content": "为了帮助贤久与雪子而奔跑"
+            }
+          ]
+        },
+        {
+          "id": "ending_16",
+          "name": "BAD END10",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_16_001",
+              "type": "load",
+              "content": "LOAD 11"
+            },
+            {
+              "id": "step_16_002",
+              "type": "choice",
+              "content": "挺身保护由佳"
+            }
+          ]
+        },
+        {
+          "id": "ending_17",
+          "name": "BAD END11",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_17_001",
+              "type": "load",
+              "content": "LOAD 12"
+            },
+            {
+              "id": "step_17_002",
+              "type": "choice",
+              "content": "拔出雷切，重新取好距离"
+            }
+          ]
+        },
+        {
+          "id": "ending_18",
+          "name": "BAD END12",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_18_001",
+              "type": "load",
+              "content": "LOAD 14"
+            },
+            {
+              "id": "step_18_002",
+              "type": "choice",
+              "content": "加入战局中"
+            }
+          ]
+        },
+        {
+          "id": "ending_19",
+          "name": "BAD END13",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_19_001",
+              "type": "load",
+              "content": "LOAD 15"
+            },
+            {
+              "id": "step_19_002",
+              "type": "choice",
+              "content": "跑向贤久所在位置"
+            }
+          ]
+        },
+        {
+          "id": "ending_20",
+          "name": "BAD END14",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_20_001",
+              "type": "load",
+              "content": "LOAD 17"
+            },
+            {
+              "id": "step_20_002",
+              "type": "choice",
+              "content": "向美铃学姐跑去"
+            }
+          ]
+        },
+        {
+          "id": "ending_21",
+          "name": "BAD END15",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_21_001",
+              "type": "load",
+              "content": "LOAD 18"
+            },
+            {
+              "id": "step_21_002",
+              "type": "choice",
+              "content": "用雷切袭向伊拉"
+            }
+          ]
+        },
+        {
+          "id": "ending_22",
+          "name": "BAD END16",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_22_001",
+              "type": "load",
+              "content": "LOAD 19"
+            },
+            {
+              "id": "step_22_002",
+              "type": "choice",
+              "content": "对砍杀人型的物体产生抗拒"
+            }
+          ]
+        },
+        {
+          "id": "ending_23",
+          "name": "BAD END17",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_23_001",
+              "type": "load",
+              "content": "LOAD 20"
+            },
+            {
+              "id": "step_23_002",
+              "type": "choice",
+              "content": "对暴走的贤久利剑相向"
+            }
+          ]
+        },
+        {
+          "id": "ending_24",
+          "name": "BAD END18",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_24_001",
+              "type": "load",
+              "content": "LOAD 21"
+            },
+            {
+              "id": "step_24_002",
+              "type": "choice",
+              "content": "朝着商店街的方向跑去"
+            }
+          ]
+        },
+        {
+          "id": "ending_25",
+          "name": "BAD END19",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_25_001",
+              "type": "load",
+              "content": "LOAD 22"
+            },
+            {
+              "id": "step_25_002",
+              "type": "choice",
+              "content": "默默地注视"
+            }
+          ]
+        },
+        {
+          "id": "ending_26",
+          "name": "BAD END20",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_26_001",
+              "type": "load",
+              "content": "LOAD 23"
+            },
+            {
+              "id": "step_26_002",
+              "type": "choice",
+              "content": "还是打算把雪子叫醒"
+            }
+          ]
+        },
+        {
+          "id": "ending_27",
+          "name": "BAD END21",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_27_001",
+              "type": "load",
+              "content": "LOAD 24"
+            },
+            {
+              "id": "step_27_002",
+              "type": "choice",
+              "content": "向菊理学姐和栞跑去"
+            }
+          ]
+        },
+        {
+          "id": "ending_28",
+          "name": "BAD END22",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_28_001",
+              "type": "load",
+              "content": "LOAD 25"
+            },
+            {
+              "id": "step_28_002",
+              "type": "choice",
+              "content": "用雷切斩魔法攻击"
+            }
+          ]
+        },
+        {
+          "id": "ending_29",
+          "name": "BAD END23",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_29_001",
+              "type": "load",
+              "content": "LOAD 26"
+            },
+            {
+              "id": "step_29_002",
+              "type": "choice",
+              "content": "将雷切召唤至手中"
+            }
+          ]
+        },
+        {
+          "id": "ending_30",
+          "name": "H回收",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_30_001",
+              "type": "load",
+              "content": "LOAD 16"
+            },
+            {
+              "id": "step_30_002",
+              "type": "choice",
+              "content": "接受、任由摆布"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

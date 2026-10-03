@@ -1,0 +1,1171 @@
+{
+  "vid": "v33",
+  "name": {
+    "zh-cn": "Kanon",
+    "en-us": "Kanon",
+    "ja-jp": "Kanon",
+    "ja-Latn": "kanon"
+  },
+  "level": 2,
+  "updatedAt": "2026-03-24",
+  "routes": [
+    {
+      "id": "route_1774077119175",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1774077125695",
+          "name": "水濑名雪 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1774077205480",
+              "type": "choice",
+              "content": "起床"
+            },
+            {
+              "id": "step_1774077205687",
+              "type": "choice",
+              "content": "可以帮我整理房间吗"
+            },
+            {
+              "id": "step_1774077205819",
+              "type": "choice",
+              "content": "帮她加油"
+            },
+            {
+              "id": "step_1774077205959",
+              "type": "choice",
+              "content": "我是无所谓"
+            },
+            {
+              "id": "step_1774077206908",
+              "type": "choice",
+              "content": "帮她拿包包"
+            },
+            {
+              "id": "step_1774077207053",
+              "type": "choice",
+              "content": "不解释原因"
+            },
+            {
+              "id": "step_1774077207272",
+              "type": "choice",
+              "content": "不再追问下去"
+            },
+            {
+              "id": "step_1774077207409",
+              "type": "choice",
+              "content": "留在原地"
+            },
+            {
+              "id": "step_1774077207629",
+              "type": "choice",
+              "content": "还是算了"
+            },
+            {
+              "id": "step_1774077207791",
+              "type": "choice",
+              "content": "进入房间"
+            },
+            {
+              "id": "step_1774077207928",
+              "type": "choice",
+              "content": "再挑战看看"
+            },
+            {
+              "id": "step_1774077208070",
+              "type": "choice",
+              "content": "请她送我"
+            },
+            {
+              "id": "step_1774077208180",
+              "type": "choice",
+              "content": "绝对不会的"
+            },
+            {
+              "id": "step_1774077208320",
+              "type": "choice",
+              "content": "考虑看看好了"
+            },
+            {
+              "id": "step_1774077208472",
+              "type": "choice",
+              "content": "不吃"
+            },
+            {
+              "id": "step_1774077208741",
+              "type": "choice",
+              "content": "还是算"
+            },
+            {
+              "id": "step_1774077208931",
+              "type": "choice",
+              "content": "总之继续催促她"
+            },
+            {
+              "id": "step_1774077209085",
+              "type": "choice",
+              "content": "再稍微等她一下"
+            },
+            {
+              "id": "step_1774077209250",
+              "type": "choice",
+              "content": "那个人是谁呢？"
+            },
+            {
+              "id": "step_1774077209406",
+              "type": "choice",
+              "content": "试著躲开"
+            },
+            {
+              "id": "step_1774077211942",
+              "type": "choice",
+              "content": "开始自我介绍"
+            },
+            {
+              "id": "step_1774077332636",
+              "type": "choice",
+              "content": "大叫一声吓死她"
+            },
+            {
+              "id": "step_1774077332819",
+              "type": "choice",
+              "content": "还是算了"
+            },
+            {
+              "id": "step_1774077333004",
+              "type": "choice",
+              "content": "那我先回去了"
+            },
+            {
+              "id": "step_1774077333157",
+              "type": "choice",
+              "content": "问她是来做什麽的"
+            },
+            {
+              "id": "step_1774077333308",
+              "type": "choice",
+              "content": "老实道歉"
+            },
+            {
+              "id": "step_1774077333481",
+              "type": "choice",
+              "content": "口头上帮她打气"
+            },
+            {
+              "id": "step_1774077367241",
+              "type": "choice",
+              "content": "去真琴的房间闹闹"
+            },
+            {
+              "id": "step_1774077367408",
+              "type": "choice",
+              "content": "要我洗个澡在身体变冷之前睡觉"
+            },
+            {
+              "id": "step_1774077367746",
+              "type": "choice",
+              "content": "教训她"
+            },
+            {
+              "id": "step_1774077367926",
+              "type": "choice",
+              "content": "住在学校"
+            },
+            {
+              "id": "step_1774077368107",
+              "type": "choice",
+              "content": "总之先放著不管"
+            },
+            {
+              "id": "step_1774077368229",
+              "type": "choice",
+              "content": "去帮她买点东西"
+            },
+            {
+              "id": "step_1774077368401",
+              "type": "choice",
+              "content": "逛一下商店街再回去"
+            },
+            {
+              "id": "step_1774077368581",
+              "type": "choice",
+              "content": "应该是认真的"
+            },
+            {
+              "id": "step_1774077368761",
+              "type": "choice",
+              "content": "顺便托她买色情书刊"
+            },
+            {
+              "id": "step_1774077368906",
+              "type": "choice",
+              "content": "找些东西填肚子"
+            },
+            {
+              "id": "step_1774077369084",
+              "type": "choice",
+              "content": "现在就当场追问下去"
+            },
+            {
+              "id": "step_1774077369284",
+              "type": "choice",
+              "content": "拿起换洗衣物走出房间"
+            },
+            {
+              "id": "step_1774077415380",
+              "type": "choice",
+              "content": "吃完再去"
+            },
+            {
+              "id": "step_1774077415506",
+              "type": "choice",
+              "content": "视条件而定帮忙也无所谓"
+            },
+            {
+              "id": "step_1774077415604",
+              "type": "choice",
+              "content": "问她汐里的事"
+            },
+            {
+              "id": "step_1774077415755",
+              "type": "choice",
+              "content": "还是吃吧…"
+            },
+            {
+              "id": "step_1774077415874",
+              "type": "choice",
+              "content": "询问香里的事情"
+            },
+            {
+              "id": "step_1774077435822",
+              "type": "choice",
+              "content": "途中到商店街买把伞再回去"
+            },
+            {
+              "id": "step_1774077435987",
+              "type": "choice",
+              "content": "捡起来扔到走廊上"
+            },
+            {
+              "id": "step_1774077449461",
+              "type": "choice",
+              "content": "随她高兴"
+            },
+            {
+              "id": "step_1774077449601",
+              "type": "choice",
+              "content": "现在没那个时间"
+            },
+            {
+              "id": "step_1774077449750",
+              "type": "choice",
+              "content": "就这样等下去"
+            },
+            {
+              "id": "step_1774077449871",
+              "type": "choice",
+              "content": "去吃点东西吧"
+            },
+            {
+              "id": "step_1774077449996",
+              "type": "choice",
+              "content": "只是那样的话…"
+            },
+            {
+              "id": "step_1774077450122",
+              "type": "choice",
+              "content": "改变房间的摆设"
+            },
+            {
+              "id": "step_1774077496553",
+              "type": "choice",
+              "content": "绝对不可能"
+            },
+            {
+              "id": "step_1774077496687",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1774077496961",
+              "type": "choice",
+              "content": "就这么在家里等"
+            },
+            {
+              "id": "step_1774077497165",
+              "type": "choice",
+              "content": "处理一下吃掉"
+            },
+            {
+              "id": "step_1774077497319",
+              "type": "choice",
+              "content": "第一号战术"
+            },
+            {
+              "id": "step_1774077514752",
+              "type": "choice",
+              "content": "走我旁边吧"
+            },
+            {
+              "id": "step_1774077514912",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1774077515031",
+              "type": "choice",
+              "content": "好啊"
+            },
+            {
+              "id": "step_1774077515156",
+              "type": "choice",
+              "content": "把她叫醒"
+            },
+            {
+              "id": "step_1774077515321",
+              "type": "choice",
+              "content": "和名雪一起回去"
+            },
+            {
+              "id": "step_1774077515430",
+              "type": "choice",
+              "content": "“名雪”这名字真奇怪呢"
+            },
+            {
+              "id": "step_1774077539558",
+              "type": "choice",
+              "content": "完全不行"
+            },
+            {
+              "id": "step_1774077539721",
+              "type": "choice",
+              "content": "一起念书"
+            },
+            {
+              "id": "step_1774077539959",
+              "type": "choice",
+              "content": "说点话安慰她"
+            },
+            {
+              "id": "step_1774077540105",
+              "type": "choice",
+              "content": "今天也跟名雪一起念书"
+            },
+            {
+              "id": "step_1774077540258",
+              "type": "choice",
+              "content": "问名雪生日"
+            },
+            {
+              "id": "step_1774077540388",
+              "type": "choice",
+              "content": "到名雪的房间"
+            },
+            {
+              "id": "step_1774077540542",
+              "type": "choice",
+              "content": "请她买杂志"
+            },
+            {
+              "id": "step_1774077540662",
+              "type": "choice",
+              "content": "在这里吃"
+            },
+            {
+              "id": "step_1774077540787",
+              "type": "choice",
+              "content": "这次就买些东西给她"
+            },
+            {
+              "id": "step_1774077540931",
+              "type": "choice",
+              "content": "让她静一静"
+            }
+          ]
+        },
+        {
+          "id": "ending_1774077662490",
+          "name": "沢渡真琴 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1774077673327",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1774077677273",
+              "type": "choice",
+              "content": "再看一会儿"
+            },
+            {
+              "id": "step_1774077677445",
+              "type": "choice",
+              "content": "想像那种状况"
+            },
+            {
+              "id": "step_1774077677779",
+              "type": "choice",
+              "content": "阿猫伊籐"
+            },
+            {
+              "id": "step_1774077677955",
+              "type": "choice",
+              "content": "进去一起洗"
+            },
+            {
+              "id": "step_1774077678438",
+              "type": "choice",
+              "content": "准备反击"
+            },
+            {
+              "id": "step_1774077678650",
+              "type": "choice",
+              "content": "嗯，是啊"
+            },
+            {
+              "id": "step_1774077679020",
+              "type": "choice",
+              "content": "我是最近转学过来的"
+            },
+            {
+              "id": "step_1774077679344",
+              "type": "choice",
+              "content": "去找天野"
+            },
+            {
+              "id": "step_1774077679532",
+              "type": "choice",
+              "content": "乖乖离去"
+            },
+            {
+              "id": "step_1774077679702",
+              "type": "choice",
+              "content": "在这边再待一会儿"
+            },
+            {
+              "id": "step_1774077680132",
+              "type": "choice",
+              "content": "回校门口"
+            },
+            {
+              "id": "step_1774077680355",
+              "type": "choice",
+              "content": "肯定是天野"
+            }
+          ]
+        },
+        {
+          "id": "ending_1774077756139",
+          "name": "天野汐里 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1774077823052",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1774077827513",
+              "type": "choice",
+              "content": "我也出门吧"
+            },
+            {
+              "id": "step_1774077827690",
+              "type": "choice",
+              "content": "往学校的方向走"
+            },
+            {
+              "id": "step_1774077827982",
+              "type": "choice",
+              "content": "要她放回冰箱去"
+            },
+            {
+              "id": "step_1774077828178",
+              "type": "choice",
+              "content": "第二号战术"
+            },
+            {
+              "id": "step_1774077828341",
+              "type": "choice",
+              "content": "去汐里所说的地方"
+            },
+            {
+              "id": "step_1774077828510",
+              "type": "choice",
+              "content": "和她约定"
+            },
+            {
+              "id": "step_1774077828670",
+              "type": "choice",
+              "content": "随便编个藉口打发掉"
+            },
+            {
+              "id": "step_1774077828827",
+              "type": "choice",
+              "content": "还是婉拒吧"
+            },
+            {
+              "id": "step_1774077828998",
+              "type": "choice",
+              "content": "改成搔她痒试试"
+            },
+            {
+              "id": "step_1774077829151",
+              "type": "choice",
+              "content": "陪她打雪仗"
+            },
+            {
+              "id": "step_1774077829342",
+              "type": "choice",
+              "content": "无论如何都想看"
+            },
+            {
+              "id": "step_1774077829665",
+              "type": "choice",
+              "content": "觉得是喜欢"
+            },
+            {
+              "id": "step_1774077829864",
+              "type": "choice",
+              "content": "道歉"
+            },
+            {
+              "id": "step_1774077830047",
+              "type": "choice",
+              "content": "去平常去的地方"
+            },
+            {
+              "id": "step_1774077830217",
+              "type": "choice",
+              "content": "不去餐厅"
+            },
+            {
+              "id": "step_1774077830390",
+              "type": "choice",
+              "content": "也许吧…"
+            },
+            {
+              "id": "step_1774077830549",
+              "type": "choice",
+              "content": "和她约定"
+            },
+            {
+              "id": "step_1774077830718",
+              "type": "choice",
+              "content": "我期待着"
+            },
+            {
+              "id": "step_1774077830880",
+              "type": "choice",
+              "content": "即使是拼命也要吃"
+            },
+            {
+              "id": "step_1774077831048",
+              "type": "choice",
+              "content": "是男女朋友"
+            },
+            {
+              "id": "step_1774077831224",
+              "type": "choice",
+              "content": "叫她们两人来自己这桌"
+            },
+            {
+              "id": "step_1774077831389",
+              "type": "choice",
+              "content": "或许有在想"
+            }
+          ]
+        },
+        {
+          "id": "ending_1774079441805",
+          "name": "川澄舞 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1774079452312",
+              "type": "choice",
+              "content": "从最初开始"
+            },
+            {
+              "id": "step_1774079461990",
+              "type": "choice",
+              "content": "继续睡"
+            },
+            {
+              "id": "step_1774079462147",
+              "type": "choice",
+              "content": "可以带我去街上逛逛吗？"
+            },
+            {
+              "id": "step_1774079462293",
+              "type": "choice",
+              "content": "帮她拿包包"
+            },
+            {
+              "id": "step_1774079462432",
+              "type": "choice",
+              "content": "解释原因"
+            },
+            {
+              "id": "step_1774079462566",
+              "type": "choice",
+              "content": "继续追问"
+            },
+            {
+              "id": "step_1774079462712",
+              "type": "choice",
+              "content": "一起躲进去"
+            },
+            {
+              "id": "step_1774079462911",
+              "type": "choice",
+              "content": "收下"
+            },
+            {
+              "id": "step_1774079463082",
+              "type": "choice",
+              "content": "放著不管"
+            },
+            {
+              "id": "step_1774079491244",
+              "type": "choice",
+              "content": "没有这个必要"
+            },
+            {
+              "id": "step_1774079491401",
+              "type": "choice",
+              "content": "说的也是…"
+            },
+            {
+              "id": "step_1774079491527",
+              "type": "choice",
+              "content": "总之继续催促她"
+            },
+            {
+              "id": "step_1774079491649",
+              "type": "choice",
+              "content": "强迫她结束用餐"
+            },
+            {
+              "id": "step_1774079491778",
+              "type": "choice",
+              "content": "从什么时候就在这啦？"
+            },
+            {
+              "id": "step_1774079491908",
+              "type": "choice",
+              "content": "就这么被她打"
+            },
+            {
+              "id": "step_1774079492043",
+              "type": "choice",
+              "content": "确认她是否丧失记忆"
+            },
+            {
+              "id": "step_1774079492157",
+              "type": "choice",
+              "content": "让她帮忙"
+            },
+            {
+              "id": "step_1774079492274",
+              "type": "choice",
+              "content": "当然有罗"
+            },
+            {
+              "id": "step_1774079492412",
+              "type": "choice",
+              "content": "心甘情愿用脸来接蒟篛"
+            },
+            {
+              "id": "step_1774079492584",
+              "type": "choice",
+              "content": "试着走看看"
+            },
+            {
+              "id": "step_1774079492704",
+              "type": "choice",
+              "content": "老实承认自己输了"
+            },
+            {
+              "id": "step_1774079492823",
+              "type": "choice",
+              "content": "陪她一起找东西"
+            },
+            {
+              "id": "step_1774079492948",
+              "type": "choice",
+              "content": "就这样发呆打发时间"
+            },
+            {
+              "id": "step_1774079493093",
+              "type": "choice",
+              "content": "要我去学校把笔记拿回来"
+            },
+            {
+              "id": "step_1774079493418",
+              "type": "choice",
+              "content": "算了别理她"
+            },
+            {
+              "id": "step_1774079493604",
+              "type": "choice",
+              "content": "不要睡"
+            },
+            {
+              "id": "step_1774079494196",
+              "type": "choice",
+              "content": "昨晚我们见过面吧？"
+            },
+            {
+              "id": "step_1774079494349",
+              "type": "choice",
+              "content": "跟她们一起吃饭"
+            },
+            {
+              "id": "step_1774079494500",
+              "type": "choice",
+              "content": "试试看吧"
+            },
+            {
+              "id": "step_1774079494640",
+              "type": "choice",
+              "content": "逛一下商店街再回去"
+            },
+            {
+              "id": "step_1774079619414",
+              "type": "choice",
+              "content": "顺便托她买香烟"
+            },
+            {
+              "id": "step_1774079619567",
+              "type": "choice",
+              "content": "帮她一起找"
+            },
+            {
+              "id": "step_1774079619721",
+              "type": "choice",
+              "content": "忍耐下去"
+            },
+            {
+              "id": "step_1774079619866",
+              "type": "choice",
+              "content": "交给秋子阿姨处理善后"
+            },
+            {
+              "id": "step_1774079620017",
+              "type": "choice",
+              "content": "前往夜间的校舍"
+            },
+            {
+              "id": "step_1774079620162",
+              "type": "choice",
+              "content": "等舞发现"
+            },
+            {
+              "id": "step_1774079620311",
+              "type": "choice",
+              "content": "就这么麽继续睡"
+            },
+            {
+              "id": "step_1774079620474",
+              "type": "choice",
+              "content": "我也跟在名雪后面出去"
+            },
+            {
+              "id": "step_1774079620642",
+              "type": "choice",
+              "content": "还是不帮忙"
+            },
+            {
+              "id": "step_1774079620809",
+              "type": "choice",
+              "content": "干脆地拒绝"
+            },
+            {
+              "id": "step_1774079620992",
+              "type": "choice",
+              "content": "途中到商店街买把伞再回去"
+            },
+            {
+              "id": "step_1774079621165",
+              "type": "choice",
+              "content": "今天也要找吗？"
+            },
+            {
+              "id": "step_1774079654904",
+              "type": "choice",
+              "content": "心甘情愿地投身于烟火当中"
+            },
+            {
+              "id": "step_1774079655168",
+              "type": "choice",
+              "content": "就算强迫也要制止她"
+            },
+            {
+              "id": "step_1774079655356",
+              "type": "choice",
+              "content": "没办法只好吃了"
+            },
+            {
+              "id": "step_1774079655521",
+              "type": "choice",
+              "content": "去为她辩解"
+            },
+            {
+              "id": "step_1774079655685",
+              "type": "choice",
+              "content": "回家之前先忍耐"
+            },
+            {
+              "id": "step_1774079655861",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_1774079656035",
+              "type": "choice",
+              "content": "继续陪伴舞"
+            },
+            {
+              "id": "step_1774079656213",
+              "type": "choice",
+              "content": "放著不管"
+            },
+            {
+              "id": "step_1774079656391",
+              "type": "choice",
+              "content": "或许真的会如此吧"
+            },
+            {
+              "id": "step_1774079656552",
+              "type": "choice",
+              "content": "我也出门吧"
+            },
+            {
+              "id": "step_1774079656713",
+              "type": "choice",
+              "content": "往商店街走"
+            },
+            {
+              "id": "step_1774079656878",
+              "type": "choice",
+              "content": "带著牛丼逃走"
+            },
+            {
+              "id": "step_1774079704558",
+              "type": "choice",
+              "content": "要她放回冰箱去"
+            },
+            {
+              "id": "step_1774079704733",
+              "type": "choice",
+              "content": "第二号战术"
+            },
+            {
+              "id": "step_1774079704944",
+              "type": "choice",
+              "content": "寻找舞"
+            },
+            {
+              "id": "step_1774079705145",
+              "type": "choice",
+              "content": "一如往常前往那里"
+            },
+            {
+              "id": "step_1774079705325",
+              "type": "choice",
+              "content": "摸她胸部看看"
+            },
+            {
+              "id": "step_1774079705484",
+              "type": "choice",
+              "content": "随便编个藉口打发掉"
+            },
+            {
+              "id": "step_1774079705643",
+              "type": "choice",
+              "content": "还是婉拒吧"
+            },
+            {
+              "id": "step_1774079705801",
+              "type": "choice",
+              "content": "约舞到其他地方"
+            },
+            {
+              "id": "step_1774079705995",
+              "type": "choice",
+              "content": "老实回答"
+            },
+            {
+              "id": "step_1774079706223",
+              "type": "choice",
+              "content": "我好像妨碍到你了"
+            },
+            {
+              "id": "step_1774079783053",
+              "type": "choice",
+              "content": "丢掉纳豆拌饭跑去捡剑"
+            },
+            {
+              "id": "step_1774079783359",
+              "type": "choice",
+              "content": "把剑掷向所指的方向"
+            },
+            {
+              "id": "step_1774079783883",
+              "type": "choice",
+              "content": "麻烦她"
+            },
+            {
+              "id": "step_1774079784072",
+              "type": "choice",
+              "content": "赶快找佐佑理吧"
+            },
+            {
+              "id": "step_1774079784304",
+              "type": "choice",
+              "content": "我喜欢她"
+            },
+            {
+              "id": "step_1774079784544",
+              "type": "choice",
+              "content": "发动连署"
+            },
+            {
+              "id": "step_1774079784793",
+              "type": "choice",
+              "content": "插嘴"
+            },
+            {
+              "id": "step_1774079785005",
+              "type": "choice",
+              "content": "捏一捏舞的脸颊"
+            },
+            {
+              "id": "step_1774079785197",
+              "type": "choice",
+              "content": "这还要问吗"
+            },
+            {
+              "id": "step_1774079785409",
+              "type": "choice",
+              "content": "代替舞前往迎击"
+            },
+            {
+              "id": "step_1774079785599",
+              "type": "choice",
+              "content": "到餐厅吃饭"
+            },
+            {
+              "id": "step_1774079785832",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_1774079786055",
+              "type": "choice",
+              "content": "左"
+            },
+            {
+              "id": "step_1774079837416",
+              "type": "choice",
+              "content": "闪躲比较重要"
+            },
+            {
+              "id": "step_1774079837628",
+              "type": "choice",
+              "content": "让她加入"
+            },
+            {
+              "id": "step_1774079837845",
+              "type": "choice",
+              "content": "仓田"
+            },
+            {
+              "id": "step_1774079838054",
+              "type": "choice",
+              "content": "想到一件无聊的事"
+            },
+            {
+              "id": "step_1774079838268",
+              "type": "choice",
+              "content": "问舞看看"
+            },
+            {
+              "id": "step_1774079838470",
+              "type": "choice",
+              "content": "冲到舞的怀里"
+            },
+            {
+              "id": "step_1774079838711",
+              "type": "choice",
+              "content": "闪躲"
+            },
+            {
+              "id": "step_1774079838960",
+              "type": "choice",
+              "content": "全速跑去"
+            },
+            {
+              "id": "step_1774079839176",
+              "type": "choice",
+              "content": "卧倒在地"
+            },
+            {
+              "id": "step_1774079839400",
+              "type": "choice",
+              "content": "用剑身挡"
+            }
+          ]
+        },
+        {
+          "id": "ending_1774079907236",
+          "name": "仓田佐佑理 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1774079924915",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_1774079933508",
+              "type": "choice",
+              "content": "左"
+            },
+            {
+              "id": "step_1774079933761",
+              "type": "choice",
+              "content": "问问看"
+            }
+          ]
+        },
+        {
+          "id": "ending_1774079942662",
+          "name": "月宫雅 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1774079951542",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1774079956520",
+              "type": "choice",
+              "content": "不再和舞来往"
+            },
+            {
+              "id": "step_1774079956761",
+              "type": "choice",
+              "content": "放著不管"
+            },
+            {
+              "id": "step_1774079957040",
+              "type": "choice",
+              "content": "或许真的会如此吧"
+            },
+            {
+              "id": "step_1774079957336",
+              "type": "choice",
+              "content": "我也出门吧"
+            },
+            {
+              "id": "step_1774079957605",
+              "type": "choice",
+              "content": "往商店街走"
+            },
+            {
+              "id": "step_1774079957842",
+              "type": "choice",
+              "content": "要她放回冰箱去"
+            },
+            {
+              "id": "step_1774079958094",
+              "type": "choice",
+              "content": "第二号战术"
+            },
+            {
+              "id": "step_1774079958352",
+              "type": "choice",
+              "content": "我要回去了"
+            },
+            {
+              "id": "step_1774079958637",
+              "type": "choice",
+              "content": "老实回答"
+            },
+            {
+              "id": "step_1774079958892",
+              "type": "choice",
+              "content": "好啊"
+            },
+            {
+              "id": "step_1774079959162",
+              "type": "choice",
+              "content": "不管她"
+            },
+            {
+              "id": "step_1774079959438",
+              "type": "choice",
+              "content": "同意名雪的意见"
+            },
+            {
+              "id": "step_1774079959706",
+              "type": "choice",
+              "content": "放著不管"
+            },
+            {
+              "id": "step_1774079959974",
+              "type": "choice",
+              "content": "请小雅做"
+            },
+            {
+              "id": "step_1774079960266",
+              "type": "choice",
+              "content": "再开她一点玩笑"
+            },
+            {
+              "id": "step_1774079960526",
+              "type": "choice",
+              "content": "我来帮她喝"
+            },
+            {
+              "id": "step_1774079960800",
+              "type": "choice",
+              "content": "回答会变得热闹又有趣"
+            },
+            {
+              "id": "step_1774079961093",
+              "type": "choice",
+              "content": "跟小雅一起回去"
+            },
+            {
+              "id": "step_1774079961376",
+              "type": "choice",
+              "content": "没错"
+            },
+            {
+              "id": "step_1774079961687",
+              "type": "choice",
+              "content": "“奴家”"
+            },
+            {
+              "id": "step_1774079961979",
+              "type": "choice",
+              "content": "拉开窗帘"
+            },
+            {
+              "id": "step_1774079962277",
+              "type": "choice",
+              "content": "马上动身追赶"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

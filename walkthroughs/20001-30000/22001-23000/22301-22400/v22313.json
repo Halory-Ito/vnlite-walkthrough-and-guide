@@ -1,0 +1,117 @@
+{
+  "vid": "v22313",
+  "name": {
+    "zh-cn": "樱花，萌放",
+    "en-us": "as the Night's, Reincarnation",
+    "ja-jp": "さくら、もゆ。-as the Night's, Reincarnation-",
+    "ja-Latn": "sakura-moyu-as-the-nights-reincarnation"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-12",
+  "routes": [
+    {
+      "id": "route_1757420753774",
+      "name": "夜月 姬织",
+      "endings": [
+        {
+          "id": "ending_1757421632761",
+          "name": "姬织 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1757423319424",
+              "type": "choice",
+              "content": "夜月神社"
+            },
+            {
+              "id": "step_1757423319601",
+              "type": "choice",
+              "content": "在大街上散步"
+            },
+            {
+              "id": "step_1757423320786",
+              "type": "choice",
+              "content": "小石桥"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1757423356165",
+      "name": "杏藤 千和",
+      "endings": [
+        {
+          "id": "ending_1757423370307",
+          "name": "千和 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1757423385735",
+              "type": "choice",
+              "content": "在大街上散步"
+            },
+            {
+              "id": "step_1757423385890",
+              "type": "choice",
+              "content": "夜月神社"
+            },
+            {
+              "id": "step_1757423386092",
+              "type": "choice",
+              "content": "小石桥"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1757423536372",
+      "name": "小春",
+      "endings": [
+        {
+          "id": "ending_1757423548000",
+          "name": "小春 END",
+          "type": "normal",
+          "requirements": "攻略以上两个人后",
+          "steps": [
+            {
+              "id": "step_1757423595185",
+              "type": "choice",
+              "content": "小石桥"
+            },
+            {
+              "id": "step_1757423596218",
+              "type": "choice",
+              "content": "在大街上散步"
+            },
+            {
+              "id": "step_1757423596450",
+              "type": "choice",
+              "content": "夜月神社"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1757423623475",
+      "name": "小黑",
+      "endings": [
+        {
+          "id": "ending_1757423639730",
+          "name": "小黑 END",
+          "type": "normal",
+          "requirements": "标题画面开始新游戏",
+          "steps": [
+            {
+              "id": "step_1757424536092",
+              "type": "choice",
+              "content": "小黑的故事"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

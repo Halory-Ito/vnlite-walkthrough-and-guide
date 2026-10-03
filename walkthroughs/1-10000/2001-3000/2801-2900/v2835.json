@@ -1,0 +1,168 @@
+{
+  "vid": "v2835",
+  "name": {
+    "zh-cn": "在天津御空之中",
+    "ja-jp": "あまつみそらに！",
+    "ja-Latn": "amatsu-misora-ni"
+  },
+  "level": 2,
+  "updatedAt": "2026-04-13",
+  "routes": [
+    {
+      "id": "route_game_guide",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_kanna_end",
+          "name": "神奈 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_kanna_01",
+              "type": "choice",
+              "content": "没有没有"
+            },
+            {
+              "id": "step_kanna_02",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_kanna_03",
+              "type": "choice",
+              "content": "回去时顺路去神社看看吧"
+            },
+            {
+              "id": "step_kanna_04",
+              "type": "choice",
+              "content": "能不能给我美唯的签名"
+            },
+            {
+              "id": "step_kanna_05",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_kanna_06",
+              "type": "choice",
+              "content": "去帷那里分一点吧"
+            },
+            {
+              "id": "step_kanna_07",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_kanna_08",
+              "type": "choice",
+              "content": "嗯，第一位果然还是神奈啊"
+            }
+          ]
+        },
+        {
+          "id": "ending_mikage_end",
+          "name": "深景 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_mikage_01",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_mikage_02",
+              "type": "choice",
+              "content": "去旧神社的话说不定能找到什么……"
+            }
+          ]
+        },
+        {
+          "id": "ending_miyui_end",
+          "name": "美唯 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_miyui_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_miyui_02",
+              "type": "choice",
+              "content": "把美唯叫醒问问看吧"
+            },
+            {
+              "id": "step_miyui_03",
+              "type": "choice",
+              "content": "嗯，第一位果然还是神奈啊"
+            }
+          ]
+        },
+        {
+          "id": "ending_serika_end",
+          "name": "芹夏 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_serika_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_serika_02",
+              "type": "choice",
+              "content": "去给帷送点慰问品吧"
+            },
+            {
+              "id": "step_serika_03",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_serika_04",
+              "type": "choice",
+              "content": "让她在大家面前唱歌吧"
+            },
+            {
+              "id": "step_serika_05",
+              "type": "choice",
+              "content": "把美唯叫醒问问看吧"
+            },
+            {
+              "id": "step_serika_06",
+              "type": "choice",
+              "content": "嗯，第一位果然还是神奈啊"
+            }
+          ]
+        },
+        {
+          "id": "ending_chisa_end",
+          "name": "千纱 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_chisa_01",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_chisa_02",
+              "type": "choice",
+              "content": "能不能给我美唯的签名"
+            },
+            {
+              "id": "step_chisa_03",
+              "type": "choice",
+              "content": "去帷那里分一点吧"
+            },
+            {
+              "id": "step_chisa_04",
+              "type": "choice",
+              "content": "去旧神社的话说不定能找到什么……"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

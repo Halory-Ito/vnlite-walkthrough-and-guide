@@ -1,0 +1,1014 @@
+{
+  "vid": "v15395",
+  "name": {
+    "zh-cn": "FLOWERS 夏篇",
+    "en-us": "Flowers -Le volume sur été-",
+    "ja-jp": "FLOWERS 夏篇",
+    "ja-Latn": "flowers-le-volume-sur-ete"
+  },
+  "level": 1,
+  "updatedAt": "2026-05-07",
+  "tips": [
+    "奈莉奈路线在达成TRUE END后开放"
+  ],
+  "routes": [
+    {
+      "id": "route_game",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_farewell",
+          "name": "离别 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_001",
+              "type": "choice",
+              "content": "我是来和你们告别的"
+            },
+            {
+              "id": "step_002",
+              "type": "choice",
+              "content": "请放过我吧"
+            },
+            {
+              "id": "step_003",
+              "type": "choice",
+              "content": "是我"
+            },
+            {
+              "id": "step_004",
+              "type": "choice",
+              "content": "我一个人就可以了"
+            },
+            {
+              "id": "step_005",
+              "type": "choice",
+              "content": "还是一个人自在"
+            },
+            {
+              "id": "step_006",
+              "type": "choice",
+              "content": "生死簿吗?"
+            },
+            {
+              "id": "step_007",
+              "type": "choice",
+              "content": "两个人都是怪人，只会互相排斥"
+            },
+            {
+              "id": "step_008",
+              "type": "choice",
+              "content": "明显应该睡回笼觉啊",
+              "prefix": "※"
+            },
+            {
+              "id": "step_009",
+              "type": "choice",
+              "content": "现在还在上课呢"
+            },
+            {
+              "id": "step_010",
+              "type": "choice",
+              "content": "包庇考崎"
+            },
+            {
+              "id": "step_011",
+              "type": "choice",
+              "content": "这个问题没什么意义"
+            },
+            {
+              "id": "step_012",
+              "type": "choice",
+              "content": "人为的事故"
+            },
+            {
+              "id": "step_013",
+              "type": "choice",
+              "content": "考崎千鸟"
+            },
+            {
+              "id": "step_014",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_015",
+              "type": "choice",
+              "content": "以上选项都不对"
+            },
+            {
+              "id": "step_016",
+              "type": "choice",
+              "content": "因为兔子生病了"
+            },
+            {
+              "id": "step_017",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_018",
+              "type": "choice",
+              "content": "考崎千鸟"
+            },
+            {
+              "id": "step_019",
+              "type": "choice",
+              "content": "你以班长的身份去邀请她一下怎么样?"
+            },
+            {
+              "id": "step_020",
+              "type": "choice",
+              "content": "考崎应该会不乐意吧"
+            },
+            {
+              "id": "step_021",
+              "type": "choice",
+              "content": "帮个忙吧"
+            },
+            {
+              "id": "step_022",
+              "type": "choice",
+              "content": "合掌部。由佛教徒所组成的部"
+            },
+            {
+              "id": "step_023",
+              "type": "choice",
+              "content": "因为我和班长是特别的关系"
+            },
+            {
+              "id": "step_024",
+              "type": "choice",
+              "content": "说实话，不怎么样"
+            },
+            {
+              "id": "step_025",
+              "type": "choice",
+              "content": "没有"
+            },
+            {
+              "id": "step_026",
+              "type": "choice",
+              "content": "几乎无所不能"
+            },
+            {
+              "id": "step_027",
+              "type": "choice",
+              "content": "没做过"
+            },
+            {
+              "id": "step_028",
+              "type": "choice",
+              "content": "感觉和读书没什么区别……"
+            },
+            {
+              "id": "step_029",
+              "type": "choice",
+              "content": "你见过我在看书的时候读出声吗?"
+            },
+            {
+              "id": "step_030",
+              "type": "choice",
+              "content": "鬼故事哟"
+            },
+            {
+              "id": "step_031",
+              "type": "choice",
+              "content": "魔女吧。和你这么搭"
+            },
+            {
+              "id": "step_032",
+              "type": "choice",
+              "content": "出于善意而偶然引发的事故"
+            },
+            {
+              "id": "step_033",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_034",
+              "type": "choice",
+              "content": "剧本所放的位置的爱称"
+            },
+            {
+              "id": "step_035",
+              "type": "choice",
+              "content": "园艺吧，白羽应该很擅长"
+            },
+            {
+              "id": "step_036",
+              "type": "choice",
+              "content": "确实"
+            },
+            {
+              "id": "step_037",
+              "type": "choice",
+              "content": "没有来问我"
+            },
+            {
+              "id": "step_038",
+              "type": "choice",
+              "content": "算了，别做多余的事"
+            },
+            {
+              "id": "step_039",
+              "type": "choice",
+              "content": "把我的笔记借给你吧"
+            },
+            {
+              "id": "step_040",
+              "type": "choice",
+              "content": "我又不能游泳，当然不可能去了"
+            },
+            {
+              "id": "step_041",
+              "type": "choice",
+              "content": "反正也游不了泳，换了也没意义"
+            },
+            {
+              "id": "step_042",
+              "type": "choice",
+              "content": "你看着挺适合做导演的"
+            },
+            {
+              "id": "step_043",
+              "type": "choice",
+              "content": "班长更适合"
+            },
+            {
+              "id": "step_044",
+              "type": "choice",
+              "content": "拜托白羽不好吗?"
+            },
+            {
+              "id": "step_045",
+              "type": "choice",
+              "content": "按理说是班长吧"
+            },
+            {
+              "id": "step_046",
+              "type": "choice",
+              "content": "茶点的水平有所下降呢"
+            },
+            {
+              "id": "step_047",
+              "type": "choice",
+              "content": "因为我是书虫啊"
+            },
+            {
+              "id": "step_048",
+              "type": "choice",
+              "content": "举行试胆大会的学生"
+            },
+            {
+              "id": "step_049",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_050",
+              "type": "choice",
+              "content": "因为穿着看上去像绿色"
+            },
+            {
+              "id": "step_051",
+              "type": "choice",
+              "content": "目击到某人在晃悠时候的身姿"
+            },
+            {
+              "id": "step_052",
+              "type": "choice",
+              "content": "因为有探索美术室的必要"
+            },
+            {
+              "id": "step_053",
+              "type": "save",
+              "content": "SAVE 5"
+            },
+            {
+              "id": "step_054",
+              "type": "choice",
+              "content": "白羽苏芳"
+            },
+            {
+              "id": "step_055",
+              "type": "choice",
+              "content": "如实回答，因为腿会变粗"
+            },
+            {
+              "id": "step_056",
+              "type": "choice",
+              "content": "要不我也写写日记吧"
+            },
+            {
+              "id": "step_057",
+              "type": "choice",
+              "content": "真的不知道"
+            },
+            {
+              "id": "step_058",
+              "type": "choice",
+              "content": "只是出于情理而已"
+            }
+          ]
+        },
+        {
+          "id": "ending_bad1",
+          "name": "BADEND1",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_b1_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_b1_02",
+              "type": "note",
+              "content": "任一错误选项"
+            }
+          ]
+        },
+        {
+          "id": "ending_bad2",
+          "name": "BADEND2",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_b2_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_b2_02",
+              "type": "note",
+              "content": "任一错误选项"
+            }
+          ]
+        },
+        {
+          "id": "ending_bad3",
+          "name": "BADEND3",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_b3_01",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_b3_02",
+              "type": "note",
+              "content": "任一错误选项"
+            }
+          ]
+        },
+        {
+          "id": "ending_bad4",
+          "name": "BADEND4",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_b4_01",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_b4_02",
+              "type": "note",
+              "content": "任一错误选项"
+            }
+          ]
+        },
+        {
+          "id": "ending_bad5",
+          "name": "BADEND005",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_b5_01",
+              "type": "load",
+              "content": "LOAD 5"
+            },
+            {
+              "id": "step_b5_02",
+              "type": "note",
+              "content": "任一错误选项"
+            }
+          ]
+        },
+        {
+          "id": "ending_delia",
+          "name": "黛莉娅 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_d_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_d_02",
+              "type": "choice",
+              "content": "捅了个大篓子所以被老师叫过来了"
+            },
+            {
+              "id": "step_d_03",
+              "type": "choice",
+              "content": "让我一个人呆着更好"
+            },
+            {
+              "id": "step_d_04",
+              "type": "choice",
+              "content": "这不明摆着是巴斯奎亚教谕么"
+            },
+            {
+              "id": "step_d_05",
+              "type": "choice",
+              "content": "必须由老师来"
+            },
+            {
+              "id": "step_d_06",
+              "type": "choice",
+              "content": "我也这么想"
+            },
+            {
+              "id": "step_d_07",
+              "type": "choice",
+              "content": "是在写诗?"
+            },
+            {
+              "id": "step_d_08",
+              "type": "choice",
+              "content": "如果你是我的amitié就好了"
+            },
+            {
+              "id": "step_d_09",
+              "type": "save",
+              "content": "SAVE 6"
+            },
+            {
+              "id": "step_d_10",
+              "type": "choice",
+              "content": "明显应该睡回笼觉啊",
+              "prefix": "※"
+            },
+            {
+              "id": "step_d_11",
+              "type": "choice",
+              "content": "你没发现白羽很苦恼吗"
+            },
+            {
+              "id": "step_d_12",
+              "type": "choice",
+              "content": "光明正大地说"
+            },
+            {
+              "id": "step_d_13",
+              "type": "choice",
+              "content": "不应该先去确认一下吗?"
+            },
+            {
+              "id": "step_d_14",
+              "type": "choice",
+              "content": "人为的事故"
+            },
+            {
+              "id": "step_d_15",
+              "type": "choice",
+              "content": "考崎千鸟"
+            },
+            {
+              "id": "step_d_16",
+              "type": "choice",
+              "content": "以上选项都不对"
+            },
+            {
+              "id": "step_d_17",
+              "type": "choice",
+              "content": "因为兔子生病了"
+            },
+            {
+              "id": "step_d_18",
+              "type": "choice",
+              "content": "考崎千鸟"
+            },
+            {
+              "id": "step_d_19",
+              "type": "choice",
+              "content": "“你那是什么态度!”这样教训她一顿怎么样?"
+            },
+            {
+              "id": "step_d_20",
+              "type": "choice",
+              "content": "您都这么说了那我就试试吧"
+            },
+            {
+              "id": "step_d_21",
+              "type": "choice",
+              "content": "见死不救"
+            },
+            {
+              "id": "step_d_22",
+              "type": "choice",
+              "content": "如实回答"
+            },
+            {
+              "id": "step_d_23",
+              "type": "choice",
+              "content": "因为之前她把你当成犯人了啊"
+            },
+            {
+              "id": "step_d_24",
+              "type": "choice",
+              "content": "两人一起努力的话总归是有办法的"
+            },
+            {
+              "id": "step_d_25",
+              "type": "choice",
+              "content": "就是你啊"
+            },
+            {
+              "id": "step_d_26",
+              "type": "choice",
+              "content": "并没有"
+            },
+            {
+              "id": "step_d_27",
+              "type": "choice",
+              "content": "因为有前辈陪着所以才受到了鼓舞"
+            },
+            {
+              "id": "step_d_28",
+              "type": "choice",
+              "content": "和巴斯奎亚教谕一起的话"
+            },
+            {
+              "id": "step_d_29",
+              "type": "choice",
+              "content": "你上吧，反正声音那么好听"
+            },
+            {
+              "id": "step_d_30",
+              "type": "choice",
+              "content": "就是长发公主"
+            },
+            {
+              "id": "step_d_31",
+              "type": "choice",
+              "content": "王子吧"
+            },
+            {
+              "id": "step_d_32",
+              "type": "choice",
+              "content": "出于善意而偶然引发的事故"
+            },
+            {
+              "id": "step_d_33",
+              "type": "choice",
+              "content": "剧本所放的位置的爱称"
+            },
+            {
+              "id": "step_d_34",
+              "type": "choice",
+              "content": "乐器吧，似乎能让考崎教我"
+            },
+            {
+              "id": "step_d_35",
+              "type": "choice",
+              "content": "多少还是有一点的……"
+            },
+            {
+              "id": "step_d_36",
+              "type": "choice",
+              "content": "就算问了这件事也不奇怪吧"
+            },
+            {
+              "id": "step_d_37",
+              "type": "choice",
+              "content": "也不坏"
+            },
+            {
+              "id": "step_d_38",
+              "type": "choice",
+              "content": "推心置腹地说吧"
+            },
+            {
+              "id": "step_d_39",
+              "type": "choice",
+              "content": "如果你们穿着下流的泳衣过去的话"
+            },
+            {
+              "id": "step_d_40",
+              "type": "choice",
+              "content": "那你来给我换吧"
+            },
+            {
+              "id": "step_d_41",
+              "type": "choice",
+              "content": "你不是挺适合演奥罗拉公主的嘛"
+            },
+            {
+              "id": "step_d_42",
+              "type": "choice",
+              "content": "千鸟吧"
+            },
+            {
+              "id": "step_d_43",
+              "type": "choice",
+              "content": "和老师搭档这么羞耻的事怎么做得好"
+            },
+            {
+              "id": "step_d_44",
+              "type": "choice",
+              "content": "听起来也许像在偏袒千鸟"
+            },
+            {
+              "id": "step_d_45",
+              "type": "choice",
+              "content": "我正问在保健室你有没有趁机对白羽下手"
+            },
+            {
+              "id": "step_d_46",
+              "type": "choice",
+              "content": "我也是少女啊"
+            },
+            {
+              "id": "step_d_47",
+              "type": "choice",
+              "content": "举行试胆大会的学生"
+            },
+            {
+              "id": "step_d_48",
+              "type": "choice",
+              "content": "因为穿着看上去像绿色"
+            },
+            {
+              "id": "step_d_49",
+              "type": "choice",
+              "content": "目击到某人在晃悠时候的身姿"
+            },
+            {
+              "id": "step_d_50",
+              "type": "choice",
+              "content": "因为有探索美术室的必要"
+            },
+            {
+              "id": "step_d_51",
+              "type": "choice",
+              "content": "白羽苏芳"
+            },
+            {
+              "id": "step_d_52",
+              "type": "save",
+              "content": "SAVE 7"
+            },
+            {
+              "id": "step_d_53",
+              "type": "choice",
+              "content": "还是选择自己憧憬的人呢……"
+            }
+          ]
+        },
+        {
+          "id": "ending_friends",
+          "name": "朋友以上恋人未满 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_f_01",
+              "type": "load",
+              "content": "LOAD 7"
+            },
+            {
+              "id": "step_f_02",
+              "type": "choice",
+              "content": "是喜欢amitié吗"
+            },
+            {
+              "id": "step_f_03",
+              "type": "choice",
+              "content": "体育坐不是正好可以让我偷窥吗?"
+            },
+            {
+              "id": "step_f_04",
+              "type": "choice",
+              "content": "写了自己讨厌的东西上去吗?"
+            },
+            {
+              "id": "step_f_05",
+              "type": "choice",
+              "content": "可能是我表扬了班长的舞蹈吧"
+            },
+            {
+              "id": "step_f_06",
+              "type": "choice",
+              "content": "并不是……跟这没关系吧"
+            },
+            {
+              "id": "step_f_07",
+              "type": "save",
+              "content": "SAVE 8"
+            },
+            {
+              "id": "step_f_08",
+              "type": "choice",
+              "content": "不，已经没有必要了"
+            }
+          ]
+        },
+        {
+          "id": "ending_lover",
+          "name": "恋人 END",
+          "type": "good",
+          "steps": [
+            {
+              "id": "step_l_01",
+              "type": "load",
+              "content": "LOAD 8"
+            },
+            {
+              "id": "step_l_02",
+              "type": "choice",
+              "content": "我帮你扎头发吧"
+            }
+          ]
+        },
+        {
+          "id": "ending_true",
+          "name": "TRUE END",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_t_01",
+              "type": "load",
+              "content": "LOAD 6"
+            },
+            {
+              "id": "step_t_02",
+              "type": "choice",
+              "content": "总之先起来吧",
+              "prefix": "※"
+            },
+            {
+              "id": "step_t_03",
+              "type": "choice",
+              "content": "你没发现白羽很苦恼吗"
+            },
+            {
+              "id": "step_t_04",
+              "type": "choice",
+              "content": "光明正大地说"
+            },
+            {
+              "id": "step_t_05",
+              "type": "choice",
+              "content": "这个问题没什么意义"
+            },
+            {
+              "id": "step_t_06",
+              "type": "choice",
+              "content": "人为的事故"
+            },
+            {
+              "id": "step_t_07",
+              "type": "choice",
+              "content": "考崎千鸟"
+            },
+            {
+              "id": "step_t_08",
+              "type": "choice",
+              "content": "以上选项都不对"
+            },
+            {
+              "id": "step_t_09",
+              "type": "choice",
+              "content": "因为兔子生病了"
+            },
+            {
+              "id": "step_t_10",
+              "type": "choice",
+              "content": "考崎千鸟"
+            },
+            {
+              "id": "step_t_11",
+              "type": "choice",
+              "content": "你以班长的身份去邀请她一下怎么样?"
+            },
+            {
+              "id": "step_t_12",
+              "type": "choice",
+              "content": "您都这么说了那我就试试吧"
+            },
+            {
+              "id": "step_t_13",
+              "type": "choice",
+              "content": "帮个忙吧"
+            },
+            {
+              "id": "step_t_14",
+              "type": "choice",
+              "content": "如实回答"
+            },
+            {
+              "id": "step_t_15",
+              "type": "choice",
+              "content": "因为我和班长是特别的关系"
+            },
+            {
+              "id": "step_t_16",
+              "type": "choice",
+              "content": "继续听",
+              "prefix": "※"
+            },
+            {
+              "id": "step_t_17",
+              "type": "choice",
+              "content": "两人一起努力的话总归是有办法的"
+            },
+            {
+              "id": "step_t_18",
+              "type": "choice",
+              "content": "就是你啊"
+            },
+            {
+              "id": "step_t_19",
+              "type": "choice",
+              "content": "几乎无所不能"
+            },
+            {
+              "id": "step_t_20",
+              "type": "choice",
+              "content": "因为有前辈陪着所以才受到了鼓舞"
+            },
+            {
+              "id": "step_t_21",
+              "type": "choice",
+              "content": "和巴斯奎亚教谕一起的话"
+            },
+            {
+              "id": "step_t_22",
+              "type": "choice",
+              "content": "如果我也能熟练地唱歌的话……",
+              "prefix": "※"
+            },
+            {
+              "id": "step_t_23",
+              "type": "choice",
+              "content": "你上吧，反正声音那么好听"
+            },
+            {
+              "id": "step_t_24",
+              "type": "choice",
+              "content": "就是长发公主"
+            },
+            {
+              "id": "step_t_25",
+              "type": "choice",
+              "content": "王子吧"
+            },
+            {
+              "id": "step_t_26",
+              "type": "choice",
+              "content": "出于善意而偶然引发的事故"
+            },
+            {
+              "id": "step_t_27",
+              "type": "choice",
+              "content": "剧本所放的位置的爱称"
+            },
+            {
+              "id": "step_t_28",
+              "type": "choice",
+              "content": "乐器吧，似乎能让考崎教我"
+            },
+            {
+              "id": "step_t_29",
+              "type": "choice",
+              "content": "多少还是有一点的……"
+            },
+            {
+              "id": "step_t_30",
+              "type": "choice",
+              "content": "就算问了这件事也不奇怪吧"
+            },
+            {
+              "id": "step_t_31",
+              "type": "choice",
+              "content": "也不坏"
+            },
+            {
+              "id": "step_t_32",
+              "type": "choice",
+              "content": "考崎的歌吗……",
+              "prefix": "※"
+            },
+            {
+              "id": "step_t_33",
+              "type": "choice",
+              "content": "推心置腹地说吧"
+            },
+            {
+              "id": "step_t_34",
+              "type": "choice",
+              "content": "如果你们穿着下流的泳衣过去的话"
+            },
+            {
+              "id": "step_t_35",
+              "type": "choice",
+              "content": "那你来给我换吧"
+            },
+            {
+              "id": "step_t_36",
+              "type": "choice",
+              "content": "你不是挺适合演奥罗拉公主的嘛"
+            },
+            {
+              "id": "step_t_37",
+              "type": "choice",
+              "content": "千鸟吧"
+            },
+            {
+              "id": "step_t_38",
+              "type": "choice",
+              "content": "和老师搭档这么羞耻的事怎么做得好"
+            },
+            {
+              "id": "step_t_39",
+              "type": "choice",
+              "content": "听起来也许像在偏袒千鸟"
+            },
+            {
+              "id": "step_t_40",
+              "type": "choice",
+              "content": "我正问在保健室你有没有趁机对白羽下手"
+            },
+            {
+              "id": "step_t_41",
+              "type": "choice",
+              "content": "倾听歌声",
+              "prefix": "※"
+            },
+            {
+              "id": "step_t_42",
+              "type": "choice",
+              "content": "我也是少女啊"
+            },
+            {
+              "id": "step_t_43",
+              "type": "choice",
+              "content": "举行试胆大会的学生"
+            },
+            {
+              "id": "step_t_44",
+              "type": "choice",
+              "content": "因为穿着看上去像绿色"
+            },
+            {
+              "id": "step_t_45",
+              "type": "choice",
+              "content": "目击到某人在晃悠时候的身姿"
+            },
+            {
+              "id": "step_t_46",
+              "type": "choice",
+              "content": "因为有探索美术室的必要"
+            },
+            {
+              "id": "step_t_47",
+              "type": "choice",
+              "content": "白羽苏芳"
+            },
+            {
+              "id": "step_t_48",
+              "type": "choice",
+              "content": "体育坐不是正好可以让我偷窥吗?"
+            },
+            {
+              "id": "step_t_49",
+              "type": "choice",
+              "content": "写了自己讨厌的东西上去吗?"
+            },
+            {
+              "id": "step_t_50",
+              "type": "choice",
+              "content": "可能是我表扬了班长的舞蹈吧"
+            },
+            {
+              "id": "step_t_51",
+              "type": "choice",
+              "content": "并不是……跟这没关系吧"
+            },
+            {
+              "id": "step_t_52",
+              "type": "choice",
+              "content": "我帮你扎头发吧"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

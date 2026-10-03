@@ -1,0 +1,240 @@
+{
+  "vid": "v13260",
+  "name": {
+    "zh-cn": "因为妹妹让我太受欢迎了糟糕了",
+    "ja-jp": "妹のおかげでモテすぎてヤバい。",
+    "ja-Latn": "imouto-no-okage-de-motesugite-yabai"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-14",
+  "tips": [
+    "☆ 选项为追加选项，不出现时无视即可"
+  ],
+  "routes": [
+    {
+      "id": "route_1773043739710",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1773043750115",
+          "name": "舞奈 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1773043769879",
+              "type": "choice",
+              "content": "毕、毕竟是练习……难得有机会",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_1773043784721",
+              "type": "choice",
+              "content": "因为能看见内衣，所以就盯着看"
+            },
+            {
+              "id": "step_1773043799279",
+              "type": "choice",
+              "content": "帮她擦擦背上的汗"
+            },
+            {
+              "id": "step_1773043803988",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1773043808774",
+              "type": "choice",
+              "content": "接受舞奈的告白"
+            }
+          ]
+        },
+        {
+          "id": "ending_1773043815887",
+          "name": "青叶 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1773043824548",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1773043825536",
+              "type": "choice",
+              "content": "不接受舞奈的告白"
+            },
+            {
+              "id": "step_1773043832150",
+              "type": "choice",
+              "content": "都、都做到这个份上了，不摸反而很失礼吧……？"
+            },
+            {
+              "id": "step_1773043832326",
+              "type": "choice",
+              "content": "点头说自己没事",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_1773043848040",
+              "type": "choice",
+              "content": "还是别再追究了",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_1773043860921",
+              "type": "choice",
+              "content": "立刻抱住她，移开视线\\慌张地向后转去",
+              "subfix": "收集CG"
+            },
+            {
+              "id": "step_1773043867187",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1773043871066",
+              "type": "choice",
+              "content": "接受青叶的告白"
+            }
+          ]
+        },
+        {
+          "id": "ending_1773043906869",
+          "name": "美也 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1773043924154",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1773043926676",
+              "type": "choice",
+              "content": "不接受青叶的告白"
+            },
+            {
+              "id": "step_1773043933733",
+              "type": "choice",
+              "content": "怎么可能把视线移开\\夸她很漂亮",
+              "subfix": "收集CG"
+            },
+            {
+              "id": "step_1773043934016",
+              "type": "choice",
+              "content": "直到学姐微笑为止都会待在这里"
+            },
+            {
+              "id": "step_1773043943706",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_1773044014848",
+              "type": "choice",
+              "content": "接受美也的心意"
+            }
+          ]
+        },
+        {
+          "id": "ending_1773043983355",
+          "name": "叶 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1773043986860",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1773044030570",
+              "type": "choice",
+              "content": "不接受美也的心意"
+            }
+          ]
+        },
+        {
+          "id": "ending_1773044045361",
+          "name": "爱莉 END",
+          "type": "normal",
+          "requirements": "※以上四人攻略完毕后，从最初开始",
+          "steps": [
+            {
+              "id": "step_1773044066003",
+              "type": "choice",
+              "content": "住手。这种事情留给喜欢的人吧",
+              "prefix": "☆"
+            }
+          ]
+        },
+        {
+          "id": "ending_1773044084757",
+          "name": "纱里奈 END",
+          "type": "normal",
+          "requirements": "※爱莉攻略完毕后，从最初开始",
+          "steps": [
+            {
+              "id": "step_1773044104456",
+              "type": "choice",
+              "content": "毕、毕竟是练习……难得有机会"
+            },
+            {
+              "id": "step_1773044109670",
+              "type": "choice",
+              "content": "会感冒的，这条毛巾给你用吧"
+            },
+            {
+              "id": "step_1773044109832",
+              "type": "choice",
+              "content": "去叫她家里人"
+            },
+            {
+              "id": "step_1773044115770",
+              "type": "choice",
+              "content": "不接受舞奈的告白"
+            },
+            {
+              "id": "step_1773044115954",
+              "type": "choice",
+              "content": "你应该好好珍惜自己啊"
+            },
+            {
+              "id": "step_1773044125165",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_1773044131306",
+              "type": "choice",
+              "content": "因为老师的仰视心跳不已了，这是事实"
+            }
+          ]
+        },
+        {
+          "id": "ending_1773044138667",
+          "name": "结莉夏 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1773044158160",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_1773044164321",
+              "type": "choice",
+              "content": "点头说自己没事",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_1773044164722",
+              "type": "choice",
+              "content": "想再看看学姐脸红的样子",
+              "prefix": "☆"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

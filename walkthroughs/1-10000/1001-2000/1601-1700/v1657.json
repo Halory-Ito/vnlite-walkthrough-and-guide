@@ -1,0 +1,238 @@
+{
+  "vid": "v1657",
+  "name": {
+    "zh-cn": "メモリア",
+    "en-us": "メモリア",
+    "ja-jp": "メモリア",
+    "ja-Latn": "memoria"
+  },
+  "level": 2,
+  "updatedAt": "2026-03-24",
+  "tips": [
+    "标有◆号的选项为二周目出现的选项，初次游戏时无视即可"
+  ],
+  "routes": [
+    {
+      "id": "route_game",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_first_loop_end",
+          "name": "1周目 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_first_01",
+              "type": "choice",
+              "content": "因为过意不去而婉拒",
+              "prefix": "◆"
+            },
+            {
+              "id": "step_first_02",
+              "type": "choice",
+              "content": "和惣太郎一起吃饭",
+              "prefix": "◆"
+            },
+            {
+              "id": "step_first_03",
+              "type": "choice",
+              "content": "再试着说明一次",
+              "prefix": "◆"
+            },
+            {
+              "id": "step_first_04",
+              "type": "choice",
+              "content": "约好给我做便当",
+              "prefix": "◆"
+            },
+            {
+              "id": "step_first_05",
+              "type": "choice",
+              "content": "和ハルナ搭话",
+              "prefix": "◆"
+            },
+            {
+              "id": "step_first_06",
+              "type": "choice",
+              "content": "什么也不做",
+              "prefix": "◆"
+            },
+            {
+              "id": "step_first_07",
+              "type": "choice",
+              "content": "一个人去",
+              "prefix": "◆"
+            }
+          ]
+        },
+        {
+          "id": "ending_kanami_end",
+          "name": "香奈実 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_kanami_01",
+              "type": "note",
+              "content": "1周目 END 后"
+            },
+            {
+              "id": "step_kanami_02",
+              "type": "choice",
+              "content": "心怀感激地收下"
+            },
+            {
+              "id": "step_kanami_03",
+              "type": "choice",
+              "content": "和智枝一起吃饭"
+            },
+            {
+              "id": "step_kanami_04",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_kanami_05",
+              "type": "choice",
+              "content": "放弃说明"
+            },
+            {
+              "id": "step_kanami_06",
+              "type": "choice",
+              "content": "被告白了"
+            },
+            {
+              "id": "step_kanami_07",
+              "type": "choice",
+              "content": "老实回家"
+            },
+            {
+              "id": "step_kanami_08",
+              "type": "choice",
+              "content": "什么也不做",
+              "prefix": "◆"
+            },
+            {
+              "id": "step_kanami_09",
+              "type": "choice",
+              "content": "一个人去"
+            }
+          ]
+        },
+        {
+          "id": "ending_arisa_end",
+          "name": "アリサ END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_arisa_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_arisa_02",
+              "type": "choice",
+              "content": "再试着说明一次"
+            },
+            {
+              "id": "step_arisa_03",
+              "type": "choice",
+              "content": "约好给我做便当"
+            },
+            {
+              "id": "step_arisa_04",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_arisa_05",
+              "type": "choice",
+              "content": "和ハルナ搭话"
+            },
+            {
+              "id": "step_arisa_06",
+              "type": "choice",
+              "content": "什么也不做",
+              "prefix": "◆"
+            },
+            {
+              "id": "step_arisa_07",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_arisa_08",
+              "type": "choice",
+              "content": "邀请アリサ一起去"
+            }
+          ]
+        },
+        {
+          "id": "ending_tomoe_end",
+          "name": "智枝 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_tomoe_01",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_tomoe_02",
+              "type": "choice",
+              "content": "一个人去"
+            }
+          ]
+        },
+        {
+          "id": "ending_yuuki_end",
+          "name": "ユウキ END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_yuuki_01",
+              "type": "note",
+              "content": "以上全部 END 后，从 SAVE 2 开始"
+            },
+            {
+              "id": "step_yuuki_02",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_yuuki_03",
+              "type": "choice",
+              "content": "和ハルナ搭话"
+            },
+            {
+              "id": "step_yuuki_04",
+              "type": "choice",
+              "content": "抢走ユウキ的热松饼"
+            },
+            {
+              "id": "step_yuuki_05",
+              "type": "choice",
+              "content": "一个人去"
+            }
+          ]
+        },
+        {
+          "id": "ending_haruna_end",
+          "name": "ハルナ END",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_haruna_01",
+              "type": "note",
+              "content": "以上全部 END 后，从标题画面的「メモリア」开始"
+            },
+            {
+              "id": "step_haruna_02",
+              "type": "note",
+              "content": "无选项"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

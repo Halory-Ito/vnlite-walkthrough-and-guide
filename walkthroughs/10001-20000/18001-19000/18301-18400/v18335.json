@@ -1,0 +1,181 @@
+{
+  "vid": "v18335",
+  "name": {
+    "zh-cn": "一如她的撒娇方式",
+    "ja-jp": "甘えかたは彼女なりに。",
+    "ja-Latn": "amaekata-wa-kanojo-nari-ni"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-13",
+  "tips": [
+    "标题画面Extra Episode可进入初回特典追加剧情"
+  ],
+  "routes": [
+    {
+      "id": "route_1761225756440",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1761225773716",
+          "name": "新仓朋美 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1761225801385",
+              "type": "choice",
+              "content": "院子"
+            },
+            {
+              "id": "step_1761225801557",
+              "type": "choice",
+              "content": "制止说等一下"
+            },
+            {
+              "id": "step_1761225801730",
+              "type": "choice",
+              "content": "啊，哇……知道了"
+            },
+            {
+              "id": "step_1761225801874",
+              "type": "choice",
+              "content": "美雪小姐，说是今天的负责人……"
+            },
+            {
+              "id": "step_1761225859107",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1761225860787",
+              "type": "choice",
+              "content": "试着邀请新仓"
+            },
+            {
+              "id": "step_1761225860972",
+              "type": "choice",
+              "content": "直接回去"
+            },
+            {
+              "id": "step_1761225879661",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1761225887389",
+              "type": "choice",
+              "content": "新仓那里"
+            },
+            {
+              "id": "step_1761225887936",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_1761225893538",
+              "type": "choice",
+              "content": "和新仓谈话"
+            }
+          ]
+        },
+        {
+          "id": "ending_1761225903554",
+          "name": "四贺叶花 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1761225937113",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1761225940402",
+              "type": "choice",
+              "content": "花边"
+            },
+            {
+              "id": "step_1761225940546",
+              "type": "choice",
+              "content": "追赶叶惠前辈"
+            }
+          ]
+        },
+        {
+          "id": "ending_1761225904190",
+          "name": "正常 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1761225960418",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1761226152460",
+              "type": "choice",
+              "content": "不知如何是好"
+            }
+          ]
+        },
+        {
+          "id": "ending_1761225904383",
+          "name": "永峰叶惠 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1761226233359",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1761226235778",
+              "type": "choice",
+              "content": "一个人吃"
+            },
+            {
+              "id": "step_1761226235935",
+              "type": "choice",
+              "content": "前往助手会"
+            },
+            {
+              "id": "step_1761226246475",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_1761226251489",
+              "type": "choice",
+              "content": "花边"
+            },
+            {
+              "id": "step_1761226251669",
+              "type": "choice",
+              "content": "追赶叶惠前辈"
+            }
+          ]
+        },
+        {
+          "id": "ending_1761226282975",
+          "name": "栗泽美雪 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1761226313326",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_1761226320719",
+              "type": "choice",
+              "content": "美雪小姐那里"
+            },
+            {
+              "id": "step_1761226320902",
+              "type": "choice",
+              "content": "和新仓谈话"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

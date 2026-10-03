@@ -1,0 +1,308 @@
+{
+  "vid": "v5871",
+  "name": {
+    "zh-cn": "隙间樱花与谎言都市",
+    "ja-jp": "すきま桜とうその都会",
+    "ja-Latn": "sukimazakura-to-uso-no-machi"
+  },
+  "level": 2,
+  "updatedAt": "2026-05-08",
+  "routes": [
+    {
+      "id": "route_game_guide",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_sakura_sister",
+          "name": "咲良 END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1",
+              "type": "choice",
+              "content": "不久不见！好想你啊！"
+            },
+            {
+              "id": "step_2",
+              "type": "choice",
+              "content": "普通的回答"
+            },
+            {
+              "id": "step_3",
+              "type": "choice",
+              "content": "一起进去"
+            },
+            {
+              "id": "step_4",
+              "type": "choice",
+              "content": "与咲良对话"
+            },
+            {
+              "id": "step_5",
+              "type": "choice",
+              "content": "激烈的超能力大作战"
+            },
+            {
+              "id": "step_6",
+              "type": "choice",
+              "content": "传给霞"
+            },
+            {
+              "id": "step_7",
+              "type": "choice",
+              "content": "传给音音"
+            },
+            {
+              "id": "step_8",
+              "type": "choice",
+              "content": "传给花珠"
+            },
+            {
+              "id": "step_9",
+              "type": "choice",
+              "content": "可怕至极的恐怖故事"
+            },
+            {
+              "id": "step_10",
+              "type": "choice",
+              "content": "下定决心给提洛尔"
+            },
+            {
+              "id": "step_11",
+              "type": "choice",
+              "content": "传给巧可"
+            },
+            {
+              "id": "step_12",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_13",
+              "type": "choice",
+              "content": "传给咲良"
+            },
+            {
+              "id": "step_14",
+              "type": "choice",
+              "content": "去打工"
+            },
+            {
+              "id": "step_15",
+              "type": "choice",
+              "content": "去帮咲良"
+            },
+            {
+              "id": "step_16",
+              "type": "choice",
+              "content": "去阳台"
+            },
+            {
+              "id": "step_17",
+              "type": "choice",
+              "content": "去打工"
+            },
+            {
+              "id": "step_18",
+              "type": "choice",
+              "content": "很绅士地去帮咲良"
+            },
+            {
+              "id": "step_19",
+              "type": "choice",
+              "content": "去阳台"
+            },
+            {
+              "id": "step_20",
+              "type": "choice",
+              "content": "LimitEvolution(极限进化)"
+            },
+            {
+              "id": "step_21",
+              "type": "choice",
+              "content": "上野"
+            },
+            {
+              "id": "step_22",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_23",
+              "type": "choice",
+              "content": "去花珠那"
+            },
+            {
+              "id": "step_24",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_25",
+              "type": "choice",
+              "content": "温柔的抱住她"
+            },
+            {
+              "id": "step_26",
+              "type": "choice",
+              "content": "去新宿"
+            },
+            {
+              "id": "step_27",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_28",
+              "type": "choice",
+              "content": "作为妹妹"
+            }
+          ]
+        },
+        {
+          "id": "ending_sakura_lover",
+          "name": "咲良 END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_29",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_30",
+              "type": "choice",
+              "content": "还是作为恋人"
+            },
+            {
+              "id": "step_31",
+              "type": "choice",
+              "content": "揉胸"
+            },
+            {
+              "id": "step_32",
+              "type": "choice",
+              "content": "10个"
+            }
+          ]
+        },
+        {
+          "id": "ending_hanatama",
+          "name": "花珠 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_33",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_34",
+              "type": "choice",
+              "content": "抚摸她的头"
+            },
+            {
+              "id": "step_35",
+              "type": "choice",
+              "content": "去上野"
+            }
+          ]
+        },
+        {
+          "id": "ending_choco",
+          "name": "巧可 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_36",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_37",
+              "type": "choice",
+              "content": "去彩香那"
+            },
+            {
+              "id": "step_38",
+              "type": "choice",
+              "content": "抚摸她的头"
+            },
+            {
+              "id": "step_39",
+              "type": "choice",
+              "content": "去新宿"
+            }
+          ]
+        },
+        {
+          "id": "ending_rin",
+          "name": "铃 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_40",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_41",
+              "type": "choice",
+              "content": "传给咲良"
+            },
+            {
+              "id": "step_42",
+              "type": "choice",
+              "content": "去看粉雪樱"
+            },
+            {
+              "id": "step_43",
+              "type": "choice",
+              "content": "不去"
+            },
+            {
+              "id": "step_44",
+              "type": "choice",
+              "content": "去看粉雪樱"
+            },
+            {
+              "id": "step_45",
+              "type": "choice",
+              "content": "不去阳台"
+            },
+            {
+              "id": "step_46",
+              "type": "choice",
+              "content": "不看"
+            },
+            {
+              "id": "step_47",
+              "type": "choice",
+              "content": "粉雪樱"
+            },
+            {
+              "id": "step_48",
+              "type": "choice",
+              "content": "去正宗那"
+            },
+            {
+              "id": "step_49",
+              "type": "choice",
+              "content": "抚摸她的头"
+            },
+            {
+              "id": "step_50",
+              "type": "choice",
+              "content": "去粉雪樱"
+            },
+            {
+              "id": "step_51",
+              "type": "choice",
+              "content": "因为喜欢你"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

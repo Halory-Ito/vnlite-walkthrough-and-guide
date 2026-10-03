@@ -1,0 +1,568 @@
+{
+  "vid": "v50072",
+  "name": {
+    "zh-cn": "悠刻的命运少女",
+    "ja-jp": "悠刻のファムファタル",
+    "ja-Latn": "yuukoku-no-femme-fatale"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-11",
+  "tips": [
+    "本作存在剧情锁，全流程线路均有内置顺序，且在解锁真结局之后会额外放出大量后日谈，请注意流程图右上角的回收进度",
+    "仅放出关键分支选项，以方便各位回收结局"
+  ],
+  "routes": [
+    {
+      "id": "route_1755172655528",
+      "name": "新路线",
+      "endings": [
+        {
+          "id": "ending_1755172662756",
+          "name": "序章END1(梦幻航路)",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755172666337",
+              "type": "save",
+              "content": "SAVE 1",
+              "group": "[序章16]★日记(6月4日)"
+            },
+            {
+              "id": "step_1755261238005",
+              "type": "choice",
+              "content": "可以四处看看吗？"
+            },
+            {
+              "id": "step_1755261240065",
+              "type": "choice",
+              "content": "没什么特别的吧 或者 不喜欢蘑菇",
+              "group": "[序章16]★日记(6月4日)"
+            },
+            {
+              "id": "step_1755261313152",
+              "type": "save",
+              "content": "SAVE 2",
+              "group": "[序章21]★日记(6月5日)"
+            },
+            {
+              "id": "step_1755261338220",
+              "type": "choice",
+              "content": "回房间"
+            },
+            {
+              "id": "step_1755261458829",
+              "type": "note",
+              "content": "[序章26]★日记(6月6日)"
+            },
+            {
+              "id": "step_1755261475903",
+              "type": "note",
+              "content": "[序章30]★日记(6月7日)"
+            }
+          ]
+        },
+        {
+          "id": "ending_1755261560416",
+          "name": "序章END2(不醒的梦02)",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755261639426",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1755261674847",
+              "type": "choice",
+              "content": "沉浸于梦境"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755262049456",
+      "name": "新路线",
+      "endings": [
+        {
+          "id": "ending_1755262052768",
+          "name": "共通END1(浓雾02)",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755262088677",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1755262325795",
+              "type": "choice",
+              "content": "如果有药就拿"
+            },
+            {
+              "id": "step_1755262341135",
+              "type": "save",
+              "content": "SAVE 3",
+              "group": "[共通06]★日记(6月4日)"
+            },
+            {
+              "id": "step_1755262364800",
+              "type": "choice",
+              "content": "遵从女仆们的规则"
+            },
+            {
+              "id": "step_1755262650945",
+              "type": "choice",
+              "content": "※追加片段",
+              "group": "[浓雾02]★日记(？月？日)"
+            },
+            {
+              "id": "step_1755262684339",
+              "type": "choice",
+              "content": "《朱顶红 后日谈01》⇒BLOCK JUMP"
+            }
+          ]
+        },
+        {
+          "id": "ending_1755262844966",
+          "name": "共通END2(心之棘)",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755262860981",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1755262871576",
+              "type": "choice",
+              "content": "按自己的方式度过"
+            },
+            {
+              "id": "step_1755262872476",
+              "type": "save",
+              "content": "SAVE 4",
+              "group": "[共通09]★日记(6月5日)"
+            },
+            {
+              "id": "step_1755262914368",
+              "type": "choice",
+              "content": "抽手"
+            }
+          ]
+        },
+        {
+          "id": "ending_1755262939562",
+          "name": "爱丽丝END1(母女双爱02)",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755262999519",
+              "type": "load",
+              "content": "LOAD 1",
+              "group": "[心之棘]★日记(6月6日)"
+            },
+            {
+              "id": "step_1755263020735",
+              "type": "choice",
+              "content": "即便如此也要深入"
+            },
+            {
+              "id": "step_1755263033953",
+              "type": "choice",
+              "content": "[共通17]★日记(6月6日)"
+            },
+            {
+              "id": "step_1755263040916",
+              "type": "choice",
+              "content": "[共通21]★日记(6月7日)"
+            },
+            {
+              "id": "step_1755263041511",
+              "type": "choice",
+              "content": "[共通33]★日记(6月8日)"
+            },
+            {
+              "id": "step_1755263057987",
+              "type": "choice",
+              "content": "感觉到了 或者 完全不明白"
+            },
+            {
+              "id": "step_1755263063548",
+              "type": "save",
+              "content": "SAVE 5"
+            },
+            {
+              "id": "step_1755263069306",
+              "type": "choice",
+              "content": "什么都没有"
+            },
+            {
+              "id": "step_1755263070457",
+              "type": "choice",
+              "content": "[爱丽丝01]★日记(6月9日)"
+            },
+            {
+              "id": "step_1755263088065",
+              "type": "save",
+              "content": "SAVE 6"
+            },
+            {
+              "id": "step_1755263092615",
+              "type": "choice",
+              "content": "选择爱丽丝"
+            },
+            {
+              "id": "step_1755263093163",
+              "type": "save",
+              "content": "SAVE 7"
+            },
+            {
+              "id": "step_1755263105361",
+              "type": "choice",
+              "content": "与爱丽丝一起生活"
+            }
+          ]
+        },
+        {
+          "id": "ending_1755263133999",
+          "name": "爱丽丝END2(羁绊的形状)TRUE",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755263169427",
+              "type": "load",
+              "content": "LOAD 7"
+            },
+            {
+              "id": "step_1755263202048",
+              "type": "choice",
+              "content": "拒绝邀请"
+            },
+            {
+              "id": "step_1755263254462",
+              "type": "choice",
+              "content": "[羁绊的形状]★日记(？月？日)"
+            },
+            {
+              "id": "step_1755263255306",
+              "type": "choice",
+              "content": "堇"
+            }
+          ]
+        },
+        {
+          "id": "ending_1755263291658",
+          "name": "堇END1(执着)",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755263398378",
+              "type": "load",
+              "content": "LOAD 6"
+            },
+            {
+              "id": "step_1755263407727",
+              "type": "choice",
+              "content": "选择堇"
+            },
+            {
+              "id": "step_1755263464724",
+              "type": "save",
+              "content": "SAVE 8"
+            },
+            {
+              "id": "step_1755263479839",
+              "type": "choice",
+              "content": "让堇如愿以偿地生活"
+            },
+            {
+              "id": "step_1755263533230",
+              "type": "choice",
+              "content": "[执着]★日记(？月？日)"
+            }
+          ]
+        },
+        {
+          "id": "ending_1755263660471",
+          "name": "堇END2(比翼连理)TRUE",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755263710896",
+              "type": "load",
+              "content": "LOAD 8"
+            },
+            {
+              "id": "step_1755263757485",
+              "type": "choice",
+              "content": "告知堇的错误"
+            },
+            {
+              "id": "step_1755263779848",
+              "type": "choice",
+              "content": "[比翼连理]★日记(？月？日)"
+            }
+          ]
+        },
+        {
+          "id": "ending_1755263786537",
+          "name": "菲莉埃尔END1(相互支配)",
+          "type": "normal",
+          "requirements": "※爱丽丝＆堇END后",
+          "steps": [
+            {
+              "id": "step_1755263810106",
+              "type": "load",
+              "content": "LOAD 5"
+            },
+            {
+              "id": "step_1755263828192",
+              "type": "choice",
+              "content": "有纸张的触感"
+            },
+            {
+              "id": "step_1755263861379",
+              "type": "choice",
+              "content": "[菲莉埃尔01]★日记(6月9日)"
+            },
+            {
+              "id": "step_1755263861559",
+              "type": "save",
+              "content": "SAVE 9"
+            },
+            {
+              "id": "step_1755263881783",
+              "type": "choice",
+              "content": "菲莉埃尔，请多关照"
+            },
+            {
+              "id": "step_1755263882383",
+              "type": "save",
+              "content": "SAVE 10"
+            },
+            {
+              "id": "step_1755263905904",
+              "type": "choice",
+              "content": "想要支配菲莉埃尔"
+            },
+            {
+              "id": "step_1755264057046",
+              "type": "choice",
+              "content": "[相互支配]★日记(？月？日)"
+            }
+          ]
+        },
+        {
+          "id": "ending_1755264074995",
+          "name": "菲莉埃尔END2(新世界)",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755264219735",
+              "type": "load",
+              "content": "LOAD 10"
+            },
+            {
+              "id": "step_1755264246510",
+              "type": "choice",
+              "content": "重要的事并没有改变"
+            },
+            {
+              "id": "step_1755264340685",
+              "type": "choice",
+              "content": "《女仆对话》⇒BLOCK JUMP",
+              "group": "[新世界]★日记(？月？日)"
+            },
+            {
+              "id": "step_1755264363255",
+              "type": "choice",
+              "content": "诺瓦尔"
+            }
+          ]
+        },
+        {
+          "id": "ending_1755264435229",
+          "name": "共通END3(花瓣02)",
+          "type": "normal",
+          "requirements": "※菲莉埃尔END后",
+          "steps": [
+            {
+              "id": "step_1755264458082",
+              "type": "load",
+              "content": "LOAD 9"
+            },
+            {
+              "id": "step_1755264470160",
+              "type": "choice",
+              "content": "即便如此还是选择诺瓦尔"
+            },
+            {
+              "id": "step_1755264473551",
+              "type": "save",
+              "content": "SAVE 11"
+            },
+            {
+              "id": "step_1755264479077",
+              "type": "choice",
+              "content": "动摇"
+            },
+            {
+              "id": "step_1755264497563",
+              "type": "choice",
+              "content": "[花瓣02]★日记(？月？日)"
+            }
+          ]
+        },
+        {
+          "id": "ending_1755264501885",
+          "name": "诺瓦尔END1(诞生之月)",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755264507213",
+              "type": "load",
+              "content": "LOAD 11"
+            },
+            {
+              "id": "step_1755264515825",
+              "type": "choice",
+              "content": "现在也没有改变"
+            },
+            {
+              "id": "step_1755264516340",
+              "type": "save",
+              "content": "SAVE 12"
+            },
+            {
+              "id": "step_1755264525199",
+              "type": "choice",
+              "content": "与诺瓦尔共度永恒"
+            },
+            {
+              "id": "step_1755264548875",
+              "type": "choice",
+              "content": "[诞生之月]★日记(？月？日)"
+            },
+            {
+              "id": "step_1755264558636",
+              "type": "note",
+              "content": "※追加片段《金紫的困惑》⇒BLOCK JUMP《重叠的赤黑》⇒BLOCK JUMP"
+            }
+          ]
+        },
+        {
+          "id": "ending_1755264603118",
+          "name": "诺瓦尔END2(爱的空洞)TRUE",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755264609773",
+              "type": "load",
+              "content": "LOAD 12"
+            },
+            {
+              "id": "step_1755264620409",
+              "type": "choice",
+              "content": "能给予的不止这些"
+            },
+            {
+              "id": "step_1755264632784",
+              "type": "choice",
+              "content": "[爱的空洞]★日记(？月？日)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755264659528",
+      "name": "新路线",
+      "endings": [
+        {
+          "id": "ending_1755264717947",
+          "name": "TRUE END",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_1755264740119",
+              "type": "note",
+              "content": "※4人的END2结束后，标题界面"
+            },
+            {
+              "id": "step_1755264749522",
+              "type": "note",
+              "content": "【FEMME FATALE】开始"
+            },
+            {
+              "id": "step_1755264755805",
+              "type": "choice",
+              "content": "[蛇蝎美人01]★日记(6月14日)"
+            },
+            {
+              "id": "step_1755264758774",
+              "type": "choice",
+              "content": "[悠刻的蛇蝎美人]★日记(？月？日)"
+            },
+            {
+              "id": "step_1755264773015",
+              "type": "choice",
+              "content": "《爱丽丝后日谈01》⇒BLOCK JUMP",
+              "group": "※TRUE END后开放"
+            },
+            {
+              "id": "step_1755264773197",
+              "type": "choice",
+              "content": "《爱丽丝后日谈02》⇒BLOCK JUMP"
+            },
+            {
+              "id": "step_1755264805552",
+              "type": "choice",
+              "content": "《菲莉埃尔后日谈01》⇒BLOCK JUMP"
+            },
+            {
+              "id": "step_1755264805745",
+              "type": "choice",
+              "content": "《菲莉埃尔后日谈02》⇒BLOCK JUMP"
+            },
+            {
+              "id": "step_1755264820731",
+              "type": "choice",
+              "content": "《堇后日谈01》⇒BLOCK JUMP"
+            },
+            {
+              "id": "step_1755264820963",
+              "type": "choice",
+              "content": "《堇后日谈02》⇒BLOCK JUMP"
+            },
+            {
+              "id": "step_1755264827293",
+              "type": "choice",
+              "content": "《诺瓦尔后日谈01》⇒BLOCK JUMP"
+            },
+            {
+              "id": "step_1755264827503",
+              "type": "choice",
+              "content": "《诺瓦尔后日谈02》⇒BLOCK JUMP"
+            },
+            {
+              "id": "step_1755264849985",
+              "type": "choice",
+              "content": "《朱顶红后日谈02》⇒BLOCK JUMP"
+            },
+            {
+              "id": "step_1755264850225",
+              "type": "choice",
+              "content": "《假如的尽头(宫子)》⇒BLOCK JUMP"
+            },
+            {
+              "id": "step_1755264850518",
+              "type": "choice",
+              "content": "《物语(由香)》⇒BLOCK JUMP"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

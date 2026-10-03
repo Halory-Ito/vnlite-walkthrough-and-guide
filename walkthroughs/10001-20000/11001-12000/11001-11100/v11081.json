@@ -1,0 +1,106 @@
+{
+  "vid": "v11081",
+  "name": {
+    "zh-cn": "层层交织的梦境与现实",
+    "ja-jp": "夢か現かマトリョーシカ",
+    "ja-Latn": "yume-ka-utsutsu-ka-matryoshka"
+  },
+  "level": 2,
+  "updatedAt": "2026-05-15",
+  "routes": [
+    {
+      "id": "route_main",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_mizuki",
+          "name": "和田守 鶍 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_mizuki_01",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_mizuki_02",
+              "type": "choice",
+              "content": "亲向她的香唇"
+            }
+          ]
+        },
+        {
+          "id": "ending_seri",
+          "name": "椋 汐浬 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_seri_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_seri_02",
+              "type": "choice",
+              "content": "亲向她的额头"
+            },
+            {
+              "id": "step_seri_03",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_seri_04",
+              "type": "choice",
+              "content": "将她抱在了怀中"
+            }
+          ]
+        },
+        {
+          "id": "ending_nagi",
+          "name": "柳浦 凪 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_nagi_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_nagi_02",
+              "type": "choice",
+              "content": "轻抚了下她额头"
+            },
+            {
+              "id": "step_nagi_03",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_nagi_04",
+              "type": "choice",
+              "content": "把凪叫回家"
+            }
+          ]
+        },
+        {
+          "id": "ending_shinoko",
+          "name": "祝部 深夜子 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_shinoko_01",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_shinoko_02",
+              "type": "choice",
+              "content": "把凪送回去"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

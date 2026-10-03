@@ -1,0 +1,292 @@
+{
+  "vid": "v26664",
+  "name": {
+    "zh-cn": "樱色之云＊绯色之恋",
+    "ja-jp": "さくらの雲＊スカアレットの恋",
+    "ja-Latn": "sakura-no-kumo-scarlet-no-koi"
+  },
+  "level": 2,
+  "updatedAt": "2026-03-25",
+  "routes": [
+    {
+      "id": "route_game",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_daily_end",
+          "name": "日常 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_daily_001",
+              "type": "choice",
+              "content": "是偶然"
+            },
+            {
+              "id": "step_daily_002",
+              "type": "choice",
+              "content": "加藤干的"
+            }
+          ]
+        },
+        {
+          "id": "ending_toko_end",
+          "name": "远子 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_toko_001",
+              "type": "note",
+              "content": "进入下一条分支"
+            },
+            {
+              "id": "step_toko_002",
+              "type": "note",
+              "content": "强制路线一周目"
+            }
+          ]
+        },
+        {
+          "id": "ending_ren_bad_end1",
+          "name": "BAD END1",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_ren_bad_001",
+              "type": "note",
+              "content": "进入下一条分支"
+            },
+            {
+              "id": "step_ren_bad_002",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_ren_bad_003",
+              "type": "choice",
+              "content": "无视电报的指示"
+            }
+          ]
+        },
+        {
+          "id": "ending_ren_end",
+          "name": "莲 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_ren_001",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_ren_002",
+              "type": "choice",
+              "content": "遵从电报的指示"
+            },
+            {
+              "id": "step_ren_003",
+              "type": "choice",
+              "content": "老实认错"
+            },
+            {
+              "id": "step_ren_004",
+              "type": "choice",
+              "content": "不知道"
+            }
+          ]
+        },
+        {
+          "id": "ending_melissa_end",
+          "name": "梅利莎 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_melissa_001",
+              "type": "note",
+              "content": "进入下一条分支"
+            },
+            {
+              "id": "step_melissa_002",
+              "type": "choice",
+              "content": "访问5号房间",
+              "subfix": "一周目选项"
+            },
+            {
+              "id": "step_melissa_003",
+              "type": "choice",
+              "content": "访问7号房间",
+              "subfix": "一周目选项"
+            },
+            {
+              "id": "step_melissa_004",
+              "type": "choice",
+              "content": "访问13号房间",
+              "subfix": "一周目选项"
+            },
+            {
+              "id": "step_melissa_005",
+              "type": "choice",
+              "content": "去餐车",
+              "subfix": "一周目选项"
+            },
+            {
+              "id": "step_melissa_006",
+              "type": "choice",
+              "content": "去前方车厢",
+              "subfix": "一周目选项"
+            },
+            {
+              "id": "step_melissa_007",
+              "type": "choice",
+              "content": "拜访6号房间",
+              "subfix": "二周目选项"
+            },
+            {
+              "id": "step_melissa_008",
+              "type": "choice",
+              "content": "拜访九号房间",
+              "subfix": "二周目选项"
+            },
+            {
+              "id": "step_melissa_009",
+              "type": "choice",
+              "content": "去餐车",
+              "subfix": "二周目选项"
+            },
+            {
+              "id": "step_melissa_010",
+              "type": "choice",
+              "content": "拜访1号房间",
+              "subfix": "三周目选项"
+            },
+            {
+              "id": "step_melissa_011",
+              "type": "choice",
+              "content": "拜访2号房间",
+              "subfix": "三周目选项"
+            },
+            {
+              "id": "step_melissa_012",
+              "type": "choice",
+              "content": "拜访3号房间",
+              "subfix": "三周目选项"
+            },
+            {
+              "id": "step_melissa_013",
+              "type": "choice",
+              "content": "拜访13号房间",
+              "subfix": "四周目选项"
+            },
+            {
+              "id": "step_melissa_014",
+              "type": "choice",
+              "content": "拜访14号房间",
+              "subfix": "四周目选项"
+            },
+            {
+              "id": "step_melissa_015",
+              "type": "choice",
+              "content": "拜访15号房间",
+              "subfix": "四周目选项"
+            },
+            {
+              "id": "step_melissa_016",
+              "type": "note",
+              "content": "在过道可以听到枪声"
+            },
+            {
+              "id": "step_melissa_017",
+              "type": "choice",
+              "content": "去1号房",
+              "subfix": "六周目选项"
+            },
+            {
+              "id": "step_melissa_018",
+              "type": "choice",
+              "content": "去7号房",
+              "subfix": "六周目选项"
+            },
+            {
+              "id": "step_melissa_019",
+              "type": "choice",
+              "content": "去6号房",
+              "subfix": "七周目选项"
+            },
+            {
+              "id": "step_melissa_020",
+              "type": "choice",
+              "content": "去10号房",
+              "subfix": "七周目选项"
+            },
+            {
+              "id": "step_melissa_021",
+              "type": "choice",
+              "content": "去12号房",
+              "subfix": "七周目选项"
+            },
+            {
+              "id": "step_melissa_022",
+              "type": "choice",
+              "content": "寻找茅野"
+            },
+            {
+              "id": "step_melissa_023",
+              "type": "choice",
+              "content": "寻找阿良良木",
+              "subfix": "九周目选项"
+            },
+            {
+              "id": "step_melissa_024",
+              "type": "choice",
+              "content": "寻找千代",
+              "subfix": "九周目选项"
+            },
+            {
+              "id": "step_melissa_025",
+              "type": "choice",
+              "content": "寻找舞",
+              "subfix": "九周目选项"
+            }
+          ]
+        },
+        {
+          "id": "ending_director_end",
+          "name": "所长 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_director_001",
+              "type": "note",
+              "content": "回到标题画面"
+            },
+            {
+              "id": "step_director_002",
+              "type": "note",
+              "content": "进入下一条分支"
+            },
+            {
+              "id": "step_director_003",
+              "type": "choice",
+              "content": "所长"
+            },
+            {
+              "id": "step_director_004",
+              "type": "note",
+              "content": "进入下一条分支"
+            },
+            {
+              "id": "step_director_005",
+              "type": "choice",
+              "content": "因为她们和我有接触"
+            },
+            {
+              "id": "step_director_006",
+              "type": "choice",
+              "content": "加藤上尉是未来人"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

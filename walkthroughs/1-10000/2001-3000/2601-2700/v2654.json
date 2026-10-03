@@ -1,0 +1,101 @@
+{
+  "vid": "v2654",
+  "name": {
+    "zh-cn": "白熊铃星群",
+    "ja-jp": "しろくまベルスターズ♪",
+    "ja-Latn": "shirokuma-bell-stars"
+  },
+  "level": 2,
+  "updatedAt": "2026-04-12",
+  "routes": [
+    {
+      "id": "route_game_guide",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_nanami_end",
+          "name": "星名七海 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_nanami_01",
+              "type": "choice",
+              "content": "讨论关于云母看见的东西"
+            },
+            {
+              "id": "step_nanami_02",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_nanami_03",
+              "type": "choice",
+              "content": "不接电话"
+            },
+            {
+              "id": "step_nanami_04",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_nanami_05",
+              "type": "choice",
+              "content": "七海"
+            }
+          ]
+        },
+        {
+          "id": "ending_lilika_end",
+          "name": "月守莉莉卡 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_lilika_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_lilika_02",
+              "type": "choice",
+              "content": "莉莉卡"
+            }
+          ]
+        },
+        {
+          "id": "ending_suzuri_end",
+          "name": "砚 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_suzuri_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_suzuri_02",
+              "type": "choice",
+              "content": "砚"
+            }
+          ]
+        },
+        {
+          "id": "ending_kirara_end",
+          "name": "鳄口云母 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_kirara_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_kirara_02",
+              "type": "choice",
+              "content": "接电话"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

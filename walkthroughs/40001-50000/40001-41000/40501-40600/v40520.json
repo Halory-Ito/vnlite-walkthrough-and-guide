@@ -1,0 +1,501 @@
+{
+  "vid": "v40520",
+  "name": {
+    "zh-cn": "天使☆嚣嚣 RE-BOOT!",
+    "en-us": "Angelic☆Chaos RE-BOOT!",
+    "ja-jp": "天使☆騒々 RE-BOOT!",
+    "ja-Latn": "tenshi-souzou-re-boot"
+  },
+  "level": 2,
+  "updatedAt": "2026-02-27",
+  "routes": [
+    {
+      "id": "route_1749990451590",
+      "name": "白雪 乃爱",
+      "endings": [
+        {
+          "id": "ending_1749990479886",
+          "name": "乃爱 END 1",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_1749990527207",
+              "type": "choice",
+              "content": "哎，虽然很可爱……"
+            },
+            {
+              "id": "step_1749990530893",
+              "type": "choice",
+              "content": "先看乃爱的"
+            },
+            {
+              "id": "step_1749990545113",
+              "type": "choice",
+              "content": "别再发了"
+            },
+            {
+              "id": "step_1749990545363",
+              "type": "choice",
+              "content": "当然……"
+            },
+            {
+              "id": "step_1749990551984",
+              "type": "choice",
+              "content": "不用在意"
+            },
+            {
+              "id": "step_1749990552279",
+              "type": "choice",
+              "content": "自己做"
+            },
+            {
+              "id": "step_1749990564957",
+              "type": "choice",
+              "content": "好像……没什么要问的"
+            },
+            {
+              "id": "step_1749990565126",
+              "type": "choice",
+              "content": "乃爱"
+            },
+            {
+              "id": "step_1749990574949",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1749990577001",
+              "type": "choice",
+              "content": "想"
+            }
+          ]
+        },
+        {
+          "id": "ending_1749990606295",
+          "name": "乃爱 END 2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1749990617833",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1749990620391",
+              "type": "choice",
+              "content": "我也不是不想，可是……"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1749990774346",
+      "name": "谷风 天音",
+      "endings": [
+        {
+          "id": "ending_1749990791957",
+          "name": "天音 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1749990943691",
+              "type": "choice",
+              "content": "哎，虽然很可爱……"
+            },
+            {
+              "id": "step_1749990948810",
+              "type": "choice",
+              "content": "总之先歇一下"
+            },
+            {
+              "id": "step_1749990949183",
+              "type": "choice",
+              "content": "问问在意的事"
+            },
+            {
+              "id": "step_1749990977946",
+              "type": "choice",
+              "content": "当然不可以"
+            },
+            {
+              "id": "step_1749990979022",
+              "type": "choice",
+              "content": "试着邀请她"
+            },
+            {
+              "id": "step_1749991003854",
+              "type": "choice",
+              "content": "自己做"
+            },
+            {
+              "id": "step_1749991004049",
+              "type": "choice",
+              "content": "好像……没什么要问的"
+            },
+            {
+              "id": "step_1749991004282",
+              "type": "choice",
+              "content": "……天音？"
+            },
+            {
+              "id": "step_1749991022513",
+              "type": "choice",
+              "content": "询问好奇的事情"
+            },
+            {
+              "id": "step_1749991022726",
+              "type": "choice",
+              "content": "我也一起去"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1749991049981",
+      "name": "小云雀 来海",
+      "endings": [
+        {
+          "id": "ending_1749991064984",
+          "name": "来海 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1749991081598",
+              "type": "choice",
+              "content": "哎，虽然很可爱……"
+            },
+            {
+              "id": "step_1749991081808",
+              "type": "choice",
+              "content": "总之先歇一下"
+            },
+            {
+              "id": "step_1749991082365",
+              "type": "choice",
+              "content": "问问在意的事"
+            },
+            {
+              "id": "step_1749991082566",
+              "type": "choice",
+              "content": "当然不可以"
+            },
+            {
+              "id": "step_1749991189104",
+              "type": "choice",
+              "content": "试着邀请她"
+            },
+            {
+              "id": "step_1749991189346",
+              "type": "choice",
+              "content": "自己做"
+            },
+            {
+              "id": "step_1749991206937",
+              "type": "choice",
+              "content": "好像……没什么要问的"
+            },
+            {
+              "id": "step_1749991207366",
+              "type": "choice",
+              "content": "小云雀"
+            },
+            {
+              "id": "step_1749991223915",
+              "type": "choice",
+              "content": "夸奖她泳装很好看"
+            },
+            {
+              "id": "step_1749991224205",
+              "type": "choice",
+              "content": "继续看行李"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1749991337171",
+      "name": "星河 辉耶",
+      "endings": [
+        {
+          "id": "ending_1749991359452",
+          "name": "辉耶 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1749991371226",
+              "type": "choice",
+              "content": "哎，虽然很可爱……"
+            },
+            {
+              "id": "step_1749991371578",
+              "type": "choice",
+              "content": "总之先歇一下"
+            },
+            {
+              "id": "step_1749991371763",
+              "type": "choice",
+              "content": "问问在意的事"
+            },
+            {
+              "id": "step_1749991371915",
+              "type": "choice",
+              "content": "当然不可以"
+            },
+            {
+              "id": "step_1749991372109",
+              "type": "choice",
+              "content": "试着邀请她"
+            },
+            {
+              "id": "step_1749991409691",
+              "type": "choice",
+              "content": "拜托辉耶"
+            },
+            {
+              "id": "step_1749991409879",
+              "type": "choice",
+              "content": "好像……没什么要问的"
+            },
+            {
+              "id": "step_1749991410101",
+              "type": "choice",
+              "content": "辉耶"
+            },
+            {
+              "id": "step_1749991410291",
+              "type": "choice",
+              "content": "询问好奇的事情"
+            },
+            {
+              "id": "step_1749991441449",
+              "type": "choice",
+              "content": "我也一起去"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1749991480815",
+      "name": "高楯 欧丽叶",
+      "endings": [
+        {
+          "id": "ending_1749991497987",
+          "name": "欧丽叶 END",
+          "type": "normal",
+          "requirements": "必须先攻略完成任意一名角色",
+          "steps": [
+            {
+              "id": "step_1749991543204",
+              "type": "choice",
+              "content": "哎，虽然很可爱……"
+            },
+            {
+              "id": "step_1749991543716",
+              "type": "choice",
+              "content": "总之先歇一下"
+            },
+            {
+              "id": "step_1749991543875",
+              "type": "choice",
+              "content": "问问在意的事"
+            },
+            {
+              "id": "step_1749991544106",
+              "type": "choice",
+              "content": "当然不可以"
+            },
+            {
+              "id": "step_1749991546554",
+              "type": "choice",
+              "content": "试着邀请她"
+            },
+            {
+              "id": "step_1749991547007",
+              "type": "choice",
+              "content": "自己做"
+            },
+            {
+              "id": "step_1749991627373",
+              "type": "choice",
+              "content": "好像……没什么要问的"
+            },
+            {
+              "id": "step_1749991627853",
+              "type": "choice",
+              "content": "欧丽叶"
+            },
+            {
+              "id": "step_1749991640221",
+              "type": "choice",
+              "content": "夸奖她泳装很好看"
+            },
+            {
+              "id": "step_1749991640408",
+              "type": "choice",
+              "content": "我也去找找"
+            },
+            {
+              "id": "step_1749991640749",
+              "type": "choice",
+              "content": "说出来"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1749991668051",
+      "name": "百里 风实花",
+      "endings": [
+        {
+          "id": "ending_1749991681244",
+          "name": "风实花 END",
+          "type": "normal",
+          "requirements": "必须先攻略完成任意一名角色",
+          "steps": [
+            {
+              "id": "step_1749991691091",
+              "type": "choice",
+              "content": "哎，虽然很可爱……"
+            },
+            {
+              "id": "step_1749991691501",
+              "type": "choice",
+              "content": "总之先歇一下"
+            },
+            {
+              "id": "step_1749991714509",
+              "type": "choice",
+              "content": "问问在意的事"
+            },
+            {
+              "id": "step_1749991714705",
+              "type": "choice",
+              "content": "当然不可以"
+            },
+            {
+              "id": "step_1749991726759",
+              "type": "choice",
+              "content": "试着邀请她"
+            },
+            {
+              "id": "step_1749991727183",
+              "type": "choice",
+              "content": "自己做"
+            },
+            {
+              "id": "step_1749991739805",
+              "type": "choice",
+              "content": "那就……去问一问"
+            },
+            {
+              "id": "step_1749991740175",
+              "type": "choice",
+              "content": "乃爱"
+            },
+            {
+              "id": "step_1749991751035",
+              "type": "choice",
+              "content": "夸奖她泳装很好看"
+            },
+            {
+              "id": "step_1749991751277",
+              "type": "choice",
+              "content": "我也一起去"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1749991774159",
+      "name": "NORMAL END",
+      "endings": [
+        {
+          "id": "ending_1749991797451",
+          "name": "NORMAL END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1749991815993",
+              "type": "choice",
+              "content": "哎，虽然很可爱……"
+            },
+            {
+              "id": "step_1749991824897",
+              "type": "choice",
+              "content": "总之先歇一下"
+            },
+            {
+              "id": "step_1749991825088",
+              "type": "choice",
+              "content": "问问在意的事"
+            },
+            {
+              "id": "step_1749991825243",
+              "type": "choice",
+              "content": "当然不可以"
+            },
+            {
+              "id": "step_1749991825377",
+              "type": "choice",
+              "content": "试着邀请她"
+            },
+            {
+              "id": "step_1749991825505",
+              "type": "choice",
+              "content": "自己做"
+            },
+            {
+              "id": "step_1749991825687",
+              "type": "choice",
+              "content": "好像……没什么要问的"
+            },
+            {
+              "id": "step_1749991825819",
+              "type": "choice",
+              "content": "欧丽叶"
+            },
+            {
+              "id": "step_1749991867705",
+              "type": "choice",
+              "content": "夸奖她泳装很好看"
+            },
+            {
+              "id": "step_1749991867930",
+              "type": "choice",
+              "content": "我也去找找"
+            },
+            {
+              "id": "step_1749991884708",
+              "type": "choice",
+              "content": "还是算了"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1749991899349",
+      "name": "BAD END",
+      "endings": [
+        {
+          "id": "ending_1749991909343",
+          "name": "BAD END",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_1749991915697",
+              "type": "choice",
+              "content": "嗯，太可爱了……！"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "vid": "v1335",
+  "name": {
+    "zh-cn": "铃音七！",
+    "ja-jp": "スズノネセブン！",
+    "ja-Latn": "suzunone-seven"
+  },
+  "level": 2,
+  "updatedAt": "2026-04-13",
+  "routes": [
+    {
+      "id": "route_game_guide",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_nino_end",
+          "name": "仁乃 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_nino_01",
+              "type": "choice",
+              "content": "堇的方案"
+            },
+            {
+              "id": "step_nino_02",
+              "type": "choice",
+              "content": "拜托堇"
+            },
+            {
+              "id": "step_nino_03",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_nino_04",
+              "type": "choice",
+              "content": "拜托美奈都"
+            },
+            {
+              "id": "step_nino_05",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_nino_06",
+              "type": "choice",
+              "content": "还是柚子里前辈比较好"
+            },
+            {
+              "id": "step_nino_07",
+              "type": "choice",
+              "content": "和仁乃出门"
+            },
+            {
+              "id": "step_nino_08",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_nino_09",
+              "type": "choice",
+              "content": "询问仁乃在哪里"
+            }
+          ]
+        },
+        {
+          "id": "ending_yuzuri_end",
+          "name": "柚子里 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_yuzuri_01",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_yuzuri_02",
+              "type": "choice",
+              "content": "询问柚子里前辈在哪里"
+            }
+          ]
+        },
+        {
+          "id": "ending_minato_end",
+          "name": "美奈都 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_minato_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_minato_02",
+              "type": "choice",
+              "content": "美奈都比较好"
+            },
+            {
+              "id": "step_minato_03",
+              "type": "choice",
+              "content": "和美奈都出门"
+            },
+            {
+              "id": "step_minato_04",
+              "type": "choice",
+              "content": "询问柚子里前辈在哪里"
+            }
+          ]
+        },
+        {
+          "id": "ending_sumire_end",
+          "name": "堇 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_sumire_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_sumire_02",
+              "type": "choice",
+              "content": "拜托堇"
+            },
+            {
+              "id": "step_sumire_03",
+              "type": "choice",
+              "content": "美奈都比较好"
+            },
+            {
+              "id": "step_sumire_04",
+              "type": "choice",
+              "content": "和仁乃出门"
+            },
+            {
+              "id": "step_sumire_05",
+              "type": "choice",
+              "content": "询问柚子里前辈在哪里"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

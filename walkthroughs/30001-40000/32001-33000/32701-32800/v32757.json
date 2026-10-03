@@ -1,0 +1,132 @@
+{
+  "vid": "v32757",
+  "name": {
+    "zh-cn": "Unless Terminalia",
+    "ja-jp": "アンレス・テルミナリア",
+    "ja-Latn": "unless-terminalia"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-15",
+  "routes": [
+    {
+      "id": "route_game_guide",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_common",
+          "name": "共通线 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_common_01",
+              "type": "choice",
+              "content": "递给她手帕"
+            },
+            {
+              "id": "step_common_02",
+              "type": "choice",
+              "content": "为了她与父亲再会"
+            },
+            {
+              "id": "step_common_03",
+              "type": "choice",
+              "content": "摸摸头"
+            },
+            {
+              "id": "step_common_06",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_common_04",
+              "type": "choice",
+              "content": "恋",
+              "prefix": "※",
+              "subfix": "这里选择谁不会影响结局"
+            }
+          ]
+        },
+        {
+          "id": "ending_koi",
+          "name": "御厨 恋 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_koi_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_koi_03",
+              "type": "choice",
+              "content": "恋"
+            }
+          ]
+        },
+        {
+          "id": "ending_lina",
+          "name": "莉娜 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_lina_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_lina_03",
+              "type": "choice",
+              "content": "莉娜"
+            }
+          ]
+        },
+        {
+          "id": "ending_charlotte",
+          "name": "橘 夏洛 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_charlotte_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_charlotte_03",
+              "type": "choice",
+              "content": "夏洛"
+            }
+          ]
+        },
+        {
+          "id": "ending_lucia",
+          "name": "露琪亚·马露桑娜 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_lucia_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_lucia_03",
+              "type": "choice",
+              "content": "露琪亚"
+            }
+          ]
+        },
+        {
+          "id": "ending_true",
+          "name": "TRUE END",
+          "type": "true",
+          "requirements": "4人都攻略后从标题画面选择【True】",
+          "steps": [
+            {
+              "type": "choice",
+              "content": "（源站步骤均为空）"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

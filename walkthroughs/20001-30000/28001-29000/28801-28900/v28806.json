@@ -1,0 +1,273 @@
+{
+  "vid": "v28806",
+  "name": {
+    "zh-cn": "终之空Remake",
+    "ja-jp": "終ノ空 remake",
+    "ja-Latn": "tsui-no-sora-remake"
+  },
+  "level": 2,
+  "updatedAt": "2026-02-27",
+  "routes": [
+    {
+      "id": "route_1754653586173",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1754657071670",
+          "name": "水上 行人",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1754657119527",
+              "type": "note",
+              "content": "Tukito Minauami(第一个碎片)"
+            },
+            {
+              "id": "step_1754657177438",
+              "type": "choice",
+              "content": "去办公室",
+              "group": "7月13日"
+            },
+            {
+              "id": "step_1754657215128",
+              "type": "choice",
+              "content": "去B栋屋顶",
+              "group": "7月13日"
+            },
+            {
+              "id": "step_1754657221010",
+              "type": "choice",
+              "content": "去旧游泳池",
+              "group": "7月13日"
+            },
+            {
+              "id": "step_1754657221135",
+              "type": "choice",
+              "content": "去教室",
+              "group": "7月13日"
+            },
+            {
+              "id": "step_1754657221291",
+              "type": "choice",
+              "content": "去B栋屋顶",
+              "group": "7月13日"
+            },
+            {
+              "id": "step_1754657279884",
+              "type": "choice",
+              "content": "去教室",
+              "group": "7月14日"
+            },
+            {
+              "id": "step_1754657280149",
+              "type": "choice",
+              "content": "回忆小泽和高岛",
+              "group": "7月14日"
+            },
+            {
+              "id": "step_1754657280367",
+              "type": "choice",
+              "content": "回忆音无彩名",
+              "group": "7月14日"
+            },
+            {
+              "id": "step_1754657296360",
+              "type": "choice",
+              "content": "回忆若规琴美",
+              "group": "7月14日"
+            },
+            {
+              "id": "step_1754657332876",
+              "type": "save",
+              "content": "SAVE 1",
+              "group": "7月15日"
+            },
+            {
+              "id": "step_1754657367776",
+              "type": "choice",
+              "content": "让她去",
+              "subfix": "对应NuminoseⅠ",
+              "group": "7月15日"
+            },
+            {
+              "id": "step_1754657367923",
+              "type": "choice",
+              "content": "去B栋天台",
+              "group": "7月15日"
+            },
+            {
+              "id": "step_1754657368070",
+              "type": "choice",
+              "content": "去体育馆",
+              "group": "7月15日"
+            },
+            {
+              "id": "step_1754657368244",
+              "type": "choice",
+              "content": "去旧泳池",
+              "group": "7月15日"
+            },
+            {
+              "id": "step_1754657414654",
+              "type": "load",
+              "content": "LOAD 1",
+              "group": "7月15日"
+            },
+            {
+              "id": "step_1754657460466",
+              "type": "choice",
+              "content": "安慰她",
+              "subfix": "对应NuminoseⅡ",
+              "group": "7月15日"
+            },
+            {
+              "id": "step_1754657460601",
+              "type": "choice",
+              "content": "去B栋天台",
+              "group": "7月15日"
+            },
+            {
+              "id": "step_1754657486564",
+              "type": "choice",
+              "content": "去体育馆",
+              "group": "7月15日"
+            },
+            {
+              "id": "step_1754657486701",
+              "type": "choice",
+              "content": "去旧泳池",
+              "group": "7月15日"
+            },
+            {
+              "id": "step_1754657486859",
+              "type": "choice",
+              "content": "观察",
+              "group": "7月18日"
+            },
+            {
+              "id": "step_1754657530606",
+              "type": "choice",
+              "content": "思考",
+              "group": "7月18日"
+            },
+            {
+              "id": "step_1754657530779",
+              "type": "choice",
+              "content": "打开",
+              "group": "7月18日"
+            },
+            {
+              "id": "step_1754657530923",
+              "type": "choice",
+              "content": "突袭",
+              "subfix": "选择Kotomi Wakatsuki(第二个碎片)"
+            }
+          ]
+        },
+        {
+          "id": "ending_1755092571836",
+          "name": "若规 琴美",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755092594120",
+              "type": "note",
+              "content": "无选项"
+            },
+            {
+              "id": "step_1755092594543",
+              "type": "note",
+              "content": "选择Zakvro Takaslima(第三个碎片)"
+            }
+          ]
+        },
+        {
+          "id": "ending_1755092601571",
+          "name": "高岛 柘榴",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755092613452",
+              "type": "choice",
+              "content": "体育馆",
+              "group": "7月12日"
+            },
+            {
+              "id": "step_1755092622601",
+              "type": "choice",
+              "content": "旧泳池",
+              "group": "7月12日"
+            },
+            {
+              "id": "step_1755092625670",
+              "type": "choice",
+              "content": "教室",
+              "group": "7月12日"
+            },
+            {
+              "id": "step_1755092630617",
+              "type": "note",
+              "content": "选择Tasuko Tokoyama(第四个碎片)"
+            }
+          ]
+        },
+        {
+          "id": "ending_1755092643627",
+          "name": "横山 安子",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755092655587",
+              "type": "note",
+              "content": "无选项"
+            },
+            {
+              "id": "step_1755092655787",
+              "type": "note",
+              "content": "选择Takvji Mamiya(第五个碎片)"
+            }
+          ]
+        },
+        {
+          "id": "ending_1755092662679",
+          "name": "间宫 卓司",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755092666789",
+              "type": "choice",
+              "content": "去教室",
+              "group": "7月13日"
+            },
+            {
+              "id": "step_1755092673198",
+              "type": "choice",
+              "content": "去天台",
+              "group": "7月13日"
+            },
+            {
+              "id": "step_1755092696723",
+              "type": "choice",
+              "content": "NuminoseⅠ(第六个碎片)"
+            },
+            {
+              "id": "step_1755092703077",
+              "type": "choice",
+              "content": "无选项"
+            },
+            {
+              "id": "step_1755092719360",
+              "type": "choice",
+              "content": "NuminoseⅡ(第七个碎片)"
+            },
+            {
+              "id": "step_1755092728597",
+              "type": "note",
+              "content": "无选项"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

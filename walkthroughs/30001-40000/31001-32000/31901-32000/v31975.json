@@ -1,0 +1,93 @@
+{
+  "vid": "v31975",
+  "name": {
+    "zh-cn": "氤氲之白",
+    "en-us": "SMOKY WHITE",
+    "ja-Latn": "smoky-white"
+  },
+  "level": 1,
+  "updatedAt": "2026-05-05",
+  "routes": [
+    {
+      "id": "route_1777965543158",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1777965554733",
+          "name": "END 1",
+          "type": "good",
+          "steps": [
+            {
+              "id": "step_1777965567747",
+              "type": "choice",
+              "content": "原来是在抽烟啊/学姐是在这里做什么呢"
+            },
+            {
+              "id": "step_1777965567917",
+              "type": "choice",
+              "content": "我还能再来吗"
+            },
+            {
+              "id": "step_1777965568390",
+              "type": "choice",
+              "content": "买点曲奇/买包香烟",
+              "subfix": "如果没有选“原来是在抽烟啊”则无此选项"
+            },
+            {
+              "id": "step_1777965610794",
+              "type": "choice",
+              "content": "这样的话，这个地方多少也要冷清起来了"
+            },
+            {
+              "id": "step_1777965618345",
+              "type": "choice",
+              "content": "想一个人独处/想安静的生活"
+            },
+            {
+              "id": "step_1777965618714",
+              "type": "choice",
+              "content": "都被人邀请了，这样真的好吗"
+            },
+            {
+              "id": "step_1777965618901",
+              "type": "choice",
+              "content": "我在想，学姐还在不在呢"
+            },
+            {
+              "id": "step_1777965619079",
+              "type": "choice",
+              "content": "尽管如此，我还能再来吗"
+            },
+            {
+              "id": "step_1777965619279",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1777965641860",
+              "type": "choice",
+              "content": "我想，我会一直铭记"
+            }
+          ]
+        },
+        {
+          "id": "ending_1777965652348",
+          "name": "END 2",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_1777965661895",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1777965662769",
+              "type": "choice",
+              "content": "我想，我也一定会忘了吧"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

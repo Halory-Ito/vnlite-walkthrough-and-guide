@@ -3,6 +3,743 @@
   "sitemap": "https://www.yjgalgame.com/sitemap.xml",
   "note": "抓取溯源清单：vid -> 源页面。仅用于署名与核对，攻略内容以 walkthroughs/ 内的文件为准。",
   "games": {
+    "v4": {
+      "slug": "clannad",
+      "url": "https://www.yjgalgame.com/gal/clannad",
+      "vndbIds": [
+        "v4"
+      ],
+      "updatedAt": "2026-03-24",
+      "routesCount": 1,
+      "endingsCount": 16,
+      "stepsCount": 384
+    },
+    "v7": {
+      "slug": "tsukihime",
+      "url": "https://www.yjgalgame.com/gal/tsukihime",
+      "vndbIds": [
+        "v7"
+      ],
+      "updatedAt": "2026-07-12",
+      "routesCount": 5,
+      "endingsCount": 9,
+      "stepsCount": 161
+    },
+    "v12": {
+      "slug": "tomoyo-after",
+      "url": "https://www.yjgalgame.com/gal/tomoyo-after",
+      "vndbIds": [
+        "v12"
+      ],
+      "updatedAt": "2026-03-24",
+      "routesCount": 1,
+      "endingsCount": 3,
+      "stepsCount": 54
+    },
+    "v13": {
+      "slug": "remember11",
+      "url": "https://www.yjgalgame.com/gal/remember11",
+      "vndbIds": [
+        "v13"
+      ],
+      "updatedAt": "2026-03-25",
+      "routesCount": 1,
+      "endingsCount": 33,
+      "stepsCount": 326
+    },
+    "v16": {
+      "slug": "yunohana",
+      "url": "https://www.yjgalgame.com/gal/yunohana",
+      "vndbIds": [
+        "v16"
+      ],
+      "updatedAt": "2026-04-12",
+      "routesCount": 3,
+      "endingsCount": 3,
+      "stepsCount": 13
+    },
+    "v17": {
+      "slug": "ever17",
+      "url": "https://www.yjgalgame.com/gal/ever17",
+      "vndbIds": [
+        "v17"
+      ],
+      "updatedAt": "2026-03-25",
+      "routesCount": 1,
+      "endingsCount": 10,
+      "stepsCount": 145
+    },
+    "v21": {
+      "slug": "tenshi-no-inai-12-gatsu",
+      "url": "https://www.yjgalgame.com/gal/tenshi-no-inai-12-gatsu",
+      "vndbIds": [
+        "v21"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 5,
+      "endingsCount": 9,
+      "stepsCount": 64
+    },
+    "v23": {
+      "slug": "itsuka-todoku-ano-sora-ni",
+      "url": "https://www.yjgalgame.com/gal/itsuka-todoku-ano-sora-ni",
+      "vndbIds": [
+        "v23"
+      ],
+      "updatedAt": "2026-02-27",
+      "routesCount": 3,
+      "endingsCount": 3,
+      "stepsCount": 11
+    },
+    "v28": {
+      "slug": "shuffle-essence",
+      "url": "https://www.yjgalgame.com/gal/shuffle-essence",
+      "vndbIds": [
+        "v28"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 12,
+      "endingsCount": 19,
+      "stepsCount": 156
+    },
+    "v33": {
+      "slug": "kanon",
+      "url": "https://www.yjgalgame.com/gal/kanon",
+      "vndbIds": [
+        "v33"
+      ],
+      "updatedAt": "2026-03-24",
+      "routesCount": 1,
+      "endingsCount": 6,
+      "stepsCount": 222
+    },
+    "v35": {
+      "slug": "wind-a-breath-of-heart",
+      "url": "https://www.yjgalgame.com/gal/wind-a-breath-of-heart",
+      "vndbIds": [
+        "v35"
+      ],
+      "updatedAt": "2026-07-12",
+      "routesCount": 5,
+      "endingsCount": 5,
+      "stepsCount": 49
+    },
+    "v36": {
+      "slug": "air",
+      "url": "https://www.yjgalgame.com/gal/air",
+      "vndbIds": [
+        "v36"
+      ],
+      "updatedAt": "2026-03-24",
+      "routesCount": 3,
+      "endingsCount": 6,
+      "stepsCount": 135
+    },
+    "v37": {
+      "slug": "kusarihime-euthanasia",
+      "url": "https://www.yjgalgame.com/gal/kusarihime-euthanasia",
+      "vndbIds": [
+        "v37"
+      ],
+      "updatedAt": "2026-07-13",
+      "routesCount": 1,
+      "endingsCount": 5,
+      "stepsCount": 64
+    },
+    "v45": {
+      "slug": "phantom",
+      "url": "https://www.yjgalgame.com/gal/phantom",
+      "vndbIds": [
+        "v45"
+      ],
+      "updatedAt": "2026-05-08",
+      "routesCount": 1,
+      "endingsCount": 14,
+      "stepsCount": 129
+    },
+    "v47": {
+      "slug": "kagetsu-tooya",
+      "url": "https://www.yjgalgame.com/gal/kagetsu-tooya",
+      "vndbIds": [
+        "v47"
+      ],
+      "updatedAt": "2026-02-27",
+      "routesCount": 1,
+      "endingsCount": 7,
+      "stepsCount": 241
+    },
+    "v57": {
+      "slug": "sharin-no-kuni-himawari-no-shoujo",
+      "url": "https://www.yjgalgame.com/gal/sharin-no-kuni-himawari-no-shoujo",
+      "vndbIds": [
+        "v57"
+      ],
+      "updatedAt": "2026-02-27",
+      "routesCount": 5,
+      "endingsCount": 8,
+      "stepsCount": 120
+    },
+    "v80": {
+      "slug": "tsuki-wa-higashi-ni-hi-wa-nishi-ni",
+      "url": "https://www.yjgalgame.com/gal/tsuki-wa-higashi-ni-hi-wa-nishi-ni",
+      "vndbIds": [
+        "v80"
+      ],
+      "updatedAt": "2026-05-09",
+      "routesCount": 1,
+      "endingsCount": 6,
+      "stepsCount": 335
+    },
+    "v83": {
+      "slug": "empty-embryo",
+      "url": "https://www.yjgalgame.com/gal/empty-embryo",
+      "vndbIds": [
+        "v83"
+      ],
+      "updatedAt": "2026-02-27",
+      "routesCount": 5,
+      "endingsCount": 5,
+      "stepsCount": 53
+    },
+    "v87": {
+      "slug": "fortune-arterial",
+      "url": "https://www.yjgalgame.com/gal/fortune-arterial",
+      "vndbIds": [
+        "v87"
+      ],
+      "updatedAt": "2026-07-15",
+      "routesCount": 1,
+      "endingsCount": 6,
+      "stepsCount": 34
+    },
+    "v88": {
+      "slug": "ef-the-first-tale",
+      "url": "https://www.yjgalgame.com/gal/ef-the-first-tale",
+      "vndbIds": [
+        "v88"
+      ],
+      "updatedAt": "2026-02-27",
+      "routesCount": 2,
+      "endingsCount": 5,
+      "stepsCount": 21
+    },
+    "v97": {
+      "slug": "saya-no-uta",
+      "url": "https://www.yjgalgame.com/gal/saya-no-uta",
+      "vndbIds": [
+        "v97"
+      ],
+      "updatedAt": "2026-02-27",
+      "routesCount": 1,
+      "endingsCount": 3,
+      "stepsCount": 8
+    },
+    "v100": {
+      "slug": "moshimo-ashita-ga-hare-naraba",
+      "url": "https://www.yjgalgame.com/gal/moshimo-ashita-ga-hare-naraba",
+      "vndbIds": [
+        "v100"
+      ],
+      "updatedAt": "2026-05-12",
+      "routesCount": 1,
+      "endingsCount": 4,
+      "stepsCount": 52
+    },
+    "v102": {
+      "slug": "gekkou-no-carnevale",
+      "url": "https://www.yjgalgame.com/gal/gekkou-no-carnevale",
+      "vndbIds": [
+        "v102"
+      ],
+      "updatedAt": "2026-07-15",
+      "routesCount": 1,
+      "endingsCount": 10,
+      "stepsCount": 61
+    },
+    "v176": {
+      "slug": "clover-hearts",
+      "url": "https://www.yjgalgame.com/gal/clover-hearts",
+      "vndbIds": [
+        "v176"
+      ],
+      "updatedAt": "2026-07-12",
+      "routesCount": 3,
+      "endingsCount": 12,
+      "stepsCount": 131
+    },
+    "v181": {
+      "slug": "kusari",
+      "url": "https://www.yjgalgame.com/gal/kusari",
+      "vndbIds": [
+        "v181"
+      ],
+      "updatedAt": "2026-04-09",
+      "routesCount": 2,
+      "endingsCount": 15,
+      "stepsCount": 142
+    },
+    "v184": {
+      "slug": "kizuato",
+      "url": "https://www.yjgalgame.com/gal/kizuato",
+      "vndbIds": [
+        "v184"
+      ],
+      "updatedAt": "2026-04-08",
+      "routesCount": 7,
+      "endingsCount": 26,
+      "stepsCount": 171
+    },
+    "v193": {
+      "slug": "nanatsuiro-drops",
+      "url": "https://www.yjgalgame.com/gal/nanatsuiro-drops",
+      "vndbIds": [
+        "v193"
+      ],
+      "updatedAt": "2026-05-18",
+      "routesCount": 1,
+      "endingsCount": 4,
+      "stepsCount": 18
+    },
+    "v195": {
+      "slug": "otome-wa-boku-ni-koishiteru",
+      "url": "https://www.yjgalgame.com/gal/otome-wa-boku-ni-koishiteru",
+      "vndbIds": [
+        "v195"
+      ],
+      "updatedAt": "2026-02-27",
+      "routesCount": 6,
+      "endingsCount": 6,
+      "stepsCount": 85
+    },
+    "v210": {
+      "slug": "himawari",
+      "url": "https://www.yjgalgame.com/gal/himawari",
+      "vndbIds": [
+        "v210"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 4,
+      "endingsCount": 23,
+      "stepsCount": 116
+    },
+    "v211": {
+      "slug": "g-senjou-no-maou",
+      "url": "https://www.yjgalgame.com/gal/g-senjou-no-maou",
+      "vndbIds": [
+        "v211"
+      ],
+      "updatedAt": "2026-02-27",
+      "routesCount": 4,
+      "endingsCount": 7,
+      "stepsCount": 41
+    },
+    "v231": {
+      "slug": "zanmataisei-demonbane",
+      "url": "https://www.yjgalgame.com/gal/zanmataisei-demonbane",
+      "vndbIds": [
+        "v231"
+      ],
+      "updatedAt": "2026-07-15",
+      "routesCount": 1,
+      "endingsCount": 7,
+      "stepsCount": 51
+    },
+    "v232": {
+      "slug": "yoake-mae-yori-ruri-iro-na",
+      "url": "https://www.yjgalgame.com/gal/yoake-mae-yori-ruri-iro-na",
+      "vndbIds": [
+        "v232"
+      ],
+      "updatedAt": "2026-05-09",
+      "routesCount": 1,
+      "endingsCount": 6,
+      "stepsCount": 94
+    },
+    "v235": {
+      "slug": "shizuku",
+      "url": "https://www.yjgalgame.com/gal/shizuku",
+      "vndbIds": [
+        "v235"
+      ],
+      "updatedAt": "2026-04-08",
+      "routesCount": 4,
+      "endingsCount": 12,
+      "stepsCount": 136
+    },
+    "v236": {
+      "slug": "white-album",
+      "url": "https://www.yjgalgame.com/gal/white-album",
+      "vndbIds": [
+        "v236"
+      ],
+      "updatedAt": "2026-04-09",
+      "routesCount": 8,
+      "endingsCount": 14,
+      "stepsCount": 554
+    },
+    "v247": {
+      "slug": "12riven",
+      "url": "https://www.yjgalgame.com/gal/12riven",
+      "vndbIds": [
+        "v247"
+      ],
+      "updatedAt": "2026-03-25",
+      "routesCount": 1,
+      "endingsCount": 8,
+      "stepsCount": 711
+    },
+    "v248": {
+      "slug": "never7",
+      "url": "https://www.yjgalgame.com/gal/never7",
+      "vndbIds": [
+        "v248"
+      ],
+      "updatedAt": "2026-03-25",
+      "routesCount": 6,
+      "endingsCount": 10,
+      "stepsCount": 349
+    },
+    "v341": {
+      "slug": "happy-margaret",
+      "url": "https://www.yjgalgame.com/gal/happy-margaret",
+      "vndbIds": [
+        "v341"
+      ],
+      "updatedAt": "2026-07-12",
+      "routesCount": 7,
+      "endingsCount": 7,
+      "stepsCount": 44
+    },
+    "v414": {
+      "slug": "kira-kira",
+      "url": "https://www.yjgalgame.com/gal/kira-kira",
+      "vndbIds": [
+        "v414"
+      ],
+      "updatedAt": "2026-05-15",
+      "routesCount": 1,
+      "endingsCount": 7,
+      "stepsCount": 45
+    },
+    "v417": {
+      "slug": "sekien-no-inganock",
+      "url": "https://www.yjgalgame.com/gal/sekien-no-inganock",
+      "vndbIds": [
+        "v417"
+      ],
+      "updatedAt": "2026-07-13",
+      "routesCount": 1,
+      "endingsCount": 12,
+      "stepsCount": 298
+    },
+    "v423": {
+      "slug": "ashita-no-kimi-to-au-tame-ni",
+      "url": "https://www.yjgalgame.com/gal/ashita-no-kimi-to-au-tame-ni",
+      "vndbIds": [
+        "v423"
+      ],
+      "updatedAt": "2026-03-24",
+      "routesCount": 1,
+      "endingsCount": 8,
+      "stepsCount": 68
+    },
+    "v428": {
+      "slug": "zoku-satsuriku-no-django",
+      "url": "https://www.yjgalgame.com/gal/zoku-satsuriku-no-django",
+      "vndbIds": [
+        "v428"
+      ],
+      "updatedAt": "2026-07-16",
+      "routesCount": 1,
+      "endingsCount": 1,
+      "stepsCount": 10
+    },
+    "v429": {
+      "slug": "tenshi-no-nichou-kenjuu",
+      "url": "https://www.yjgalgame.com/gal/tenshi-no-nichou-kenjuu",
+      "vndbIds": [
+        "v429"
+      ],
+      "updatedAt": "2026-05-08",
+      "routesCount": 1,
+      "endingsCount": 3,
+      "stepsCount": 13
+    },
+    "v430": {
+      "slug": "hanachirasu",
+      "url": "https://www.yjgalgame.com/gal/hanachirasu",
+      "vndbIds": [
+        "v430"
+      ],
+      "updatedAt": "2026-05-08",
+      "routesCount": 1,
+      "endingsCount": 6,
+      "stepsCount": 16
+    },
+    "v431": {
+      "slug": "hello-world",
+      "url": "https://www.yjgalgame.com/gal/hello-world",
+      "vndbIds": [
+        "v431"
+      ],
+      "updatedAt": "2026-05-08",
+      "routesCount": 6,
+      "endingsCount": 11,
+      "stepsCount": 216
+    },
+    "v433": {
+      "slug": "vampirdzhija-vjedogonia",
+      "url": "https://www.yjgalgame.com/gal/vampirdzhija-vjedogonia",
+      "vndbIds": [
+        "v433"
+      ],
+      "updatedAt": "2026-05-08",
+      "routesCount": 1,
+      "endingsCount": 4,
+      "stepsCount": 16
+    },
+    "v445": {
+      "slug": "bullet-butlers",
+      "url": "https://www.yjgalgame.com/gal/bullet-butlers",
+      "vndbIds": [
+        "v445"
+      ],
+      "updatedAt": "2026-05-08",
+      "routesCount": 1,
+      "endingsCount": 5,
+      "stepsCount": 31
+    },
+    "v464": {
+      "slug": "ashita-deatta-shoujo",
+      "url": "https://www.yjgalgame.com/gal/ashita-deatta-shoujo",
+      "vndbIds": [
+        "v464"
+      ],
+      "updatedAt": "2026-05-09",
+      "routesCount": 1,
+      "endingsCount": 6,
+      "stepsCount": 46
+    },
+    "v466": {
+      "slug": "doko-e-iku-no-ano-hi",
+      "url": "https://www.yjgalgame.com/gal/doko-e-iku-no-ano-hi",
+      "vndbIds": [
+        "v466"
+      ],
+      "updatedAt": "2026-05-09",
+      "routesCount": 5,
+      "endingsCount": 5,
+      "stepsCount": 84
+    },
+    "v511": {
+      "slug": "ina-koi-oinari-sama-to-motemote-no-tatari",
+      "url": "https://www.yjgalgame.com/gal/ina-koi-oinari-sama-to-motemote-no-tatari",
+      "vndbIds": [
+        "v511"
+      ],
+      "updatedAt": "2026-05-07",
+      "routesCount": 4,
+      "endingsCount": 8,
+      "stepsCount": 132
+    },
+    "v515": {
+      "slug": "cartagra-tsuki-kurui-no-yamai",
+      "url": "https://www.yjgalgame.com/gal/cartagra-tsuki-kurui-no-yamai",
+      "vndbIds": [
+        "v515"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 1,
+      "endingsCount": 7,
+      "stepsCount": 124
+    },
+    "v530": {
+      "slug": "akiiro-renka",
+      "url": "https://www.yjgalgame.com/gal/akiiro-renka",
+      "vndbIds": [
+        "v530"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 1,
+      "endingsCount": 5,
+      "stepsCount": 39
+    },
+    "v531": {
+      "slug": "natsuiro-komachi",
+      "url": "https://www.yjgalgame.com/gal/natsuiro-komachi",
+      "vndbIds": [
+        "v531"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 1,
+      "endingsCount": 8,
+      "stepsCount": 85
+    },
+    "v532": {
+      "slug": "bra-ban",
+      "url": "https://www.yjgalgame.com/gal/bra-ban",
+      "vndbIds": [
+        "v532"
+      ],
+      "updatedAt": "2026-02-27",
+      "routesCount": 5,
+      "endingsCount": 5,
+      "stepsCount": 55
+    },
+    "v562": {
+      "slug": "sakura-no-uta",
+      "url": "https://www.yjgalgame.com/gal/sakura-no-uta",
+      "vndbIds": [
+        "v562"
+      ],
+      "updatedAt": "2026-07-04",
+      "routesCount": 7,
+      "endingsCount": 7,
+      "stepsCount": 58
+    },
+    "v564": {
+      "slug": "pp-pianissimo",
+      "url": "https://www.yjgalgame.com/gal/pp-pianissimo",
+      "vndbIds": [
+        "v564"
+      ],
+      "updatedAt": "2026-05-07",
+      "routesCount": 1,
+      "endingsCount": 14,
+      "stepsCount": 142
+    },
+    "v599": {
+      "slug": "forest",
+      "url": "https://www.yjgalgame.com/gal/forest",
+      "vndbIds": [
+        "v599"
+      ],
+      "updatedAt": "2026-03-03",
+      "routesCount": 6,
+      "endingsCount": 9,
+      "stepsCount": 54
+    },
+    "v604": {
+      "slug": "haruka-ni-aogi-uruwashi-no",
+      "url": "https://www.yjgalgame.com/gal/haruka-ni-aogi-uruwashi-no",
+      "vndbIds": [
+        "v604"
+      ],
+      "updatedAt": "2026-04-12",
+      "routesCount": 2,
+      "endingsCount": 6,
+      "stepsCount": 64
+    },
+    "v646": {
+      "slug": "ayakashibito",
+      "url": "https://www.yjgalgame.com/gal/ayakashibito",
+      "vndbIds": [
+        "v646"
+      ],
+      "updatedAt": "2026-07-15",
+      "routesCount": 1,
+      "endingsCount": 8,
+      "stepsCount": 51
+    },
+    "v652": {
+      "slug": "lili-miesta",
+      "url": "https://www.yjgalgame.com/gal/lili-miesta",
+      "vndbIds": [
+        "v652"
+      ],
+      "updatedAt": "2026-02-27",
+      "routesCount": 5,
+      "endingsCount": 5,
+      "stepsCount": 22
+    },
+    "v657": {
+      "slug": "piano-no-mori-no-mankai-no-shita",
+      "url": "https://www.yjgalgame.com/gal/piano-no-mori-no-mankai-no-shita",
+      "vndbIds": [
+        "v657"
+      ],
+      "updatedAt": "2026-07-16",
+      "routesCount": 1,
+      "endingsCount": 3,
+      "stepsCount": 35
+    },
+    "v658": {
+      "slug": "primitive-link",
+      "url": "https://www.yjgalgame.com/gal/primitive-link",
+      "vndbIds": [
+        "v658"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 1,
+      "endingsCount": 6,
+      "stepsCount": 24
+    },
+    "v689": {
+      "slug": "magus-tale-sekaiju-to-koisuru-mahoutsukai",
+      "url": "https://www.yjgalgame.com/gal/magus-tale-sekaiju-to-koisuru-mahoutsukai",
+      "vndbIds": [
+        "v689"
+      ],
+      "updatedAt": "2026-05-07",
+      "routesCount": 1,
+      "endingsCount": 8,
+      "stepsCount": 54
+    },
+    "v701": {
+      "slug": "natsuzora-kanata",
+      "url": "https://www.yjgalgame.com/gal/natsuzora-kanata",
+      "vndbIds": [
+        "v701"
+      ],
+      "updatedAt": "2026-02-27",
+      "routesCount": 3,
+      "endingsCount": 5,
+      "stepsCount": 26
+    },
+    "v729": {
+      "slug": "11eyes",
+      "url": "https://www.yjgalgame.com/gal/11eyes",
+      "vndbIds": [
+        "v729"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 1,
+      "endingsCount": 30,
+      "stepsCount": 193
+    },
+    "v751": {
+      "slug": "rewrite",
+      "url": "https://www.yjgalgame.com/gal/rewrite",
+      "vndbIds": [
+        "v751"
+      ],
+      "updatedAt": "2026-03-24",
+      "routesCount": 1,
+      "endingsCount": 9,
+      "stepsCount": 125
+    },
+    "v765": {
+      "slug": "princess-lover",
+      "url": "https://www.yjgalgame.com/gal/princess-lover",
+      "vndbIds": [
+        "v765"
+      ],
+      "updatedAt": "2026-04-13",
+      "routesCount": 1,
+      "endingsCount": 4,
+      "stepsCount": 26
+    },
+    "v775": {
+      "slug": "coming-x-humming",
+      "url": "https://www.yjgalgame.com/gal/coming-x-humming",
+      "vndbIds": [
+        "v775"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 1,
+      "endingsCount": 6,
+      "stepsCount": 45
+    },
     "v792": {
       "slug": "kamipani",
       "url": "https://www.yjgalgame.com/gal/kamipani",
@@ -14,6 +751,1766 @@
       "endingsCount": 5,
       "stepsCount": 29
     },
+    "v810": {
+      "slug": "kara-no-shoujo",
+      "url": "https://www.yjgalgame.com/gal/kara-no-shoujo",
+      "vndbIds": [
+        "v810"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 1,
+      "endingsCount": 17,
+      "stepsCount": 717
+    },
+    "v814": {
+      "slug": "hime-nochi-honey",
+      "url": "https://www.yjgalgame.com/gal/hime-nochi-honey",
+      "vndbIds": [
+        "v814"
+      ],
+      "updatedAt": "2026-02-27",
+      "routesCount": 6,
+      "endingsCount": 6,
+      "stepsCount": 58
+    },
+    "v828": {
+      "slug": "tayutama-kiss-on-my-deity",
+      "url": "https://www.yjgalgame.com/gal/tayutama-kiss-on-my-deity",
+      "vndbIds": [
+        "v828"
+      ],
+      "updatedAt": "2026-07-12",
+      "routesCount": 4,
+      "endingsCount": 4,
+      "stepsCount": 20
+    },
+    "v859": {
+      "slug": "haruiro-ouse",
+      "url": "https://www.yjgalgame.com/gal/haruiro-ouse",
+      "vndbIds": [
+        "v859"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 1,
+      "endingsCount": 5,
+      "stepsCount": 18
+    },
+    "v892": {
+      "slug": "te-to-te-try-on",
+      "url": "https://www.yjgalgame.com/gal/te-to-te-try-on",
+      "vndbIds": [
+        "v892"
+      ],
+      "updatedAt": "2026-04-12",
+      "routesCount": 1,
+      "endingsCount": 5,
+      "stepsCount": 14
+    },
+    "v916": {
+      "slug": "nagomibako",
+      "url": "https://www.yjgalgame.com/gal/nagomibako",
+      "vndbIds": [
+        "v916"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 2,
+      "endingsCount": 3,
+      "stepsCount": 9
+    },
+    "v917": {
+      "slug": "sono-hanabira-ni-kuchizuke-o",
+      "url": "https://www.yjgalgame.com/gal/sono-hanabira-ni-kuchizuke-o",
+      "vndbIds": [
+        "v917"
+      ],
+      "updatedAt": "2026-05-06",
+      "routesCount": 1,
+      "endingsCount": 1,
+      "stepsCount": 4
+    },
+    "v925": {
+      "slug": "sono-hanabira-ni-kuchizuke-o-anata-to-koibito-tsunagi",
+      "url": "https://www.yjgalgame.com/gal/sono-hanabira-ni-kuchizuke-o-anata-to-koibito-tsunagi",
+      "vndbIds": [
+        "v925"
+      ],
+      "updatedAt": "2026-05-06",
+      "routesCount": 1,
+      "endingsCount": 1,
+      "stepsCount": 4
+    },
+    "v926": {
+      "slug": "sono-hanabira-ni-kuchizuke-o-itoshisa-no-photograph",
+      "url": "https://www.yjgalgame.com/gal/sono-hanabira-ni-kuchizuke-o-itoshisa-no-photograph",
+      "vndbIds": [
+        "v926"
+      ],
+      "updatedAt": "2026-05-07",
+      "routesCount": 1,
+      "endingsCount": 1,
+      "stepsCount": 5
+    },
+    "v938": {
+      "slug": "sono-hanabira-ni-kuchizuke-o-anata-o-suki-na-shiawase",
+      "url": "https://www.yjgalgame.com/gal/sono-hanabira-ni-kuchizuke-o-anata-o-suki-na-shiawase",
+      "vndbIds": [
+        "v938"
+      ],
+      "updatedAt": "2026-05-06",
+      "routesCount": 1,
+      "endingsCount": 1,
+      "stepsCount": 3
+    },
+    "v963": {
+      "slug": "toppara-zashikiwarashi-no-hanashi",
+      "url": "https://www.yjgalgame.com/gal/toppara-zashikiwarashi-no-hanashi",
+      "vndbIds": [
+        "v963"
+      ],
+      "updatedAt": "2026-02-27",
+      "routesCount": 9,
+      "endingsCount": 9,
+      "stepsCount": 99
+    },
+    "v1073": {
+      "slug": "aozora-no-mieru-oka",
+      "url": "https://www.yjgalgame.com/gal/aozora-no-mieru-oka",
+      "vndbIds": [
+        "v1073"
+      ],
+      "updatedAt": "2026-07-15",
+      "routesCount": 1,
+      "endingsCount": 6,
+      "stepsCount": 96
+    },
+    "v1085": {
+      "slug": "3days",
+      "url": "https://www.yjgalgame.com/gal/3days",
+      "vndbIds": [
+        "v1085"
+      ],
+      "updatedAt": "2026-03-31",
+      "routesCount": 1,
+      "endingsCount": 24,
+      "stepsCount": 181
+    },
+    "v1115": {
+      "slug": "sore-wa-maichiru-sakura-no-you-ni",
+      "url": "https://www.yjgalgame.com/gal/sore-wa-maichiru-sakura-no-you-ni",
+      "vndbIds": [
+        "v1115"
+      ],
+      "updatedAt": "2026-04-06",
+      "routesCount": 1,
+      "endingsCount": 5,
+      "stepsCount": 245
+    },
+    "v1140": {
+      "slug": "maji-suki-marginal-skip",
+      "url": "https://www.yjgalgame.com/gal/maji-suki-marginal-skip",
+      "vndbIds": [
+        "v1140"
+      ],
+      "updatedAt": "2026-05-09",
+      "routesCount": 1,
+      "endingsCount": 5,
+      "stepsCount": 17
+    },
+    "v1141": {
+      "slug": "ore-tachi-ni-tsubasa-wa-nai",
+      "url": "https://www.yjgalgame.com/gal/ore-tachi-ni-tsubasa-wa-nai",
+      "vndbIds": [
+        "v1141"
+      ],
+      "updatedAt": "2026-04-02",
+      "routesCount": 4,
+      "endingsCount": 8,
+      "stepsCount": 80
+    },
+    "v1152": {
+      "slug": "memories-off-1",
+      "url": "https://www.yjgalgame.com/gal/memories-off-1",
+      "vndbIds": [
+        "v1152"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 4,
+      "endingsCount": 5,
+      "stepsCount": 127
+    },
+    "v1153": {
+      "slug": "memories-off-2",
+      "url": "https://www.yjgalgame.com/gal/memories-off-2",
+      "vndbIds": [
+        "v1153"
+      ],
+      "updatedAt": "2026-03-25",
+      "routesCount": 1,
+      "endingsCount": 12,
+      "stepsCount": 172
+    },
+    "v1170": {
+      "slug": "memories-off-3",
+      "url": "https://www.yjgalgame.com/gal/memories-off-3",
+      "vndbIds": [
+        "v1170"
+      ],
+      "updatedAt": "2026-03-25",
+      "routesCount": 1,
+      "endingsCount": 18,
+      "stepsCount": 216
+    },
+    "v1171": {
+      "slug": "memories-off-4",
+      "url": "https://www.yjgalgame.com/gal/memories-off-4",
+      "vndbIds": [
+        "v1171"
+      ],
+      "updatedAt": "2026-03-25",
+      "routesCount": 1,
+      "endingsCount": 15,
+      "stepsCount": 302
+    },
+    "v1179": {
+      "slug": "flyable-heart",
+      "url": "https://www.yjgalgame.com/gal/flyable-heart",
+      "vndbIds": [
+        "v1179"
+      ],
+      "updatedAt": "2026-07-16",
+      "routesCount": 1,
+      "endingsCount": 7,
+      "stepsCount": 115
+    },
+    "v1190": {
+      "slug": "ashita-no-nanami-to-au-tame-ni",
+      "url": "https://www.yjgalgame.com/gal/ashita-no-nanami-to-au-tame-ni",
+      "vndbIds": [
+        "v1190"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 1,
+      "endingsCount": 4,
+      "stepsCount": 6
+    },
+    "v1200": {
+      "slug": "sayonara-o-oshiete",
+      "url": "https://www.yjgalgame.com/gal/sayonara-o-oshiete",
+      "vndbIds": [
+        "v1200"
+      ],
+      "updatedAt": "2026-07-11",
+      "routesCount": 6,
+      "endingsCount": 11,
+      "stepsCount": 136
+    },
+    "v1209": {
+      "slug": "alto-purple",
+      "url": "https://www.yjgalgame.com/gal/alto-purple",
+      "vndbIds": [
+        "v1209"
+      ],
+      "updatedAt": "2026-03-24",
+      "routesCount": 1,
+      "endingsCount": 5,
+      "stepsCount": 34
+    },
+    "v1234": {
+      "slug": "natsu-shoujo",
+      "url": "https://www.yjgalgame.com/gal/natsu-shoujo",
+      "vndbIds": [
+        "v1234"
+      ],
+      "updatedAt": "2026-04-09",
+      "routesCount": 4,
+      "endingsCount": 4,
+      "stepsCount": 73
+    },
+    "v1322": {
+      "slug": "tenshin-ranman-lucky-or-unlucky",
+      "url": "https://www.yjgalgame.com/gal/tenshin-ranman-lucky-or-unlucky",
+      "vndbIds": [
+        "v1322"
+      ],
+      "updatedAt": "2026-02-27",
+      "routesCount": 6,
+      "endingsCount": 6,
+      "stepsCount": 79
+    },
+    "v1325": {
+      "slug": "memories-off-5",
+      "url": "https://www.yjgalgame.com/gal/memories-off-5",
+      "vndbIds": [
+        "v1325"
+      ],
+      "updatedAt": "2026-03-25",
+      "routesCount": 1,
+      "endingsCount": 13,
+      "stepsCount": 247
+    },
+    "v1326": {
+      "slug": "memories-off-5-fd",
+      "url": "https://www.yjgalgame.com/gal/memories-off-5-fd",
+      "vndbIds": [
+        "v1326"
+      ],
+      "updatedAt": "2026-03-25",
+      "routesCount": 1,
+      "endingsCount": 3,
+      "stepsCount": 66
+    },
+    "v1335": {
+      "slug": "suzunone-seven",
+      "url": "https://www.yjgalgame.com/gal/suzunone-seven",
+      "vndbIds": [
+        "v1335"
+      ],
+      "updatedAt": "2026-04-13",
+      "routesCount": 1,
+      "endingsCount": 4,
+      "stepsCount": 20
+    },
+    "v1354": {
+      "slug": "seien-tenshi-eleanor",
+      "url": "https://www.yjgalgame.com/gal/seien-tenshi-eleanor",
+      "vndbIds": [
+        "v1354"
+      ],
+      "updatedAt": "2026-03-09",
+      "routesCount": 3,
+      "endingsCount": 16,
+      "stepsCount": 65
+    },
+    "v1474": {
+      "slug": "hoshizora-no-memoria",
+      "url": "https://www.yjgalgame.com/gal/hoshizora-no-memoria",
+      "vndbIds": [
+        "v1474"
+      ],
+      "updatedAt": "2026-07-12",
+      "routesCount": 6,
+      "endingsCount": 6,
+      "stepsCount": 60
+    },
+    "v1483": {
+      "slug": "kitto-sumiwataru-asairo-yori-mo",
+      "url": "https://www.yjgalgame.com/gal/kitto-sumiwataru-asairo-yori-mo",
+      "vndbIds": [
+        "v1483"
+      ],
+      "updatedAt": "2026-05-08",
+      "routesCount": 1,
+      "endingsCount": 1,
+      "stepsCount": 9
+    },
+    "v1545": {
+      "slug": "hana-to-otome-ni-shukufuku-o",
+      "url": "https://www.yjgalgame.com/gal/hana-to-otome-ni-shukufuku-o",
+      "vndbIds": [
+        "v1545"
+      ],
+      "updatedAt": "2026-03-03",
+      "routesCount": 1,
+      "endingsCount": 6,
+      "stepsCount": 56
+    },
+    "v1547": {
+      "slug": "77-and-two-stars-meet-again",
+      "url": "https://www.yjgalgame.com/gal/77-and-two-stars-meet-again",
+      "vndbIds": [
+        "v1547"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 1,
+      "endingsCount": 10,
+      "stepsCount": 107
+    },
+    "v1551": {
+      "slug": "signal-heart",
+      "url": "https://www.yjgalgame.com/gal/signal-heart",
+      "vndbIds": [
+        "v1551"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 1,
+      "endingsCount": 4,
+      "stepsCount": 7
+    },
+    "v1552": {
+      "slug": "mashiro-iro-symphony",
+      "url": "https://www.yjgalgame.com/gal/mashiro-iro-symphony",
+      "vndbIds": [
+        "v1552"
+      ],
+      "updatedAt": "2026-05-12",
+      "routesCount": 1,
+      "endingsCount": 4,
+      "stepsCount": 13
+    },
+    "v1566": {
+      "slug": "monochrome-kid",
+      "url": "https://www.yjgalgame.com/gal/monochrome-kid",
+      "vndbIds": [
+        "v1566"
+      ],
+      "updatedAt": "2026-03-25",
+      "routesCount": 6,
+      "endingsCount": 14,
+      "stepsCount": 164
+    },
+    "v1657": {
+      "slug": "memoria",
+      "url": "https://www.yjgalgame.com/gal/memoria",
+      "vndbIds": [
+        "v1657"
+      ],
+      "updatedAt": "2026-03-24",
+      "routesCount": 1,
+      "endingsCount": 6,
+      "stepsCount": 33
+    },
+    "v1660": {
+      "slug": "shinigami-no-kiss-wa-wakare-no-aji",
+      "url": "https://www.yjgalgame.com/gal/shinigami-no-kiss-wa-wakare-no-aji",
+      "vndbIds": [
+        "v1660"
+      ],
+      "updatedAt": "2026-07-13",
+      "routesCount": 1,
+      "endingsCount": 3,
+      "stepsCount": 3
+    },
+    "v1755": {
+      "slug": "natsuyume-nagisa",
+      "url": "https://www.yjgalgame.com/gal/natsuyume-nagisa",
+      "vndbIds": [
+        "v1755"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 1,
+      "endingsCount": 9,
+      "stepsCount": 66
+    },
+    "v1898": {
+      "slug": "natsu-no-ame",
+      "url": "https://www.yjgalgame.com/gal/natsu-no-ame",
+      "vndbIds": [
+        "v1898"
+      ],
+      "updatedAt": "2026-07-13",
+      "routesCount": 1,
+      "endingsCount": 4,
+      "stepsCount": 37
+    },
+    "v2016": {
+      "slug": "soukou-akki-muramasa",
+      "url": "https://www.yjgalgame.com/gal/soukou-akki-muramasa",
+      "vndbIds": [
+        "v2016"
+      ],
+      "updatedAt": "2026-07-15",
+      "routesCount": 1,
+      "endingsCount": 12,
+      "stepsCount": 194
+    },
+    "v2375": {
+      "slug": "dengeki-stryker",
+      "url": "https://www.yjgalgame.com/gal/dengeki-stryker",
+      "vndbIds": [
+        "v2375"
+      ],
+      "updatedAt": "2026-05-15",
+      "routesCount": 1,
+      "endingsCount": 7,
+      "stepsCount": 27
+    },
+    "v2390": {
+      "slug": "hikari-no-valusia",
+      "url": "https://www.yjgalgame.com/gal/hikari-no-valusia",
+      "vndbIds": [
+        "v2390"
+      ],
+      "updatedAt": "2026-07-13",
+      "routesCount": 1,
+      "endingsCount": 1,
+      "stepsCount": 32
+    },
+    "v2412": {
+      "slug": "kiss-to-maou-to-darjeeling",
+      "url": "https://www.yjgalgame.com/gal/kiss-to-maou-to-darjeeling",
+      "vndbIds": [
+        "v2412"
+      ],
+      "updatedAt": "2026-07-16",
+      "routesCount": 1,
+      "endingsCount": 6,
+      "stepsCount": 29
+    },
+    "v2622": {
+      "slug": "osananajimi-wa-daitouryou",
+      "url": "https://www.yjgalgame.com/gal/osananajimi-wa-daitouryou",
+      "vndbIds": [
+        "v2622"
+      ],
+      "updatedAt": "2026-07-12",
+      "routesCount": 4,
+      "endingsCount": 4,
+      "stepsCount": 18
+    },
+    "v2654": {
+      "slug": "shirokuma-bell-stars",
+      "url": "https://www.yjgalgame.com/gal/shirokuma-bell-stars",
+      "vndbIds": [
+        "v2654"
+      ],
+      "updatedAt": "2026-04-12",
+      "routesCount": 1,
+      "endingsCount": 4,
+      "stepsCount": 11
+    },
+    "v2745": {
+      "slug": "ao-to-ao-no-shizuku",
+      "url": "https://www.yjgalgame.com/gal/ao-to-ao-no-shizuku",
+      "vndbIds": [
+        "v2745"
+      ],
+      "updatedAt": "2026-03-30",
+      "routesCount": 5,
+      "endingsCount": 10,
+      "stepsCount": 274
+    },
+    "v2835": {
+      "slug": "amatsu-misora-ni",
+      "url": "https://www.yjgalgame.com/gal/amatsu-misora-ni",
+      "vndbIds": [
+        "v2835"
+      ],
+      "updatedAt": "2026-04-13",
+      "routesCount": 1,
+      "endingsCount": 5,
+      "stepsCount": 23
+    },
+    "v2955": {
+      "slug": "natsu-ni-kanaderu-bokura-no-uta",
+      "url": "https://www.yjgalgame.com/gal/natsu-ni-kanaderu-bokura-no-uta",
+      "vndbIds": [
+        "v2955"
+      ],
+      "updatedAt": "2026-03-24",
+      "routesCount": 1,
+      "endingsCount": 5,
+      "stepsCount": 23
+    },
+    "v2968": {
+      "slug": "hoshizora-e-kakaru-hashi",
+      "url": "https://www.yjgalgame.com/gal/hoshizora-e-kakaru-hashi",
+      "vndbIds": [
+        "v2968"
+      ],
+      "updatedAt": "2026-07-15",
+      "routesCount": 1,
+      "endingsCount": 7,
+      "stepsCount": 161
+    },
+    "v3031": {
+      "slug": "sono-hanabira-ni-kuchizuke-o-amakute-hoshikute-torokeru-chuu",
+      "url": "https://www.yjgalgame.com/gal/sono-hanabira-ni-kuchizuke-o-amakute-hoshikute-torokeru-chuu",
+      "vndbIds": [
+        "v3031"
+      ],
+      "updatedAt": "2026-05-07",
+      "routesCount": 1,
+      "endingsCount": 1,
+      "stepsCount": 4
+    },
+    "v3040": {
+      "slug": "mahou-shoujo-twinkle",
+      "url": "https://www.yjgalgame.com/gal/mahou-shoujo-twinkle",
+      "vndbIds": [
+        "v3040"
+      ],
+      "updatedAt": "2026-07-15",
+      "routesCount": 1,
+      "endingsCount": 8,
+      "stepsCount": 57
+    },
+    "v3144": {
+      "slug": "subarashiki-hibi-furenzoku-sonzai",
+      "url": "https://www.yjgalgame.com/gal/subarashiki-hibi-furenzoku-sonzai",
+      "vndbIds": [
+        "v3144"
+      ],
+      "updatedAt": "2026-02-27",
+      "routesCount": 8,
+      "endingsCount": 15,
+      "stepsCount": 55
+    },
+    "v3200": {
+      "slug": "sekai-seifuku-kanojo",
+      "url": "https://www.yjgalgame.com/gal/sekai-seifuku-kanojo",
+      "vndbIds": [
+        "v3200"
+      ],
+      "updatedAt": "2026-04-03",
+      "routesCount": 7,
+      "endingsCount": 14,
+      "stepsCount": 165
+    },
+    "v3368": {
+      "slug": "neko-koi-nekogami-sama-to-nekomimi-no-tatari",
+      "url": "https://www.yjgalgame.com/gal/neko-koi-nekogami-sama-to-nekomimi-no-tatari",
+      "vndbIds": [
+        "v3368"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 1,
+      "endingsCount": 5,
+      "stepsCount": 24
+    },
+    "v3372": {
+      "slug": "noblesse-oblige",
+      "url": "https://www.yjgalgame.com/gal/noblesse-oblige",
+      "vndbIds": [
+        "v3372"
+      ],
+      "updatedAt": "2026-04-02",
+      "routesCount": 1,
+      "endingsCount": 5,
+      "stepsCount": 34
+    },
+    "v3413": {
+      "slug": "sono-hanabira-ni-kuchizuke-o-tenshi-no-hanabira-zome",
+      "url": "https://www.yjgalgame.com/gal/sono-hanabira-ni-kuchizuke-o-tenshi-no-hanabira-zome",
+      "vndbIds": [
+        "v3413"
+      ],
+      "updatedAt": "2026-05-06",
+      "routesCount": 1,
+      "endingsCount": 1,
+      "stepsCount": 5
+    },
+    "v3671": {
+      "slug": "acchi-muite-koi",
+      "url": "https://www.yjgalgame.com/gal/acchi-muite-koi",
+      "vndbIds": [
+        "v3671"
+      ],
+      "updatedAt": "2026-07-11",
+      "routesCount": 5,
+      "endingsCount": 5,
+      "stepsCount": 23
+    },
+    "v3746": {
+      "slug": "real-imouto-ga-iru-ooizumi-kun-no-baai",
+      "url": "https://www.yjgalgame.com/gal/real-imouto-ga-iru-ooizumi-kun-no-baai",
+      "vndbIds": [
+        "v3746"
+      ],
+      "updatedAt": "2026-07-13",
+      "routesCount": 1,
+      "endingsCount": 3,
+      "stepsCount": 7
+    },
+    "v3767": {
+      "slug": "tiny-dungeon-black-and-white",
+      "url": "https://www.yjgalgame.com/gal/tiny-dungeon-black-and-white",
+      "vndbIds": [
+        "v3767"
+      ],
+      "updatedAt": "2026-05-07",
+      "routesCount": 1,
+      "endingsCount": 2,
+      "stepsCount": 6
+    },
+    "v3770": {
+      "slug": "aiyoku-no-eustia",
+      "url": "https://www.yjgalgame.com/gal/aiyoku-no-eustia",
+      "vndbIds": [
+        "v3770"
+      ],
+      "updatedAt": "2026-05-09",
+      "routesCount": 1,
+      "endingsCount": 6,
+      "stepsCount": 34
+    },
+    "v3790": {
+      "slug": "meguri-megureba-meguru-toki",
+      "url": "https://www.yjgalgame.com/gal/meguri-megureba-meguru-toki",
+      "vndbIds": [
+        "v3790"
+      ],
+      "updatedAt": "2026-02-27",
+      "routesCount": 5,
+      "endingsCount": 5,
+      "stepsCount": 29
+    },
+    "v3861": {
+      "slug": "otome-wa-boku-ni-koishiteru-futari-no-elder",
+      "url": "https://www.yjgalgame.com/gal/otome-wa-boku-ni-koishiteru-futari-no-elder",
+      "vndbIds": [
+        "v3861"
+      ],
+      "updatedAt": "2026-02-27",
+      "routesCount": 7,
+      "endingsCount": 7,
+      "stepsCount": 66
+    },
+    "v3938": {
+      "slug": "tasogare-no-sinsemilla",
+      "url": "https://www.yjgalgame.com/gal/tasogare-no-sinsemilla",
+      "vndbIds": [
+        "v3938"
+      ],
+      "updatedAt": "2026-07-15",
+      "routesCount": 9,
+      "endingsCount": 16,
+      "stepsCount": 77
+    },
+    "v3992": {
+      "slug": "suzukaze-no-melt",
+      "url": "https://www.yjgalgame.com/gal/suzukaze-no-melt",
+      "vndbIds": [
+        "v3992"
+      ],
+      "updatedAt": "2026-05-07",
+      "routesCount": 1,
+      "endingsCount": 5,
+      "stepsCount": 23
+    },
+    "v4028": {
+      "slug": "koi-to-senkyo-to-chocolate",
+      "url": "https://www.yjgalgame.com/gal/koi-to-senkyo-to-chocolate",
+      "vndbIds": [
+        "v4028"
+      ],
+      "updatedAt": "2026-03-03",
+      "routesCount": 1,
+      "endingsCount": 5,
+      "stepsCount": 32
+    },
+    "v4041": {
+      "slug": "walkure-romanze",
+      "url": "https://www.yjgalgame.com/gal/walkure-romanze",
+      "vndbIds": [
+        "v4041"
+      ],
+      "updatedAt": "2026-04-13",
+      "routesCount": 1,
+      "endingsCount": 4,
+      "stepsCount": 23
+    },
+    "v4429": {
+      "slug": "11eyes-resona-forma",
+      "url": "https://www.yjgalgame.com/gal/11eyes-resona-forma",
+      "vndbIds": [
+        "v4429"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 1,
+      "endingsCount": 8,
+      "stepsCount": 22
+    },
+    "v4495": {
+      "slug": "hatsukoi-sacrament",
+      "url": "https://www.yjgalgame.com/gal/hatsukoi-sacrament",
+      "vndbIds": [
+        "v4495"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 1,
+      "endingsCount": 5,
+      "stepsCount": 17
+    },
+    "v4806": {
+      "slug": "noble-works",
+      "url": "https://www.yjgalgame.com/gal/noble-works",
+      "vndbIds": [
+        "v4806"
+      ],
+      "updatedAt": "2026-02-27",
+      "routesCount": 7,
+      "endingsCount": 8,
+      "stepsCount": 77
+    },
+    "v4851": {
+      "slug": "kisaragi-gold-star",
+      "url": "https://www.yjgalgame.com/gal/kisaragi-gold-star",
+      "vndbIds": [
+        "v4851"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 1,
+      "endingsCount": 9,
+      "stepsCount": 132
+    },
+    "v4893": {
+      "slug": "lovekami",
+      "url": "https://www.yjgalgame.com/gal/lovekami",
+      "vndbIds": [
+        "v4893"
+      ],
+      "updatedAt": "2026-04-12",
+      "routesCount": 1,
+      "endingsCount": 4,
+      "stepsCount": 14
+    },
+    "v4936": {
+      "slug": "shiei-no-sona-nyl",
+      "url": "https://www.yjgalgame.com/gal/shiei-no-sona-nyl",
+      "vndbIds": [
+        "v4936"
+      ],
+      "updatedAt": "2026-07-13",
+      "routesCount": 1,
+      "endingsCount": 1,
+      "stepsCount": 38
+    },
+    "v4942": {
+      "slug": "kamikaze-explorer",
+      "url": "https://www.yjgalgame.com/gal/kamikaze-explorer",
+      "vndbIds": [
+        "v4942"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 1,
+      "endingsCount": 5,
+      "stepsCount": 49
+    },
+    "v5209": {
+      "slug": "with-ribbon",
+      "url": "https://www.yjgalgame.com/gal/with-ribbon",
+      "vndbIds": [
+        "v5209"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 1,
+      "endingsCount": 5,
+      "stepsCount": 139
+    },
+    "v5244": {
+      "slug": "hanahira",
+      "url": "https://www.yjgalgame.com/gal/hanahira",
+      "vndbIds": [
+        "v5244"
+      ],
+      "updatedAt": "2026-05-06",
+      "routesCount": 1,
+      "endingsCount": 1,
+      "stepsCount": 4
+    },
+    "v5281": {
+      "slug": "hoshi-no-ouji-kun",
+      "url": "https://www.yjgalgame.com/gal/hoshi-no-ouji-kun",
+      "vndbIds": [
+        "v5281"
+      ],
+      "updatedAt": "2026-04-09",
+      "routesCount": 1,
+      "endingsCount": 5,
+      "stepsCount": 15
+    },
+    "v5286": {
+      "slug": "your-diary-h",
+      "url": "https://www.yjgalgame.com/gal/your-diary-h",
+      "vndbIds": [
+        "v5286"
+      ],
+      "updatedAt": "2026-07-13",
+      "routesCount": 1,
+      "endingsCount": 7,
+      "stepsCount": 84
+    },
+    "v5289": {
+      "slug": "damatte-watashi-no-muko-ni-nare",
+      "url": "https://www.yjgalgame.com/gal/damatte-watashi-no-muko-ni-nare",
+      "vndbIds": [
+        "v5289"
+      ],
+      "updatedAt": "2026-07-13",
+      "routesCount": 1,
+      "endingsCount": 8,
+      "stepsCount": 52
+    },
+    "v5316": {
+      "slug": "hello-good-bye",
+      "url": "https://www.yjgalgame.com/gal/hello-good-bye",
+      "vndbIds": [
+        "v5316"
+      ],
+      "updatedAt": "2026-07-12",
+      "routesCount": 4,
+      "endingsCount": 4,
+      "stepsCount": 9
+    },
+    "v5412": {
+      "slug": "tiny-dungeon-bless-of-dargon",
+      "url": "https://www.yjgalgame.com/gal/tiny-dungeon-bless-of-dargon",
+      "vndbIds": [
+        "v5412"
+      ],
+      "updatedAt": "2026-05-07",
+      "routesCount": 1,
+      "endingsCount": 1,
+      "stepsCount": 6
+    },
+    "v5433": {
+      "slug": "cure-girl",
+      "url": "https://www.yjgalgame.com/gal/cure-girl",
+      "vndbIds": [
+        "v5433"
+      ],
+      "updatedAt": "2026-05-18",
+      "routesCount": 1,
+      "endingsCount": 11,
+      "stepsCount": 196
+    },
+    "v5562": {
+      "slug": "koiiro-soramoyou-after-happiness-and-extra-hearts",
+      "url": "https://www.yjgalgame.com/gal/koiiro-soramoyou-after-happiness-and-extra-hearts",
+      "vndbIds": [
+        "v5562"
+      ],
+      "updatedAt": "2026-03-04",
+      "routesCount": 1,
+      "endingsCount": 10,
+      "stepsCount": 26
+    },
+    "v5575": {
+      "slug": "flyable-candy-heart",
+      "url": "https://www.yjgalgame.com/gal/flyable-candy-heart",
+      "vndbIds": [
+        "v5575"
+      ],
+      "updatedAt": "2026-05-18",
+      "routesCount": 11,
+      "endingsCount": 11,
+      "stepsCount": 60
+    },
+    "v5734": {
+      "slug": "lover-able",
+      "url": "https://www.yjgalgame.com/gal/lover-able",
+      "vndbIds": [
+        "v5734"
+      ],
+      "updatedAt": "2026-02-27",
+      "routesCount": 5,
+      "endingsCount": 5,
+      "stepsCount": 157
+    },
+    "v5834": {
+      "slug": "irotoridori-no-sekai",
+      "url": "https://www.yjgalgame.com/gal/irotoridori-no-sekai",
+      "vndbIds": [
+        "v5834"
+      ],
+      "updatedAt": "2026-07-12",
+      "routesCount": 5,
+      "endingsCount": 5,
+      "stepsCount": 44
+    },
+    "v5871": {
+      "slug": "sukimazakura-to-uso-no-machi",
+      "url": "https://www.yjgalgame.com/gal/sukimazakura-to-uso-no-machi",
+      "vndbIds": [
+        "v5871"
+      ],
+      "updatedAt": "2026-05-08",
+      "routesCount": 1,
+      "endingsCount": 5,
+      "stepsCount": 51
+    },
+    "v5917": {
+      "slug": "primary-step",
+      "url": "https://www.yjgalgame.com/gal/primary-step",
+      "vndbIds": [
+        "v5917"
+      ],
+      "updatedAt": "2026-03-24",
+      "routesCount": 1,
+      "endingsCount": 5,
+      "stepsCount": 38
+    },
+    "v5922": {
+      "slug": "kara-no-shoujo-the-second-episode",
+      "url": "https://www.yjgalgame.com/gal/kara-no-shoujo-the-second-episode",
+      "vndbIds": [
+        "v5922"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 1,
+      "endingsCount": 11,
+      "stepsCount": 121
+    },
+    "v6411": {
+      "slug": "tenshi-no-hane-o-fumanaide",
+      "url": "https://www.yjgalgame.com/gal/tenshi-no-hane-o-fumanaide",
+      "vndbIds": [
+        "v6411"
+      ],
+      "updatedAt": "2026-05-05",
+      "routesCount": 1,
+      "endingsCount": 7,
+      "stepsCount": 49
+    },
+    "v6540": {
+      "slug": "euphoria",
+      "url": "https://www.yjgalgame.com/gal/euphoria",
+      "vndbIds": [
+        "v6540"
+      ],
+      "updatedAt": "2026-04-02",
+      "routesCount": 1,
+      "endingsCount": 14,
+      "stepsCount": 76
+    },
+    "v6589": {
+      "slug": "josou-sanmyaku",
+      "url": "https://www.yjgalgame.com/gal/josou-sanmyaku",
+      "vndbIds": [
+        "v6589"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 4,
+      "endingsCount": 6,
+      "stepsCount": 36
+    },
+    "v6611": {
+      "slug": "shinsei-ni-shite-okasubekarazu",
+      "url": "https://www.yjgalgame.com/gal/shinsei-ni-shite-okasubekarazu",
+      "vndbIds": [
+        "v6611"
+      ],
+      "updatedAt": "2026-04-12",
+      "routesCount": 1,
+      "endingsCount": 4,
+      "stepsCount": 25
+    },
+    "v6671": {
+      "slug": "diamic-days",
+      "url": "https://www.yjgalgame.com/gal/diamic-days",
+      "vndbIds": [
+        "v6671"
+      ],
+      "updatedAt": "2026-07-12",
+      "routesCount": 5,
+      "endingsCount": 5,
+      "stepsCount": 5
+    },
+    "v6714": {
+      "slug": "renai-0-kilometer",
+      "url": "https://www.yjgalgame.com/gal/renai-0-kilometer",
+      "vndbIds": [
+        "v6714"
+      ],
+      "updatedAt": "2026-02-27",
+      "routesCount": 5,
+      "endingsCount": 5,
+      "stepsCount": 15
+    },
+    "v6747": {
+      "slug": "mirai-nostalgia",
+      "url": "https://www.yjgalgame.com/gal/mirai-nostalgia",
+      "vndbIds": [
+        "v6747"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 1,
+      "endingsCount": 5,
+      "stepsCount": 46
+    },
+    "v7065": {
+      "slug": "tiny-dungeon-birth-for-yours",
+      "url": "https://www.yjgalgame.com/gal/tiny-dungeon-birth-for-yours",
+      "vndbIds": [
+        "v7065"
+      ],
+      "updatedAt": "2026-05-07",
+      "routesCount": 1,
+      "endingsCount": 2,
+      "stepsCount": 6
+    },
+    "v7238": {
+      "slug": "midori-no-umi",
+      "url": "https://www.yjgalgame.com/gal/midori-no-umi",
+      "vndbIds": [
+        "v7238"
+      ],
+      "updatedAt": "2026-05-12",
+      "routesCount": 1,
+      "endingsCount": 17,
+      "stepsCount": 61
+    },
+    "v7261": {
+      "slug": "lunaris-filia",
+      "url": "https://www.yjgalgame.com/gal/lunaris-filia",
+      "vndbIds": [
+        "v7261"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 1,
+      "endingsCount": 6,
+      "stepsCount": 62
+    },
+    "v7302": {
+      "slug": "hatsuyuki-sakura",
+      "url": "https://www.yjgalgame.com/gal/hatsuyuki-sakura",
+      "vndbIds": [
+        "v7302"
+      ],
+      "updatedAt": "2026-03-11",
+      "routesCount": 1,
+      "endingsCount": 12,
+      "stepsCount": 60
+    },
+    "v7402": {
+      "slug": "guilty-crown-lost-christmas",
+      "url": "https://www.yjgalgame.com/gal/guilty-crown-lost-christmas",
+      "vndbIds": [
+        "v7402"
+      ],
+      "updatedAt": "2026-05-09",
+      "routesCount": 1,
+      "endingsCount": 2,
+      "stepsCount": 18
+    },
+    "v7771": {
+      "slug": "white-album-2",
+      "url": "https://www.yjgalgame.com/gal/white-album-2",
+      "vndbIds": [
+        "v7771"
+      ],
+      "updatedAt": "2026-04-09",
+      "routesCount": 3,
+      "endingsCount": 10,
+      "stepsCount": 111
+    },
+    "v7786": {
+      "slug": "shunki-gentei-poco-a-poco",
+      "url": "https://www.yjgalgame.com/gal/shunki-gentei-poco-a-poco",
+      "vndbIds": [
+        "v7786"
+      ],
+      "updatedAt": "2026-07-13",
+      "routesCount": 1,
+      "endingsCount": 3,
+      "stepsCount": 5
+    },
+    "v7794": {
+      "slug": "otome-ga-tsumugu-koi-no-canvas",
+      "url": "https://www.yjgalgame.com/gal/otome-ga-tsumugu-koi-no-canvas",
+      "vndbIds": [
+        "v7794"
+      ],
+      "updatedAt": "2026-03-03",
+      "routesCount": 1,
+      "endingsCount": 5,
+      "stepsCount": 20
+    },
+    "v8020": {
+      "slug": "rewrite-harvest-festa",
+      "url": "https://www.yjgalgame.com/gal/rewrite-harvest-festa",
+      "vndbIds": [
+        "v8020"
+      ],
+      "updatedAt": "2026-03-22",
+      "routesCount": 1,
+      "endingsCount": 4,
+      "stepsCount": 16
+    },
+    "v8038": {
+      "slug": "bishoujo-mangekyou-norowareshi-densetsu-no-shoujo",
+      "url": "https://www.yjgalgame.com/gal/bishoujo-mangekyou-norowareshi-densetsu-no-shoujo",
+      "vndbIds": [
+        "v8038"
+      ],
+      "updatedAt": "2026-02-27",
+      "routesCount": 1,
+      "endingsCount": 2,
+      "stepsCount": 10
+    },
+    "v8158": {
+      "slug": "daitoshokan-no-hitsujikai",
+      "url": "https://www.yjgalgame.com/gal/daitoshokan-no-hitsujikai",
+      "vndbIds": [
+        "v8158"
+      ],
+      "updatedAt": "2026-07-15",
+      "routesCount": 1,
+      "endingsCount": 12,
+      "stepsCount": 156
+    },
+    "v8213": {
+      "slug": "dracu-riot",
+      "url": "https://www.yjgalgame.com/gal/dracu-riot",
+      "vndbIds": [
+        "v8213"
+      ],
+      "updatedAt": "2026-07-12",
+      "routesCount": 5,
+      "endingsCount": 5,
+      "stepsCount": 28
+    },
+    "v9092": {
+      "slug": "prism-recollection",
+      "url": "https://www.yjgalgame.com/gal/prism-recollection",
+      "vndbIds": [
+        "v9092"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 1,
+      "endingsCount": 4,
+      "stepsCount": 22
+    },
+    "v9093": {
+      "slug": "kono-oozora-ni-tsubasa-o-hirogete",
+      "url": "https://www.yjgalgame.com/gal/kono-oozora-ni-tsubasa-o-hirogete",
+      "vndbIds": [
+        "v9093"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 1,
+      "endingsCount": 6,
+      "stepsCount": 27
+    },
+    "v9096": {
+      "slug": "shiawase-kazoku-bu",
+      "url": "https://www.yjgalgame.com/gal/shiawase-kazoku-bu",
+      "vndbIds": [
+        "v9096"
+      ],
+      "updatedAt": "2026-03-24",
+      "routesCount": 1,
+      "endingsCount": 5,
+      "stepsCount": 23
+    },
+    "v9124": {
+      "slug": "hatsukoi-1-1",
+      "url": "https://www.yjgalgame.com/gal/hatsukoi-1-1",
+      "vndbIds": [
+        "v9124"
+      ],
+      "updatedAt": "2026-05-07",
+      "routesCount": 5,
+      "endingsCount": 5,
+      "stepsCount": 70
+    },
+    "v9125": {
+      "slug": "1-2summer",
+      "url": "https://www.yjgalgame.com/gal/1-2summer",
+      "vndbIds": [
+        "v9125"
+      ],
+      "updatedAt": "2026-07-13",
+      "routesCount": 1,
+      "endingsCount": 4,
+      "stepsCount": 12
+    },
+    "v9205": {
+      "slug": "tokyo-babel",
+      "url": "https://www.yjgalgame.com/gal/tokyo-babel",
+      "vndbIds": [
+        "v9205"
+      ],
+      "updatedAt": "2026-05-08",
+      "routesCount": 1,
+      "endingsCount": 8,
+      "stepsCount": 36
+    },
+    "v9208": {
+      "slug": "shoujo-shiniki-shoujo-tengoku",
+      "url": "https://www.yjgalgame.com/gal/shoujo-shiniki-shoujo-tengoku",
+      "vndbIds": [
+        "v9208"
+      ],
+      "updatedAt": "2026-03-31",
+      "routesCount": 4,
+      "endingsCount": 12,
+      "stepsCount": 219
+    },
+    "v9754": {
+      "slug": "tiny-dungeon-brave-or-slave",
+      "url": "https://www.yjgalgame.com/gal/tiny-dungeon-brave-or-slave",
+      "vndbIds": [
+        "v9754"
+      ],
+      "updatedAt": "2026-05-07",
+      "routesCount": 1,
+      "endingsCount": 5,
+      "stepsCount": 12
+    },
+    "v10016": {
+      "slug": "tokeijikake-no-ley-line-tasogaredoki-no-kyoukaisen",
+      "url": "https://www.yjgalgame.com/gal/tokeijikake-no-ley-line-tasogaredoki-no-kyoukaisen",
+      "vndbIds": [
+        "v10016"
+      ],
+      "updatedAt": "2026-05-18",
+      "routesCount": 1,
+      "endingsCount": 5,
+      "stepsCount": 133
+    },
+    "v10237": {
+      "slug": "naka-no-hito-nado-inai-tokyo-hero-project",
+      "url": "https://www.yjgalgame.com/gal/naka-no-hito-nado-inai-tokyo-hero-project",
+      "vndbIds": [
+        "v10237"
+      ],
+      "updatedAt": "2026-02-27",
+      "routesCount": 4,
+      "endingsCount": 4,
+      "stepsCount": 10
+    },
+    "v10244": {
+      "slug": "ryuuyoku-no-melodia",
+      "url": "https://www.yjgalgame.com/gal/ryuuyoku-no-melodia",
+      "vndbIds": [
+        "v10244"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 1,
+      "endingsCount": 5,
+      "stepsCount": 22
+    },
+    "v10304": {
+      "slug": "koi-ga-saku-koro-sakura-doki",
+      "url": "https://www.yjgalgame.com/gal/koi-ga-saku-koro-sakura-doki",
+      "vndbIds": [
+        "v10304"
+      ],
+      "updatedAt": "2026-07-15",
+      "routesCount": 1,
+      "endingsCount": 5,
+      "stepsCount": 13
+    },
+    "v10341": {
+      "slug": "lovely-quest",
+      "url": "https://www.yjgalgame.com/gal/lovely-quest",
+      "vndbIds": [
+        "v10341"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 1,
+      "endingsCount": 2,
+      "stepsCount": 57
+    },
+    "v10415": {
+      "slug": "hanairo-heptagram",
+      "url": "https://www.yjgalgame.com/gal/hanairo-heptagram",
+      "vndbIds": [
+        "v10415"
+      ],
+      "updatedAt": "2026-07-12",
+      "routesCount": 5,
+      "endingsCount": 5,
+      "stepsCount": 39
+    },
+    "v10557": {
+      "slug": "himawari-no-kyoukai-to-nagai-natsuyasumi",
+      "url": "https://www.yjgalgame.com/gal/himawari-no-kyoukai-to-nagai-natsuyasumi",
+      "vndbIds": [
+        "v10557"
+      ],
+      "updatedAt": "2026-02-27",
+      "routesCount": 4,
+      "endingsCount": 5,
+      "stepsCount": 34
+    },
+    "v10597": {
+      "slug": "natsuzora-no-perseus",
+      "url": "https://www.yjgalgame.com/gal/natsuzora-no-perseus",
+      "vndbIds": [
+        "v10597"
+      ],
+      "updatedAt": "2026-07-12",
+      "routesCount": 4,
+      "endingsCount": 4,
+      "stepsCount": 7
+    },
+    "v10680": {
+      "slug": "tsuki-ni-yorisou-otome-no-sahou",
+      "url": "https://www.yjgalgame.com/gal/tsuki-ni-yorisou-otome-no-sahou",
+      "vndbIds": [
+        "v10680"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 5,
+      "endingsCount": 7,
+      "stepsCount": 39
+    },
+    "v10700": {
+      "slug": "sono-hanabira-ni-kuchizuke-o-michael-no-otome-tachi",
+      "url": "https://www.yjgalgame.com/gal/sono-hanabira-ni-kuchizuke-o-michael-no-otome-tachi",
+      "vndbIds": [
+        "v10700"
+      ],
+      "updatedAt": "2026-05-06",
+      "routesCount": 6,
+      "endingsCount": 6,
+      "stepsCount": 36
+    },
+    "v10803": {
+      "slug": "aete-mushi-suru-kimi-to-no-mirai",
+      "url": "https://www.yjgalgame.com/gal/aete-mushi-suru-kimi-to-no-mirai",
+      "vndbIds": [
+        "v10803"
+      ],
+      "updatedAt": "2026-07-13",
+      "routesCount": 1,
+      "endingsCount": 4,
+      "stepsCount": 9
+    },
+    "v10804": {
+      "slug": "boku-ga-tenshi-ni-natta-wake",
+      "url": "https://www.yjgalgame.com/gal/boku-ga-tenshi-ni-natta-wake",
+      "vndbIds": [
+        "v10804"
+      ],
+      "updatedAt": "2026-07-16",
+      "routesCount": 1,
+      "endingsCount": 7,
+      "stepsCount": 28
+    },
+    "v10805": {
+      "slug": "justy-nasty-maou-hajimemashita",
+      "url": "https://www.yjgalgame.com/gal/justy-nasty-maou-hajimemashita",
+      "vndbIds": [
+        "v10805"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 1,
+      "endingsCount": 5,
+      "stepsCount": 31
+    },
+    "v10957": {
+      "slug": "hapymaher",
+      "url": "https://www.yjgalgame.com/gal/hapymaher",
+      "vndbIds": [
+        "v10957"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 1,
+      "endingsCount": 7,
+      "stepsCount": 52
+    },
+    "v10972": {
+      "slug": "kanojo-to-ore-to-koibito-to",
+      "url": "https://www.yjgalgame.com/gal/kanojo-to-ore-to-koibito-to",
+      "vndbIds": [
+        "v10972"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 1,
+      "endingsCount": 5,
+      "stepsCount": 25
+    },
+    "v10983": {
+      "slug": "walkure-romanze-more-more",
+      "url": "https://www.yjgalgame.com/gal/walkure-romanze-more-more",
+      "vndbIds": [
+        "v10983"
+      ],
+      "updatedAt": "2026-04-13",
+      "routesCount": 1,
+      "endingsCount": 3,
+      "stepsCount": 15
+    },
+    "v11071": {
+      "slug": "bishoujo-mangekyou-wasurenagusa-to-eien-no-shoujo",
+      "url": "https://www.yjgalgame.com/gal/bishoujo-mangekyou-wasurenagusa-to-eien-no-shoujo",
+      "vndbIds": [
+        "v11071"
+      ],
+      "updatedAt": "2026-02-27",
+      "routesCount": 1,
+      "endingsCount": 4,
+      "stepsCount": 15
+    },
+    "v11072": {
+      "slug": "chiisana-kanojo-no-serenade",
+      "url": "https://www.yjgalgame.com/gal/chiisana-kanojo-no-serenade",
+      "vndbIds": [
+        "v11072"
+      ],
+      "updatedAt": "2026-05-12",
+      "routesCount": 1,
+      "endingsCount": 5,
+      "stepsCount": 14
+    },
+    "v11081": {
+      "slug": "yume-ka-utsutsu-ka-matryoshka",
+      "url": "https://www.yjgalgame.com/gal/yume-ka-utsutsu-ka-matryoshka",
+      "vndbIds": [
+        "v11081"
+      ],
+      "updatedAt": "2026-05-15",
+      "routesCount": 1,
+      "endingsCount": 4,
+      "stepsCount": 12
+    },
+    "v11093": {
+      "slug": "tokeijikake-no-ley-line-zanei-no-yoru-ga-akeru-toki",
+      "url": "https://www.yjgalgame.com/gal/tokeijikake-no-ley-line-zanei-no-yoru-ga-akeru-toki",
+      "vndbIds": [
+        "v11093"
+      ],
+      "updatedAt": "2026-05-18",
+      "routesCount": 1,
+      "endingsCount": 4,
+      "stepsCount": 120
+    },
+    "v11110": {
+      "slug": "kimi-e-okuru-sora-no-hana",
+      "url": "https://www.yjgalgame.com/gal/kimi-e-okuru-sora-no-hana",
+      "vndbIds": [
+        "v11110"
+      ],
+      "updatedAt": "2026-05-12",
+      "routesCount": 1,
+      "endingsCount": 10,
+      "stepsCount": 34
+    },
+    "v11300": {
+      "slug": "hitotsu-tobashi-renai",
+      "url": "https://www.yjgalgame.com/gal/hitotsu-tobashi-renai",
+      "vndbIds": [
+        "v11300"
+      ],
+      "updatedAt": "2026-02-27",
+      "routesCount": 4,
+      "endingsCount": 4,
+      "stepsCount": 22
+    },
+    "v11726": {
+      "slug": "ojou-sama-wa-gokigen-naname",
+      "url": "https://www.yjgalgame.com/gal/ojou-sama-wa-gokigen-naname",
+      "vndbIds": [
+        "v11726"
+      ],
+      "updatedAt": "2026-07-13",
+      "routesCount": 1,
+      "endingsCount": 5,
+      "stepsCount": 61
+    },
+    "v12072": {
+      "slug": "negai-no-kakera-to-hakugin-no-agreement",
+      "url": "https://www.yjgalgame.com/gal/negai-no-kakera-to-hakugin-no-agreement",
+      "vndbIds": [
+        "v12072"
+      ],
+      "updatedAt": "2026-07-15",
+      "routesCount": 1,
+      "endingsCount": 4,
+      "stepsCount": 7
+    },
+    "v12097": {
+      "slug": "sono-hanabira-ni-kuchizuke-o-atelier-no-koibito-tachi",
+      "url": "https://www.yjgalgame.com/gal/sono-hanabira-ni-kuchizuke-o-atelier-no-koibito-tachi",
+      "vndbIds": [
+        "v12097"
+      ],
+      "updatedAt": "2026-05-06",
+      "routesCount": 1,
+      "endingsCount": 1,
+      "stepsCount": 5
+    },
+    "v12167": {
+      "slug": "amairo-islenauts",
+      "url": "https://www.yjgalgame.com/gal/amairo-islenauts",
+      "vndbIds": [
+        "v12167"
+      ],
+      "updatedAt": "2026-07-12",
+      "routesCount": 6,
+      "endingsCount": 6,
+      "stepsCount": 47
+    },
+    "v12246": {
+      "slug": "otome-riron-to-sono-shuuhen",
+      "url": "https://www.yjgalgame.com/gal/otome-riron-to-sono-shuuhen",
+      "vndbIds": [
+        "v12246"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 5,
+      "endingsCount": 5,
+      "stepsCount": 15
+    },
+    "v12293": {
+      "slug": "sono-hanabira-ni-kuchizuke-o-tenshi-no-akogare",
+      "url": "https://www.yjgalgame.com/gal/sono-hanabira-ni-kuchizuke-o-tenshi-no-akogare",
+      "vndbIds": [
+        "v12293"
+      ],
+      "updatedAt": "2026-05-06",
+      "routesCount": 1,
+      "endingsCount": 1,
+      "stepsCount": 4
+    },
+    "v12402": {
+      "slug": "fata-morgana-no-yakata",
+      "url": "https://www.yjgalgame.com/gal/fata-morgana-no-yakata",
+      "vndbIds": [
+        "v12402"
+      ],
+      "updatedAt": "2026-05-04",
+      "routesCount": 1,
+      "endingsCount": 8,
+      "stepsCount": 54
+    },
+    "v12476": {
+      "slug": "karumaruka-circle",
+      "url": "https://www.yjgalgame.com/gal/karumaruka-circle",
+      "vndbIds": [
+        "v12476"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 1,
+      "endingsCount": 8,
+      "stepsCount": 60
+    },
+    "v12561": {
+      "slug": "cocoro-function",
+      "url": "https://www.yjgalgame.com/gal/cocoro-function",
+      "vndbIds": [
+        "v12561"
+      ],
+      "updatedAt": "2026-04-19",
+      "routesCount": 1,
+      "endingsCount": 6,
+      "stepsCount": 37
+    },
+    "v12602": {
+      "slug": "usotsuki-ouji-to-nayameru-ohime-sama",
+      "url": "https://www.yjgalgame.com/gal/usotsuki-ouji-to-nayameru-ohime-sama",
+      "vndbIds": [
+        "v12602"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 1,
+      "endingsCount": 4,
+      "stepsCount": 26
+    },
+    "v12645": {
+      "slug": "sono-hanabira-ni-kuchizuke-o-shirayuki-no-kishi",
+      "url": "https://www.yjgalgame.com/gal/sono-hanabira-ni-kuchizuke-o-shirayuki-no-kishi",
+      "vndbIds": [
+        "v12645"
+      ],
+      "updatedAt": "2026-05-06",
+      "routesCount": 1,
+      "endingsCount": 5,
+      "stepsCount": 37
+    },
+    "v12830": {
+      "slug": "melty-moment",
+      "url": "https://www.yjgalgame.com/gal/melty-moment",
+      "vndbIds": [
+        "v12830"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 1,
+      "endingsCount": 28,
+      "stepsCount": 610
+    },
+    "v12849": {
+      "slug": "ao-no-kanata-no-four-rhythm",
+      "url": "https://www.yjgalgame.com/gal/ao-no-kanata-no-four-rhythm",
+      "vndbIds": [
+        "v12849"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 1,
+      "endingsCount": 4,
+      "stepsCount": 23
+    },
+    "v12856": {
+      "slug": "sakura-mau-otome-no-rondo",
+      "url": "https://www.yjgalgame.com/gal/sakura-mau-otome-no-rondo",
+      "vndbIds": [
+        "v12856"
+      ],
+      "updatedAt": "2026-03-03",
+      "routesCount": 1,
+      "endingsCount": 5,
+      "stepsCount": 16
+    },
+    "v12930": {
+      "slug": "sono-hanabira-ni-kuchizuke-o-tenshi-tachi-no-harukoi",
+      "url": "https://www.yjgalgame.com/gal/sono-hanabira-ni-kuchizuke-o-tenshi-tachi-no-harukoi",
+      "vndbIds": [
+        "v12930"
+      ],
+      "updatedAt": "2026-05-06",
+      "routesCount": 1,
+      "endingsCount": 1,
+      "stepsCount": 4
+    },
+    "v12983": {
+      "slug": "magicalic-sky-high-soratobu-houki-ni-omoi-o-nosete",
+      "url": "https://www.yjgalgame.com/gal/magicalic-sky-high-soratobu-houki-ni-omoi-o-nosete",
+      "vndbIds": [
+        "v12983"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 1,
+      "endingsCount": 6,
+      "stepsCount": 31
+    },
+    "v12984": {
+      "slug": "astralair-no-shiroki-towa",
+      "url": "https://www.yjgalgame.com/gal/astralair-no-shiroki-towa",
+      "vndbIds": [
+        "v12984"
+      ],
+      "updatedAt": "2026-07-12",
+      "routesCount": 6,
+      "endingsCount": 6,
+      "stepsCount": 52
+    },
+    "v13046": {
+      "slug": "koisuru-natsu-no-last-resort",
+      "url": "https://www.yjgalgame.com/gal/koisuru-natsu-no-last-resort",
+      "vndbIds": [
+        "v13046"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 1,
+      "endingsCount": 5,
+      "stepsCount": 21
+    },
+    "v13108": {
+      "slug": "hapymaher-fragmentation-dream",
+      "url": "https://www.yjgalgame.com/gal/hapymaher-fragmentation-dream",
+      "vndbIds": [
+        "v13108"
+      ],
+      "updatedAt": "2026-03-24",
+      "routesCount": 1,
+      "endingsCount": 4,
+      "stepsCount": 76
+    },
+    "v13224": {
+      "slug": "sekai-to-sekai-no-mannaka-de",
+      "url": "https://www.yjgalgame.com/gal/sekai-to-sekai-no-mannaka-de",
+      "vndbIds": [
+        "v13224"
+      ],
+      "updatedAt": "2026-07-12",
+      "routesCount": 4,
+      "endingsCount": 4,
+      "stepsCount": 34
+    },
+    "v13260": {
+      "slug": "imouto-no-okage-de-motesugite-yabai",
+      "url": "https://www.yjgalgame.com/gal/imouto-no-okage-de-motesugite-yabai",
+      "vndbIds": [
+        "v13260"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 1,
+      "endingsCount": 7,
+      "stepsCount": 32
+    },
     "v13325": {
       "slug": "clover-days",
       "url": "https://www.yjgalgame.com/gal/clover-days",
@@ -24,6 +2521,2800 @@
       "routesCount": 5,
       "endingsCount": 5,
       "stepsCount": 16
+    },
+    "v13630": {
+      "slug": "sakigake-generation",
+      "url": "https://www.yjgalgame.com/gal/sakigake-generation",
+      "vndbIds": [
+        "v13630"
+      ],
+      "updatedAt": "2026-04-13",
+      "routesCount": 1,
+      "endingsCount": 6,
+      "stepsCount": 84
+    },
+    "v13666": {
+      "slug": "tokyo-necro",
+      "url": "https://www.yjgalgame.com/gal/tokyo-necro",
+      "vndbIds": [
+        "v13666"
+      ],
+      "updatedAt": "2026-05-09",
+      "routesCount": 1,
+      "endingsCount": 5,
+      "stepsCount": 16
+    },
+    "v14264": {
+      "slug": "golden-marriage",
+      "url": "https://www.yjgalgame.com/gal/golden-marriage",
+      "vndbIds": [
+        "v14264"
+      ],
+      "updatedAt": "2026-07-13",
+      "routesCount": 1,
+      "endingsCount": 6,
+      "stepsCount": 27
+    },
+    "v14265": {
+      "slug": "hoshi-ori-yume-mirai",
+      "url": "https://www.yjgalgame.com/gal/hoshi-ori-yume-mirai",
+      "vndbIds": [
+        "v14265"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 1,
+      "endingsCount": 9,
+      "stepsCount": 69
+    },
+    "v14267": {
+      "slug": "flowers-le-volume-sur-printemps",
+      "url": "https://www.yjgalgame.com/gal/flowers-le-volume-sur-printemps",
+      "vndbIds": [
+        "v14267"
+      ],
+      "updatedAt": "2026-05-07",
+      "routesCount": 1,
+      "endingsCount": 7,
+      "stepsCount": 172
+    },
+    "v14269": {
+      "slug": "love-sweets",
+      "url": "https://www.yjgalgame.com/gal/love-sweets",
+      "vndbIds": [
+        "v14269"
+      ],
+      "updatedAt": "2026-05-11",
+      "routesCount": 1,
+      "endingsCount": 5,
+      "stepsCount": 46
+    },
+    "v14365": {
+      "slug": "bishoujo-mangekyou-kami-ga-tsukuritamouta-shoujo-tachi",
+      "url": "https://www.yjgalgame.com/gal/bishoujo-mangekyou-kami-ga-tsukuritamouta-shoujo-tachi",
+      "vndbIds": [
+        "v14365"
+      ],
+      "updatedAt": "2026-02-27",
+      "routesCount": 4,
+      "endingsCount": 4,
+      "stepsCount": 34
+    },
+    "v14523": {
+      "slug": "mayoeru-futari-to-sekai-no-subete",
+      "url": "https://www.yjgalgame.com/gal/mayoeru-futari-to-sekai-no-subete",
+      "vndbIds": [
+        "v14523"
+      ],
+      "updatedAt": "2026-04-24",
+      "routesCount": 1,
+      "endingsCount": 9,
+      "stepsCount": 80
+    },
+    "v14761": {
+      "slug": "harvest-overray",
+      "url": "https://www.yjgalgame.com/gal/harvest-overray",
+      "vndbIds": [
+        "v14761"
+      ],
+      "updatedAt": "2026-07-13",
+      "routesCount": 1,
+      "endingsCount": 4,
+      "stepsCount": 21
+    },
+    "v14888": {
+      "slug": "yakimochi-stream",
+      "url": "https://www.yjgalgame.com/gal/yakimochi-stream",
+      "vndbIds": [
+        "v14888"
+      ],
+      "updatedAt": "2026-07-13",
+      "routesCount": 1,
+      "endingsCount": 4,
+      "stepsCount": 18
+    },
+    "v14889": {
+      "slug": "girls-in-black",
+      "url": "https://www.yjgalgame.com/gal/girls-in-black",
+      "vndbIds": [
+        "v14889"
+      ],
+      "updatedAt": "2026-05-08",
+      "routesCount": 1,
+      "endingsCount": 4,
+      "stepsCount": 27
+    },
+    "v14895": {
+      "slug": "fraternite",
+      "url": "https://www.yjgalgame.com/gal/fraternite",
+      "vndbIds": [
+        "v14895"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 1,
+      "endingsCount": 10,
+      "stepsCount": 31
+    },
+    "v14897": {
+      "slug": "sougeki-no-jaeger",
+      "url": "https://www.yjgalgame.com/gal/sougeki-no-jaeger",
+      "vndbIds": [
+        "v14897"
+      ],
+      "updatedAt": "2026-05-08",
+      "routesCount": 1,
+      "endingsCount": 4,
+      "stepsCount": 27
+    },
+    "v15064": {
+      "slug": "yukimel",
+      "url": "https://www.yjgalgame.com/gal/yukimel",
+      "vndbIds": [
+        "v15064"
+      ],
+      "updatedAt": "2026-02-27",
+      "routesCount": 4,
+      "endingsCount": 7,
+      "stepsCount": 22
+    },
+    "v15077": {
+      "slug": "ano-harewataru-sora-yori-takaku",
+      "url": "https://www.yjgalgame.com/gal/ano-harewataru-sora-yori-takaku",
+      "vndbIds": [
+        "v15077"
+      ],
+      "updatedAt": "2026-07-11",
+      "routesCount": 1,
+      "endingsCount": 5,
+      "stepsCount": 16
+    },
+    "v15143": {
+      "slug": "satsukoi",
+      "url": "https://www.yjgalgame.com/gal/satsukoi",
+      "vndbIds": [
+        "v15143"
+      ],
+      "updatedAt": "2026-07-13",
+      "routesCount": 1,
+      "endingsCount": 3,
+      "stepsCount": 5
+    },
+    "v15281": {
+      "slug": "unmei-senjou-no-phi",
+      "url": "https://www.yjgalgame.com/gal/unmei-senjou-no-phi",
+      "vndbIds": [
+        "v15281"
+      ],
+      "updatedAt": "2026-07-12",
+      "routesCount": 12,
+      "endingsCount": 19,
+      "stepsCount": 165
+    },
+    "v15293": {
+      "slug": "tsuki-ni-yorisou-otome-no-sahou-2",
+      "url": "https://www.yjgalgame.com/gal/tsuki-ni-yorisou-otome-no-sahou-2",
+      "vndbIds": [
+        "v15293"
+      ],
+      "updatedAt": "2026-04-03",
+      "routesCount": 5,
+      "endingsCount": 5,
+      "stepsCount": 34
+    },
+    "v15393": {
+      "slug": "koi-suru-kanojo-no-bukiyou-na-butai",
+      "url": "https://www.yjgalgame.com/gal/koi-suru-kanojo-no-bukiyou-na-butai",
+      "vndbIds": [
+        "v15393"
+      ],
+      "updatedAt": "2026-07-13",
+      "routesCount": 1,
+      "endingsCount": 5,
+      "stepsCount": 42
+    },
+    "v15395": {
+      "slug": "flowers-le-volume-sur-ete",
+      "url": "https://www.yjgalgame.com/gal/flowers-le-volume-sur-ete",
+      "vndbIds": [
+        "v15395"
+      ],
+      "updatedAt": "2026-05-07",
+      "routesCount": 1,
+      "endingsCount": 10,
+      "stepsCount": 183
+    },
+    "v15426": {
+      "slug": "ame-koi",
+      "url": "https://www.yjgalgame.com/gal/ame-koi",
+      "vndbIds": [
+        "v15426"
+      ],
+      "updatedAt": "2026-07-16",
+      "routesCount": 1,
+      "endingsCount": 6,
+      "stepsCount": 18
+    },
+    "v15473": {
+      "slug": "nanairo-reincarnation",
+      "url": "https://www.yjgalgame.com/gal/nanairo-reincarnation",
+      "vndbIds": [
+        "v15473"
+      ],
+      "updatedAt": "2026-07-12",
+      "routesCount": 4,
+      "endingsCount": 5,
+      "stepsCount": 37
+    },
+    "v15637": {
+      "slug": "soreyori-no-prologue",
+      "url": "https://www.yjgalgame.com/gal/soreyori-no-prologue",
+      "vndbIds": [
+        "v15637"
+      ],
+      "updatedAt": "2026-07-12",
+      "routesCount": 3,
+      "endingsCount": 3,
+      "stepsCount": 3
+    },
+    "v15653": {
+      "slug": "otome-ga-kanaderu-koi-no-aria",
+      "url": "https://www.yjgalgame.com/gal/otome-ga-kanaderu-koi-no-aria",
+      "vndbIds": [
+        "v15653"
+      ],
+      "updatedAt": "2026-07-13",
+      "routesCount": 1,
+      "endingsCount": 7,
+      "stepsCount": 24
+    },
+    "v15708": {
+      "slug": "sen-no-hatou-tsukisome-no-kouki",
+      "url": "https://www.yjgalgame.com/gal/sen-no-hatou-tsukisome-no-kouki",
+      "vndbIds": [
+        "v15708"
+      ],
+      "updatedAt": "2026-05-09",
+      "routesCount": 1,
+      "endingsCount": 5,
+      "stepsCount": 16
+    },
+    "v15870": {
+      "slug": "kimi-no-tonari-de-koishiteru",
+      "url": "https://www.yjgalgame.com/gal/kimi-no-tonari-de-koishiteru",
+      "vndbIds": [
+        "v15870"
+      ],
+      "updatedAt": "2026-07-13",
+      "routesCount": 1,
+      "endingsCount": 3,
+      "stepsCount": 13
+    },
+    "v15871": {
+      "slug": "kami-no-ue-no-mahoutsukai",
+      "url": "https://www.yjgalgame.com/gal/kami-no-ue-no-mahoutsukai",
+      "vndbIds": [
+        "v15871"
+      ],
+      "updatedAt": "2026-05-08",
+      "routesCount": 1,
+      "endingsCount": 5,
+      "stepsCount": 16
+    },
+    "v16069": {
+      "slug": "natsu-no-iro-no-nostalgia",
+      "url": "https://www.yjgalgame.com/gal/natsu-no-iro-no-nostalgia",
+      "vndbIds": [
+        "v16069"
+      ],
+      "updatedAt": "2026-05-11",
+      "routesCount": 1,
+      "endingsCount": 4,
+      "stepsCount": 31
+    },
+    "v16070": {
+      "slug": "hanasaki-work-spring",
+      "url": "https://www.yjgalgame.com/gal/hanasaki-work-spring",
+      "vndbIds": [
+        "v16070"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 1,
+      "endingsCount": 9,
+      "stepsCount": 34
+    },
+    "v16103": {
+      "slug": "kujiragami-no-tearstilla",
+      "url": "https://www.yjgalgame.com/gal/kujiragami-no-tearstilla",
+      "vndbIds": [
+        "v16103"
+      ],
+      "updatedAt": "2026-05-08",
+      "routesCount": 1,
+      "endingsCount": 5,
+      "stepsCount": 24
+    },
+    "v16150": {
+      "slug": "kanojo-no-seiiki",
+      "url": "https://www.yjgalgame.com/gal/kanojo-no-seiiki",
+      "vndbIds": [
+        "v16150"
+      ],
+      "updatedAt": "2026-07-15",
+      "routesCount": 1,
+      "endingsCount": 3,
+      "stepsCount": 6
+    },
+    "v16166": {
+      "slug": "pure-connect",
+      "url": "https://www.yjgalgame.com/gal/pure-connect",
+      "vndbIds": [
+        "v16166"
+      ],
+      "updatedAt": "2026-07-12",
+      "routesCount": 5,
+      "endingsCount": 5,
+      "stepsCount": 174
+    },
+    "v16193": {
+      "slug": "hana-no-no-ni-saku-utakata-no",
+      "url": "https://www.yjgalgame.com/gal/hana-no-no-ni-saku-utakata-no",
+      "vndbIds": [
+        "v16193"
+      ],
+      "updatedAt": "2026-07-15",
+      "routesCount": 1,
+      "endingsCount": 10,
+      "stepsCount": 39
+    },
+    "v16208": {
+      "slug": "chrono-clock",
+      "url": "https://www.yjgalgame.com/gal/chrono-clock",
+      "vndbIds": [
+        "v16208"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 1,
+      "endingsCount": 6,
+      "stepsCount": 15
+    },
+    "v16212": {
+      "slug": "tokeijikake-no-ley-line-asagiri-ni-chiru-hana",
+      "url": "https://www.yjgalgame.com/gal/tokeijikake-no-ley-line-asagiri-ni-chiru-hana",
+      "vndbIds": [
+        "v16212"
+      ],
+      "updatedAt": "2026-05-18",
+      "routesCount": 1,
+      "endingsCount": 8,
+      "stepsCount": 52
+    },
+    "v16338": {
+      "slug": "shirogane-x-spirits",
+      "url": "https://www.yjgalgame.com/gal/shirogane-x-spirits",
+      "vndbIds": [
+        "v16338"
+      ],
+      "updatedAt": "2026-07-13",
+      "routesCount": 1,
+      "endingsCount": 4,
+      "stepsCount": 25
+    },
+    "v16339": {
+      "slug": "puramai-wars",
+      "url": "https://www.yjgalgame.com/gal/puramai-wars",
+      "vndbIds": [
+        "v16339"
+      ],
+      "updatedAt": "2026-02-27",
+      "routesCount": 6,
+      "endingsCount": 6,
+      "stepsCount": 29
+    },
+    "v16397": {
+      "slug": "mirai-kanojo",
+      "url": "https://www.yjgalgame.com/gal/mirai-kanojo",
+      "vndbIds": [
+        "v16397"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 1,
+      "endingsCount": 7,
+      "stepsCount": 48
+    },
+    "v16407": {
+      "slug": "golden-marriage-jewel-days",
+      "url": "https://www.yjgalgame.com/gal/golden-marriage-jewel-days",
+      "vndbIds": [
+        "v16407"
+      ],
+      "updatedAt": "2026-03-03",
+      "routesCount": 1,
+      "endingsCount": 8,
+      "stepsCount": 14
+    },
+    "v16515": {
+      "slug": "natsuiro-recipe",
+      "url": "https://www.yjgalgame.com/gal/natsuiro-recipe",
+      "vndbIds": [
+        "v16515"
+      ],
+      "updatedAt": "2026-04-12",
+      "routesCount": 1,
+      "endingsCount": 4,
+      "stepsCount": 18
+    },
+    "v16516": {
+      "slug": "yume-to-iro-de-dekiteiru",
+      "url": "https://www.yjgalgame.com/gal/yume-to-iro-de-dekiteiru",
+      "vndbIds": [
+        "v16516"
+      ],
+      "updatedAt": "2026-05-12",
+      "routesCount": 1,
+      "endingsCount": 5,
+      "stepsCount": 65
+    },
+    "v16560": {
+      "slug": "miagete-goran-yozora-no-hoshi-o",
+      "url": "https://www.yjgalgame.com/gal/miagete-goran-yozora-no-hoshi-o",
+      "vndbIds": [
+        "v16560"
+      ],
+      "updatedAt": "2026-04-12",
+      "routesCount": 1,
+      "endingsCount": 4,
+      "stepsCount": 13
+    },
+    "v16563": {
+      "slug": "neyuki-no-genei-shirahanasou-no-hitobito",
+      "url": "https://www.yjgalgame.com/gal/neyuki-no-genei-shirahanasou-no-hitobito",
+      "vndbIds": [
+        "v16563"
+      ],
+      "updatedAt": "2026-07-12",
+      "routesCount": 1,
+      "endingsCount": 9,
+      "stepsCount": 70
+    },
+    "v16845": {
+      "slug": "imouto-no-seiiki",
+      "url": "https://www.yjgalgame.com/gal/imouto-no-seiiki",
+      "vndbIds": [
+        "v16845"
+      ],
+      "updatedAt": "2026-05-12",
+      "routesCount": 1,
+      "endingsCount": 4,
+      "stepsCount": 10
+    },
+    "v16906": {
+      "slug": "loverec",
+      "url": "https://www.yjgalgame.com/gal/loverec",
+      "vndbIds": [
+        "v16906"
+      ],
+      "updatedAt": "2026-07-12",
+      "routesCount": 5,
+      "endingsCount": 5,
+      "stepsCount": 15
+    },
+    "v17012": {
+      "slug": "kara-no-shoujo-the-last-episode",
+      "url": "https://www.yjgalgame.com/gal/kara-no-shoujo-the-last-episode",
+      "vndbIds": [
+        "v17012"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 2,
+      "endingsCount": 18,
+      "stepsCount": 560
+    },
+    "v17038": {
+      "slug": "primal-hearts-2",
+      "url": "https://www.yjgalgame.com/gal/primal-hearts-2",
+      "vndbIds": [
+        "v17038"
+      ],
+      "updatedAt": "2026-05-13",
+      "routesCount": 1,
+      "endingsCount": 5,
+      "stepsCount": 15
+    },
+    "v17369": {
+      "slug": "koko-kara-natsu-no-innocence",
+      "url": "https://www.yjgalgame.com/gal/koko-kara-natsu-no-innocence",
+      "vndbIds": [
+        "v17369"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 1,
+      "endingsCount": 6,
+      "stepsCount": 22
+    },
+    "v17388": {
+      "slug": "tayutama-2-youre-the-only-one",
+      "url": "https://www.yjgalgame.com/gal/tayutama-2-youre-the-only-one",
+      "vndbIds": [
+        "v17388"
+      ],
+      "updatedAt": "2026-02-27",
+      "routesCount": 4,
+      "endingsCount": 7,
+      "stepsCount": 42
+    },
+    "v17516": {
+      "slug": "koi-x-shin-ai-kanojo",
+      "url": "https://www.yjgalgame.com/gal/koi-x-shin-ai-kanojo",
+      "vndbIds": [
+        "v17516"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 1,
+      "endingsCount": 5,
+      "stepsCount": 80
+    },
+    "v17632": {
+      "slug": "koi-suru-kimochi-no-kasanekata",
+      "url": "https://www.yjgalgame.com/gal/koi-suru-kimochi-no-kasanekata",
+      "vndbIds": [
+        "v17632"
+      ],
+      "updatedAt": "2026-07-13",
+      "routesCount": 1,
+      "endingsCount": 6,
+      "stepsCount": 12
+    },
+    "v17823": {
+      "slug": "wagamama-high-spec",
+      "url": "https://www.yjgalgame.com/gal/wagamama-high-spec",
+      "vndbIds": [
+        "v17823"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 1,
+      "endingsCount": 4,
+      "stepsCount": 24
+    },
+    "v17872": {
+      "slug": "tsumi-no-hikari-rendezvous",
+      "url": "https://www.yjgalgame.com/gal/tsumi-no-hikari-rendezvous",
+      "vndbIds": [
+        "v17872"
+      ],
+      "updatedAt": "2026-07-12",
+      "routesCount": 3,
+      "endingsCount": 3,
+      "stepsCount": 9
+    },
+    "v17969": {
+      "slug": "hanikami-clover",
+      "url": "https://www.yjgalgame.com/gal/hanikami-clover",
+      "vndbIds": [
+        "v17969"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 1,
+      "endingsCount": 4,
+      "stepsCount": 26
+    },
+    "v17974": {
+      "slug": "kodomo-no-asobi",
+      "url": "https://www.yjgalgame.com/gal/kodomo-no-asobi",
+      "vndbIds": [
+        "v17974"
+      ],
+      "updatedAt": "2026-07-12",
+      "routesCount": 4,
+      "endingsCount": 4,
+      "stepsCount": 37
+    },
+    "v18077": {
+      "slug": "maggot-baits",
+      "url": "https://www.yjgalgame.com/gal/maggot-baits",
+      "vndbIds": [
+        "v18077"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 1,
+      "endingsCount": 3,
+      "stepsCount": 12
+    },
+    "v18141": {
+      "slug": "world-election",
+      "url": "https://www.yjgalgame.com/gal/world-election",
+      "vndbIds": [
+        "v18141"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 1,
+      "endingsCount": 13,
+      "stepsCount": 36
+    },
+    "v18147": {
+      "slug": "mamiya-kunchi-no-itsutsugo-jijou",
+      "url": "https://www.yjgalgame.com/gal/mamiya-kunchi-no-itsutsugo-jijou",
+      "vndbIds": [
+        "v18147"
+      ],
+      "updatedAt": "2026-07-13",
+      "routesCount": 1,
+      "endingsCount": 7,
+      "stepsCount": 54
+    },
+    "v18148": {
+      "slug": "nora-to-oujo-to-noraneko-heart",
+      "url": "https://www.yjgalgame.com/gal/nora-to-oujo-to-noraneko-heart",
+      "vndbIds": [
+        "v18148"
+      ],
+      "updatedAt": "2026-07-13",
+      "routesCount": 1,
+      "endingsCount": 4,
+      "stepsCount": 31
+    },
+    "v18152": {
+      "slug": "flowers-le-volume-sur-automne",
+      "url": "https://www.yjgalgame.com/gal/flowers-le-volume-sur-automne",
+      "vndbIds": [
+        "v18152"
+      ],
+      "updatedAt": "2026-05-07",
+      "routesCount": 2,
+      "endingsCount": 8,
+      "stepsCount": 101
+    },
+    "v18335": {
+      "slug": "amaekata-wa-kanojo-nari-ni",
+      "url": "https://www.yjgalgame.com/gal/amaekata-wa-kanojo-nari-ni",
+      "vndbIds": [
+        "v18335"
+      ],
+      "updatedAt": "2026-07-13",
+      "routesCount": 1,
+      "endingsCount": 5,
+      "stepsCount": 25
+    },
+    "v18495": {
+      "slug": "akeiro-kaikitan",
+      "url": "https://www.yjgalgame.com/gal/akeiro-kaikitan",
+      "vndbIds": [
+        "v18495"
+      ],
+      "updatedAt": "2026-07-12",
+      "routesCount": 1,
+      "endingsCount": 10,
+      "stepsCount": 78
+    },
+    "v18498": {
+      "slug": "island",
+      "url": "https://www.yjgalgame.com/gal/island",
+      "vndbIds": [
+        "v18498"
+      ],
+      "updatedAt": "2026-02-27",
+      "routesCount": 3,
+      "endingsCount": 5,
+      "stepsCount": 76
+    },
+    "v18635": {
+      "slug": "otome-ga-irodoru-koi-no-essence",
+      "url": "https://www.yjgalgame.com/gal/otome-ga-irodoru-koi-no-essence",
+      "vndbIds": [
+        "v18635"
+      ],
+      "updatedAt": "2026-07-13",
+      "routesCount": 1,
+      "endingsCount": 6,
+      "stepsCount": 36
+    },
+    "v18651": {
+      "slug": "toki-o-tsumugu-yakusoku",
+      "url": "https://www.yjgalgame.com/gal/toki-o-tsumugu-yakusoku",
+      "vndbIds": [
+        "v18651"
+      ],
+      "updatedAt": "2026-05-12",
+      "routesCount": 1,
+      "endingsCount": 4,
+      "stepsCount": 12
+    },
+    "v18759": {
+      "slug": "liber-7",
+      "url": "https://www.yjgalgame.com/gal/liber-7",
+      "vndbIds": [
+        "v18759"
+      ],
+      "updatedAt": "2026-03-31",
+      "routesCount": 4,
+      "endingsCount": 9,
+      "stepsCount": 32
+    },
+    "v18760": {
+      "slug": "sakura-no-mori-dreamers",
+      "url": "https://www.yjgalgame.com/gal/sakura-no-mori-dreamers",
+      "vndbIds": [
+        "v18760"
+      ],
+      "updatedAt": "2026-05-11",
+      "routesCount": 1,
+      "endingsCount": 5,
+      "stepsCount": 32
+    },
+    "v18778": {
+      "slug": "giniro-haruka",
+      "url": "https://www.yjgalgame.com/gal/giniro-haruka",
+      "vndbIds": [
+        "v18778"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 5,
+      "endingsCount": 6,
+      "stepsCount": 58
+    },
+    "v18790": {
+      "slug": "soshite-hatsukoi-ga-imouto-ni-naru",
+      "url": "https://www.yjgalgame.com/gal/soshite-hatsukoi-ga-imouto-ni-naru",
+      "vndbIds": [
+        "v18790"
+      ],
+      "updatedAt": "2026-07-13",
+      "routesCount": 1,
+      "endingsCount": 4,
+      "stepsCount": 10
+    },
+    "v18806": {
+      "slug": "natsu-no-kusari",
+      "url": "https://www.yjgalgame.com/gal/natsu-no-kusari",
+      "vndbIds": [
+        "v18806"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 1,
+      "endingsCount": 5,
+      "stepsCount": 15
+    },
+    "v18842": {
+      "slug": "floral-flowlove",
+      "url": "https://www.yjgalgame.com/gal/floral-flowlove",
+      "vndbIds": [
+        "v18842"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 1,
+      "endingsCount": 7,
+      "stepsCount": 29
+    },
+    "v18852": {
+      "slug": "amatsutsumi",
+      "url": "https://www.yjgalgame.com/gal/amatsutsumi",
+      "vndbIds": [
+        "v18852"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 1,
+      "endingsCount": 5,
+      "stepsCount": 16
+    },
+    "v19073": {
+      "slug": "senren-banka",
+      "url": "https://www.yjgalgame.com/gal/senren-banka",
+      "vndbIds": [
+        "v19073"
+      ],
+      "updatedAt": "2026-02-27",
+      "routesCount": 6,
+      "endingsCount": 6,
+      "stepsCount": 46
+    },
+    "v19182": {
+      "slug": "bishoujo-mangekyou-tsumi-to-batsu-no-shoujo",
+      "url": "https://www.yjgalgame.com/gal/bishoujo-mangekyou-tsumi-to-batsu-no-shoujo",
+      "vndbIds": [
+        "v19182"
+      ],
+      "updatedAt": "2026-02-27",
+      "routesCount": 3,
+      "endingsCount": 4,
+      "stepsCount": 16
+    },
+    "v19302": {
+      "slug": "gakkou-no-seiiki",
+      "url": "https://www.yjgalgame.com/gal/gakkou-no-seiiki",
+      "vndbIds": [
+        "v19302"
+      ],
+      "updatedAt": "2026-05-12",
+      "routesCount": 1,
+      "endingsCount": 3,
+      "stepsCount": 9
+    },
+    "v19347": {
+      "slug": "kanojo-step",
+      "url": "https://www.yjgalgame.com/gal/kanojo-step",
+      "vndbIds": [
+        "v19347"
+      ],
+      "updatedAt": "2026-07-12",
+      "routesCount": 6,
+      "endingsCount": 9,
+      "stepsCount": 251
+    },
+    "v19372": {
+      "slug": "haruru-minamo-ni",
+      "url": "https://www.yjgalgame.com/gal/haruru-minamo-ni",
+      "vndbIds": [
+        "v19372"
+      ],
+      "updatedAt": "2026-04-13",
+      "routesCount": 1,
+      "endingsCount": 5,
+      "stepsCount": 20
+    },
+    "v19444": {
+      "slug": "suki-to-suki-to-de-sankaku-renai",
+      "url": "https://www.yjgalgame.com/gal/suki-to-suki-to-de-sankaku-renai",
+      "vndbIds": [
+        "v19444"
+      ],
+      "updatedAt": "2026-07-11",
+      "routesCount": 6,
+      "endingsCount": 6,
+      "stepsCount": 37
+    },
+    "v19545": {
+      "slug": "flowers-le-volume-sur-hiver",
+      "url": "https://www.yjgalgame.com/gal/flowers-le-volume-sur-hiver",
+      "vndbIds": [
+        "v19545"
+      ],
+      "updatedAt": "2026-05-07",
+      "routesCount": 1,
+      "endingsCount": 10,
+      "stepsCount": 144
+    },
+    "v19595": {
+      "slug": "hoshi-koi-twinkle",
+      "url": "https://www.yjgalgame.com/gal/hoshi-koi-twinkle",
+      "vndbIds": [
+        "v19595"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 1,
+      "endingsCount": 5,
+      "stepsCount": 29
+    },
+    "v19609": {
+      "slug": "amenity-life",
+      "url": "https://www.yjgalgame.com/gal/amenity-life",
+      "vndbIds": [
+        "v19609"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 3,
+      "endingsCount": 5,
+      "stepsCount": 66
+    },
+    "v19644": {
+      "slug": "trinoline",
+      "url": "https://www.yjgalgame.com/gal/trinoline",
+      "vndbIds": [
+        "v19644"
+      ],
+      "updatedAt": "2026-07-12",
+      "routesCount": 3,
+      "endingsCount": 3,
+      "stepsCount": 5
+    },
+    "v19658": {
+      "slug": "karenai-sekai-to-owaru-hana",
+      "url": "https://www.yjgalgame.com/gal/karenai-sekai-to-owaru-hana",
+      "vndbIds": [
+        "v19658"
+      ],
+      "updatedAt": "2026-05-05",
+      "routesCount": 1,
+      "endingsCount": 4,
+      "stepsCount": 9
+    },
+    "v19663": {
+      "slug": "majo-to-tsurugi-to-sen-no-tsuki",
+      "url": "https://www.yjgalgame.com/gal/majo-to-tsurugi-to-sen-no-tsuki",
+      "vndbIds": [
+        "v19663"
+      ],
+      "updatedAt": "2026-07-16",
+      "routesCount": 1,
+      "endingsCount": 12,
+      "stepsCount": 40
+    },
+    "v19686": {
+      "slug": "yomegami-my-sweet-goddess",
+      "url": "https://www.yjgalgame.com/gal/yomegami-my-sweet-goddess",
+      "vndbIds": [
+        "v19686"
+      ],
+      "updatedAt": "2026-07-12",
+      "routesCount": 4,
+      "endingsCount": 4,
+      "stepsCount": 18
+    },
+    "v19713": {
+      "slug": "natsuiro-koi-uta",
+      "url": "https://www.yjgalgame.com/gal/natsuiro-koi-uta",
+      "vndbIds": [
+        "v19713"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 1,
+      "endingsCount": 4,
+      "stepsCount": 8
+    },
+    "v19769": {
+      "slug": "kamidanomi-shisugite-ore-no-mirai-ga-yabai",
+      "url": "https://www.yjgalgame.com/gal/kamidanomi-shisugite-ore-no-mirai-ga-yabai",
+      "vndbIds": [
+        "v19769"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 1,
+      "endingsCount": 6,
+      "stepsCount": 18
+    },
+    "v19829": {
+      "slug": "9-nine-1",
+      "url": "https://www.yjgalgame.com/gal/9-nine-1",
+      "vndbIds": [
+        "v19829"
+      ],
+      "updatedAt": "2026-07-15",
+      "routesCount": 1,
+      "endingsCount": 2,
+      "stepsCount": 8
+    },
+    "v19841": {
+      "slug": "nora-to-oujo-to-noraneko-heart-2",
+      "url": "https://www.yjgalgame.com/gal/nora-to-oujo-to-noraneko-heart-2",
+      "vndbIds": [
+        "v19841"
+      ],
+      "updatedAt": "2026-03-03",
+      "routesCount": 1,
+      "endingsCount": 6,
+      "stepsCount": 49
+    },
+    "v19964": {
+      "slug": "tsukikage-no-simulacre",
+      "url": "https://www.yjgalgame.com/gal/tsukikage-no-simulacre",
+      "vndbIds": [
+        "v19964"
+      ],
+      "updatedAt": "2026-07-16",
+      "routesCount": 1,
+      "endingsCount": 14,
+      "stepsCount": 56
+    },
+    "v19974": {
+      "slug": "honoguraki-toki-no-hate-yori",
+      "url": "https://www.yjgalgame.com/gal/honoguraki-toki-no-hate-yori",
+      "vndbIds": [
+        "v19974"
+      ],
+      "updatedAt": "2026-07-15",
+      "routesCount": 1,
+      "endingsCount": 9,
+      "stepsCount": 32
+    },
+    "v20002": {
+      "slug": "kimi-no-hitomi-ni-hit-me",
+      "url": "https://www.yjgalgame.com/gal/kimi-no-hitomi-ni-hit-me",
+      "vndbIds": [
+        "v20002"
+      ],
+      "updatedAt": "2026-07-13",
+      "routesCount": 1,
+      "endingsCount": 6,
+      "stepsCount": 30
+    },
+    "v20196": {
+      "slug": "shugaten-sugarfull-tempering",
+      "url": "https://www.yjgalgame.com/gal/shugaten-sugarfull-tempering",
+      "vndbIds": [
+        "v20196"
+      ],
+      "updatedAt": "2026-07-13",
+      "routesCount": 1,
+      "endingsCount": 4,
+      "stepsCount": 19
+    },
+    "v20256": {
+      "slug": "omoi-o-sasageru-otome-no-melody",
+      "url": "https://www.yjgalgame.com/gal/omoi-o-sasageru-otome-no-melody",
+      "vndbIds": [
+        "v20256"
+      ],
+      "updatedAt": "2026-07-13",
+      "routesCount": 1,
+      "endingsCount": 5,
+      "stepsCount": 14
+    },
+    "v20264": {
+      "slug": "sakura-no-mori-dreamers-2",
+      "url": "https://www.yjgalgame.com/gal/sakura-no-mori-dreamers-2",
+      "vndbIds": [
+        "v20264"
+      ],
+      "updatedAt": "2026-05-11",
+      "routesCount": 1,
+      "endingsCount": 2,
+      "stepsCount": 25
+    },
+    "v20330": {
+      "slug": "newton-to-ringo-no-ki",
+      "url": "https://www.yjgalgame.com/gal/newton-to-ringo-no-ki",
+      "vndbIds": [
+        "v20330"
+      ],
+      "updatedAt": "2026-07-15",
+      "routesCount": 1,
+      "endingsCount": 6,
+      "stepsCount": 34
+    },
+    "v20424": {
+      "slug": "summer-pockets",
+      "url": "https://www.yjgalgame.com/gal/summer-pockets",
+      "vndbIds": [
+        "v20424"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 1,
+      "endingsCount": 11,
+      "stepsCount": 409
+    },
+    "v20431": {
+      "slug": "sakura-no-toki",
+      "url": "https://www.yjgalgame.com/gal/sakura-no-toki",
+      "vndbIds": [
+        "v20431"
+      ],
+      "updatedAt": "2026-02-27",
+      "routesCount": 4,
+      "endingsCount": 4,
+      "stepsCount": 26
+    },
+    "v20433": {
+      "slug": "neko-nin-exheart",
+      "url": "https://www.yjgalgame.com/gal/neko-nin-exheart",
+      "vndbIds": [
+        "v20433"
+      ],
+      "updatedAt": "2026-05-08",
+      "routesCount": 1,
+      "endingsCount": 1,
+      "stepsCount": 2
+    },
+    "v20471": {
+      "slug": "suisou-ginka-no-istoria",
+      "url": "https://www.yjgalgame.com/gal/suisou-ginka-no-istoria",
+      "vndbIds": [
+        "v20471"
+      ],
+      "updatedAt": "2026-07-15",
+      "routesCount": 1,
+      "endingsCount": 6,
+      "stepsCount": 18
+    },
+    "v20622": {
+      "slug": "ouchi-ni-kaeru-made-ga-mashimaro-desu",
+      "url": "https://www.yjgalgame.com/gal/ouchi-ni-kaeru-made-ga-mashimaro-desu",
+      "vndbIds": [
+        "v20622"
+      ],
+      "updatedAt": "2026-05-13",
+      "routesCount": 1,
+      "endingsCount": 5,
+      "stepsCount": 20
+    },
+    "v20623": {
+      "slug": "tsuki-ni-yorisou-otome-no-sahou-2-1",
+      "url": "https://www.yjgalgame.com/gal/tsuki-ni-yorisou-otome-no-sahou-2-1",
+      "vndbIds": [
+        "v20623"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 2,
+      "endingsCount": 4,
+      "stepsCount": 14
+    },
+    "v20684": {
+      "slug": "ojou-sama-wa-sunao-ni-narenai",
+      "url": "https://www.yjgalgame.com/gal/ojou-sama-wa-sunao-ni-narenai",
+      "vndbIds": [
+        "v20684"
+      ],
+      "updatedAt": "2026-07-13",
+      "routesCount": 1,
+      "endingsCount": 5,
+      "stepsCount": 12
+    },
+    "v20833": {
+      "slug": "akaneiro-no-kyoukaisen",
+      "url": "https://www.yjgalgame.com/gal/akaneiro-no-kyoukaisen",
+      "vndbIds": [
+        "v20833"
+      ],
+      "updatedAt": "2026-07-13",
+      "routesCount": 1,
+      "endingsCount": 4,
+      "stepsCount": 9
+    },
+    "v20860": {
+      "slug": "hikari-no-umi-no-apeiria",
+      "url": "https://www.yjgalgame.com/gal/hikari-no-umi-no-apeiria",
+      "vndbIds": [
+        "v20860"
+      ],
+      "updatedAt": "2026-02-27",
+      "routesCount": 4,
+      "endingsCount": 4,
+      "stepsCount": 8
+    },
+    "v20941": {
+      "slug": "pure-song-garden",
+      "url": "https://www.yjgalgame.com/gal/pure-song-garden",
+      "vndbIds": [
+        "v20941"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 1,
+      "endingsCount": 6,
+      "stepsCount": 15
+    },
+    "v20975": {
+      "slug": "hatsujou-sprinkle",
+      "url": "https://www.yjgalgame.com/gal/hatsujou-sprinkle",
+      "vndbIds": [
+        "v20975"
+      ],
+      "updatedAt": "2026-05-08",
+      "routesCount": 1,
+      "endingsCount": 5,
+      "stepsCount": 19
+    },
+    "v21465": {
+      "slug": "kizuna-kirameku-koi-iroha",
+      "url": "https://www.yjgalgame.com/gal/kizuna-kirameku-koi-iroha",
+      "vndbIds": [
+        "v21465"
+      ],
+      "updatedAt": "2026-07-15",
+      "routesCount": 1,
+      "endingsCount": 4,
+      "stepsCount": 12
+    },
+    "v21495": {
+      "slug": "kanojo-wa-tenshi-de-imouto-de",
+      "url": "https://www.yjgalgame.com/gal/kanojo-wa-tenshi-de-imouto-de",
+      "vndbIds": [
+        "v21495"
+      ],
+      "updatedAt": "2026-03-03",
+      "routesCount": 1,
+      "endingsCount": 7,
+      "stepsCount": 21
+    },
+    "v21496": {
+      "slug": "yurameku-kokoro-ni-michita-sekai-de",
+      "url": "https://www.yjgalgame.com/gal/yurameku-kokoro-ni-michita-sekai-de",
+      "vndbIds": [
+        "v21496"
+      ],
+      "updatedAt": "2026-07-13",
+      "routesCount": 6,
+      "endingsCount": 7,
+      "stepsCount": 28
+    },
+    "v21501": {
+      "slug": "tsuki-ni-yorisou-otome-no-sahou-2-2",
+      "url": "https://www.yjgalgame.com/gal/tsuki-ni-yorisou-otome-no-sahou-2-2",
+      "vndbIds": [
+        "v21501"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 3,
+      "endingsCount": 4,
+      "stepsCount": 7
+    },
+    "v21523": {
+      "slug": "aoi-tori",
+      "url": "https://www.yjgalgame.com/gal/aoi-tori",
+      "vndbIds": [
+        "v21523"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 1,
+      "endingsCount": 4,
+      "stepsCount": 7
+    },
+    "v21552": {
+      "slug": "making-lovers",
+      "url": "https://www.yjgalgame.com/gal/making-lovers",
+      "vndbIds": [
+        "v21552"
+      ],
+      "updatedAt": "2026-02-27",
+      "routesCount": 6,
+      "endingsCount": 8,
+      "stepsCount": 98
+    },
+    "v21620": {
+      "slug": "nemurenu-hitsuji-to-kodoku-na-ookami",
+      "url": "https://www.yjgalgame.com/gal/nemurenu-hitsuji-to-kodoku-na-ookami",
+      "vndbIds": [
+        "v21620"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 1,
+      "endingsCount": 5,
+      "stepsCount": 13
+    },
+    "v21647": {
+      "slug": "cross-concerto",
+      "url": "https://www.yjgalgame.com/gal/cross-concerto",
+      "vndbIds": [
+        "v21647"
+      ],
+      "updatedAt": "2026-07-16",
+      "routesCount": 1,
+      "endingsCount": 14,
+      "stepsCount": 54
+    },
+    "v21667": {
+      "slug": "minikui-mojika-no-ko",
+      "url": "https://www.yjgalgame.com/gal/minikui-mojika-no-ko",
+      "vndbIds": [
+        "v21667"
+      ],
+      "updatedAt": "2026-05-09",
+      "routesCount": 1,
+      "endingsCount": 7,
+      "stepsCount": 109
+    },
+    "v21668": {
+      "slug": "9-nine-2",
+      "url": "https://www.yjgalgame.com/gal/9-nine-2",
+      "vndbIds": [
+        "v21668"
+      ],
+      "updatedAt": "2026-05-12",
+      "routesCount": 1,
+      "endingsCount": 2,
+      "stepsCount": 6
+    },
+    "v21717": {
+      "slug": "yorite-konoha-wa-kurenai-ni",
+      "url": "https://www.yjgalgame.com/gal/yorite-konoha-wa-kurenai-ni",
+      "vndbIds": [
+        "v21717"
+      ],
+      "updatedAt": "2026-02-27",
+      "routesCount": 4,
+      "endingsCount": 4,
+      "stepsCount": 8
+    },
+    "v21852": {
+      "slug": "kiniro-loveriche",
+      "url": "https://www.yjgalgame.com/gal/kiniro-loveriche",
+      "vndbIds": [
+        "v21852"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 1,
+      "endingsCount": 7,
+      "stepsCount": 37
+    },
+    "v21857": {
+      "slug": "hikari-no-umi-no-apeiria-casablanca-no-kishi",
+      "url": "https://www.yjgalgame.com/gal/hikari-no-umi-no-apeiria-casablanca-no-kishi",
+      "vndbIds": [
+        "v21857"
+      ],
+      "updatedAt": "2026-02-27",
+      "routesCount": 1,
+      "endingsCount": 2,
+      "stepsCount": 2
+    },
+    "v21931": {
+      "slug": "shogun-sama-wa-otoshigoro",
+      "url": "https://www.yjgalgame.com/gal/shogun-sama-wa-otoshigoro",
+      "vndbIds": [
+        "v21931"
+      ],
+      "updatedAt": "2026-07-12",
+      "routesCount": 4,
+      "endingsCount": 4,
+      "stepsCount": 20
+    },
+    "v21956": {
+      "slug": "ixshe-tell",
+      "url": "https://www.yjgalgame.com/gal/ixshe-tell",
+      "vndbIds": [
+        "v21956"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 1,
+      "endingsCount": 6,
+      "stepsCount": 57
+    },
+    "v21979": {
+      "slug": "otome-wa-boku-ni-koishiteru-trinkle-stars",
+      "url": "https://www.yjgalgame.com/gal/otome-wa-boku-ni-koishiteru-trinkle-stars",
+      "vndbIds": [
+        "v21979"
+      ],
+      "updatedAt": "2026-07-12",
+      "routesCount": 6,
+      "endingsCount": 6,
+      "stepsCount": 28
+    },
+    "v22027": {
+      "slug": "butterfly-seeker",
+      "url": "https://www.yjgalgame.com/gal/butterfly-seeker",
+      "vndbIds": [
+        "v22027"
+      ],
+      "updatedAt": "2026-02-27",
+      "routesCount": 5,
+      "endingsCount": 9,
+      "stepsCount": 215
+    },
+    "v22045": {
+      "slug": "karigurashi-renai",
+      "url": "https://www.yjgalgame.com/gal/karigurashi-renai",
+      "vndbIds": [
+        "v22045"
+      ],
+      "updatedAt": "2026-07-11",
+      "routesCount": 7,
+      "endingsCount": 7,
+      "stepsCount": 39
+    },
+    "v22230": {
+      "slug": "riddle-joker",
+      "url": "https://www.yjgalgame.com/gal/riddle-joker",
+      "vndbIds": [
+        "v22230"
+      ],
+      "updatedAt": "2026-07-12",
+      "routesCount": 6,
+      "endingsCount": 6,
+      "stepsCount": 37
+    },
+    "v22282": {
+      "slug": "neko-nin-exheart-2",
+      "url": "https://www.yjgalgame.com/gal/neko-nin-exheart-2",
+      "vndbIds": [
+        "v22282"
+      ],
+      "updatedAt": "2026-05-08",
+      "routesCount": 1,
+      "endingsCount": 1,
+      "stepsCount": 2
+    },
+    "v22304": {
+      "slug": "sora-to-umi-ga-fureau-kanata",
+      "url": "https://www.yjgalgame.com/gal/sora-to-umi-ga-fureau-kanata",
+      "vndbIds": [
+        "v22304"
+      ],
+      "updatedAt": "2026-04-12",
+      "routesCount": 1,
+      "endingsCount": 2,
+      "stepsCount": 8
+    },
+    "v22313": {
+      "slug": "sakura-moyu-as-the-nights-reincarnation",
+      "url": "https://www.yjgalgame.com/gal/sakura-moyu-as-the-nights-reincarnation",
+      "vndbIds": [
+        "v22313"
+      ],
+      "updatedAt": "2026-07-12",
+      "routesCount": 4,
+      "endingsCount": 4,
+      "stepsCount": 10
+    },
+    "v22561": {
+      "slug": "koi-wa-sotto-saku-hana-no-you-ni",
+      "url": "https://www.yjgalgame.com/gal/koi-wa-sotto-saku-hana-no-you-ni",
+      "vndbIds": [
+        "v22561"
+      ],
+      "updatedAt": "2026-03-03",
+      "routesCount": 1,
+      "endingsCount": 6,
+      "stepsCount": 11
+    },
+    "v22603": {
+      "slug": "mirai-radio-to-jinkou-bato",
+      "url": "https://www.yjgalgame.com/gal/mirai-radio-to-jinkou-bato",
+      "vndbIds": [
+        "v22603"
+      ],
+      "updatedAt": "2026-05-11",
+      "routesCount": 1,
+      "endingsCount": 4,
+      "stepsCount": 10
+    },
+    "v22636": {
+      "slug": "erewhon",
+      "url": "https://www.yjgalgame.com/gal/erewhon",
+      "vndbIds": [
+        "v22636"
+      ],
+      "updatedAt": "2026-04-02",
+      "routesCount": 1,
+      "endingsCount": 10,
+      "stepsCount": 32
+    },
+    "v22783": {
+      "slug": "musicus",
+      "url": "https://www.yjgalgame.com/gal/musicus",
+      "vndbIds": [
+        "v22783"
+      ],
+      "updatedAt": "2026-05-15",
+      "routesCount": 1,
+      "endingsCount": 4,
+      "stepsCount": 29
+    },
+    "v22847": {
+      "slug": "raspberry-cube",
+      "url": "https://www.yjgalgame.com/gal/raspberry-cube",
+      "vndbIds": [
+        "v22847"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 1,
+      "endingsCount": 4,
+      "stepsCount": 16
+    },
+    "v22899": {
+      "slug": "nukitashi",
+      "url": "https://www.yjgalgame.com/gal/nukitashi",
+      "vndbIds": [
+        "v22899"
+      ],
+      "updatedAt": "2026-05-17",
+      "routesCount": 1,
+      "endingsCount": 5,
+      "stepsCount": 11
+    },
+    "v23388": {
+      "slug": "deatte-5-fun-wa-ore-no-mono",
+      "url": "https://www.yjgalgame.com/gal/deatte-5-fun-wa-ore-no-mono",
+      "vndbIds": [
+        "v23388"
+      ],
+      "updatedAt": "2026-03-09",
+      "routesCount": 1,
+      "endingsCount": 7,
+      "stepsCount": 35
+    },
+    "v23448": {
+      "slug": "amazing-grace",
+      "url": "https://www.yjgalgame.com/gal/amazing-grace",
+      "vndbIds": [
+        "v23448"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 1,
+      "endingsCount": 7,
+      "stepsCount": 41
+    },
+    "v23458": {
+      "slug": "sono-hi-no-kemono-ni-wa",
+      "url": "https://www.yjgalgame.com/gal/sono-hi-no-kemono-ni-wa",
+      "vndbIds": [
+        "v23458"
+      ],
+      "updatedAt": "2026-07-12",
+      "routesCount": 3,
+      "endingsCount": 3,
+      "stepsCount": 6
+    },
+    "v23732": {
+      "slug": "pieces-wataridori-no-somnium",
+      "url": "https://www.yjgalgame.com/gal/pieces-wataridori-no-somnium",
+      "vndbIds": [
+        "v23732"
+      ],
+      "updatedAt": "2026-05-08",
+      "routesCount": 1,
+      "endingsCount": 6,
+      "stepsCount": 20
+    },
+    "v23740": {
+      "slug": "9-nine-3",
+      "url": "https://www.yjgalgame.com/gal/9-nine-3",
+      "vndbIds": [
+        "v23740"
+      ],
+      "updatedAt": "2026-05-12",
+      "routesCount": 1,
+      "endingsCount": 1,
+      "stepsCount": 13
+    },
+    "v23741": {
+      "slug": "nukitashi2",
+      "url": "https://www.yjgalgame.com/gal/nukitashi2",
+      "vndbIds": [
+        "v23741"
+      ],
+      "updatedAt": "2026-05-17",
+      "routesCount": 1,
+      "endingsCount": 3,
+      "stepsCount": 6
+    },
+    "v23863": {
+      "slug": "aoi-sora-no-camus",
+      "url": "https://www.yjgalgame.com/gal/aoi-sora-no-camus",
+      "vndbIds": [
+        "v23863"
+      ],
+      "updatedAt": "2026-07-16",
+      "routesCount": 1,
+      "endingsCount": 6,
+      "stepsCount": 21
+    },
+    "v23908": {
+      "slug": "sora-ni-kizanda-parallelogram",
+      "url": "https://www.yjgalgame.com/gal/sora-ni-kizanda-parallelogram",
+      "vndbIds": [
+        "v23908"
+      ],
+      "updatedAt": "2026-05-08",
+      "routesCount": 1,
+      "endingsCount": 5,
+      "stepsCount": 12
+    },
+    "v24110": {
+      "slug": "ryuusei-world-actor",
+      "url": "https://www.yjgalgame.com/gal/ryuusei-world-actor",
+      "vndbIds": [
+        "v24110"
+      ],
+      "updatedAt": "2026-03-10",
+      "routesCount": 1,
+      "endingsCount": 5,
+      "stepsCount": 36
+    },
+    "v24328": {
+      "slug": "yumeutsutsu-remaster",
+      "url": "https://www.yjgalgame.com/gal/yumeutsutsu-remaster",
+      "vndbIds": [
+        "v24328"
+      ],
+      "updatedAt": "2026-07-12",
+      "routesCount": 5,
+      "endingsCount": 13,
+      "stepsCount": 132
+    },
+    "v24506": {
+      "slug": "kokorone-pendulum",
+      "url": "https://www.yjgalgame.com/gal/kokorone-pendulum",
+      "vndbIds": [
+        "v24506"
+      ],
+      "updatedAt": "2026-04-13",
+      "routesCount": 1,
+      "endingsCount": 5,
+      "stepsCount": 24
+    },
+    "v24650": {
+      "slug": "sakura-iro-mau-koro-ni",
+      "url": "https://www.yjgalgame.com/gal/sakura-iro-mau-koro-ni",
+      "vndbIds": [
+        "v24650"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 1,
+      "endingsCount": 5,
+      "stepsCount": 17
+    },
+    "v24689": {
+      "slug": "study-steady",
+      "url": "https://www.yjgalgame.com/gal/study-steady",
+      "vndbIds": [
+        "v24689"
+      ],
+      "updatedAt": "2026-07-16",
+      "routesCount": 1,
+      "endingsCount": 16,
+      "stepsCount": 79
+    },
+    "v24702": {
+      "slug": "aonatsu-line",
+      "url": "https://www.yjgalgame.com/gal/aonatsu-line",
+      "vndbIds": [
+        "v24702"
+      ],
+      "updatedAt": "2026-07-13",
+      "routesCount": 1,
+      "endingsCount": 4,
+      "stepsCount": 30
+    },
+    "v24717": {
+      "slug": "kiniro-loveriche-golden-time",
+      "url": "https://www.yjgalgame.com/gal/kiniro-loveriche-golden-time",
+      "vndbIds": [
+        "v24717"
+      ],
+      "updatedAt": "2026-03-09",
+      "routesCount": 1,
+      "endingsCount": 4,
+      "stepsCount": 35
+    },
+    "v24725": {
+      "slug": "realive-purple",
+      "url": "https://www.yjgalgame.com/gal/realive-purple",
+      "vndbIds": [
+        "v24725"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 1,
+      "endingsCount": 5,
+      "stepsCount": 17
+    },
+    "v24803": {
+      "slug": "tsuki-no-kanata-de-aimashou",
+      "url": "https://www.yjgalgame.com/gal/tsuki-no-kanata-de-aimashou",
+      "vndbIds": [
+        "v24803"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 1,
+      "endingsCount": 7,
+      "stepsCount": 44
+    },
+    "v24872": {
+      "slug": "neko-nin-exheart-3",
+      "url": "https://www.yjgalgame.com/gal/neko-nin-exheart-3",
+      "vndbIds": [
+        "v24872"
+      ],
+      "updatedAt": "2026-05-08",
+      "routesCount": 1,
+      "endingsCount": 6,
+      "stepsCount": 18
+    },
+    "v24935": {
+      "slug": "e-school-life",
+      "url": "https://www.yjgalgame.com/gal/e-school-life",
+      "vndbIds": [
+        "v24935"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 1,
+      "endingsCount": 12,
+      "stepsCount": 286
+    },
+    "v25007": {
+      "slug": "dead-days",
+      "url": "https://www.yjgalgame.com/gal/dead-days",
+      "vndbIds": [
+        "v25007"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 1,
+      "endingsCount": 8,
+      "stepsCount": 46
+    },
+    "v25135": {
+      "slug": "kanzume-shoujo-no-shuumatsu-sekai",
+      "url": "https://www.yjgalgame.com/gal/kanzume-shoujo-no-shuumatsu-sekai",
+      "vndbIds": [
+        "v25135"
+      ],
+      "updatedAt": "2026-02-27",
+      "routesCount": 1,
+      "endingsCount": 4,
+      "stepsCount": 12
+    },
+    "v25366": {
+      "slug": "renai-karichaimashita",
+      "url": "https://www.yjgalgame.com/gal/renai-karichaimashita",
+      "vndbIds": [
+        "v25366"
+      ],
+      "updatedAt": "2026-07-11",
+      "routesCount": 7,
+      "endingsCount": 7,
+      "stepsCount": 36
+    },
+    "v25367": {
+      "slug": "wakaba-iro-no-quartet",
+      "url": "https://www.yjgalgame.com/gal/wakaba-iro-no-quartet",
+      "vndbIds": [
+        "v25367"
+      ],
+      "updatedAt": "2026-02-27",
+      "routesCount": 4,
+      "endingsCount": 4,
+      "stepsCount": 8
+    },
+    "v25635": {
+      "slug": "maitetsu-last-run",
+      "url": "https://www.yjgalgame.com/gal/maitetsu-last-run",
+      "vndbIds": [
+        "v25635"
+      ],
+      "updatedAt": "2026-07-15",
+      "routesCount": 1,
+      "endingsCount": 8,
+      "stepsCount": 13
+    },
+    "v25670": {
+      "slug": "kagi-o-kakushita-kago-no-tori",
+      "url": "https://www.yjgalgame.com/gal/kagi-o-kakushita-kago-no-tori",
+      "vndbIds": [
+        "v25670"
+      ],
+      "updatedAt": "2026-07-15",
+      "routesCount": 1,
+      "endingsCount": 5,
+      "stepsCount": 12
+    },
+    "v25999": {
+      "slug": "docchi-no-i-ga-suki-desu-ka",
+      "url": "https://www.yjgalgame.com/gal/docchi-no-i-ga-suki-desu-ka",
+      "vndbIds": [
+        "v25999"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 1,
+      "endingsCount": 8,
+      "stepsCount": 37
+    },
+    "v26000": {
+      "slug": "kimagure-temptation",
+      "url": "https://www.yjgalgame.com/gal/kimagure-temptation",
+      "vndbIds": [
+        "v26000"
+      ],
+      "updatedAt": "2026-02-27",
+      "routesCount": 1,
+      "endingsCount": 6,
+      "stepsCount": 234
+    },
+    "v26242": {
+      "slug": "shiraha-kirameku-koi-shirabe",
+      "url": "https://www.yjgalgame.com/gal/shiraha-kirameku-koi-shirabe",
+      "vndbIds": [
+        "v26242"
+      ],
+      "updatedAt": "2026-07-15",
+      "routesCount": 1,
+      "endingsCount": 3,
+      "stepsCount": 6
+    },
+    "v26307": {
+      "slug": "amakano-2",
+      "url": "https://www.yjgalgame.com/gal/amakano-2",
+      "vndbIds": [
+        "v26307"
+      ],
+      "updatedAt": "2026-07-11",
+      "routesCount": 3,
+      "endingsCount": 6,
+      "stepsCount": 39
+    },
+    "v26414": {
+      "slug": "cafe-stella-to-shinigami-no-chou",
+      "url": "https://www.yjgalgame.com/gal/cafe-stella-to-shinigami-no-chou",
+      "vndbIds": [
+        "v26414"
+      ],
+      "updatedAt": "2026-02-27",
+      "routesCount": 5,
+      "endingsCount": 5,
+      "stepsCount": 34
+    },
+    "v26485": {
+      "slug": "tsuki-no-kanata-de-aimashou-sweetsummerrainbow",
+      "url": "https://www.yjgalgame.com/gal/tsuki-no-kanata-de-aimashou-sweetsummerrainbow",
+      "vndbIds": [
+        "v26485"
+      ],
+      "updatedAt": "2026-05-07",
+      "routesCount": 4,
+      "endingsCount": 4,
+      "stepsCount": 11
+    },
+    "v26523": {
+      "slug": "9-nine-4",
+      "url": "https://www.yjgalgame.com/gal/9-nine-4",
+      "vndbIds": [
+        "v26523"
+      ],
+      "updatedAt": "2026-05-12",
+      "routesCount": 1,
+      "endingsCount": 3,
+      "stepsCount": 42
+    },
+    "v26537": {
+      "slug": "aikotoba",
+      "url": "https://www.yjgalgame.com/gal/aikotoba",
+      "vndbIds": [
+        "v26537"
+      ],
+      "updatedAt": "2026-02-27",
+      "routesCount": 1,
+      "endingsCount": 2,
+      "stepsCount": 15
+    },
+    "v26581": {
+      "slug": "amairo-chocolata",
+      "url": "https://www.yjgalgame.com/gal/amairo-chocolata",
+      "vndbIds": [
+        "v26581"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 1,
+      "endingsCount": 4,
+      "stepsCount": 7
+    },
+    "v26639": {
+      "slug": "kami-sama-no-you-na-kimi-e",
+      "url": "https://www.yjgalgame.com/gal/kami-sama-no-you-na-kimi-e",
+      "vndbIds": [
+        "v26639"
+      ],
+      "updatedAt": "2026-07-13",
+      "routesCount": 9,
+      "endingsCount": 15,
+      "stepsCount": 117
+    },
+    "v26664": {
+      "slug": "sakura-no-kumo-scarlet-no-koi",
+      "url": "https://www.yjgalgame.com/gal/sakura-no-kumo-scarlet-no-koi",
+      "vndbIds": [
+        "v26664"
+      ],
+      "updatedAt": "2026-03-25",
+      "routesCount": 1,
+      "endingsCount": 6,
+      "stepsCount": 42
+    },
+    "v26987": {
+      "slug": "hakuchuumu-no-aojashin",
+      "url": "https://www.yjgalgame.com/gal/hakuchuumu-no-aojashin",
+      "vndbIds": [
+        "v26987"
+      ],
+      "updatedAt": "2026-07-15",
+      "routesCount": 1,
+      "endingsCount": 1,
+      "stepsCount": 15
+    },
+    "v26989": {
+      "slug": "ore-no-sugata-ga-toumei-ni",
+      "url": "https://www.yjgalgame.com/gal/ore-no-sugata-ga-toumei-ni",
+      "vndbIds": [
+        "v26989"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 1,
+      "endingsCount": 6,
+      "stepsCount": 30
+    },
+    "v27057": {
+      "slug": "bishoujo-mangekyou-kotowari-to-meikyuu-no-shoujo",
+      "url": "https://www.yjgalgame.com/gal/bishoujo-mangekyou-kotowari-to-meikyuu-no-shoujo",
+      "vndbIds": [
+        "v27057"
+      ],
+      "updatedAt": "2026-02-27",
+      "routesCount": 4,
+      "endingsCount": 4,
+      "stepsCount": 21
+    },
+    "v27070": {
+      "slug": "haji-kano",
+      "url": "https://www.yjgalgame.com/gal/haji-kano",
+      "vndbIds": [
+        "v27070"
+      ],
+      "updatedAt": "2026-07-12",
+      "routesCount": 3,
+      "endingsCount": 3,
+      "stepsCount": 14
+    },
+    "v27236": {
+      "slug": "oshi-no-love-yori-koi-no-love",
+      "url": "https://www.yjgalgame.com/gal/oshi-no-love-yori-koi-no-love",
+      "vndbIds": [
+        "v27236"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 1,
+      "endingsCount": 3,
+      "stepsCount": 9
+    },
+    "v27448": {
+      "slug": "atri-my-dear-moments",
+      "url": "https://www.yjgalgame.com/gal/atri-my-dear-moments",
+      "vndbIds": [
+        "v27448"
+      ],
+      "updatedAt": "2026-02-27",
+      "routesCount": 1,
+      "endingsCount": 3,
+      "stepsCount": 9
+    },
+    "v27449": {
+      "slug": "hamidashi-creative",
+      "url": "https://www.yjgalgame.com/gal/hamidashi-creative",
+      "vndbIds": [
+        "v27449"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 1,
+      "endingsCount": 5,
+      "stepsCount": 28
+    },
+    "v27653": {
+      "slug": "pieces-yurikago-no-canaria",
+      "url": "https://www.yjgalgame.com/gal/pieces-yurikago-no-canaria",
+      "vndbIds": [
+        "v27653"
+      ],
+      "updatedAt": "2026-07-15",
+      "routesCount": 1,
+      "endingsCount": 6,
+      "stepsCount": 6
+    },
+    "v28034": {
+      "slug": "ano-hi-no-tabibito-fureau-mirai",
+      "url": "https://www.yjgalgame.com/gal/ano-hi-no-tabibito-fureau-mirai",
+      "vndbIds": [
+        "v28034"
+      ],
+      "updatedAt": "2026-04-12",
+      "routesCount": 1,
+      "endingsCount": 2,
+      "stepsCount": 4
+    },
+    "v28130": {
+      "slug": "nekotsuku-sakura",
+      "url": "https://www.yjgalgame.com/gal/nekotsuku-sakura",
+      "vndbIds": [
+        "v28130"
+      ],
+      "updatedAt": "2026-07-12",
+      "routesCount": 4,
+      "endingsCount": 4,
+      "stepsCount": 11
+    },
+    "v28283": {
+      "slug": "houkago-cinderella",
+      "url": "https://www.yjgalgame.com/gal/houkago-cinderella",
+      "vndbIds": [
+        "v28283"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 1,
+      "endingsCount": 6,
+      "stepsCount": 441
+    },
+    "v28304": {
+      "slug": "seishun-fragile",
+      "url": "https://www.yjgalgame.com/gal/seishun-fragile",
+      "vndbIds": [
+        "v28304"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 1,
+      "endingsCount": 4,
+      "stepsCount": 12
+    },
+    "v28633": {
+      "slug": "renai-x-royale",
+      "url": "https://www.yjgalgame.com/gal/renai-x-royale",
+      "vndbIds": [
+        "v28633"
+      ],
+      "updatedAt": "2026-07-11",
+      "routesCount": 8,
+      "endingsCount": 8,
+      "stepsCount": 35
+    },
+    "v28806": {
+      "slug": "tsui-no-sora-remake",
+      "url": "https://www.yjgalgame.com/gal/tsui-no-sora-remake",
+      "vndbIds": [
+        "v28806"
+      ],
+      "updatedAt": "2026-02-27",
+      "routesCount": 1,
+      "endingsCount": 5,
+      "stepsCount": 38
+    },
+    "v29246": {
+      "slug": "uchi-no-aruji-wa-youkai-no-joushiki-o-shiranai",
+      "url": "https://www.yjgalgame.com/gal/uchi-no-aruji-wa-youkai-no-joushiki-o-shiranai",
+      "vndbIds": [
+        "v29246"
+      ],
+      "updatedAt": "2026-02-27",
+      "routesCount": 2,
+      "endingsCount": 2,
+      "stepsCount": 6
+    },
+    "v29383": {
+      "slug": "meikei-no-lupercalia",
+      "url": "https://www.yjgalgame.com/gal/meikei-no-lupercalia",
+      "vndbIds": [
+        "v29383"
+      ],
+      "updatedAt": "2026-05-08",
+      "routesCount": 1,
+      "endingsCount": 5,
+      "stepsCount": 12
+    },
+    "v29402": {
+      "slug": "glass-hime-to-kagami-no-juusha",
+      "url": "https://www.yjgalgame.com/gal/glass-hime-to-kagami-no-juusha",
+      "vndbIds": [
+        "v29402"
+      ],
+      "updatedAt": "2026-07-13",
+      "routesCount": 1,
+      "endingsCount": 4,
+      "stepsCount": 12
+    },
+    "v29666": {
+      "slug": "umi-to-yuki-no-cyan-blue",
+      "url": "https://www.yjgalgame.com/gal/umi-to-yuki-no-cyan-blue",
+      "vndbIds": [
+        "v29666"
+      ],
+      "updatedAt": "2026-07-13",
+      "routesCount": 1,
+      "endingsCount": 6,
+      "stepsCount": 36
+    },
+    "v29667": {
+      "slug": "yubisaki-connection",
+      "url": "https://www.yjgalgame.com/gal/yubisaki-connection",
+      "vndbIds": [
+        "v29667"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 1,
+      "endingsCount": 5,
+      "stepsCount": 153
+    },
+    "v29884": {
+      "slug": "happy-live-show-up",
+      "url": "https://www.yjgalgame.com/gal/happy-live-show-up",
+      "vndbIds": [
+        "v29884"
+      ],
+      "updatedAt": "2026-07-12",
+      "routesCount": 12,
+      "endingsCount": 12,
+      "stepsCount": 93
+    },
+    "v29921": {
+      "slug": "madohi-shiroki-no-kamikakushi",
+      "url": "https://www.yjgalgame.com/gal/madohi-shiroki-no-kamikakushi",
+      "vndbIds": [
+        "v29921"
+      ],
+      "updatedAt": "2026-02-27",
+      "routesCount": 4,
+      "endingsCount": 4,
+      "stepsCount": 8
+    },
+    "v30012": {
+      "slug": "fuyukara-kururu",
+      "url": "https://www.yjgalgame.com/gal/fuyukara-kururu",
+      "vndbIds": [
+        "v30012"
+      ],
+      "updatedAt": "2026-02-27",
+      "routesCount": 1,
+      "endingsCount": 3,
+      "stepsCount": 10
+    },
+    "v30184": {
+      "slug": "secret-agent-kagebana-shadow-flower",
+      "url": "https://www.yjgalgame.com/gal/secret-agent-kagebana-shadow-flower",
+      "vndbIds": [
+        "v30184"
+      ],
+      "updatedAt": "2026-07-13",
+      "routesCount": 1,
+      "endingsCount": 2,
+      "stepsCount": 14
+    },
+    "v30216": {
+      "slug": "princess-princess",
+      "url": "https://www.yjgalgame.com/gal/princess-princess",
+      "vndbIds": [
+        "v30216"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 3,
+      "endingsCount": 5,
+      "stepsCount": 16
+    },
+    "v30228": {
+      "slug": "amairo-chocolata-2",
+      "url": "https://www.yjgalgame.com/gal/amairo-chocolata-2",
+      "vndbIds": [
+        "v30228"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 1,
+      "endingsCount": 6,
+      "stepsCount": 18
+    },
+    "v30726": {
+      "slug": "ryuusei-world-actor-badge-dagger",
+      "url": "https://www.yjgalgame.com/gal/ryuusei-world-actor-badge-dagger",
+      "vndbIds": [
+        "v30726"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 1,
+      "endingsCount": 2,
+      "stepsCount": 7
+    },
+    "v31002": {
+      "slug": "ore-no-cupid-ga-ponkotsu-sugite-kowa",
+      "url": "https://www.yjgalgame.com/gal/ore-no-cupid-ga-ponkotsu-sugite-kowa",
+      "vndbIds": [
+        "v31002"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 1,
+      "endingsCount": 6,
+      "stepsCount": 62
+    },
+    "v31003": {
+      "slug": "imouto-to-kanojo-sorezore-no-sentaku",
+      "url": "https://www.yjgalgame.com/gal/imouto-to-kanojo-sorezore-no-sentaku",
+      "vndbIds": [
+        "v31003"
+      ],
+      "updatedAt": "2026-07-16",
+      "routesCount": 1,
+      "endingsCount": 3,
+      "stepsCount": 3
+    },
+    "v31125": {
+      "slug": "omoide-kakaete-ai-ni-koi",
+      "url": "https://www.yjgalgame.com/gal/omoide-kakaete-ai-ni-koi",
+      "vndbIds": [
+        "v31125"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 1,
+      "endingsCount": 5,
+      "stepsCount": 362
+    },
+    "v31136": {
+      "slug": "sousaku-kanojo-no-renai-koushiki",
+      "url": "https://www.yjgalgame.com/gal/sousaku-kanojo-no-renai-koushiki",
+      "vndbIds": [
+        "v31136"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 1,
+      "endingsCount": 4,
+      "stepsCount": 10
+    },
+    "v31262": {
+      "slug": "monkeys",
+      "url": "https://www.yjgalgame.com/gal/monkeys",
+      "vndbIds": [
+        "v31262"
+      ],
+      "updatedAt": "2026-07-13",
+      "routesCount": 1,
+      "endingsCount": 4,
+      "stepsCount": 25
+    },
+    "v31427": {
+      "slug": "ever-maiden",
+      "url": "https://www.yjgalgame.com/gal/ever-maiden",
+      "vndbIds": [
+        "v31427"
+      ],
+      "updatedAt": "2026-07-13",
+      "routesCount": 1,
+      "endingsCount": 7,
+      "stepsCount": 55
+    },
+    "v31975": {
+      "slug": "smoky-white",
+      "url": "https://www.yjgalgame.com/gal/smoky-white",
+      "vndbIds": [
+        "v31975"
+      ],
+      "updatedAt": "2026-05-05",
+      "routesCount": 1,
+      "endingsCount": 2,
+      "stepsCount": 12
+    },
+    "v32021": {
+      "slug": "kunado-kokuki",
+      "url": "https://www.yjgalgame.com/gal/kunado-kokuki",
+      "vndbIds": [
+        "v32021"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 1,
+      "endingsCount": 3,
+      "stepsCount": 9
+    },
+    "v32624": {
+      "slug": "study-steady-2",
+      "url": "https://www.yjgalgame.com/gal/study-steady-2",
+      "vndbIds": [
+        "v32624"
+      ],
+      "updatedAt": "2026-07-16",
+      "routesCount": 1,
+      "endingsCount": 5,
+      "stepsCount": 38
+    },
+    "v32757": {
+      "slug": "unless-terminalia",
+      "url": "https://www.yjgalgame.com/gal/unless-terminalia",
+      "vndbIds": [
+        "v32757"
+      ],
+      "updatedAt": "2026-07-15",
+      "routesCount": 1,
+      "endingsCount": 6,
+      "stepsCount": 14
+    },
+    "v32811": {
+      "slug": "futamata-renai",
+      "url": "https://www.yjgalgame.com/gal/futamata-renai",
+      "vndbIds": [
+        "v32811"
+      ],
+      "updatedAt": "2026-07-11",
+      "routesCount": 6,
+      "endingsCount": 6,
+      "stepsCount": 24
+    },
+    "v33036": {
+      "slug": "ambitious-mission",
+      "url": "https://www.yjgalgame.com/gal/ambitious-mission",
+      "vndbIds": [
+        "v33036"
+      ],
+      "updatedAt": "2026-03-04",
+      "routesCount": 2,
+      "endingsCount": 6,
+      "stepsCount": 52
+    },
+    "v33175": {
+      "slug": "jewelry-hearts-academia",
+      "url": "https://www.yjgalgame.com/gal/jewelry-hearts-academia",
+      "vndbIds": [
+        "v33175"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 1,
+      "endingsCount": 5,
+      "stepsCount": 52
+    },
+    "v33494": {
+      "slug": "neko-to-wakai-seyo",
+      "url": "https://www.yjgalgame.com/gal/neko-to-wakai-seyo",
+      "vndbIds": [
+        "v33494"
+      ],
+      "updatedAt": "2026-07-13",
+      "routesCount": 1,
+      "endingsCount": 6,
+      "stepsCount": 31
+    },
+    "v33996": {
+      "slug": "yumahorome",
+      "url": "https://www.yjgalgame.com/gal/yumahorome",
+      "vndbIds": [
+        "v33996"
+      ],
+      "updatedAt": "2026-07-12",
+      "routesCount": 4,
+      "endingsCount": 4,
+      "stepsCount": 19
+    },
+    "v34848": {
+      "slug": "amanatsu",
+      "url": "https://www.yjgalgame.com/gal/amanatsu",
+      "vndbIds": [
+        "v34848"
+      ],
+      "updatedAt": "2026-07-11",
+      "routesCount": 3,
+      "endingsCount": 3,
+      "stepsCount": 12
+    },
+    "v35899": {
+      "slug": "natsu-no-owari",
+      "url": "https://www.yjgalgame.com/gal/natsu-no-owari",
+      "vndbIds": [
+        "v35899"
+      ],
+      "updatedAt": "2026-07-13",
+      "routesCount": 2,
+      "endingsCount": 6,
+      "stepsCount": 59
+    },
+    "v36131": {
+      "slug": "houkago-cinderella-2",
+      "url": "https://www.yjgalgame.com/gal/houkago-cinderella-2",
+      "vndbIds": [
+        "v36131"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 1,
+      "endingsCount": 7,
+      "stepsCount": 507
+    },
+    "v36687": {
+      "slug": "dc5",
+      "url": "https://www.yjgalgame.com/gal/dc5",
+      "vndbIds": [
+        "v36687"
+      ],
+      "updatedAt": "2026-07-15",
+      "routesCount": 1,
+      "endingsCount": 5,
+      "stepsCount": 24
+    },
+    "v37172": {
+      "slug": "sacrifice-villains",
+      "url": "https://www.yjgalgame.com/gal/sacrifice-villains",
+      "vndbIds": [
+        "v37172"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 1,
+      "endingsCount": 10,
+      "stepsCount": 142
+    },
+    "v37651": {
+      "slug": "mashiro-iro-symphony-sana",
+      "url": "https://www.yjgalgame.com/gal/mashiro-iro-symphony-sana",
+      "vndbIds": [
+        "v37651"
+      ],
+      "updatedAt": "2026-05-12",
+      "routesCount": 1,
+      "endingsCount": 1,
+      "stepsCount": 4
+    },
+    "v37716": {
+      "slug": "same-to-ikiru-nanokakan",
+      "url": "https://www.yjgalgame.com/gal/same-to-ikiru-nanokakan",
+      "vndbIds": [
+        "v37716"
+      ],
+      "updatedAt": "2026-07-13",
+      "routesCount": 7,
+      "endingsCount": 13,
+      "stepsCount": 165
+    },
+    "v37808": {
+      "slug": "arcana-alchemia",
+      "url": "https://www.yjgalgame.com/gal/arcana-alchemia",
+      "vndbIds": [
+        "v37808"
+      ],
+      "updatedAt": "2026-07-12",
+      "routesCount": 4,
+      "endingsCount": 4,
+      "stepsCount": 8
+    },
+    "v38037": {
+      "slug": "haison-shoujo",
+      "url": "https://www.yjgalgame.com/gal/haison-shoujo",
+      "vndbIds": [
+        "v38037"
+      ],
+      "updatedAt": "2026-02-27",
+      "routesCount": 9,
+      "endingsCount": 9,
+      "stepsCount": 56
+    },
+    "v38430": {
+      "slug": "ginka",
+      "url": "https://www.yjgalgame.com/gal/ginka",
+      "vndbIds": [
+        "v38430"
+      ],
+      "updatedAt": "2026-02-27",
+      "routesCount": 2,
+      "endingsCount": 6,
+      "stepsCount": 23
+    },
+    "v39649": {
+      "slug": "koi-ni-wa-amae-ga-hitsuyou-desu",
+      "url": "https://www.yjgalgame.com/gal/koi-ni-wa-amae-ga-hitsuyou-desu",
+      "vndbIds": [
+        "v39649"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 1,
+      "endingsCount": 9,
+      "stepsCount": 171
+    },
+    "v40520": {
+      "slug": "tenshi-souzou-re-boot",
+      "url": "https://www.yjgalgame.com/gal/tenshi-souzou-re-boot",
+      "vndbIds": [
+        "v40520"
+      ],
+      "updatedAt": "2026-02-27",
+      "routesCount": 8,
+      "endingsCount": 9,
+      "stepsCount": 75
+    },
+    "v41195": {
+      "slug": "kimagure-temptation-2-yuuyami-kaikit",
+      "url": "https://www.yjgalgame.com/gal/kimagure-temptation-2-yuuyami-kaikit",
+      "vndbIds": [
+        "v41195"
+      ],
+      "updatedAt": "2026-07-12",
+      "routesCount": 1,
+      "endingsCount": 3,
+      "stepsCount": 264
+    },
+    "v44098": {
+      "slug": "ore-no-hitomi-de-maruhadaka",
+      "url": "https://www.yjgalgame.com/gal/ore-no-hitomi-de-maruhadaka",
+      "vndbIds": [
+        "v44098"
+      ],
+      "updatedAt": "2026-03-09",
+      "routesCount": 1,
+      "endingsCount": 8,
+      "stepsCount": 17
+    },
+    "v44173": {
+      "slug": "haruka-ao-no-hanayome-ni",
+      "url": "https://www.yjgalgame.com/gal/haruka-ao-no-hanayome-ni",
+      "vndbIds": [
+        "v44173"
+      ],
+      "updatedAt": "2026-07-12",
+      "routesCount": 4,
+      "endingsCount": 4,
+      "stepsCount": 8
+    },
+    "v44184": {
+      "slug": "bishoujo-mangekyou-ibun-yuki-onna",
+      "url": "https://www.yjgalgame.com/gal/bishoujo-mangekyou-ibun-yuki-onna",
+      "vndbIds": [
+        "v44184"
+      ],
+      "updatedAt": "2026-05-20",
+      "routesCount": 1,
+      "endingsCount": 5,
+      "stepsCount": 20
+    },
+    "v44195": {
+      "slug": "koibana-renai",
+      "url": "https://www.yjgalgame.com/gal/koibana-renai",
+      "vndbIds": [
+        "v44195"
+      ],
+      "updatedAt": "2026-07-11",
+      "routesCount": 4,
+      "endingsCount": 4,
+      "stepsCount": 22
+    },
+    "v45381": {
+      "slug": "neko-nin-exheart-spin",
+      "url": "https://www.yjgalgame.com/gal/neko-nin-exheart-spin",
+      "vndbIds": [
+        "v45381"
+      ],
+      "updatedAt": "2026-05-08",
+      "routesCount": 1,
+      "endingsCount": 2,
+      "stepsCount": 4
+    },
+    "v45481": {
+      "slug": "koishi-irodoru-seigiranman",
+      "url": "https://www.yjgalgame.com/gal/koishi-irodoru-seigiranman",
+      "vndbIds": [
+        "v45481"
+      ],
+      "updatedAt": "2026-07-13",
+      "routesCount": 1,
+      "endingsCount": 5,
+      "stepsCount": 12
+    },
+    "v46116": {
+      "slug": "dc5-future-link",
+      "url": "https://www.yjgalgame.com/gal/dc5-future-link",
+      "vndbIds": [
+        "v46116"
+      ],
+      "updatedAt": "2026-07-15",
+      "routesCount": 1,
+      "endingsCount": 6,
+      "stepsCount": 12
+    },
+    "v47175": {
+      "slug": "select-oblige",
+      "url": "https://www.yjgalgame.com/gal/select-oblige",
+      "vndbIds": [
+        "v47175"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 1,
+      "endingsCount": 4,
+      "stepsCount": 23
+    },
+    "v47458": {
+      "slug": "hajimeru-sekai-no-risouron",
+      "url": "https://www.yjgalgame.com/gal/hajimeru-sekai-no-risouron",
+      "vndbIds": [
+        "v47458"
+      ],
+      "updatedAt": "2026-07-15",
+      "routesCount": 1,
+      "endingsCount": 10,
+      "stepsCount": 27
+    },
+    "v47880": {
+      "slug": "setsuna-ni-kakeru-koi-hanabi",
+      "url": "https://www.yjgalgame.com/gal/setsuna-ni-kakeru-koi-hanabi",
+      "vndbIds": [
+        "v47880"
+      ],
+      "updatedAt": "2026-05-08",
+      "routesCount": 1,
+      "endingsCount": 3,
+      "stepsCount": 8
+    },
+    "v50072": {
+      "slug": "yuukoku-no-femme-fatale",
+      "url": "https://www.yjgalgame.com/gal/yuukoku-no-femme-fatale",
+      "vndbIds": [
+        "v50072"
+      ],
+      "updatedAt": "2026-07-11",
+      "routesCount": 3,
+      "endingsCount": 14,
+      "stepsCount": 85
+    },
+    "v50076": {
+      "slug": "kao-no-nai-tsuki-matsuyoi-no-soutsubaki",
+      "url": "https://www.yjgalgame.com/gal/kao-no-nai-tsuki-matsuyoi-no-soutsubaki",
+      "vndbIds": [
+        "v50076"
+      ],
+      "updatedAt": "2026-07-12",
+      "routesCount": 5,
+      "endingsCount": 17,
+      "stepsCount": 151
+    },
+    "v50416": {
+      "slug": "jewelry-nights-arcadia-the-ends-of-the-world",
+      "url": "https://www.yjgalgame.com/gal/jewelry-nights-arcadia-the-ends-of-the-world",
+      "vndbIds": [
+        "v50416"
+      ],
+      "updatedAt": "2026-02-27",
+      "routesCount": 1,
+      "endingsCount": 2,
+      "stepsCount": 90
+    },
+    "v51477": {
+      "slug": "mugen-no-tir-na-nog",
+      "url": "https://www.yjgalgame.com/gal/mugen-no-tir-na-nog",
+      "vndbIds": [
+        "v51477"
+      ],
+      "updatedAt": "2026-02-27",
+      "routesCount": 5,
+      "endingsCount": 5,
+      "stepsCount": 33
+    },
+    "v51922": {
+      "slug": "lip-lipples",
+      "url": "https://www.yjgalgame.com/gal/lip-lipples",
+      "vndbIds": [
+        "v51922"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 1,
+      "endingsCount": 5,
+      "stepsCount": 42
+    },
+    "v52702": {
+      "slug": "renai-hajimemashite",
+      "url": "https://www.yjgalgame.com/gal/renai-hajimemashite",
+      "vndbIds": [
+        "v52702"
+      ],
+      "updatedAt": "2026-02-27",
+      "routesCount": 7,
+      "endingsCount": 8,
+      "stepsCount": 97
+    },
+    "v52778": {
+      "slug": "kanade",
+      "url": "https://www.yjgalgame.com/gal/kanade",
+      "vndbIds": [
+        "v52778"
+      ],
+      "updatedAt": "2026-02-27",
+      "routesCount": 1,
+      "endingsCount": 3,
+      "stepsCount": 3
+    },
+    "v53486": {
+      "slug": "haison-shoujo-ni-kageri-sasou-hime-no-hako",
+      "url": "https://www.yjgalgame.com/gal/haison-shoujo-ni-kageri-sasou-hime-no-hako",
+      "vndbIds": [
+        "v53486"
+      ],
+      "updatedAt": "2026-02-27",
+      "routesCount": 8,
+      "endingsCount": 8,
+      "stepsCount": 26
+    },
+    "v55892": {
+      "slug": "katanegai",
+      "url": "https://www.yjgalgame.com/gal/katanegai",
+      "vndbIds": [
+        "v55892"
+      ],
+      "updatedAt": "2026-05-06",
+      "routesCount": 1,
+      "endingsCount": 2,
+      "stepsCount": 2
+    },
+    "v56342": {
+      "slug": "kioku-no-kenban",
+      "url": "https://www.yjgalgame.com/gal/kioku-no-kenban",
+      "vndbIds": [
+        "v56342"
+      ],
+      "updatedAt": "2026-05-11",
+      "routesCount": 1,
+      "endingsCount": 3,
+      "stepsCount": 8
+    },
+    "v56343": {
+      "slug": "kugayama-shiori-no-shinizama-techou",
+      "url": "https://www.yjgalgame.com/gal/kugayama-shiori-no-shinizama-techou",
+      "vndbIds": [
+        "v56343"
+      ],
+      "updatedAt": "2026-05-06",
+      "routesCount": 1,
+      "endingsCount": 12,
+      "stepsCount": 186
+    },
+    "v56650": {
+      "slug": "limelight-lemonade-jam",
+      "url": "https://www.yjgalgame.com/gal/limelight-lemonade-jam",
+      "vndbIds": [
+        "v56650"
+      ],
+      "updatedAt": "2026-05-17",
+      "routesCount": 7,
+      "endingsCount": 7,
+      "stepsCount": 57
+    },
+    "v57252": {
+      "slug": "nandome-ka-no-hajimemashite",
+      "url": "https://www.yjgalgame.com/gal/nandome-ka-no-hajimemashite",
+      "vndbIds": [
+        "v57252"
+      ],
+      "updatedAt": "2026-07-12",
+      "routesCount": 1,
+      "endingsCount": 6,
+      "stepsCount": 29
+    },
+    "v57736": {
+      "slug": "kimi-to-koisuru-happy-summer",
+      "url": "https://www.yjgalgame.com/gal/kimi-to-koisuru-happy-summer",
+      "vndbIds": [
+        "v57736"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 1,
+      "endingsCount": 3,
+      "stepsCount": 15
+    },
+    "v57740": {
+      "slug": "crack-trick",
+      "url": "https://www.yjgalgame.com/gal/crack-trick",
+      "vndbIds": [
+        "v57740"
+      ],
+      "updatedAt": "2026-05-08",
+      "routesCount": 1,
+      "endingsCount": 4,
+      "stepsCount": 32
+    },
+    "v60196": {
+      "slug": "ryuusei-world-actor-gaslight-bullet",
+      "url": "https://www.yjgalgame.com/gal/ryuusei-world-actor-gaslight-bullet",
+      "vndbIds": [
+        "v60196"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 1,
+      "endingsCount": 3,
+      "stepsCount": 26
+    },
+    "v60663": {
+      "slug": "dimension-totsu-lovers",
+      "url": "https://www.yjgalgame.com/gal/dimension-totsu-lovers",
+      "vndbIds": [
+        "v60663"
+      ],
+      "updatedAt": "2026-05-08",
+      "routesCount": 1,
+      "endingsCount": 7,
+      "stepsCount": 21
+    },
+    "v61834": {
+      "slug": "relirium-iseki-to-deai-to-bouken-to",
+      "url": "https://www.yjgalgame.com/gal/relirium-iseki-to-deai-to-bouken-to",
+      "vndbIds": [
+        "v61834"
+      ],
+      "updatedAt": "2026-07-15",
+      "routesCount": 1,
+      "endingsCount": 9,
+      "stepsCount": 33
+    },
+    "v62758": {
+      "slug": "tobenai-chou-no-valentine",
+      "url": "https://www.yjgalgame.com/gal/tobenai-chou-no-valentine",
+      "vndbIds": [
+        "v62758"
+      ],
+      "updatedAt": "2026-07-14",
+      "routesCount": 1,
+      "endingsCount": 2,
+      "stepsCount": 14
     }
   }
 }

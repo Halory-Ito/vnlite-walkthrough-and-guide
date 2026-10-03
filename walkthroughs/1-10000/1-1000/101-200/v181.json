@@ -1,0 +1,839 @@
+{
+  "vid": "v181",
+  "name": {
+    "zh-cn": "鎖-くさり-",
+    "ja-jp": "鎖",
+    "ja-Latn": "kusari"
+  },
+  "level": 2,
+  "updatedAt": "2026-04-09",
+  "routes": [
+    {
+      "id": "route_1775723217930",
+      "name": "夜之扉线",
+      "endings": [
+        {
+          "id": "ending_chihaya_normal_1",
+          "name": "香月千早 END 1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_chihaya_001",
+              "type": "choice",
+              "content": "帮忙洗碗"
+            },
+            {
+              "id": "step_chihaya_002",
+              "type": "choice",
+              "content": "去舰桥"
+            },
+            {
+              "id": "step_chihaya_003",
+              "type": "choice",
+              "content": "收下铂金戒指"
+            },
+            {
+              "id": "step_chihaya_004",
+              "type": "choice",
+              "content": "交给千草"
+            },
+            {
+              "id": "step_chihaya_005",
+              "type": "choice",
+              "content": "之后再说"
+            },
+            {
+              "id": "step_chihaya_006",
+              "type": "choice",
+              "content": "随珠美弄吧"
+            },
+            {
+              "id": "step_chihaya_007",
+              "type": "choice",
+              "content": "直接过去"
+            },
+            {
+              "id": "step_chihaya_008",
+              "type": "choice",
+              "content": "在此思考其他方法"
+            },
+            {
+              "id": "step_chihaya_009",
+              "type": "choice",
+              "content": "出击"
+            },
+            {
+              "id": "step_chihaya_010",
+              "type": "choice",
+              "content": "拿着拖把去"
+            },
+            {
+              "id": "step_chihaya_011",
+              "type": "choice",
+              "content": "去找弩弦"
+            },
+            {
+              "id": "step_chihaya_012",
+              "type": "choice",
+              "content": "去找备用弩弦"
+            },
+            {
+              "id": "step_chihaya_013",
+              "type": "choice",
+              "content": "向右转"
+            },
+            {
+              "id": "step_chihaya_014",
+              "type": "choice",
+              "content": "去找笔记"
+            },
+            {
+              "id": "step_chihaya_015",
+              "type": "choice",
+              "content": "看作物件"
+            },
+            {
+              "id": "step_chihaya_016",
+              "type": "choice",
+              "content": "专心回忆"
+            },
+            {
+              "id": "step_chihaya_017",
+              "type": "choice",
+              "content": "先放一放"
+            },
+            {
+              "id": "step_chihaya_018",
+              "type": "choice",
+              "content": "拿走"
+            },
+            {
+              "id": "step_chihaya_019",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_chihaya_020",
+              "type": "choice",
+              "content": "把枪交给明乃"
+            },
+            {
+              "id": "step_chihaya_021",
+              "type": "choice",
+              "content": "天线"
+            },
+            {
+              "id": "step_chihaya_022",
+              "type": "choice",
+              "content": "因为有你在"
+            },
+            {
+              "id": "step_chihaya_023",
+              "type": "choice",
+              "content": "我们去船尾"
+            },
+            {
+              "id": "step_chihaya_024",
+              "type": "note",
+              "content": "千早"
+            },
+            {
+              "id": "step_chihaya_025",
+              "type": "choice",
+              "content": "老实交代"
+            },
+            {
+              "id": "step_chihaya_026",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_chihaya_027",
+              "type": "choice",
+              "content": "回去"
+            },
+            {
+              "id": "step_chihaya_028",
+              "type": "choice",
+              "content": "还是算了"
+            },
+            {
+              "id": "step_chihaya_029",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_chihaya_030",
+              "type": "choice",
+              "content": "还是算了"
+            },
+            {
+              "id": "step_chihaya_031",
+              "type": "choice",
+              "content": "不追了"
+            },
+            {
+              "id": "step_chihaya_032",
+              "type": "choice",
+              "content": "接受条件"
+            }
+          ]
+        },
+        {
+          "id": "ending_chihaya_normal_2",
+          "name": "香月千早 END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_chihaya_033",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_chihaya_034",
+              "type": "choice",
+              "content": "把枪交给千早"
+            },
+            {
+              "id": "step_chihaya_035",
+              "type": "choice",
+              "content": "救生船"
+            },
+            {
+              "id": "step_chihaya_036",
+              "type": "choice",
+              "content": "因为是朋友"
+            },
+            {
+              "id": "step_chihaya_037",
+              "type": "choice",
+              "content": "我们去船首"
+            },
+            {
+              "id": "step_chihaya_038",
+              "type": "note",
+              "content": "明乃"
+            },
+            {
+              "id": "step_chihaya_039",
+              "type": "choice",
+              "content": "再稍微调查一下"
+            },
+            {
+              "id": "step_chihaya_040",
+              "type": "choice",
+              "content": "前往岸田的房间"
+            },
+            {
+              "id": "step_chihaya_041",
+              "type": "choice",
+              "content": "不换"
+            },
+            {
+              "id": "step_chihaya_042",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_chihaya_043",
+              "type": "choice",
+              "content": "去绞车室"
+            },
+            {
+              "id": "step_chihaya_044",
+              "type": "choice",
+              "content": "不出去"
+            }
+          ]
+        },
+        {
+          "id": "ending_akino_happy",
+          "name": "折原明乃 END",
+          "type": "good",
+          "steps": [
+            {
+              "id": "step_akino_001",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_akino_002",
+              "type": "choice",
+              "content": "调查志乃阿姨的笔记本电脑"
+            },
+            {
+              "id": "step_akino_003",
+              "type": "choice",
+              "content": "去船首"
+            }
+          ]
+        },
+        {
+          "id": "ending_megumi_normal_1",
+          "name": "片桐惠 END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_megumi_001",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_megumi_002",
+              "type": "choice",
+              "content": "去岸田的房间"
+            },
+            {
+              "id": "step_megumi_003",
+              "type": "choice",
+              "content": "回到监控室"
+            },
+            {
+              "id": "step_megumi_004",
+              "type": "choice",
+              "content": "对惠……"
+            }
+          ]
+        },
+        {
+          "id": "ending_megumi_normal_2",
+          "name": "片桐惠 END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_megumi_005",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_megumi_006",
+              "type": "choice",
+              "content": "再稍微调查一下"
+            },
+            {
+              "id": "step_megumi_007",
+              "type": "choice",
+              "content": "前往岸田的房间"
+            },
+            {
+              "id": "step_megumi_008",
+              "type": "choice",
+              "content": "换人"
+            },
+            {
+              "id": "step_megumi_009",
+              "type": "choice",
+              "content": "去岸田的房间"
+            },
+            {
+              "id": "step_megumi_010",
+              "type": "save",
+              "content": "SAVE 5"
+            },
+            {
+              "id": "step_megumi_011",
+              "type": "choice",
+              "content": "回到监控室"
+            },
+            {
+              "id": "step_megumi_012",
+              "type": "save",
+              "content": "SAVE 6"
+            },
+            {
+              "id": "step_megumi_013",
+              "type": "choice",
+              "content": "对惠……"
+            }
+          ]
+        },
+        {
+          "id": "ending_megumi_happy_1",
+          "name": "片桐惠 END3",
+          "type": "good",
+          "steps": [
+            {
+              "id": "step_megumi_014",
+              "type": "load",
+              "content": "LOAD 6"
+            },
+            {
+              "id": "step_megumi_015",
+              "type": "choice",
+              "content": "对惠……"
+            },
+            {
+              "id": "step_megumi_016",
+              "type": "choice",
+              "content": "……！？"
+            }
+          ]
+        },
+        {
+          "id": "ending_event_game_over",
+          "name": "BE",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_event_001",
+              "type": "load",
+              "content": "LOAD 5"
+            },
+            {
+              "id": "step_event_002",
+              "type": "choice",
+              "content": "告诉她"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1775723253465",
+      "name": "月之扉线",
+      "endings": [
+        {
+          "id": "ending_megumi_happy_2",
+          "name": "片桐惠 END4",
+          "type": "good",
+          "steps": [
+            {
+              "id": "step_megumi_001_1",
+              "type": "choice",
+              "content": "到处闲逛"
+            },
+            {
+              "id": "step_megumi_002_1",
+              "type": "choice",
+              "content": "去设备间"
+            },
+            {
+              "id": "step_megumi_003_1",
+              "type": "choice",
+              "content": "不收"
+            },
+            {
+              "id": "step_megumi_004_1",
+              "type": "choice",
+              "content": "交给可怜"
+            },
+            {
+              "id": "step_megumi_005_1",
+              "type": "choice",
+              "content": "之后再说"
+            },
+            {
+              "id": "step_megumi_006_1",
+              "type": "choice",
+              "content": "随珠美弄吧"
+            },
+            {
+              "id": "step_megumi_007_1",
+              "type": "choice",
+              "content": "有没有其他办法"
+            },
+            {
+              "id": "step_megumi_008_1",
+              "type": "choice",
+              "content": "随机应变地"
+            },
+            {
+              "id": "step_megumi_009_1",
+              "type": "choice",
+              "content": "其实我对可怜……"
+            },
+            {
+              "id": "step_megumi_010_1",
+              "type": "choice",
+              "content": "逃进浴室"
+            },
+            {
+              "id": "step_megumi_011_1",
+              "type": "save",
+              "content": "SAVE 7"
+            },
+            {
+              "id": "step_megumi_012_1",
+              "type": "choice",
+              "content": "前往甲板"
+            },
+            {
+              "id": "step_megumi_013_1",
+              "type": "choice",
+              "content": "阻止珠美"
+            },
+            {
+              "id": "step_megumi_014_1",
+              "type": "choice",
+              "content": "绞车室"
+            },
+            {
+              "id": "step_megumi_015_1",
+              "type": "choice",
+              "content": "去休息室"
+            },
+            {
+              "id": "step_megumi_016_1",
+              "type": "save",
+              "content": "SAVE 8"
+            },
+            {
+              "id": "step_megumi_017",
+              "type": "choice",
+              "content": "去图书室"
+            },
+            {
+              "id": "step_megumi_018",
+              "type": "choice",
+              "content": "舰桥"
+            },
+            {
+              "id": "step_megumi_019",
+              "type": "choice",
+              "content": "绞车室"
+            },
+            {
+              "id": "step_megumi_020",
+              "type": "choice",
+              "content": "客舱前"
+            },
+            {
+              "id": "step_megumi_021",
+              "type": "choice",
+              "content": "去看看珠美的情况"
+            },
+            {
+              "id": "step_megumi_022",
+              "type": "choice",
+              "content": "不给她"
+            },
+            {
+              "id": "step_megumi_023",
+              "type": "save",
+              "content": "SAVE 9"
+            },
+            {
+              "id": "step_megumi_024",
+              "type": "note",
+              "content": "明乃"
+            },
+            {
+              "id": "step_megumi_025",
+              "type": "choice",
+              "content": "塑料瓶炸弹"
+            },
+            {
+              "id": "step_megumi_026",
+              "type": "choice",
+              "content": "红色"
+            }
+          ]
+        },
+        {
+          "id": "ending_event_game_over_1",
+          "name": "BE",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_event_001_1",
+              "type": "load",
+              "content": "LOAD 8"
+            },
+            {
+              "id": "step_event_002_1",
+              "type": "choice",
+              "content": "去甲板"
+            },
+            {
+              "id": "step_event_003",
+              "type": "choice",
+              "content": "进入散步走廊"
+            },
+            {
+              "id": "step_event_004",
+              "type": "choice",
+              "content": "舰桥"
+            },
+            {
+              "id": "step_event_005",
+              "type": "choice",
+              "content": "绞车室"
+            },
+            {
+              "id": "step_event_006",
+              "type": "choice",
+              "content": "客舱前"
+            },
+            {
+              "id": "step_event_007",
+              "type": "choice",
+              "content": "不去了"
+            },
+            {
+              "id": "step_event_008",
+              "type": "note",
+              "content": "明乃"
+            },
+            {
+              "id": "step_event_009",
+              "type": "choice",
+              "content": "塑料瓶炸弹"
+            },
+            {
+              "id": "step_event_010",
+              "type": "choice",
+              "content": "红色"
+            }
+          ]
+        },
+        {
+          "id": "ending_tamami_extra",
+          "name": "绫之部珠美 END",
+          "type": "good",
+          "steps": [
+            {
+              "id": "step_tamami_001",
+              "type": "load",
+              "content": "LOAD 7"
+            },
+            {
+              "id": "step_tamami_002",
+              "type": "choice",
+              "content": "从下层找过去吧"
+            },
+            {
+              "id": "step_tamami_003",
+              "type": "save",
+              "content": "SAVE 10"
+            },
+            {
+              "id": "step_tamami_004",
+              "type": "choice",
+              "content": "和珠美一起行动"
+            },
+            {
+              "id": "step_tamami_005",
+              "type": "choice",
+              "content": "绞车室"
+            },
+            {
+              "id": "step_tamami_006",
+              "type": "choice",
+              "content": "去甲板"
+            },
+            {
+              "id": "step_tamami_007",
+              "type": "choice",
+              "content": "就此调查"
+            },
+            {
+              "id": "step_tamami_008",
+              "type": "choice",
+              "content": "去图书室"
+            },
+            {
+              "id": "step_tamami_009",
+              "type": "choice",
+              "content": "大浴场"
+            },
+            {
+              "id": "step_tamami_010",
+              "type": "choice",
+              "content": "绞车室"
+            },
+            {
+              "id": "step_tamami_011",
+              "type": "choice",
+              "content": "客舱前"
+            },
+            {
+              "id": "step_tamami_012",
+              "type": "choice",
+              "content": "去看看珠美的情况"
+            },
+            {
+              "id": "step_tamami_013",
+              "type": "choice",
+              "content": "给她"
+            },
+            {
+              "id": "step_tamami_014",
+              "type": "save",
+              "content": "SAVE 11"
+            },
+            {
+              "id": "step_tamami_015",
+              "type": "note",
+              "content": "惠"
+            },
+            {
+              "id": "step_tamami_016",
+              "type": "choice",
+              "content": "塑料瓶炸弹"
+            },
+            {
+              "id": "step_tamami_017",
+              "type": "choice",
+              "content": "红色"
+            },
+            {
+              "id": "step_tamami_018",
+              "type": "save",
+              "content": "SAVE 12"
+            },
+            {
+              "id": "step_tamami_019",
+              "type": "choice",
+              "content": "讯问友则"
+            },
+            {
+              "id": "step_tamami_020",
+              "type": "choice",
+              "content": "不带友则"
+            },
+            {
+              "id": "step_tamami_021",
+              "type": "choice",
+              "content": "继续观察情况"
+            }
+          ]
+        },
+        {
+          "id": "ending_cg_game_over_1",
+          "name": "BE2",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_cg_001",
+              "type": "load",
+              "content": "LOAD 10"
+            },
+            {
+              "id": "step_cg_002",
+              "type": "choice",
+              "content": "分头行动"
+            }
+          ]
+        },
+        {
+          "id": "ending_event_note_2",
+          "name": "事件补完 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_event2_001",
+              "type": "load",
+              "content": "LOAD 11"
+            },
+            {
+              "id": "step_event2_002",
+              "type": "note",
+              "content": "明乃"
+            },
+            {
+              "id": "step_event2_003",
+              "type": "choice",
+              "content": "塑料瓶炸弹"
+            },
+            {
+              "id": "step_event2_004",
+              "type": "choice",
+              "content": "红色"
+            },
+            {
+              "id": "step_event2_005",
+              "type": "note",
+              "content": "到惠的大浴场事件结束为止"
+            }
+          ]
+        },
+        {
+          "id": "ending_karen_happy",
+          "name": "绫之部可怜 END",
+          "type": "good",
+          "steps": [
+            {
+              "id": "step_karen_001",
+              "type": "load",
+              "content": "LOAD 12"
+            },
+            {
+              "id": "step_karen_002",
+              "type": "choice",
+              "content": "去找明乃"
+            },
+            {
+              "id": "step_karen_003",
+              "type": "choice",
+              "content": "带上友则"
+            },
+            {
+              "id": "step_karen_004",
+              "type": "save",
+              "content": "SAVE 13"
+            },
+            {
+              "id": "step_karen_005",
+              "type": "choice",
+              "content": "往船首方向"
+            }
+          ]
+        },
+        {
+          "id": "ending_cg_game_over_2",
+          "name": "BE3",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_cg2_001",
+              "type": "load",
+              "content": "LOAD 9"
+            },
+            {
+              "id": "step_cg2_002",
+              "type": "note",
+              "content": "惠"
+            },
+            {
+              "id": "step_cg2_003",
+              "type": "choice",
+              "content": "塑料瓶炸弹"
+            },
+            {
+              "id": "step_cg2_004",
+              "type": "choice",
+              "content": "红色"
+            },
+            {
+              "id": "step_cg2_005",
+              "type": "choice",
+              "content": "讯问友则"
+            },
+            {
+              "id": "step_cg2_006",
+              "type": "choice",
+              "content": "带上友则"
+            }
+          ]
+        },
+        {
+          "id": "ending_cg_game_over_3",
+          "name": "BE4",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_cg2_007",
+              "type": "load",
+              "content": "LOAD 13"
+            },
+            {
+              "id": "step_cg2_008",
+              "type": "choice",
+              "content": "往船尾方向"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

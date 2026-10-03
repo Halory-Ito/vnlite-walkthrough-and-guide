@@ -1,0 +1,420 @@
+{
+  "vid": "v12476",
+  "name": {
+    "zh-cn": "卡卢玛卢卡＊同好会",
+    "ja-jp": "カルマルカ＊サークル",
+    "ja-Latn": "karumaruka-circle"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-14",
+  "routes": [
+    {
+      "id": "route_1773027705763",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1773027726872",
+          "name": "天之濑 奈月 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1773027754262",
+              "type": "save",
+              "content": "SAVE 1",
+              "group": "7月2日"
+            },
+            {
+              "id": "step_1773027754417",
+              "type": "choice",
+              "content": "和天之濑去天文台",
+              "group": "7月2日"
+            },
+            {
+              "id": "step_1773027754579",
+              "type": "choice",
+              "content": "和高坂先辈说话",
+              "group": "7月6日"
+            },
+            {
+              "id": "step_1773027847343",
+              "type": "choice",
+              "content": "和妮可露一起休息",
+              "group": "7月7日"
+            },
+            {
+              "id": "step_1773027847808",
+              "type": "choice",
+              "content": "地图：天之濑 奈月",
+              "group": "7月9日"
+            },
+            {
+              "id": "step_1773027847980",
+              "type": "choice",
+              "content": "地图：朝比奈 晴",
+              "group": "7月10日"
+            },
+            {
+              "id": "step_1773027874717",
+              "type": "choice",
+              "content": "地图：天之濑 奈月",
+              "group": "7月11日"
+            },
+            {
+              "id": "step_1773027874866",
+              "type": "choice",
+              "content": "地图：夏目 历",
+              "group": "7月12日"
+            },
+            {
+              "id": "step_1773027875012",
+              "type": "choice",
+              "content": "地图：天之濑 奈月",
+              "group": "7月13日"
+            },
+            {
+              "id": "step_1773027875159",
+              "type": "choice",
+              "content": "地图：天之濑 奈月",
+              "group": "7月14日"
+            }
+          ]
+        },
+        {
+          "id": "ending_1773027940646",
+          "name": "朝比奈 晴 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1773027959050",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1773027964621",
+              "type": "choice",
+              "content": "和朝比奈、妮可露转转维修店",
+              "group": "7月2日"
+            },
+            {
+              "id": "step_1773027969408",
+              "type": "choice",
+              "content": "和朝比奈说话",
+              "group": "7月6日"
+            },
+            {
+              "id": "step_1773027969571",
+              "type": "choice",
+              "content": "和妮可露一起休息",
+              "group": "7月7日"
+            },
+            {
+              "id": "step_1773027969728",
+              "type": "choice",
+              "content": "地图：乙音 妮可露",
+              "group": "7月9日"
+            },
+            {
+              "id": "step_1773027987962",
+              "type": "save",
+              "content": "SAVE 2",
+              "group": "7月10日"
+            },
+            {
+              "id": "step_1773027971266",
+              "type": "choice",
+              "content": "地图：朝比奈 晴",
+              "group": "7月10日"
+            },
+            {
+              "id": "step_1773027971437",
+              "type": "choice",
+              "content": "地图：朝比奈 晴",
+              "group": "7月11日"
+            },
+            {
+              "id": "step_1773027971559",
+              "type": "choice",
+              "content": "地图：朝比奈 晴",
+              "group": "7月12日"
+            },
+            {
+              "id": "step_1773028012379",
+              "type": "save",
+              "content": "SAVE 3",
+              "group": "7月17日"
+            },
+            {
+              "id": "step_1773028013226",
+              "type": "choice",
+              "content": "去",
+              "group": "7月17日"
+            }
+          ]
+        },
+        {
+          "id": "ending_1773028093967",
+          "name": "乙音 妮可露 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1773028106641",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1773028108865",
+              "type": "choice",
+              "content": "地图：乙音 妮可露",
+              "group": "7月10日"
+            },
+            {
+              "id": "step_1773028109047",
+              "type": "choice",
+              "content": "地图：乙音 妮可露",
+              "group": "7月11日"
+            },
+            {
+              "id": "step_1773028109144",
+              "type": "choice",
+              "content": "地图：天之濑 奈月",
+              "group": "7月12日"
+            },
+            {
+              "id": "step_1773028109450",
+              "type": "choice",
+              "content": "地图：乙音 妮可露",
+              "group": "7月13日"
+            },
+            {
+              "id": "step_1773028294534",
+              "type": "save",
+              "content": "SAVE 4",
+              "group": "7月13日"
+            },
+            {
+              "id": "step_1773028306586",
+              "type": "choice",
+              "content": "展现一下男子气概",
+              "group": "7月13日"
+            },
+            {
+              "id": "step_1773028306769",
+              "type": "choice",
+              "content": "用夸张的行动蒙混过去",
+              "group": "7月16日"
+            }
+          ]
+        },
+        {
+          "id": "ending_1773028094135",
+          "name": "妮可露路线 CG 回收",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1773028530562",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_1773028534420",
+              "type": "choice",
+              "content": "不能太纵容她"
+            },
+            {
+              "id": "step_1773028534607",
+              "type": "save",
+              "content": "SAVE 5"
+            },
+            {
+              "id": "step_1773034061377",
+              "type": "choice",
+              "content": "稍微纵容一下她吧"
+            },
+            {
+              "id": "step_1773034061547",
+              "type": "choice",
+              "content": "用夸张的行动蒙混过去"
+            },
+            {
+              "id": "step_1773034092121",
+              "type": "note",
+              "content": "快进至 8月10日 回收CG"
+            },
+            {
+              "id": "step_1773034100109",
+              "type": "load",
+              "content": "LOAD 5"
+            },
+            {
+              "id": "step_1773034108212",
+              "type": "choice",
+              "content": "让她见识一下人世间的残酷吧"
+            },
+            {
+              "id": "step_1773034108525",
+              "type": "choice",
+              "content": "紧急逃离此地"
+            },
+            {
+              "id": "step_1773034115850",
+              "type": "note",
+              "content": "快进至 8月10日 回收CG"
+            }
+          ]
+        },
+        {
+          "id": "ending_1773034120932",
+          "name": "夏目 历 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1773034135491",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1773034137262",
+              "type": "choice",
+              "content": "和会长一起打电话",
+              "group": "7月2日"
+            },
+            {
+              "id": "step_1773034137418",
+              "type": "choice",
+              "content": "和高坂先辈说话",
+              "group": "7月7日"
+            },
+            {
+              "id": "step_1773034137573",
+              "type": "choice",
+              "content": "和会长一起休息",
+              "group": "7月6日"
+            },
+            {
+              "id": "step_1773034137722",
+              "type": "choice",
+              "content": "地图：夏目 历",
+              "group": "7月9日"
+            },
+            {
+              "id": "step_1773034137891",
+              "type": "choice",
+              "content": "地图：夏目 历",
+              "group": "7月10日"
+            },
+            {
+              "id": "step_1773034138016",
+              "type": "choice",
+              "content": "地图：天之濑 奈月",
+              "group": "7月11日"
+            },
+            {
+              "id": "step_1773034138172",
+              "type": "choice",
+              "content": "地图：夏目 历",
+              "group": "7月12日"
+            },
+            {
+              "id": "step_1773034159771",
+              "type": "choice",
+              "content": "地图：乙音 妮可露",
+              "group": "7月13日"
+            },
+            {
+              "id": "step_1773034159901",
+              "type": "choice",
+              "content": "地图：朝比奈 晴",
+              "group": "7月14日"
+            },
+            {
+              "id": "step_1773034160077",
+              "type": "choice",
+              "content": "地图：夏目 历",
+              "group": "7月15日"
+            },
+            {
+              "id": "step_1773034173102",
+              "type": "save",
+              "content": "SAVE 6",
+              "group": "7月17日"
+            },
+            {
+              "id": "step_1773034173277",
+              "type": "choice",
+              "content": "和会长一起",
+              "group": "7月17日"
+            },
+            {
+              "id": "step_1773034188932",
+              "type": "choice",
+              "content": "留下",
+              "group": "7月17日"
+            }
+          ]
+        },
+        {
+          "id": "ending_1773034297939",
+          "name": "高坂 夕姫羽 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1773034309231",
+              "type": "load",
+              "content": "LOAD 6"
+            },
+            {
+              "id": "step_1773034312716",
+              "type": "choice",
+              "content": "和前辈一起回家",
+              "group": "7月17日"
+            }
+          ]
+        },
+        {
+          "id": "ending_1773034330042",
+          "name": "成海 杏 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1773034338131",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1773034338581",
+              "type": "choice",
+              "content": "不去",
+              "group": "7月17日"
+            }
+          ]
+        },
+        {
+          "id": "ending_1773034353823",
+          "name": "天之濑 奈月 END",
+          "type": "true",
+          "requirements": "通关上述5位主要女主角（奈月、晴、妮可露、历、夕姫羽）结局后从序章重新开始游戏",
+          "steps": [
+            {
+              "id": "step_1773034421371",
+              "type": "choice",
+              "content": "和高坂先辈说话",
+              "group": "7月6日"
+            },
+            {
+              "id": "step_1773034421541",
+              "type": "choice",
+              "content": "和天之濑一起去",
+              "group": "7月7日"
+            },
+            {
+              "id": "step_1773034421689",
+              "type": "choice",
+              "content": "和会长一起休息",
+              "group": "7月7日"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

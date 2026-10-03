@@ -1,0 +1,119 @@
+{
+  "vid": "v28130",
+  "name": {
+    "zh-cn": "猫附，樱舞",
+    "ja-jp": "ねこツク、さくら。",
+    "ja-Latn": "nekotsuku-sakura"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-12",
+  "routes": [
+    {
+      "id": "route_1756369903801",
+      "name": "穂高 文乃",
+      "endings": [
+        {
+          "id": "ending_1756369985988",
+          "name": "文乃 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756370044694",
+              "type": "choice",
+              "content": "不入虎穴焉得虎子"
+            },
+            {
+              "id": "step_1756370045515",
+              "type": "choice",
+              "content": "追逐"
+            },
+            {
+              "id": "step_1756370045981",
+              "type": "choice",
+              "content": "停止"
+            },
+            {
+              "id": "step_1756370050082",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1756370052845",
+              "type": "choice",
+              "content": "文乃"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756369926891",
+      "name": "久慈 恋花",
+      "endings": [
+        {
+          "id": "ending_1756370155585",
+          "name": "恋花 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756370166911",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1756370167952",
+              "type": "choice",
+              "content": "恋花"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756369935117",
+      "name": "ツキ（月）",
+      "endings": [
+        {
+          "id": "ending_1756370186572",
+          "name": "月 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756370203804",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1756370204788",
+              "type": "choice",
+              "content": "月"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756369944174",
+      "name": "上路 弥生",
+      "endings": [
+        {
+          "id": "ending_1756370226270",
+          "name": "弥生 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756370234178",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1756370235731",
+              "type": "choice",
+              "content": "弥生"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

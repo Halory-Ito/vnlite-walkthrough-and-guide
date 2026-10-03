@@ -1,0 +1,1593 @@
+{
+  "vid": "v24935",
+  "name": {
+    "zh-cn": "美好的回乡生活",
+    "en-us": "Home Sweet Homecoming",
+    "ja-jp": "Ｅスクールライフ",
+    "ja-Latn": "e-school-life"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-14",
+  "tips": [
+    "★表示Stand Talk发生时所在位置，■表示女主选择，※标识女主情报取得信息",
+    "通过Stand Talk收集情报后，会导致后续的女主选择中的事件文字产生相应变化。情报收集不全的话，部分选项将不会出现，角色资料将无法获得更新",
+    "3次Stand Talk全部完成后，会自动进入角色选择环节。由于每次都观看全部会话的话，会非常繁琐，所以可以在搜集到当前攻略女主的情报后，就选择结束，切换到女主角选择界面",
+    "H场景中的衣着设定可在 Configure界面中进行配置。其中的差别会由系统自动进行回收"
+  ],
+  "routes": [
+    {
+      "id": "route_garden_walkthrough",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_eimi_end",
+          "name": "花园 瑛美 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_eimi_01",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_eimi_02",
+              "type": "choice",
+              "content": "和以往同一个时间睡│瑛美"
+            },
+            {
+              "id": "step_eimi_03",
+              "type": "choice",
+              "content": "Stand Talk《教室》",
+              "prefix": "★"
+            },
+            {
+              "id": "step_eimi_04",
+              "type": "choice",
+              "content": "右二※情报：鸟丸裕香"
+            },
+            {
+              "id": "step_eimi_05",
+              "type": "choice",
+              "content": "左二※情报：东金望爱"
+            },
+            {
+              "id": "step_eimi_06",
+              "type": "choice",
+              "content": "去走廊"
+            },
+            {
+              "id": "step_eimi_07",
+              "type": "choice",
+              "content": "Stand Talk《走廊》",
+              "prefix": "★"
+            },
+            {
+              "id": "step_eimi_08",
+              "type": "choice",
+              "content": "右一※情報：阵内莉佳子"
+            },
+            {
+              "id": "step_eimi_09",
+              "type": "choice",
+              "content": "右二※情報：吉村凛"
+            },
+            {
+              "id": "step_eimi_10",
+              "type": "choice",
+              "content": "左二※情報：铃山美里"
+            },
+            {
+              "id": "step_eimi_11",
+              "type": "choice",
+              "content": "去学生食堂"
+            },
+            {
+              "id": "step_eimi_12",
+              "type": "choice",
+              "content": "Stand Talk《学生食堂》",
+              "prefix": "★"
+            },
+            {
+              "id": "step_eimi_13",
+              "type": "choice",
+              "content": "左二※情報：狭山恵梨奈"
+            },
+            {
+              "id": "step_eimi_14",
+              "type": "choice",
+              "content": "右二※情報：花园瑛美"
+            },
+            {
+              "id": "step_eimi_15",
+              "type": "choice",
+              "content": "结束"
+            },
+            {
+              "id": "step_eimi_16",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_eimi_17",
+              "type": "choice",
+              "content": "■花园瑛美│学园前的路"
+            },
+            {
+              "id": "step_eimi_18",
+              "type": "choice",
+              "content": "去搭个话吧（算了）"
+            },
+            {
+              "id": "step_eimi_19",
+              "type": "choice",
+              "content": "和以往同一个时间睡│凛"
+            },
+            {
+              "id": "step_eimi_20",
+              "type": "choice",
+              "content": "Stand Talk《教室》",
+              "prefix": "★"
+            },
+            {
+              "id": "step_eimi_21",
+              "type": "choice",
+              "content": "去走廊"
+            },
+            {
+              "id": "step_eimi_22",
+              "type": "choice",
+              "content": "Stand Talk《走廊》",
+              "prefix": "★"
+            },
+            {
+              "id": "step_eimi_23",
+              "type": "choice",
+              "content": "右二※情报：花园瑛美"
+            },
+            {
+              "id": "step_eimi_24",
+              "type": "choice",
+              "content": "结束"
+            },
+            {
+              "id": "step_eimi_25",
+              "type": "choice",
+              "content": "■花园瑛美│鞋柜"
+            },
+            {
+              "id": "step_eimi_26",
+              "type": "choice",
+              "content": "那个电视剧很有名呢（这样啊）"
+            },
+            {
+              "id": "step_eimi_27",
+              "type": "choice",
+              "content": "实在不行坐巴士去就好了│瑛美"
+            },
+            {
+              "id": "step_eimi_28",
+              "type": "choice",
+              "content": "Stand Talk《教室》",
+              "prefix": "★"
+            },
+            {
+              "id": "step_eimi_29",
+              "type": "choice",
+              "content": "去楼顶"
+            },
+            {
+              "id": "step_eimi_30",
+              "type": "choice",
+              "content": "Stand Talk《屋上》",
+              "prefix": "★"
+            },
+            {
+              "id": "step_eimi_31",
+              "type": "choice",
+              "content": "右二※情报：花园瑛美"
+            },
+            {
+              "id": "step_eimi_32",
+              "type": "choice",
+              "content": "结束"
+            },
+            {
+              "id": "step_eimi_33",
+              "type": "choice",
+              "content": "■花园瑛美│走廊"
+            },
+            {
+              "id": "step_eimi_34",
+              "type": "choice",
+              "content": "稍微熬会儿夜│瑛美"
+            },
+            {
+              "id": "step_eimi_35",
+              "type": "choice",
+              "content": "Stand Talk《教室》",
+              "prefix": "★"
+            },
+            {
+              "id": "step_eimi_36",
+              "type": "choice",
+              "content": "右一※情报：花园瑛美"
+            },
+            {
+              "id": "step_eimi_37",
+              "type": "choice",
+              "content": "结束"
+            },
+            {
+              "id": "step_eimi_38",
+              "type": "choice",
+              "content": "■花园瑛美│鞋柜"
+            },
+            {
+              "id": "step_eimi_39",
+              "type": "choice",
+              "content": "询问『传闻男友』一事（还是算了）"
+            },
+            {
+              "id": "step_eimi_40",
+              "type": "choice",
+              "content": "努力试着入眠│瑛美"
+            },
+            {
+              "id": "step_eimi_41",
+              "type": "choice",
+              "content": "■花园瑛美"
+            },
+            {
+              "id": "step_eimi_42",
+              "type": "choice",
+              "content": "为了不破坏生物钟还是老时间睡│瑛美"
+            },
+            {
+              "id": "step_eimi_43",
+              "type": "choice",
+              "content": "Stand Talk《教室》",
+              "prefix": "★"
+            },
+            {
+              "id": "step_eimi_44",
+              "type": "choice",
+              "content": "去学生食堂"
+            },
+            {
+              "id": "step_eimi_45",
+              "type": "choice",
+              "content": "Stand Talk《学生食堂》",
+              "prefix": "★"
+            },
+            {
+              "id": "step_eimi_46",
+              "type": "choice",
+              "content": "左一※情报：花园瑛美"
+            },
+            {
+              "id": "step_eimi_47",
+              "type": "choice",
+              "content": "结束"
+            },
+            {
+              "id": "step_eimi_48",
+              "type": "choice",
+              "content": "■花园瑛美│走廊"
+            }
+          ]
+        },
+        {
+          "id": "ending_noa_end",
+          "name": "东金 望爱 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_noa_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_noa_02",
+              "type": "choice",
+              "content": "还是早点睡吧│望爱"
+            },
+            {
+              "id": "step_noa_03",
+              "type": "choice",
+              "content": "Stand Talk《教室》",
+              "prefix": "★"
+            },
+            {
+              "id": "step_noa_04",
+              "type": "choice",
+              "content": "左二※情报：东金望爱"
+            },
+            {
+              "id": "step_noa_05",
+              "type": "choice",
+              "content": "结束"
+            },
+            {
+              "id": "step_noa_06",
+              "type": "choice",
+              "content": "■东金望爱│图书室"
+            },
+            {
+              "id": "step_noa_07",
+              "type": "choice",
+              "content": "在租借台前寻找（向里面寻找）"
+            },
+            {
+              "id": "step_noa_08",
+              "type": "choice",
+              "content": "早睡│裕香"
+            },
+            {
+              "id": "step_noa_09",
+              "type": "choice",
+              "content": "Stand Talk《教室》",
+              "prefix": "★"
+            },
+            {
+              "id": "step_noa_10",
+              "type": "choice",
+              "content": "去走廊"
+            },
+            {
+              "id": "step_noa_11",
+              "type": "choice",
+              "content": "Stand Talk《走廊》",
+              "prefix": "★"
+            },
+            {
+              "id": "step_noa_12",
+              "type": "choice",
+              "content": "右一※情报：东金望爱"
+            },
+            {
+              "id": "step_noa_13",
+              "type": "choice",
+              "content": "结束"
+            },
+            {
+              "id": "step_noa_14",
+              "type": "choice",
+              "content": "■东金望爱│教室"
+            },
+            {
+              "id": "step_noa_15",
+              "type": "choice",
+              "content": "问问小说的事情（还是算了）"
+            },
+            {
+              "id": "step_noa_16",
+              "type": "choice",
+              "content": "跟平时一样的时间出发总会有办法的│望爱"
+            },
+            {
+              "id": "step_noa_17",
+              "type": "choice",
+              "content": "Stand Talk《教室》",
+              "prefix": "★"
+            },
+            {
+              "id": "step_noa_18",
+              "type": "choice",
+              "content": "去走廊"
+            },
+            {
+              "id": "step_noa_19",
+              "type": "choice",
+              "content": "Stand Talk《走廊》",
+              "prefix": "★"
+            },
+            {
+              "id": "step_noa_20",
+              "type": "choice",
+              "content": "左一※情报：东金望爱"
+            },
+            {
+              "id": "step_noa_21",
+              "type": "choice",
+              "content": "结束"
+            },
+            {
+              "id": "step_noa_22",
+              "type": "choice",
+              "content": "■东金望爱│鞋柜"
+            },
+            {
+              "id": "step_noa_23",
+              "type": "choice",
+              "content": "即便起来了也没有什么可做的，还是早点睡吧│恵梨奈"
+            },
+            {
+              "id": "step_noa_24",
+              "type": "choice",
+              "content": "Stand Talk《教室》",
+              "prefix": "★"
+            },
+            {
+              "id": "step_noa_25",
+              "type": "choice",
+              "content": "去走廊"
+            },
+            {
+              "id": "step_noa_26",
+              "type": "choice",
+              "content": "Stand Talk《廊下》",
+              "prefix": "★"
+            },
+            {
+              "id": "step_noa_27",
+              "type": "choice",
+              "content": "右二※情报：东金望爱"
+            },
+            {
+              "id": "step_noa_28",
+              "type": "choice",
+              "content": "结束"
+            },
+            {
+              "id": "step_noa_29",
+              "type": "choice",
+              "content": "■东金望爱│教室"
+            },
+            {
+              "id": "step_noa_30",
+              "type": "choice",
+              "content": "打探『刺激的恋爱』一事（还是算了）"
+            },
+            {
+              "id": "step_noa_31",
+              "type": "choice",
+              "content": "努力试着入眠│瑛美"
+            },
+            {
+              "id": "step_noa_32",
+              "type": "choice",
+              "content": "■东金望爱"
+            },
+            {
+              "id": "step_noa_33",
+              "type": "choice",
+              "content": "稍微晚睡一会儿│望爱"
+            },
+            {
+              "id": "step_noa_34",
+              "type": "choice",
+              "content": "Stand Talk《教室》",
+              "prefix": "★"
+            },
+            {
+              "id": "step_noa_35",
+              "type": "choice",
+              "content": "左二※情报：东金望爱"
+            },
+            {
+              "id": "step_noa_36",
+              "type": "choice",
+              "content": "结束"
+            },
+            {
+              "id": "step_noa_37",
+              "type": "choice",
+              "content": "■东金望爱│图书室"
+            }
+          ]
+        },
+        {
+          "id": "ending_rikako_end",
+          "name": "阵内 莉佳子 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_rikako_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_rikako_02",
+              "type": "choice",
+              "content": "■阵内莉佳子│操场"
+            },
+            {
+              "id": "step_rikako_03",
+              "type": "choice",
+              "content": "寻找阵内同学（还是算了）"
+            },
+            {
+              "id": "step_rikako_04",
+              "type": "choice",
+              "content": "稍微熬会儿夜│莉佳子"
+            },
+            {
+              "id": "step_rikako_05",
+              "type": "choice",
+              "content": "Stand Talk《教室》",
+              "prefix": "★"
+            },
+            {
+              "id": "step_rikako_06",
+              "type": "choice",
+              "content": "左二※情报：阵内莉佳子"
+            },
+            {
+              "id": "step_rikako_07",
+              "type": "choice",
+              "content": "结束"
+            },
+            {
+              "id": "step_rikako_08",
+              "type": "choice",
+              "content": "上楼"
+            },
+            {
+              "id": "step_rikako_09",
+              "type": "choice",
+              "content": "■阵内莉佳子│楼顶"
+            },
+            {
+              "id": "step_rikako_10",
+              "type": "choice",
+              "content": "听一下培根蛋面的事情（放弃）"
+            },
+            {
+              "id": "step_rikako_11",
+              "type": "choice",
+              "content": "为明天做准备早些睡觉│莉佳子"
+            },
+            {
+              "id": "step_rikako_12",
+              "type": "choice",
+              "content": "Stand Talk《教室》",
+              "prefix": "★"
+            },
+            {
+              "id": "step_rikako_13",
+              "type": "choice",
+              "content": "左一※情报：阵内莉佳子"
+            },
+            {
+              "id": "step_rikako_14",
+              "type": "choice",
+              "content": "结束"
+            },
+            {
+              "id": "step_rikako_15",
+              "type": "choice",
+              "content": "■阵内莉佳子│图书室"
+            },
+            {
+              "id": "step_rikako_16",
+              "type": "choice",
+              "content": "即使是起来了也没有什么可做的，还是趁早睡吧│恵梨奈"
+            },
+            {
+              "id": "step_rikako_17",
+              "type": "choice",
+              "content": "Stand Talk《教室》",
+              "prefix": "★"
+            },
+            {
+              "id": "step_rikako_18",
+              "type": "choice",
+              "content": "右二※情报：阵内莉佳子"
+            },
+            {
+              "id": "step_rikako_19",
+              "type": "choice",
+              "content": "结束"
+            },
+            {
+              "id": "step_rikako_20",
+              "type": "choice",
+              "content": "■阵内莉佳子│走廊"
+            },
+            {
+              "id": "step_rikako_21",
+              "type": "choice",
+              "content": "视线转移到欧派上（还是算了）"
+            },
+            {
+              "id": "step_rikako_22",
+              "type": "choice",
+              "content": "稍微做点运动和平时一个时间睡觉│莉佳子"
+            },
+            {
+              "id": "step_rikako_23",
+              "type": "choice",
+              "content": "■阵内莉佳子"
+            },
+            {
+              "id": "step_rikako_24",
+              "type": "choice",
+              "content": "无法反抗睡意赶紧睡了│莉佳子"
+            },
+            {
+              "id": "step_rikako_25",
+              "type": "choice",
+              "content": "Stand Talk《教室》",
+              "prefix": "★"
+            },
+            {
+              "id": "step_rikako_26",
+              "type": "choice",
+              "content": "右一※情报：阵内莉佳子"
+            },
+            {
+              "id": "step_rikako_27",
+              "type": "choice",
+              "content": "结束"
+            },
+            {
+              "id": "step_rikako_28",
+              "type": "choice",
+              "content": "■阵内莉佳子│操场"
+            }
+          ]
+        },
+        {
+          "id": "ending_misato_end",
+          "name": "铃山 美里 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_misato_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_misato_02",
+              "type": "choice",
+              "content": "稍微熬会夜│美里"
+            },
+            {
+              "id": "step_misato_03",
+              "type": "choice",
+              "content": "Stand Talk《教室》",
+              "prefix": "★"
+            },
+            {
+              "id": "step_misato_04",
+              "type": "choice",
+              "content": "去走廊"
+            },
+            {
+              "id": "step_misato_05",
+              "type": "choice",
+              "content": "Stand Talk《走廊》",
+              "prefix": "★"
+            },
+            {
+              "id": "step_misato_06",
+              "type": "choice",
+              "content": "左二※情报：铃山美里"
+            },
+            {
+              "id": "step_misato_07",
+              "type": "choice",
+              "content": "结束"
+            },
+            {
+              "id": "step_misato_08",
+              "type": "choice",
+              "content": "上楼"
+            },
+            {
+              "id": "step_misato_09",
+              "type": "choice",
+              "content": "■鈴山美里│化学室"
+            },
+            {
+              "id": "step_misato_10",
+              "type": "choice",
+              "content": "想起了前辈的传闻（算了）"
+            },
+            {
+              "id": "step_misato_11",
+              "type": "choice",
+              "content": "和以往同一个时间睡│凛"
+            },
+            {
+              "id": "step_misato_12",
+              "type": "choice",
+              "content": "Stand Talk《教室》",
+              "prefix": "★"
+            },
+            {
+              "id": "step_misato_13",
+              "type": "choice",
+              "content": "去学生食堂"
+            },
+            {
+              "id": "step_misato_14",
+              "type": "choice",
+              "content": "Stand Talk《学生食堂》",
+              "prefix": "★"
+            },
+            {
+              "id": "step_misato_15",
+              "type": "choice",
+              "content": "左二※情报：铃山美里"
+            },
+            {
+              "id": "step_misato_16",
+              "type": "choice",
+              "content": "结束"
+            },
+            {
+              "id": "step_misato_17",
+              "type": "choice",
+              "content": "上楼"
+            },
+            {
+              "id": "step_misato_18",
+              "type": "choice",
+              "content": "■鈴山美里│学生食堂"
+            },
+            {
+              "id": "step_misato_19",
+              "type": "choice",
+              "content": "参加活动（还是算了）"
+            },
+            {
+              "id": "step_misato_20",
+              "type": "note",
+              "content": "【进展事件1】"
+            },
+            {
+              "id": "step_misato_21",
+              "type": "choice",
+              "content": "为明天做准备早些睡觉│莉佳子"
+            },
+            {
+              "id": "step_misato_22",
+              "type": "choice",
+              "content": "Stand Talk《教室》",
+              "prefix": "★"
+            },
+            {
+              "id": "step_misato_23",
+              "type": "choice",
+              "content": "右一※情报：铃山美里"
+            },
+            {
+              "id": "step_misato_24",
+              "type": "choice",
+              "content": "结束"
+            },
+            {
+              "id": "step_misato_25",
+              "type": "choice",
+              "content": "上楼"
+            },
+            {
+              "id": "step_misato_26",
+              "type": "choice",
+              "content": "■铃山美里│化学室"
+            },
+            {
+              "id": "step_misato_27",
+              "type": "choice",
+              "content": "一如既往的时间入睡│美里"
+            },
+            {
+              "id": "step_misato_28",
+              "type": "choice",
+              "content": "Stand Talk《教室》",
+              "prefix": "★"
+            },
+            {
+              "id": "step_misato_29",
+              "type": "choice",
+              "content": "去走廊"
+            },
+            {
+              "id": "step_misato_30",
+              "type": "choice",
+              "content": "Stand Talk《廊下》",
+              "prefix": "★"
+            },
+            {
+              "id": "step_misato_31",
+              "type": "choice",
+              "content": "左二※情报：铃山美里"
+            },
+            {
+              "id": "step_misato_32",
+              "type": "choice",
+              "content": "结束"
+            },
+            {
+              "id": "step_misato_33",
+              "type": "choice",
+              "content": "■铃山美里│操场"
+            },
+            {
+              "id": "step_misato_34",
+              "type": "choice",
+              "content": "询问『前辈的成绩』一事（还是算了）"
+            },
+            {
+              "id": "step_misato_35",
+              "type": "note",
+              "content": "【进展事件2】"
+            },
+            {
+              "id": "step_misato_36",
+              "type": "choice",
+              "content": "试着读读小说增加睡意│恵梨奈"
+            },
+            {
+              "id": "step_misato_37",
+              "type": "choice",
+              "content": "■铃山美里"
+            },
+            {
+              "id": "step_misato_38",
+              "type": "note",
+              "content": "【进展事件3】"
+            },
+            {
+              "id": "step_misato_39",
+              "type": "choice",
+              "content": "无法抵抗睡意赶紧睡了│莉佳子"
+            },
+            {
+              "id": "step_misato_40",
+              "type": "choice",
+              "content": "Stand Talk《教室》",
+              "prefix": "★"
+            },
+            {
+              "id": "step_misato_41",
+              "type": "choice",
+              "content": "去学生食堂"
+            },
+            {
+              "id": "step_misato_42",
+              "type": "choice",
+              "content": "Stand Talk《学生食堂》",
+              "prefix": "★"
+            },
+            {
+              "id": "step_misato_43",
+              "type": "choice",
+              "content": "左二※情报：铃山美里"
+            },
+            {
+              "id": "step_misato_44",
+              "type": "choice",
+              "content": "结束"
+            },
+            {
+              "id": "step_misato_45",
+              "type": "choice",
+              "content": "上楼"
+            },
+            {
+              "id": "step_misato_46",
+              "type": "choice",
+              "content": "■铃山美里│化学室"
+            }
+          ]
+        },
+        {
+          "id": "ending_yuka_end",
+          "name": "鸟丸 裕香 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_yuka_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_yuka_02",
+              "type": "choice",
+              "content": "上楼"
+            },
+            {
+              "id": "step_yuka_03",
+              "type": "choice",
+              "content": "■鸟丸裕香│楼顶"
+            },
+            {
+              "id": "step_yuka_04",
+              "type": "choice",
+              "content": "下定决心去搭话（算了）"
+            },
+            {
+              "id": "step_yuka_05",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_yuka_06",
+              "type": "choice",
+              "content": "早睡│裕香"
+            },
+            {
+              "id": "step_yuka_07",
+              "type": "choice",
+              "content": "Stand Talk《教室》",
+              "prefix": "★"
+            },
+            {
+              "id": "step_yuka_08",
+              "type": "choice",
+              "content": "去走廊"
+            },
+            {
+              "id": "step_yuka_09",
+              "type": "choice",
+              "content": "Stand Talk《走廊》",
+              "prefix": "★"
+            },
+            {
+              "id": "step_yuka_10",
+              "type": "choice",
+              "content": "左二※情报：鸟丸裕香"
+            },
+            {
+              "id": "step_yuka_11",
+              "type": "choice",
+              "content": "结束"
+            },
+            {
+              "id": "step_yuka_12",
+              "type": "choice",
+              "content": "上楼"
+            },
+            {
+              "id": "step_yuka_13",
+              "type": "choice",
+              "content": "■鸟丸裕香│音乐室"
+            },
+            {
+              "id": "step_yuka_14",
+              "type": "choice",
+              "content": "说去了别的地方（说在音乐室）"
+            },
+            {
+              "id": "step_yuka_15",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_yuka_16",
+              "type": "choice",
+              "content": "为明天做准备早些睡觉│莉佳子"
+            },
+            {
+              "id": "step_yuka_17",
+              "type": "choice",
+              "content": "Stand Talk《教室》",
+              "prefix": "★"
+            },
+            {
+              "id": "step_yuka_18",
+              "type": "choice",
+              "content": "去走廊"
+            },
+            {
+              "id": "step_yuka_19",
+              "type": "choice",
+              "content": "Stand Talk《走廊》",
+              "prefix": "★"
+            },
+            {
+              "id": "step_yuka_20",
+              "type": "choice",
+              "content": "右二※情报：鸟丸裕香"
+            },
+            {
+              "id": "step_yuka_21",
+              "type": "choice",
+              "content": "结束"
+            },
+            {
+              "id": "step_yuka_22",
+              "type": "choice",
+              "content": "上楼"
+            },
+            {
+              "id": "step_yuka_23",
+              "type": "choice",
+              "content": "■鸟丸裕香│楼顶"
+            },
+            {
+              "id": "step_yuka_24",
+              "type": "save",
+              "content": "SAVE 5"
+            },
+            {
+              "id": "step_yuka_25",
+              "type": "choice",
+              "content": "即便起来了也没什么可做的，还是趁早睡吧│恵梨奈"
+            },
+            {
+              "id": "step_yuka_26",
+              "type": "choice",
+              "content": "Stand Talk《教室》",
+              "prefix": "★"
+            },
+            {
+              "id": "step_yuka_27",
+              "type": "choice",
+              "content": "去走廊"
+            },
+            {
+              "id": "step_yuka_28",
+              "type": "choice",
+              "content": "Stand Talk《廊下》",
+              "prefix": "★"
+            },
+            {
+              "id": "step_yuka_29",
+              "type": "choice",
+              "content": "左一※情报：鸟丸裕香"
+            },
+            {
+              "id": "step_yuka_30",
+              "type": "choice",
+              "content": "结束"
+            },
+            {
+              "id": "step_yuka_31",
+              "type": "choice",
+              "content": "上楼"
+            },
+            {
+              "id": "step_yuka_32",
+              "type": "choice",
+              "content": "■鸟丸裕香│学生食堂"
+            },
+            {
+              "id": "step_yuka_33",
+              "type": "choice",
+              "content": "问一问『其实是兄妹？』的话题（还是算了。）"
+            },
+            {
+              "id": "step_yuka_34",
+              "type": "save",
+              "content": "SAVE 6"
+            },
+            {
+              "id": "step_yuka_35",
+              "type": "choice",
+              "content": "努力试着入眠│瑛美"
+            },
+            {
+              "id": "step_yuka_36",
+              "type": "choice",
+              "content": "■鸟丸裕香"
+            },
+            {
+              "id": "step_yuka_37",
+              "type": "save",
+              "content": "SAVE 7"
+            },
+            {
+              "id": "step_yuka_38",
+              "type": "choice",
+              "content": "无法反抗睡意赶紧睡了│莉佳子"
+            },
+            {
+              "id": "step_yuka_39",
+              "type": "choice",
+              "content": "Stand Talk《教室》",
+              "prefix": "★"
+            },
+            {
+              "id": "step_yuka_40",
+              "type": "choice",
+              "content": "去走廊"
+            },
+            {
+              "id": "step_yuka_41",
+              "type": "choice",
+              "content": "Stand Talk《走廊》",
+              "prefix": "★"
+            },
+            {
+              "id": "step_yuka_42",
+              "type": "choice",
+              "content": "右二※情报：鸟丸裕香"
+            },
+            {
+              "id": "step_yuka_43",
+              "type": "choice",
+              "content": "结束"
+            },
+            {
+              "id": "step_yuka_44",
+              "type": "choice",
+              "content": "上楼"
+            },
+            {
+              "id": "step_yuka_45",
+              "type": "choice",
+              "content": "■鸟丸裕香│楼顶"
+            }
+          ]
+        },
+        {
+          "id": "ending_rin_end",
+          "name": "吉村 凛 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_rin_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_rin_02",
+              "type": "choice",
+              "content": "■吉村凛│鞋柜"
+            },
+            {
+              "id": "step_rin_03",
+              "type": "choice",
+              "content": "邀请她一起回家（算了）"
+            },
+            {
+              "id": "step_rin_04",
+              "type": "choice",
+              "content": "和以往同一个时间睡│凛"
+            },
+            {
+              "id": "step_rin_05",
+              "type": "choice",
+              "content": "Stand Talk《教室》",
+              "prefix": "★"
+            },
+            {
+              "id": "step_rin_06",
+              "type": "choice",
+              "content": "去学生食堂"
+            },
+            {
+              "id": "step_rin_07",
+              "type": "choice",
+              "content": "Stand Talk《学生食堂》",
+              "prefix": "★"
+            },
+            {
+              "id": "step_rin_08",
+              "type": "choice",
+              "content": "右二※情报：吉村凛"
+            },
+            {
+              "id": "step_rin_09",
+              "type": "choice",
+              "content": "结束"
+            },
+            {
+              "id": "step_rin_10",
+              "type": "choice",
+              "content": "■吉村凛│走廊"
+            },
+            {
+              "id": "step_rin_11",
+              "type": "choice",
+              "content": "听一下游戏厅的事（放弃）"
+            },
+            {
+              "id": "step_rin_12",
+              "type": "choice",
+              "content": "为明天做准备早些睡觉│莉佳子"
+            },
+            {
+              "id": "step_rin_13",
+              "type": "choice",
+              "content": "Stand Talk《教室》",
+              "prefix": "★"
+            },
+            {
+              "id": "step_rin_14",
+              "type": "choice",
+              "content": "去楼顶"
+            },
+            {
+              "id": "step_rin_15",
+              "type": "choice",
+              "content": "Stand Talk《楼顶》",
+              "prefix": "★"
+            },
+            {
+              "id": "step_rin_16",
+              "type": "choice",
+              "content": "右一※情报：吉村凛"
+            },
+            {
+              "id": "step_rin_17",
+              "type": "choice",
+              "content": "结束"
+            },
+            {
+              "id": "step_rin_18",
+              "type": "choice",
+              "content": "上楼"
+            },
+            {
+              "id": "step_rin_19",
+              "type": "choice",
+              "content": "■吉村凛│学生食堂"
+            },
+            {
+              "id": "step_rin_20",
+              "type": "choice",
+              "content": "即便起来了也没有什么可做的，还是趁早睡吧│恵梨奈"
+            },
+            {
+              "id": "step_rin_21",
+              "type": "choice",
+              "content": "Stand Talk《教室》",
+              "prefix": "★"
+            },
+            {
+              "id": "step_rin_22",
+              "type": "choice",
+              "content": "去楼顶"
+            },
+            {
+              "id": "step_rin_23",
+              "type": "choice",
+              "content": "Stand Talk《楼顶》",
+              "prefix": "★"
+            },
+            {
+              "id": "step_rin_24",
+              "type": "choice",
+              "content": "右二※情报：吉村凛"
+            },
+            {
+              "id": "step_rin_25",
+              "type": "choice",
+              "content": "结束"
+            },
+            {
+              "id": "step_rin_26",
+              "type": "choice",
+              "content": "上楼"
+            },
+            {
+              "id": "step_rin_27",
+              "type": "choice",
+              "content": "■吉村凛│音乐室"
+            },
+            {
+              "id": "step_rin_28",
+              "type": "choice",
+              "content": "开始思考『前辈的素颜』（还是算了）"
+            },
+            {
+              "id": "step_rin_29",
+              "type": "choice",
+              "content": "努力试着入眠│瑛美"
+            },
+            {
+              "id": "step_rin_30",
+              "type": "choice",
+              "content": "■吉村凛"
+            },
+            {
+              "id": "step_rin_31",
+              "type": "choice",
+              "content": "无法反抗睡意赶紧睡了│莉佳子"
+            },
+            {
+              "id": "step_rin_32",
+              "type": "choice",
+              "content": "Stand Talk《教室》",
+              "prefix": "★"
+            },
+            {
+              "id": "step_rin_33",
+              "type": "choice",
+              "content": "去走廊"
+            },
+            {
+              "id": "step_rin_34",
+              "type": "choice",
+              "content": "Stand Talk《走廊》",
+              "prefix": "★"
+            },
+            {
+              "id": "step_rin_35",
+              "type": "choice",
+              "content": "左一※情报：吉村凛"
+            },
+            {
+              "id": "step_rin_36",
+              "type": "choice",
+              "content": "结束"
+            },
+            {
+              "id": "step_rin_37",
+              "type": "choice",
+              "content": "■吉村凛│鞋柜"
+            }
+          ]
+        },
+        {
+          "id": "ending_erina_end",
+          "name": "狭山 恵梨奈 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_erina_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_erina_02",
+              "type": "choice",
+              "content": "■狭山恵梨奈│走廊"
+            },
+            {
+              "id": "step_erina_03",
+              "type": "choice",
+              "content": "和老师打招呼（算了）"
+            },
+            {
+              "id": "step_erina_04",
+              "type": "choice",
+              "content": "早睡│裕香"
+            },
+            {
+              "id": "step_erina_05",
+              "type": "choice",
+              "content": "Stand Talk《教室》",
+              "prefix": "★"
+            },
+            {
+              "id": "step_erina_06",
+              "type": "choice",
+              "content": "右一※情报：狭山恵梨奈"
+            },
+            {
+              "id": "step_erina_07",
+              "type": "choice",
+              "content": "结束"
+            },
+            {
+              "id": "step_erina_08",
+              "type": "choice",
+              "content": "■狭山恵梨奈│体育館"
+            },
+            {
+              "id": "step_erina_09",
+              "type": "choice",
+              "content": "老师给人一种『很酷』的印象呢。"
+            },
+            {
+              "id": "step_erina_10",
+              "type": "choice",
+              "content": "（老师给人一种『帅气的女性』的印象呢。）"
+            },
+            {
+              "id": "step_erina_11",
+              "type": "choice",
+              "content": "为明天做准备早些睡觉│莉佳子"
+            },
+            {
+              "id": "step_erina_12",
+              "type": "choice",
+              "content": "Stand Talk《教室》",
+              "prefix": "★"
+            },
+            {
+              "id": "step_erina_13",
+              "type": "choice",
+              "content": "去走廊"
+            },
+            {
+              "id": "step_erina_14",
+              "type": "choice",
+              "content": "Stand Talk《走廊》",
+              "prefix": "★"
+            },
+            {
+              "id": "step_erina_15",
+              "type": "choice",
+              "content": "左二※情报：狭山恵梨奈"
+            },
+            {
+              "id": "step_erina_16",
+              "type": "choice",
+              "content": "结束"
+            },
+            {
+              "id": "step_erina_17",
+              "type": "choice",
+              "content": "■狭山恵梨奈│教室"
+            },
+            {
+              "id": "step_erina_18",
+              "type": "choice",
+              "content": "即便起来了也没什么可做的，还是趁早睡吧│恵梨奈"
+            },
+            {
+              "id": "step_erina_19",
+              "type": "choice",
+              "content": "Stand Talk《教室》",
+              "prefix": "★"
+            },
+            {
+              "id": "step_erina_20",
+              "type": "choice",
+              "content": "去楼顶"
+            },
+            {
+              "id": "step_erina_21",
+              "type": "choice",
+              "content": "Stand Talk《楼顶》",
+              "prefix": "★"
+            },
+            {
+              "id": "step_erina_22",
+              "type": "choice",
+              "content": "右一※情报：狭山恵梨奈"
+            },
+            {
+              "id": "step_erina_23",
+              "type": "choice",
+              "content": "结束"
+            },
+            {
+              "id": "step_erina_24",
+              "type": "choice",
+              "content": "上楼"
+            },
+            {
+              "id": "step_erina_25",
+              "type": "choice",
+              "content": "■狭山恵梨奈│楼顶"
+            },
+            {
+              "id": "step_erina_26",
+              "type": "choice",
+              "content": "询问「要不要休息会儿呀？」（放弃）"
+            },
+            {
+              "id": "step_erina_27",
+              "type": "choice",
+              "content": "试着读读小说增加睡意│恵梨奈"
+            },
+            {
+              "id": "step_erina_28",
+              "type": "choice",
+              "content": "■狭山恵梨奈"
+            },
+            {
+              "id": "step_erina_29",
+              "type": "choice",
+              "content": "无法反抗睡意赶紧睡了│莉佳子"
+            },
+            {
+              "id": "step_erina_30",
+              "type": "choice",
+              "content": "Stand Talk《教室》",
+              "prefix": "★"
+            },
+            {
+              "id": "step_erina_31",
+              "type": "choice",
+              "content": "去走廊"
+            },
+            {
+              "id": "step_erina_32",
+              "type": "choice",
+              "content": "Stand Talk《走廊》",
+              "prefix": "★"
+            },
+            {
+              "id": "step_erina_33",
+              "type": "choice",
+              "content": "左二※情报：狭山恵梨奈"
+            },
+            {
+              "id": "step_erina_34",
+              "type": "choice",
+              "content": "结束"
+            },
+            {
+              "id": "step_erina_35",
+              "type": "choice",
+              "content": "■狭山恵梨奈│教室】"
+            }
+          ]
+        },
+        {
+          "id": "ending_bad_01",
+          "name": "BAD END1",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_bad_01_01",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_bad_01_03",
+              "type": "choice",
+              "content": "继续熬夜鉴赏电影！！"
+            }
+          ]
+        },
+        {
+          "id": "ending_bad_02",
+          "name": "BAD END2",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_bad_02_01",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_bad_02_03",
+              "type": "choice",
+              "content": "翘课"
+            }
+          ]
+        },
+        {
+          "id": "ending_bad_03",
+          "name": "BAD END3",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_bad_03_01",
+              "type": "load",
+              "content": "LOAD 5"
+            },
+            {
+              "id": "step_bad_03_03",
+              "type": "choice",
+              "content": "明天翘了翘了"
+            }
+          ]
+        },
+        {
+          "id": "ending_bad_04",
+          "name": "BAD END4",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_bad_04_01",
+              "type": "load",
+              "content": "LOAD 6"
+            },
+            {
+              "id": "step_bad_04_03",
+              "type": "choice",
+              "content": "就这样强行熬夜"
+            }
+          ]
+        },
+        {
+          "id": "ending_bad_05",
+          "name": "BAD END5",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_bad_05_01",
+              "type": "load",
+              "content": "LOAD 7"
+            },
+            {
+              "id": "step_bad_05_03",
+              "type": "choice",
+              "content": "偷偷的进入厨房"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

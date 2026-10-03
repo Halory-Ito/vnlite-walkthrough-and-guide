@@ -1,0 +1,140 @@
+{
+  "vid": "v14888",
+  "name": {
+    "zh-cn": "醋意乱流",
+    "en-us": "Yakimochi stream",
+    "ja-jp": "ヤキモチストリーム",
+    "ja-Latn": "yakimochi-stream"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-13",
+  "tips": [
+    "对应 心愿屋汉化组 全线汉化V2"
+  ],
+  "routes": [
+    {
+      "id": "route_1772354819236",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1772355093014",
+          "name": "雾岛沙那",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1772355421564",
+              "type": "choice",
+              "content": "塔喵的漫画"
+            },
+            {
+              "id": "step_1772355421737",
+              "type": "choice",
+              "content": "听古典音乐"
+            },
+            {
+              "id": "step_1772355421890",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1772355422638",
+              "type": "choice",
+              "content": "沙那的泳衣是第一吧？"
+            },
+            {
+              "id": "step_1772355490372",
+              "type": "choice",
+              "content": "总之先静观其变"
+            },
+            {
+              "id": "step_1772355490552",
+              "type": "choice",
+              "content": "楼顶"
+            }
+          ]
+        },
+        {
+          "id": "ending_1772355582850",
+          "name": "塔喵-赫尔贝林",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1772355616739",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1772355620212",
+              "type": "choice",
+              "content": "塔喵的泳衣是第一吧？"
+            },
+            {
+              "id": "step_1772355620460",
+              "type": "choice",
+              "content": "总之先静观其变"
+            },
+            {
+              "id": "step_1772355621005",
+              "type": "choice",
+              "content": "教室"
+            }
+          ]
+        },
+        {
+          "id": "ending_1772355583020",
+          "name": "伊吹恋羽",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1772355718293",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1772355722135",
+              "type": "choice",
+              "content": "伊吹的泳的泳衣是第一吧？"
+            },
+            {
+              "id": "step_1772355722315",
+              "type": "choice",
+              "content": "站在伊吹一边，劝解沙那让她息怒"
+            },
+            {
+              "id": "step_1772355722572",
+              "type": "choice",
+              "content": "楼顶"
+            }
+          ]
+        },
+        {
+          "id": "ending_1772355583377",
+          "name": "雪仓睦月",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1772355748511",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1772355805119",
+              "type": "choice",
+              "content": "前辈的的泳衣是第一吧？"
+            },
+            {
+              "id": "step_1772355805463",
+              "type": "choice",
+              "content": "站在伊吹一边，劝解沙那让她息怒"
+            },
+            {
+              "id": "step_1772355805884",
+              "type": "choice",
+              "content": "教室"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "vid": "v938",
+  "name": {
+    "zh-cn": "花吻在上 ～爱上你的幸福～",
+    "en-us": "A Kiss For The Petals - The Joy Of Loving You",
+    "ja-jp": "その花びらにくちづけを　あなたを好きな幸せ",
+    "ja-Latn": "sono-hanabira-ni-kuchizuke-o-anata-o-suki-na-shiawase"
+  },
+  "level": 2,
+  "updatedAt": "2026-05-06",
+  "routes": [
+    {
+      "id": "route_1778062095726",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1778062100116",
+          "name": "END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1778062104924",
+              "type": "choice",
+              "content": "跟玲绪说的不一样哦"
+            },
+            {
+              "id": "step_1778062105107",
+              "type": "choice",
+              "content": "我会支持你的"
+            },
+            {
+              "id": "step_1778062105402",
+              "type": "choice",
+              "content": "非常开心呢"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

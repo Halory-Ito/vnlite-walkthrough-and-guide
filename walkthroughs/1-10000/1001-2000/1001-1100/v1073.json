@@ -1,0 +1,636 @@
+{
+  "vid": "v1073",
+  "name": {
+    "zh-cn": "望见青空之丘",
+    "ja-jp": "青空の見える丘",
+    "ja-Latn": "aozora-no-mieru-oka"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-15",
+  "routes": [
+    {
+      "id": "route_game_guide",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_io_end",
+          "name": "伊织 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_io_02",
+              "type": "choice",
+              "content": "西村 春菜",
+              "group": "第一话"
+            },
+            {
+              "id": "step_io_03",
+              "type": "choice",
+              "content": "藤宫 翠",
+              "group": "第一话"
+            },
+            {
+              "id": "step_io_04",
+              "type": "choice",
+              "content": "西村 小夏",
+              "group": "第一话"
+            },
+            {
+              "id": "step_io_05",
+              "type": "choice",
+              "content": "诹访 野乃香",
+              "group": "第一话"
+            },
+            {
+              "id": "step_io_06",
+              "type": "choice",
+              "content": "伊织和网球",
+              "group": "第二话"
+            },
+            {
+              "id": "step_io_07",
+              "type": "choice",
+              "content": "姐妹的房间",
+              "group": "第二话"
+            },
+            {
+              "id": "step_io_08",
+              "type": "choice",
+              "content": "转校初日",
+              "group": "第二话"
+            },
+            {
+              "id": "step_io_09",
+              "type": "choice",
+              "content": "图书馆之主",
+              "group": "第二话"
+            },
+            {
+              "id": "step_io_10",
+              "type": "choice",
+              "content": "譬如说这样",
+              "group": "第三话"
+            },
+            {
+              "id": "step_io_11",
+              "type": "choice",
+              "content": "意外事故！",
+              "group": "第三话"
+            },
+            {
+              "id": "step_io_12",
+              "type": "choice",
+              "content": "和母亲的电话",
+              "group": "第三话"
+            },
+            {
+              "id": "step_io_13",
+              "type": "choice",
+              "content": "游泳部",
+              "group": "第三话"
+            },
+            {
+              "id": "step_io_14",
+              "type": "choice",
+              "content": "同班同学",
+              "group": "第三话"
+            },
+            {
+              "id": "step_io_15",
+              "type": "choice",
+              "content": "告白的始末",
+              "group": "第四话"
+            },
+            {
+              "id": "step_io_16",
+              "type": "choice",
+              "content": "乱七八糟01",
+              "group": "第四话"
+            },
+            {
+              "id": "step_io_17",
+              "type": "choice",
+              "content": "乱七八糟02",
+              "group": "第四话"
+            },
+            {
+              "id": "step_io_18",
+              "type": "choice",
+              "content": "两人的关系",
+              "group": "第四话"
+            },
+            {
+              "id": "step_io_19",
+              "type": "choice",
+              "content": "应该考虑的事情",
+              "group": "第四话"
+            },
+            {
+              "id": "step_io_20",
+              "type": "choice",
+              "content": "和前辈一起去医院",
+              "group": "第五话"
+            },
+            {
+              "id": "step_io_21",
+              "type": "choice",
+              "content": "顽强的动物",
+              "group": "第五话"
+            },
+            {
+              "id": "step_io_22",
+              "type": "choice",
+              "content": "回家的路上",
+              "group": "第五话"
+            },
+            {
+              "id": "step_io_23",
+              "type": "choice",
+              "content": "橱窗",
+              "group": "第五话"
+            },
+            {
+              "id": "step_io_24",
+              "type": "choice",
+              "content": "爱上他的理由",
+              "group": "第五话"
+            },
+            {
+              "id": "step_io_25",
+              "type": "choice",
+              "content": "小小的外出",
+              "group": "第五话"
+            },
+            {
+              "id": "step_io_26",
+              "type": "choice",
+              "content": "与伊织的回忆",
+              "group": "第六话"
+            },
+            {
+              "id": "step_io_27",
+              "type": "choice",
+              "content": "去送伊织",
+              "group": "第六话"
+            },
+            {
+              "id": "step_io_28",
+              "type": "choice",
+              "content": "难得一次，我就求求神明保佑吧",
+              "group": "第七话"
+            },
+            {
+              "id": "step_io_29",
+              "type": "choice",
+              "content": "不能太依赖她们，还是出去迎接吧",
+              "group": "第七话"
+            },
+            {
+              "id": "step_io_30",
+              "type": "choice",
+              "content": "未使用教室",
+              "group": "第七话"
+            },
+            {
+              "id": "step_io_31",
+              "type": "choice",
+              "content": "手机短信",
+              "group": "第七话"
+            },
+            {
+              "id": "step_io_32",
+              "type": "choice",
+              "content": "事故！",
+              "group": "第七话"
+            },
+            {
+              "id": "step_io_33",
+              "type": "choice",
+              "content": "诅咒",
+              "group": "第七话"
+            },
+            {
+              "id": "step_io_34",
+              "type": "choice",
+              "content": "什么角色？",
+              "group": "第七话"
+            },
+            {
+              "id": "step_io_35",
+              "type": "choice",
+              "content": "找不认识的人拼拼运气×4",
+              "group": "第八话"
+            },
+            {
+              "id": "step_io_36",
+              "type": "choice",
+              "content": "赶紧和美琴一起藏起来！",
+              "group": "第八话"
+            },
+            {
+              "id": "step_io_37",
+              "type": "choice",
+              "content": "野乃香前辈如何",
+              "group": "第八话"
+            },
+            {
+              "id": "step_io_38",
+              "type": "choice",
+              "content": "哎呀哎呀保健室",
+              "group": "第八话"
+            },
+            {
+              "id": "step_io_39",
+              "type": "choice",
+              "content": "差不多该回去了",
+              "group": "第八话"
+            },
+            {
+              "id": "step_io_40",
+              "type": "choice",
+              "content": "美琴在干什么呢",
+              "group": "第八话"
+            },
+            {
+              "id": "step_io_41",
+              "type": "choice",
+              "content": "其他人",
+              "group": "第八话"
+            },
+            {
+              "id": "step_io_42",
+              "type": "choice",
+              "content": "去见见光一",
+              "group": "第八话"
+            },
+            {
+              "id": "step_io_43",
+              "type": "choice",
+              "content": "关于光一",
+              "group": "第八话"
+            },
+            {
+              "id": "step_io_44",
+              "type": "choice",
+              "content": "关于最近",
+              "group": "第八话"
+            },
+            {
+              "id": "step_io_45",
+              "type": "choice",
+              "content": "关于事件",
+              "group": "第八话"
+            },
+            {
+              "id": "step_io_46",
+              "type": "choice",
+              "content": "关于喜欢的人",
+              "group": "第八话"
+            },
+            {
+              "id": "step_io_47",
+              "type": "save",
+              "content": "SAVE 2",
+              "group": "第八话"
+            },
+            {
+              "id": "step_io_48",
+              "type": "choice",
+              "content": "去逗伊织",
+              "group": "第八话"
+            },
+            {
+              "id": "step_io_49",
+              "type": "choice",
+              "content": "青梅竹马们在哪里呢",
+              "group": "第九话"
+            },
+            {
+              "id": "step_io_50",
+              "type": "choice",
+              "content": "小夏和翠应该在一起的吧",
+              "group": "第九话"
+            },
+            {
+              "id": "step_io_51",
+              "type": "choice",
+              "content": "伊织",
+              "group": "第九话"
+            },
+            {
+              "id": "step_io_52",
+              "type": "choice",
+              "content": "就那样跑出了校门",
+              "subfix": "选择 就这样返回到校舍 回收CG",
+              "group": "第十二话"
+            },
+            {
+              "id": "step_io_60",
+              "type": "choice",
+              "content": "让春菜留宿",
+              "group": "第十二话"
+            },
+            {
+              "id": "step_io_61",
+              "type": "choice",
+              "content": "自己思考",
+              "group": "最终话"
+            },
+            {
+              "id": "step_io_62",
+              "type": "choice",
+              "content": "去见春菜",
+              "group": "最终话"
+            }
+          ]
+        },
+        {
+          "id": "ending_nonoka_end",
+          "name": "野乃香 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_nonoka_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_nonoka_02",
+              "type": "choice",
+              "content": "去找野乃香前辈谈话",
+              "group": "第八话"
+            },
+            {
+              "id": "step_nonoka_03",
+              "type": "choice",
+              "content": "看起来有85",
+              "group": "第八话"
+            },
+            {
+              "id": "step_nonoka_04",
+              "type": "choice",
+              "content": "这里应该去找前辈才对",
+              "group": "第九话"
+            },
+            {
+              "id": "step_nonoka_05",
+              "type": "choice",
+              "content": "青梅竹马们在哪里呢",
+              "group": "第九话"
+            },
+            {
+              "id": "step_nonoka_06",
+              "type": "choice",
+              "content": "野乃香",
+              "group": "第九话"
+            },
+            {
+              "id": "step_nonoka_07",
+              "type": "choice",
+              "content": "是因为前辈自己想保持笑容？",
+              "group": "第九话"
+            },
+            {
+              "id": "step_nonoka_08",
+              "type": "choice",
+              "content": "房间的灯就这样开着吧",
+              "group": "第十话"
+            },
+            {
+              "id": "step_nonoka_12",
+              "type": "choice",
+              "content": "依靠大家",
+              "group": "最终话"
+            }
+          ]
+        },
+        {
+          "id": "ending_midori_end",
+          "name": "翠 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_midori_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_midori_02",
+              "type": "choice",
+              "content": "还是找翠吧",
+              "group": "第八话"
+            },
+            {
+              "id": "step_midori_03",
+              "type": "choice",
+              "content": "差不多该回去了",
+              "group": "第八话"
+            },
+            {
+              "id": "step_midori_04",
+              "type": "choice",
+              "content": "去和翠聊天",
+              "group": "第八话"
+            },
+            {
+              "id": "step_midori_05",
+              "type": "choice",
+              "content": "小夏和翠应该在一起吧",
+              "group": "第九话"
+            },
+            {
+              "id": "step_midori_06",
+              "type": "choice",
+              "content": "这里应该去找前辈才对",
+              "group": "第九话"
+            },
+            {
+              "id": "step_midori_07",
+              "type": "choice",
+              "content": "翠",
+              "group": "第九话"
+            },
+            {
+              "id": "step_midori_09",
+              "type": "choice",
+              "content": "激情四射的",
+              "group": "最终话"
+            }
+          ]
+        },
+        {
+          "id": "ending_konatsu_end",
+          "name": "小夏 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_konatsu_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_konatsu_02",
+              "type": "choice",
+              "content": "小夏怎么样",
+              "group": "第八话"
+            },
+            {
+              "id": "step_konatsu_03",
+              "type": "choice",
+              "content": "差不多该回去了",
+              "group": "第八话"
+            },
+            {
+              "id": "step_konatsu_04",
+              "type": "choice",
+              "content": "去小夏那里玩",
+              "group": "第八话"
+            },
+            {
+              "id": "step_konatsu_05",
+              "type": "choice",
+              "content": "朝前方躲避",
+              "group": "第八话"
+            },
+            {
+              "id": "step_konatsu_06",
+              "type": "choice",
+              "content": "空手入白刃！",
+              "group": "第八话"
+            },
+            {
+              "id": "step_konatsu_07",
+              "type": "choice",
+              "content": "我能不看吗！",
+              "group": "第八话"
+            },
+            {
+              "id": "step_konatsu_08",
+              "type": "choice",
+              "content": "小夏和翠应该在一起吧",
+              "group": "第九话"
+            },
+            {
+              "id": "step_konatsu_09",
+              "type": "choice",
+              "content": "青梅竹马们在哪里呢",
+              "group": "第九话"
+            },
+            {
+              "id": "step_konatsu_10",
+              "type": "choice",
+              "content": "小夏",
+              "group": "第九话"
+            },
+            {
+              "id": "step_konatsu_11",
+              "type": "save",
+              "content": "SAVE 3",
+              "group": "第九话"
+            },
+            {
+              "id": "step_konatsu_12",
+              "type": "choice",
+              "content": "目送小夏",
+              "group": "最终话"
+            }
+          ]
+        },
+        {
+          "id": "ending_haruna_end",
+          "name": "春菜 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_haruna_01",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_haruna_02",
+              "type": "choice",
+              "content": "这里应该去找前辈才对",
+              "group": "第九话"
+            },
+            {
+              "id": "step_haruna_03",
+              "type": "choice",
+              "content": "小夏和翠应该在一起吧",
+              "group": "第九话"
+            },
+            {
+              "id": "step_haruna_04",
+              "type": "choice",
+              "content": "春菜",
+              "group": "第九话"
+            },
+            {
+              "id": "step_haruna_05",
+              "type": "choice",
+              "content": "是学校么",
+              "group": "第十一话"
+            },
+            {
+              "id": "step_haruna_06",
+              "type": "choice",
+              "content": "还是商店街",
+              "group": "第十一话"
+            },
+            {
+              "id": "step_haruna_07",
+              "type": "choice",
+              "content": "车站前",
+              "group": "第十一话"
+            },
+            {
+              "id": "step_haruna_08",
+              "type": "choice",
+              "content": "会乡下了？",
+              "group": "第十一话"
+            },
+            {
+              "id": "step_haruna_11",
+              "type": "choice",
+              "content": "在春菜下",
+              "prefix": "★",
+              "group": "第十二话"
+            },
+            {
+              "id": "step_haruna_13",
+              "type": "choice",
+              "content": "是在校门么",
+              "group": "第十二话"
+            },
+            {
+              "id": "step_haruna_14",
+              "type": "choice",
+              "content": "在图书馆么",
+              "group": "第十二话"
+            }
+          ]
+        },
+        {
+          "id": "ending_hiiragi_end",
+          "name": "柊花 END",
+          "type": "normal",
+          "requirements": "攻略5人后，「特别菜单」中的「回到故乡」开始",
+          "steps": [
+            {
+              "id": "step_hiiragi_02",
+              "type": "choice",
+              "content": "**组",
+              "group": "外传第一话"
+            },
+            {
+              "id": "step_hiiragi_03",
+              "type": "choice",
+              "content": "姐妹们……",
+              "prefix": "★",
+              "group": "外传第二话"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

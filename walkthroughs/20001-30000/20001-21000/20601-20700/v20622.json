@@ -1,0 +1,158 @@
+{
+  "vid": "v20622",
+  "name": {
+    "zh-cn": "回家之前的棉花糖",
+    "en-us": "Marshmallow All the Way Home",
+    "ja-jp": "お家に帰るまでがましまろです",
+    "ja-Latn": "ouchi-ni-kaeru-made-ga-mashimaro-desu"
+  },
+  "level": 2,
+  "updatedAt": "2026-05-13",
+  "routes": [
+    {
+      "id": "route_kasugabe_kanon",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_kanon_end",
+          "name": "花音 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_kanon_01",
+              "type": "note",
+              "content": "邀请了春日部先生"
+            },
+            {
+              "id": "step_kanon_02",
+              "type": "note",
+              "content": "邀请了朝霞"
+            },
+            {
+              "id": "step_kanon_03",
+              "type": "choice",
+              "content": "邀请了皇铃"
+            },
+            {
+              "id": "step_kanon_04",
+              "type": "note",
+              "content": "邀请了莱莱"
+            },
+            {
+              "id": "step_kanon_05",
+              "type": "choice",
+              "content": "红茶店（花音）"
+            },
+            {
+              "id": "step_kanon_06",
+              "type": "choice",
+              "content": "猫咖啡店（汐）"
+            },
+            {
+              "id": "step_kanon_07",
+              "type": "choice",
+              "content": "画材店"
+            },
+            {
+              "id": "step_kanon_08",
+              "type": "choice",
+              "content": "斯夫尼尔（礼羽）"
+            },
+            {
+              "id": "step_kanon_09",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_kanon_10",
+              "type": "note",
+              "content": "春日部花音",
+              "prefix": "■"
+            }
+          ]
+        },
+        {
+          "id": "ending_shiomi_end",
+          "name": "朝霞汐 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_shiomi_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_shiomi_02",
+              "type": "note",
+              "content": "朝霞汐",
+              "prefix": "■"
+            }
+          ]
+        },
+        {
+          "id": "ending_sasa_end",
+          "name": "皇铃纱々 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_sasa_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_sasa_02",
+              "type": "note",
+              "content": "皇铃纱々",
+              "prefix": "■"
+            }
+          ]
+        },
+        {
+          "id": "ending_raiko_end",
+          "name": "礼羽莱科宁 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_raiko_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_raiko_02",
+              "type": "note",
+              "content": "礼羽莱科宁",
+              "prefix": "■"
+            },
+            {
+              "id": "step_raiko_03",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_raiko_04",
+              "type": "choice",
+              "content": "孕育"
+            }
+          ]
+        },
+        {
+          "id": "ending_raiko_branch_end",
+          "name": "礼羽分支 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_raiko_branch_01",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_raiko_branch_02",
+              "type": "choice",
+              "content": "撞倒"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

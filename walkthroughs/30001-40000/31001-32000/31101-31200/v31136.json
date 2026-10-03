@@ -1,0 +1,105 @@
+{
+  "vid": "v31136",
+  "name": {
+    "zh-cn": "创作少女的恋爱公式",
+    "ja-jp": "創作彼女の恋愛公式",
+    "ja-Latn": "sousaku-kanojo-no-renai-koushiki"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-14",
+  "tips": [
+    "逢樱线需要在攻略完成其他３人后才可进入",
+    "安装Append＆逢樱END后，即可观看后日谈"
+  ],
+  "routes": [
+    {
+      "id": "route_1773924136427",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1773924151305",
+          "name": "桐叶 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1773924175155",
+              "type": "save",
+              "content": "SAVE 1",
+              "subfix": "第８话"
+            },
+            {
+              "id": "step_1773924176075",
+              "type": "choice",
+              "content": "目送逢樱",
+              "subfix": "第８话"
+            },
+            {
+              "id": "step_1773924177423",
+              "type": "save",
+              "content": "SAVE 2",
+              "subfix": "第９话"
+            },
+            {
+              "id": "step_1773924178255",
+              "type": "choice",
+              "content": "给桐叶打电话",
+              "subfix": "第９话"
+            }
+          ]
+        },
+        {
+          "id": "ending_1773924151475",
+          "name": "梦美 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1773924363115",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1773924365753",
+              "type": "choice",
+              "content": "给梦美打电话"
+            }
+          ]
+        },
+        {
+          "id": "ending_1773924151709",
+          "name": "艾蕾娜END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1773924377402",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1773924380093",
+              "type": "choice",
+              "content": "给艾蕾娜打电话"
+            }
+          ]
+        },
+        {
+          "id": "ending_1773924152005",
+          "name": "逢樱 END",
+          "type": "normal",
+          "requirements": "上述三人攻略后",
+          "steps": [
+            {
+              "id": "step_1773924392423",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1773924395161",
+              "type": "choice",
+              "content": "追上逢樱"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

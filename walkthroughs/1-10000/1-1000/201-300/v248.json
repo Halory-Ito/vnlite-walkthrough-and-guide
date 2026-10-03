@@ -1,0 +1,2398 @@
+{
+  "vid": "v248",
+  "name": {
+    "zh-cn": "第七夜 - 无限轮回",
+    "en-us": "Never 7 - The End of Infinity",
+    "ja-jp": "Never7～The End of Infinity～",
+    "ja-Latn": "never7"
+  },
+  "level": 2,
+  "updatedAt": "2026-03-25",
+  "tips": [
+    "角色好感度影响进各个路线，带★标记的选项为重要选项，影响好感度以及后续"
+  ],
+  "routes": [
+    {
+      "id": "route_kawashima_yuka",
+      "name": "川岛优夏",
+      "endings": [
+        {
+          "id": "ending_kawashima_yuka_end",
+          "name": "优夏 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_kawashima_yuka_001",
+              "type": "choice",
+              "content": "『怎么，有什么事吗？』我试着耐心的问道",
+              "prefix": "★",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_kawashima_yuka_002",
+              "type": "choice",
+              "content": "坐在那里呆呆地出神",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_kawashima_yuka_003",
+              "type": "choice",
+              "content": "试着说其他的话",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_kawashima_yuka_004",
+              "type": "choice",
+              "content": "和亿彦说话",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_kawashima_yuka_005",
+              "type": "choice",
+              "content": "『优夏，你会做饭吗？』",
+              "prefix": "★",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_kawashima_yuka_006",
+              "type": "choice",
+              "content": "『嗯，嗯……』",
+              "prefix": "★",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_kawashima_yuka_007",
+              "type": "choice",
+              "content": "我决定顺着优夏",
+              "prefix": "★",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_kawashima_yuka_008",
+              "type": "choice",
+              "content": "『研讨』指的又是什么呢？",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_kawashima_yuka_009",
+              "type": "choice",
+              "content": "和优夏一起打网球",
+              "prefix": "★",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_kawashima_yuka_010",
+              "type": "choice",
+              "content": "放高球",
+              "prefix": "★",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_kawashima_yuka_011",
+              "type": "choice",
+              "content": "直球",
+              "prefix": "★",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_kawashima_yuka_012",
+              "type": "choice",
+              "content": "总之先打过去",
+              "prefix": "★",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_kawashima_yuka_013",
+              "type": "choice",
+              "content": "试着上网截击",
+              "prefix": "★",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_kawashima_yuka_014",
+              "type": "choice",
+              "content": "伏特加！→啤酒！→干邑！",
+              "prefix": "★",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_kawashima_yuka_015",
+              "type": "choice",
+              "content": "原本就是因为优夏才弄成这样的",
+              "prefix": "★",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_kawashima_yuka_016",
+              "type": "choice",
+              "content": "『别装模做样的，快说吧』",
+              "prefix": "★",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_kawashima_yuka_017",
+              "type": "choice",
+              "content": "『啊啊，的确是呀』",
+              "prefix": "★",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_kawashima_yuka_018",
+              "type": "choice",
+              "content": "据理力争",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_kawashima_yuka_019",
+              "type": "choice",
+              "content": "我一点都不打算袒护亿彦",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_kawashima_yuka_020",
+              "type": "choice",
+              "content": "优夏要和我一起去买东西的",
+              "prefix": "★",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_kawashima_yuka_021",
+              "type": "choice",
+              "content": "『好重啊……下来走走吧……』",
+              "prefix": "★",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_kawashima_yuka_022",
+              "type": "choice",
+              "content": "『真的吗？』",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_kawashima_yuka_023",
+              "type": "choice",
+              "content": "我看着阿遥的脸，一句话都没有说",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_kawashima_yuka_024",
+              "type": "note",
+              "content": "『逸美小姐，要地震了！！』",
+              "subfix": "多周目出现",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_kawashima_yuka_025",
+              "type": "choice",
+              "content": "含糊掩饰",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_kawashima_yuka_026",
+              "type": "choice",
+              "content": "实际上我也在担心至美",
+              "group": "第一轮 / Day 2 —— 4月2日"
+            },
+            {
+              "id": "step_kawashima_yuka_027",
+              "type": "choice",
+              "content": "去泳池",
+              "prefix": "★",
+              "group": "第一轮 / Day 2 —— 4月2日"
+            },
+            {
+              "id": "step_kawashima_yuka_028",
+              "type": "choice",
+              "content": "想痛痛快快地游上一会儿",
+              "prefix": "★",
+              "group": "第一轮 / Day 2 —— 4月2日"
+            },
+            {
+              "id": "step_kawashima_yuka_029",
+              "type": "choice",
+              "content": "握住她的手",
+              "prefix": "★",
+              "group": "第一轮 / Day 2 —— 4月2日"
+            },
+            {
+              "id": "step_kawashima_yuka_030",
+              "type": "choice",
+              "content": "生气",
+              "prefix": "★",
+              "group": "第一轮 / Day 2 —— 4月2日"
+            },
+            {
+              "id": "step_kawashima_yuka_031",
+              "type": "choice",
+              "content": "又一次说起『预知』的话题",
+              "group": "第一轮 / Day 2 —— 4月2日"
+            },
+            {
+              "id": "step_kawashima_yuka_032",
+              "type": "choice",
+              "content": "朝着至美和沙纪的方向",
+              "prefix": "★",
+              "group": "第一轮 / Day 2 —— 4月2日"
+            },
+            {
+              "id": "step_kawashima_yuka_033",
+              "type": "choice",
+              "content": "为两个人祈祷",
+              "group": "第一轮 / Day 2 —— 4月2日"
+            },
+            {
+              "id": "step_kawashima_yuka_034",
+              "type": "note",
+              "content": "她的话是什么意思呢……",
+              "group": "第一轮 / Day 2 —— 4月2日"
+            },
+            {
+              "id": "step_kawashima_yuka_035",
+              "type": "choice",
+              "content": "不和他一起去",
+              "group": "第一轮 / Day 2 —— 4月2日"
+            },
+            {
+              "id": "step_kawashima_yuka_036",
+              "type": "choice",
+              "content": "『没有……心？』",
+              "group": "第一轮 / Day 2 —— 4月2日"
+            },
+            {
+              "id": "step_kawashima_yuka_037",
+              "type": "choice",
+              "content": "『………………』",
+              "group": "第一轮 / Day 3 —— 4月3日"
+            },
+            {
+              "id": "step_kawashima_yuka_038",
+              "type": "choice",
+              "content": "『……哎，这个嘛』",
+              "group": "第一轮 / Day 3 —— 4月3日"
+            },
+            {
+              "id": "step_kawashima_yuka_039",
+              "type": "choice",
+              "content": "『不是的，阿遥』",
+              "group": "第一轮 / Day 3 —— 4月3日"
+            },
+            {
+              "id": "step_kawashima_yuka_040",
+              "type": "choice",
+              "content": "没有",
+              "group": "第一轮 / Day 3 —— 4月3日"
+            },
+            {
+              "id": "step_kawashima_yuka_041",
+              "type": "choice",
+              "content": "怎么……回答好呢",
+              "group": "第一轮 / Day 3 —— 4月3日"
+            },
+            {
+              "id": "step_kawashima_yuka_042",
+              "type": "choice",
+              "content": "『是阿遥对我说要我吻的呀……』",
+              "group": "第一轮 / Day 3 —— 4月3日"
+            },
+            {
+              "id": "step_kawashima_yuka_043",
+              "type": "choice",
+              "content": "讲话打消她的怒气",
+              "group": "第一轮 / Day 3 —— 4月3日"
+            },
+            {
+              "id": "step_kawashima_yuka_044",
+              "type": "choice",
+              "content": "跑到至美身边",
+              "group": "第一轮 / Day 3 —— 4月3日"
+            },
+            {
+              "id": "step_kawashima_yuka_045",
+              "type": "choice",
+              "content": "『不要介意呀』",
+              "group": "第一轮 / Day 3 —— 4月3日"
+            },
+            {
+              "id": "step_kawashima_yuka_046",
+              "type": "choice",
+              "content": "『但是，今天不是吃咖喱饭吗？』",
+              "group": "第一轮 / Day 3 —— 4月3日"
+            },
+            {
+              "id": "step_kawashima_yuka_047",
+              "type": "choice",
+              "content": "出石头",
+              "prefix": "★",
+              "group": "第一轮 / Day 3 —— 4月3日"
+            },
+            {
+              "id": "step_kawashima_yuka_048",
+              "type": "choice",
+              "content": "说起大学时的事",
+              "group": "第一轮 / Day 3 —— 4月3日"
+            },
+            {
+              "id": "step_kawashima_yuka_049",
+              "type": "choice",
+              "content": "唱起『可爱的玩偶~』",
+              "group": "第一轮 / Day 3 —— 4月3日"
+            },
+            {
+              "id": "step_kawashima_yuka_050",
+              "type": "choice",
+              "content": "默默地握住优夏的手",
+              "prefix": "★",
+              "group": "第一轮 / Day 3 —— 4月3日"
+            },
+            {
+              "id": "step_kawashima_yuka_051",
+              "type": "choice",
+              "content": "我训斥道『你已经不是小孩子了』",
+              "group": "第一轮 / Day 3 —— 4月3日"
+            },
+            {
+              "id": "step_kawashima_yuka_052",
+              "type": "choice",
+              "content": "『啦啦啦~~』唱起歌来",
+              "prefix": "★",
+              "group": "第一轮 / Day 3 —— 4月3日"
+            },
+            {
+              "id": "step_kawashima_yuka_053",
+              "type": "choice",
+              "content": "温柔委婉",
+              "group": "第一轮 / Day 3 —— 4月3日"
+            },
+            {
+              "id": "step_kawashima_yuka_054",
+              "type": "choice",
+              "content": "一句『我不想听你说！』打断她",
+              "group": "第一轮 / Day 4 —— 4月4日"
+            },
+            {
+              "id": "step_kawashima_yuka_055",
+              "type": "choice",
+              "content": "去赏花",
+              "prefix": "★",
+              "group": "第一轮 / Day 4 —— 4月4日"
+            },
+            {
+              "id": "step_kawashima_yuka_056",
+              "type": "choice",
+              "content": "『不管优夏说什么，我都是真心想要和你去赏花』",
+              "group": "第一轮 / Day 4 —— 4月4日"
+            },
+            {
+              "id": "step_kawashima_yuka_057",
+              "type": "choice",
+              "content": "进入高中之后",
+              "group": "第一轮 / Day 4 —— 4月4日"
+            },
+            {
+              "id": "step_kawashima_yuka_058",
+              "type": "choice",
+              "content": "说服女孩儿交出铃铛",
+              "group": "第一轮 / Day 4 —— 4月4日"
+            },
+            {
+              "id": "step_kawashima_yuka_059",
+              "type": "choice",
+              "content": "不理会，和阿遥搭话",
+              "prefix": "★",
+              "group": "第二轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_kawashima_yuka_060",
+              "type": "choice",
+              "content": "不知道",
+              "prefix": "★",
+              "group": "第二轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_kawashima_yuka_061",
+              "type": "choice",
+              "content": "就这么呆着也挺好的",
+              "prefix": "★",
+              "group": "第二轮 / Day 3 —— 4月3日"
+            },
+            {
+              "id": "step_kawashima_yuka_062",
+              "type": "choice",
+              "content": "泡温泉什么的也太麻烦了",
+              "prefix": "★",
+              "group": "第二轮 / Day 3 —— 4月3日"
+            },
+            {
+              "id": "step_kawashima_yuka_063",
+              "type": "choice",
+              "content": "只好去温泉了",
+              "prefix": "★",
+              "group": "第二轮 / Day 3 —— 4月3日"
+            },
+            {
+              "id": "step_kawashima_yuka_064",
+              "type": "choice",
+              "content": "不清楚",
+              "prefix": "★",
+              "group": "第二轮 / Day 4 —— 4月4日"
+            },
+            {
+              "id": "step_kawashima_yuka_065",
+              "type": "choice",
+              "content": "………………",
+              "prefix": "★",
+              "subfix": "否则BE",
+              "group": "第二轮 / Day 5 —— 4月5日"
+            },
+            {
+              "id": "step_kawashima_yuka_066",
+              "type": "choice",
+              "content": "去帮助至美",
+              "prefix": "★",
+              "subfix": "否则BE",
+              "group": "第二轮 / Day 6 —— 4月6日"
+            },
+            {
+              "id": "step_kawashima_yuka_067",
+              "type": "choice",
+              "content": "我已经不能再回到过去了",
+              "prefix": "★",
+              "subfix": "否则BE",
+              "group": "第二轮 / Day 6 —— 4月6日"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_higuchi_haruka",
+      "name": "桶口遥",
+      "endings": [
+        {
+          "id": "ending_higuchi_haruka_end",
+          "name": "遥 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_higuchi_haruka_001",
+              "type": "choice",
+              "content": "『怎么，有什么事吗？』我试着耐心的问道",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_higuchi_haruka_002",
+              "type": "choice",
+              "content": "坐在那里呆呆地出神",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_higuchi_haruka_003",
+              "type": "choice",
+              "content": "第三次说『早上好』",
+              "prefix": "★",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_higuchi_haruka_004",
+              "type": "choice",
+              "content": "回想昨晚的事",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_higuchi_haruka_005",
+              "type": "choice",
+              "content": "『啊，我不是这个意思，不过……』",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_higuchi_haruka_006",
+              "type": "choice",
+              "content": "『嗯，还不……』",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_higuchi_haruka_007",
+              "type": "choice",
+              "content": "我决定顺着阿遥",
+              "prefix": "★",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_higuchi_haruka_008",
+              "type": "choice",
+              "content": "『这算什么回答啊』",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_higuchi_haruka_009",
+              "type": "choice",
+              "content": "我也想去海边",
+              "prefix": "★",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_higuchi_haruka_010",
+              "type": "choice",
+              "content": "无论如何都要表达我的感情",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_higuchi_haruka_011",
+              "type": "choice",
+              "content": "直接问『喜欢吗？』",
+              "prefix": "★",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_higuchi_haruka_012",
+              "type": "choice",
+              "content": "沉默不语",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_higuchi_haruka_013",
+              "type": "choice",
+              "content": "我一点都不打算袒护亿彦",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_higuchi_haruka_014",
+              "type": "choice",
+              "content": "『这个嘛……』",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_higuchi_haruka_015",
+              "type": "choice",
+              "content": "这样做有些失礼吧？",
+              "prefix": "★",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_higuchi_haruka_016",
+              "type": "choice",
+              "content": "对阿遥说话",
+              "prefix": "★",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_higuchi_haruka_017",
+              "type": "choice",
+              "content": "『这怎么能行呀』",
+              "prefix": "★",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_higuchi_haruka_018",
+              "type": "choice",
+              "content": "『是这样的』",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_higuchi_haruka_019",
+              "type": "choice",
+              "content": "『感觉好吗？』我问道",
+              "prefix": "★",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_higuchi_haruka_020",
+              "type": "choice",
+              "content": "『逸美小姐，要地震了！！』",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_higuchi_haruka_021",
+              "type": "choice",
+              "content": "含糊掩饰",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_higuchi_haruka_022",
+              "type": "choice",
+              "content": "『不用担心』我让阿遥放心",
+              "prefix": "★",
+              "group": "第一轮 / Day 2 —— 4月2日"
+            },
+            {
+              "id": "step_higuchi_haruka_023",
+              "type": "choice",
+              "content": "有一种想滑行的感觉",
+              "prefix": "★",
+              "group": "第一轮 / Day 2 —— 4月2日"
+            },
+            {
+              "id": "step_higuchi_haruka_024",
+              "type": "choice",
+              "content": "『确实是这样……』暂且随声附和",
+              "prefix": "★",
+              "group": "第一轮 / Day 2 —— 4月2日"
+            },
+            {
+              "id": "step_higuchi_haruka_025",
+              "type": "choice",
+              "content": "喜欢吃什么？",
+              "group": "第一轮 / Day 2 —— 4月2日"
+            },
+            {
+              "id": "step_higuchi_haruka_026",
+              "type": "choice",
+              "content": "周末怎么过？",
+              "group": "第一轮 / Day 2 —— 4月2日"
+            },
+            {
+              "id": "step_higuchi_haruka_027",
+              "type": "choice",
+              "content": "『喜欢』",
+              "group": "第一轮 / Day 2 —— 4月2日"
+            },
+            {
+              "id": "step_higuchi_haruka_028",
+              "type": "choice",
+              "content": "因为对阿遥感兴趣",
+              "prefix": "★",
+              "group": "第一轮 / Day 2 —— 4月2日"
+            },
+            {
+              "id": "step_higuchi_haruka_029",
+              "type": "choice",
+              "content": "很好地遮掩过去",
+              "group": "第一轮 / Day 2 —— 4月2日"
+            },
+            {
+              "id": "step_higuchi_haruka_030",
+              "type": "choice",
+              "content": "朝着阿遥和亿彦的方向",
+              "prefix": "★",
+              "group": "第一轮 / Day 2 —— 4月2日"
+            },
+            {
+              "id": "step_higuchi_haruka_031",
+              "type": "choice",
+              "content": "为了去救两人而跳海",
+              "group": "第一轮 / Day 2 —— 4月2日"
+            },
+            {
+              "id": "step_higuchi_haruka_032",
+              "type": "note",
+              "content": "她的话是什么意思呢……",
+              "group": "第一轮 / Day 2 —— 4月2日"
+            },
+            {
+              "id": "step_higuchi_haruka_033",
+              "type": "choice",
+              "content": "和他一起去",
+              "group": "第一轮 / Day 2 —— 4月2日"
+            },
+            {
+              "id": "step_higuchi_haruka_034",
+              "type": "choice",
+              "content": "打破砂锅问到底",
+              "group": "第一轮 / Day 2 —— 4月2日"
+            },
+            {
+              "id": "step_higuchi_haruka_035",
+              "type": "choice",
+              "content": "『我，我来教你』",
+              "group": "第一轮 / Day 2 —— 4月2日"
+            },
+            {
+              "id": "step_higuchi_haruka_036",
+              "type": "choice",
+              "content": "『……和我』",
+              "prefix": "★",
+              "group": "第一轮 / Day 3 —— 4月3日"
+            },
+            {
+              "id": "step_higuchi_haruka_037",
+              "type": "choice",
+              "content": "『啊啊，阿遥遵守了约定』",
+              "prefix": "★",
+              "group": "第一轮 / Day 3 —— 4月3日"
+            },
+            {
+              "id": "step_higuchi_haruka_038",
+              "type": "choice",
+              "content": "『不是的，阿遥』",
+              "prefix": "★",
+              "group": "第一轮 / Day 3 —— 4月3日"
+            },
+            {
+              "id": "step_higuchi_haruka_039",
+              "type": "choice",
+              "content": "有过",
+              "group": "第一轮 / Day 3 —— 4月3日"
+            },
+            {
+              "id": "step_higuchi_haruka_040",
+              "type": "choice",
+              "content": "不，不是这么回事儿……",
+              "prefix": "★",
+              "group": "第一轮 / Day 3 —— 4月3日"
+            },
+            {
+              "id": "step_higuchi_haruka_041",
+              "type": "choice",
+              "content": "那个……",
+              "group": "第一轮 / Day 3 —— 4月3日"
+            },
+            {
+              "id": "step_higuchi_haruka_042",
+              "type": "choice",
+              "content": "讲话打消她的怒气",
+              "group": "第一轮 / Day 3 —— 4月3日"
+            },
+            {
+              "id": "step_higuchi_haruka_043",
+              "type": "choice",
+              "content": "跑到至美身边",
+              "group": "第一轮 / Day 3 —— 4月3日"
+            },
+            {
+              "id": "step_higuchi_haruka_044",
+              "type": "choice",
+              "content": "『说真的……是有些吃惊』",
+              "group": "第一轮 / Day 3 —— 4月3日"
+            },
+            {
+              "id": "step_higuchi_haruka_045",
+              "type": "choice",
+              "content": "『但是，今天不是吃奶油煮菜吗？』",
+              "group": "第一轮 / Day 3 —— 4月3日"
+            },
+            {
+              "id": "step_higuchi_haruka_046",
+              "type": "choice",
+              "content": "出布",
+              "prefix": "★",
+              "group": "第一轮 / Day 3 —— 4月3日"
+            },
+            {
+              "id": "step_higuchi_haruka_047",
+              "type": "choice",
+              "content": "『呼~』坐在水池边",
+              "prefix": "★",
+              "group": "第一轮 / Day 3 —— 4月3日"
+            },
+            {
+              "id": "step_higuchi_haruka_048",
+              "type": "choice",
+              "content": "一句『我不想听你说！』打断她",
+              "group": "第一轮 / Day 4 —— 4月4日"
+            },
+            {
+              "id": "step_higuchi_haruka_049",
+              "type": "choice",
+              "content": "去钓鱼",
+              "prefix": "★",
+              "group": "第一轮 / Day 4 —— 4月4日"
+            },
+            {
+              "id": "step_higuchi_haruka_050",
+              "type": "choice",
+              "content": "『有』",
+              "prefix": "★",
+              "group": "第一轮 / Day 4 —— 4月4日"
+            },
+            {
+              "id": "step_higuchi_haruka_051",
+              "type": "choice",
+              "content": "向阿遥伸出手",
+              "prefix": "★",
+              "group": "第一轮 / Day 4 —— 4月4日"
+            },
+            {
+              "id": "step_higuchi_haruka_052",
+              "type": "choice",
+              "content": "不……",
+              "prefix": "★",
+              "group": "第一轮 / Day 5 —— 4月5日"
+            },
+            {
+              "id": "step_higuchi_haruka_053",
+              "type": "choice",
+              "content": "『还、还没……』",
+              "group": "第二轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_higuchi_haruka_054",
+              "type": "choice",
+              "content": "同遥搭话",
+              "prefix": "★",
+              "group": "第二轮 / Day 2 —— 4月2日"
+            },
+            {
+              "id": "step_higuchi_haruka_055",
+              "type": "choice",
+              "content": "带阿遥出去",
+              "prefix": "★",
+              "group": "第二轮 / Day 3 —— 4月3日"
+            },
+            {
+              "id": "step_higuchi_haruka_056",
+              "type": "choice",
+              "content": "『我和阿遥是互相信任的』",
+              "prefix": "★",
+              "group": "第二轮 / Day 3 —— 4月3日"
+            },
+            {
+              "id": "step_higuchi_haruka_057",
+              "type": "choice",
+              "content": "有点头疼",
+              "prefix": "★",
+              "group": "第二轮 / Day 5 —— 4月5日"
+            },
+            {
+              "id": "step_higuchi_haruka_058",
+              "type": "choice",
+              "content": "姬之滨 or 月亮沙滩 or 展望公园 or 神社",
+              "subfix": "探索-任意即可，会选多次",
+              "group": "第二轮 / Day 6 —— 4月6日"
+            },
+            {
+              "id": "step_higuchi_haruka_059",
+              "type": "choice",
+              "content": "我去救小狗！",
+              "subfix": "否则BE",
+              "group": "第二轮 / Day 6 —— 4月6日"
+            },
+            {
+              "id": "step_higuchi_haruka_060",
+              "type": "choice",
+              "content": "回旅馆",
+              "subfix": "否则BE",
+              "group": "第二轮 / Day 6 —— 4月6日"
+            },
+            {
+              "id": "step_higuchi_haruka_061",
+              "type": "choice",
+              "content": "问问亿彦",
+              "subfix": "否则BE",
+              "group": "第二轮 / Day 6 —— 4月6日"
+            },
+            {
+              "id": "step_higuchi_haruka_062",
+              "type": "choice",
+              "content": "为了找我……？",
+              "prefix": "★",
+              "group": "第二轮 / Day 6 —— 4月6日"
+            },
+            {
+              "id": "step_higuchi_haruka_063",
+              "type": "choice",
+              "content": "月屋旅馆 or 月亮沙滩 or 展望公园",
+              "subfix": "探索-任意即可，会选多次",
+              "group": "第二轮 / Day 6 —— 4月6日"
+            },
+            {
+              "id": "step_higuchi_haruka_064",
+              "type": "choice",
+              "content": "混蛋！难道要见死不救！",
+              "subfix": "否则BE",
+              "group": "第二轮 / Day 6 —— 4月6日"
+            },
+            {
+              "id": "step_higuchi_haruka_065",
+              "type": "choice",
+              "content": "月亮沙滩 or 展望公园 or",
+              "subfix": "探索-会根据所在地不同改变选项，任意即可，会选多次",
+              "group": "第二轮 / Day 6 —— 4月6日"
+            },
+            {
+              "id": "step_higuchi_haruka_066",
+              "type": "choice",
+              "content": "坚持到最后！！",
+              "subfix": "否则BE",
+              "group": "第二轮 / Day 6 —— 4月6日"
+            },
+            {
+              "id": "step_higuchi_haruka_067",
+              "type": "note",
+              "content": "这是我说的话……",
+              "subfix": "未选择『★为了找我……？』时出现",
+              "group": "第二轮 / Day 6 —— 4月6日"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_asakura_saki",
+      "name": "朝仓沙纪",
+      "endings": [
+        {
+          "id": "ending_asakura_saki_end",
+          "name": "沙纪 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_asakura_saki_001",
+              "type": "choice",
+              "content": "我微笑着注视着她",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_asakura_saki_002",
+              "type": "choice",
+              "content": "坐在那里呆呆地出神",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_asakura_saki_003",
+              "type": "choice",
+              "content": "第三次说『早上好』",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_asakura_saki_004",
+              "type": "choice",
+              "content": "回想昨晚的事",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_asakura_saki_005",
+              "type": "choice",
+              "content": "『优夏，你会做饭吗？』",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_asakura_saki_006",
+              "type": "choice",
+              "content": "『嗯，嗯……』",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_asakura_saki_007",
+              "type": "choice",
+              "content": "我决定顺着阿遥",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_asakura_saki_008",
+              "type": "choice",
+              "content": "『这算什么回答啊』",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_asakura_saki_009",
+              "type": "choice",
+              "content": "和优夏一起打网球",
+              "prefix": "★",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_asakura_saki_010",
+              "type": "choice",
+              "content": "放高球",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_asakura_saki_011",
+              "type": "choice",
+              "content": "斜线",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_asakura_saki_012",
+              "type": "choice",
+              "content": "上网截击",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_asakura_saki_013",
+              "type": "choice",
+              "content": "伏特加！→啤酒！→干邑！",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_asakura_saki_014",
+              "type": "choice",
+              "content": "原本就是因为优夏才弄成这样的",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_asakura_saki_015",
+              "type": "choice",
+              "content": "『还是，算了吧？』",
+              "prefix": "★",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_asakura_saki_016",
+              "type": "choice",
+              "content": "『是吗~』",
+              "prefix": "★",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_asakura_saki_017",
+              "type": "choice",
+              "content": "据理力争",
+              "prefix": "★",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_asakura_saki_018",
+              "type": "choice",
+              "content": "我一点都不打算袒护亿彦",
+              "prefix": "★",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_asakura_saki_019",
+              "type": "choice",
+              "content": "『这个嘛……』",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_asakura_saki_020",
+              "type": "choice",
+              "content": "这样做有些失礼吧？",
+              "prefix": "★",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_asakura_saki_021",
+              "type": "choice",
+              "content": "和沙纪说话",
+              "prefix": "★",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_asakura_saki_022",
+              "type": "choice",
+              "content": "我想来个恶作剧",
+              "prefix": "★",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_asakura_saki_023",
+              "type": "choice",
+              "content": "我朝她笑了笑",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_asakura_saki_024",
+              "type": "choice",
+              "content": "我想我没准儿会就这么晕过去的",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_asakura_saki_025",
+              "type": "choice",
+              "content": "『是这样的』",
+              "prefix": "★",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_asakura_saki_026",
+              "type": "choice",
+              "content": "我看着阿遥的脸，一句话都没有说",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_asakura_saki_027",
+              "type": "choice",
+              "content": "『逸美小姐，要地震了！！』",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_asakura_saki_028",
+              "type": "choice",
+              "content": "干脆的说出『自己的预知能力』",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_asakura_saki_029",
+              "type": "choice",
+              "content": "『不用担心』我让阿遥放心",
+              "group": "第一轮 / Day 2 —— 4月2日"
+            },
+            {
+              "id": "step_asakura_saki_030",
+              "type": "choice",
+              "content": "口渴了",
+              "prefix": "★",
+              "group": "第一轮 / Day 2 —— 4月2日"
+            },
+            {
+              "id": "step_asakura_saki_031",
+              "type": "choice",
+              "content": "作个自我介绍",
+              "prefix": "★",
+              "group": "第一轮 / Day 2 —— 4月2日"
+            },
+            {
+              "id": "step_asakura_saki_032",
+              "type": "choice",
+              "content": "啤酒也行吧",
+              "prefix": "★",
+              "group": "第一轮 / Day 2 —— 4月2日"
+            },
+            {
+              "id": "step_asakura_saki_033",
+              "type": "choice",
+              "content": "又一次说起『预知』的话题",
+              "group": "第一轮 / Day 2 —— 4月2日"
+            },
+            {
+              "id": "step_asakura_saki_034",
+              "type": "choice",
+              "content": "朝着至美和沙纪的方向",
+              "group": "第一轮 / Day 2 —— 4月2日"
+            },
+            {
+              "id": "step_asakura_saki_035",
+              "type": "choice",
+              "content": "为了去救两人而跳海",
+              "group": "第一轮 / Day 2 —— 4月2日"
+            },
+            {
+              "id": "step_asakura_saki_036",
+              "type": "choice",
+              "content": "『你说什么』",
+              "prefix": "★",
+              "group": "第一轮 / Day 2 —— 4月2日"
+            },
+            {
+              "id": "step_asakura_saki_037",
+              "type": "choice",
+              "content": "和他一起去",
+              "prefix": "★",
+              "group": "第一轮 / Day 2 —— 4月2日"
+            },
+            {
+              "id": "step_asakura_saki_038",
+              "type": "choice",
+              "content": "不想说，也没办法了",
+              "prefix": "★",
+              "group": "第一轮 / Day 2 —— 4月2日"
+            },
+            {
+              "id": "step_asakura_saki_039",
+              "type": "choice",
+              "content": "『没有……心？』",
+              "group": "第一轮 / Day 2 —— 4月2日"
+            },
+            {
+              "id": "step_asakura_saki_040",
+              "type": "choice",
+              "content": "『……和我』",
+              "group": "第一轮 / Day 3 —— 4月3日"
+            },
+            {
+              "id": "step_asakura_saki_041",
+              "type": "choice",
+              "content": "『……哎，这个嘛』",
+              "group": "第一轮 / Day 3 —— 4月3日"
+            },
+            {
+              "id": "step_asakura_saki_042",
+              "type": "choice",
+              "content": "我无法回答",
+              "group": "第一轮 / Day 3 —— 4月3日"
+            },
+            {
+              "id": "step_asakura_saki_043",
+              "type": "choice",
+              "content": "有过",
+              "group": "第一轮 / Day 3 —— 4月3日"
+            },
+            {
+              "id": "step_asakura_saki_044",
+              "type": "choice",
+              "content": "怎么……回答好呢？",
+              "group": "第一轮 / Day 3 —— 4月3日"
+            },
+            {
+              "id": "step_asakura_saki_045",
+              "type": "choice",
+              "content": "『是阿遥对我说要我吻的呀……』",
+              "group": "第一轮 / Day 3 —— 4月3日"
+            },
+            {
+              "id": "step_asakura_saki_046",
+              "type": "choice",
+              "content": "用力拉住沙纪",
+              "group": "第一轮 / Day 3 —— 4月3日"
+            },
+            {
+              "id": "step_asakura_saki_047",
+              "type": "choice",
+              "content": "『沙纪……！你在作什么……』",
+              "group": "第一轮 / Day 3 —— 4月3日"
+            },
+            {
+              "id": "step_asakura_saki_048",
+              "type": "choice",
+              "content": "『不要介意呀』",
+              "group": "第一轮 / Day 3 —— 4月3日"
+            },
+            {
+              "id": "step_asakura_saki_049",
+              "type": "choice",
+              "content": "『但是，今天不是吃咖喱饭吗？』",
+              "group": "第一轮 / Day 3 —— 4月3日"
+            },
+            {
+              "id": "step_asakura_saki_050",
+              "type": "choice",
+              "content": "还是担心沙纪",
+              "prefix": "★",
+              "group": "第一轮 / Day 3 —— 4月3日"
+            },
+            {
+              "id": "step_asakura_saki_051",
+              "type": "choice",
+              "content": "偷偷进去",
+              "prefix": "★",
+              "group": "第一轮 / Day 3 —— 4月3日"
+            },
+            {
+              "id": "step_asakura_saki_052",
+              "type": "choice",
+              "content": "修好后送回沙纪处",
+              "prefix": "★",
+              "group": "第一轮 / Day 3 —— 4月3日"
+            },
+            {
+              "id": "step_asakura_saki_053",
+              "type": "choice",
+              "content": "『让沙纪亲手接过去』",
+              "prefix": "★",
+              "group": "第一轮 / Day 4 —— 4月4日"
+            },
+            {
+              "id": "step_asakura_saki_054",
+              "type": "choice",
+              "content": "『等等！』",
+              "group": "第一轮 / Day 4 —— 4月4日"
+            },
+            {
+              "id": "step_asakura_saki_055",
+              "type": "choice",
+              "content": "『等等』",
+              "prefix": "★",
+              "group": "第一轮 / Day 5 —— 4月5日"
+            },
+            {
+              "id": "step_asakura_saki_056",
+              "type": "choice",
+              "content": "我用脚把沙纪绊倒。",
+              "group": "第一轮 / Day 5 —— 4月5日"
+            },
+            {
+              "id": "step_asakura_saki_057",
+              "type": "choice",
+              "content": "『怎么？』",
+              "prefix": "★",
+              "group": "第一轮 / Day 5 —— 4月5日"
+            },
+            {
+              "id": "step_asakura_saki_058",
+              "type": "choice",
+              "content": "『没有啊……』",
+              "prefix": "★",
+              "group": "第一轮 / Day 5 —— 4月5日"
+            },
+            {
+              "id": "step_asakura_saki_059",
+              "type": "choice",
+              "content": "说了实话",
+              "prefix": "★",
+              "group": "第一轮 / Day 5 —— 4月5日"
+            },
+            {
+              "id": "step_asakura_saki_060",
+              "type": "choice",
+              "content": "『………………』",
+              "group": "第一轮 / Day 6 —— 4月6日"
+            },
+            {
+              "id": "step_asakura_saki_061",
+              "type": "choice",
+              "content": "跳进海里",
+              "prefix": "★",
+              "group": "第二轮 / Day 2 —— 4月2日"
+            },
+            {
+              "id": "step_asakura_saki_062",
+              "type": "choice",
+              "content": "就按预定行事",
+              "prefix": "★",
+              "group": "第二轮 / Day 2 —— 4月2日"
+            },
+            {
+              "id": "step_asakura_saki_063",
+              "type": "choice",
+              "content": "说明情况",
+              "prefix": "★",
+              "group": "第二轮 / Day 4 —— 4月4日"
+            },
+            {
+              "id": "step_asakura_saki_064",
+              "type": "choice",
+              "content": "沙纪没有偷！",
+              "prefix": "★",
+              "subfix": "否则BE",
+              "group": "第二轮 / Day 6 —— 4月6日"
+            },
+            {
+              "id": "step_asakura_saki_065",
+              "type": "choice",
+              "content": "我不是要你相信我",
+              "prefix": "★",
+              "subfix": "否则BE",
+              "group": "第二轮 / Day 6 —— 4月6日"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_morino_yoshimi",
+      "name": "守野至美",
+      "endings": [
+        {
+          "id": "ending_morino_yoshimi_end",
+          "name": "至美 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_morino_yoshimi_001",
+              "type": "choice",
+              "content": "『怎么，有什么事吗？』我试着耐心的问道",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_morino_yoshimi_002",
+              "type": "choice",
+              "content": "坐在那里呆呆地出神",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_morino_yoshimi_003",
+              "type": "choice",
+              "content": "第三次说『早上好』",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_morino_yoshimi_004",
+              "type": "choice",
+              "content": "回想昨晚的事",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_morino_yoshimi_005",
+              "type": "choice",
+              "content": "『啊，我不是这个意思，不过……』",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_morino_yoshimi_006",
+              "type": "choice",
+              "content": "『嗯，还不……』",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_morino_yoshimi_007",
+              "type": "choice",
+              "content": "我决定顺着阿遥",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_morino_yoshimi_008",
+              "type": "choice",
+              "content": "『这算什么回答啊』",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_morino_yoshimi_009",
+              "type": "choice",
+              "content": "我也想去海边",
+              "prefix": "★",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_morino_yoshimi_010",
+              "type": "choice",
+              "content": "撒谎说：『我也想看海』",
+              "prefix": "★",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_morino_yoshimi_011",
+              "type": "choice",
+              "content": "难道……",
+              "prefix": "★",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_morino_yoshimi_012",
+              "type": "choice",
+              "content": "沉默不语",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_morino_yoshimi_013",
+              "type": "choice",
+              "content": "我一点都不打算袒护亿彦",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_morino_yoshimi_014",
+              "type": "choice",
+              "content": "『这个嘛……』",
+              "prefix": "★",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_morino_yoshimi_015",
+              "type": "choice",
+              "content": "这样做有些失礼吧？",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_morino_yoshimi_016",
+              "type": "choice",
+              "content": "对阿遥说话",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_morino_yoshimi_017",
+              "type": "choice",
+              "content": "『那就拜托了』",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_morino_yoshimi_018",
+              "type": "choice",
+              "content": "我想我没准儿回就这么晕过去的",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_morino_yoshimi_019",
+              "type": "choice",
+              "content": "一言不发",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_morino_yoshimi_020",
+              "type": "choice",
+              "content": "『真的吗？』",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_morino_yoshimi_021",
+              "type": "choice",
+              "content": "我看着阿遥的脸，一句话都没有说",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_morino_yoshimi_022",
+              "type": "choice",
+              "content": "向2人身边跑过去",
+              "prefix": "★",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_morino_yoshimi_023",
+              "type": "choice",
+              "content": "含糊掩饰",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_morino_yoshimi_024",
+              "type": "choice",
+              "content": "实际上我也在担心至美",
+              "prefix": "★",
+              "group": "第一轮 / Day 2 —— 4月2日"
+            },
+            {
+              "id": "step_morino_yoshimi_025",
+              "type": "choice",
+              "content": "去追至美",
+              "prefix": "★",
+              "group": "第一轮 / Day 2 —— 4月2日"
+            },
+            {
+              "id": "step_morino_yoshimi_026",
+              "type": "choice",
+              "content": "很好地掩饰过去",
+              "group": "第一轮 / Day 2 —— 4月2日"
+            },
+            {
+              "id": "step_morino_yoshimi_027",
+              "type": "choice",
+              "content": "朝着至美和沙纪的方向",
+              "prefix": "★",
+              "group": "第一轮 / Day 2 —— 4月2日"
+            },
+            {
+              "id": "step_morino_yoshimi_028",
+              "type": "choice",
+              "content": "为了去救两人而跳海",
+              "prefix": "★",
+              "group": "第一轮 / Day 2 —— 4月2日"
+            },
+            {
+              "id": "step_morino_yoshimi_029",
+              "type": "note",
+              "content": "她的话是什么意思呢……",
+              "group": "第一轮 / Day 2 —— 4月2日"
+            },
+            {
+              "id": "step_morino_yoshimi_030",
+              "type": "choice",
+              "content": "不和他一起去",
+              "prefix": "★",
+              "group": "第一轮 / Day 2 —— 4月2日"
+            },
+            {
+              "id": "step_morino_yoshimi_031",
+              "type": "choice",
+              "content": "『我，我来教你』",
+              "group": "第一轮 / Day 2 —— 4月2日"
+            },
+            {
+              "id": "step_morino_yoshimi_032",
+              "type": "choice",
+              "content": "『……和我』",
+              "group": "第一轮 / Day 3 —— 4月3日"
+            },
+            {
+              "id": "step_morino_yoshimi_033",
+              "type": "choice",
+              "content": "『……哎，这个嘛』",
+              "group": "第一轮 / Day 3 —— 4月3日"
+            },
+            {
+              "id": "step_morino_yoshimi_034",
+              "type": "choice",
+              "content": "『不是的，阿遥』",
+              "group": "第一轮 / Day 3 —— 4月3日"
+            },
+            {
+              "id": "step_morino_yoshimi_035",
+              "type": "choice",
+              "content": "有过",
+              "group": "第一轮 / Day 3 —— 4月3日"
+            },
+            {
+              "id": "step_morino_yoshimi_036",
+              "type": "choice",
+              "content": "怎么……回答好呢？",
+              "group": "第一轮 / Day 3 —— 4月3日"
+            },
+            {
+              "id": "step_morino_yoshimi_037",
+              "type": "choice",
+              "content": "『是阿遥对我说要我吻的呀……』",
+              "group": "第一轮 / Day 3 —— 4月3日"
+            },
+            {
+              "id": "step_morino_yoshimi_038",
+              "type": "choice",
+              "content": "讲话打消她的怒气",
+              "group": "第一轮 / Day 3 —— 4月3日"
+            },
+            {
+              "id": "step_morino_yoshimi_039",
+              "type": "choice",
+              "content": "跑到至美身边",
+              "prefix": "★",
+              "group": "第一轮 / Day 3 —— 4月3日"
+            },
+            {
+              "id": "step_morino_yoshimi_040",
+              "type": "choice",
+              "content": "『不要介意呀』",
+              "group": "第一轮 / Day 3 —— 4月3日"
+            },
+            {
+              "id": "step_morino_yoshimi_041",
+              "type": "choice",
+              "content": "『但是，今天不是吃咖喱饭吗？』",
+              "group": "第一轮 / Day 3 —— 4月3日"
+            },
+            {
+              "id": "step_morino_yoshimi_042",
+              "type": "choice",
+              "content": "确实是个很好的计划",
+              "prefix": "★",
+              "group": "第一轮 / Day 3 —— 4月3日"
+            },
+            {
+              "id": "step_morino_yoshimi_043",
+              "type": "choice",
+              "content": "『至美……是怎么了呢？』",
+              "prefix": "★",
+              "group": "第一轮 / Day 3 —— 4月3日"
+            },
+            {
+              "id": "step_morino_yoshimi_044",
+              "type": "choice",
+              "content": "去",
+              "prefix": "★",
+              "group": "第一轮 / Day 3 —— 4月3日"
+            },
+            {
+              "id": "step_morino_yoshimi_045",
+              "type": "choice",
+              "content": "救你",
+              "prefix": "★",
+              "group": "第一轮 / Day 3 —— 4月3日"
+            },
+            {
+              "id": "step_morino_yoshimi_046",
+              "type": "choice",
+              "content": "坚持听到最后",
+              "prefix": "★",
+              "group": "第一轮 / Day 4 —— 4月4日"
+            },
+            {
+              "id": "step_morino_yoshimi_049",
+              "type": "choice",
+              "content": "留在月光沙滩",
+              "prefix": "★",
+              "group": "第一轮 / Day 4 —— 4月4日"
+            },
+            {
+              "id": "step_morino_yoshimi_050",
+              "type": "choice",
+              "content": "至美也来吗？",
+              "group": "第一轮 / Day 4 —— 4月4日"
+            },
+            {
+              "id": "step_morino_yoshimi_051",
+              "type": "choice",
+              "content": "确实有些过分了。",
+              "group": "第一轮 / Day 4 —— 4月4日"
+            },
+            {
+              "id": "step_morino_yoshimi_052",
+              "type": "choice",
+              "content": "『其实我准备今晚去神社。』",
+              "group": "第一轮 / Day 4 —— 4月4日"
+            },
+            {
+              "id": "step_morino_yoshimi_053",
+              "type": "choice",
+              "content": "知道",
+              "group": "第一轮 / Day 5 —— 4月5日"
+            },
+            {
+              "id": "step_morino_yoshimi_054",
+              "type": "choice",
+              "content": "没有问题",
+              "group": "第一轮 / Day 5 —— 4月5日"
+            },
+            {
+              "id": "step_morino_yoshimi_055",
+              "type": "choice",
+              "content": "会折纸鹤",
+              "group": "第一轮 / Day 5 —— 4月5日"
+            },
+            {
+              "id": "step_morino_yoshimi_056",
+              "type": "choice",
+              "content": "弄错了，这不是沙纪的家",
+              "prefix": "★",
+              "group": "第二轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_morino_yoshimi_057",
+              "type": "choice",
+              "content": "置之不理站起来",
+              "prefix": "★",
+              "subfix": "否则BE",
+              "group": "第二轮 / Day 6 —— 4月6日"
+            },
+            {
+              "id": "step_morino_yoshimi_058",
+              "type": "choice",
+              "content": "告诉她时光停止流逝的事",
+              "prefix": "★",
+              "subfix": "否则BE",
+              "group": "第二轮 / Day 6 —— 4月6日"
+            },
+            {
+              "id": "step_morino_yoshimi_059",
+              "type": "choice",
+              "content": "到神社",
+              "prefix": "★",
+              "subfix": "否则BE",
+              "group": "第二轮 / Day 6 —— 4月6日"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_morino_itsumi",
+      "name": "守野逸美",
+      "endings": [
+        {
+          "id": "ending_morino_itsumi_end1",
+          "name": "逸美 END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_morino_itsumi_001",
+              "type": "choice",
+              "content": "『怎么，有什么事吗？』我试着耐心的问道",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_morino_itsumi_002",
+              "type": "choice",
+              "content": "坐在那里呆呆地出神",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_morino_itsumi_003",
+              "type": "choice",
+              "content": "试着说其他的话",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_morino_itsumi_004",
+              "type": "choice",
+              "content": "和亿彦说话",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_morino_itsumi_005",
+              "type": "choice",
+              "content": "『优夏，你会做饭吗？』",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_morino_itsumi_006",
+              "type": "choice",
+              "content": "『嗯，还不……』",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_morino_itsumi_007",
+              "type": "choice",
+              "content": "我决定顺着优夏",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_morino_itsumi_008",
+              "type": "choice",
+              "content": "『研讨』指的又是什么呢？",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_morino_itsumi_009",
+              "type": "choice",
+              "content": "我也想去海边",
+              "prefix": "★",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_morino_itsumi_010",
+              "type": "choice",
+              "content": "撒谎说：『我也想看海』",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_morino_itsumi_011",
+              "type": "choice",
+              "content": "难道……",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_morino_itsumi_012",
+              "type": "choice",
+              "content": "沉默不语",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_morino_itsumi_013",
+              "type": "choice",
+              "content": "我一点都不打算袒护亿彦",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_morino_itsumi_014",
+              "type": "choice",
+              "content": "『很高兴~』",
+              "prefix": "★",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_morino_itsumi_015",
+              "type": "choice",
+              "content": "优夏要和我一起去买东西的",
+              "prefix": "★",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_morino_itsumi_016",
+              "type": "choice",
+              "content": "你倒是真悠闲啊……",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_morino_itsumi_017",
+              "type": "choice",
+              "content": "我就这么晕过去了",
+              "prefix": "★",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_morino_itsumi_018",
+              "type": "choice",
+              "content": "『受到您如此热情的关照，这合适吗？』",
+              "prefix": "★",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_morino_itsumi_019",
+              "type": "choice",
+              "content": "『真的吗？』",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_morino_itsumi_020",
+              "type": "choice",
+              "content": "我看着阿遥的脸，一句话都没有说",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_morino_itsumi_021",
+              "type": "choice",
+              "content": "向2人身边跑过去",
+              "prefix": "★",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_morino_itsumi_022",
+              "type": "choice",
+              "content": "干脆的说出『自己的预知能力』",
+              "group": "第一轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_morino_itsumi_023",
+              "type": "choice",
+              "content": "实际上我也在担心至美",
+              "prefix": "★",
+              "group": "第一轮 / Day 2 —— 4月2日"
+            },
+            {
+              "id": "step_morino_itsumi_024",
+              "type": "choice",
+              "content": "去泳池",
+              "prefix": "★",
+              "group": "第一轮 / Day 2 —— 4月2日"
+            },
+            {
+              "id": "step_morino_itsumi_025",
+              "type": "choice",
+              "content": "像海豚一样潜水",
+              "prefix": "★",
+              "group": "第一轮 / Day 2 —— 4月2日"
+            },
+            {
+              "id": "step_morino_itsumi_026",
+              "type": "choice",
+              "content": "『枕在你的膝上！』",
+              "prefix": "★",
+              "group": "第一轮 / Day 2 —— 4月2日"
+            },
+            {
+              "id": "step_morino_itsumi_027",
+              "type": "choice",
+              "content": "『让我大吃一惊……』",
+              "prefix": "★",
+              "group": "第一轮 / Day 2 —— 4月2日"
+            },
+            {
+              "id": "step_morino_itsumi_028",
+              "type": "choice",
+              "content": "『至美真是一个奇怪的孩子』",
+              "prefix": "★",
+              "group": "第一轮 / Day 2 —— 4月2日"
+            },
+            {
+              "id": "step_morino_itsumi_029",
+              "type": "choice",
+              "content": "很好地遮掩过去",
+              "group": "第一轮 / Day 2 —— 4月2日"
+            },
+            {
+              "id": "step_morino_itsumi_030",
+              "type": "choice",
+              "content": "朝着至美和沙纪的方向",
+              "group": "第一轮 / Day 2 —— 4月2日"
+            },
+            {
+              "id": "step_morino_itsumi_031",
+              "type": "choice",
+              "content": "为了去救两人而跳海",
+              "group": "第一轮 / Day 2 —— 4月2日"
+            },
+            {
+              "id": "step_morino_itsumi_032",
+              "type": "choice",
+              "content": "『你说什么』",
+              "group": "第一轮 / Day 2 —— 4月2日"
+            },
+            {
+              "id": "step_morino_itsumi_033",
+              "type": "choice",
+              "content": "不和他一起去",
+              "group": "第一轮 / Day 2 —— 4月2日"
+            },
+            {
+              "id": "step_morino_itsumi_034",
+              "type": "choice",
+              "content": "『没有……心？』",
+              "group": "第一轮 / Day 2 —— 4月2日"
+            },
+            {
+              "id": "step_morino_itsumi_035",
+              "type": "choice",
+              "content": "『……和我』",
+              "group": "第一轮 / Day 3 —— 4月3日"
+            },
+            {
+              "id": "step_morino_itsumi_036",
+              "type": "choice",
+              "content": "『……哎，这个嘛』",
+              "group": "第一轮 / Day 3 —— 4月3日"
+            },
+            {
+              "id": "step_morino_itsumi_037",
+              "type": "choice",
+              "content": "『不是的，阿遥』",
+              "group": "第一轮 / Day 3 —— 4月3日"
+            },
+            {
+              "id": "step_morino_itsumi_038",
+              "type": "choice",
+              "content": "有过",
+              "group": "第一轮 / Day 3 —— 4月3日"
+            },
+            {
+              "id": "step_morino_itsumi_039",
+              "type": "choice",
+              "content": "怎么……回答好呢？",
+              "group": "第一轮 / Day 3 —— 4月3日"
+            },
+            {
+              "id": "step_morino_itsumi_040",
+              "type": "choice",
+              "content": "『是阿遥对我说要我吻的呀……』",
+              "group": "第一轮 / Day 3 —— 4月3日"
+            },
+            {
+              "id": "step_morino_itsumi_041",
+              "type": "choice",
+              "content": "讲话打消她的怒气",
+              "group": "第一轮 / Day 3 —— 4月3日"
+            },
+            {
+              "id": "step_morino_itsumi_042",
+              "type": "choice",
+              "content": "跑到至美身边",
+              "group": "第一轮 / Day 3 —— 4月3日"
+            },
+            {
+              "id": "step_morino_itsumi_043",
+              "type": "choice",
+              "content": "『不要介意呀』",
+              "group": "第一轮 / Day 3 —— 4月3日"
+            },
+            {
+              "id": "step_morino_itsumi_044",
+              "type": "choice",
+              "content": "『但是，今天不是吃咖喱饭吗？』",
+              "group": "第一轮 / Day 3 —— 4月3日"
+            },
+            {
+              "id": "step_morino_itsumi_045",
+              "type": "choice",
+              "content": "出石头",
+              "prefix": "★",
+              "group": "第一轮 / Day 3 —— 4月3日"
+            },
+            {
+              "id": "step_morino_itsumi_046",
+              "type": "choice",
+              "content": "『是个电视迷吧……』",
+              "prefix": "★",
+              "group": "第一轮 / Day 3 —— 4月3日"
+            },
+            {
+              "id": "step_morino_itsumi_047",
+              "type": "choice",
+              "content": "『好舒服呀！』继续泡在温泉里",
+              "prefix": "★",
+              "group": "第一轮 / Day 3 —— 4月3日"
+            },
+            {
+              "id": "step_morino_itsumi_048",
+              "type": "choice",
+              "content": "坚持听到最后",
+              "prefix": "★",
+              "group": "第一轮 / Day 4 —— 4月4日"
+            },
+            {
+              "id": "step_morino_itsumi_051",
+              "type": "choice",
+              "content": "去姬之滨",
+              "prefix": "★",
+              "group": "第一轮 / Day 4 —— 4月4日"
+            },
+            {
+              "id": "step_morino_itsumi_052",
+              "type": "save",
+              "content": "SAVE 1",
+              "prefix": "◆",
+              "group": "第一轮 / Day 4 —— 4月4日"
+            },
+            {
+              "id": "step_morino_itsumi_053",
+              "type": "choice",
+              "content": "『交给我吧』",
+              "prefix": "★",
+              "group": "第一轮 / Day 4 —— 4月4日"
+            },
+            {
+              "id": "step_morino_itsumi_054",
+              "type": "choice",
+              "content": "回一趟小屋",
+              "prefix": "★",
+              "group": "第一轮 / Day 4 —— 4月4日"
+            },
+            {
+              "id": "step_morino_itsumi_055",
+              "type": "choice",
+              "content": "不知道",
+              "group": "第一轮 / Day 5 —— 4月5日"
+            },
+            {
+              "id": "step_morino_itsumi_056",
+              "type": "choice",
+              "content": "帮她",
+              "group": "第一轮 / Day 5 —— 4月5日"
+            },
+            {
+              "id": "step_morino_itsumi_057",
+              "type": "choice",
+              "content": "喜欢",
+              "prefix": "★",
+              "group": "第二轮 / Day 4 —— 4月4日"
+            },
+            {
+              "id": "step_morino_itsumi_058",
+              "type": "save",
+              "content": "SAVE 2",
+              "prefix": "◆",
+              "group": "第二轮 / Day 4 —— 4月4日"
+            },
+            {
+              "id": "step_morino_itsumi_059",
+              "type": "choice",
+              "content": "应该将真相告诉她们",
+              "prefix": "★",
+              "group": "第二轮 / Day 4 —— 4月4日"
+            },
+            {
+              "id": "step_morino_itsumi_060",
+              "type": "choice",
+              "content": "继续听",
+              "prefix": "★",
+              "group": "第二轮 / Day 5 —— 4月5日"
+            },
+            {
+              "id": "step_morino_itsumi_061",
+              "type": "choice",
+              "content": "没有生气",
+              "prefix": "★",
+              "group": "第二轮 / Day 5 —— 4月5日"
+            },
+            {
+              "id": "step_morino_itsumi_062",
+              "type": "choice",
+              "content": "不是这样想",
+              "group": "第二轮 / Day 5 —— 4月5日"
+            },
+            {
+              "id": "step_morino_itsumi_063",
+              "type": "choice",
+              "content": "告诉她把铃铛销毁的事情",
+              "prefix": "★",
+              "group": "第二轮 / Day 5 —— 4月5日"
+            },
+            {
+              "id": "step_morino_itsumi_064",
+              "type": "save",
+              "content": "SAVE 3",
+              "prefix": "◆",
+              "group": "第二轮 / Day 6 —— 4月6日"
+            },
+            {
+              "id": "step_morino_itsumi_065",
+              "type": "choice",
+              "content": "让车停下来！",
+              "prefix": "★",
+              "subfix": "否则BE",
+              "group": "第二轮 / Day 6 —— 4月6日"
+            }
+          ]
+        },
+        {
+          "id": "ending_morino_itsumi_end2",
+          "name": "逸美 END2",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_morino_itsumi_066",
+              "type": "load",
+              "content": "LOAD 3",
+              "prefix": "◆",
+              "group": "第二轮 / Day 6 —— 4月6日"
+            },
+            {
+              "id": "step_morino_itsumi_067",
+              "type": "choice",
+              "content": "让车停下来！",
+              "prefix": "★",
+              "subfix": "否则BE",
+              "group": "第二轮 / Day 6 —— 4月6日"
+            }
+          ]
+        },
+        {
+          "id": "ending_morino_itsumi_end3",
+          "name": "逸美 END3",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_morino_itsumi_068",
+              "type": "load",
+              "content": "LOAD 2",
+              "prefix": "◆",
+              "group": "第二轮 / Day 4 —— 4月4日"
+            },
+            {
+              "id": "step_morino_itsumi_069",
+              "type": "choice",
+              "content": "应该隐瞒着不说",
+              "prefix": "★",
+              "group": "第二轮 / Day 4 —— 4月4日"
+            },
+            {
+              "id": "step_morino_itsumi_070",
+              "type": "choice",
+              "content": "继续听",
+              "prefix": "★",
+              "group": "第二轮 / Day 5 —— 4月5日"
+            },
+            {
+              "id": "step_morino_itsumi_071",
+              "type": "choice",
+              "content": "有些生气",
+              "prefix": "★",
+              "group": "第二轮 / Day 5 —— 4月5日"
+            },
+            {
+              "id": "step_morino_itsumi_072",
+              "type": "choice",
+              "content": "是这样想",
+              "group": "第二轮 / Day 5 —— 4月5日"
+            },
+            {
+              "id": "step_morino_itsumi_073",
+              "type": "choice",
+              "content": "不告诉她把铃铛销毁的事情",
+              "prefix": "★",
+              "group": "第二轮 / Day 5 —— 4月5日"
+            },
+            {
+              "id": "step_morino_itsumi_074",
+              "type": "choice",
+              "content": "不管怎么说一定要将逸美救走",
+              "prefix": "★",
+              "subfix": "否则BE",
+              "group": "第二轮 / Day 5 —— 4月5日"
+            }
+          ]
+        },
+        {
+          "id": "ending_morino_itsumi_end4",
+          "name": "逸美 END4",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_morino_itsumi_075",
+              "type": "load",
+              "content": "LOAD 1",
+              "prefix": "◆",
+              "group": "第二轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_morino_itsumi_076",
+              "type": "choice",
+              "content": "……险些说了出来。",
+              "prefix": "★",
+              "group": "第二轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_morino_itsumi_077",
+              "type": "choice",
+              "content": "逸美小姐是决不能背叛的！",
+              "prefix": "★",
+              "group": "第二轮 / Day 1 —— 4月1日"
+            },
+            {
+              "id": "step_morino_itsumi_078",
+              "type": "choice",
+              "content": "逸美小姐是我的心上人啊……！",
+              "prefix": "★",
+              "group": "第二轮 / Day 3 —— 4月3日"
+            },
+            {
+              "id": "step_morino_itsumi_079",
+              "type": "choice",
+              "content": "拼命想逸美小姐",
+              "prefix": "★",
+              "group": "第二轮 / Day 4 —— 4月4日"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_extra_yuka",
+      "name": "附加剧情——优夏篇",
+      "endings": [
+        {
+          "id": "ending_extra_yuka_end1",
+          "name": "附加剧情——优夏篇 END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_extra_yuka_001",
+              "type": "choice",
+              "content": "不让诚说话",
+              "group": "Start"
+            },
+            {
+              "id": "step_extra_yuka_002",
+              "type": "choice",
+              "content": "就装作没有看到",
+              "group": "Start"
+            },
+            {
+              "id": "step_extra_yuka_003",
+              "type": "choice",
+              "content": "选择沙纪",
+              "group": "Start"
+            },
+            {
+              "id": "step_extra_yuka_004",
+              "type": "choice",
+              "content": "是想在途中突然松手",
+              "group": "Start"
+            },
+            {
+              "id": "step_extra_yuka_005",
+              "type": "choice",
+              "content": "知道",
+              "group": "Start"
+            },
+            {
+              "id": "step_extra_yuka_006",
+              "type": "choice",
+              "content": "先去买东西",
+              "prefix": "★",
+              "group": "Start"
+            },
+            {
+              "id": "step_extra_yuka_007",
+              "type": "choice",
+              "content": "放学后的美术室",
+              "prefix": "★",
+              "subfix": "否则BE",
+              "group": "Start"
+            },
+            {
+              "id": "step_extra_yuka_008",
+              "type": "choice",
+              "content": "不管到什么时候，我们都要在一起……！",
+              "prefix": "★",
+              "subfix": "否则BE",
+              "group": "Start"
+            }
+          ]
+        },
+        {
+          "id": "ending_extra_yuka_end2",
+          "name": "附加剧情——优夏篇 END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_extra_yuka_009",
+              "type": "choice",
+              "content": "不让诚说话",
+              "group": "Start"
+            },
+            {
+              "id": "step_extra_yuka_010",
+              "type": "choice",
+              "content": "就装作没有看到",
+              "group": "Start"
+            },
+            {
+              "id": "step_extra_yuka_011",
+              "type": "choice",
+              "content": "选择沙纪",
+              "group": "Start"
+            },
+            {
+              "id": "step_extra_yuka_012",
+              "type": "choice",
+              "content": "是想在途中突然松手",
+              "group": "Start"
+            },
+            {
+              "id": "step_extra_yuka_013",
+              "type": "choice",
+              "content": "知道",
+              "group": "Start"
+            },
+            {
+              "id": "step_extra_yuka_014",
+              "type": "choice",
+              "content": "先去找铃铛",
+              "prefix": "★",
+              "group": "Start"
+            },
+            {
+              "id": "step_extra_yuka_015",
+              "type": "choice",
+              "content": "放学后的美术室",
+              "prefix": "★",
+              "subfix": "否则BE",
+              "group": "Start"
+            },
+            {
+              "id": "step_extra_yuka_016",
+              "type": "choice",
+              "content": "不管到什么时候，我们都要在一起……！",
+              "prefix": "★",
+              "subfix": "否则BE",
+              "group": "Start"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

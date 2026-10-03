@@ -1,0 +1,106 @@
+{
+  "vid": "v18077",
+  "name": {
+    "zh-cn": "妖蛆之饵",
+    "ja-jp": "Maggot baits",
+    "ja-Latn": "maggot-baits"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-14",
+  "tips": [
+    "★号选项为追加选项，不出现时无视即可"
+  ],
+  "routes": [
+    {
+      "id": "route_game",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_end1",
+          "name": "欢迎来到猴子屋",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_end1_02",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_end1_03",
+              "type": "choice",
+              "content": "留在这里"
+            }
+          ]
+        },
+        {
+          "id": "ending_end2",
+          "name": "血腥的收获",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_end2_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_end2_02",
+              "type": "choice",
+              "content": "逃离这里"
+            },
+            {
+              "id": "step_end2_03",
+              "type": "choice",
+              "content": "感到厌恶",
+              "prefix": "★"
+            },
+            {
+              "id": "step_end2_04",
+              "type": "choice",
+              "content": "有关 \"魔女\" 的事情",
+              "prefix": "★"
+            },
+            {
+              "id": "step_end2_05",
+              "type": "choice",
+              "content": "这不关我的事",
+              "prefix": "★"
+            }
+          ]
+        },
+        {
+          "id": "ending_true_end",
+          "name": "灰烬与钻石",
+          "type": "true",
+          "requirements": "血腥的收获结局完成后",
+          "steps": [
+            {
+              "id": "step_true_02",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_true_03",
+              "type": "choice",
+              "content": "逃离这里"
+            },
+            {
+              "id": "step_true_04",
+              "type": "choice",
+              "content": "感到奇妙"
+            },
+            {
+              "id": "step_true_05",
+              "type": "choice",
+              "content": "有关至门的事情"
+            },
+            {
+              "id": "step_true_06",
+              "type": "choice",
+              "content": "总有一天谜团要被解开"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

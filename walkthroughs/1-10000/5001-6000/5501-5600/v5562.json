@@ -1,0 +1,222 @@
+{
+  "vid": "v5562",
+  "name": {
+    "zh-cn": "恋色空模様　after happiness and extra hearts",
+    "ja-jp": "恋色空模様 After Happiness and Extra Hearts",
+    "ja-Latn": "koiiro-soramoyou-after-happiness-and-extra-hearts"
+  },
+  "level": 2,
+  "updatedAt": "2026-03-04",
+  "tips": [
+    "注：佳代子、聖良、彩、静奈、美琴的后日谈需要在Extra28話选项出现后才可进入。",
+    "从最初开始游戏后，会出现章节选项。括号标注的选项为回收用，请自行回收。"
+  ],
+  "routes": [
+    {
+      "id": "route_1772632428460",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1772632488783",
+          "name": "三木 真智子",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1772632522786",
+              "type": "choice",
+              "content": "START开始"
+            },
+            {
+              "id": "step_1772632523744",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1772632538039",
+              "type": "choice",
+              "content": "真智子"
+            }
+          ]
+        },
+        {
+          "id": "ending_1772632488952",
+          "name": "毛内 清美",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1772632578229",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1772632578666",
+              "type": "choice",
+              "content": "清美"
+            }
+          ]
+        },
+        {
+          "id": "ending_1772632489133",
+          "name": "加納 佳代子",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1772632615095",
+              "type": "note",
+              "content": "※Extra28話的选项出现后"
+            },
+            {
+              "id": "step_1772632615281",
+              "type": "note",
+              "content": "※选择START开始后，在Episodes中选择"
+            },
+            {
+              "id": "step_1772632616153",
+              "type": "note",
+              "content": "After佳代子編　24話"
+            }
+          ]
+        },
+        {
+          "id": "ending_1772632636123",
+          "name": "服部 彩",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1772632647504",
+              "type": "note",
+              "content": "※Extra28話的选项出现后"
+            },
+            {
+              "id": "step_1772632647672",
+              "type": "note",
+              "content": "※选择START开始后，在Episodes中选择"
+            },
+            {
+              "id": "step_1772632647879",
+              "type": "note",
+              "content": "After彩編　24話"
+            }
+          ]
+        },
+        {
+          "id": "ending_1772632667137",
+          "name": "伊東 美琴",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1772632706707",
+              "type": "note",
+              "content": "※Extra28話的选项出现后"
+            },
+            {
+              "id": "step_1772632706892",
+              "type": "note",
+              "content": "※选择START开始后，在Episodes中选择"
+            },
+            {
+              "id": "step_1772632707217",
+              "type": "note",
+              "content": "After美琴 編　24話"
+            }
+          ]
+        },
+        {
+          "id": "ending_1772632726841",
+          "name": "中西 藍子",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1772632759588",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1772632760768",
+              "type": "choice",
+              "content": "藍子"
+            }
+          ]
+        },
+        {
+          "id": "ending_1772632775224",
+          "name": "橋本 優喜",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1772632808780",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1772632809676",
+              "type": "choice",
+              "content": "優喜"
+            }
+          ]
+        },
+        {
+          "id": "ending_1772632776063",
+          "name": "篠原 聖良",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1772632820002",
+              "type": "note",
+              "content": "※Extra28話的选项出现后"
+            },
+            {
+              "id": "step_1772632820174",
+              "type": "note",
+              "content": "※选择START开始后，在Episodes中选择"
+            },
+            {
+              "id": "step_1772632820708",
+              "type": "note",
+              "content": "After聖良編　24話"
+            },
+            {
+              "id": "step_1772632820972",
+              "type": "note",
+              "content": "「たまにはストレートロングも…」(「いやいやこのお団子頭も…」)"
+            }
+          ]
+        },
+        {
+          "id": "ending_1772632777672",
+          "name": "内海 静奈",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1772632851346",
+              "type": "note",
+              "content": "※Extra28話的选项出现后"
+            },
+            {
+              "id": "step_1772632851462",
+              "type": "note",
+              "content": "※选择START开始后，在Episodes中选择"
+            },
+            {
+              "id": "step_1772632851664",
+              "type": "note",
+              "content": "After静奈編　24話"
+            }
+          ]
+        },
+        {
+          "id": "ending_1772632899947",
+          "name": "Final",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1772632919795",
+              "type": "note",
+              "content": "以上全部END之后，选择毕业式之章开始"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "vid": "v24506",
+  "name": {
+    "zh-cn": "ココロネ＝ペンデュラム！",
+    "ja-jp": "ココロネ=ペンデュラム！",
+    "ja-Latn": "kokorone-pendulum"
+  },
+  "level": 2,
+  "updatedAt": "2026-04-13",
+  "routes": [
+    {
+      "id": "route_common",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_sumika_end",
+          "name": "澄香 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_sumika_01",
+              "type": "choice",
+              "content": "草莓蛋糕"
+            },
+            {
+              "id": "step_sumika_02",
+              "type": "choice",
+              "content": "不，也没什么特别的理由"
+            },
+            {
+              "id": "step_sumika_03",
+              "type": "choice",
+              "content": "昨天谢谢你，莉露"
+            },
+            {
+              "id": "step_sumika_04",
+              "type": "choice",
+              "content": "尤其是馆之川同学的洞察力真厉害"
+            },
+            {
+              "id": "step_sumika_05",
+              "type": "choice",
+              "content": "单纯觉得带刀她们很有魅力"
+            },
+            {
+              "id": "step_sumika_06",
+              "type": "choice",
+              "content": "菜砂也很可爱哦！"
+            },
+            {
+              "id": "step_sumika_07",
+              "type": "choice",
+              "content": "虽然有点害羞，但还是让她摸摸头"
+            },
+            {
+              "id": "step_sumika_08",
+              "type": "choice",
+              "content": "要不要一起住？"
+            },
+            {
+              "id": "step_sumika_09",
+              "type": "choice",
+              "content": "不是那个意思！"
+            },
+            {
+              "id": "step_sumika_10",
+              "type": "choice",
+              "content": "虽然水管缠住了，但当作没看见"
+            },
+            {
+              "id": "step_sumika_11",
+              "type": "choice",
+              "content": "我也很喜欢百元店"
+            },
+            {
+              "id": "step_sumika_12",
+              "type": "choice",
+              "content": "盆栽啊，真不错！"
+            },
+            {
+              "id": "step_sumika_13",
+              "type": "choice",
+              "content": "很让人心动"
+            },
+            {
+              "id": "step_sumika_14",
+              "type": "choice",
+              "content": "对不起！"
+            },
+            {
+              "id": "step_sumika_15",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_sumika_16",
+              "type": "choice",
+              "content": "果然是神代同学吧！"
+            }
+          ]
+        },
+        {
+          "id": "ending_chihaya_end",
+          "name": "千早 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_chihaya_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_chihaya_02",
+              "type": "choice",
+              "content": "当然只能选带刀同学吧"
+            }
+          ]
+        },
+        {
+          "id": "ending_riruu_end",
+          "name": "莉露 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_riruu_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_riruu_02",
+              "type": "choice",
+              "content": "不是莉露吗？"
+            }
+          ]
+        },
+        {
+          "id": "ending_tsumuri_end",
+          "name": "つむり END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_tsumuri_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_tsumuri_02",
+              "type": "choice",
+              "content": "也许是つむり"
+            }
+          ]
+        },
+        {
+          "id": "ending_nasa_end",
+          "name": "菜砂 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_nasa_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_nasa_02",
+              "type": "choice",
+              "content": "除了菜砂没有别人了吧！"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

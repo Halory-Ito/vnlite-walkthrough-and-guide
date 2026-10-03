@@ -1,0 +1,151 @@
+{
+  "vid": "v20975",
+  "name": {
+    "zh-cn": "初情スプリンクル",
+    "ja-jp": "初情スプリンクル",
+    "ja-Latn": "hatsujou-sprinkle"
+  },
+  "level": 2,
+  "updatedAt": "2026-05-08",
+  "tips": [
+    "任意一人攻略完毕后，才可攻略奏"
+  ],
+  "routes": [
+    {
+      "id": "route_game_guide",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_hazuki",
+          "name": "羽月 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_hazuki_01",
+              "type": "choice",
+              "content": "这么快就有效果了？"
+            },
+            {
+              "id": "step_hazuki_02",
+              "type": "choice",
+              "content": "介绍羽月"
+            },
+            {
+              "id": "step_hazuki_03",
+              "type": "choice",
+              "content": "庇护小春"
+            },
+            {
+              "id": "step_hazuki_04",
+              "type": "choice",
+              "content": "进行跟进"
+            },
+            {
+              "id": "step_hazuki_05",
+              "type": "choice",
+              "content": "说不能打女人"
+            },
+            {
+              "id": "step_hazuki_06",
+              "type": "choice",
+              "content": "安慰"
+            },
+            {
+              "id": "step_hazuki_07",
+              "type": "choice",
+              "content": "羽月"
+            },
+            {
+              "id": "step_hazuki_08",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_hazuki_09",
+              "type": "choice",
+              "content": "向冥堂搭话"
+            }
+          ]
+        },
+        {
+          "id": "ending_koharu",
+          "name": "小春 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_koharu_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_koharu_02",
+              "type": "choice",
+              "content": "向小春姐姐搭话"
+            }
+          ]
+        },
+        {
+          "id": "ending_mio",
+          "name": "美绪 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_mio_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_mio_02",
+              "type": "choice",
+              "content": "向日向搭话"
+            }
+          ]
+        },
+        {
+          "id": "ending_shizuku",
+          "name": "雫 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_shizuku_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_shizuku_02",
+              "type": "choice",
+              "content": "向百々咲搭话"
+            }
+          ]
+        },
+        {
+          "id": "ending_kanade",
+          "name": "奏 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_kanade_01",
+              "type": "note",
+              "content": "任意1人攻略完毕后"
+            },
+            {
+              "id": "step_kanade_02",
+              "type": "note",
+              "content": "从场景跳跃中选择"
+            },
+            {
+              "id": "step_kanade_03",
+              "type": "choice",
+              "content": "【共通】心情向着谁？"
+            },
+            {
+              "id": "step_kanade_04",
+              "type": "choice",
+              "content": "向大家搭话"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

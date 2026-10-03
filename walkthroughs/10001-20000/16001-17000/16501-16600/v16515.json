@@ -1,0 +1,136 @@
+{
+  "vid": "v16515",
+  "name": {
+    "zh-cn": "夏色食谱",
+    "ja-jp": "なついろレシピ",
+    "ja-Latn": "natsuiro-recipe"
+  },
+  "level": 2,
+  "updatedAt": "2026-04-12",
+  "routes": [
+    {
+      "id": "route_game_guide",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_yuzu_end",
+          "name": "柚 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_yuzu_01",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_yuzu_02",
+              "type": "choice",
+              "content": "拜托柚"
+            },
+            {
+              "id": "step_yuzu_03",
+              "type": "choice",
+              "content": "去看看柚的情况"
+            },
+            {
+              "id": "step_yuzu_04",
+              "type": "choice",
+              "content": "交给大家处理"
+            },
+            {
+              "id": "step_yuzu_05",
+              "type": "choice",
+              "content": "和柚一起"
+            }
+          ]
+        },
+        {
+          "id": "ending_kogomi_end",
+          "name": "こごみ END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_kogomi_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_kogomi_02",
+              "type": "choice",
+              "content": "拜托こごみ"
+            },
+            {
+              "id": "step_kogomi_03",
+              "type": "choice",
+              "content": "去看看こごみ的情况"
+            },
+            {
+              "id": "step_kogomi_05",
+              "type": "choice",
+              "content": "和こごみ一起行动"
+            }
+          ]
+        },
+        {
+          "id": "ending_suzuna_end",
+          "name": "すずな END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_suzuna_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_suzuna_02",
+              "type": "choice",
+              "content": "拜托すずな"
+            },
+            {
+              "id": "step_suzuna_03",
+              "type": "choice",
+              "content": "去看看すずな的情况"
+            },
+            {
+              "id": "step_suzuna_04",
+              "type": "choice",
+              "content": "对すずな感到强烈的不安"
+            },
+            {
+              "id": "step_suzuna_05",
+              "type": "choice",
+              "content": "追上すずな"
+            }
+          ]
+        },
+        {
+          "id": "ending_muka_end",
+          "name": "椋香 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_muka_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_muka_02",
+              "type": "choice",
+              "content": "拜托椋香"
+            },
+            {
+              "id": "step_muka_03",
+              "type": "choice",
+              "content": "去看看椋香的情况"
+            },
+            {
+              "id": "step_muka_05",
+              "type": "choice",
+              "content": "想见识一下椋香的本事"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

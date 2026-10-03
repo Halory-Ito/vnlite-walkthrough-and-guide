@@ -1,0 +1,856 @@
+{
+  "vid": "v751",
+  "name": {
+    "zh-cn": "Rewrite",
+    "en-us": "Rewrite",
+    "ja-jp": "Rewrite",
+    "ja-Latn": "rewrite"
+  },
+  "level": 1,
+  "updatedAt": "2026-03-24",
+  "routes": [
+    {
+      "id": "route_rewrite_full_guide",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_common",
+          "name": "共通线（小鸟线基础）",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_001",
+              "type": "note",
+              "content": "标题画面选Start，OP后自动获得Friend001/008/018",
+              "group": "标题画面"
+            },
+            {
+              "id": "step_002",
+              "type": "choice",
+              "content": "喜欢的东西",
+              "subfix": "MAP①",
+              "group": "10月3日"
+            },
+            {
+              "id": "step_003",
+              "type": "note",
+              "content": "一周目地图无法Complete，Terra通关后补第13朵",
+              "group": "10月3日"
+            },
+            {
+              "id": "step_004",
+              "type": "choice",
+              "content": "邀小鸟一起吃饭",
+              "subfix": "MAP②",
+              "group": "10月4日"
+            },
+            {
+              "id": "step_005",
+              "type": "choice",
+              "content": "还是帮帮她吧",
+              "group": "10月5日"
+            },
+            {
+              "id": "step_006",
+              "type": "choice",
+              "content": "跟着她",
+              "group": "10月6日"
+            },
+            {
+              "id": "step_007",
+              "type": "choice",
+              "content": "做吧",
+              "group": "10月7日"
+            },
+            {
+              "id": "step_008",
+              "type": "save",
+              "content": "1",
+              "group": "10月7日"
+            },
+            {
+              "id": "step_009",
+              "type": "choice",
+              "content": "无法回答",
+              "group": "10月7日"
+            },
+            {
+              "id": "step_010",
+              "type": "choice",
+              "content": "Braking",
+              "group": "10月7日"
+            },
+            {
+              "id": "step_011",
+              "type": "note",
+              "content": "池塘探索后再右下窗边",
+              "subfix": "MAP⑥a",
+              "group": "10月7日"
+            },
+            {
+              "id": "step_012",
+              "type": "note",
+              "content": "右下墙壁、中央走廊后去2楼",
+              "subfix": "MAP⑥b",
+              "group": "10月7日"
+            },
+            {
+              "id": "step_013",
+              "type": "note",
+              "content": "右下走廊、1-C教室、左下墙壁、走廊？？？后去3楼",
+              "subfix": "MAP⑥c",
+              "group": "10月7日"
+            },
+            {
+              "id": "step_014",
+              "type": "note",
+              "content": "中央走廊？？？后去4楼",
+              "subfix": "MAP⑥b-2",
+              "group": "10月7日"
+            },
+            {
+              "id": "step_015",
+              "type": "note",
+              "content": "右下男生厕所、3-B教室、左下教室后去5楼",
+              "subfix": "MAP⑥d",
+              "group": "10月7日"
+            },
+            {
+              "id": "step_016",
+              "type": "note",
+              "content": "右下走廊、中央房间、左上楼梯后去活动室",
+              "subfix": "MAP⑥e",
+              "group": "10月7日"
+            },
+            {
+              "id": "step_017",
+              "type": "choice",
+              "content": "教室里吃就好",
+              "group": "10月9日"
+            },
+            {
+              "id": "step_018",
+              "type": "choice",
+              "content": "右下男生",
+              "subfix": "MAP⑦a",
+              "group": "10月11日"
+            },
+            {
+              "id": "step_019",
+              "type": "choice",
+              "content": "井上",
+              "subfix": "MAP⑦a",
+              "group": "10月11日"
+            },
+            {
+              "id": "step_020",
+              "type": "choice",
+              "content": "要",
+              "subfix": "MAP⑦e",
+              "group": "10月11日"
+            },
+            {
+              "id": "step_021",
+              "type": "choice",
+              "content": "继续读",
+              "group": "10月14日"
+            },
+            {
+              "id": "step_022",
+              "type": "choice",
+              "content": "调查",
+              "group": "10月14日"
+            },
+            {
+              "id": "step_023",
+              "type": "choice",
+              "content": "再次恳求",
+              "group": "10月14日"
+            },
+            {
+              "id": "step_024",
+              "type": "choice",
+              "content": "去追小鸟",
+              "group": "10月16日"
+            },
+            {
+              "id": "step_025",
+              "type": "save",
+              "content": "2",
+              "group": "10月16日"
+            },
+            {
+              "id": "step_026",
+              "type": "choice",
+              "content": "露西娅点两次",
+              "subfix": "MAP⑧b",
+              "group": "10月16日"
+            },
+            {
+              "id": "step_027",
+              "type": "choice",
+              "content": "选两次静流",
+              "subfix": "MAP⑨b",
+              "group": "10月17日"
+            },
+            {
+              "id": "step_028",
+              "type": "save",
+              "content": "3",
+              "group": "10月17日"
+            },
+            {
+              "id": "step_029",
+              "type": "choice",
+              "content": "那种人也是存在的吧",
+              "group": "10月18日"
+            },
+            {
+              "id": "step_030",
+              "type": "choice",
+              "content": "附近的怪人",
+              "group": "10月19日"
+            },
+            {
+              "id": "step_031",
+              "type": "choice",
+              "content": "性感影像",
+              "group": "10月19日"
+            },
+            {
+              "id": "step_032",
+              "type": "save",
+              "content": "4",
+              "group": "10月20日"
+            },
+            {
+              "id": "step_033",
+              "type": "choice",
+              "content": "讨厌这男人的态度，但还是一起去看猫",
+              "group": "10月20日"
+            },
+            {
+              "id": "step_034",
+              "type": "choice",
+              "content": "和吉野一起闹腾",
+              "group": "10月21日"
+            },
+            {
+              "id": "step_035",
+              "type": "save",
+              "content": "5",
+              "group": "10月21日"
+            },
+            {
+              "id": "step_036",
+              "type": "choice",
+              "content": "撒个谎前进",
+              "subfix": "MAP⑩a",
+              "group": "10月21日"
+            },
+            {
+              "id": "step_037",
+              "type": "choice",
+              "content": "说实话前进",
+              "subfix": "MAP⑩a",
+              "group": "10月21日"
+            },
+            {
+              "id": "step_038",
+              "type": "choice",
+              "content": "追上去",
+              "group": "10月23日"
+            },
+            {
+              "id": "step_039",
+              "type": "save",
+              "content": "6",
+              "group": "10月24日"
+            },
+            {
+              "id": "step_040",
+              "type": "choice",
+              "content": "打声招呼",
+              "subfix": "MAP⑪c",
+              "group": "10月24日"
+            },
+            {
+              "id": "step_041",
+              "type": "choice",
+              "content": "动真格的",
+              "group": "10月24日"
+            },
+            {
+              "id": "step_042",
+              "type": "choice",
+              "content": "认真地干活",
+              "group": "10月25日"
+            },
+            {
+              "id": "step_043",
+              "type": "save",
+              "content": "7",
+              "group": "10月25日"
+            },
+            {
+              "id": "step_044",
+              "type": "choice",
+              "content": "跟着小鸟",
+              "group": "10月25日"
+            },
+            {
+              "id": "step_045",
+              "type": "choice",
+              "content": "收下",
+              "group": "10月27日"
+            }
+          ]
+        },
+        {
+          "id": "ending_kotori",
+          "name": "小鸟线 END",
+          "type": "normal",
+          "requirements": "共通线推进至小鸟线",
+          "steps": [
+            {
+              "id": "step_kotori_001",
+              "type": "choice",
+              "content": "接近过去用腕刃砍它",
+              "group": "小鸟线最终"
+            }
+          ]
+        },
+        {
+          "id": "ending_chihaya",
+          "name": "千早线 END",
+          "type": "normal",
+          "requirements": "共通线分歧",
+          "steps": [
+            {
+              "id": "step_chihaya_001",
+              "type": "load",
+              "content": "7",
+              "group": "10月25日"
+            },
+            {
+              "id": "step_chihaya_002",
+              "type": "choice",
+              "content": "追千早的同时单独行动",
+              "group": "10月26日"
+            },
+            {
+              "id": "step_chihaya_003",
+              "type": "choice",
+              "content": "不祈祷",
+              "group": "11月1日"
+            },
+            {
+              "id": "step_chihaya_004",
+              "type": "choice",
+              "content": "用拳头打来防御",
+              "group": "千早线最终"
+            },
+            {
+              "id": "step_chihaya_005",
+              "type": "choice",
+              "content": "逃跑",
+              "group": "千早线最终"
+            },
+            {
+              "id": "step_chihaya_006",
+              "type": "choice",
+              "content": "太危险了",
+              "group": "千早线最终"
+            }
+          ]
+        },
+        {
+          "id": "ending_shizuru",
+          "name": "静流线 END",
+          "type": "normal",
+          "requirements": "小鸟END后开启",
+          "steps": [
+            {
+              "id": "step_shizuru_001",
+              "type": "load",
+              "content": "1",
+              "group": "10月7日"
+            },
+            {
+              "id": "step_shizuru_002",
+              "type": "choice",
+              "content": "自己",
+              "group": "10月7日"
+            },
+            {
+              "id": "step_shizuru_003",
+              "type": "choice",
+              "content": "Breaking",
+              "group": "10月7日"
+            },
+            {
+              "id": "step_shizuru_004",
+              "type": "choice",
+              "content": "外面吃也不错",
+              "group": "10月9日"
+            },
+            {
+              "id": "step_shizuru_005",
+              "type": "choice",
+              "content": "已经够了",
+              "group": "10月14日"
+            },
+            {
+              "id": "step_shizuru_006",
+              "type": "choice",
+              "content": "去静流那里",
+              "group": "10月25日"
+            },
+            {
+              "id": "step_shizuru_007",
+              "type": "choice",
+              "content": "稍微强化再往里走",
+              "group": "静流线最终"
+            }
+          ]
+        },
+        {
+          "id": "ending_lucia",
+          "name": "露西娅线 END",
+          "type": "normal",
+          "requirements": "共通线分歧",
+          "steps": [
+            {
+              "id": "step_lucia_001",
+              "type": "load",
+              "content": "1",
+              "group": "10月7日"
+            },
+            {
+              "id": "step_lucia_002",
+              "type": "choice",
+              "content": "无法回答",
+              "group": "10月7日"
+            },
+            {
+              "id": "step_lucia_003",
+              "type": "choice",
+              "content": "Breaking",
+              "group": "10月7日"
+            },
+            {
+              "id": "step_lucia_004",
+              "type": "choice",
+              "content": "在意",
+              "group": "10月18日"
+            },
+            {
+              "id": "step_lucia_005",
+              "type": "choice",
+              "content": "我行动起来",
+              "group": "10月23日"
+            }
+          ]
+        },
+        {
+          "id": "ending_akane",
+          "name": "朱音线 END",
+          "type": "normal",
+          "requirements": "千早END之后开启",
+          "steps": [
+            {
+              "id": "step_akane_001",
+              "type": "load",
+              "content": "1",
+              "group": "10月7日"
+            },
+            {
+              "id": "step_akane_002",
+              "type": "choice",
+              "content": "世界",
+              "group": "10月7日"
+            },
+            {
+              "id": "step_akane_003",
+              "type": "choice",
+              "content": "Breaking",
+              "group": "10月7日"
+            },
+            {
+              "id": "step_akane_004",
+              "type": "choice",
+              "content": "那种人也是存在的吧",
+              "group": "10月18日"
+            },
+            {
+              "id": "step_akane_005",
+              "type": "choice",
+              "content": "不需要",
+              "group": "10月27日"
+            }
+          ]
+        },
+        {
+          "id": "ending_terra",
+          "name": "Terra线 END",
+          "type": "true",
+          "requirements": "MOON线通关后",
+          "steps": [
+            {
+              "id": "step_terra_001",
+              "type": "choice",
+              "content": "回答说我不知道",
+              "group": "Terra线"
+            },
+            {
+              "id": "step_terra_002",
+              "type": "choice",
+              "content": "阻止他们",
+              "group": "Terra线"
+            },
+            {
+              "id": "step_terra_003",
+              "type": "choice",
+              "content": "不后退",
+              "group": "Terra线"
+            },
+            {
+              "id": "step_terra_004",
+              "type": "choice",
+              "content": "从右面进攻",
+              "group": "Terra线"
+            },
+            {
+              "id": "step_terra_005",
+              "type": "choice",
+              "content": "近距离攻击武器",
+              "group": "Terra线"
+            },
+            {
+              "id": "step_terra_006",
+              "type": "choice",
+              "content": "拉开距离",
+              "group": "Terra线"
+            },
+            {
+              "id": "step_terra_007",
+              "type": "choice",
+              "content": "用匕首",
+              "group": "Terra线"
+            },
+            {
+              "id": "step_terra_008",
+              "type": "choice",
+              "content": "虚晃一下",
+              "group": "Terra线"
+            },
+            {
+              "id": "step_terra_009",
+              "type": "choice",
+              "content": "赌上最后一击",
+              "group": "Terra线"
+            },
+            {
+              "id": "step_terra_010",
+              "type": "choice",
+              "content": "从右边",
+              "group": "Terra线"
+            },
+            {
+              "id": "step_terra_011",
+              "type": "choice",
+              "content": "用匕首",
+              "group": "Terra线"
+            },
+            {
+              "id": "step_terra_012",
+              "type": "choice",
+              "content": "销声匿迹",
+              "group": "Terra线"
+            },
+            {
+              "id": "step_terra_013",
+              "type": "choice",
+              "content": "赌上一击必杀",
+              "group": "Terra线"
+            },
+            {
+              "id": "step_terra_014",
+              "type": "choice",
+              "content": "追上去",
+              "group": "Terra线"
+            },
+            {
+              "id": "step_terra_015",
+              "type": "choice",
+              "content": "路线A",
+              "group": "Terra线"
+            },
+            {
+              "id": "step_terra_016",
+              "type": "choice",
+              "content": "路线D",
+              "group": "Terra线"
+            },
+            {
+              "id": "step_terra_017",
+              "type": "choice",
+              "content": "在她掉下来的瞬间接住她",
+              "group": "Terra线"
+            },
+            {
+              "id": "step_terra_018",
+              "type": "choice",
+              "content": "方案M",
+              "group": "Terra线"
+            },
+            {
+              "id": "step_terra_019",
+              "type": "choice",
+              "content": "去",
+              "group": "Terra线"
+            },
+            {
+              "id": "step_terra_020",
+              "type": "save",
+              "content": "14",
+              "group": "Terra线"
+            },
+            {
+              "id": "step_terra_021",
+              "type": "choice",
+              "content": "逃走",
+              "group": "Terra线"
+            },
+            {
+              "id": "step_terra_022",
+              "type": "choice",
+              "content": "无视它继续往前跑",
+              "group": "Terra线"
+            },
+            {
+              "id": "step_terra_023",
+              "type": "choice",
+              "content": "西北",
+              "group": "Terra线"
+            },
+            {
+              "id": "step_terra_024",
+              "type": "choice",
+              "content": "听路易斯的话",
+              "group": "Terra线"
+            },
+            {
+              "id": "step_terra_025",
+              "type": "choice",
+              "content": "路线Ｏ",
+              "group": "Terra线"
+            },
+            {
+              "id": "step_terra_026",
+              "type": "choice",
+              "content": "改写",
+              "group": "Terra线"
+            },
+            {
+              "id": "step_terra_027",
+              "type": "choice",
+              "content": "路线Ｌ",
+              "group": "Terra线"
+            },
+            {
+              "id": "step_terra_028",
+              "type": "choice",
+              "content": "帮忙",
+              "group": "Terra线"
+            },
+            {
+              "id": "step_terra_029",
+              "type": "choice",
+              "content": "用铃木凡人的名字",
+              "group": "Terra线"
+            },
+            {
+              "id": "step_terra_030",
+              "type": "choice",
+              "content": "基本上是说真心话，但也混杂演技",
+              "group": "Terra线"
+            },
+            {
+              "id": "step_terra_031",
+              "type": "choice",
+              "content": "不隐瞒跟洲崎接触过的事",
+              "group": "Terra线"
+            },
+            {
+              "id": "step_terra_032",
+              "type": "choice",
+              "content": "拥护洲崎",
+              "group": "Terra线"
+            },
+            {
+              "id": "step_terra_033",
+              "type": "choice",
+              "content": "成为洲崎派",
+              "group": "Terra线"
+            },
+            {
+              "id": "step_terra_034",
+              "type": "choice",
+              "content": "完全不谈关于键的事",
+              "group": "Terra线"
+            },
+            {
+              "id": "step_terra_035",
+              "type": "choice",
+              "content": "保持沉默",
+              "group": "Terra线"
+            },
+            {
+              "id": "step_terra_036",
+              "type": "choice",
+              "content": "不抵抗",
+              "group": "Terra线"
+            },
+            {
+              "id": "step_terra_037",
+              "type": "choice",
+              "content": "接受",
+              "group": "Terra线"
+            },
+            {
+              "id": "step_terra_038",
+              "type": "choice",
+              "content": "向加岛告发",
+              "group": "Terra线"
+            },
+            {
+              "id": "step_terra_039",
+              "type": "choice",
+              "content": "精神攻击",
+              "group": "Terra线"
+            },
+            {
+              "id": "step_terra_040",
+              "type": "choice",
+              "content": "改写",
+              "group": "Terra线"
+            },
+            {
+              "id": "step_terra_041",
+              "type": "choice",
+              "content": "低头",
+              "group": "Terra线"
+            },
+            {
+              "id": "step_terra_042",
+              "type": "choice",
+              "content": "给他看",
+              "group": "Terra线"
+            },
+            {
+              "id": "step_terra_043",
+              "type": "choice",
+              "content": "改写",
+              "group": "Terra线"
+            },
+            {
+              "id": "step_terra_044",
+              "type": "choice",
+              "content": "改写自己的能力之后迎击",
+              "group": "Terra线"
+            },
+            {
+              "id": "step_terra_045",
+              "type": "choice",
+              "content": "用手臂防御",
+              "group": "Terra线"
+            },
+            {
+              "id": "step_terra_046",
+              "type": "choice",
+              "content": "从左侧",
+              "group": "Terra线"
+            },
+            {
+              "id": "step_terra_047",
+              "type": "choice",
+              "content": "攻击手部",
+              "group": "Terra线"
+            },
+            {
+              "id": "step_terra_048",
+              "type": "choice",
+              "content": "同时使用双手攻击",
+              "group": "Terra线"
+            },
+            {
+              "id": "step_terra_049",
+              "type": "choice",
+              "content": "目的在破坏",
+              "group": "Terra线"
+            },
+            {
+              "id": "step_terra_050",
+              "type": "choice",
+              "content": "放弃",
+              "group": "Terra线"
+            },
+            {
+              "id": "step_terra_051",
+              "type": "choice",
+              "content": "改写",
+              "group": "Terra线"
+            },
+            {
+              "id": "step_terra_053",
+              "type": "choice",
+              "content": "听从她",
+              "group": "Terra线"
+            }
+          ]
+        },
+        {
+          "id": "ending_chest",
+          "name": "胸部线 END",
+          "type": "normal",
+          "requirements": "全部Quest达成后",
+          "steps": [
+            {
+              "id": "step_chest_001",
+              "type": "load",
+              "content": "12",
+              "group": "11月7日"
+            },
+            {
+              "id": "step_chest_002",
+              "type": "choice",
+              "content": "感受并宣告胸部将会改变世界",
+              "group": "胸部线最终"
+            }
+          ]
+        },
+        {
+          "id": "ending_campus_monster",
+          "name": "校园怪兽路线 END",
+          "type": "normal",
+          "requirements": "Terra线通关后重新开始",
+          "steps": [
+            {
+              "id": "step_monster_001",
+              "type": "choice",
+              "content": "应付不来的东西",
+              "group": "10月3日"
+            },
+            {
+              "id": "step_monster_002",
+              "type": "choice",
+              "content": "发送给井上",
+              "group": "11月6日"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

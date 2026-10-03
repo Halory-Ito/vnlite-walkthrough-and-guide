@@ -1,0 +1,2065 @@
+{
+  "vid": "v80",
+  "name": {
+    "zh-cn": "夜月东升·暮日西沉~Operation Sanctuary~",
+    "ja-jp": "月は東に日は西に ～Operation Sanctuary～",
+    "ja-Latn": "tsuki-wa-higashi-ni-hi-wa-nishi-ni"
+  },
+  "level": 2,
+  "updatedAt": "2026-05-09",
+  "routes": [
+    {
+      "id": "route_game",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_mikoto",
+          "name": "天崎美琴 END",
+          "type": "good",
+          "steps": [
+            {
+              "id": "step_001",
+              "type": "choice",
+              "content": "直觉上无法判断，总之先彻底参观一遍再说",
+              "group": "4月9日"
+            },
+            {
+              "id": "step_002",
+              "type": "save",
+              "content": "SAVE 1",
+              "group": "4月10日"
+            },
+            {
+              "id": "step_003",
+              "type": "choice",
+              "content": "陪天文部的美琴同志一起去补习",
+              "group": "4月10日"
+            },
+            {
+              "id": "step_004",
+              "type": "save",
+              "content": "SAVE 2",
+              "group": "4月10日"
+            },
+            {
+              "id": "step_005",
+              "type": "choice",
+              "content": "不，和美琴约定在先",
+              "group": "4月10日"
+            },
+            {
+              "id": "step_006",
+              "type": "choice",
+              "content": "还是不要打扰她们比较好",
+              "group": "4月11日"
+            },
+            {
+              "id": "step_007",
+              "type": "choice",
+              "content": "总之去宿舍吧",
+              "group": "4月11日"
+            },
+            {
+              "id": "step_008",
+              "type": "choice",
+              "content": "问问美琴",
+              "group": "4月11日"
+            },
+            {
+              "id": "step_009",
+              "type": "choice",
+              "content": "干脆地起来",
+              "group": "4月12日"
+            },
+            {
+              "id": "step_010",
+              "type": "choice",
+              "content": "减少了迟到真是谢谢了",
+              "group": "4月12日"
+            },
+            {
+              "id": "step_011",
+              "type": "choice",
+              "content": "转校生优先",
+              "group": "4月12日"
+            },
+            {
+              "id": "step_012",
+              "type": "choice",
+              "content": "去自助餐厅",
+              "group": "4月12日"
+            },
+            {
+              "id": "step_013",
+              "type": "choice",
+              "content": "现在开始讨论吧",
+              "group": "4月12日"
+            },
+            {
+              "id": "step_014",
+              "type": "choice",
+              "content": "她觉得没关系就好",
+              "group": "4月13日"
+            },
+            {
+              "id": "step_015",
+              "type": "choice",
+              "content": "人类还是要靠品行决胜负吧",
+              "group": "4月13日"
+            },
+            {
+              "id": "step_016",
+              "type": "choice",
+              "content": "怎么样啊，我的身体",
+              "group": "4月13日"
+            },
+            {
+              "id": "step_017",
+              "type": "choice",
+              "content": "急忙换衣服，回教室",
+              "group": "4月13日"
+            },
+            {
+              "id": "step_018",
+              "type": "choice",
+              "content": "要是受伤的话就晚了",
+              "group": "4月13日"
+            },
+            {
+              "id": "step_019",
+              "type": "choice",
+              "content": "战斗到底",
+              "group": "4月13日"
+            },
+            {
+              "id": "step_020",
+              "type": "choice",
+              "content": "天文部也在活动中所以拒绝",
+              "group": "4月13日"
+            },
+            {
+              "id": "step_021",
+              "type": "choice",
+              "content": "一大早就这么有精神啊",
+              "group": "4月17日"
+            },
+            {
+              "id": "step_022",
+              "type": "choice",
+              "content": "给我狠狠地教育茉理哦",
+              "group": "4月17日"
+            },
+            {
+              "id": "step_023",
+              "type": "choice",
+              "content": "喔，感谢我吧",
+              "group": "4月17日"
+            },
+            {
+              "id": "step_024",
+              "type": "choice",
+              "content": "陪她去职员室",
+              "group": "4月17日"
+            },
+            {
+              "id": "step_025",
+              "type": "choice",
+              "content": "帮忙",
+              "group": "4月17日"
+            },
+            {
+              "id": "step_026",
+              "type": "choice",
+              "content": "也用不着打搅她们两个",
+              "group": "4月18日"
+            },
+            {
+              "id": "step_027",
+              "type": "choice",
+              "content": "和学生一起的话，就不能好好休息了吧？",
+              "group": "4月18日"
+            },
+            {
+              "id": "step_028",
+              "type": "choice",
+              "content": "和女朋友一起玩了",
+              "group": "4月18日"
+            },
+            {
+              "id": "step_029",
+              "type": "choice",
+              "content": "你没看到这家伙性格恶劣的一面",
+              "group": "4月18日"
+            },
+            {
+              "id": "step_030",
+              "type": "choice",
+              "content": "自己动手烫",
+              "group": "4月18日"
+            },
+            {
+              "id": "step_031",
+              "type": "choice",
+              "content": "去屋顶睡觉",
+              "group": "4月20日"
+            },
+            {
+              "id": "step_032",
+              "type": "choice",
+              "content": "悠闲地去睡觉",
+              "group": "4月20日"
+            },
+            {
+              "id": "step_033",
+              "type": "choice",
+              "content": "去自助餐厅",
+              "group": "4月20日"
+            },
+            {
+              "id": "step_034",
+              "type": "choice",
+              "content": "放着不管",
+              "group": "4月20日"
+            },
+            {
+              "id": "step_035",
+              "type": "choice",
+              "content": "和美琴一起回去",
+              "group": "4月20日"
+            },
+            {
+              "id": "step_036",
+              "type": "choice",
+              "content": "试着再找找",
+              "group": "4月23日"
+            },
+            {
+              "id": "step_037",
+              "type": "choice",
+              "content": "找其他座位",
+              "group": "4月23日"
+            },
+            {
+              "id": "step_038",
+              "type": "choice",
+              "content": "去自助餐厅",
+              "group": "4月23日"
+            },
+            {
+              "id": "step_039",
+              "type": "choice",
+              "content": "总之出去吧",
+              "group": "5月1日"
+            },
+            {
+              "id": "step_040",
+              "type": "choice",
+              "content": "去自助餐厅",
+              "group": "5月1日"
+            },
+            {
+              "id": "step_041",
+              "type": "choice",
+              "content": "搬美琴",
+              "group": "5月2日"
+            },
+            {
+              "id": "step_042",
+              "type": "choice",
+              "content": "明天再一起玩吧",
+              "group": "5月2日"
+            },
+            {
+              "id": "step_043",
+              "type": "choice",
+              "content": "今天事先有约了",
+              "group": "5月6日"
+            },
+            {
+              "id": "step_044",
+              "type": "choice",
+              "content": "今天不行",
+              "group": "5月6日"
+            },
+            {
+              "id": "step_045",
+              "type": "choice",
+              "content": "去自助餐厅",
+              "group": "5月6日"
+            },
+            {
+              "id": "step_046",
+              "type": "choice",
+              "content": "茉理能保持她自己的",
+              "group": "5月6日"
+            },
+            {
+              "id": "step_047",
+              "type": "choice",
+              "content": "别太勉强自己就好",
+              "group": "5月6日"
+            },
+            {
+              "id": "step_048",
+              "type": "choice",
+              "content": "留在学校里",
+              "group": "5月12日"
+            },
+            {
+              "id": "step_049",
+              "type": "choice",
+              "content": "总之去自助餐厅吧",
+              "group": "5月12日"
+            },
+            {
+              "id": "step_050",
+              "type": "choice",
+              "content": "去自助餐厅",
+              "group": "5月12日"
+            },
+            {
+              "id": "step_051",
+              "type": "choice",
+              "content": "老老实实地在这儿等着",
+              "group": "5月23日"
+            },
+            {
+              "id": "step_052",
+              "type": "choice",
+              "content": "鼓励美琴",
+              "group": "5月23日"
+            },
+            {
+              "id": "step_053",
+              "type": "choice",
+              "content": "继续赖床",
+              "group": "5月29日"
+            },
+            {
+              "id": "step_054",
+              "type": "choice",
+              "content": "去自助餐厅",
+              "group": "5月29日"
+            },
+            {
+              "id": "step_055",
+              "type": "choice",
+              "content": "脱下她的泳衣/就这样继续",
+              "group": "5月29日"
+            }
+          ]
+        },
+        {
+          "id": "ending_honami",
+          "name": "藤枝保奈美 END",
+          "type": "good",
+          "steps": [
+            {
+              "id": "step_101",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_102",
+              "type": "choice",
+              "content": "好好考虑一下的话，果然还是保奈美这边符合我的性格",
+              "group": "4月10日"
+            },
+            {
+              "id": "step_103",
+              "type": "choice",
+              "content": "一边看着，有空的话帮帮忙",
+              "group": "4月11日"
+            },
+            {
+              "id": "step_104",
+              "type": "choice",
+              "content": "必须先买东西",
+              "group": "4月11日"
+            },
+            {
+              "id": "step_105",
+              "type": "choice",
+              "content": "慰劳保奈美的辛苦",
+              "group": "4月11日"
+            },
+            {
+              "id": "step_106",
+              "type": "choice",
+              "content": "再赖一会儿",
+              "group": "4月12日"
+            },
+            {
+              "id": "step_107",
+              "type": "choice",
+              "content": "因为就知道会变成这样才故意不叫我起床的女人",
+              "group": "4月12日"
+            },
+            {
+              "id": "step_108",
+              "type": "choice",
+              "content": "想说的话就让他们去说吧",
+              "group": "4月12日"
+            },
+            {
+              "id": "step_109",
+              "type": "choice",
+              "content": "青梅竹马优先",
+              "group": "4月12日"
+            },
+            {
+              "id": "step_110",
+              "type": "choice",
+              "content": "直接回家",
+              "group": "4月12日"
+            },
+            {
+              "id": "step_111",
+              "type": "choice",
+              "content": "你未来的丈夫真是幸福啊",
+              "group": "4月12日"
+            },
+            {
+              "id": "step_112",
+              "type": "choice",
+              "content": "她觉得没关系就好",
+              "group": "4月13日"
+            },
+            {
+              "id": "step_113",
+              "type": "choice",
+              "content": "确实，太胖的话还是有点那个",
+              "group": "4月13日"
+            },
+            {
+              "id": "step_114",
+              "type": "choice",
+              "content": "别老盯着我看啊",
+              "group": "4月13日"
+            },
+            {
+              "id": "step_115",
+              "type": "choice",
+              "content": "急忙换衣服，回教室",
+              "group": "4月13日"
+            },
+            {
+              "id": "step_116",
+              "type": "choice",
+              "content": "才没那回事",
+              "group": "4月13日"
+            },
+            {
+              "id": "step_117",
+              "type": "choice",
+              "content": "老实投降",
+              "group": "4月13日"
+            },
+            {
+              "id": "step_118",
+              "type": "choice",
+              "content": "天文部也在活动中所以拒绝",
+              "group": "4月13日"
+            },
+            {
+              "id": "step_119",
+              "type": "choice",
+              "content": "一个人吃",
+              "group": "4月13日"
+            },
+            {
+              "id": "step_120",
+              "type": "choice",
+              "content": "期待地等着哦",
+              "group": "4月17日"
+            },
+            {
+              "id": "step_121",
+              "type": "choice",
+              "content": "无视",
+              "group": "4月17日"
+            },
+            {
+              "id": "step_122",
+              "type": "choice",
+              "content": "给我狠狠地教育茉理",
+              "group": "4月17日"
+            },
+            {
+              "id": "step_123",
+              "type": "choice",
+              "content": "邻桌嘛",
+              "group": "4月17日"
+            },
+            {
+              "id": "step_124",
+              "type": "choice",
+              "content": "试吃是最优先事项",
+              "group": "4月17日"
+            },
+            {
+              "id": "step_125",
+              "type": "choice",
+              "content": "随时都请叫上我",
+              "group": "4月17日"
+            },
+            {
+              "id": "step_126",
+              "type": "choice",
+              "content": "打个招呼",
+              "group": "4月18日"
+            },
+            {
+              "id": "step_127",
+              "type": "choice",
+              "content": "确实，也许那样不错",
+              "group": "4月18日"
+            },
+            {
+              "id": "step_128",
+              "type": "choice",
+              "content": "自己动手烫",
+              "group": "4月18日"
+            },
+            {
+              "id": "step_129",
+              "type": "choice",
+              "content": "去自助餐厅",
+              "group": "4月20日"
+            },
+            {
+              "id": "step_130",
+              "type": "choice",
+              "content": "和保奈美一起回去",
+              "group": "4月20日"
+            },
+            {
+              "id": "step_131",
+              "type": "choice",
+              "content": "这样不是说话很不方便吗",
+              "group": "4月20日"
+            },
+            {
+              "id": "step_132",
+              "type": "choice",
+              "content": "试着再找找",
+              "group": "4月23日"
+            },
+            {
+              "id": "step_133",
+              "type": "choice",
+              "content": "找其他座位",
+              "group": "4月23日"
+            },
+            {
+              "id": "step_134",
+              "type": "choice",
+              "content": "和保奈美一起回去",
+              "group": "4月23日"
+            },
+            {
+              "id": "step_135",
+              "type": "choice",
+              "content": "果然还是尖叫啦？",
+              "group": "4月23日"
+            },
+            {
+              "id": "step_136",
+              "type": "choice",
+              "content": "等保奈美",
+              "group": "5月1日"
+            },
+            {
+              "id": "step_137",
+              "type": "choice",
+              "content": "那个时候至少给我打个电话吧",
+              "group": "5月2日"
+            },
+            {
+              "id": "step_138",
+              "type": "choice",
+              "content": "嗯，去醒下酒吧",
+              "group": "5月2日"
+            },
+            {
+              "id": "step_139",
+              "type": "choice",
+              "content": "明天可能是不行吧",
+              "group": "5月2日"
+            },
+            {
+              "id": "step_140",
+              "type": "choice",
+              "content": "今天事先有约了",
+              "group": "5月6日"
+            },
+            {
+              "id": "step_141",
+              "type": "choice",
+              "content": "OK~",
+              "group": "5月6日"
+            },
+            {
+              "id": "step_142",
+              "type": "choice",
+              "content": "和保奈美一起回去",
+              "group": "5月12日"
+            },
+            {
+              "id": "step_143",
+              "type": "choice",
+              "content": "老老实实地在这儿等着",
+              "group": "5月23日"
+            },
+            {
+              "id": "step_144",
+              "type": "choice",
+              "content": "鼓励保奈美",
+              "group": "5月23日"
+            },
+            {
+              "id": "step_145",
+              "type": "choice",
+              "content": "继续赖床",
+              "group": "5月29日"
+            },
+            {
+              "id": "step_146",
+              "type": "choice",
+              "content": "去自助餐厅",
+              "group": "5月29日"
+            }
+          ]
+        },
+        {
+          "id": "ending_mari",
+          "name": "涉垣茉理 END",
+          "type": "good",
+          "steps": [
+            {
+              "id": "step_201",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_202",
+              "type": "choice",
+              "content": "美琴去补习的话，在她回来之前我就是园艺部员了、",
+              "group": "4月10日"
+            },
+            {
+              "id": "step_203",
+              "type": "save",
+              "content": "SAVE 3",
+              "group": "4月11日"
+            },
+            {
+              "id": "step_204",
+              "type": "choice",
+              "content": "一边看着，有空的话帮帮忙",
+              "group": "4月11日"
+            },
+            {
+              "id": "step_205",
+              "type": "choice",
+              "content": "必须先买东西",
+              "group": "4月11日"
+            },
+            {
+              "id": "step_206",
+              "type": "choice",
+              "content": "表扬茉理的努力",
+              "group": "4月11日"
+            },
+            {
+              "id": "step_207",
+              "type": "choice",
+              "content": "再赖一会儿",
+              "group": "4月12日"
+            },
+            {
+              "id": "step_208",
+              "type": "choice",
+              "content": "只是青梅竹马",
+              "group": "4月12日"
+            },
+            {
+              "id": "step_209",
+              "type": "choice",
+              "content": "嗯，确实应该注意下",
+              "group": "4月12日"
+            },
+            {
+              "id": "step_210",
+              "type": "choice",
+              "content": "茉理，下午的课别再睡哦",
+              "group": "4月12日"
+            },
+            {
+              "id": "step_211",
+              "type": "choice",
+              "content": "去自助餐厅",
+              "group": "4月12日"
+            },
+            {
+              "id": "step_212",
+              "type": "choice",
+              "content": "船到桥头自然直",
+              "group": "4月12日"
+            },
+            {
+              "id": "step_213",
+              "type": "choice",
+              "content": "在这里等茉理工作结束",
+              "group": "4月12日"
+            },
+            {
+              "id": "step_214",
+              "type": "choice",
+              "content": "这对身体不好哦",
+              "group": "4月13日"
+            },
+            {
+              "id": "step_215",
+              "type": "choice",
+              "content": "健康的人才是最后的赢家",
+              "group": "4月13日"
+            },
+            {
+              "id": "step_216",
+              "type": "choice",
+              "content": "别老盯着我看啊",
+              "group": "4月13日"
+            },
+            {
+              "id": "step_217",
+              "type": "choice",
+              "content": "去自助餐厅",
+              "group": "4月13日"
+            },
+            {
+              "id": "step_218",
+              "type": "choice",
+              "content": "像今天这样的日子，跟着茉理可是会受伤的哦",
+              "group": "4月13日"
+            },
+            {
+              "id": "step_219",
+              "type": "choice",
+              "content": "老实投降",
+              "group": "4月13日"
+            },
+            {
+              "id": "step_220",
+              "type": "choice",
+              "content": "天文部也在活动中所以拒绝",
+              "group": "4月13日"
+            },
+            {
+              "id": "step_221",
+              "type": "choice",
+              "content": "无视",
+              "group": "4月17日"
+            },
+            {
+              "id": "step_222",
+              "type": "choice",
+              "content": "也请你们多多关照茉理",
+              "group": "4月17日"
+            },
+            {
+              "id": "step_223",
+              "type": "choice",
+              "content": "邻桌嘛",
+              "group": "4月17日"
+            },
+            {
+              "id": "step_224",
+              "type": "choice",
+              "content": "用目送激励她",
+              "group": "4月17日"
+            },
+            {
+              "id": "step_225",
+              "type": "choice",
+              "content": "总之还是去自助餐厅吧",
+              "group": "4月17日"
+            },
+            {
+              "id": "step_226",
+              "type": "choice",
+              "content": "虽然很遗憾······",
+              "group": "4月17日"
+            },
+            {
+              "id": "step_227",
+              "type": "choice",
+              "content": "请你自己做",
+              "group": "4月17日"
+            },
+            {
+              "id": "step_228",
+              "type": "choice",
+              "content": "这是对我可爱的妹妹大人应该做的",
+              "group": "4月17日"
+            },
+            {
+              "id": "step_229",
+              "type": "choice",
+              "content": "也用不着打搅她们两个",
+              "group": "4月18日"
+            },
+            {
+              "id": "step_230",
+              "type": "choice",
+              "content": "傍晚开始稍微有点事呢",
+              "group": "4月18日"
+            },
+            {
+              "id": "step_231",
+              "type": "choice",
+              "content": "站着读书",
+              "group": "4月18日"
+            },
+            {
+              "id": "step_232",
+              "type": "choice",
+              "content": "你没看到这家伙性格恶劣的一面",
+              "group": "4月18日"
+            },
+            {
+              "id": "step_233",
+              "type": "choice",
+              "content": "拜托茉理帮忙烫",
+              "group": "4月18日"
+            },
+            {
+              "id": "step_234",
+              "type": "choice",
+              "content": "去屋顶睡觉",
+              "group": "4月20日"
+            },
+            {
+              "id": "step_235",
+              "type": "choice",
+              "content": "跟她们一起走",
+              "group": "4月20日"
+            },
+            {
+              "id": "step_236",
+              "type": "choice",
+              "content": "加油哦",
+              "group": "4月20日"
+            },
+            {
+              "id": "step_237",
+              "type": "choice",
+              "content": "或许确实不错呢",
+              "group": "4月20日"
+            },
+            {
+              "id": "step_238",
+              "type": "choice",
+              "content": "去自助餐厅",
+              "group": "4月20日"
+            },
+            {
+              "id": "step_239",
+              "type": "choice",
+              "content": "试着出声",
+              "group": "4月20日"
+            },
+            {
+              "id": "step_240",
+              "type": "choice",
+              "content": "暂时不回去",
+              "group": "4月20日"
+            },
+            {
+              "id": "step_241",
+              "type": "choice",
+              "content": "老老实实道歉",
+              "group": "4月20日"
+            },
+            {
+              "id": "step_242",
+              "type": "choice",
+              "content": "再呆一会儿",
+              "group": "4月20日"
+            },
+            {
+              "id": "step_243",
+              "type": "choice",
+              "content": "因为家里有晚饭，这里就忍耐",
+              "group": "4月20日"
+            },
+            {
+              "id": "step_244",
+              "type": "choice",
+              "content": "试着再找找",
+              "group": "4月23日"
+            },
+            {
+              "id": "step_245",
+              "type": "choice",
+              "content": "朝她们走去",
+              "group": "4月23日"
+            },
+            {
+              "id": "step_246",
+              "type": "choice",
+              "content": "坐在茉理旁边",
+              "group": "4月23日"
+            },
+            {
+              "id": "step_247",
+              "type": "choice",
+              "content": "去自助餐厅",
+              "group": "4月23日"
+            },
+            {
+              "id": "step_248",
+              "type": "choice",
+              "content": "总之出去吧",
+              "group": "5月1日"
+            },
+            {
+              "id": "step_249",
+              "type": "choice",
+              "content": "去自助餐厅",
+              "group": "5月1日"
+            },
+            {
+              "id": "step_250",
+              "type": "choice",
+              "content": "搬茉理",
+              "group": "5月2日"
+            },
+            {
+              "id": "step_251",
+              "type": "choice",
+              "content": "还要和你在一起呆多久啊",
+              "group": "5月2日"
+            },
+            {
+              "id": "step_252",
+              "type": "choice",
+              "content": "今天事先有约了",
+              "group": "5月6日"
+            },
+            {
+              "id": "step_253",
+              "type": "choice",
+              "content": "今天不行",
+              "group": "5月6日"
+            },
+            {
+              "id": "step_254",
+              "type": "choice",
+              "content": "去自助餐厅",
+              "group": "5月6日"
+            },
+            {
+              "id": "step_255",
+              "type": "choice",
+              "content": "希望她不要被奇怪的事情牵扯上吧",
+              "group": "5月6日"
+            },
+            {
+              "id": "step_256",
+              "type": "choice",
+              "content": "留在学校里",
+              "group": "5月12日"
+            },
+            {
+              "id": "step_257",
+              "type": "choice",
+              "content": "总之去自助餐厅吧",
+              "group": "5月12日"
+            },
+            {
+              "id": "step_258",
+              "type": "choice",
+              "content": "去看看情况",
+              "group": "5月12日"
+            },
+            {
+              "id": "step_259",
+              "type": "choice",
+              "content": "去1年级那边看看",
+              "group": "5月23日"
+            },
+            {
+              "id": "step_260",
+              "type": "choice",
+              "content": "千寻······抱歉",
+              "group": "5月23日"
+            },
+            {
+              "id": "step_261",
+              "type": "choice",
+              "content": "立刻起来",
+              "group": "5月29日"
+            },
+            {
+              "id": "step_262",
+              "type": "choice",
+              "content": "做",
+              "group": "5月29日"
+            },
+            {
+              "id": "step_263",
+              "type": "choice",
+              "content": "稍稍更喜欢茉理的一点",
+              "group": "5月29日"
+            },
+            {
+              "id": "step_264",
+              "type": "choice",
+              "content": "好好，很适合你哦",
+              "group": "6月1日"
+            },
+            {
+              "id": "step_265",
+              "type": "choice",
+              "content": "对茉理喊『哟~，孟德尔』",
+              "group": "6月1日"
+            },
+            {
+              "id": "step_266",
+              "type": "choice",
+              "content": "在茉理工作结束前等在这里",
+              "group": "6月1日"
+            },
+            {
+              "id": "step_267",
+              "type": "choice",
+              "content": "光明正大地看",
+              "group": "6月6日"
+            },
+            {
+              "id": "step_268",
+              "type": "choice",
+              "content": "我来帮你打扫，你去接她吧",
+              "group": "6月6日"
+            },
+            {
+              "id": "step_269",
+              "type": "choice",
+              "content": "去房间里送杯茶，顺便看看样子",
+              "group": "6月6日"
+            },
+            {
+              "id": "step_270",
+              "type": "choice",
+              "content": "让茉理送没关系吗？",
+              "group": "6月6日"
+            },
+            {
+              "id": "step_271",
+              "type": "choice",
+              "content": "没办法，我去叫她起来吧",
+              "group": "6月17日"
+            },
+            {
+              "id": "step_272",
+              "type": "choice",
+              "content": "如果影响到上课的话还是再考虑下吧",
+              "group": "6月17日"
+            },
+            {
+              "id": "step_273",
+              "type": "choice",
+              "content": "慌忙辩解",
+              "group": "6月17日"
+            },
+            {
+              "id": "step_274",
+              "type": "choice",
+              "content": "帮忙整理户外凉台的餐桌",
+              "group": "6月25日"
+            }
+          ]
+        },
+        {
+          "id": "ending_chihiro",
+          "name": "橘千寻 END",
+          "type": "good",
+          "steps": [
+            {
+              "id": "step_301",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_302",
+              "type": "choice",
+              "content": "还是不要打扰她们比较好",
+              "group": "4月11日"
+            },
+            {
+              "id": "step_303",
+              "type": "choice",
+              "content": "稍微去看看",
+              "group": "4月11日"
+            },
+            {
+              "id": "step_304",
+              "type": "choice",
+              "content": "问问千寻",
+              "group": "4月11日"
+            },
+            {
+              "id": "step_305",
+              "type": "choice",
+              "content": "再赖一会儿",
+              "group": "4月12日"
+            },
+            {
+              "id": "step_306",
+              "type": "choice",
+              "content": "只是青梅竹马",
+              "group": "4月12日"
+            },
+            {
+              "id": "step_307",
+              "type": "choice",
+              "content": "嗯，确实应该注意下",
+              "group": "4月12日"
+            },
+            {
+              "id": "step_308",
+              "type": "save",
+              "content": "SAVE 4",
+              "group": "4月12日"
+            },
+            {
+              "id": "step_309",
+              "type": "choice",
+              "content": "千寻，加油哦",
+              "group": "4月12日"
+            },
+            {
+              "id": "step_310",
+              "type": "choice",
+              "content": "去自助餐厅",
+              "group": "4月12日"
+            },
+            {
+              "id": "step_311",
+              "type": "choice",
+              "content": "船到桥头自然直",
+              "group": "4月12日"
+            },
+            {
+              "id": "step_312",
+              "type": "choice",
+              "content": "OK,回去顺道买吧",
+              "group": "4月12日"
+            },
+            {
+              "id": "step_313",
+              "type": "choice",
+              "content": "去看看",
+              "group": "4月12日"
+            },
+            {
+              "id": "step_314",
+              "type": "choice",
+              "content": "这对身体不好哦",
+              "group": "4月13日"
+            },
+            {
+              "id": "step_315",
+              "type": "choice",
+              "content": "健康的人才是最后的赢家",
+              "group": "4月13日"
+            },
+            {
+              "id": "step_316",
+              "type": "choice",
+              "content": "怎么样啊，我的身体",
+              "group": "4月13日"
+            },
+            {
+              "id": "step_317",
+              "type": "choice",
+              "content": "去自助餐厅",
+              "group": "4月13日"
+            },
+            {
+              "id": "step_318",
+              "type": "choice",
+              "content": "下次还有什么事的话说一声哟",
+              "group": "4月13日"
+            },
+            {
+              "id": "step_319",
+              "type": "choice",
+              "content": "老实投降",
+              "group": "4月13日"
+            },
+            {
+              "id": "step_320",
+              "type": "choice",
+              "content": "去帮千寻的忙",
+              "group": "4月13日"
+            },
+            {
+              "id": "step_321",
+              "type": "choice",
+              "content": "和千寻一起回去",
+              "group": "4月13日"
+            },
+            {
+              "id": "step_322",
+              "type": "choice",
+              "content": "无视",
+              "group": "4月17日"
+            },
+            {
+              "id": "step_323",
+              "type": "choice",
+              "content": "给我狠狠地教育茉理哦",
+              "group": "4月17日"
+            },
+            {
+              "id": "step_324",
+              "type": "choice",
+              "content": "邻桌嘛",
+              "group": "4月17日"
+            },
+            {
+              "id": "step_325",
+              "type": "choice",
+              "content": "用目送激励她",
+              "group": "4月17日"
+            },
+            {
+              "id": "step_326",
+              "type": "choice",
+              "content": "去看看千寻的样子",
+              "group": "4月17日"
+            },
+            {
+              "id": "step_327",
+              "type": "choice",
+              "content": "也用不着打搅她们两个",
+              "group": "4月18日"
+            },
+            {
+              "id": "step_328",
+              "type": "choice",
+              "content": "和学生一起的话，就不能好好休息了吧？",
+              "group": "4月18日"
+            },
+            {
+              "id": "step_329",
+              "type": "choice",
+              "content": "站着读书",
+              "group": "4月18日"
+            },
+            {
+              "id": "step_330",
+              "type": "choice",
+              "content": "你没看到这家伙性格恶劣的一面",
+              "group": "4月18日"
+            },
+            {
+              "id": "step_331",
+              "type": "choice",
+              "content": "自己动手烫",
+              "group": "4月18日"
+            },
+            {
+              "id": "step_332",
+              "type": "choice",
+              "content": "去屋顶睡觉",
+              "group": "4月20日"
+            },
+            {
+              "id": "step_333",
+              "type": "choice",
+              "content": "跟她们一起走",
+              "group": "4月20日"
+            },
+            {
+              "id": "step_334",
+              "type": "choice",
+              "content": "我来帮忙吧",
+              "group": "4月20日"
+            },
+            {
+              "id": "step_335",
+              "type": "choice",
+              "content": "或许确实不错呢",
+              "group": "4月20日"
+            },
+            {
+              "id": "step_336",
+              "type": "choice",
+              "content": "去自助餐厅",
+              "group": "4月20日"
+            },
+            {
+              "id": "step_337",
+              "type": "choice",
+              "content": "试着出声",
+              "group": "4月20日"
+            },
+            {
+              "id": "step_338",
+              "type": "choice",
+              "content": "暂时不回去",
+              "group": "4月20日"
+            },
+            {
+              "id": "step_339",
+              "type": "choice",
+              "content": "老老实实道歉",
+              "group": "4月20日"
+            },
+            {
+              "id": "step_340",
+              "type": "choice",
+              "content": "和弘司一起回去",
+              "group": "4月20日"
+            },
+            {
+              "id": "step_341",
+              "type": "choice",
+              "content": "试着再找找",
+              "group": "4月23日"
+            },
+            {
+              "id": "step_342",
+              "type": "choice",
+              "content": "朝千寻走去",
+              "group": "4月23日"
+            },
+            {
+              "id": "step_343",
+              "type": "choice",
+              "content": "坐在千寻旁边",
+              "group": "4月23日"
+            },
+            {
+              "id": "step_344",
+              "type": "choice",
+              "content": "去屋顶",
+              "group": "4月23日"
+            },
+            {
+              "id": "step_345",
+              "type": "choice",
+              "content": "代替她和店员去说",
+              "group": "4月23日"
+            },
+            {
+              "id": "step_346",
+              "type": "choice",
+              "content": "总之出去吧",
+              "group": "5月1日"
+            },
+            {
+              "id": "step_347",
+              "type": "choice",
+              "content": "去屋顶",
+              "group": "5月1日"
+            },
+            {
+              "id": "step_348",
+              "type": "choice",
+              "content": "搬千寻",
+              "group": "5月2日"
+            },
+            {
+              "id": "step_349",
+              "type": "choice",
+              "content": "随时都可以过来玩的哦",
+              "group": "5月2日"
+            },
+            {
+              "id": "step_350",
+              "type": "choice",
+              "content": "让她加油",
+              "group": "5月5日"
+            },
+            {
+              "id": "step_351",
+              "type": "choice",
+              "content": "今天事先有约了",
+              "group": "5月6日"
+            },
+            {
+              "id": "step_352",
+              "type": "choice",
+              "content": "今天不行",
+              "group": "5月6日"
+            },
+            {
+              "id": "step_353",
+              "type": "choice",
+              "content": "去看看",
+              "group": "5月6日"
+            },
+            {
+              "id": "step_354",
+              "type": "choice",
+              "content": "试着问一下茉理",
+              "group": "5月6日"
+            },
+            {
+              "id": "step_355",
+              "type": "choice",
+              "content": "留在学校里",
+              "group": "5月12日"
+            },
+            {
+              "id": "step_356",
+              "type": "choice",
+              "content": "总之去自助餐厅吧",
+              "group": "5月12日"
+            },
+            {
+              "id": "step_357",
+              "type": "choice",
+              "content": "去看看情况",
+              "group": "5月12日"
+            },
+            {
+              "id": "step_358",
+              "type": "choice",
+              "content": "去1年级那边看看",
+              "group": "5月23日"
+            },
+            {
+              "id": "step_359",
+              "type": "choice",
+              "content": "茉理······抱歉",
+              "group": "5月23日"
+            },
+            {
+              "id": "step_360",
+              "type": "choice",
+              "content": "立刻起来",
+              "group": "5月29日"
+            },
+            {
+              "id": "step_361",
+              "type": "choice",
+              "content": "做",
+              "group": "5月29日"
+            },
+            {
+              "id": "step_362",
+              "type": "choice",
+              "content": "稍稍更喜欢千寻的一点",
+              "group": "5月29日"
+            },
+            {
+              "id": "step_363",
+              "type": "choice",
+              "content": "我们学校女子夏服，对没有胸部的孩子真是残忍呢",
+              "group": "6月1日"
+            },
+            {
+              "id": "step_364",
+              "type": "choice",
+              "content": "对千寻说『不要惊动她』",
+              "group": "6月1日"
+            },
+            {
+              "id": "step_365",
+              "type": "choice",
+              "content": "和千寻一起去温室里等茉理",
+              "group": "6月1日"
+            },
+            {
+              "id": "step_366",
+              "type": "choice",
+              "content": "偷偷地看",
+              "group": "6月6日"
+            },
+            {
+              "id": "step_367",
+              "type": "choice",
+              "content": "我去接她，你在她来之前赶快打扫完吧",
+              "group": "6月6日"
+            },
+            {
+              "id": "step_368",
+              "type": "choice",
+              "content": "不做观察两个年轻人这种庸俗的事情",
+              "group": "6月6日"
+            },
+            {
+              "id": "step_369",
+              "type": "choice",
+              "content": "自己送千寻回宿舍",
+              "group": "6月6日"
+            },
+            {
+              "id": "step_370",
+              "type": "choice",
+              "content": "如果是自己想做的话也就不能阻止了",
+              "group": "6月17日"
+            },
+            {
+              "id": "step_371",
+              "type": "choice",
+              "content": "默默地扶着千寻",
+              "group": "6月17日"
+            },
+            {
+              "id": "step_372",
+              "type": "choice",
+              "content": "帮忙驱逐蚜虫",
+              "group": "6月25日"
+            }
+          ]
+        },
+        {
+          "id": "ending_yui",
+          "name": "野乃原结 END",
+          "type": "good",
+          "steps": [
+            {
+              "id": "step_401",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_402",
+              "type": "choice",
+              "content": "你们两个，下午也加油哦",
+              "group": "4月12日"
+            },
+            {
+              "id": "step_403",
+              "type": "choice",
+              "content": "看他们打扫卫生吧",
+              "group": "4月12日"
+            },
+            {
+              "id": "step_404",
+              "type": "choice",
+              "content": "我是在想，好漂亮的皮肤啊",
+              "group": "4月12日"
+            },
+            {
+              "id": "step_405",
+              "type": "choice",
+              "content": "不体检的时候我也是好好洗的",
+              "group": "4月12日"
+            },
+            {
+              "id": "step_406",
+              "type": "choice",
+              "content": "她觉得没关系就好",
+              "group": "4月13日"
+            },
+            {
+              "id": "step_407",
+              "type": "choice",
+              "content": "健康的人才是最后的赢家",
+              "group": "4月13日"
+            },
+            {
+              "id": "step_408",
+              "type": "choice",
+              "content": "怎么样啊，我的身体",
+              "group": "4月13日"
+            },
+            {
+              "id": "step_409",
+              "type": "choice",
+              "content": "慢慢换衣服",
+              "group": "4月13日"
+            },
+            {
+              "id": "step_410",
+              "type": "choice",
+              "content": "不，没什么大不了的事",
+              "group": "4月13日"
+            },
+            {
+              "id": "step_411",
+              "type": "choice",
+              "content": "和数据没关系",
+              "group": "4月13日"
+            },
+            {
+              "id": "step_412",
+              "type": "choice",
+              "content": "老实投降",
+              "group": "4月13日"
+            },
+            {
+              "id": "step_413",
+              "type": "choice",
+              "content": "去帮千寻的忙",
+              "group": "4月13日"
+            },
+            {
+              "id": "step_414",
+              "type": "choice",
+              "content": "在保健室里喝茶",
+              "group": "4月13日"
+            },
+            {
+              "id": "step_415",
+              "type": "choice",
+              "content": "意外呢",
+              "group": "4月13日"
+            },
+            {
+              "id": "step_416",
+              "type": "choice",
+              "content": "当然是文化系吧",
+              "group": "4月13日"
+            },
+            {
+              "id": "step_417",
+              "type": "choice",
+              "content": "无视",
+              "group": "4月17日"
+            },
+            {
+              "id": "step_418",
+              "type": "choice",
+              "content": "给我狠狠地教育茉理哦",
+              "group": "4月17日"
+            },
+            {
+              "id": "step_419",
+              "type": "choice",
+              "content": "邻桌嘛",
+              "group": "4月17日"
+            },
+            {
+              "id": "step_420",
+              "type": "choice",
+              "content": "用目送激励她",
+              "group": "4月17日"
+            },
+            {
+              "id": "step_421",
+              "type": "choice",
+              "content": "总之还是去自助餐厅吧",
+              "group": "4月17日"
+            },
+            {
+              "id": "step_422",
+              "type": "choice",
+              "content": "只是3个的话······",
+              "group": "4月17日"
+            },
+            {
+              "id": "step_423",
+              "type": "choice",
+              "content": "真拿你没办法啊",
+              "group": "4月17日"
+            },
+            {
+              "id": "step_424",
+              "type": "choice",
+              "content": "谁都有犯错的时候",
+              "group": "4月17日"
+            },
+            {
+              "id": "step_425",
+              "type": "choice",
+              "content": "也用不着打搅她们两个",
+              "group": "4月18日"
+            },
+            {
+              "id": "step_426",
+              "type": "choice",
+              "content": "和学生一起的话，就不能好好休息了吧？",
+              "group": "4月18日"
+            },
+            {
+              "id": "step_427",
+              "type": "choice",
+              "content": "站着读书",
+              "group": "4月18日"
+            },
+            {
+              "id": "step_428",
+              "type": "choice",
+              "content": "你没看到这家伙性格恶劣的一面",
+              "group": "4月18日"
+            },
+            {
+              "id": "step_429",
+              "type": "choice",
+              "content": "自己动手烫",
+              "group": "4月20日"
+            },
+            {
+              "id": "step_430",
+              "type": "choice",
+              "content": "去自助餐厅",
+              "group": "4月20日"
+            },
+            {
+              "id": "step_431",
+              "type": "choice",
+              "content": "放着不管",
+              "group": "4月20日"
+            },
+            {
+              "id": "step_432",
+              "type": "choice",
+              "content": "暂时不回去",
+              "group": "4月20日"
+            },
+            {
+              "id": "step_433",
+              "type": "choice",
+              "content": "是要接待恭子老师",
+              "group": "4月20日"
+            },
+            {
+              "id": "step_434",
+              "type": "choice",
+              "content": "再呆一会儿",
+              "group": "4月20日"
+            },
+            {
+              "id": "step_435",
+              "type": "choice",
+              "content": "一起吃",
+              "group": "4月20日"
+            },
+            {
+              "id": "step_436",
+              "type": "choice",
+              "content": "在天文部上花了些时间",
+              "group": "4月20日"
+            },
+            {
+              "id": "step_438",
+              "type": "choice",
+              "content": "保健室不是有嘛",
+              "group": "4月23日"
+            },
+            {
+              "id": "step_439",
+              "type": "choice",
+              "content": "亲手做饭很浪漫的哟",
+              "group": "4月23日"
+            },
+            {
+              "id": "step_440",
+              "type": "choice",
+              "content": "知道了",
+              "group": "4月23日"
+            },
+            {
+              "id": "step_441",
+              "type": "choice",
+              "content": "去保健室",
+              "group": "4月23日"
+            },
+            {
+              "id": "step_442",
+              "type": "choice",
+              "content": "很色",
+              "group": "4月23日"
+            },
+            {
+              "id": "step_443",
+              "type": "choice",
+              "content": "去保健室",
+              "group": "5月1日"
+            },
+            {
+              "id": "step_444",
+              "type": "choice",
+              "content": "不会吧",
+              "group": "5月1日"
+            },
+            {
+              "id": "step_446",
+              "type": "choice",
+              "content": "也有一番道理",
+              "group": "5月2日"
+            },
+            {
+              "id": "step_447",
+              "type": "save",
+              "content": "SAVE 5",
+              "group": "5月2日"
+            },
+            {
+              "id": "step_448",
+              "type": "choice",
+              "content": "坐在结老师旁边",
+              "group": "5月2日"
+            },
+            {
+              "id": "step_449",
+              "type": "choice",
+              "content": "温柔稳重的人",
+              "group": "5月2日"
+            },
+            {
+              "id": "step_450",
+              "type": "choice",
+              "content": "帮忙",
+              "group": "5月6日"
+            },
+            {
+              "id": "step_451",
+              "type": "choice",
+              "content": "偶尔像今天这样也不错",
+              "group": "5月6日"
+            },
+            {
+              "id": "step_452",
+              "type": "choice",
+              "content": "留在学校里",
+              "group": "5月12日"
+            },
+            {
+              "id": "step_453",
+              "type": "choice",
+              "content": "在图书馆里孤独地学习",
+              "group": "5月12日"
+            },
+            {
+              "id": "step_454",
+              "type": "choice",
+              "content": "去救护室看看",
+              "group": "5月23日"
+            },
+            {
+              "id": "step_455",
+              "type": "choice",
+              "content": "请结老师帮忙",
+              "group": "5月23日"
+            },
+            {
+              "id": "step_456",
+              "type": "choice",
+              "content": "继续赖床",
+              "group": "5月29日"
+            },
+            {
+              "id": "step_457",
+              "type": "choice",
+              "content": "去保健室",
+              "group": "5月29日"
+            },
+            {
+              "id": "step_458",
+              "type": "choice",
+              "content": "忍耐",
+              "group": "6月3日"
+            },
+            {
+              "id": "step_459",
+              "type": "choice",
+              "content": "放弃，回到教室",
+              "group": "6月3日"
+            },
+            {
+              "id": "step_460",
+              "type": "choice",
+              "content": "等结老师",
+              "group": "6月3日"
+            },
+            {
+              "id": "step_461",
+              "type": "choice",
+              "content": "要是一个人也没有的话，会很寂寞吧",
+              "group": "6月3日"
+            },
+            {
+              "id": "step_462",
+              "type": "choice",
+              "content": "给她买",
+              "group": "6月14日"
+            },
+            {
+              "id": "step_463",
+              "type": "choice",
+              "content": "保持着梦一样的想法也很不错",
+              "group": "6月14日"
+            },
+            {
+              "id": "step_464",
+              "type": "choice",
+              "content": "当然是在反省哦",
+              "group": "6月14日"
+            },
+            {
+              "id": "step_465",
+              "type": "choice",
+              "content": "这个尺寸也很好",
+              "group": "6月14日"
+            },
+            {
+              "id": "step_466",
+              "type": "choice",
+              "content": "带结老师去保健室",
+              "group": "6月26日"
+            },
+            {
+              "id": "step_467",
+              "type": "choice",
+              "content": "适当说个谎",
+              "group": "6月26日"
+            },
+            {
+              "id": "step_468",
+              "type": "choice",
+              "content": "确实像是独生女",
+              "group": "6月26日"
+            }
+          ]
+        },
+        {
+          "id": "ending_kyoko",
+          "name": "仁科恭子 END",
+          "type": "good",
+          "steps": [
+            {
+              "id": "step_501",
+              "type": "load",
+              "content": "LOAD 5"
+            },
+            {
+              "id": "step_502",
+              "type": "choice",
+              "content": "坐在恭子老师旁边",
+              "group": "5月2日"
+            },
+            {
+              "id": "step_503",
+              "type": "choice",
+              "content": "活泼开朗的人",
+              "group": "5月2日"
+            },
+            {
+              "id": "step_504",
+              "type": "choice",
+              "content": "帮忙",
+              "group": "5月6日"
+            },
+            {
+              "id": "step_505",
+              "type": "choice",
+              "content": "想出去",
+              "group": "5月6日"
+            },
+            {
+              "id": "step_506",
+              "type": "choice",
+              "content": "留在学校里",
+              "group": "5月12日"
+            },
+            {
+              "id": "step_507",
+              "type": "choice",
+              "content": "在图书馆里孤独地学习",
+              "group": "5月12日"
+            },
+            {
+              "id": "step_508",
+              "type": "choice",
+              "content": "去救护室看看",
+              "group": "5月23日"
+            },
+            {
+              "id": "step_509",
+              "type": "choice",
+              "content": "请恭子老师帮忙",
+              "group": "5月23日"
+            },
+            {
+              "id": "step_510",
+              "type": "choice",
+              "content": "继续赖床",
+              "group": "5月29日"
+            },
+            {
+              "id": "step_511",
+              "type": "choice",
+              "content": "去保健室",
+              "group": "5月29日"
+            },
+            {
+              "id": "step_512",
+              "type": "choice",
+              "content": "跑去自助餐厅",
+              "group": "6月3日"
+            },
+            {
+              "id": "step_513",
+              "type": "choice",
+              "content": "忍耐，继续吃",
+              "group": "6月3日"
+            },
+            {
+              "id": "step_514",
+              "type": "choice",
+              "content": "去保健室",
+              "group": "6月3日"
+            },
+            {
+              "id": "step_515",
+              "type": "choice",
+              "content": "出声叫醒",
+              "group": "6月3日"
+            },
+            {
+              "id": "step_516",
+              "type": "choice",
+              "content": "保持沉默",
+              "group": "6月3日"
+            },
+            {
+              "id": "step_517",
+              "type": "choice",
+              "content": "「大人買い」的话不行",
+              "group": "6月14日"
+            },
+            {
+              "id": "step_518",
+              "type": "choice",
+              "content": "「大人買い」这种，也只是大人才有的特权吧",
+              "group": "6月14日"
+            },
+            {
+              "id": "step_519",
+              "type": "choice",
+              "content": "也不是言出必行的岁数了······",
+              "group": "6月14日"
+            },
+            {
+              "id": "step_520",
+              "type": "choice",
+              "content": "这个尺寸也很好",
+              "group": "6月14日"
+            },
+            {
+              "id": "step_521",
+              "type": "choice",
+              "content": "叫人",
+              "group": "6月26日"
+            },
+            {
+              "id": "step_522",
+              "type": "choice",
+              "content": "本以为有兄弟姐妹的呢",
+              "group": "6月26日"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

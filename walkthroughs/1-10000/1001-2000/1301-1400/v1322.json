@@ -1,0 +1,512 @@
+{
+  "vid": "v1322",
+  "name": {
+    "zh-cn": "天神乱漫",
+    "ja-jp": "天神乱漫 LUCKY or UNLUCKY!?",
+    "ja-Latn": "tenshin-ranman-lucky-or-unlucky"
+  },
+  "level": 2,
+  "updatedAt": "2026-02-27",
+  "tips": [
+    "标有◆号的选项为二周目出现的选项",
+    "标有★号的选项，请自行选择另外的选项回收CG"
+  ],
+  "routes": [
+    {
+      "id": "route_1748771905505",
+      "name": "卯花之佐久夜姫",
+      "endings": [
+        {
+          "id": "ending_1748771915563",
+          "name": "佐久夜姫 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1748771942922",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1748771963025",
+              "type": "choice",
+              "content": "咲夜（走廊）"
+            },
+            {
+              "id": "step_1748778670549",
+              "type": "choice",
+              "content": "购买与卯之花相衬的饰品"
+            },
+            {
+              "id": "step_1748778694842",
+              "type": "choice",
+              "content": "咲夜（教室）"
+            },
+            {
+              "id": "step_1748778710739",
+              "type": "choice",
+              "content": "咲夜（街角）"
+            },
+            {
+              "id": "step_1748778734041",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1748778737271",
+              "type": "choice",
+              "content": "……回到屋顶"
+            },
+            {
+              "id": "step_1748778780836",
+              "type": "choice",
+              "content": "咲夜（走廊）"
+            },
+            {
+              "id": "step_1748778833719",
+              "type": "choice",
+              "content": "去找卯之花"
+            },
+            {
+              "id": "step_1748778887485",
+              "type": "choice",
+              "content": "里面/外面",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1748778944245",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_1748778947835",
+              "type": "choice",
+              "content": "还是解下眼罩"
+            },
+            {
+              "id": "step_1748778958177",
+              "type": "choice",
+              "content": "里面/外面",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1748778984233",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1748778996787",
+              "type": "choice",
+              "content": "就这样继续"
+            },
+            {
+              "id": "step_1748779023573",
+              "type": "choice",
+              "content": "里面/外面"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1748781557693",
+      "name": "龙胆 琉璃",
+      "endings": [
+        {
+          "id": "ending_1748781570415",
+          "name": "琉璃 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1748782141035",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1748782143022",
+              "type": "choice",
+              "content": "（楼梯）"
+            },
+            {
+              "id": "step_1748782143446",
+              "type": "choice",
+              "content": "还是不买了"
+            },
+            {
+              "id": "step_1748782143666",
+              "type": "choice",
+              "content": "咲夜（教室）"
+            },
+            {
+              "id": "step_1748782143860",
+              "type": "choice",
+              "content": "琉璃（屋上）"
+            },
+            {
+              "id": "step_1748782144087",
+              "type": "choice",
+              "content": "跑到其他地方",
+              "prefix": "◆"
+            },
+            {
+              "id": "step_1748782144300",
+              "type": "choice",
+              "content": "琉璃（操场）"
+            },
+            {
+              "id": "step_1748782144533",
+              "type": "choice",
+              "content": "去找琉璃"
+            },
+            {
+              "id": "step_1748782145758",
+              "type": "choice",
+              "content": "嘴里/外面",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1748782146044",
+              "type": "choice",
+              "content": "里面/外面",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1748782148323",
+              "type": "choice",
+              "content": "里面/外面"
+            },
+            {
+              "id": "step_1748782148666",
+              "type": "choice",
+              "content": "里面/外面",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1748782149324",
+              "type": "choice",
+              "content": "嘴里/外面",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1748782152328",
+              "type": "choice",
+              "content": "里面/外面（楼梯）",
+              "prefix": "★"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1748783911257",
+      "name": "千岁 佐奈",
+      "endings": [
+        {
+          "id": "ending_1748785234190",
+          "name": "佐奈 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1748785256647",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1748785258127",
+              "type": "choice",
+              "content": "佐奈（楼梯）"
+            },
+            {
+              "id": "step_1748785266686",
+              "type": "choice",
+              "content": "佐奈（教室）"
+            },
+            {
+              "id": "step_1748785267032",
+              "type": "choice",
+              "content": "购买与佐奈相衬的饰品"
+            },
+            {
+              "id": "step_1748785267182",
+              "type": "choice",
+              "content": "佐奈（走廊）"
+            },
+            {
+              "id": "step_1748785267695",
+              "type": "choice",
+              "content": "佐奈（街角）"
+            },
+            {
+              "id": "step_1748785267889",
+              "type": "choice",
+              "content": "跑到其他地方",
+              "prefix": "◆"
+            },
+            {
+              "id": "step_1748785268103",
+              "type": "choice",
+              "content": "佐奈（走廊）"
+            },
+            {
+              "id": "step_1748785268635",
+              "type": "choice",
+              "content": "去找佐奈"
+            },
+            {
+              "id": "step_1748785377701",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_1748785418647",
+              "type": "choice",
+              "content": "选择可爱的"
+            },
+            {
+              "id": "step_1748785418893",
+              "type": "choice",
+              "content": "里面/外面",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1748785484807",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_1748785517755",
+              "type": "choice",
+              "content": "选择稍稍有些H的"
+            },
+            {
+              "id": "step_1748785518030",
+              "type": "choice",
+              "content": "里面/外面",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1748785556743",
+              "type": "choice",
+              "content": "嘴里/外面",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1748785582173",
+              "type": "choice",
+              "content": "里面/外面",
+              "prefix": "★"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1748785658180",
+      "name": "山吹 葵",
+      "endings": [
+        {
+          "id": "ending_1748785682503",
+          "name": "葵 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1748785702433",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1748785706694",
+              "type": "choice",
+              "content": "葵（教室）"
+            },
+            {
+              "id": "step_1748785706872",
+              "type": "choice",
+              "content": "葵（走廊）"
+            },
+            {
+              "id": "step_1748785707024",
+              "type": "choice",
+              "content": "购买与葵相衬的饰品"
+            },
+            {
+              "id": "step_1748785707171",
+              "type": "choice",
+              "content": "葵（教室）"
+            },
+            {
+              "id": "step_1748785707953",
+              "type": "choice",
+              "content": "葵（店内）"
+            },
+            {
+              "id": "step_1748785708121",
+              "type": "choice",
+              "content": "跑到其他地方",
+              "prefix": "◆"
+            },
+            {
+              "id": "step_1748785708307",
+              "type": "choice",
+              "content": "葵（教室）"
+            },
+            {
+              "id": "step_1748785708473",
+              "type": "choice",
+              "content": "去一起玩排球"
+            },
+            {
+              "id": "step_1748785708641",
+              "type": "choice",
+              "content": "里面/外面",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1748785709145",
+              "type": "choice",
+              "content": "嘴里外面",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1748785709620",
+              "type": "choice",
+              "content": "里面/外面",
+              "prefix": "★"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1748785969398",
+      "name": "常盘 真寻",
+      "endings": [
+        {
+          "id": "ending_1748785980291",
+          "name": "真寻 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1748785996907",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1748786000218",
+              "type": "choice",
+              "content": "真寻（图书室）"
+            },
+            {
+              "id": "step_1748786000566",
+              "type": "choice",
+              "content": "还是不买了"
+            },
+            {
+              "id": "step_1748786000730",
+              "type": "choice",
+              "content": "真寻（学生会室）"
+            },
+            {
+              "id": "step_1748786003886",
+              "type": "choice",
+              "content": "跑到其他地方",
+              "prefix": "◆"
+            },
+            {
+              "id": "step_1748786004022",
+              "type": "choice",
+              "content": "真寻（学生会室）"
+            },
+            {
+              "id": "step_1748786004177",
+              "type": "choice",
+              "content": "去买饮料"
+            },
+            {
+              "id": "step_1748786004644",
+              "type": "choice",
+              "content": "里面/外面",
+              "prefix": "★"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1748786083702",
+      "name": "乌羽 紫",
+      "endings": [
+        {
+          "id": "ending_1748786111348",
+          "name": "紫 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1748786126130",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1748786130176",
+              "type": "choice",
+              "content": "紫（屋上）"
+            },
+            {
+              "id": "step_1748786130336",
+              "type": "choice",
+              "content": "紫（走廊）"
+            },
+            {
+              "id": "step_1748786130466",
+              "type": "choice",
+              "content": "还是不买了"
+            },
+            {
+              "id": "step_1748786130896",
+              "type": "choice",
+              "content": "紫（屋上）"
+            },
+            {
+              "id": "step_1748786131174",
+              "type": "choice",
+              "content": "紫（店内）"
+            },
+            {
+              "id": "step_1748786131313",
+              "type": "choice",
+              "content": "跑到其他地方",
+              "prefix": "◆"
+            },
+            {
+              "id": "step_1748786131466",
+              "type": "choice",
+              "content": "紫（屋上）"
+            },
+            {
+              "id": "step_1748786131627",
+              "type": "choice",
+              "content": "就这样发会呆"
+            },
+            {
+              "id": "step_1748786131948",
+              "type": "choice",
+              "content": "里面/外面",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1748786132562",
+              "type": "choice",
+              "content": "嘴里/外面",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1748786132754",
+              "type": "choice",
+              "content": "里面/外面",
+              "prefix": "★"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

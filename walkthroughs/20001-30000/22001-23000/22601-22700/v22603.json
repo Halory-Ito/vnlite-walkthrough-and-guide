@@ -1,0 +1,97 @@
+{
+  "vid": "v22603",
+  "name": {
+    "zh-cn": "未来广播与人工鸽",
+    "en-us": "The Future Radio and the Artificial Pigeons",
+    "ja-jp": "未来ラジオと人工鳩",
+    "ja-Latn": "mirai-radio-to-jinkou-bato"
+  },
+  "level": 2,
+  "updatedAt": "2026-05-11",
+  "routes": [
+    {
+      "id": "route_game_guide",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_mizuki",
+          "name": "水雪END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_mizuki_01",
+              "type": "choice",
+              "content": "不能依靠辉夜"
+            },
+            {
+              "id": "step_mizuki_02",
+              "type": "choice",
+              "content": "想再考虑一下"
+            }
+          ]
+        },
+        {
+          "id": "ending_akina",
+          "name": "秋奈END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_akina_01",
+              "type": "choice",
+              "content": "不能依靠辉夜"
+            },
+            {
+              "id": "step_akina_02",
+              "type": "choice",
+              "content": "想恢复记忆"
+            },
+            {
+              "id": "step_akina_03",
+              "type": "choice",
+              "content": "还会来帮忙"
+            }
+          ]
+        },
+        {
+          "id": "ending_tsubaki",
+          "name": "椿姬END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_tsubaki_01",
+              "type": "choice",
+              "content": "不能依靠辉夜"
+            },
+            {
+              "id": "step_tsubaki_02",
+              "type": "choice",
+              "content": "想恢复记忆"
+            },
+            {
+              "id": "step_tsubaki_03",
+              "type": "choice",
+              "content": "这样不太好"
+            }
+          ]
+        },
+        {
+          "id": "ending_kaguya",
+          "name": "辉夜END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_kaguya_01",
+              "type": "note",
+              "content": "椿姬攻略后"
+            },
+            {
+              "id": "step_kaguya_02",
+              "type": "choice",
+              "content": "相信辉夜"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

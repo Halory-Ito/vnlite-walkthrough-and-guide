@@ -1,0 +1,114 @@
+{
+  "vid": "v29383",
+  "name": {
+    "zh-cn": "冥契的牧神节",
+    "en-us": "Lupercalia of the Silent Accord",
+    "ja-jp": "冥契のルペルカリア",
+    "ja-Latn": "meikei-no-lupercalia"
+  },
+  "level": 2,
+  "updatedAt": "2026-05-08",
+  "routes": [
+    {
+      "id": "route_game_guide",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_nanana",
+          "name": "奈奈菜 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_2",
+              "type": "choice",
+              "content": "世界，你好"
+            }
+          ]
+        },
+        {
+          "id": "ending_rise",
+          "name": "理世 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_4",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_5",
+              "type": "choice",
+              "content": "世界，再见"
+            }
+          ]
+        },
+        {
+          "id": "ending_meguri",
+          "name": "巡游 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_7",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_8",
+              "type": "choice",
+              "content": "大家都还活着"
+            }
+          ]
+        },
+        {
+          "id": "ending_amber",
+          "name": "琥珀 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_10",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_11",
+              "type": "choice",
+              "content": "大家都已经死了"
+            },
+            {
+              "id": "step_12",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_13",
+              "type": "choice",
+              "content": "妹妹还活着"
+            }
+          ]
+        },
+        {
+          "id": "ending_true",
+          "name": "TRUE END",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_15",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_16",
+              "type": "choice",
+              "content": "妹妹死了"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

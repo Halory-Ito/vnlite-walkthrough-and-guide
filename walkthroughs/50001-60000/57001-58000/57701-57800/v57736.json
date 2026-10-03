@@ -1,0 +1,114 @@
+{
+  "vid": "v57736",
+  "name": {
+    "zh-cn": "キミと恋するハッピーサマー",
+    "ja-jp": "キミと恋するハッピーサマー",
+    "ja-Latn": "kimi-to-koisuru-happy-summer"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-14",
+  "routes": [
+    {
+      "id": "route_game_guide",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_nozomi_end",
+          "name": "希美 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_nozomi_01",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_nozomi_02",
+              "type": "choice",
+              "content": "选择希美的便当"
+            },
+            {
+              "id": "step_nozomi_03",
+              "type": "choice",
+              "content": "想从早上开始就神清气爽"
+            },
+            {
+              "id": "step_nozomi_04",
+              "type": "choice",
+              "content": "赞成希美的提议，去晒日光浴"
+            },
+            {
+              "id": "step_nozomi_06",
+              "type": "choice",
+              "content": "机会难得，回应祖父的邀请回乡下去"
+            }
+          ]
+        },
+        {
+          "id": "ending_yui_end",
+          "name": "优衣 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_yui_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_yui_02",
+              "type": "choice",
+              "content": "选择优衣的便当"
+            },
+            {
+              "id": "step_yui_03",
+              "type": "choice",
+              "content": "让希美来劝我"
+            },
+            {
+              "id": "step_yui_04",
+              "type": "choice",
+              "content": "赞成优衣的提议，去海边游泳"
+            },
+            {
+              "id": "step_yui_06",
+              "type": "choice",
+              "content": "嗯……该怎么办呢……"
+            }
+          ]
+        },
+        {
+          "id": "ending_sayo_end",
+          "name": "纱代 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_sayo_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_sayo_02",
+              "type": "choice",
+              "content": "选择纱代的便当"
+            },
+            {
+              "id": "step_sayo_03",
+              "type": "choice",
+              "content": "让希美来劝我"
+            },
+            {
+              "id": "step_sayo_04",
+              "type": "choice",
+              "content": "赞成纱代的提议，去打沙滩排球"
+            },
+            {
+              "id": "step_sayo_06",
+              "type": "choice",
+              "content": "嗯……该怎么办呢……"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

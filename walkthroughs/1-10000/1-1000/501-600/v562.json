@@ -1,0 +1,394 @@
+{
+  "vid": "v562",
+  "name": {
+    "zh-cn": "樱之诗－在樱花之森上飞舞－",
+    "ja-jp": "サクラノ詩－櫻の森の上を舞う－",
+    "ja-Latn": "sakura-no-uta"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-04",
+  "routes": [
+    {
+      "id": "route_1754657648631",
+      "name": "鸟谷 真琴",
+      "endings": [
+        {
+          "id": "ending_1754657713391",
+          "name": "真琴 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1754657875023",
+              "type": "choice",
+              "content": "当没听到吧"
+            },
+            {
+              "id": "step_1754657989095",
+              "type": "choice",
+              "content": "所以说，为什么要自称是“精神上的妹妹”啊。"
+            },
+            {
+              "id": "step_1754658018190",
+              "type": "choice",
+              "content": "但却是个老好人。"
+            },
+            {
+              "id": "step_1754658018352",
+              "type": "choice",
+              "content": "没啥，单纯出于好奇。"
+            },
+            {
+              "id": "step_1754658040543",
+              "type": "choice",
+              "content": "睡迷糊的雫表情好生动啊……"
+            },
+            {
+              "id": "step_1754658040880",
+              "type": "choice",
+              "content": "别掉了哦，浪费了可不好。"
+            },
+            {
+              "id": "step_1754658041109",
+              "type": "choice",
+              "content": "啊，果然是冰川啊。"
+            },
+            {
+              "id": "step_1754658092779",
+              "type": "choice",
+              "content": "太有趣了所以忘不掉。"
+            },
+            {
+              "id": "step_1754658092927",
+              "type": "choice",
+              "content": "因为这般连我自己也身处危险境地了。"
+            },
+            {
+              "id": "step_1754658093133",
+              "type": "choice",
+              "content": "才不是！"
+            },
+            {
+              "id": "step_1754658093301",
+              "type": "choice",
+              "content": "确实，如果冰川也换上，想必客人会更多。"
+            },
+            {
+              "id": "step_1754658093461",
+              "type": "choice",
+              "content": "不会想象的所以没问题。"
+            },
+            {
+              "id": "step_1754658093605",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1754658189160",
+              "type": "choice",
+              "content": "毕竟事后有酬谢嘛。"
+            },
+            {
+              "id": "step_1754658189356",
+              "type": "choice",
+              "content": "这样啊。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755008086774",
+      "name": "御樱 禀",
+      "endings": [
+        {
+          "id": "ending_1755008115593",
+          "name": "禀 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755008123927",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1755008125143",
+              "type": "choice",
+              "content": "要是这时候说不干了，事后不知道会被说什么呢。"
+            },
+            {
+              "id": "step_1755008125374",
+              "type": "choice",
+              "content": "这样啊。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755008150416",
+      "name": "冰川 里奈",
+      "endings": [
+        {
+          "id": "ending_1755008160285",
+          "name": "里奈 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755008176045",
+              "type": "choice",
+              "content": "当没听到吧。"
+            },
+            {
+              "id": "step_1755008176241",
+              "type": "choice",
+              "content": "如同关系良好的兄妹吗……"
+            },
+            {
+              "id": "step_1755008176476",
+              "type": "choice",
+              "content": "不过，那才是鸟谷。"
+            },
+            {
+              "id": "step_1755008176666",
+              "type": "choice",
+              "content": "没别的意思啊。"
+            },
+            {
+              "id": "step_1755008176934",
+              "type": "choice",
+              "content": "睡迷糊的雫表情好生动啊……"
+            },
+            {
+              "id": "step_1755008177157",
+              "type": "choice",
+              "content": "别掉了哦，浪费了可不好。"
+            },
+            {
+              "id": "step_1755008177409",
+              "type": "choice",
+              "content": "里奈……原来是说冰川吗……"
+            },
+            {
+              "id": "step_1755008177631",
+              "type": "choice",
+              "content": "太有趣了所以忘不掉。"
+            },
+            {
+              "id": "step_1755008177876",
+              "type": "choice",
+              "content": "确实冰川身陷危险之中。"
+            },
+            {
+              "id": "step_1755008178113",
+              "type": "choice",
+              "content": "才不是！"
+            },
+            {
+              "id": "step_1755008178363",
+              "type": "choice",
+              "content": "嘛，毕竟冰川才一年级，没必要做这种事。"
+            },
+            {
+              "id": "step_1755008178647",
+              "type": "choice",
+              "content": "有自制心所以没问题。"
+            },
+            {
+              "id": "step_1755008178912",
+              "type": "choice",
+              "content": "要是这时候说不干了，事后不知道会被说什么呢。"
+            },
+            {
+              "id": "step_1755008179149",
+              "type": "choice",
+              "content": "这样啊。"
+            },
+            {
+              "id": "step_1755008180171",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1755008180520",
+              "type": "choice",
+              "content": "姑且不和优美计较。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755008322754",
+      "name": "百合结局",
+      "endings": [
+        {
+          "id": "ending_1755008362680",
+          "name": "百合 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755008377245",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1755008378092",
+              "type": "choice",
+              "content": "考虑优美的心情。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755008533483",
+      "name": "夏目 雫",
+      "endings": [
+        {
+          "id": "ending_1755008542608",
+          "name": "雫 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755008557932",
+              "type": "choice",
+              "content": "这不算欠吧。"
+            },
+            {
+              "id": "step_1755008558094",
+              "type": "choice",
+              "content": "所以说，为什么要自称是“精神上的妹妹”啊。"
+            },
+            {
+              "id": "step_1755008558274",
+              "type": "choice",
+              "content": "不过，那才是鸟谷。"
+            },
+            {
+              "id": "step_1755008558423",
+              "type": "choice",
+              "content": "没别的意思啊。"
+            },
+            {
+              "id": "step_1755008558575",
+              "type": "choice",
+              "content": "能看到雫睡迷糊的样子真好……"
+            },
+            {
+              "id": "step_1755008558706",
+              "type": "choice",
+              "content": "别掉了哦，浪费了可不好。"
+            },
+            {
+              "id": "step_1755008558842",
+              "type": "choice",
+              "content": "啊，果然是冰川啊。"
+            },
+            {
+              "id": "step_1755008558971",
+              "type": "choice",
+              "content": "太有趣了所以忘不掉。"
+            },
+            {
+              "id": "step_1755008559118",
+              "type": "choice",
+              "content": "因为这般连我自己也身处危险境地了。"
+            },
+            {
+              "id": "step_1755008559269",
+              "type": "choice",
+              "content": "我喜欢女人!"
+            },
+            {
+              "id": "step_1755008559436",
+              "type": "choice",
+              "content": "确实，如果冰川也换上，想必客人会更多。"
+            },
+            {
+              "id": "step_1755008559562",
+              "type": "choice",
+              "content": "不会想象的所以没问题。"
+            },
+            {
+              "id": "step_1755008560037",
+              "type": "choice",
+              "content": "要是这时候说不干了，事后不知道会被说什么呢。"
+            },
+            {
+              "id": "step_1755008560298",
+              "type": "choice",
+              "content": "如果雫是抱着这种想法而生活着的话，那我也感到高兴。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755008694601",
+      "name": "夏目 蓝",
+      "endings": [
+        {
+          "id": "ending_1755008707083",
+          "name": "蓝 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755008723127",
+              "type": "note",
+              "content": "标题画面选择IV(草薙健一郎的过去），无选项"
+            },
+            {
+              "id": "step_1755008724249",
+              "type": "note",
+              "content": "标题画面选择Ⅴ"
+            },
+            {
+              "id": "step_1755008725073",
+              "type": "choice",
+              "content": "只要你能注意裙子不会变皱，就没什么问题 (嘛，确实你的裙子那么长，也看不见胖次)",
+              "subfix": "回收CG"
+            },
+            {
+              "id": "step_1755008725646",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_1755008726035",
+              "type": "choice",
+              "content": "啊，我错了。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755009020841",
+      "name": "真结局",
+      "endings": [
+        {
+          "id": "ending_1755009099497",
+          "name": "真结局 END",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_1755009113707",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1755009114287",
+              "type": "choice",
+              "content": "我不知道"
+            },
+            {
+              "id": "step_1755009115149",
+              "type": "note",
+              "content": "章节结束，回到标题画面，标题画面选择VI"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

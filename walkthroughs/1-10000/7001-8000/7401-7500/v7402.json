@@ -1,0 +1,123 @@
+{
+  "vid": "v7402",
+  "name": {
+    "zh-cn": "罪恶王冠 失落的圣诞节",
+    "ja-jp": "ギルティクラウン　ロストクリスマス",
+    "ja-Latn": "guilty-crown-lost-christmas"
+  },
+  "level": 1,
+  "updatedAt": "2026-05-09",
+  "routes": [
+    {
+      "id": "route_shi_changhuan",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_true",
+          "name": "END1",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_1778291757425",
+              "type": "choice",
+              "content": "是偿还"
+            },
+            {
+              "id": "step_1778291765279",
+              "type": "choice",
+              "content": "在被干掉之前动手"
+            },
+            {
+              "id": "step_1778291770022",
+              "type": "choice",
+              "content": "取回自我"
+            },
+            {
+              "id": "step_1778291771876",
+              "type": "choice",
+              "content": "绅士般的对待"
+            },
+            {
+              "id": "step_1778291771723",
+              "type": "choice",
+              "content": "解放",
+              "subfix": "选择 断罪 回收CG"
+            },
+            {
+              "id": "step_1778291771577",
+              "type": "choice",
+              "content": "帮助玄周"
+            },
+            {
+              "id": "step_1778291803155",
+              "type": "choice",
+              "content": "逃避灾难"
+            },
+            {
+              "id": "step_1778291801441",
+              "type": "choice",
+              "content": "寻找凯洛尔"
+            },
+            {
+              "id": "step_1778291811352",
+              "type": "choice",
+              "content": "没时间管他们"
+            },
+            {
+              "id": "step_1778291802526",
+              "type": "choice",
+              "content": "有些在意"
+            },
+            {
+              "id": "step_001",
+              "type": "choice",
+              "content": "绝不放手，紧紧地抓住她"
+            },
+            {
+              "id": "step_002",
+              "type": "choice",
+              "content": "抽取"
+            },
+            {
+              "id": "step_003",
+              "type": "choice",
+              "content": "活下去"
+            },
+            {
+              "id": "step_006",
+              "type": "choice",
+              "content": "放弃"
+            },
+            {
+              "id": "step_007",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_008",
+              "type": "choice",
+              "content": "是偿还"
+            }
+          ]
+        },
+        {
+          "id": "ending_normal",
+          "name": "END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_009",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_010",
+              "type": "choice",
+              "content": "是报应"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

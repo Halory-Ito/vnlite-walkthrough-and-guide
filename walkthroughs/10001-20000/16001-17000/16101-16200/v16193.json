@@ -1,0 +1,289 @@
+{
+  "vid": "v16193",
+  "name": {
+    "zh-cn": "五色浮影绽放于花之海洋",
+    "ja-jp": "花の野に咲くうたかたの",
+    "ja-Latn": "hana-no-no-ni-saku-utakata-no"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-15",
+  "routes": [
+    {
+      "id": "route_game",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_ryoko",
+          "name": "药师凉子 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_ryoko_01",
+              "type": "choice",
+              "content": "更喜欢汐音"
+            },
+            {
+              "id": "step_ryoko_02",
+              "type": "choice",
+              "content": "告诉她们"
+            },
+            {
+              "id": "step_ryoko_03",
+              "type": "choice",
+              "content": "就此放弃深究"
+            },
+            {
+              "id": "step_ryoko_04",
+              "type": "choice",
+              "content": "去神社"
+            }
+          ]
+        },
+        {
+          "id": "ending_collection",
+          "name": "回收 END",
+          "type": "normal",
+          "requirements": "回收衔接（百分之100必要条件，需要通关凉子、丽奈、雫任意一人线路）",
+          "steps": [
+            {
+              "id": "step_collection_03",
+              "type": "choice",
+              "content": "小事一桩不提了吧"
+            },
+            {
+              "id": "step_collection_04",
+              "type": "choice",
+              "content": "不再深究"
+            },
+            {
+              "id": "step_collection_05",
+              "type": "choice",
+              "content": "去神社/去公园"
+            }
+          ]
+        },
+        {
+          "id": "ending_rena",
+          "name": "井之上丽奈 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_rena_01",
+              "type": "choice",
+              "content": "更喜欢丽奈"
+            },
+            {
+              "id": "step_rena_02",
+              "type": "choice",
+              "content": "告诉她们"
+            },
+            {
+              "id": "step_rena_03",
+              "type": "choice",
+              "content": "关心波多野的情况"
+            }
+          ]
+        },
+        {
+          "id": "ending_shizuku_01",
+          "name": "鹊雫 END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_shizuku_01_01",
+              "type": "choice",
+              "content": "更喜欢汐音"
+            },
+            {
+              "id": "step_shizuku_01_02",
+              "type": "choice",
+              "content": "告诉她们"
+            },
+            {
+              "id": "step_shizuku_01_03",
+              "type": "choice",
+              "content": "关心灵异传说"
+            },
+            {
+              "id": "step_shizuku_01_04",
+              "type": "choice",
+              "content": "搪塞"
+            }
+          ]
+        },
+        {
+          "id": "ending_shizuku_02",
+          "name": "鹊雫 END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_shizuku_02_01",
+              "type": "choice",
+              "content": "更喜欢汐音"
+            },
+            {
+              "id": "step_shizuku_02_02",
+              "type": "choice",
+              "content": "告诉她们"
+            },
+            {
+              "id": "step_shizuku_02_03",
+              "type": "choice",
+              "content": "关心灵异传说"
+            },
+            {
+              "id": "step_shizuku_02_04",
+              "type": "choice",
+              "content": "告诉学姐"
+            },
+            {
+              "id": "step_shizuku_02_05",
+              "type": "choice",
+              "content": "就此停手"
+            }
+          ]
+        },
+        {
+          "id": "ending_shizuku_03",
+          "name": "鹊雫 END3",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_shizuku_03_01",
+              "type": "choice",
+              "content": "更喜欢汐音"
+            },
+            {
+              "id": "step_shizuku_03_02",
+              "type": "choice",
+              "content": "告诉她们"
+            },
+            {
+              "id": "step_shizuku_03_03",
+              "type": "choice",
+              "content": "关心灵异传说"
+            },
+            {
+              "id": "step_shizuku_03_04",
+              "type": "choice",
+              "content": "告诉学姐"
+            },
+            {
+              "id": "step_shizuku_03_05",
+              "type": "choice",
+              "content": "做下去"
+            }
+          ]
+        },
+        {
+          "id": "ending_shione",
+          "name": "藤宫汐音 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_shione_01",
+              "type": "choice",
+              "content": "更喜欢汐音"
+            },
+            {
+              "id": "step_shione_02",
+              "type": "choice",
+              "content": "小事一桩不提了吧"
+            },
+            {
+              "id": "step_shione_03",
+              "type": "choice",
+              "content": "去看看情况"
+            },
+            {
+              "id": "step_shione_04",
+              "type": "choice",
+              "content": "让汐音逃走",
+              "prefix": "✲"
+            }
+          ]
+        },
+        {
+          "id": "ending_sakura",
+          "name": "樱花 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_sakura_01",
+              "type": "choice",
+              "content": "更喜欢汐音"
+            },
+            {
+              "id": "step_sakura_02",
+              "type": "choice",
+              "content": "小事一桩不提了吧"
+            },
+            {
+              "id": "step_sakura_03",
+              "type": "choice",
+              "content": "去看看情况"
+            },
+            {
+              "id": "step_sakura_04",
+              "type": "choice",
+              "content": "我和樱花留下来",
+              "prefix": "✲"
+            },
+            {
+              "id": "step_sakura_05",
+              "type": "choice",
+              "content": "关于这个神社",
+              "prefix": "✲"
+            },
+            {
+              "id": "step_sakura_06",
+              "type": "choice",
+              "content": "关于“石头”",
+              "prefix": "✲"
+            },
+            {
+              "id": "step_sakura_07",
+              "type": "choice",
+              "content": "关于幽灵",
+              "prefix": "✲"
+            }
+          ]
+        },
+        {
+          "id": "ending_goshiki_01",
+          "name": "五色 END1",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_goshiki_01_01",
+              "type": "choice",
+              "content": "经营型桌游/射击游戏/解谜游戏（任选、回收不同的Q版樱花）"
+            },
+            {
+              "id": "step_goshiki_01_02",
+              "type": "choice",
+              "content": "接受"
+            }
+          ]
+        },
+        {
+          "id": "ending_goshiki_02",
+          "name": "五色 END2",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_goshiki_02_01",
+              "type": "choice",
+              "content": "经营型桌游/射击游戏/解谜游戏（任选、回收不同的Q版樱花）"
+            },
+            {
+              "id": "step_goshiki_02_02",
+              "type": "choice",
+              "content": "无法接受"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

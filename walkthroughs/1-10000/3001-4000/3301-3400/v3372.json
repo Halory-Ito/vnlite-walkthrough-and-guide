@@ -1,0 +1,224 @@
+{
+  "vid": "v3372",
+  "name": {
+    "zh-cn": "ノーブレスオブリージュ",
+    "ja-jp": "ノーブレスオブリージュ",
+    "ja-Latn": "noblesse-oblige"
+  },
+  "level": 2,
+  "updatedAt": "2026-04-02",
+  "routes": [
+    {
+      "id": "route_game",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_yuria_end",
+          "name": "游莉亜 END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_yuria_01",
+              "type": "choice",
+              "content": "那就听从你的建议了"
+            },
+            {
+              "id": "step_yuria_02",
+              "type": "choice",
+              "content": "接受由香里小姐的委托"
+            },
+            {
+              "id": "step_yuria_03",
+              "type": "choice",
+              "content": "说明之后再听也可以，先带伊莉沙去熟悉一下环境"
+            },
+            {
+              "id": "step_yuria_04",
+              "type": "choice",
+              "content": "爽快答应"
+            },
+            {
+              "id": "step_yuria_05",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_yuria_06",
+              "type": "choice",
+              "content": "和游莉亜出门"
+            },
+            {
+              "id": "step_yuria_07",
+              "type": "note",
+              "content": "CG回收"
+            },
+            {
+              "id": "step_yuria_08",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_yuria_09",
+              "type": "choice",
+              "content": "和伊莉沙出门"
+            },
+            {
+              "id": "step_yuria_10",
+              "type": "choice",
+              "content": "一起去"
+            },
+            {
+              "id": "step_yuria_11",
+              "type": "choice",
+              "content": "试着提议我们自己来处理“内衣小偷”事件"
+            },
+            {
+              "id": "step_yuria_12",
+              "type": "choice",
+              "content": "和游莉亜小姐组队"
+            },
+            {
+              "id": "step_yuria_13",
+              "type": "choice",
+              "content": "请她来帮忙"
+            },
+            {
+              "id": "step_yuria_14",
+              "type": "choice",
+              "content": "去接绫濑"
+            },
+            {
+              "id": "step_yuria_15",
+              "type": "choice",
+              "content": "赶紧跟上去"
+            },
+            {
+              "id": "step_yuria_16",
+              "type": "choice",
+              "content": "稍微逛一下商店街再回去"
+            },
+            {
+              "id": "step_yuria_17",
+              "type": "choice",
+              "content": "帮由香里小姐的忙"
+            },
+            {
+              "id": "step_yuria_18",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_yuria_19",
+              "type": "choice",
+              "content": "不做多余的事"
+            },
+            {
+              "id": "step_yuria_20",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_yuria_21",
+              "type": "choice",
+              "content": "去见游莉亜小姐"
+            },
+            {
+              "id": "step_yuria_22",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_yuria_23",
+              "type": "choice",
+              "content": "不勉强劝说"
+            }
+          ]
+        },
+        {
+          "id": "ending_yuria_cg_end",
+          "name": "游莉亜 END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_yuria_cg_01",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_yuria_cg_02",
+              "type": "choice",
+              "content": "挑食可不好哦♪"
+            },
+            {
+              "id": "step_yuria_cg_03",
+              "type": "note",
+              "content": "CG回收"
+            }
+          ]
+        },
+        {
+          "id": "ending_elisa_end",
+          "name": "伊莉沙 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_elisa_01",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_elisa_02",
+              "type": "choice",
+              "content": "去见伊莉沙 ……♪"
+            }
+          ]
+        },
+        {
+          "id": "ending_yukari_end",
+          "name": "由香里 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_yukari_01",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_yukari_02",
+              "type": "choice",
+              "content": "去见由香里小姐"
+            },
+            {
+              "id": "step_yukari_03",
+              "type": "choice",
+              "content": "插入",
+              "prefix": "★"
+            }
+          ]
+        },
+        {
+          "id": "ending_ayana_end",
+          "name": "绚奈 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_ayana_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_ayana_02",
+              "type": "choice",
+              "content": "跟绫濑打招呼"
+            },
+            {
+              "id": "step_ayana_03",
+              "type": "choice",
+              "content": "给绫濑打电话"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

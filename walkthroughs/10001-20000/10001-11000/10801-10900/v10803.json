@@ -1,0 +1,97 @@
+{
+  "vid": "v10803",
+  "name": {
+    "zh-cn": "硬要无视与你的未来 ~Relay broadcast~",
+    "ja-jp": "あえて無視するキミとの未来 ～Relay broadcast～",
+    "ja-Latn": "aete-mushi-suru-kimi-to-no-mirai"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-13",
+  "tips": [
+    "一周目只能攻略七凪和南",
+    "三周目开始才可攻略計。四周目爽花变为可攻略。"
+  ],
+  "routes": [
+    {
+      "id": "route_1771748546364",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1771748584867",
+          "name": "沢渡 七凪 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1771748754661",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1771748762177",
+              "type": "choice",
+              "content": "加深七凪与兄妹之间的感情"
+            }
+          ]
+        },
+        {
+          "id": "ending_1771749240199",
+          "name": "橘 南 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1771749276245",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1771749280183",
+              "type": "choice",
+              "content": "向南前辈请教"
+            }
+          ]
+        },
+        {
+          "id": "ending_1771749319044",
+          "name": "真鍋 計 END",
+          "type": "normal",
+          "requirements": "※七凪和南攻略完毕后",
+          "steps": [
+            {
+              "id": "step_1771749340919",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1771749342947",
+              "type": "choice",
+              "content": "缓缓地开始攀登那条充满男子气概的山坡"
+            },
+            {
+              "id": "step_1771749343403",
+              "type": "choice",
+              "content": "以计谋与友谊出发"
+            }
+          ]
+        },
+        {
+          "id": "ending_1771749319243",
+          "name": "三咲 爽花 END",
+          "type": "normal",
+          "requirements": "※計を攻略完毕后",
+          "steps": [
+            {
+              "id": "step_1771749382405",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1771749386577",
+              "type": "choice",
+              "content": "三咲与青春突击！"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

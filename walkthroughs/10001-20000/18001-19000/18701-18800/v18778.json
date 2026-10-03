@@ -1,0 +1,431 @@
+{
+  "vid": "v18778",
+  "name": {
+    "zh-cn": "银色遥远",
+    "ja-jp": "銀色、遥か",
+    "ja-Latn": "giniro-haruka"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-14",
+  "routes": [
+    {
+      "id": "route_beth",
+      "name": "贝丝莉·萝斯黛·丝莉",
+      "endings": [
+        {
+          "id": "ending_beth_end",
+          "name": "贝丝莉 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_beth_01",
+              "type": "choice",
+              "content": "打招呼/看看情况再说",
+              "group": "4月11日"
+            },
+            {
+              "id": "step_beth_02",
+              "type": "choice",
+              "content": "这还用问吗？",
+              "group": "4月11日"
+            },
+            {
+              "id": "step_beth_03",
+              "type": "choice",
+              "content": "请务必马上让我看看",
+              "group": "4月12日"
+            },
+            {
+              "id": "step_beth_04",
+              "type": "choice",
+              "content": "再稍微看一会儿",
+              "group": "4月14日"
+            },
+            {
+              "id": "step_beth_05",
+              "type": "choice",
+              "content": "可以给我吗？",
+              "group": "4月15日"
+            },
+            {
+              "id": "step_beth_06",
+              "type": "choice",
+              "content": "我也很想见你",
+              "group": "4月15日"
+            },
+            {
+              "id": "step_beth_07",
+              "type": "choice",
+              "content": "去买牛奶",
+              "group": "4月16日"
+            },
+            {
+              "id": "step_beth_08",
+              "type": "choice",
+              "content": "亲自去提醒她",
+              "group": "4月16日"
+            },
+            {
+              "id": "step_beth_10",
+              "type": "save",
+              "content": "SAVE 1",
+              "group": "4月20日"
+            },
+            {
+              "id": "step_beth_11",
+              "type": "choice",
+              "content": "你有看昨天的电视剧吗？",
+              "group": "4月20日"
+            },
+            {
+              "id": "step_beth_12",
+              "type": "choice",
+              "content": "把我的也给你吧？",
+              "group": "4月20日"
+            },
+            {
+              "id": "step_beth_13",
+              "type": "choice",
+              "content": "雪月にも参加してほしいんだ",
+              "group": "4月25日"
+            },
+            {
+              "id": "step_beth_14",
+              "type": "choice",
+              "content": "继续拜托",
+              "group": "4月27日"
+            },
+            {
+              "id": "step_beth_15",
+              "type": "choice",
+              "content": "挺在意的",
+              "group": "5月9日"
+            },
+            {
+              "id": "step_beth_16",
+              "type": "choice",
+              "content": "找我的女朋友有什么事吗？",
+              "group": "5月15日"
+            },
+            {
+              "id": "step_beth_17",
+              "type": "save",
+              "content": "SAVE 2",
+              "group": "5月15日"
+            },
+            {
+              "id": "step_beth_18",
+              "type": "choice",
+              "content": "贝丝莉",
+              "group": "5月15日"
+            },
+            {
+              "id": "step_beth_19",
+              "type": "choice",
+              "content": "贝丝莉",
+              "group": "5月20日"
+            },
+            {
+              "id": "step_beth_20",
+              "type": "choice",
+              "content": "可是，这个应该很难吧。",
+              "group": "5月23日"
+            },
+            {
+              "id": "step_beth_21",
+              "type": "choice",
+              "content": "好啊",
+              "group": "4月28日"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_yukizuki",
+      "name": "新見 雪月",
+      "endings": [
+        {
+          "id": "ending_yukizuki_end",
+          "name": "雪月 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_yukizuki_01",
+              "type": "load",
+              "content": "LOAD 1",
+              "group": "4月20日"
+            },
+            {
+              "id": "step_yukizuki_02",
+              "type": "choice",
+              "content": "不认真听讲的话会被骂的哦",
+              "group": "4月20日"
+            },
+            {
+              "id": "step_yukizuki_03",
+              "type": "choice",
+              "content": "每次都吃得很开心呢",
+              "group": "4月20日"
+            },
+            {
+              "id": "step_yukizuki_04",
+              "type": "choice",
+              "content": "希望雪月也能参加",
+              "group": "4月25日"
+            },
+            {
+              "id": "step_yukizuki_05",
+              "type": "choice",
+              "content": "放弃",
+              "group": "4月27日"
+            },
+            {
+              "id": "step_yukizuki_06",
+              "type": "choice",
+              "content": "不是这样的",
+              "group": "5月9日"
+            },
+            {
+              "id": "step_yukizuki_07",
+              "type": "choice",
+              "content": "找我的后辈有什么事吗？",
+              "group": "5月15日"
+            },
+            {
+              "id": "step_yukizuki_08",
+              "type": "choice",
+              "content": "雪月"
+            },
+            {
+              "id": "step_yukizuki_09",
+              "type": "choice",
+              "content": "雪月",
+              "group": "5月20日"
+            },
+            {
+              "id": "step_yukizuki_10",
+              "type": "choice",
+              "content": "还是选一些雪月做得来的吧。",
+              "group": "5月23日"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_hinata",
+      "name": "苍井 雏多",
+      "endings": [
+        {
+          "id": "ending_hinata_end",
+          "name": "雏多 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_hinata_01",
+              "type": "load",
+              "content": "LOAD 2",
+              "group": "5月15日"
+            },
+            {
+              "id": "step_hinata_02",
+              "type": "choice",
+              "content": "雏多",
+              "group": "5月15日"
+            },
+            {
+              "id": "step_hinata_03",
+              "type": "choice",
+              "content": "雏多",
+              "group": "5月20日"
+            },
+            {
+              "id": "step_hinata_04",
+              "type": "choice",
+              "content": "可是，这个应该很难吧。",
+              "group": "5月23日"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_momiji",
+      "name": "名白 椛",
+      "endings": [
+        {
+          "id": "ending_momiji_end",
+          "name": "椛 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_momiji_01",
+              "type": "load",
+              "content": "LOAD 2",
+              "group": "5月15日"
+            },
+            {
+              "id": "step_momiji_02",
+              "type": "choice",
+              "content": "椛",
+              "group": "5月15日"
+            },
+            {
+              "id": "step_momiji_03",
+              "type": "choice",
+              "content": "椛",
+              "group": "5月20日"
+            },
+            {
+              "id": "step_momiji_04",
+              "type": "choice",
+              "content": "可是，这个应该很难吧。",
+              "group": "5月23日"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_mizuha",
+      "name": "如月 瑞羽",
+      "endings": [
+        {
+          "id": "ending_mizuha_end1",
+          "name": "瑞羽 END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_mizuha_01",
+              "type": "load",
+              "content": "LOAD 2",
+              "group": "5月15日"
+            },
+            {
+              "id": "step_mizuha_02",
+              "type": "choice",
+              "content": "瑞羽",
+              "group": "5月15日"
+            },
+            {
+              "id": "step_mizuha_03",
+              "type": "choice",
+              "content": "瑞羽",
+              "group": "5月20日"
+            },
+            {
+              "id": "step_mizuha_04",
+              "type": "choice",
+              "content": "可是，这个应该很难吧。",
+              "group": "5月23日"
+            },
+            {
+              "id": "step_mizuha_05",
+              "type": "choice",
+              "content": "就那样就好了",
+              "group": "5月31日"
+            },
+            {
+              "id": "step_mizuha_06",
+              "type": "choice",
+              "content": "那么，我就说了…",
+              "group": "5月31日"
+            },
+            {
+              "id": "step_mizuha_07",
+              "type": "choice",
+              "content": "递出手指",
+              "group": "4月14日"
+            },
+            {
+              "id": "step_mizuha_09",
+              "type": "save",
+              "content": "SAVE 3",
+              "group": "6月16日"
+            },
+            {
+              "id": "step_mizuha_10",
+              "type": "choice",
+              "content": "不商量",
+              "group": "6月16日"
+            },
+            {
+              "id": "step_mizuha_11",
+              "type": "choice",
+              "content": "脑海中全都是小瑞姐的欧派",
+              "group": "10月16日"
+            },
+            {
+              "id": "step_mizuha_14",
+              "type": "choice",
+              "content": "第一次Ｈ的事情",
+              "group": "12月31日"
+            },
+            {
+              "id": "step_mizuha_15",
+              "type": "choice",
+              "content": "放回去/拿在手上",
+              "group": "5月11日"
+            },
+            {
+              "id": "step_mizuha_16",
+              "type": "choice",
+              "content": "小瑞姐",
+              "group": "8月6日"
+            },
+            {
+              "id": "step_mizuha_17",
+              "type": "choice",
+              "content": "当然最喜欢了啊！",
+              "group": "5月8日"
+            },
+            {
+              "id": "step_mizuha_18",
+              "type": "choice",
+              "content": "不捉弄她",
+              "group": "6月9日"
+            },
+            {
+              "id": "step_mizuha_19",
+              "type": "choice",
+              "content": "叫她『瑞羽』",
+              "group": "8月31日"
+            }
+          ]
+        },
+        {
+          "id": "ending_mizuha_end2",
+          "name": "瑞羽 END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_mizuha_20",
+              "type": "load",
+              "content": "LOAD 3",
+              "group": "6月16日"
+            },
+            {
+              "id": "step_mizuha_21",
+              "type": "choice",
+              "content": "商量",
+              "group": "6月16日"
+            },
+            {
+              "id": "step_mizuha_22",
+              "type": "choice",
+              "content": "脑海中全都是小瑞姐的欧派",
+              "group": "10月16日"
+            },
+            {
+              "id": "step_mizuha_23",
+              "type": "choice",
+              "content": "想洒在小瑞姐的身体上…！",
+              "group": "11月25日"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

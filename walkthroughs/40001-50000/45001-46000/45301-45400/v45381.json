@@ -1,0 +1,53 @@
+{
+  "vid": "v45381",
+  "name": {
+    "zh-cn": "猫忍之心SPIN!",
+    "en-us": "NEKO-NIN exHeart SPIN!",
+    "ja-jp": "猫忍えくすはーとSPIN!",
+    "ja-Latn": "neko-nin-exheart-spin"
+  },
+  "level": 2,
+  "updatedAt": "2026-05-08",
+  "routes": [
+    {
+      "id": "route_game_guide",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_main",
+          "name": "藤花 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_main_02",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_main_04",
+              "type": "choice",
+              "content": "还是藤花小姐"
+            }
+          ]
+        },
+        {
+          "id": "ending_nanako",
+          "name": "奈奈子 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_nanako_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_nanako_03",
+              "type": "choice",
+              "content": "讨好奈奈子"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

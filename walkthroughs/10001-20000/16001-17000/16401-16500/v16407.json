@@ -1,0 +1,148 @@
+{
+  "vid": "v16407",
+  "name": {
+    "zh-cn": "金婚 -Jewel Days",
+    "en-us": "Golden Marriage -Jewel Days",
+    "ja-jp": "ゴールデンマリッジ",
+    "ja-Latn": "golden-marriage-jewel-days"
+  },
+  "level": 2,
+  "updatedAt": "2026-03-03",
+  "tips": [
+    "完成各角色的After Story之后，Bridal Night的剧本会激活"
+  ],
+  "routes": [
+    {
+      "id": "route_1762594317678",
+      "name": "After Story",
+      "endings": [
+        {
+          "id": "ending_1762594330327",
+          "name": "マリーカ END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762594339818",
+              "type": "choice",
+              "content": "Marika's Episode : Blooming Heart"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762594355789",
+          "name": "透子 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762594359919",
+              "type": "choice",
+              "content": "・Tohko's Episode : Co-op Wedding"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762594371895",
+          "name": "玲 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762594379227",
+              "type": "choice",
+              "content": "・Rei's Episode : Musical Vacance"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762594372094",
+          "name": "花純 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762594388222",
+              "type": "choice",
+              "content": "・Kasumi's Episode : Wish"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762594372314",
+          "name": "紫子 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762594401348",
+              "type": "choice",
+              "content": "・Yukariko's Episode : Let it be"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762594372573",
+          "name": "瑠璃 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762594410235",
+              "type": "choice",
+              "content": "・Ruri's Episode : Lovers' Date"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762594372847",
+          "name": "Bridal Night",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762594421183",
+              "type": "choice",
+              "content": "・Marika's Episode : Fortune"
+            },
+            {
+              "id": "step_1762594421323",
+              "type": "choice",
+              "content": "・Tohko's Episode : Prize"
+            },
+            {
+              "id": "step_1762594421474",
+              "type": "choice",
+              "content": "・Rei's Episode : Duet"
+            },
+            {
+              "id": "step_1762594421621",
+              "type": "choice",
+              "content": "・Kasumi's Episode : Pray"
+            },
+            {
+              "id": "step_1762594421766",
+              "type": "choice",
+              "content": "・Yukariko's Episode : Precious"
+            },
+            {
+              "id": "step_1762594435577",
+              "type": "choice",
+              "content": "・Ruri's Episode : Viragin Dream"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762594442584",
+          "name": "Extra",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762594452147",
+              "type": "choice",
+              "content": "・Episode Io 　''Synodic Month''"
+            },
+            {
+              "id": "step_1762594452296",
+              "type": "choice",
+              "content": "・Episode M　''D and D''"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,385 @@
+{
+  "vid": "v31427",
+  "name": {
+    "zh-cn": "永恒少女～堕落庭园的少女们～",
+    "ja-jp": "エヴァーメイデン　～堕落の園の乙女たち～",
+    "ja-Latn": "ever-maiden"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-13",
+  "tips": [
+    "后期选地点开始出现选项的时会开出分支",
+    "点击标题上的额外和附加剧情获取CG"
+  ],
+  "routes": [
+    {
+      "id": "route_1763890142486",
+      "name": "共通线",
+      "endings": [
+        {
+          "id": "ending_1764501087647",
+          "name": "第一章",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1764501214312",
+              "type": "choice",
+              "content": "造化室（阿薇拉）",
+              "group": "第一天下午"
+            },
+            {
+              "id": "step_1764501214494",
+              "type": "choice",
+              "content": "图书馆（萝宾）",
+              "group": "第一天下午"
+            },
+            {
+              "id": "step_1764501214629",
+              "type": "choice",
+              "content": "时钟塔（露珂）",
+              "group": "第一天下午"
+            },
+            {
+              "id": "step_1764501214856",
+              "type": "choice",
+              "content": "造化室（玛可，帕沃妮）",
+              "group": "第二天下午"
+            },
+            {
+              "id": "step_1765010348118",
+              "type": "choice",
+              "content": "时钟塔（露珂，萝宾）",
+              "group": "第二天下午"
+            },
+            {
+              "id": "step_1765010348605",
+              "type": "choice",
+              "content": "南部森林（玛可）",
+              "group": "第三天下午"
+            },
+            {
+              "id": "step_1765010348783",
+              "type": "choice",
+              "content": "中庭（阿尔艾特，露珂）",
+              "group": "第三天下午"
+            },
+            {
+              "id": "step_1765010349094",
+              "type": "choice",
+              "content": "北部森林（卡娜莉）",
+              "group": "第三天下午"
+            },
+            {
+              "id": "step_1765010349306",
+              "type": "choice",
+              "content": "南部森林（阿尔艾特，阿薇拉）",
+              "group": "第四天下午"
+            },
+            {
+              "id": "step_1765010349475",
+              "type": "choice",
+              "content": "座学室（玛可，帕沃妮）",
+              "group": "第四天下午"
+            },
+            {
+              "id": "step_1765010349668",
+              "type": "choice",
+              "content": "图书馆（萝宾，卡娜莉）",
+              "group": "第四天下午"
+            },
+            {
+              "id": "step_1765010349850",
+              "type": "choice",
+              "content": "第四天晚上",
+              "subfix": "寻找白色碎片"
+            }
+          ]
+        },
+        {
+          "id": "ending_1765010693735",
+          "name": "第二章",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1765010706603",
+              "type": "choice",
+              "content": "座学室（阿尔艾特，露珂）",
+              "group": "第25天下午"
+            },
+            {
+              "id": "step_1765010706777",
+              "type": "choice",
+              "content": "服饰室（阿薇拉，帕沃妮）",
+              "group": "第25天下午"
+            },
+            {
+              "id": "step_1765010706955",
+              "type": "choice",
+              "content": "图书馆（萝宾，卡娜莉）",
+              "group": "第25天下午"
+            },
+            {
+              "id": "step_1765010707122",
+              "type": "choice",
+              "content": "造化室（阿尔艾特，露珂）",
+              "group": "第26天下午"
+            },
+            {
+              "id": "step_1765010707285",
+              "type": "choice",
+              "content": "服饰室（萝宾，卡娜莉）",
+              "group": "第26天下午"
+            },
+            {
+              "id": "step_1765010707478",
+              "type": "choice",
+              "content": "座学室（玛可）",
+              "group": "第27天下午"
+            },
+            {
+              "id": "step_1765010707651",
+              "type": "choice",
+              "content": "服饰室（帕沃妮，阿尔艾特）",
+              "group": "第27天下午"
+            },
+            {
+              "id": "step_1765010707850",
+              "type": "choice",
+              "content": "图书馆（阿薇拉，萝宾）",
+              "group": "第27天下午"
+            },
+            {
+              "id": "step_1765010709971",
+              "type": "choice",
+              "content": "第31天晚上（寻找碎片）"
+            }
+          ]
+        },
+        {
+          "id": "ending_1765011671051",
+          "name": "第三章",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1765012000403",
+              "type": "choice",
+              "content": "造化室（阿尔艾特，帕沃妮）",
+              "group": "第34天下午"
+            },
+            {
+              "id": "step_1765012002719",
+              "type": "choice",
+              "content": "北部森林（萝宾，卡娜莉）",
+              "group": "第34天下午"
+            },
+            {
+              "id": "step_1765012002908",
+              "type": "choice",
+              "content": "服饰室（阿薇拉，帕沃妮）",
+              "group": "第35天下午"
+            },
+            {
+              "id": "step_1765012003157",
+              "type": "choice",
+              "content": "时钟塔（萝宾，卡娜莉）",
+              "group": "第35天下午"
+            },
+            {
+              "id": "step_1765712332868",
+              "type": "choice",
+              "content": "北部森林（阿尔艾特）",
+              "group": "第35天下午"
+            },
+            {
+              "id": "step_1765712333032",
+              "type": "choice",
+              "content": "南部森林（阿薇拉，阿尔艾特）",
+              "group": "第36天下午"
+            },
+            {
+              "id": "step_1765712333193",
+              "type": "choice",
+              "content": "座学室（帕沃妮）",
+              "group": "第36天下午"
+            },
+            {
+              "id": "step_1765712333354",
+              "type": "choice",
+              "content": "礼赞祈堂（萝宾，卡娜莉）",
+              "group": "第36天下午"
+            },
+            {
+              "id": "step_1765712333501",
+              "type": "choice",
+              "content": "服饰室（阿尔艾特，露珂）",
+              "group": "第37天下午"
+            },
+            {
+              "id": "step_1765712440308",
+              "type": "choice",
+              "content": "机械室（露珂，帕沃妮）",
+              "group": "第37天下午"
+            },
+            {
+              "id": "step_1765712440551",
+              "type": "choice",
+              "content": "时钟塔（萝宾，卡娜莉）",
+              "group": "第37天下午"
+            },
+            {
+              "id": "step_1765712498214",
+              "type": "choice",
+              "content": "第37天晚上（寻找碎片）",
+              "group": "第37天下午"
+            }
+          ]
+        },
+        {
+          "id": "ending_1765712648147",
+          "name": "阿薇拉-虚拟的蔷薇END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1765712699185",
+              "type": "choice",
+              "content": "服饰室（阿薇拉，帕沃妮）",
+              "group": "第43天下午"
+            },
+            {
+              "id": "step_1765712699692",
+              "type": "choice",
+              "content": "座学室（阿尔艾特）",
+              "group": "第43天下午"
+            },
+            {
+              "id": "step_1765712699885",
+              "type": "choice",
+              "content": "帕沃妮的房间1（阿薇拉）",
+              "group": "第44天下午"
+            },
+            {
+              "id": "step_1765712700086",
+              "type": "choice",
+              "content": "帕沃妮的房间2（帕沃妮）",
+              "group": "第44天下午"
+            },
+            {
+              "id": "step_1765712700399",
+              "type": "choice",
+              "content": "第44天晚上",
+              "group": "第44天下午"
+            },
+            {
+              "id": "step_1765714601185",
+              "type": "save",
+              "content": "SAVE 1",
+              "group": "第44天下午"
+            },
+            {
+              "id": "step_1765714603173",
+              "type": "choice",
+              "content": "点头",
+              "group": "第44天下午"
+            }
+          ]
+        },
+        {
+          "id": "ending_1765714671170",
+          "name": "露珂-沉重的爱 END",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_1765714746203",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1765714750916",
+              "type": "choice",
+              "content": "摇头"
+            },
+            {
+              "id": "step_1765714753696",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1765714754519",
+              "type": "choice",
+              "content": "我爱你"
+            }
+          ]
+        },
+        {
+          "id": "ending_1765714671361",
+          "name": "露珂-不存在的世界 END",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_1765714872308",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1765714881344",
+              "type": "choice",
+              "content": "我没有死"
+            },
+            {
+              "id": "step_1765714888906",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_1765714912078",
+              "type": "choice",
+              "content": "时钟塔"
+            }
+          ]
+        },
+        {
+          "id": "ending_1765714671657",
+          "name": "露珂-乌托邦的乐园 END",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_1765714939406",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1765714947914",
+              "type": "choice",
+              "content": "校门附近"
+            },
+            {
+              "id": "step_1765714948177",
+              "type": "choice",
+              "content": "图书馆"
+            },
+            {
+              "id": "step_1765714948413",
+              "type": "choice",
+              "content": "座学院"
+            },
+            {
+              "id": "step_1765714948602",
+              "type": "choice",
+              "content": "礼赞祈堂（调查阿德拉）"
+            },
+            {
+              "id": "step_1765714948794",
+              "type": "choice",
+              "content": "礼赞祈堂地下"
+            },
+            {
+              "id": "step_1765714948997",
+              "type": "choice",
+              "content": "时钟塔"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

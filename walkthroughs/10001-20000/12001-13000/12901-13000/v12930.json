@@ -1,0 +1,46 @@
+{
+  "vid": "v12930",
+  "name": {
+    "zh-cn": "花吻在上 天使们的春恋",
+    "en-us": "Sono Hanabira - Angels 2 - The Angels' Spring Romance",
+    "ja-jp": "その花びらにくちづけを 天使たちの春恋",
+    "ja-Latn": "sono-hanabira-ni-kuchizuke-o-tenshi-tachi-no-harukoi"
+  },
+  "level": 2,
+  "updatedAt": "2026-05-06",
+  "routes": [
+    {
+      "id": "route_1778061824637",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1778061830074",
+          "name": "END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1778061837907",
+              "type": "choice",
+              "content": "我告诉你！"
+            },
+            {
+              "id": "step_1778061838147",
+              "type": "choice",
+              "content": "醒醒"
+            },
+            {
+              "id": "step_1778061838560",
+              "type": "choice",
+              "content": "一起去"
+            },
+            {
+              "id": "step_1778061839096",
+              "type": "choice",
+              "content": "好好解释"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

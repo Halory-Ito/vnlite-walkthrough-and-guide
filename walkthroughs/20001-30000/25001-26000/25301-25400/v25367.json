@@ -1,0 +1,104 @@
+{
+  "vid": "v25367",
+  "name": {
+    "zh-cn": "若叶色的四重奏",
+    "ja-jp": "若葉色のカルテット",
+    "ja-Latn": "wakaba-iro-no-quartet"
+  },
+  "level": 2,
+  "updatedAt": "2026-02-27",
+  "routes": [
+    {
+      "id": "route_1756370525664",
+      "name": "索菲娅·库格鲁·斯威特林",
+      "endings": [
+        {
+          "id": "ending_1756370939199",
+          "name": "索菲娅 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756370953368",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1756370954279",
+              "type": "choice",
+              "content": "索菲娅"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756370777803",
+      "name": "守谷 日和",
+      "endings": [
+        {
+          "id": "ending_1756370962370",
+          "name": "日和 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756370987069",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1756370990863",
+              "type": "choice",
+              "content": "日和"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756370801634",
+      "name": "爱",
+      "endings": [
+        {
+          "id": "ending_1756370998896",
+          "name": "爱 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756371007302",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1756371007944",
+              "type": "choice",
+              "content": "爱"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1756370801941",
+      "name": "峰岸 都",
+      "endings": [
+        {
+          "id": "ending_1756371012398",
+          "name": "都 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756371023029",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1756371024110",
+              "type": "choice",
+              "content": "都"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

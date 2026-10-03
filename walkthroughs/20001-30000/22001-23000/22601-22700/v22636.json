@@ -1,0 +1,255 @@
+{
+  "vid": "v22636",
+  "name": {
+    "zh-cn": "乌有乡",
+    "ja-jp": "Erewhon",
+    "ja-Latn": "erewhon"
+  },
+  "level": 2,
+  "updatedAt": "2026-04-02",
+  "tips": [
+    "★选项为追加选项，不出现时无视即可"
+  ],
+  "routes": [
+    {
+      "id": "route_game",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_toko_end1",
+          "name": "十子篇 END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_toko1_01",
+              "type": "choice",
+              "content": "离开被窝",
+              "prefix": "★"
+            },
+            {
+              "id": "step_toko1_02",
+              "type": "choice",
+              "content": "不去追少女",
+              "prefix": "★"
+            },
+            {
+              "id": "step_toko1_03",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_toko1_04",
+              "type": "choice",
+              "content": "选十子当新娘"
+            },
+            {
+              "id": "step_toko1_05",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_toko1_06",
+              "type": "choice",
+              "content": "肯定是装出来的"
+            }
+          ]
+        },
+        {
+          "id": "ending_toko_end2",
+          "name": "十子篇 END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_toko2_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_toko2_02",
+              "type": "choice",
+              "content": "真的被附身了吗？"
+            }
+          ]
+        },
+        {
+          "id": "ending_kisera_end",
+          "name": "稀世良篇 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_kisera_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_kisera_02",
+              "type": "choice",
+              "content": "选稀世良当新娘"
+            }
+          ]
+        },
+        {
+          "id": "ending_sha_end",
+          "name": "纱篇 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_sha_01",
+              "type": "note",
+              "content": "十子篇＆稀世良篇后，从最初开始",
+              "prefix": "※"
+            },
+            {
+              "id": "step_sha_02",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_sha_03",
+              "type": "choice",
+              "content": "不离开被窝"
+            }
+          ]
+        },
+        {
+          "id": "ending_chaobaor_end",
+          "name": "调包儿篇 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_chaobaor_01",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_chaobaor_02",
+              "type": "choice",
+              "content": "离开被窝"
+            },
+            {
+              "id": "step_chaobaor_03",
+              "type": "choice",
+              "content": "去追少女"
+            }
+          ]
+        },
+        {
+          "id": "ending_huili_end1",
+          "name": "回历篇 END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_huili1_01",
+              "type": "note",
+              "content": "纱篇&调包儿篇后，回到标题界面",
+              "prefix": "※"
+            },
+            {
+              "id": "step_huili1_02",
+              "type": "choice",
+              "content": "从【吞食红之噩梦】开始"
+            },
+            {
+              "id": "step_huili1_03",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_huili1_04",
+              "type": "choice",
+              "content": "我想要再次见到十子"
+            },
+            {
+              "id": "step_huili1_05",
+              "type": "save",
+              "content": "SAVE 5"
+            },
+            {
+              "id": "step_huili1_06",
+              "type": "choice",
+              "content": "十子……！"
+            },
+            {
+              "id": "step_huili1_07",
+              "type": "save",
+              "content": "SAVE 6"
+            },
+            {
+              "id": "step_huili1_08",
+              "type": "choice",
+              "content": "要把十子占为己有"
+            }
+          ]
+        },
+        {
+          "id": "ending_huili_end2",
+          "name": "回历篇 END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_huili2_01",
+              "type": "load",
+              "content": "LOAD 6"
+            },
+            {
+              "id": "step_huili2_02",
+              "type": "choice",
+              "content": "要让十子幸福"
+            }
+          ]
+        },
+        {
+          "id": "ending_huili_end3",
+          "name": "回历篇 END3",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_huili3_01",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_huili3_02",
+              "type": "choice",
+              "content": "实现十子的愿望吧"
+            }
+          ]
+        },
+        {
+          "id": "ending_bad_end1",
+          "name": "BAD END1",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_bad1_01",
+              "type": "load",
+              "content": "LOAD 5"
+            },
+            {
+              "id": "step_bad1_02",
+              "type": "choice",
+              "content": "再来一次……！"
+            }
+          ]
+        },
+        {
+          "id": "ending_bad_end2",
+          "name": "BAD END2",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_bad2_01",
+              "type": "load",
+              "content": "LOAD 5"
+            },
+            {
+              "id": "step_bad2_02",
+              "type": "choice",
+              "content": "做不到的……！"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,484 @@
+{
+  "vid": "v18495",
+  "name": {
+    "zh-cn": "绯色怪奇谈",
+    "en-us": "Nanairo Reincarnation",
+    "ja-jp": "あけいろ怪奇譚",
+    "ja-Latn": "akeiro-kaikitan"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-12",
+  "tips": [
+    "★为满足攻略真结局时才会出现的选项"
+  ],
+  "routes": [
+    {
+      "id": "route_1756195505339",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1756195515845",
+          "name": "贝露贝特 END(短发)",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756195517699",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1756195518873",
+              "type": "choice",
+              "content": "帮助贝露贝特"
+            },
+            {
+              "id": "step_1756195519374",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1756195520185",
+              "type": "choice",
+              "content": "继续进行"
+            },
+            {
+              "id": "step_1756195521977",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_1756195524052",
+              "type": "choice",
+              "content": "算了吧"
+            },
+            {
+              "id": "step_1756195524395",
+              "type": "choice",
+              "content": "就交给佳奈吧"
+            },
+            {
+              "id": "step_1756195525085",
+              "type": "choice",
+              "content": "试着召唤花子"
+            },
+            {
+              "id": "step_1756195526157",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_1756195526894",
+              "type": "choice",
+              "content": "辣酱"
+            },
+            {
+              "id": "step_1756195527754",
+              "type": "save",
+              "content": "SAVE 5"
+            },
+            {
+              "id": "step_1756195528811",
+              "type": "choice",
+              "content": "要避免让其进入视线"
+            },
+            {
+              "id": "step_1756195529106",
+              "type": "choice",
+              "content": "顺从"
+            },
+            {
+              "id": "step_1756195531716",
+              "type": "choice",
+              "content": "叫花子小姐"
+            },
+            {
+              "id": "step_1756195534132",
+              "type": "save",
+              "content": "SAVE 6"
+            },
+            {
+              "id": "step_1756195535754",
+              "type": "choice",
+              "content": "喜欢短发"
+            }
+          ]
+        },
+        {
+          "id": "ending_1756195744179",
+          "name": "贝露贝特 END(长发)",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756195762621",
+              "type": "load",
+              "content": "LOAD 6"
+            },
+            {
+              "id": "step_1756195768270",
+              "type": "choice",
+              "content": "喜欢长发"
+            }
+          ]
+        },
+        {
+          "id": "ending_1756195783898",
+          "name": "琉璃＆琉卡 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756195825333",
+              "type": "load",
+              "content": "LOAD 5"
+            },
+            {
+              "id": "step_1756195835829",
+              "type": "choice",
+              "content": "可以看一眼吗？"
+            }
+          ]
+        },
+        {
+          "id": "ending_1756195854204",
+          "name": "葛城 叶子 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756195913410",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_1756195917030",
+              "type": "choice",
+              "content": "塔塔酱"
+            },
+            {
+              "id": "step_1756195931504",
+              "type": "save",
+              "content": "SAVE 7"
+            },
+            {
+              "id": "step_1756195937903",
+              "type": "choice",
+              "content": "我渴望力量"
+            },
+            {
+              "id": "step_1756195948383",
+              "type": "save",
+              "content": "SAVE 8"
+            },
+            {
+              "id": "step_1756195954858",
+              "type": "choice",
+              "content": "想试试看"
+            }
+          ]
+        },
+        {
+          "id": "ending_1756196042806",
+          "name": "贝露贝特 END",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_1756196061824",
+              "type": "load",
+              "content": "LOAD 7"
+            },
+            {
+              "id": "step_1756196067270",
+              "type": "choice",
+              "content": "不需要"
+            },
+            {
+              "id": "step_1756196090976",
+              "type": "save",
+              "content": "SAVE 9"
+            },
+            {
+              "id": "step_1756196096174",
+              "type": "choice",
+              "content": "不要让它进入视线"
+            },
+            {
+              "id": "step_1756196096430",
+              "type": "choice",
+              "content": "反抗"
+            },
+            {
+              "id": "step_1756196096594",
+              "type": "choice",
+              "content": "不叫花子小姐"
+            }
+          ]
+        },
+        {
+          "id": "ending_1756196163067",
+          "name": "雏森 佳奈 ENDTRUE、流程图CG回收",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756196233603",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1756196235492",
+              "type": "choice",
+              "content": "和佳奈一起调查"
+            },
+            {
+              "id": "step_1756196235656",
+              "type": "choice",
+              "content": "继续进行"
+            },
+            {
+              "id": "step_1756196235811",
+              "type": "choice",
+              "content": "算了吧"
+            },
+            {
+              "id": "step_1756196236125",
+              "type": "choice",
+              "content": "跟上去"
+            },
+            {
+              "id": "step_1756196237643",
+              "type": "choice",
+              "content": "算了吧"
+            },
+            {
+              "id": "step_1756196330310",
+              "type": "choice",
+              "content": "柠檬"
+            },
+            {
+              "id": "step_1756196334878",
+              "type": "choice",
+              "content": "可以看一眼吗？"
+            },
+            {
+              "id": "step_1756196335292",
+              "type": "choice",
+              "content": "和佳奈一起去"
+            },
+            {
+              "id": "step_1756196372309",
+              "type": "save",
+              "content": "SAVE 10"
+            },
+            {
+              "id": "step_1756196381697",
+              "type": "choice",
+              "content": "在观察一下情况"
+            },
+            {
+              "id": "step_1756196381917",
+              "type": "choice",
+              "content": "反驳"
+            },
+            {
+              "id": "step_1756196409257",
+              "type": "save",
+              "content": "SAVE 11"
+            },
+            {
+              "id": "step_1756196414934",
+              "type": "choice",
+              "content": "优先考虑神田川和古屋"
+            }
+          ]
+        },
+        {
+          "id": "ending_1756196522744",
+          "name": "雏森 佳奈 END1",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_1756196528929",
+              "type": "load",
+              "content": "LOAD 11"
+            },
+            {
+              "id": "step_1756196533970",
+              "type": "choice",
+              "content": "优先考虑原田前辈"
+            }
+          ]
+        },
+        {
+          "id": "ending_1756196572572",
+          "name": "雏森 佳奈 END2",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_1756196589450",
+              "type": "load",
+              "content": "LOAD 10"
+            },
+            {
+              "id": "step_1756196592858",
+              "type": "choice",
+              "content": "走出柜台"
+            },
+            {
+              "id": "step_1756196605175",
+              "type": "save",
+              "content": "SAVE 12"
+            },
+            {
+              "id": "step_1756196608880",
+              "type": "choice",
+              "content": "保持沉默"
+            },
+            {
+              "id": "step_1756196620060",
+              "type": "choice",
+              "content": "不可能的",
+              "prefix": "★"
+            }
+          ]
+        },
+        {
+          "id": "ending_1756196759153",
+          "name": "久住 美里 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1756196783232",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1756196786281",
+              "type": "choice",
+              "content": "结束调查"
+            },
+            {
+              "id": "step_1756196791162",
+              "type": "choice",
+              "content": "要不要给她拿点喝的呢"
+            },
+            {
+              "id": "step_1756196791512",
+              "type": "choice",
+              "content": "塔塔酱"
+            },
+            {
+              "id": "step_1756196792057",
+              "type": "save",
+              "content": "SAVE 13"
+            },
+            {
+              "id": "step_1756196795828",
+              "type": "choice",
+              "content": "阻止贝露贝特"
+            },
+            {
+              "id": "step_1756196796027",
+              "type": "choice",
+              "content": "想试试看"
+            },
+            {
+              "id": "step_1756196796304",
+              "type": "choice",
+              "content": "我需要时间来思考"
+            }
+          ]
+        },
+        {
+          "id": "ending_1756196932912",
+          "name": "真结局",
+          "type": "true",
+          "requirements": "※以上全部结局完成后",
+          "steps": [
+            {
+              "id": "step_1756196945987",
+              "type": "load",
+              "content": "LOAD 12"
+            },
+            {
+              "id": "step_1756196980997",
+              "type": "choice",
+              "content": "保持沉默"
+            },
+            {
+              "id": "step_1756196981192",
+              "type": "choice",
+              "content": "好，我知道了"
+            },
+            {
+              "id": "step_1756197002021",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1756197006235",
+              "type": "choice",
+              "content": "好吧"
+            },
+            {
+              "id": "step_1756197006409",
+              "type": "choice",
+              "content": "还是不要打扰她了"
+            },
+            {
+              "id": "step_1756197006647",
+              "type": "choice",
+              "content": "是么都不加"
+            },
+            {
+              "id": "step_1756197037237",
+              "type": "note",
+              "content": "※家庭餐厅CG回收后结束。"
+            },
+            {
+              "id": "step_1756197041791",
+              "type": "load",
+              "content": "LOAD 8"
+            },
+            {
+              "id": "step_1756197070771",
+              "type": "choice",
+              "content": "还是算了"
+            },
+            {
+              "id": "step_1756197096230",
+              "type": "note",
+              "content": "※流程图回收后结束。"
+            },
+            {
+              "id": "step_1756197107620",
+              "type": "load",
+              "content": "LOAD 9"
+            },
+            {
+              "id": "step_1756197117120",
+              "type": "choice",
+              "content": "可以看一下吗？"
+            },
+            {
+              "id": "step_1756197117953",
+              "type": "note",
+              "content": "※流程图回收后结束。"
+            },
+            {
+              "id": "step_1756197158040",
+              "type": "load",
+              "content": "LOAD 13"
+            },
+            {
+              "id": "step_1756197164009",
+              "type": "choice",
+              "content": "不阻止贝露贝特。"
+            },
+            {
+              "id": "step_1756197173813",
+              "type": "note",
+              "content": "※快进到选择项，完成流程图收集后回收结束。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

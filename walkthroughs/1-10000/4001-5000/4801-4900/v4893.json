@@ -1,0 +1,116 @@
+{
+  "vid": "v4893",
+  "name": {
+    "zh-cn": "恋神",
+    "ja-jp": "恋神 -ラブカミ-",
+    "ja-Latn": "lovekami"
+  },
+  "level": 2,
+  "updatedAt": "2026-04-12",
+  "routes": [
+    {
+      "id": "route_game_guide",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_tsukuyomi_end",
+          "name": "月咏 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_tsukuyomi_01",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_tsukuyomi_02",
+              "type": "choice",
+              "content": "阻止伊月"
+            },
+            {
+              "id": "step_tsukuyomi_03",
+              "type": "choice",
+              "content": "看月咏的标签"
+            },
+            {
+              "id": "step_tsukuyomi_04",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_tsukuyomi_05",
+              "type": "choice",
+              "content": "寻找月咏"
+            }
+          ]
+        },
+        {
+          "id": "ending_itsuki_end",
+          "name": "伊月 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_itsuki_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_itsuki_02",
+              "type": "choice",
+              "content": "寻找伊月"
+            }
+          ]
+        },
+        {
+          "id": "ending_inari_end",
+          "name": "稻荷 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_inari_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_inari_02",
+              "type": "choice",
+              "content": "阻止咲夜"
+            },
+            {
+              "id": "step_inari_03",
+              "type": "choice",
+              "content": "看稻荷的标签"
+            },
+            {
+              "id": "step_inari_04",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_inari_05",
+              "type": "choice",
+              "content": "寻找稻荷"
+            }
+          ]
+        },
+        {
+          "id": "ending_sakuya_end",
+          "name": "咲夜 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_sakuya_01",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_sakuya_02",
+              "type": "choice",
+              "content": "寻找咲夜"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

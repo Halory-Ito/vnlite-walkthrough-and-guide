@@ -1,0 +1,259 @@
+{
+  "vid": "v61834",
+  "name": {
+    "zh-cn": "Relirium - 遗迹与相遇与冒险",
+    "ja-jp": "Relirium -レリリウム- 遺跡と出逢いと冒険と",
+    "ja-Latn": "relirium-iseki-to-deai-to-bouken-to"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-15",
+  "tips": [
+    "推荐攻略顺序：莉泽特→凪→辉夜→永远"
+  ],
+  "routes": [
+    {
+      "id": "route_1784095920531",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_lizete_end",
+          "name": "莉泽特 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_lizete_01",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_lizete_02",
+              "type": "choice",
+              "content": "在房间休息"
+            },
+            {
+              "id": "step_lizete_03",
+              "type": "choice",
+              "content": "和莉泽特的约定"
+            },
+            {
+              "id": "step_lizete_04",
+              "type": "choice",
+              "content": "莉泽特"
+            },
+            {
+              "id": "step_lizete_05",
+              "type": "choice",
+              "content": "哪怕如此也只能硬着头皮上了",
+              "prefix": "★"
+            }
+          ]
+        },
+        {
+          "id": "ending_patricia_end",
+          "name": "帕特里夏 END",
+          "type": "normal",
+          "requirements": "通关莉泽特 END 后解锁",
+          "steps": [
+            {
+              "id": "step_patricia_02",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_patricia_03",
+              "type": "choice",
+              "content": "在房间里休息"
+            },
+            {
+              "id": "step_patricia_04",
+              "type": "choice",
+              "content": "先回去",
+              "prefix": "★"
+            }
+          ]
+        },
+        {
+          "id": "ending_nagi_end",
+          "name": "凪 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_nagi_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_nagi_02",
+              "type": "choice",
+              "content": "去冒险部露个脸"
+            },
+            {
+              "id": "step_nagi_03",
+              "type": "choice",
+              "content": "冒险部"
+            },
+            {
+              "id": "step_nagi_04",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_nagi_05",
+              "type": "choice",
+              "content": "凪"
+            },
+            {
+              "id": "step_nagi_06",
+              "type": "choice",
+              "content": "哪怕如此也只能硬着头皮上了",
+              "prefix": "★"
+            }
+          ]
+        },
+        {
+          "id": "ending_ikumi_end",
+          "name": "育实 END",
+          "type": "normal",
+          "requirements": "通关凪 END 后解锁",
+          "steps": [
+            {
+              "id": "step_ikumi_02",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_ikumi_03",
+              "type": "choice",
+              "content": "凪"
+            },
+            {
+              "id": "step_ikumi_04",
+              "type": "choice",
+              "content": "作为冒险者发起挑战",
+              "prefix": "★"
+            }
+          ]
+        },
+        {
+          "id": "ending_kaguya_end",
+          "name": "辉夜 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_kaguya_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_kaguya_02",
+              "type": "choice",
+              "content": "在校园里散步"
+            },
+            {
+              "id": "step_kaguya_03",
+              "type": "choice",
+              "content": "独自前往遗迹"
+            },
+            {
+              "id": "step_kaguya_04",
+              "type": "choice",
+              "content": "辉夜"
+            },
+            {
+              "id": "step_kaguya_05",
+              "type": "choice",
+              "content": "哪怕如此也只能硬着头皮上了",
+              "prefix": "★"
+            }
+          ]
+        },
+        {
+          "id": "ending_towa_end",
+          "name": "永远 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_towa_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_towa_02",
+              "type": "choice",
+              "content": "随便散散步"
+            },
+            {
+              "id": "step_towa_03",
+              "type": "choice",
+              "content": "偶像部"
+            },
+            {
+              "id": "step_towa_04",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_towa_05",
+              "type": "choice",
+              "content": "永远"
+            },
+            {
+              "id": "step_towa_06",
+              "type": "choice",
+              "content": "哪怕如此也只能硬着头皮上了",
+              "prefix": "★"
+            }
+          ]
+        },
+        {
+          "id": "ending_hotaru_end",
+          "name": "萤 END",
+          "type": "normal",
+          "requirements": "通关永远 END 后解锁",
+          "steps": [
+            {
+              "id": "step_hotaru_02",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_hotaru_03",
+              "type": "choice",
+              "content": "永远"
+            },
+            {
+              "id": "step_hotaru_04",
+              "type": "choice",
+              "content": "无可奈何"
+            }
+          ]
+        },
+        {
+          "id": "ending_eve_end",
+          "name": "伊芙 END",
+          "type": "normal",
+          "requirements": "通关永远 END 后解锁",
+          "steps": [
+            {
+              "id": "step_eve_01",
+              "type": "note",
+              "content": "鉴赏界面观看其剧情即可"
+            }
+          ]
+        },
+        {
+          "id": "ending_true_end",
+          "name": "TRUE END",
+          "type": "true",
+          "requirements": "以上结局完成后，标题画面选择 [True]",
+          "steps": [
+            {
+              "type": "choice",
+              "content": "（源站步骤均为空）"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

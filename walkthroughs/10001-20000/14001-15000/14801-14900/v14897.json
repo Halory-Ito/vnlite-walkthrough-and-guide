@@ -1,0 +1,181 @@
+{
+  "vid": "v14897",
+  "name": {
+    "zh-cn": "蒼撃のイェーガー",
+    "ja-jp": "蒼撃のイェーガー",
+    "ja-Latn": "sougeki-no-jaeger"
+  },
+  "level": 2,
+  "updatedAt": "2026-05-08",
+  "routes": [
+    {
+      "id": "route_chiharu",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_chiharu_end",
+          "name": "小栗 千鹤 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_chiharu_01",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_chiharu_02",
+              "type": "choice",
+              "content": "和千鹤搭话"
+            },
+            {
+              "id": "step_chiharu_03",
+              "type": "choice",
+              "content": "什么都不做"
+            },
+            {
+              "id": "step_chiharu_04",
+              "type": "choice",
+              "content": "试着和千鹤搭话"
+            },
+            {
+              "id": "step_chiharu_05",
+              "type": "choice",
+              "content": "一个人做"
+            },
+            {
+              "id": "step_chiharu_07",
+              "type": "choice",
+              "content": "千鹤"
+            }
+          ]
+        },
+        {
+          "id": "ending_mai_end",
+          "name": "藤原 舞 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_mai_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_mai_02",
+              "type": "choice",
+              "content": "和舞小姐搭话"
+            },
+            {
+              "id": "step_mai_03",
+              "type": "choice",
+              "content": "帮忙做早餐"
+            },
+            {
+              "id": "step_mai_04",
+              "type": "choice",
+              "content": "试着问问舞小姐"
+            },
+            {
+              "id": "step_mai_05",
+              "type": "choice",
+              "content": "问舞"
+            },
+            {
+              "id": "step_mai_06",
+              "type": "choice",
+              "content": "拜托舞小姐"
+            },
+            {
+              "id": "step_mai_07",
+              "type": "choice",
+              "content": "舞"
+            }
+          ]
+        },
+        {
+          "id": "ending_ania_end",
+          "name": "阿尼亚 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_ania_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_ania_02",
+              "type": "choice",
+              "content": "和妮娜搭话"
+            },
+            {
+              "id": "step_ania_03",
+              "type": "choice",
+              "content": "为今天早上的事道歉"
+            },
+            {
+              "id": "step_ania_04",
+              "type": "choice",
+              "content": "放弃午饭"
+            },
+            {
+              "id": "step_ania_05",
+              "type": "choice",
+              "content": "问阿尼亚"
+            },
+            {
+              "id": "step_ania_06",
+              "type": "choice",
+              "content": "拜托阿尼亚"
+            },
+            {
+              "id": "step_ania_07",
+              "type": "choice",
+              "content": "阿尼亚"
+            }
+          ]
+        },
+        {
+          "id": "ending_kaho_end",
+          "name": "森野 夏帆 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_kaho_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_kaho_02",
+              "type": "choice",
+              "content": "和森野搭话"
+            },
+            {
+              "id": "step_kaho_03",
+              "type": "choice",
+              "content": "帮忙浇水"
+            },
+            {
+              "id": "step_kaho_04",
+              "type": "choice",
+              "content": "和森野去买东西"
+            },
+            {
+              "id": "step_kaho_05",
+              "type": "choice",
+              "content": "问森野"
+            },
+            {
+              "id": "step_kaho_06",
+              "type": "choice",
+              "content": "拜托森野"
+            },
+            {
+              "id": "step_kaho_07",
+              "type": "choice",
+              "content": "森野"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

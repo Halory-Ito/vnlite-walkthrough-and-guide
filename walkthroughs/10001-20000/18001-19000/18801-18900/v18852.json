@@ -1,0 +1,135 @@
+{
+  "vid": "v18852",
+  "name": {
+    "zh-cn": "天津罪",
+    "en-us": "Amatsutsumi",
+    "ja-jp": "アマツツミ",
+    "ja-Latn": "amatsutsumi"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-14",
+  "routes": [
+    {
+      "id": "route_game",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_kokoro",
+          "name": "心 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_kokoro_01",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_kokoro_02",
+              "type": "choice",
+              "content": "我爱着心"
+            }
+          ]
+        },
+        {
+          "id": "ending_kyoko",
+          "name": "响子 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_kyoko_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_kyoko_02",
+              "type": "choice",
+              "content": "我还很迷茫"
+            },
+            {
+              "id": "step_kyoko_03",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_kyoko_04",
+              "type": "choice",
+              "content": "我想和响子永远在一起"
+            }
+          ]
+        },
+        {
+          "id": "ending_ai",
+          "name": "爱 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_ai_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_ai_02",
+              "type": "choice",
+              "content": "响子是我很重要的朋友"
+            },
+            {
+              "id": "step_ai_03",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_ai_04",
+              "type": "choice",
+              "content": "继续和爱的婚约关系"
+            }
+          ]
+        },
+        {
+          "id": "ending_hotaru_1",
+          "name": "萤 END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_hotaru1_01",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_hotaru1_02",
+              "type": "choice",
+              "content": "解除和爱的关系"
+            },
+            {
+              "id": "step_hotaru1_03",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_hotaru1_04",
+              "type": "choice",
+              "content": "杀了她"
+            }
+          ]
+        },
+        {
+          "id": "ending_hotaru_2",
+          "name": "萤 END2",
+          "type": "normal",
+          "requirements": "萤END1后",
+          "steps": [
+            {
+              "id": "step_hotaru2_02",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_hotaru2_03",
+              "type": "choice",
+              "content": "…………"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

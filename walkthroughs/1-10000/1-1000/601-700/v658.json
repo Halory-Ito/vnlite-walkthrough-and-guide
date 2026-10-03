@@ -1,0 +1,185 @@
+{
+  "vid": "v658",
+  "name": {
+    "zh-cn": "プリミティブリンク",
+    "en-us": "Primitive Link",
+    "ja-jp": "プリミティブ リンク",
+    "ja-Latn": "primitive-link"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-14",
+  "routes": [
+    {
+      "id": "route_game",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_tierra_end",
+          "name": "ティエラ END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_tierra_02",
+              "type": "choice",
+              "content": "请她解说"
+            },
+            {
+              "id": "step_tierra_03",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_tierra_04",
+              "type": "choice",
+              "content": "去追缇艾拉"
+            },
+            {
+              "id": "step_tierra_05",
+              "type": "choice",
+              "content": "去晴太的房间"
+            },
+            {
+              "id": "step_tierra_06",
+              "type": "choice",
+              "content": "去二楼走廊"
+            },
+            {
+              "id": "step_tierra_07",
+              "type": "choice",
+              "content": "棉花糖"
+            },
+            {
+              "id": "step_tierra_08",
+              "type": "choice",
+              "content": "水气球"
+            },
+            {
+              "id": "step_tierra_09",
+              "type": "choice",
+              "content": "说出来",
+              "prefix": "★"
+            }
+          ]
+        },
+        {
+          "id": "ending_shion_end",
+          "name": "シオン END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_shion_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_shion_02",
+              "type": "choice",
+              "content": "缇艾拉就交给渡濑吧"
+            },
+            {
+              "id": "step_shion_03",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_shion_04",
+              "type": "choice",
+              "content": "有点在意紫苑"
+            }
+          ]
+        },
+        {
+          "id": "ending_riko_end",
+          "name": "リコ END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_riko_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_riko_02",
+              "type": "choice",
+              "content": "既然是紫苑的话就没问题"
+            },
+            {
+              "id": "step_riko_03",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_riko_04",
+              "type": "choice",
+              "content": "接受莉可的提议，住在宿舍"
+            },
+            {
+              "id": "step_riko_05",
+              "type": "choice",
+              "content": "说出来",
+              "prefix": "★"
+            }
+          ]
+        },
+        {
+          "id": "ending_rikka_end",
+          "name": "六花 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_rikka_01",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_rikka_02",
+              "type": "choice",
+              "content": "优先遵守与六花的约定"
+            },
+            {
+              "id": "step_rikka_03",
+              "type": "choice",
+              "content": "已经来不及了",
+              "prefix": "★"
+            }
+          ]
+        },
+        {
+          "id": "ending_yume_end",
+          "name": "ゆめ END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_yume_01",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_yume_02",
+              "type": "choice",
+              "content": "被梦的热情打动，前往海边"
+            },
+            {
+              "id": "step_yume_03",
+              "type": "choice",
+              "content": "说出来",
+              "prefix": "★"
+            }
+          ]
+        },
+        {
+          "id": "ending_true_end",
+          "name": "TRUE END",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_true_01",
+              "type": "note",
+              "content": "达成以上所有 END后进入"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

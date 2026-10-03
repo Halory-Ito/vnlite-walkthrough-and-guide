@@ -1,0 +1,236 @@
+{
+  "vid": "v18760",
+  "name": {
+    "zh-cn": "樱之杜净梦者",
+    "en-us": "Sakuranomori Dreamers",
+    "ja-jp": "サクラノモリ†ドリーマーズ",
+    "ja-Latn": "sakura-no-mori-dreamers"
+  },
+  "level": 2,
+  "updatedAt": "2026-05-11",
+  "routes": [
+    {
+      "id": "route_common_kureha",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_kureha_end",
+          "name": "桐远暮羽 END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_kureha_01",
+              "type": "choice",
+              "content": "用脚往上踢",
+              "group": "序章"
+            },
+            {
+              "id": "step_kureha_02",
+              "type": "choice",
+              "content": "抓对方的脸",
+              "group": "序章"
+            },
+            {
+              "id": "step_kureha_03",
+              "type": "choice",
+              "content": "扯对方的手",
+              "group": "序章"
+            },
+            {
+              "id": "step_kureha_04",
+              "type": "choice",
+              "content": "慎司会来救我",
+              "group": "序章"
+            },
+            {
+              "id": "step_kureha_05",
+              "type": "choice",
+              "content": "看",
+              "group": "第一章"
+            },
+            {
+              "id": "step_kureha_06",
+              "type": "choice",
+              "content": "仔细看了以后再回答",
+              "group": "第一章"
+            },
+            {
+              "id": "step_kureha_07",
+              "type": "choice",
+              "content": "留在原地",
+              "group": "第一章"
+            },
+            {
+              "id": "step_kureha_08",
+              "type": "save",
+              "content": "SAVE 1",
+              "group": "第三章"
+            },
+            {
+              "id": "step_kureha_09",
+              "type": "choice",
+              "content": "和暮羽搭话(和初音搭话)",
+              "group": "第三章"
+            },
+            {
+              "id": "step_kureha_10",
+              "type": "choice",
+              "content": "和暮羽说话(和初音说话)",
+              "group": "第六章"
+            },
+            {
+              "id": "step_kureha_11",
+              "type": "save",
+              "content": "SAVE 2",
+              "group": "第十章"
+            },
+            {
+              "id": "step_kureha_12",
+              "type": "choice",
+              "content": "回答“可以啊”",
+              "group": "第十章"
+            },
+            {
+              "id": "step_kureha_13",
+              "type": "choice",
+              "content": "舌头/欧派",
+              "group": "第十三章"
+            },
+            {
+              "id": "step_kureha_14",
+              "type": "save",
+              "content": "SAVE 3",
+              "group": "第十三章"
+            },
+            {
+              "id": "step_kureha_15",
+              "type": "choice",
+              "content": "不杀",
+              "group": "第十三章"
+            }
+          ]
+        },
+        {
+          "id": "ending_bad_end",
+          "name": "桐远暮羽 END2",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_bad_01",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_bad_02",
+              "type": "choice",
+              "content": "杀掉"
+            }
+          ]
+        },
+        {
+          "id": "ending_mahoro_end",
+          "name": "闲宫真幌 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_mahoro_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_mahoro_02",
+              "type": "choice",
+              "content": "和真幌搭话"
+            },
+            {
+              "id": "step_mahoro_03",
+              "type": "choice",
+              "content": "和真幌说话",
+              "group": "第六章"
+            },
+            {
+              "id": "step_mahoro_04",
+              "type": "choice",
+              "content": "回答“我也不太会游泳”",
+              "group": "第十章"
+            },
+            {
+              "id": "step_mahoro_05",
+              "type": "choice",
+              "content": "回答“我也一起吧”",
+              "group": "第十章"
+            }
+          ]
+        },
+        {
+          "id": "ending_mifuyu_end",
+          "name": "衿坂美冬 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_mifuyu_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_mifuyu_02",
+              "type": "choice",
+              "content": "和美冬搭话"
+            },
+            {
+              "id": "step_mifuyu_03",
+              "type": "choice",
+              "content": "和美冬说话",
+              "group": "第六章"
+            },
+            {
+              "id": "step_mifuyu_04",
+              "type": "choice",
+              "content": "回答“我也不太会游泳”",
+              "group": "第十章"
+            },
+            {
+              "id": "step_mifuyu_05",
+              "type": "choice",
+              "content": "回答“知道了”",
+              "group": "第十章"
+            },
+            {
+              "id": "step_mifuyu_06",
+              "type": "choice",
+              "content": "询问“要陪你去吗”",
+              "group": "第十章"
+            }
+          ]
+        },
+        {
+          "id": "ending_hatsune_end",
+          "name": "吹上初音 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_hatsune_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_hatsune_02",
+              "type": "choice",
+              "content": "回答“我也不太会游泳”"
+            },
+            {
+              "id": "step_hatsune_03",
+              "type": "choice",
+              "content": "回答“知道了”"
+            },
+            {
+              "id": "step_hatsune_04",
+              "type": "choice",
+              "content": "不说话"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

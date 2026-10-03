@@ -1,0 +1,124 @@
+{
+  "vid": "v27070",
+  "name": {
+    "zh-cn": "初恋情缘～与你同在的房间～",
+    "ja-jp": "はじカノ～君がいる部屋～",
+    "ja-Latn": "haji-kano"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-12",
+  "tips": [
+    "完成三人线路后解锁EXTRA"
+  ],
+  "routes": [
+    {
+      "id": "route_1757599079424",
+      "name": "二之宫 舞衣",
+      "endings": [
+        {
+          "id": "ending_1757599278119",
+          "name": "舞衣 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1757599288289",
+              "type": "choice",
+              "content": "称呼她\"舞衣\""
+            },
+            {
+              "id": "step_1757599289291",
+              "type": "choice",
+              "content": "但你脸超红哦？"
+            },
+            {
+              "id": "step_1757599289490",
+              "type": "choice",
+              "content": "我很开心！"
+            },
+            {
+              "id": "step_1757599289670",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1757599289832",
+              "type": "choice",
+              "content": "舞衣在场"
+            },
+            {
+              "id": "step_1757599345876",
+              "type": "choice",
+              "content": "接吻/拥抱"
+            },
+            {
+              "id": "step_1757599346048",
+              "type": "choice",
+              "content": "那就选恐怖片吧/那换别的电影吧"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1757599397782",
+      "name": "北见 结爱奈",
+      "endings": [
+        {
+          "id": "ending_1757599509084",
+          "name": "结爱奈 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1757599616648",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1757599673610",
+              "type": "choice",
+              "content": "结爱奈在场"
+            },
+            {
+              "id": "step_1757599673850",
+              "type": "choice",
+              "content": "用撒娇的声音"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1757599724710",
+      "name": "里田 美咲",
+      "endings": [
+        {
+          "id": "ending_1757599757512",
+          "name": "美咲 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1757599778421",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1757599782341",
+              "type": "choice",
+              "content": "美咲在场"
+            },
+            {
+              "id": "step_1757599782540",
+              "type": "choice",
+              "content": "因为会一直在一起"
+            },
+            {
+              "id": "step_1757599782766",
+              "type": "choice",
+              "content": "说、说得对"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

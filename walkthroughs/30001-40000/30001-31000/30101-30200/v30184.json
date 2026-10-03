@@ -1,0 +1,109 @@
+{
+  "vid": "v30184",
+  "name": {
+    "zh-cn": "Secret Agent影華～shadow flower～",
+    "en-us": "Secret Agent",
+    "ja-jp": "Secret Agent影華～shadow flower～",
+    "ja-Latn": "secret-agent-kagebana-shadow-flower"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-13",
+  "tips": [
+    "如果没有选择正确答案，影华篇会从中间循环",
+    "一些错误的选项允许你在循环前看到 H 场景，但请注意，闪回模式下并未被记录"
+  ],
+  "routes": [
+    {
+      "id": "route_1763727822829",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1763796992256",
+          "name": "END",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_1763797002030",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1763797004502",
+              "type": "choice",
+              "content": "你自己去看看吧"
+            },
+            {
+              "id": "step_1763797021409",
+              "type": "choice",
+              "content": "荒谬……",
+              "subfix": "H 场景"
+            },
+            {
+              "id": "step_1763797115869",
+              "type": "choice",
+              "content": "看看你的手"
+            },
+            {
+              "id": "step_1763797116041",
+              "type": "choice",
+              "content": "考虑到神乐作为下一任领导候选人的面容"
+            },
+            {
+              "id": "step_1763797146312",
+              "type": "choice",
+              "content": "说到动漫"
+            },
+            {
+              "id": "step_1763797158592",
+              "type": "choice",
+              "content": "忍不住...... 和结衣一起吃午饭吧",
+              "subfix": "H 场景"
+            },
+            {
+              "id": "step_1763797189745",
+              "type": "choice",
+              "content": "看看你的手"
+            },
+            {
+              "id": "step_1763797189902",
+              "type": "choice",
+              "content": "考虑到神乐作为下一任领导候选人的面容"
+            },
+            {
+              "id": "step_1763797190127",
+              "type": "choice",
+              "content": "说到动漫"
+            },
+            {
+              "id": "step_1763797190333",
+              "type": "choice",
+              "content": "坚决拒绝结衣的邀请"
+            },
+            {
+              "id": "step_1763797190617",
+              "type": "choice",
+              "content": "看看你自己在玻璃里"
+            }
+          ]
+        },
+        {
+          "id": "ending_1763797313171",
+          "name": "BE",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_1763797339373",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1763797340528",
+              "type": "choice",
+              "content": "联系您的组织"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

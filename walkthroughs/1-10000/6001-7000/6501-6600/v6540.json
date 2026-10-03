@@ -1,0 +1,575 @@
+{
+  "vid": "v6540",
+  "name": {
+    "zh-cn": "euphoria",
+    "en-us": "euphoria",
+    "ja-jp": "euphoria"
+  },
+  "level": 2,
+  "updatedAt": "2026-04-02",
+  "tips": [
+    "建议攻略顺序：梨香 → 菜月 → 凛音 → 合欢 →Normal End 1 →Normal End 2→ True End"
+  ],
+  "routes": [
+    {
+      "id": "route_game",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_natsuki_end",
+          "name": "菜月 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_natsuki_01",
+              "type": "choice",
+              "content": "向门的方向",
+              "group": "梨香"
+            },
+            {
+              "id": "step_natsuki_02",
+              "type": "save",
+              "content": "SAVE 1",
+              "group": "梨香"
+            },
+            {
+              "id": "step_natsuki_03",
+              "type": "choice",
+              "content": "莳羽梨香",
+              "group": "梨香"
+            },
+            {
+              "id": "step_natsuki_04",
+              "type": "choice",
+              "content": "去找找厕所",
+              "group": "梨香"
+            },
+            {
+              "id": "step_natsuki_05",
+              "type": "choice",
+              "content": "去找饮用水",
+              "group": "梨香"
+            },
+            {
+              "id": "step_natsuki_06",
+              "type": "choice",
+              "content": "去中央监视器装置",
+              "group": "梨香"
+            },
+            {
+              "id": "step_natsuki_07",
+              "type": "choice",
+              "content": "在意镶着玻璃的房间",
+              "group": "梨香"
+            },
+            {
+              "id": "step_natsuki_08",
+              "type": "choice",
+              "content": "莳羽梨香",
+              "group": "梨香"
+            },
+            {
+              "id": "step_natsuki_11",
+              "type": "save",
+              "content": "SAVE 2",
+              "group": "梨香"
+            },
+            {
+              "id": "step_natsuki_12",
+              "type": "choice",
+              "content": "葵菜月",
+              "group": "梨香"
+            }
+          ]
+        },
+        {
+          "id": "ending_rika_bad_end",
+          "name": "梨香 END1",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_rika_bad_01",
+              "type": "load",
+              "content": "LOAD 2",
+              "group": "梨香"
+            },
+            {
+              "id": "step_rika_bad_02",
+              "type": "choice",
+              "content": "莳羽梨香",
+              "group": "梨香"
+            },
+            {
+              "id": "step_rika_bad_03",
+              "type": "save",
+              "content": "SAVE 3",
+              "group": "梨香"
+            },
+            {
+              "id": "step_rika_bad_04",
+              "type": "choice",
+              "content": "但是…",
+              "group": "梨香"
+            }
+          ]
+        },
+        {
+          "id": "ending_rika_end",
+          "name": "梨香 END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_rika_01",
+              "type": "load",
+              "content": "LOAD 3",
+              "group": "梨香"
+            },
+            {
+              "id": "step_rika_02",
+              "type": "choice",
+              "content": "绝对不能犹豫了",
+              "group": "梨香"
+            },
+            {
+              "id": "step_rika_03",
+              "type": "choice",
+              "content": "祭奠…",
+              "group": "梨香"
+            }
+          ]
+        },
+        {
+          "id": "ending_natsuki_route_end",
+          "name": "菜月 END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_natsuki_route_01",
+              "type": "load",
+              "content": "LOAD 1",
+              "group": "菜月"
+            },
+            {
+              "id": "step_natsuki_route_02",
+              "type": "choice",
+              "content": "葵菜月",
+              "group": "菜月"
+            },
+            {
+              "id": "step_natsuki_route_03",
+              "type": "choice",
+              "content": "结束探索",
+              "group": "菜月"
+            },
+            {
+              "id": "step_natsuki_route_04",
+              "type": "choice",
+              "content": "葵菜月",
+              "group": "菜月"
+            }
+          ]
+        },
+        {
+          "id": "ending_rinne_bad_end1",
+          "name": "凛音 END1",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_rinne_bad1_01",
+              "type": "load",
+              "content": "LOAD 1",
+              "group": "凛音"
+            },
+            {
+              "id": "step_rinne_bad1_02",
+              "type": "choice",
+              "content": "白夜凛音",
+              "group": "凛音"
+            },
+            {
+              "id": "step_rinne_bad1_03",
+              "type": "choice",
+              "content": "结束探索",
+              "group": "凛音"
+            },
+            {
+              "id": "step_rinne_bad1_04",
+              "type": "choice",
+              "content": "白夜凛音",
+              "group": "凛音"
+            },
+            {
+              "id": "step_rinne_bad1_08",
+              "type": "save",
+              "content": "SAVE 4",
+              "group": "凛音"
+            },
+            {
+              "id": "step_rinne_bad1_09",
+              "type": "choice",
+              "content": "才不需要借助这种女人的双手！",
+              "group": "凛音"
+            }
+          ]
+        },
+        {
+          "id": "ending_rinne_bad_end2",
+          "name": "凛音 END2",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_rinne_bad2_01",
+              "type": "load",
+              "content": "LOAD 4",
+              "group": "凛音"
+            },
+            {
+              "id": "step_rinne_bad2_02",
+              "type": "choice",
+              "content": "现在，只集中于帮助凛音",
+              "group": "凛音"
+            },
+            {
+              "id": "step_rinne_bad2_03",
+              "type": "save",
+              "content": "SAVE 5",
+              "group": "凛音"
+            },
+            {
+              "id": "step_rinne_bad2_04",
+              "type": "choice",
+              "content": "…………",
+              "group": "凛音"
+            }
+          ]
+        },
+        {
+          "id": "ending_rinne_end",
+          "name": "凛音 END3",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_rinne_01",
+              "type": "load",
+              "content": "LOAD 5",
+              "group": "凛音"
+            },
+            {
+              "id": "step_rinne_02",
+              "type": "choice",
+              "content": "不行，一定要回到地面！",
+              "group": "凛音"
+            }
+          ]
+        },
+        {
+          "id": "ending_nemu_end",
+          "name": "合欢 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_nemu_01",
+              "type": "load",
+              "content": "LOAD 1",
+              "group": "合欢"
+            },
+            {
+              "id": "step_nemu_02",
+              "type": "choice",
+              "content": "真中合欢",
+              "group": "合欢"
+            },
+            {
+              "id": "step_nemu_03",
+              "type": "choice",
+              "content": "结束探索",
+              "group": "合欢"
+            },
+            {
+              "id": "step_nemu_04",
+              "type": "choice",
+              "content": "真中合欢",
+              "group": "合欢"
+            },
+            {
+              "id": "step_nemu_08",
+              "type": "choice",
+              "content": "做我该做的",
+              "group": "合欢"
+            },
+            {
+              "id": "step_nemu_09",
+              "type": "choice",
+              "content": "要杀她的话就先杀了我啊！",
+              "group": "合欢"
+            }
+          ]
+        },
+        {
+          "id": "ending_ha_bad_end1",
+          "name": "叶 END1",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_ha_bad1_01",
+              "type": "note",
+              "content": "合欢ＥＮＤ后，从最初开始",
+              "group": "叶"
+            },
+            {
+              "id": "step_ha_bad1_02",
+              "type": "choice",
+              "content": "直奔主题进入正篇",
+              "group": "叶"
+            },
+            {
+              "id": "step_ha_bad1_03",
+              "type": "choice",
+              "content": "帆刈叶",
+              "group": "叶"
+            },
+            {
+              "id": "step_ha_bad1_04",
+              "type": "choice",
+              "content": "无论如何还是要选叶",
+              "group": "叶"
+            },
+            {
+              "id": "step_ha_bad1_05",
+              "type": "choice",
+              "content": "探索结束",
+              "group": "叶"
+            },
+            {
+              "id": "step_ha_bad1_06",
+              "type": "choice",
+              "content": "一直都想这样做的",
+              "group": "叶"
+            },
+            {
+              "id": "step_ha_bad1_07",
+              "type": "choice",
+              "content": "帆刈叶",
+              "group": "叶"
+            },
+            {
+              "id": "step_ha_bad1_11",
+              "type": "choice",
+              "content": "不够严厉",
+              "group": "叶"
+            },
+            {
+              "id": "step_ha_bad1_12",
+              "type": "choice",
+              "content": "真不爽",
+              "group": "叶"
+            },
+            {
+              "id": "step_ha_bad1_13",
+              "type": "save",
+              "content": "SAVE 6",
+              "group": "叶"
+            },
+            {
+              "id": "step_ha_bad1_14",
+              "type": "choice",
+              "content": "没有想要解放的欲望什么的",
+              "group": "叶"
+            },
+            {
+              "id": "step_ha_bad1_15",
+              "type": "note",
+              "content": "CG回收",
+              "group": "叶"
+            },
+            {
+              "id": "step_ha_bad1_16",
+              "type": "load",
+              "content": "LOAD 6",
+              "group": "叶"
+            },
+            {
+              "id": "step_ha_bad1_17",
+              "type": "choice",
+              "content": "………不想说",
+              "group": "叶"
+            },
+            {
+              "id": "step_ha_bad1_18",
+              "type": "choice",
+              "content": "好好的让她产生做狗的自觉",
+              "group": "叶"
+            },
+            {
+              "id": "step_ha_bad1_19",
+              "type": "save",
+              "content": "SAVE 7",
+              "group": "叶"
+            },
+            {
+              "id": "step_ha_bad1_20",
+              "type": "choice",
+              "content": "………………",
+              "group": "叶"
+            },
+            {
+              "id": "step_ha_bad1_21",
+              "type": "choice",
+              "content": "拷问",
+              "group": "叶"
+            }
+          ]
+        },
+        {
+          "id": "ending_ha_bad_end2",
+          "name": "叶 END2",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_ha_bad2_01",
+              "type": "load",
+              "content": "LOAD 7",
+              "group": "叶"
+            },
+            {
+              "id": "step_ha_bad2_02",
+              "type": "choice",
+              "content": "否定",
+              "group": "叶"
+            },
+            {
+              "id": "step_ha_bad2_03",
+              "type": "choice",
+              "content": "要杀她的话就先杀了我啊！",
+              "group": "叶"
+            },
+            {
+              "id": "step_ha_bad2_04",
+              "type": "save",
+              "content": "SAVE 8",
+              "group": "叶"
+            },
+            {
+              "id": "step_ha_bad2_05",
+              "type": "choice",
+              "content": "是游戏的话也未尝不好吧…",
+              "group": "叶"
+            }
+          ]
+        },
+        {
+          "id": "ending_ha_bad_end3",
+          "name": "叶 END3",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_ha_bad3_01",
+              "type": "load",
+              "content": "LOAD 8",
+              "group": "叶"
+            },
+            {
+              "id": "step_ha_bad3_02",
+              "type": "choice",
+              "content": "这并非游戏啊！",
+              "group": "叶"
+            },
+            {
+              "id": "step_ha_bad3_03",
+              "type": "save",
+              "content": "SAVE 9",
+              "group": "叶"
+            },
+            {
+              "id": "step_ha_bad3_04",
+              "type": "choice",
+              "content": "叶…拜托，救救我…",
+              "group": "叶"
+            }
+          ]
+        },
+        {
+          "id": "ending_ha_bad_end4",
+          "name": "叶 END4",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_ha_bad4_01",
+              "type": "load",
+              "content": "LOAD 9",
+              "group": "叶"
+            },
+            {
+              "id": "step_ha_bad4_02",
+              "type": "choice",
+              "content": "我是……笨蛋",
+              "group": "叶"
+            },
+            {
+              "id": "step_ha_bad4_03",
+              "type": "save",
+              "content": "SAVE 10",
+              "group": "叶"
+            },
+            {
+              "id": "step_ha_bad4_04",
+              "type": "choice",
+              "content": "什么、不奇怪吗？",
+              "group": "叶"
+            }
+          ]
+        },
+        {
+          "id": "ending_ha_end",
+          "name": "合欢 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_ha_01",
+              "type": "load",
+              "content": "LOAD 10",
+              "group": "叶"
+            },
+            {
+              "id": "step_ha_02",
+              "type": "choice",
+              "content": "我喜欢你哦。",
+              "group": "叶"
+            },
+            {
+              "id": "step_ha_07",
+              "type": "save",
+              "content": "SAVE 11",
+              "group": "叶"
+            },
+            {
+              "id": "step_ha_08",
+              "type": "choice",
+              "content": "只要合欢你幸福，我便已足够",
+              "group": "叶"
+            }
+          ]
+        },
+        {
+          "id": "ending_ha_true_end",
+          "name": "合欢 END2",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_ha_true_01",
+              "type": "load",
+              "content": "LOAD 11",
+              "group": "叶"
+            },
+            {
+              "id": "step_ha_true_02",
+              "type": "choice",
+              "content": "不要离开我、合欢",
+              "group": "叶"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "vid": "v12246",
+  "name": {
+    "zh-cn": "少女理论及其周边 -École de Paris-",
+    "ja-jp": "乙女理論とその周辺 -Ecole de Paris-",
+    "ja-Latn": "otome-riron-to-sono-shuuhen"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-14",
+  "routes": [
+    {
+      "id": "route_risona",
+      "name": "大藏 里想奈",
+      "endings": [
+        {
+          "id": "ending_risona_end",
+          "name": "里想奈 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_r_01",
+              "type": "choice",
+              "content": "去里想奈的房间"
+            },
+            {
+              "id": "step_r_02",
+              "type": "choice",
+              "content": "去找找迪特琳德大人"
+            },
+            {
+              "id": "step_r_03",
+              "type": "choice",
+              "content": "送里想奈回她的房间"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_buriete",
+      "name": "布琉艾特",
+      "endings": [
+        {
+          "id": "ending_buriete_end",
+          "name": "布琉艾特 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_b_01",
+              "type": "choice",
+              "content": "我想去跳蚤市场"
+            },
+            {
+              "id": "step_b_02",
+              "type": "choice",
+              "content": "和布琉艾特大人谈谈"
+            },
+            {
+              "id": "step_b_03",
+              "type": "choice",
+              "content": "送里想奈回她的房间"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_melieru",
+      "name": "梅丽尔",
+      "endings": [
+        {
+          "id": "ending_melieru_end",
+          "name": "梅丽尔 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_m_01",
+              "type": "choice",
+              "content": "我想去跳蚤市场"
+            },
+            {
+              "id": "step_m_02",
+              "type": "choice",
+              "content": "和布琉艾特大人谈谈"
+            },
+            {
+              "id": "step_m_03",
+              "type": "choice",
+              "content": "就在这里目送里想奈和布琉艾特大人离开"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_diterindo",
+      "name": "迪特琳德",
+      "endings": [
+        {
+          "id": "ending_diterindo_end",
+          "name": "迪特琳德 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_d_01",
+              "type": "choice",
+              "content": "去里想奈的房间"
+            },
+            {
+              "id": "step_d_02",
+              "type": "choice",
+              "content": "去找找迪特琳德大人"
+            },
+            {
+              "id": "step_d_03",
+              "type": "choice",
+              "content": "就在这里目送里想奈和布琉艾特大人离开"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_i_to_syun",
+      "name": "衣远&骏我",
+      "endings": [
+        {
+          "id": "ending_i_to_syun_end",
+          "name": "衣远&骏我 END",
+          "type": "normal",
+          "requirements": "二周目从最初开始",
+          "steps": [
+            {
+              "id": "step_is_02",
+              "type": "choice",
+              "content": "我想去跳蚤市场"
+            },
+            {
+              "id": "step_is_03",
+              "type": "choice",
+              "content": "去找找迪特琳德大人"
+            },
+            {
+              "id": "step_is_04",
+              "type": "choice",
+              "content": "送里想奈回她的房间"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

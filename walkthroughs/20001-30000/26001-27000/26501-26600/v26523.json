@@ -1,0 +1,250 @@
+{
+  "vid": "v26523",
+  "name": {
+    "zh-cn": "9-nine-雪色雪花雪余痕",
+    "en-us": "9-nine-:Episode 4",
+    "ja-jp": "9-nine-ゆきいろゆきはなゆきのあと",
+    "ja-Latn": "9-nine-4"
+  },
+  "level": 2,
+  "updatedAt": "2026-05-12",
+  "routes": [
+    {
+      "id": "route_game",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_end1",
+          "name": "END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1",
+              "type": "choice",
+              "content": "苏菲缇雅の世界"
+            },
+            {
+              "id": "step_2",
+              "type": "choice",
+              "content": "都の枝"
+            },
+            {
+              "id": "step_3",
+              "type": "choice",
+              "content": "将记忆装载"
+            },
+            {
+              "id": "step_4",
+              "type": "choice",
+              "content": "苏菲缇雅の世界"
+            },
+            {
+              "id": "step_5",
+              "type": "choice",
+              "content": "春風の枝"
+            },
+            {
+              "id": "step_6",
+              "type": "choice",
+              "content": "将记忆装载"
+            },
+            {
+              "id": "step_7",
+              "type": "choice",
+              "content": "苏菲缇雅の世界"
+            },
+            {
+              "id": "step_8",
+              "type": "choice",
+              "content": "天の枝"
+            },
+            {
+              "id": "step_9",
+              "type": "choice",
+              "content": "将记忆装载"
+            },
+            {
+              "id": "step_10",
+              "type": "choice",
+              "content": "春風の枝"
+            },
+            {
+              "id": "step_11",
+              "type": "choice",
+              "content": "将记忆装载"
+            },
+            {
+              "id": "step_12",
+              "type": "choice",
+              "content": "都の枝"
+            },
+            {
+              "id": "step_13",
+              "type": "choice",
+              "content": "将记忆装载"
+            },
+            {
+              "id": "step_14",
+              "type": "choice",
+              "content": "希亜の枝"
+            },
+            {
+              "id": "step_15",
+              "type": "choice",
+              "content": "将记忆装载"
+            }
+          ]
+        },
+        {
+          "id": "ending_end2",
+          "name": "END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_16",
+              "type": "choice",
+              "content": "修正"
+            },
+            {
+              "id": "step_17",
+              "type": "choice",
+              "content": "将记忆装载"
+            },
+            {
+              "id": "step_18",
+              "type": "choice",
+              "content": "修正"
+            },
+            {
+              "id": "step_19",
+              "type": "choice",
+              "content": "将记忆装载"
+            }
+          ]
+        },
+        {
+          "id": "ending_true_end",
+          "name": "END3",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_20",
+              "type": "choice",
+              "content": "希亜の枝"
+            },
+            {
+              "id": "step_21",
+              "type": "choice",
+              "content": "将记忆装载"
+            },
+            {
+              "id": "step_22",
+              "type": "choice",
+              "content": "希亜の枝"
+            },
+            {
+              "id": "step_23",
+              "type": "choice",
+              "content": "将记忆装载"
+            },
+            {
+              "id": "step_24",
+              "type": "choice",
+              "content": "修正"
+            },
+            {
+              "id": "step_25",
+              "type": "choice",
+              "content": "将记忆装载"
+            },
+            {
+              "id": "step_26",
+              "type": "choice",
+              "content": "希亜の枝"
+            },
+            {
+              "id": "step_27",
+              "type": "choice",
+              "content": "将记忆装载"
+            },
+            {
+              "id": "step_29",
+              "type": "choice",
+              "content": "知道了"
+            },
+            {
+              "id": "step_30",
+              "type": "choice",
+              "content": "希亜の枝"
+            },
+            {
+              "id": "step_31",
+              "type": "choice",
+              "content": "将记忆装载"
+            },
+            {
+              "id": "step_32",
+              "type": "choice",
+              "content": "春風の枝"
+            },
+            {
+              "id": "step_33",
+              "type": "choice",
+              "content": "将记忆装载"
+            },
+            {
+              "id": "step_34",
+              "type": "choice",
+              "content": "天の枝"
+            },
+            {
+              "id": "step_35",
+              "type": "choice",
+              "content": "将记忆装载"
+            },
+            {
+              "id": "step_36",
+              "type": "choice",
+              "content": "都の枝"
+            },
+            {
+              "id": "step_37",
+              "type": "choice",
+              "content": "将记忆装载"
+            },
+            {
+              "id": "step_38",
+              "type": "note",
+              "content": "【９】"
+            },
+            {
+              "id": "step_42",
+              "type": "choice",
+              "content": "找到了"
+            },
+            {
+              "id": "step_43",
+              "type": "choice",
+              "content": "伊利斯已经不在了"
+            },
+            {
+              "id": "step_44",
+              "type": "choice",
+              "content": "知道了"
+            },
+            {
+              "id": "step_45",
+              "type": "choice",
+              "content": "将记忆装载"
+            },
+            {
+              "id": "step_46",
+              "type": "choice",
+              "content": "这样就好/双马尾"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

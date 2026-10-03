@@ -1,0 +1,51 @@
+{
+  "vid": "v3413",
+  "name": {
+    "zh-cn": "花吻在上~天使的花之吻痕",
+    "en-us": "A Kiss For The Petals - Dyed With An Angel's Petals",
+    "ja-jp": "その花びらにくちづけを 天使の花びら染め",
+    "ja-Latn": "sono-hanabira-ni-kuchizuke-o-tenshi-no-hanabira-zome"
+  },
+  "level": 2,
+  "updatedAt": "2026-05-06",
+  "routes": [
+    {
+      "id": "route_1778062300303",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1778062305440",
+          "name": "END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1778062309823",
+              "type": "choice",
+              "content": "匆忙的交谈几句就离开吧"
+            },
+            {
+              "id": "step_1778062310069",
+              "type": "choice",
+              "content": "用语言打招呼就行了"
+            },
+            {
+              "id": "step_1778062311051",
+              "type": "choice",
+              "content": "精神很好"
+            },
+            {
+              "id": "step_1778062312547",
+              "type": "choice",
+              "content": "赞扬爱丽丝"
+            },
+            {
+              "id": "step_1778062313502",
+              "type": "choice",
+              "content": "只要在稍微等一下"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

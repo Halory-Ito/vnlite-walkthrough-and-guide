@@ -1,0 +1,210 @@
+{
+  "vid": "v445",
+  "name": {
+    "zh-cn": "Bullet Butlers",
+    "ja-Latn": "bullet-butlers"
+  },
+  "level": 2,
+  "updatedAt": "2026-05-08",
+  "routes": [
+    {
+      "id": "route_game_guide",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_valeria",
+          "name": "瓦莱丽亚 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1",
+              "type": "choice",
+              "content": "谈论瓦莱丽亚"
+            },
+            {
+              "id": "step_2",
+              "type": "choice",
+              "content": "前往塞尔玛的房间"
+            },
+            {
+              "id": "step_4",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_5",
+              "type": "choice",
+              "content": "瓦莱丽亚的想法没有错"
+            },
+            {
+              "id": "step_6",
+              "type": "choice",
+              "content": "认为应该转让圣纹"
+            },
+            {
+              "id": "step_7",
+              "type": "choice",
+              "content": "追随瓦莱丽亚",
+              "prefix": "★"
+            },
+            {
+              "id": "step_8",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_9",
+              "type": "choice",
+              "content": "搜索特丽莎森林"
+            },
+            {
+              "id": "step_10",
+              "type": "choice",
+              "content": "挖掘过去的记忆"
+            }
+          ]
+        },
+        {
+          "id": "ending_yuki_end1",
+          "name": "雪 END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_11",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_12",
+              "type": "choice",
+              "content": "向雪使眼色"
+            },
+            {
+              "id": "step_13",
+              "type": "choice",
+              "content": "认为应该转让圣纹"
+            },
+            {
+              "id": "step_14",
+              "type": "choice",
+              "content": "追随瓦莱丽亚",
+              "prefix": "★"
+            },
+            {
+              "id": "step_15",
+              "type": "choice",
+              "content": "搜索皮革区"
+            },
+            {
+              "id": "step_16",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_17",
+              "type": "choice",
+              "content": "举枪瞄准"
+            }
+          ]
+        },
+        {
+          "id": "ending_yuki_end2",
+          "name": "雪 END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_18",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_19",
+              "type": "choice",
+              "content": "再次说服"
+            }
+          ]
+        },
+        {
+          "id": "ending_bad",
+          "name": "BAD END",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_20",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_21",
+              "type": "choice",
+              "content": "搜索皮革区"
+            }
+          ]
+        },
+        {
+          "id": "ending_selma",
+          "name": "塞尔玛 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_22",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_23",
+              "type": "choice",
+              "content": "说让塞尔玛来决定"
+            },
+            {
+              "id": "step_24",
+              "type": "choice",
+              "content": "认为应该继承圣纹"
+            },
+            {
+              "id": "step_25",
+              "type": "choice",
+              "content": "留在这里",
+              "prefix": "★"
+            },
+            {
+              "id": "step_26",
+              "type": "choice",
+              "content": "没有屈服"
+            },
+            {
+              "id": "step_27",
+              "type": "choice",
+              "content": "发誓要阻止"
+            },
+            {
+              "id": "step_28",
+              "type": "choice",
+              "content": "跟着去"
+            },
+            {
+              "id": "step_29",
+              "type": "choice",
+              "content": "相信卡乌拉"
+            },
+            {
+              "id": "step_30",
+              "type": "choice",
+              "content": "带着科泽特逃跑"
+            },
+            {
+              "id": "step_31",
+              "type": "choice",
+              "content": "拥抱"
+            },
+            {
+              "id": "step_32",
+              "type": "choice",
+              "content": "提议去寻找"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

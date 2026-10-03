@@ -1,0 +1,291 @@
+{
+  "vid": "v211",
+  "name": {
+    "zh-cn": "G弦上的魔王",
+    "en-us": "G-senjou no Maou - The Devil on G-String",
+    "ja-jp": "G線上の魔王",
+    "ja-Latn": "g-senjou-no-maou"
+  },
+  "level": 2,
+  "updatedAt": "2026-02-27",
+  "routes": [
+    {
+      "id": "route_1754660301684",
+      "name": "美轮 椿姬",
+      "endings": [
+        {
+          "id": "ending_1754660311514",
+          "name": "椿姬 END 1",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_1754660349777",
+              "type": "choice",
+              "content": "跟花音……"
+            },
+            {
+              "id": "step_1754660352992",
+              "type": "choice",
+              "content": "编个像样的理由"
+            },
+            {
+              "id": "step_1754660358867",
+              "type": "choice",
+              "content": "让人没有兴趣的女人"
+            },
+            {
+              "id": "step_1754660364415",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1754660454137",
+              "type": "choice",
+              "content": "没在向我求救"
+            },
+            {
+              "id": "step_1754660454286",
+              "type": "choice",
+              "content": "什么也不做"
+            },
+            {
+              "id": "step_1754660454651",
+              "type": "choice",
+              "content": "麻烦死了"
+            }
+          ]
+        },
+        {
+          "id": "ending_1754660408755",
+          "name": "椿姬 END 2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1754660523153",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1754660523997",
+              "type": "choice",
+              "content": "在向我求救"
+            },
+            {
+              "id": "step_1754660528731",
+              "type": "choice",
+              "content": "和椿姬一家扯上关系"
+            },
+            {
+              "id": "step_1754660532493",
+              "type": "choice",
+              "content": "戳穿荣一的谎言"
+            },
+            {
+              "id": "step_1754660536565",
+              "type": "choice",
+              "content": "也不坏嘛"
+            },
+            {
+              "id": "step_1754660542311",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1754660548149",
+              "type": "choice",
+              "content": "与椿姬继续这段关系"
+            },
+            {
+              "id": "step_1754660549176",
+              "type": "choice",
+              "content": "为椿姬尽全力"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755006990564",
+      "name": "浅井 花音",
+      "endings": [
+        {
+          "id": "ending_1755007082607",
+          "name": "花音 END 1",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_1755007098994",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1755007213079",
+              "type": "choice",
+              "content": "和椿姬保持一段距离"
+            },
+            {
+              "id": "step_1755007213234",
+              "type": "choice",
+              "content": "拿你没办法啊"
+            },
+            {
+              "id": "step_1755007213399",
+              "type": "choice",
+              "content": "陪她睡吧"
+            },
+            {
+              "id": "step_1755007213727",
+              "type": "choice",
+              "content": "有的"
+            },
+            {
+              "id": "step_1755007547061",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_1755007557277",
+              "type": "choice",
+              "content": "听吧"
+            },
+            {
+              "id": "step_1755007557450",
+              "type": "choice",
+              "content": "听"
+            },
+            {
+              "id": "step_1755007557737",
+              "type": "choice",
+              "content": "用拥抱表达爱情"
+            },
+            {
+              "id": "step_1755007572924",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_1755007580848",
+              "type": "choice",
+              "content": "就这样抱她"
+            }
+          ]
+        },
+        {
+          "id": "ending_1755007604356",
+          "name": "花音 END 2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755007722901",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_1755007731112",
+              "type": "choice",
+              "content": "离开她"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755007767100",
+      "name": "白鸟 水羽",
+      "endings": [
+        {
+          "id": "ending_1755007774946",
+          "name": "水羽 END 1",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_1755007788449",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1755007794114",
+              "type": "choice",
+              "content": "不要听"
+            },
+            {
+              "id": "step_1755007794277",
+              "type": "choice",
+              "content": "说不定有"
+            },
+            {
+              "id": "step_1755007794506",
+              "type": "choice",
+              "content": "应该去送她吗？"
+            },
+            {
+              "id": "step_1755007796217",
+              "type": "save",
+              "content": "SAVE 5"
+            },
+            {
+              "id": "step_1755007836272",
+              "type": "choice",
+              "content": "呼叫警察"
+            },
+            {
+              "id": "step_1755007836458",
+              "type": "choice",
+              "content": "交给警察"
+            },
+            {
+              "id": "step_1755007836960",
+              "type": "save",
+              "content": "SAVE 6"
+            },
+            {
+              "id": "step_1755007837394",
+              "type": "choice",
+              "content": "侵犯白鸟"
+            }
+          ]
+        },
+        {
+          "id": "ending_1755007870847",
+          "name": "水羽 END 2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755007880648",
+              "type": "load",
+              "content": "LOAD 6"
+            },
+            {
+              "id": "step_1755007888380",
+              "type": "choice",
+              "content": "这不是我的道义所在"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1755007923928",
+      "name": "宇佐美 春",
+      "endings": [
+        {
+          "id": "ending_1755007929876",
+          "name": "春 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1755007947112",
+              "type": "load",
+              "content": "LOAD 5"
+            },
+            {
+              "id": "step_1755007947948",
+              "type": "choice",
+              "content": "不叫警察"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

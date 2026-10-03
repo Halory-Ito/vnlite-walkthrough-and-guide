@@ -1,0 +1,55 @@
+{
+  "vid": "v1660",
+  "name": {
+    "zh-cn": "死神之吻乃离别之味",
+    "en-us": "Shinigami no Kiss wa Wakare no Aji ~ A Reaper's Kiss Tastes Like Farewell",
+    "ja-jp": "死神の接吻は別離の味",
+    "ja-Latn": "shinigami-no-kiss-wa-wakare-no-aji"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-13",
+  "routes": [
+    {
+      "id": "route_1769605469663",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1769605484936",
+          "name": "穗乃香 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1769605608284",
+              "type": "choice",
+              "content": "去探望穗乃香"
+            }
+          ]
+        },
+        {
+          "id": "ending_1769605620644",
+          "name": "雫 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1769605639208",
+              "type": "choice",
+              "content": "店里的工作优先"
+            }
+          ]
+        },
+        {
+          "id": "ending_1769605621636",
+          "name": "琥珀 END",
+          "type": "normal",
+          "requirements": "以上END后，从最初开始，路线选择琥珀",
+          "steps": [
+            {
+              "type": "choice",
+              "content": "（源站步骤均为空）"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

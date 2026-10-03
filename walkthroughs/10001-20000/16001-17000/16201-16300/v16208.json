@@ -1,0 +1,143 @@
+{
+  "vid": "v16208",
+  "name": {
+    "zh-cn": "柯罗的怀表",
+    "en-us": "ChronoClock",
+    "ja-jp": "クロノクロック",
+    "ja-Latn": "chrono-clock"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-14",
+  "routes": [
+    {
+      "id": "route_game",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_makoto",
+          "name": "真琴 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_makoto_01",
+              "type": "choice",
+              "content": "不使时间回溯"
+            },
+            {
+              "id": "step_makoto_02",
+              "type": "save",
+              "content": "SAVE 1",
+              "prefix": "◆"
+            },
+            {
+              "id": "step_makoto_03",
+              "type": "choice",
+              "content": "与真琴以及Ｄ・Ｄ去玩"
+            },
+            {
+              "id": "step_makoto_04",
+              "type": "save",
+              "content": "SAVE 2",
+              "prefix": "◆"
+            },
+            {
+              "id": "step_makoto_05",
+              "type": "choice",
+              "content": "请Ｄ・Ｄ帮忙创造与真琴独处的机会"
+            }
+          ]
+        },
+        {
+          "id": "ending_michiru",
+          "name": "满 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_michiru_01",
+              "type": "load",
+              "content": "LOAD 1",
+              "prefix": "◆"
+            },
+            {
+              "id": "step_michiru_02",
+              "type": "choice",
+              "content": "与满以及美咲去玩"
+            },
+            {
+              "id": "step_michiru_03",
+              "type": "save",
+              "content": "SAVE 3",
+              "prefix": "◆"
+            },
+            {
+              "id": "step_michiru_04",
+              "type": "choice",
+              "content": "美咲并不属于恋爱的对象"
+            }
+          ]
+        },
+        {
+          "id": "ending_dd",
+          "name": "Ｄ・Ｄ END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_dd_01",
+              "type": "load",
+              "content": "LOAD 2",
+              "prefix": "◆"
+            },
+            {
+              "id": "step_dd_02",
+              "type": "choice",
+              "content": "我更想与Ｄ・Ｄ独处"
+            }
+          ]
+        },
+        {
+          "id": "ending_misaki",
+          "name": "美咲 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_misaki_01",
+              "type": "load",
+              "content": "LOAD 3",
+              "prefix": "◆"
+            },
+            {
+              "id": "step_misaki_02",
+              "type": "choice",
+              "content": "喜欢美咲"
+            }
+          ]
+        },
+        {
+          "id": "ending_kuro",
+          "name": "克洛 END",
+          "type": "normal",
+          "requirements": "4条个人线END后，标题画面选择▶REPEAT进入",
+          "steps": [
+            {
+              "type": "choice",
+              "content": "（源站步骤均为空）"
+            }
+          ]
+        },
+        {
+          "id": "ending_miu",
+          "name": "美羽 END",
+          "type": "normal",
+          "requirements": "克洛END后从最初开始",
+          "steps": [
+            {
+              "id": "step_miu_02",
+              "type": "choice",
+              "content": "使时间回溯"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

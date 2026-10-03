@@ -1,0 +1,83 @@
+{
+  "vid": "v21523",
+  "name": {
+    "zh-cn": "青鸟",
+    "en-us": "Aoi Tori",
+    "ja-jp": "アオイトリ",
+    "ja-Latn": "aoi-tori"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-14",
+  "routes": [
+    {
+      "id": "route_game",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_mary",
+          "name": "玛丽 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_mary_01",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_mary_02",
+              "type": "choice",
+              "content": "玛丽"
+            }
+          ]
+        },
+        {
+          "id": "ending_sayo",
+          "name": "小夜 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_sayo_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_sayo_02",
+              "type": "choice",
+              "content": "小夜"
+            }
+          ]
+        },
+        {
+          "id": "ending_risa",
+          "name": "理沙 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_risa_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_risa_02",
+              "type": "choice",
+              "content": "理沙"
+            }
+          ]
+        },
+        {
+          "id": "ending_akari",
+          "name": "明理 END",
+          "type": "normal",
+          "requirements": "以上3人攻略完毕后，标题画面选择【明理篇】",
+          "steps": [
+            {
+              "id": "step_akari_05",
+              "type": "choice",
+              "content": "喜欢这个世界"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

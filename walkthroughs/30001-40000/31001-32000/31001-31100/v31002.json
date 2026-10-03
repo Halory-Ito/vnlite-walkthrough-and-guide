@@ -1,0 +1,385 @@
+{
+  "vid": "v31002",
+  "name": {
+    "zh-cn": "我的恋天使太废柴了好可怕",
+    "en-us": "My Klutzy Cupid",
+    "ja-jp": "俺の恋天使がポンコツすぎてコワ～い。",
+    "ja-Latn": "ore-no-cupid-ga-ponkotsu-sugite-kowa"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-14",
+  "routes": [
+    {
+      "id": "route_1773046773482",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1773046777948",
+          "name": "爱露 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1773046785082",
+              "type": "choice",
+              "content": "让我们退到路边去"
+            },
+            {
+              "id": "step_1773046785238",
+              "type": "choice",
+              "content": "关于恋天使"
+            },
+            {
+              "id": "step_1773046785408",
+              "type": "choice",
+              "content": "关于爱情笔记"
+            },
+            {
+              "id": "step_1773047182646",
+              "type": "choice",
+              "content": "你住在哪里？ 你在玩RyME吗？"
+            },
+            {
+              "id": "step_1773047182794",
+              "type": "choice",
+              "content": "为什么你选择了我？"
+            },
+            {
+              "id": "step_1773047182916",
+              "type": "choice",
+              "content": "不用再问了"
+            },
+            {
+              "id": "step_1773047183056",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1773047183205",
+              "type": "choice",
+              "content": "爱露1"
+            },
+            {
+              "id": "step_1773047183324",
+              "type": "choice",
+              "content": "爱露2"
+            },
+            {
+              "id": "step_1773047217770",
+              "type": "choice",
+              "content": "爱露3"
+            },
+            {
+              "id": "step_1773047226193",
+              "type": "choice",
+              "content": "爱露"
+            },
+            {
+              "id": "step_1773047238570",
+              "type": "choice",
+              "content": "幸咲来瑠",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_1773047248532",
+              "type": "choice",
+              "content": "乾依铃"
+            },
+            {
+              "id": "step_1773047248701",
+              "type": "choice",
+              "content": "宇城杏树"
+            },
+            {
+              "id": "step_1773047248920",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1773047248822",
+              "type": "choice",
+              "content": "爱露"
+            }
+          ]
+        },
+        {
+          "id": "ending_1773047310550",
+          "name": "来瑠 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1773047317473",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1773047319464",
+              "type": "choice",
+              "content": "幸咲来瑠"
+            }
+          ]
+        },
+        {
+          "id": "ending_1773047331193",
+          "name": "诗 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1773047510592",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1773047341499",
+              "type": "choice",
+              "content": "诗1"
+            },
+            {
+              "id": "step_1773047341691",
+              "type": "choice",
+              "content": "诗2"
+            },
+            {
+              "id": "step_1773047342119",
+              "type": "choice",
+              "content": "诗3"
+            },
+            {
+              "id": "step_1773047342285",
+              "type": "choice",
+              "content": "诗4"
+            },
+            {
+              "id": "step_1773047409134",
+              "type": "choice",
+              "content": "诗",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_1773047409313",
+              "type": "choice",
+              "content": "幸咲来瑠",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_1773047426951",
+              "type": "choice",
+              "content": "绵贯绢",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_1773047436481",
+              "type": "choice",
+              "content": "冲恒真空",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_1773047436695",
+              "type": "choice",
+              "content": "诗"
+            }
+          ]
+        },
+        {
+          "id": "ending_1773047477714",
+          "name": "依铃 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1773047489716",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1773047525436",
+              "type": "choice",
+              "content": "依铃1"
+            },
+            {
+              "id": "step_1773047525581",
+              "type": "choice",
+              "content": "依铃2"
+            },
+            {
+              "id": "step_1773047525757",
+              "type": "choice",
+              "content": "依铃3"
+            },
+            {
+              "id": "step_1773047525883",
+              "type": "choice",
+              "content": "依铃4"
+            },
+            {
+              "id": "step_1773047526187",
+              "type": "choice",
+              "content": "依铃"
+            },
+            {
+              "id": "step_1773047546858",
+              "type": "choice",
+              "content": "幸咲来瑠",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_1773047547041",
+              "type": "choice",
+              "content": "绵贯绢",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_1773047547221",
+              "type": "choice",
+              "content": "宇城杏树"
+            },
+            {
+              "id": "step_1773047547344",
+              "type": "choice",
+              "content": "依铃"
+            }
+          ]
+        },
+        {
+          "id": "ending_1773047571274",
+          "name": "琳果 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1773047577855",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1773047597914",
+              "type": "choice",
+              "content": "卡琳"
+            },
+            {
+              "id": "step_1773047598212",
+              "type": "choice",
+              "content": "琳果1"
+            },
+            {
+              "id": "step_1773047669232",
+              "type": "choice",
+              "content": "琳果2"
+            },
+            {
+              "id": "step_1773047683896",
+              "type": "choice",
+              "content": "琳果3"
+            },
+            {
+              "id": "step_1773047686602",
+              "type": "choice",
+              "content": "琳果"
+            },
+            {
+              "id": "step_1773047686741",
+              "type": "choice",
+              "content": "幸咲来瑠",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_1773047686880",
+              "type": "choice",
+              "content": "绵贯绢",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_1773047687012",
+              "type": "choice",
+              "content": "冲恒真空",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_1773047723783",
+              "type": "choice",
+              "content": "琳果"
+            }
+          ]
+        },
+        {
+          "id": "ending_1773047726963",
+          "name": "琴雏 END",
+          "type": "normal",
+          "requirements": "一人END后，重新开始",
+          "steps": [
+            {
+              "id": "step_1773047740705",
+              "type": "choice",
+              "content": "放弃吧"
+            },
+            {
+              "id": "step_1773047741149",
+              "type": "choice",
+              "content": "关于恋天使"
+            },
+            {
+              "id": "step_1773047741322",
+              "type": "choice",
+              "content": "关于爱情笔记"
+            },
+            {
+              "id": "step_1773047741482",
+              "type": "choice",
+              "content": "你住在哪里？ 你在玩RyME吗？"
+            },
+            {
+              "id": "step_1773047761520",
+              "type": "choice",
+              "content": "为什么你选择了我？"
+            },
+            {
+              "id": "step_1773047761659",
+              "type": "choice",
+              "content": "不用再问了"
+            },
+            {
+              "id": "step_1773047761825",
+              "type": "choice",
+              "content": "冲恒真空"
+            },
+            {
+              "id": "step_1773047761935",
+              "type": "choice",
+              "content": "琴雏1"
+            },
+            {
+              "id": "step_1773047762087",
+              "type": "choice",
+              "content": "琴雏2"
+            },
+            {
+              "id": "step_1773047762206",
+              "type": "choice",
+              "content": "琴雏3"
+            },
+            {
+              "id": "step_1773047797988",
+              "type": "choice",
+              "content": "琴雏"
+            },
+            {
+              "id": "step_1773047798151",
+              "type": "choice",
+              "content": "幸咲来瑠",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_1773047798285",
+              "type": "choice",
+              "content": "绵贯绢",
+              "prefix": "☆"
+            },
+            {
+              "id": "step_1773047798422",
+              "type": "choice",
+              "content": "冲恒真空",
+              "prefix": "☆"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

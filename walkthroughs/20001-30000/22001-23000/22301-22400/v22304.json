@@ -1,0 +1,73 @@
+{
+  "vid": "v22304",
+  "name": {
+    "zh-cn": "碧海晴空，彼岸相连",
+    "en-us": "Adventure of a Lifetime",
+    "ja-jp": "空と海が、ふれあう彼方",
+    "ja-Latn": "sora-to-umi-ga-fureau-kanata"
+  },
+  "level": 1,
+  "updatedAt": "2026-04-12",
+  "routes": [
+    {
+      "id": "route_game_guide",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_emiri_end",
+          "name": "惠海莉 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_emiri_01",
+              "type": "choice",
+              "content": "确实不太好"
+            },
+            {
+              "id": "step_emiri_02",
+              "type": "choice",
+              "content": "嗯，好啊"
+            },
+            {
+              "id": "step_emiri_03",
+              "type": "choice",
+              "content": "开口询问那件事"
+            },
+            {
+              "id": "step_emiri_04",
+              "type": "choice",
+              "content": "很适合你们两个啊"
+            },
+            {
+              "id": "step_emiri_05",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_emiri_06",
+              "type": "choice",
+              "content": "惠海莉"
+            }
+          ]
+        },
+        {
+          "id": "ending_chisa_end",
+          "name": "千莎 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_chisa_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_chisa_02",
+              "type": "choice",
+              "content": "千莎"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

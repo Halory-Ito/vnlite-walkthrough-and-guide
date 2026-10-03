@@ -1,0 +1,5073 @@
+{
+  "vid": "v810",
+  "name": {
+    "zh-cn": "壳之少女",
+    "en-us": "Kara no Shojo",
+    "ja-jp": "殻ノ少女",
+    "ja-Latn": "kara-no-shoujo"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-14",
+  "tips": [
+    "游戏中有11位角色有好感度，用于解锁对应cg。其中5位在流程中途即可解锁，而另6位需在END12、END13或END14的结尾以彩蛋形式解锁。并且因游戏设定，每次结尾最多只能解锁2个彩蛋，所以至少需进入3次结尾彩蛋才能全部收集",
+    "其中，进入END13和END14要求女主冬子达到好感度最大值，不适合进行其他角色的好感度收集。所以，本攻略通过END12回收好感度彩蛋",
+    "综上所述，本攻略流程包含1条顺序贯穿END1到END15的主流程，以及2条用于回收好感度的END12支流程。并在这3条流程的中途和结尾分别收集5位和6位角色的好感度与cg"
+  ],
+  "routes": [
+    {
+      "id": "route_orihime",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_orihime_end1",
+          "name": "END1 织姫END",
+          "type": "bad",
+          "requirements": "本段流程中：收集紫、杏子、冬子、史黛拉、宁宁的好感度；收集织姬的好感度达最大值并收集cg",
+          "steps": [
+            {
+              "id": "step_orihime_001",
+              "type": "choice",
+              "content": "月世界",
+              "prefix": "●",
+              "group": "１月１９日"
+            },
+            {
+              "id": "step_orihime_002",
+              "type": "choice",
+              "content": "井之头公园",
+              "prefix": "●",
+              "group": "１月１９日"
+            },
+            {
+              "id": "step_orihime_003",
+              "type": "choice",
+              "content": "[绳索]",
+              "group": "２月２９日"
+            },
+            {
+              "id": "step_orihime_004",
+              "type": "choice",
+              "content": "[尸体周围的地面]",
+              "group": "２月２９日"
+            },
+            {
+              "id": "step_orihime_005",
+              "type": "choice",
+              "content": "[遗体]",
+              "subfix": "×２回",
+              "group": "２月２９日"
+            },
+            {
+              "id": "step_orihime_006",
+              "type": "choice",
+              "content": "[腕]",
+              "subfix": "×２回",
+              "group": "２月２９日"
+            },
+            {
+              "id": "step_orihime_007",
+              "type": "choice",
+              "content": "[足]",
+              "subfix": "×２回",
+              "group": "２月２９日"
+            },
+            {
+              "id": "step_orihime_008",
+              "type": "choice",
+              "content": "[脸]",
+              "subfix": "×２回",
+              "group": "２月２９日"
+            },
+            {
+              "id": "step_orihime_009",
+              "type": "choice",
+              "content": "[黑布]",
+              "subfix": "×２回",
+              "group": "２月２９日"
+            },
+            {
+              "id": "step_orihime_010",
+              "type": "note",
+              "content": "结束调查",
+              "prefix": "→",
+              "subfix": "OK",
+              "group": "２月２９日"
+            },
+            {
+              "id": "step_orihime_011",
+              "type": "choice",
+              "content": "[陵园内]",
+              "subfix": "×２回",
+              "group": "３月５日"
+            },
+            {
+              "id": "step_orihime_012",
+              "type": "choice",
+              "content": "[地面的坑]",
+              "subfix": "×２回",
+              "group": "３月５日"
+            },
+            {
+              "id": "step_orihime_013",
+              "type": "note",
+              "content": "结束调查",
+              "prefix": "→",
+              "subfix": "OK",
+              "group": "３月５日"
+            },
+            {
+              "id": "step_orihime_014",
+              "type": "choice",
+              "content": "多磨陵园的遗体·现场状况",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "３月５日"
+            },
+            {
+              "id": "step_orihime_015",
+              "type": "choice",
+              "content": "多磨陵园的遗体·遗体状况",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "３月５日"
+            },
+            {
+              "id": "step_orihime_016",
+              "type": "note",
+              "content": "井之头公园",
+              "prefix": "●",
+              "group": "３月５日"
+            },
+            {
+              "id": "step_orihime_017",
+              "type": "choice",
+              "content": "出声叫他",
+              "subfix": "紫+1",
+              "group": "３月５日"
+            },
+            {
+              "id": "step_orihime_018",
+              "type": "note",
+              "content": "月世界",
+              "prefix": "●",
+              "group": "３月５日"
+            },
+            {
+              "id": "step_orihime_019",
+              "type": "save",
+              "content": "SAVE 1",
+              "prefix": "◆",
+              "group": "３月５日"
+            },
+            {
+              "id": "step_orihime_020",
+              "type": "choice",
+              "content": "叫杏子",
+              "subfix": "杏子+1",
+              "group": "３月５日"
+            },
+            {
+              "id": "step_orihime_021",
+              "type": "choice",
+              "content": "西园唯",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "３月６日"
+            },
+            {
+              "id": "step_orihime_022",
+              "type": "choice",
+              "content": "黑布",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "３月６日"
+            },
+            {
+              "id": "step_orihime_023",
+              "type": "choice",
+              "content": "[嘴巴周围的红色液体]",
+              "subfix": "×２回",
+              "group": "３月７日"
+            },
+            {
+              "id": "step_orihime_024",
+              "type": "choice",
+              "content": "[倒下的男人的胸口]",
+              "subfix": "×２回",
+              "group": "３月７日"
+            },
+            {
+              "id": "step_orihime_025",
+              "type": "note",
+              "content": "结束调查",
+              "prefix": "→",
+              "subfix": "OK",
+              "group": "３月７日"
+            },
+            {
+              "id": "step_orihime_026",
+              "type": "choice",
+              "content": "在画什么呢？",
+              "subfix": "冬子+1",
+              "group": "３月８日"
+            },
+            {
+              "id": "step_orihime_027",
+              "type": "note",
+              "content": "井之头公园",
+              "prefix": "●",
+              "group": "３月８日"
+            },
+            {
+              "id": "step_orihime_028",
+              "type": "choice",
+              "content": "画画时是什么样的心情？",
+              "subfix": "冬子+1",
+              "group": "３月８日"
+            },
+            {
+              "id": "step_orihime_029",
+              "type": "note",
+              "content": "月世界",
+              "prefix": "●",
+              "subfix": "杏子+1",
+              "group": "３月８日"
+            },
+            {
+              "id": "step_orihime_030",
+              "type": "choice",
+              "content": "井之头公园",
+              "subfix": "冬子+1",
+              "group": "３月８日"
+            },
+            {
+              "id": "step_orihime_031",
+              "type": "choice",
+              "content": "在大门口守株待兔",
+              "subfix": "织姫+1",
+              "group": "３月９日"
+            },
+            {
+              "id": "step_orihime_032",
+              "type": "note",
+              "content": "办公室",
+              "group": "３月９日"
+            },
+            {
+              "id": "step_orihime_033",
+              "type": "choice",
+              "content": "不过去",
+              "subfix": "冬子+1",
+              "group": "３月９日"
+            },
+            {
+              "id": "step_orihime_034",
+              "type": "note",
+              "content": "井之头公园",
+              "prefix": "●",
+              "group": "３月９日"
+            },
+            {
+              "id": "step_orihime_035",
+              "type": "choice",
+              "content": "问问看",
+              "subfix": "织姫+1",
+              "group": "３月９日"
+            },
+            {
+              "id": "step_orihime_036",
+              "type": "note",
+              "content": "东京都美术馆",
+              "prefix": "●",
+              "subfix": "史黛拉+1",
+              "group": "３月９日"
+            },
+            {
+              "id": "step_orihime_037",
+              "type": "choice",
+              "content": "我很忙",
+              "subfix": "冬子+1",
+              "group": "３月１０日"
+            },
+            {
+              "id": "step_orihime_038",
+              "type": "choice",
+              "content": "实话实说",
+              "subfix": "织姫+1",
+              "group": "３月１０日"
+            },
+            {
+              "id": "step_orihime_039",
+              "type": "note",
+              "content": "井之头公园",
+              "prefix": "●",
+              "subfix": "织姫+1",
+              "group": "３月１０日"
+            },
+            {
+              "id": "step_orihime_040",
+              "type": "note",
+              "content": "私立樱羽女学院",
+              "prefix": "●",
+              "group": "３月１０日"
+            },
+            {
+              "id": "step_orihime_041",
+              "type": "choice",
+              "content": "询问",
+              "subfix": "宁宁+1",
+              "group": "３月１０日"
+            },
+            {
+              "id": "step_orihime_042",
+              "type": "choice",
+              "content": "女性的遗体",
+              "prefix": "[",
+              "subfix": "×２回",
+              "group": "３月１２日"
+            },
+            {
+              "id": "step_orihime_043",
+              "type": "choice",
+              "content": "[上半身]",
+              "subfix": "×２回",
+              "group": "３月１２日"
+            },
+            {
+              "id": "step_orihime_044",
+              "type": "choice",
+              "content": "[下半身]",
+              "subfix": "×２回",
+              "group": "３月１２日"
+            },
+            {
+              "id": "step_orihime_045",
+              "type": "choice",
+              "content": "[黑布]",
+              "group": "３月１２日"
+            },
+            {
+              "id": "step_orihime_046",
+              "type": "choice",
+              "content": "[脸]",
+              "subfix": "×２回",
+              "group": "３月１２日"
+            },
+            {
+              "id": "step_orihime_047",
+              "type": "note",
+              "content": "结束调查",
+              "prefix": "→",
+              "subfix": "OK",
+              "group": "３月１２日"
+            },
+            {
+              "id": "step_orihime_048",
+              "type": "save",
+              "content": "SAVE 2",
+              "prefix": "◆",
+              "group": "３月１２日"
+            },
+            {
+              "id": "step_orihime_049",
+              "type": "choice",
+              "content": "交给鉴定人员",
+              "group": "３月１２日"
+            },
+            {
+              "id": "step_orihime_050",
+              "type": "choice",
+              "content": "西园唯",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "３月１２日"
+            },
+            {
+              "id": "step_orihime_051",
+              "type": "choice",
+              "content": "黑布",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "３月１２日"
+            },
+            {
+              "id": "step_orihime_052",
+              "type": "choice",
+              "content": "黑色圣母",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "３月１２日"
+            },
+            {
+              "id": "step_orihime_053",
+              "type": "note",
+              "content": "私立樱羽女学院",
+              "prefix": "●",
+              "group": "３月１２日"
+            },
+            {
+              "id": "step_orihime_054",
+              "type": "note",
+              "content": "井之头公园",
+              "prefix": "●",
+              "group": "３月１２日"
+            },
+            {
+              "id": "step_orihime_055",
+              "type": "choice",
+              "content": "戏剧",
+              "subfix": "织姫+1",
+              "group": "３月１２日"
+            },
+            {
+              "id": "step_orihime_056",
+              "type": "choice",
+              "content": "但丁的『神曲』",
+              "group": "３月１２日"
+            },
+            {
+              "id": "step_orihime_057",
+              "type": "choice",
+              "content": "涌现的蛆虫",
+              "group": "３月１２日"
+            },
+            {
+              "id": "step_orihime_058",
+              "type": "note",
+              "content": "新宿站前",
+              "prefix": "●",
+              "group": "３月１３日"
+            },
+            {
+              "id": "step_orihime_059",
+              "type": "note",
+              "content": "井之头公园",
+              "prefix": "●",
+              "group": "３月１３日"
+            },
+            {
+              "id": "step_orihime_060",
+              "type": "choice",
+              "content": "什么都不问",
+              "subfix": "织姫+1",
+              "group": "３月１３日"
+            },
+            {
+              "id": "step_orihime_061",
+              "type": "note",
+              "content": "私立樱羽女学院",
+              "prefix": "●",
+              "group": "３月１４日"
+            },
+            {
+              "id": "step_orihime_062",
+              "type": "choice",
+              "content": "出声叫她",
+              "group": "３月１４日"
+            },
+            {
+              "id": "step_orihime_063",
+              "type": "note",
+              "content": "井之头公园",
+              "prefix": "●",
+              "subfix": "织姫+1",
+              "group": "３月１４日"
+            },
+            {
+              "id": "step_orihime_064",
+              "type": "choice",
+              "content": "強行逼问",
+              "group": "３月１４日"
+            },
+            {
+              "id": "step_1776061053340",
+              "type": "note",
+              "content": "CG收集（织姬好感度达最大值）",
+              "prefix": "※",
+              "group": "３月１５日"
+            },
+            {
+              "id": "step_orihime_067",
+              "type": "choice",
+              "content": "嘴里/脸上",
+              "group": "３月１５日"
+            }
+          ]
+        },
+        {
+          "id": "ending_end2_akigo_dead",
+          "name": "END2 秋五死亡END",
+          "type": "bad",
+          "requirements": "本段流程中：收集冬子、史黛拉、宁宁、杏子的好感度",
+          "steps": [
+            {
+              "id": "step_end2_001",
+              "type": "load",
+              "content": "LOAD 2",
+              "prefix": "◆",
+              "group": "３月１２日"
+            },
+            {
+              "id": "step_end2_002",
+              "type": "choice",
+              "content": "自己指定样本",
+              "group": "３月１２日"
+            },
+            {
+              "id": "step_end2_003",
+              "type": "choice",
+              "content": "朽木冬子",
+              "prefix": "▼",
+              "group": "３月１２日"
+            },
+            {
+              "id": "step_end2_004",
+              "type": "choice",
+              "content": "西园唯",
+              "prefix": "▼",
+              "group": "３月１２日"
+            },
+            {
+              "id": "step_end2_005",
+              "type": "choice",
+              "content": "四十宫缀子",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "３月１２日"
+            },
+            {
+              "id": "step_end2_006",
+              "type": "choice",
+              "content": "西园唯",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "３月１２日"
+            },
+            {
+              "id": "step_end2_007",
+              "type": "choice",
+              "content": "黑布",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "３月１２日"
+            },
+            {
+              "id": "step_end2_008",
+              "type": "choice",
+              "content": "黑色圣母",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "３月１２日"
+            },
+            {
+              "id": "step_end2_009",
+              "type": "note",
+              "content": "私立樱羽女学院",
+              "prefix": "●",
+              "group": "３月１２日"
+            },
+            {
+              "id": "step_end2_010",
+              "type": "note",
+              "content": "井之头公园",
+              "prefix": "●",
+              "group": "３月１２日"
+            },
+            {
+              "id": "step_end2_011",
+              "type": "choice",
+              "content": "戏剧",
+              "group": "３月１２日"
+            },
+            {
+              "id": "step_end2_012",
+              "type": "choice",
+              "content": "但丁的‘神曲’",
+              "group": "３月１２日"
+            },
+            {
+              "id": "step_end2_013",
+              "type": "choice",
+              "content": "涌现的蛆虫",
+              "group": "３月１２日"
+            },
+            {
+              "id": "step_end2_014",
+              "type": "note",
+              "content": "新宿站前",
+              "prefix": "●",
+              "subfix": "冬子+1",
+              "group": "３月１３日"
+            },
+            {
+              "id": "step_end2_015",
+              "type": "note",
+              "content": "东京都美术馆",
+              "prefix": "●",
+              "subfix": "史黛拉+1",
+              "group": "３月１３日"
+            },
+            {
+              "id": "step_end2_016",
+              "type": "note",
+              "content": "私立樱羽女学院",
+              "prefix": "●",
+              "group": "３月１４日"
+            },
+            {
+              "id": "step_end2_017",
+              "type": "choice",
+              "content": "出声叫她",
+              "subfix": "宁宁+1",
+              "group": "３月１４日"
+            },
+            {
+              "id": "step_end2_018",
+              "type": "note",
+              "content": "东京都美术馆",
+              "prefix": "●",
+              "subfix": "史黛拉+1",
+              "group": "３月１４日"
+            },
+            {
+              "id": "step_end2_019",
+              "type": "choice",
+              "content": "強行逼问",
+              "group": "３月１４日"
+            },
+            {
+              "id": "step_end2_020",
+              "type": "note",
+              "content": "私立樱羽女学院",
+              "prefix": "●",
+              "subfix": "宁宁+1",
+              "group": "３月１５日"
+            },
+            {
+              "id": "step_end2_021",
+              "type": "note",
+              "content": "井之头公园",
+              "prefix": "●",
+              "group": "３月１５日"
+            },
+            {
+              "id": "step_end2_022",
+              "type": "choice",
+              "content": "女性的遗体",
+              "subfix": "×３回",
+              "group": "３月１６日"
+            },
+            {
+              "id": "step_end2_023",
+              "type": "choice",
+              "content": "上半身",
+              "group": "３月１６日"
+            },
+            {
+              "id": "step_end2_024",
+              "type": "choice",
+              "content": "足",
+              "group": "３月１６日"
+            },
+            {
+              "id": "step_end2_025",
+              "type": "choice",
+              "content": "头发",
+              "group": "３月１６日"
+            },
+            {
+              "id": "step_end2_026",
+              "type": "choice",
+              "content": "裙子",
+              "subfix": "×２回",
+              "group": "３月１６日"
+            },
+            {
+              "id": "step_end2_027",
+              "type": "note",
+              "content": "获得什么上的纸片",
+              "prefix": "※",
+              "group": "３月１６日"
+            },
+            {
+              "id": "step_end2_028",
+              "type": "choice",
+              "content": "口",
+              "subfix": "×２回",
+              "group": "３月１６日"
+            },
+            {
+              "id": "step_end2_029",
+              "type": "note",
+              "content": "结束调查",
+              "prefix": "→",
+              "subfix": "OK",
+              "group": "３月１６日"
+            },
+            {
+              "id": "step_end2_030",
+              "type": "choice",
+              "content": "书架柜子右门",
+              "subfix": "×２回",
+              "group": "３月１６日"
+            },
+            {
+              "id": "step_end2_031",
+              "type": "note",
+              "content": "结束调查",
+              "prefix": "→",
+              "subfix": "OK",
+              "group": "３月１６日"
+            },
+            {
+              "id": "step_end2_032",
+              "type": "choice",
+              "content": "西园唯的照片",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "３月１６日"
+            },
+            {
+              "id": "step_end2_033",
+              "type": "choice",
+              "content": "西园唯",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "３月１６日"
+            },
+            {
+              "id": "step_end2_034",
+              "type": "choice",
+              "content": "日下达彦",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "３月１６日"
+            },
+            {
+              "id": "step_end2_035",
+              "type": "note",
+              "content": "私立樱羽女学院",
+              "prefix": "●",
+              "group": "３月１６日"
+            },
+            {
+              "id": "step_end2_036",
+              "type": "choice",
+              "content": "不是",
+              "subfix": "冬子+1",
+              "group": "３月１６日"
+            },
+            {
+              "id": "step_end2_037",
+              "type": "note",
+              "content": "月世界",
+              "prefix": "●",
+              "group": "３月１６日"
+            },
+            {
+              "id": "step_end2_038",
+              "type": "choice",
+              "content": "帮忙看店",
+              "subfix": "杏子+1",
+              "group": "３月１６日"
+            },
+            {
+              "id": "step_end2_039",
+              "type": "save",
+              "content": "SAVE 3",
+              "prefix": "◆",
+              "group": "３月１７日"
+            },
+            {
+              "id": "step_end2_040",
+              "type": "choice",
+              "content": "不抱冬子",
+              "group": "３月１７日"
+            },
+            {
+              "id": "step_end2_041",
+              "type": "choice",
+              "content": "涅尼斯之蛋",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "３月１７日"
+            },
+            {
+              "id": "step_end2_042",
+              "type": "choice",
+              "content": "西园唯",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "３月１７日"
+            },
+            {
+              "id": "step_end2_043",
+              "type": "choice",
+              "content": "‘离教’成员",
+              "group": "３月１７日"
+            },
+            {
+              "id": "step_end2_044",
+              "type": "choice",
+              "content": "卖淫组织",
+              "group": "３月１７日"
+            },
+            {
+              "id": "step_end2_045",
+              "type": "choice",
+              "content": "月岛织姫",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "３月１７日"
+            },
+            {
+              "id": "step_end2_046",
+              "type": "choice",
+              "content": "模仿‘涅尼斯之蛋’",
+              "group": "３月１７日"
+            },
+            {
+              "id": "step_end2_047",
+              "type": "choice",
+              "content": "日下达彦",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "３月１７日"
+            },
+            {
+              "id": "step_end2_048",
+              "type": "choice",
+              "content": "什么上的纸片",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "３月１７日"
+            },
+            {
+              "id": "step_end2_049",
+              "type": "choice",
+              "content": "去日下家询问",
+              "group": "３月１７日"
+            },
+            {
+              "id": "step_end2_050",
+              "type": "save",
+              "content": "SAVE 4",
+              "prefix": "◆",
+              "group": "３月１７日"
+            },
+            {
+              "id": "step_end2_051",
+              "type": "choice",
+              "content": "叫警车",
+              "group": "３月１７日"
+            },
+            {
+              "id": "step_end2_052",
+              "type": "save",
+              "content": "SAVE 5",
+              "prefix": "◆",
+              "group": "３月１９日"
+            },
+            {
+              "id": "step_end2_053",
+              "type": "choice",
+              "content": "井之头公园・井之头池",
+              "group": "３月１９日"
+            },
+            {
+              "id": "step_end2_054",
+              "type": "save",
+              "content": "SAVE 6",
+              "prefix": "◆",
+              "group": "３月１９日"
+            },
+            {
+              "id": "step_end2_055",
+              "type": "choice",
+              "content": "杀死高城秋五拿出钥匙",
+              "group": "３月１９日"
+            }
+          ]
+        },
+        {
+          "id": "ending_end3_yukari_dead",
+          "name": "END3 紫死亡END",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_end3_001",
+              "type": "load",
+              "content": "LOAD 6",
+              "prefix": "◆",
+              "group": "３月１９日"
+            },
+            {
+              "id": "step_end3_002",
+              "type": "choice",
+              "content": "等待鱼住的到来",
+              "group": "３月１９日"
+            }
+          ]
+        },
+        {
+          "id": "ending_end4_yukari_alive",
+          "name": "END4 紫生存END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_end4_001",
+              "type": "load",
+              "content": "LOAD 5",
+              "prefix": "◆",
+              "group": "３月１９日"
+            },
+            {
+              "id": "step_end4_002",
+              "type": "choice",
+              "content": "石神井公园・三宝寺池",
+              "group": "３月１９日"
+            },
+            {
+              "id": "step_end4_003",
+              "type": "choice",
+              "content": "等待鱼住的到来",
+              "group": "３月１９日"
+            }
+          ]
+        },
+        {
+          "id": "ending_touko_end5",
+          "name": "END5 透子END",
+          "type": "normal",
+          "requirements": "本段流程中：收集宁宁的好感度；收集透子的好感度达最大值并收集cg；收集和菜cg",
+          "steps": [
+            {
+              "id": "step_touko_001",
+              "type": "load",
+              "content": "LOAD 4",
+              "prefix": "◆",
+              "group": "３月１７日"
+            },
+            {
+              "id": "step_touko_002",
+              "type": "choice",
+              "content": "叫出租车",
+              "group": "３月１７日"
+            },
+            {
+              "id": "step_touko_003",
+              "type": "choice",
+              "content": "书架正中间的笔记本",
+              "group": "３月１７日"
+            },
+            {
+              "id": "step_touko_004",
+              "type": "note",
+              "content": "结束调查",
+              "prefix": "→",
+              "subfix": "OK",
+              "group": "３月１７日"
+            },
+            {
+              "id": "step_touko_006",
+              "type": "choice",
+              "content": "追踪日下",
+              "subfix": "选择去上野收集CG，显示休歌时结束",
+              "group": "３月１７日"
+            },
+            {
+              "id": "step_touko_010",
+              "type": "note",
+              "content": "私立樱羽女学院",
+              "prefix": "●",
+              "subfix": "宁宁+1",
+              "group": "３月２９日"
+            },
+            {
+              "id": "step_touko_011",
+              "type": "note",
+              "content": "东京都美术馆",
+              "prefix": "●",
+              "group": "３月２９日"
+            },
+            {
+              "id": "step_touko_012",
+              "type": "choice",
+              "content": "追过去",
+              "group": "３月３０日"
+            },
+            {
+              "id": "step_touko_013",
+              "type": "choice",
+              "content": "继续调查",
+              "group": "３月３０日"
+            },
+            {
+              "id": "step_touko_014",
+              "type": "note",
+              "content": "井之头公园",
+              "prefix": "●",
+              "group": "３月３０日"
+            },
+            {
+              "id": "step_touko_015",
+              "type": "note",
+              "content": "高城医院",
+              "prefix": "●",
+              "group": "３月３０日"
+            },
+            {
+              "id": "step_touko_016",
+              "type": "note",
+              "content": "井之头公園",
+              "prefix": "●",
+              "group": "３月３１日"
+            },
+            {
+              "id": "step_touko_017",
+              "type": "note",
+              "content": "私立樱羽女学院",
+              "prefix": "●",
+              "subfix": "宁宁+1",
+              "group": "３月３１日"
+            },
+            {
+              "id": "step_touko_018",
+              "type": "choice",
+              "content": "在保健室等着",
+              "subfix": "宁宁+1",
+              "group": "４月１日"
+            },
+            {
+              "id": "step_touko_019",
+              "type": "note",
+              "content": "高城医院",
+              "prefix": "●",
+              "group": "４月１日"
+            },
+            {
+              "id": "step_touko_020",
+              "type": "note",
+              "content": "朽木病理学研究所",
+              "prefix": "●",
+              "group": "４月１日"
+            },
+            {
+              "id": "step_touko_021",
+              "type": "choice",
+              "content": "询问关于电话的事",
+              "subfix": "宁宁+1",
+              "group": "４月２日"
+            },
+            {
+              "id": "step_touko_022",
+              "type": "note",
+              "content": "新宿站前",
+              "prefix": "●",
+              "group": "４月２日"
+            },
+            {
+              "id": "step_touko_023",
+              "type": "note",
+              "content": "朽木病理学研究所",
+              "prefix": "●",
+              "group": "４月２日"
+            },
+            {
+              "id": "step_touko_024",
+              "type": "choice",
+              "content": "放任不理",
+              "group": "４月４日"
+            },
+            {
+              "id": "step_touko_025",
+              "type": "choice",
+              "content": "尝尝",
+              "group": "４月４日"
+            },
+            {
+              "id": "step_touko_026",
+              "type": "note",
+              "content": "月世界",
+              "prefix": "●",
+              "group": "４月４日"
+            },
+            {
+              "id": "step_touko_027",
+              "type": "note",
+              "content": "高城医院",
+              "prefix": "●",
+              "group": "４月５日"
+            },
+            {
+              "id": "step_touko_028",
+              "type": "note",
+              "content": "朽木病理学研究所",
+              "prefix": "●",
+              "group": "４月５日"
+            },
+            {
+              "id": "step_touko_029",
+              "type": "note",
+              "content": "私立樱羽女学院",
+              "prefix": "●",
+              "group": "４月６日"
+            },
+            {
+              "id": "step_touko_030",
+              "type": "note",
+              "content": "井之头公园",
+              "prefix": "●",
+              "group": "４月６日"
+            },
+            {
+              "id": "step_touko_031",
+              "type": "note",
+              "content": "新宿站前",
+              "prefix": "●",
+              "group": "４月６日"
+            },
+            {
+              "id": "step_touko_032",
+              "type": "note",
+              "content": "高城探探事务所",
+              "prefix": "●",
+              "group": "４月６日"
+            },
+            {
+              "id": "step_touko_033",
+              "type": "note",
+              "content": "私立樱羽女学院",
+              "prefix": "●",
+              "subfix": "透子+1",
+              "group": "４月７日"
+            },
+            {
+              "id": "step_touko_034",
+              "type": "note",
+              "content": "月世界",
+              "prefix": "●",
+              "group": "４月７日"
+            },
+            {
+              "id": "step_touko_035",
+              "type": "note",
+              "content": "私立樱羽女学院",
+              "prefix": "●",
+              "subfix": "透子+1",
+              "group": "４月８日"
+            },
+            {
+              "id": "step_touko_036",
+              "type": "note",
+              "content": "高城医院",
+              "prefix": "●",
+              "group": "４月８日"
+            },
+            {
+              "id": "step_touko_037",
+              "type": "choice",
+              "content": "去月世界",
+              "group": "４月８日"
+            },
+            {
+              "id": "step_touko_038",
+              "type": "choice",
+              "content": "有关",
+              "group": "４月１０日"
+            },
+            {
+              "id": "step_touko_039",
+              "type": "choice",
+              "content": "案件的受害者",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "４月１０日"
+            },
+            {
+              "id": "step_touko_040",
+              "type": "choice",
+              "content": "案件的遗体",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "４月１０日"
+            },
+            {
+              "id": "step_touko_041",
+              "type": "note",
+              "content": "私立樱羽女学院",
+              "prefix": "●",
+              "subfix": "透子+1",
+              "group": "４月１０日"
+            },
+            {
+              "id": "step_touko_042",
+              "type": "note",
+              "content": "高城医院",
+              "prefix": "●",
+              "group": "４月１０日"
+            },
+            {
+              "id": "step_touko_043",
+              "type": "save",
+              "content": "SAVE 7",
+              "prefix": "◆",
+              "group": "４月１１日"
+            },
+            {
+              "id": "step_touko_044",
+              "type": "choice",
+              "content": "去追透子",
+              "group": "４月１１日"
+            },
+            {
+              "id": "step_touko_045",
+              "type": "note",
+              "content": "CG收集（透子好感度达最大值）",
+              "prefix": "※",
+              "group": "４月１１日"
+            }
+          ]
+        },
+        {
+          "id": "ending_end6_nene_bad",
+          "name": "END6 宁宁END",
+          "type": "bad",
+          "requirements": "本段流程中：收集宁宁的好感度达最大值并收集cg",
+          "steps": [
+            {
+              "id": "step_end6_001",
+              "type": "load",
+              "content": "LOAD 7",
+              "prefix": "◆",
+              "group": "４月１１日"
+            },
+            {
+              "id": "step_end6_002",
+              "type": "choice",
+              "content": "不追透子",
+              "group": "４月１１日"
+            },
+            {
+              "id": "step_end6_003",
+              "type": "choice",
+              "content": "教室",
+              "group": "４月１１日"
+            },
+            {
+              "id": "step_end6_004",
+              "type": "choice",
+              "content": "保健室",
+              "group": "４月１１日"
+            },
+            {
+              "id": "step_end6_005",
+              "type": "choice",
+              "content": "操场",
+              "group": "４月１１日"
+            },
+            {
+              "id": "step_end6_006",
+              "type": "choice",
+              "content": "桌子上的小书架",
+              "group": "４月１２日"
+            },
+            {
+              "id": "step_end6_007",
+              "type": "choice",
+              "content": "大书架",
+              "subfix": "×3 回",
+              "group": "４月１２日"
+            },
+            {
+              "id": "step_end6_008",
+              "type": "note",
+              "content": "获得葛城心的照片",
+              "prefix": "※",
+              "group": "４月１２日"
+            },
+            {
+              "id": "step_end6_009",
+              "type": "note",
+              "content": "结束调查",
+              "prefix": "→",
+              "subfix": "OK",
+              "group": "４月１２日"
+            },
+            {
+              "id": "step_end6_010",
+              "type": "choice",
+              "content": "都是同凶犯罪",
+              "group": "４月１２日"
+            },
+            {
+              "id": "step_end6_011",
+              "type": "choice",
+              "content": "被遗弃的只有四肢",
+              "group": "４月１２日"
+            },
+            {
+              "id": "step_end6_012",
+              "type": "choice",
+              "content": "合理",
+              "group": "４月１２日"
+            },
+            {
+              "id": "step_end6_013",
+              "type": "choice",
+              "content": "间宫心尔",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "４月１２日"
+            },
+            {
+              "id": "step_end6_014",
+              "type": "choice",
+              "content": "葛城心的照片",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "４月１２日"
+            },
+            {
+              "id": "step_end6_015",
+              "type": "save",
+              "content": "SAVE 8",
+              "prefix": "◆",
+              "group": "４月１２日"
+            },
+            {
+              "id": "step_end6_016",
+              "type": "choice",
+              "content": "葛城心事务所",
+              "group": "４月１２日"
+            },
+            {
+              "id": "step_end6_017",
+              "type": "note",
+              "content": "CG收集（宁宁好感度达最大值）",
+              "prefix": "※",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end6_018",
+              "type": "choice",
+              "content": "接受",
+              "group": "４月１３日"
+            }
+          ]
+        },
+        {
+          "id": "ending_end7_fuyuko_dead",
+          "name": "END7 冬子死亡END",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_end7_001",
+              "type": "load",
+              "content": "LOAD 8",
+              "prefix": "◆",
+              "group": "４月１２日"
+            },
+            {
+              "id": "step_end7_002",
+              "type": "choice",
+              "content": "间宫心像的工作室",
+              "group": "４月１２日"
+            },
+            {
+              "id": "step_end7_003",
+              "type": "choice",
+              "content": "朽木文弥",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end7_004",
+              "type": "choice",
+              "content": "朽木靖匡",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end7_005",
+              "type": "choice",
+              "content": "村濑直己",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end7_006",
+              "type": "choice",
+              "content": "山之内小春",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end7_007",
+              "type": "choice",
+              "content": "西藤环",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end7_008",
+              "type": "choice",
+              "content": "布草房",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end7_009",
+              "type": "choice",
+              "content": "村濑直己",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end7_010",
+              "type": "choice",
+              "content": "朱崎宁宁",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end7_011",
+              "type": "choice",
+              "content": "右下：带血的刀",
+              "subfix": "×２回",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end7_012",
+              "type": "choice",
+              "content": "右下：带血的电源线",
+              "subfix": "×２回",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end7_013",
+              "type": "choice",
+              "content": "遗体",
+              "subfix": "×２回",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end7_014",
+              "type": "choice",
+              "content": "脸",
+              "subfix": "×２回",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end7_015",
+              "type": "choice",
+              "content": "脖颈",
+              "subfix": "×２回",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end7_016",
+              "type": "choice",
+              "content": "衣服",
+              "subfix": "×２回",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end7_017",
+              "type": "note",
+              "content": "结束调查",
+              "prefix": "→",
+              "subfix": "OK",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end7_018",
+              "type": "save",
+              "content": "SAVE 9",
+              "prefix": "◆",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end7_019",
+              "type": "choice",
+              "content": "桌子上的稿纸",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end7_020",
+              "type": "choice",
+              "content": "书桌抽屉：左",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end7_021",
+              "type": "choice",
+              "content": "书桌抽屉：中央",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end7_022",
+              "type": "choice",
+              "content": "书桌抽屉：右",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end7_023",
+              "type": "choice",
+              "content": "左下：左书架抽屉",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end7_024",
+              "type": "note",
+              "content": "结束调查",
+              "prefix": "→",
+              "subfix": "OK",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end7_025",
+              "type": "note",
+              "content": "结束调查",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end7_026",
+              "type": "save",
+              "content": "SAVE 10",
+              "prefix": "◆",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end7_027",
+              "type": "choice",
+              "content": "独自行动",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end7_028",
+              "type": "save",
+              "content": "SAVE 11",
+              "prefix": "◆",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end7_029",
+              "type": "choice",
+              "content": "寻找冬子",
+              "group": "４月１３日"
+            }
+          ]
+        },
+        {
+          "id": "ending_end8_fuyuko_alive",
+          "name": "END8 冬子生存END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_end8_001",
+              "type": "load",
+              "content": "LOAD 10",
+              "prefix": "◆",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end8_002",
+              "type": "choice",
+              "content": "和八木沼一起行动",
+              "group": "４月１３日"
+            }
+          ]
+        },
+        {
+          "id": "ending_end9_find_fuyuko",
+          "name": "END9 为了寻找冬子",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_end9_001",
+              "type": "load",
+              "content": "LOAD 11",
+              "prefix": "◆",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end9_002",
+              "type": "choice",
+              "content": "前往仓敷",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end9_003",
+              "type": "choice",
+              "content": "撒谎",
+              "group": "４月１４日"
+            },
+            {
+              "id": "step_end9_004",
+              "type": "choice",
+              "content": "间宫心尔",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "４月１６日"
+            }
+          ]
+        },
+        {
+          "id": "ending_end10_shinru",
+          "name": "END10 心尔END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_end10_001",
+              "type": "load",
+              "content": "LOAD 9",
+              "prefix": "◆",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end10_002",
+              "type": "choice",
+              "content": "桌子上的稿纸",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end10_003",
+              "type": "choice",
+              "content": "桌子上的书架",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end10_004",
+              "type": "choice",
+              "content": "桌子上的书架-高个书右侧第二本",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end10_005",
+              "type": "note",
+              "content": "获得明信片",
+              "prefix": "※",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end10_006",
+              "type": "choice",
+              "content": "书桌抽屉：左",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end10_007",
+              "type": "choice",
+              "content": "书桌抽屉：中央",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end10_008",
+              "type": "choice",
+              "content": "书桌抽屉：右",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end10_009",
+              "type": "choice",
+              "content": "左下：左书架抽屉",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end10_010",
+              "type": "note",
+              "content": "结束调查",
+              "prefix": "→",
+              "subfix": "OK",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end10_011",
+              "type": "choice",
+              "content": "独自行动",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end10_012",
+              "type": "choice",
+              "content": "前往仓敷",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end10_013",
+              "type": "choice",
+              "content": "如实回答",
+              "group": "４月１４日"
+            },
+            {
+              "id": "step_end10_014",
+              "type": "choice",
+              "content": "间宫心尔",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "４月１６日"
+            }
+          ]
+        },
+        {
+          "id": "ending_end11_rokushiki_escape",
+          "name": "END11 六识逃亡END",
+          "type": "normal",
+          "requirements": "本段流程中：收集史黛拉、冬子的好感度；收集杏子的好感度并收集cg",
+          "steps": [
+            {
+              "id": "step_end11_001",
+              "type": "load",
+              "content": "LOAD 3",
+              "prefix": "◆",
+              "group": "３月１７日"
+            },
+            {
+              "id": "step_end11_002",
+              "type": "choice",
+              "content": "拥抱冬子",
+              "group": "３月１７日"
+            },
+            {
+              "id": "step_end11_003",
+              "type": "choice",
+              "content": "涅尼斯之蛋",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "３月１７日"
+            },
+            {
+              "id": "step_end11_004",
+              "type": "choice",
+              "content": "西园唯",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "３月１７日"
+            },
+            {
+              "id": "step_end11_005",
+              "type": "choice",
+              "content": "‘离教’成员",
+              "group": "３月１７日"
+            },
+            {
+              "id": "step_end11_006",
+              "type": "choice",
+              "content": "迈音组织",
+              "group": "３月１７日"
+            },
+            {
+              "id": "step_end11_007",
+              "type": "choice",
+              "content": "月岛织姫",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "３月１７日"
+            },
+            {
+              "id": "step_end11_008",
+              "type": "choice",
+              "content": "模仿‘涅尼斯之蛋’",
+              "group": "３月１７日"
+            },
+            {
+              "id": "step_end11_009",
+              "type": "choice",
+              "content": "日下达彦",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "３月１７日"
+            },
+            {
+              "id": "step_end11_010",
+              "type": "choice",
+              "content": "什么上的纸片",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "３月１７日"
+            },
+            {
+              "id": "step_end11_011",
+              "type": "choice",
+              "content": "去日下家询问",
+              "group": "３月１７日"
+            },
+            {
+              "id": "step_end11_012",
+              "type": "choice",
+              "content": "叫出租车",
+              "group": "３月１７日"
+            },
+            {
+              "id": "step_end11_013",
+              "type": "choice",
+              "content": "书架正中间的笔记本",
+              "group": "３月１７日"
+            },
+            {
+              "id": "step_end11_014",
+              "type": "note",
+              "content": "结束调查",
+              "prefix": "→",
+              "subfix": "OK",
+              "group": "３月１７日"
+            },
+            {
+              "id": "step_end11_015",
+              "type": "choice",
+              "content": "追踪日下",
+              "group": "３月１７日"
+            },
+            {
+              "id": "step_end11_020",
+              "type": "note",
+              "content": "私立樱羽女学院",
+              "prefix": "●",
+              "group": "３月２９日"
+            },
+            {
+              "id": "step_end11_021",
+              "type": "note",
+              "content": "东京都美术馆",
+              "prefix": "●",
+              "subfix": "史黛拉+1",
+              "group": "３月２９日"
+            },
+            {
+              "id": "step_end11_022",
+              "type": "choice",
+              "content": "追过去",
+              "group": "３月３０日"
+            },
+            {
+              "id": "step_end11_023",
+              "type": "choice",
+              "content": "继续调查",
+              "group": "３月３０日"
+            },
+            {
+              "id": "step_end11_024",
+              "type": "note",
+              "content": "井之头公园",
+              "prefix": "●",
+              "subfix": "冬子+1",
+              "group": "３月３０日"
+            },
+            {
+              "id": "step_end11_025",
+              "type": "note",
+              "content": "高城医院",
+              "prefix": "●",
+              "group": "３月３０日"
+            },
+            {
+              "id": "step_end11_026",
+              "type": "note",
+              "content": "井之头公园",
+              "prefix": "●",
+              "subfix": "冬子+1",
+              "group": "３月３１日"
+            },
+            {
+              "id": "step_end11_027",
+              "type": "note",
+              "content": "月世界",
+              "prefix": "●",
+              "subfix": "杏子+1",
+              "group": "３月３１日"
+            },
+            {
+              "id": "step_end11_028",
+              "type": "note",
+              "content": "CG收集（杏子好感度达3）",
+              "prefix": "※",
+              "group": "３月３１日"
+            },
+            {
+              "id": "step_end11_029",
+              "type": "choice",
+              "content": "去帮冬子",
+              "group": "４月１日"
+            },
+            {
+              "id": "step_end11_030",
+              "type": "note",
+              "content": "东京都美术馆",
+              "prefix": "●",
+              "subfix": "史黛拉+1",
+              "group": "４月１日"
+            },
+            {
+              "id": "step_end11_031",
+              "type": "note",
+              "content": "新宿站前",
+              "prefix": "●",
+              "group": "４月１日"
+            },
+            {
+              "id": "step_end11_032",
+              "type": "choice",
+              "content": "询问关于文件的事",
+              "group": "４月２日"
+            },
+            {
+              "id": "step_end11_033",
+              "type": "note",
+              "content": "东京都美术馆",
+              "prefix": "●",
+              "subfix": "史黛拉+1",
+              "group": "４月２日"
+            },
+            {
+              "id": "step_end11_034",
+              "type": "note",
+              "content": "月世界",
+              "prefix": "●",
+              "group": "４月２日"
+            },
+            {
+              "id": "step_end11_035",
+              "type": "choice",
+              "content": "放任不理",
+              "group": "４月４日"
+            },
+            {
+              "id": "step_end11_036",
+              "type": "choice",
+              "content": "尝尝",
+              "group": "４月４日"
+            },
+            {
+              "id": "step_end11_037",
+              "type": "note",
+              "content": "井之头公园",
+              "prefix": "●",
+              "group": "４月４日"
+            },
+            {
+              "id": "step_end11_038",
+              "type": "note",
+              "content": "月世界",
+              "prefix": "●",
+              "group": "４月４日"
+            },
+            {
+              "id": "step_end11_039",
+              "type": "note",
+              "content": "月世界",
+              "prefix": "●",
+              "group": "４月５日"
+            },
+            {
+              "id": "step_end11_040",
+              "type": "choice",
+              "content": "还是算了",
+              "subfix": "杏子+1",
+              "group": "４月５日"
+            },
+            {
+              "id": "step_end11_041",
+              "type": "note",
+              "content": "东京都美术馆",
+              "prefix": "●",
+              "subfix": "史黛拉+1",
+              "group": "４月５日"
+            },
+            {
+              "id": "step_end11_042",
+              "type": "note",
+              "content": "私立樱羽女学院",
+              "prefix": "●",
+              "group": "４月６日"
+            },
+            {
+              "id": "step_end11_043",
+              "type": "note",
+              "content": "井之头公园",
+              "prefix": "●",
+              "group": "４月６日"
+            },
+            {
+              "id": "step_end11_044",
+              "type": "note",
+              "content": "新宿站前",
+              "prefix": "●",
+              "group": "４月６日"
+            },
+            {
+              "id": "step_end11_045",
+              "type": "note",
+              "content": "高城侦探事务所",
+              "prefix": "●",
+              "group": "４月６日"
+            },
+            {
+              "id": "step_end11_046",
+              "type": "note",
+              "content": "私立樱羽女学院",
+              "prefix": "●",
+              "group": "４月７日"
+            },
+            {
+              "id": "step_end11_047",
+              "type": "note",
+              "content": "朽木病理学研究所",
+              "prefix": "●",
+              "group": "４月７日"
+            },
+            {
+              "id": "step_end11_048",
+              "type": "note",
+              "content": "月世界",
+              "prefix": "●",
+              "subfix": "杏子+1",
+              "group": "４月８日"
+            },
+            {
+              "id": "step_end11_049",
+              "type": "note",
+              "content": "高城医院",
+              "prefix": "●",
+              "group": "４月８日"
+            },
+            {
+              "id": "step_end11_050",
+              "type": "choice",
+              "content": "去月世界",
+              "group": "４月８日"
+            },
+            {
+              "id": "step_end11_051",
+              "type": "choice",
+              "content": "有关",
+              "group": "４月１０日"
+            },
+            {
+              "id": "step_end11_052",
+              "type": "choice",
+              "content": "案件的受害者",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "４月１０日"
+            },
+            {
+              "id": "step_end11_053",
+              "type": "choice",
+              "content": "案件的遗体",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "４月１０日"
+            },
+            {
+              "id": "step_end11_054",
+              "type": "note",
+              "content": "月世界",
+              "prefix": "●",
+              "subfix": "杏子+1",
+              "group": "４月１０日"
+            },
+            {
+              "id": "step_end11_055",
+              "type": "note",
+              "content": "东京都美术馆",
+              "prefix": "●",
+              "subfix": "史黛拉+1",
+              "group": "４月１０日"
+            },
+            {
+              "id": "step_end11_056",
+              "type": "save",
+              "content": "SAVE 12",
+              "prefix": "◆",
+              "group": "４月１１日"
+            },
+            {
+              "id": "step_end11_057",
+              "type": "choice",
+              "content": "教室",
+              "group": "４月１１日"
+            },
+            {
+              "id": "step_end11_058",
+              "type": "choice",
+              "content": "保健室",
+              "group": "４月１１日"
+            },
+            {
+              "id": "step_end11_059",
+              "type": "choice",
+              "content": "操场",
+              "group": "４月１１日"
+            },
+            {
+              "id": "step_end11_060",
+              "type": "choice",
+              "content": "桌子上的小书架",
+              "group": "４月１２日"
+            },
+            {
+              "id": "step_end11_061",
+              "type": "choice",
+              "content": "大书架",
+              "subfix": "×3 回",
+              "group": "４月１２日"
+            },
+            {
+              "id": "step_end11_062",
+              "type": "note",
+              "content": "获得葛城心的照片",
+              "prefix": "※",
+              "group": "４月１２日"
+            },
+            {
+              "id": "step_end11_063",
+              "type": "note",
+              "content": "结束调查",
+              "prefix": "→",
+              "subfix": "OK",
+              "group": "４月１２日"
+            },
+            {
+              "id": "step_end11_064",
+              "type": "choice",
+              "content": "都是同凶犯罪",
+              "group": "４月１２日"
+            },
+            {
+              "id": "step_end11_065",
+              "type": "choice",
+              "content": "被遗弃的只有四肢",
+              "group": "４月１２日"
+            },
+            {
+              "id": "step_end11_066",
+              "type": "choice",
+              "content": "合理",
+              "group": "４月１２日"
+            },
+            {
+              "id": "step_end11_067",
+              "type": "choice",
+              "content": "间宫心尔",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "４月１２日"
+            },
+            {
+              "id": "step_end11_068",
+              "type": "choice",
+              "content": "葛城心的照片",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "４月１２日"
+            },
+            {
+              "id": "step_end11_069",
+              "type": "choice",
+              "content": "间宫心像的工作室",
+              "group": "４月１２日"
+            },
+            {
+              "id": "step_end11_070",
+              "type": "choice",
+              "content": "朽木文弥",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end11_071",
+              "type": "choice",
+              "content": "朽木靖匡",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end11_072",
+              "type": "choice",
+              "content": "村濑直己",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end11_073",
+              "type": "choice",
+              "content": "山之内小春",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end11_074",
+              "type": "choice",
+              "content": "西藤环",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end11_075",
+              "type": "choice",
+              "content": "布草房",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end11_076",
+              "type": "choice",
+              "content": "村濑直己",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end11_077",
+              "type": "choice",
+              "content": "朱崎宁宁",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end11_078",
+              "type": "choice",
+              "content": "右下：带血的刀",
+              "subfix": "×２回",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end11_079",
+              "type": "choice",
+              "content": "右下：带血的电源线",
+              "subfix": "×２回",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end11_080",
+              "type": "choice",
+              "content": "遗体",
+              "subfix": "×２回",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end11_081",
+              "type": "choice",
+              "content": "脸",
+              "subfix": "×２回",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end11_082",
+              "type": "choice",
+              "content": "脖颈",
+              "subfix": "×２回",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end11_083",
+              "type": "choice",
+              "content": "衣服",
+              "subfix": "×２回",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end11_084",
+              "type": "note",
+              "content": "结束调查",
+              "prefix": "→",
+              "subfix": "OK",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end11_085",
+              "type": "choice",
+              "content": "桌子上的稿纸",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end11_086",
+              "type": "choice",
+              "content": "桌子上的书架",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end11_087",
+              "type": "choice",
+              "content": "桌子上的书架-高个书右侧第二本",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end11_088",
+              "type": "note",
+              "content": "获得明信片",
+              "prefix": "※",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end11_089",
+              "type": "choice",
+              "content": "书桌抽屉：左",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end11_090",
+              "type": "choice",
+              "content": "书桌抽屉：中央",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end11_091",
+              "type": "choice",
+              "content": "书桌抽屉：右",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end11_092",
+              "type": "choice",
+              "content": "左下：左书架抽屉",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end11_093",
+              "type": "note",
+              "content": "结束调查",
+              "prefix": "→",
+              "subfix": "OK",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end11_094",
+              "type": "choice",
+              "content": "独自行动",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end11_095",
+              "type": "choice",
+              "content": "前往仓敷",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end11_096",
+              "type": "choice",
+              "content": "如实回答",
+              "group": "４月１４日"
+            },
+            {
+              "id": "step_end11_097",
+              "type": "choice",
+              "content": "间宫心尔",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "４月１６日"
+            },
+            {
+              "id": "step_end11_098",
+              "type": "choice",
+              "content": "眼睛",
+              "group": "４月１７日"
+            },
+            {
+              "id": "step_end11_099",
+              "type": "choice",
+              "content": "只是错觉",
+              "group": "４月１７日"
+            },
+            {
+              "id": "step_end11_100",
+              "type": "choice",
+              "content": "朽木文弥",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "４月１７日"
+            },
+            {
+              "id": "step_end11_101",
+              "type": "choice",
+              "content": "朽木靖匡",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "４月１７日"
+            },
+            {
+              "id": "step_end11_102",
+              "type": "choice",
+              "content": "村濑直己",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "４月１７日"
+            },
+            {
+              "id": "step_end11_103",
+              "type": "choice",
+              "content": "西藤环",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "４月１７日"
+            },
+            {
+              "id": "step_end11_105",
+              "type": "save",
+              "content": "SAVE 13",
+              "prefix": "◆",
+              "group": "４月１８日"
+            },
+            {
+              "id": "step_end11_106",
+              "type": "choice",
+              "content": "扣动扳机",
+              "group": "４月１８日"
+            }
+          ]
+        },
+        {
+          "id": "ending_1776062531327",
+          "name": "END12 冬子的幻象",
+          "type": "normal",
+          "requirements": "本段流程中：收集史黛拉、杏子的好感度达最大值并收集彩蛋cg",
+          "steps": [
+            {
+              "id": "step_1776062556809",
+              "type": "load",
+              "content": "LOAD 13",
+              "group": "４月１８日"
+            },
+            {
+              "id": "step_1776063003956",
+              "type": "choice",
+              "content": "不扣动扳机",
+              "group": "４月１８日"
+            },
+            {
+              "id": "step_1776063004126",
+              "type": "note",
+              "content": "CG收集（史黛拉好感度达最大值）",
+              "prefix": "※",
+              "group": "４月１８日"
+            },
+            {
+              "id": "step_1776063022177",
+              "type": "note",
+              "content": "CG收集（杏子好感度达最大值）",
+              "prefix": "※",
+              "group": "４月１８日"
+            }
+          ]
+        },
+        {
+          "id": "ending_end13",
+          "name": "END13 和冬子的约定",
+          "type": "normal",
+          "requirements": "本段流程中：收集冬子的好感度达最大值并获得进入END13和END14的资格",
+          "steps": [
+            {
+              "id": "step_end13_01",
+              "type": "load",
+              "content": "LOAD 12",
+              "group": "４月１１日"
+            },
+            {
+              "id": "step_end13_02",
+              "type": "choice",
+              "content": "美术室",
+              "group": "４月１１日"
+            },
+            {
+              "id": "step_end13_03",
+              "type": "choice",
+              "content": "教室",
+              "group": "４月１１日"
+            },
+            {
+              "id": "step_end13_04",
+              "type": "choice",
+              "content": "保健室",
+              "group": "４月１１日"
+            },
+            {
+              "id": "step_end13_05",
+              "type": "choice",
+              "content": "操场",
+              "group": "４月１１日"
+            },
+            {
+              "id": "step_end13_06",
+              "type": "choice",
+              "content": "[桌子上的小书架]",
+              "group": "４月１２日"
+            },
+            {
+              "id": "step_end13_07",
+              "type": "choice",
+              "content": "[大书架]×3 回",
+              "group": "４月１２日"
+            },
+            {
+              "id": "step_end13_08",
+              "type": "note",
+              "content": "获得葛城心的照片",
+              "prefix": "※",
+              "group": "４月１２日"
+            },
+            {
+              "id": "step_end13_09",
+              "type": "choice",
+              "content": "结束调查 →OK",
+              "prefix": "→",
+              "group": "４月１２日"
+            },
+            {
+              "id": "step_end13_10",
+              "type": "choice",
+              "content": "都是同凶犯罪",
+              "group": "４月１２日"
+            },
+            {
+              "id": "step_end13_11",
+              "type": "choice",
+              "content": "被遗弃的只有四肢",
+              "group": "４月１２日"
+            },
+            {
+              "id": "step_end13_12",
+              "type": "choice",
+              "content": "合理",
+              "group": "４月１２日"
+            },
+            {
+              "id": "step_end13_13",
+              "type": "choice",
+              "content": "间宫心尔 →决定",
+              "prefix": "▼",
+              "group": "４月１２日"
+            },
+            {
+              "id": "step_end13_14",
+              "type": "choice",
+              "content": "葛城心的照片 →决定",
+              "prefix": "▼",
+              "group": "４月１２日"
+            },
+            {
+              "id": "step_end13_15",
+              "type": "choice",
+              "content": "间宫心像的工作室",
+              "group": "４月１２日"
+            },
+            {
+              "id": "step_end13_16",
+              "type": "choice",
+              "content": "朽木文弥 →决定",
+              "prefix": "▼",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end13_17",
+              "type": "choice",
+              "content": "朽木靖匡 →决定",
+              "prefix": "▼",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end13_18",
+              "type": "choice",
+              "content": "村濑直己 →决定",
+              "prefix": "▼",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end13_19",
+              "type": "choice",
+              "content": "山之内小春 →决定",
+              "prefix": "▼",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end13_20",
+              "type": "choice",
+              "content": "西藤环 →决定",
+              "prefix": "▼",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end13_21",
+              "type": "choice",
+              "content": "布草房",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end13_22",
+              "type": "choice",
+              "content": "村濑直己 →决定",
+              "prefix": "▼",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end13_23",
+              "type": "choice",
+              "content": "朱崎宁宁 →决定",
+              "prefix": "▼",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end13_24",
+              "type": "choice",
+              "content": "[右下：带血的刀]×２回",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end13_25",
+              "type": "choice",
+              "content": "[右下：带血的电源线]×２回",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end13_26",
+              "type": "choice",
+              "content": "[遗体]×２回",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end13_27",
+              "type": "choice",
+              "content": "[脸]×２回",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end13_28",
+              "type": "choice",
+              "content": "[脖颈]×２回",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end13_29",
+              "type": "choice",
+              "content": "[衣服]×２回",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end13_30",
+              "type": "choice",
+              "content": "结束调查 →OK",
+              "prefix": "→",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end13_31",
+              "type": "choice",
+              "content": "[桌子上的稿纸]",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end13_32",
+              "type": "choice",
+              "content": "[桌子上的书架]",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end13_33",
+              "type": "choice",
+              "content": "[桌子上的书架-高个书右侧第二本]",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end13_34",
+              "type": "note",
+              "content": "获得明信片",
+              "prefix": "※",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end13_35",
+              "type": "choice",
+              "content": "[书桌抽屉：左]",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end13_36",
+              "type": "choice",
+              "content": "[书桌抽屉：中央]",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end13_37",
+              "type": "choice",
+              "content": "[书桌抽屉：右]",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end13_38",
+              "type": "choice",
+              "content": "[左下：左书架抽屉]",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end13_39",
+              "type": "choice",
+              "content": "结束调查 →OK",
+              "prefix": "→",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end13_40",
+              "type": "choice",
+              "content": "独自行动",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end13_41",
+              "type": "choice",
+              "content": "前往仓敷",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end13_42",
+              "type": "choice",
+              "content": "如实回答",
+              "group": "４月１４日"
+            },
+            {
+              "id": "step_end13_43",
+              "type": "choice",
+              "content": "间宫心尔 →决定",
+              "prefix": "▼",
+              "group": "４月１６日"
+            },
+            {
+              "id": "step_end13_44",
+              "type": "choice",
+              "content": "眼睛",
+              "group": "４月１７日"
+            },
+            {
+              "id": "step_end13_45",
+              "type": "choice",
+              "content": "只是错觉",
+              "group": "４月１７日"
+            },
+            {
+              "id": "step_end13_46",
+              "type": "choice",
+              "content": "朽木文弥 →决定",
+              "prefix": "▼",
+              "group": "４月１７日"
+            },
+            {
+              "id": "step_end13_47",
+              "type": "choice",
+              "content": "朽木靖匡 →决定",
+              "prefix": "▼",
+              "group": "４月１７日"
+            },
+            {
+              "id": "step_end13_48",
+              "type": "choice",
+              "content": "村濑直己 →决定",
+              "prefix": "▼",
+              "group": "４月１７日"
+            },
+            {
+              "id": "step_end13_49",
+              "type": "choice",
+              "content": "西藤环 →决定",
+              "prefix": "▼",
+              "group": "４月１７日"
+            },
+            {
+              "id": "step_end13_51",
+              "type": "choice",
+              "content": "不扣动扳机",
+              "group": "４月１８日"
+            },
+            {
+              "id": "step_end13_52",
+              "type": "save",
+              "content": "SAVE 14",
+              "group": "４月１８日"
+            },
+            {
+              "id": "step_end13_53",
+              "type": "choice",
+              "content": "等到冬子回来",
+              "group": "４月１８日"
+            }
+          ]
+        },
+        {
+          "id": "ending_end14",
+          "name": "END14 瑠璃之鸟",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_end14_01",
+              "type": "load",
+              "content": "LOAD 14",
+              "group": "４月１８日"
+            },
+            {
+              "id": "step_end14_02",
+              "type": "choice",
+              "content": "去看画",
+              "group": "４月１８日"
+            }
+          ]
+        },
+        {
+          "id": "ending_1776064320981",
+          "name": "END15 和菜生产",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1776064423836",
+              "type": "note",
+              "content": "目前为止，主流程已经完成END1-END15的全部内容，END15和菜生产为后日谈，已自动衔接在END13和END14结尾，下面是2次END12作为回收cg的支流程"
+            }
+          ]
+        },
+        {
+          "id": "ending_1776064373552",
+          "name": "CG回收1",
+          "type": "normal",
+          "requirements": "本段流程中：收集夏目、步、缀子的好感度；收集初音的好感度达最大值并收集cg；收集紫的好感度达最大值并收集彩蛋cg；收集初音强吻秋五cg",
+          "steps": [
+            {
+              "id": "step_end12_001",
+              "type": "load",
+              "content": "LOAD 1",
+              "group": "３月５日"
+            },
+            {
+              "id": "step_end12_002",
+              "type": "choice",
+              "content": "叫初音",
+              "subfix": "初音+1",
+              "group": "３月５日"
+            },
+            {
+              "id": "step_end12_003",
+              "type": "choice",
+              "content": "西园唯",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "３月６日"
+            },
+            {
+              "id": "step_end12_004",
+              "type": "choice",
+              "content": "黑布",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "３月６日"
+            },
+            {
+              "id": "step_end12_005",
+              "type": "choice",
+              "content": "[嘴巴周围的红色液体]×２回",
+              "group": "３月７日"
+            },
+            {
+              "id": "step_end12_006",
+              "type": "choice",
+              "content": "[倒下的男人的胸口]×２回",
+              "group": "３月７日"
+            },
+            {
+              "id": "step_end12_007",
+              "type": "choice",
+              "content": "结束调查",
+              "prefix": "→",
+              "subfix": "OK",
+              "group": "３月７日"
+            },
+            {
+              "id": "step_end12_008",
+              "type": "choice",
+              "content": "是风景画吗？",
+              "group": "３月８日"
+            },
+            {
+              "id": "step_end12_009",
+              "type": "choice",
+              "content": "私立樱羽女学院",
+              "prefix": "●",
+              "group": "３月８日"
+            },
+            {
+              "id": "step_end12_010",
+              "type": "choice",
+              "content": "出声叫她",
+              "subfix": "紫+1",
+              "group": "３月８日"
+            },
+            {
+              "id": "step_end12_011",
+              "type": "choice",
+              "content": "高城医院",
+              "prefix": "●",
+              "group": "３月８日"
+            },
+            {
+              "id": "step_end12_012",
+              "type": "choice",
+              "content": "真麻烦",
+              "subfix": "夏目+1",
+              "group": "３月８日"
+            },
+            {
+              "id": "step_end12_013",
+              "type": "choice",
+              "content": "在家看书",
+              "subfix": "紫+1",
+              "group": "３月８日"
+            },
+            {
+              "id": "step_end12_014",
+              "type": "choice",
+              "content": "去找紫帮忙",
+              "subfix": "紫+1",
+              "group": "３月９日"
+            },
+            {
+              "id": "step_end12_015",
+              "type": "choice",
+              "content": "办公室",
+              "subfix": "步+1",
+              "group": "３月９日"
+            },
+            {
+              "id": "step_end12_016",
+              "type": "choice",
+              "content": "私立樱羽女学院",
+              "prefix": "●",
+              "subfix": "紫+1│缀子+1",
+              "group": "３月９日"
+            },
+            {
+              "id": "step_end12_017",
+              "type": "save",
+              "content": "SAVE 15",
+              "group": "３月９日"
+            },
+            {
+              "id": "step_end12_018",
+              "type": "choice",
+              "content": "月世界",
+              "prefix": "●",
+              "group": "３月９日"
+            },
+            {
+              "id": "step_end12_019",
+              "type": "choice",
+              "content": "让她赔偿",
+              "subfix": "初音+1",
+              "group": "３月９日"
+            },
+            {
+              "id": "step_end12_020",
+              "type": "choice",
+              "content": "没什么问题",
+              "group": "３月１０日"
+            },
+            {
+              "id": "step_end12_021",
+              "type": "choice",
+              "content": "设法蒙混过关",
+              "group": "３月１０日"
+            },
+            {
+              "id": "step_end12_022",
+              "type": "choice",
+              "content": "月世界",
+              "prefix": "●",
+              "group": "３月１０日"
+            },
+            {
+              "id": "step_end12_023",
+              "type": "choice",
+              "content": "上前帮忙",
+              "subfix": "初音+1",
+              "group": "３月１０日"
+            },
+            {
+              "id": "step_end12_024",
+              "type": "choice",
+              "content": "私立樱羽女学院",
+              "prefix": "●",
+              "group": "３月１０日"
+            },
+            {
+              "id": "step_end12_025",
+              "type": "choice",
+              "content": "询问",
+              "group": "３月１０日"
+            },
+            {
+              "id": "step_end12_026",
+              "type": "choice",
+              "content": "[女性的遗体]×２回",
+              "group": "３月１２日"
+            },
+            {
+              "id": "step_end12_027",
+              "type": "choice",
+              "content": "[上半身]×２回",
+              "group": "３月１２日"
+            },
+            {
+              "id": "step_end12_028",
+              "type": "choice",
+              "content": "[下半身]×２回",
+              "group": "３月１２日"
+            },
+            {
+              "id": "step_end12_029",
+              "type": "choice",
+              "content": "[黑布]",
+              "group": "３月１２日"
+            },
+            {
+              "id": "step_end12_030",
+              "type": "choice",
+              "content": "[脸]×２回",
+              "group": "３月１２日"
+            },
+            {
+              "id": "step_end12_031",
+              "type": "choice",
+              "content": "结束调查",
+              "prefix": "→",
+              "subfix": "OK",
+              "group": "３月１２日"
+            },
+            {
+              "id": "step_end12_032",
+              "type": "choice",
+              "content": "自己指定样本",
+              "group": "３月１２日"
+            },
+            {
+              "id": "step_end12_033",
+              "type": "choice",
+              "content": "朽木冬子",
+              "prefix": "▼",
+              "group": "３月１２日"
+            },
+            {
+              "id": "step_end12_034",
+              "type": "choice",
+              "content": "西园唯",
+              "prefix": "▼",
+              "group": "３月１２日"
+            },
+            {
+              "id": "step_end12_035",
+              "type": "choice",
+              "content": "四十宫缀子",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "３月１２日"
+            },
+            {
+              "id": "step_end12_036",
+              "type": "choice",
+              "content": "西园唯",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "３月１２日"
+            },
+            {
+              "id": "step_end12_037",
+              "type": "choice",
+              "content": "黑布",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "３月１２日"
+            },
+            {
+              "id": "step_end12_038",
+              "type": "choice",
+              "content": "黑色圣母",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "３月１２日"
+            },
+            {
+              "id": "step_end12_039",
+              "type": "choice",
+              "content": "私立樱羽女学院",
+              "prefix": "●",
+              "group": "３月１２日"
+            },
+            {
+              "id": "step_end12_040",
+              "type": "choice",
+              "content": "月世界",
+              "prefix": "●",
+              "group": "３月１２日"
+            },
+            {
+              "id": "step_end12_041",
+              "type": "choice",
+              "content": "帮忙送咖啡",
+              "subfix": "初音+1",
+              "group": "３月１２日"
+            },
+            {
+              "id": "step_end12_042",
+              "type": "choice",
+              "content": "芥川龙之介的『地狱变』",
+              "group": "３月１２日"
+            },
+            {
+              "id": "step_end12_043",
+              "type": "choice",
+              "content": "涌现的蛆虫",
+              "group": "３月１２日"
+            },
+            {
+              "id": "step_end12_044",
+              "type": "choice",
+              "content": "月世界",
+              "prefix": "●",
+              "group": "３月１３日"
+            },
+            {
+              "id": "step_end12_045",
+              "type": "choice",
+              "content": "同意",
+              "subfix": "初音+1",
+              "group": "３月１３日"
+            },
+            {
+              "id": "step_end12_046",
+              "type": "choice",
+              "content": "东京都美术馆",
+              "prefix": "●",
+              "group": "３月１３日"
+            },
+            {
+              "id": "step_end12_047",
+              "type": "choice",
+              "content": "月世界",
+              "prefix": "●",
+              "subfix": "初音+1",
+              "group": "３月１４日"
+            },
+            {
+              "id": "step_end12_048",
+              "type": "choice",
+              "content": "东京都美术馆",
+              "prefix": "●",
+              "group": "３月１４日"
+            },
+            {
+              "id": "step_end12_049",
+              "type": "choice",
+              "content": "询问佐伯主任",
+              "group": "３月１４日"
+            },
+            {
+              "id": "step_end12_050",
+              "type": "choice",
+              "content": "月世界",
+              "prefix": "●",
+              "subfix": "初音+1",
+              "group": "３月１５日"
+            },
+            {
+              "id": "step_end12_051",
+              "type": "choice",
+              "content": "新宿站前",
+              "prefix": "●",
+              "group": "３月１５日"
+            },
+            {
+              "id": "step_end12_052",
+              "type": "choice",
+              "content": "[女性的遗体]×３回",
+              "group": "３月１６日"
+            },
+            {
+              "id": "step_end12_053",
+              "type": "choice",
+              "content": "[上半身]",
+              "group": "３月１６日"
+            },
+            {
+              "id": "step_end12_054",
+              "type": "choice",
+              "content": "[足]",
+              "group": "３月１６日"
+            },
+            {
+              "id": "step_end12_055",
+              "type": "choice",
+              "content": "[头发]",
+              "group": "３月１６日"
+            },
+            {
+              "id": "step_end12_056",
+              "type": "choice",
+              "content": "[裙子]×２回",
+              "group": "３月１６日"
+            },
+            {
+              "id": "step_end12_057",
+              "type": "note",
+              "content": "获得什么上的纸片",
+              "prefix": "※",
+              "group": "３月１６日"
+            },
+            {
+              "id": "step_end12_058",
+              "type": "choice",
+              "content": "[口]×２回",
+              "group": "３月１６日"
+            },
+            {
+              "id": "step_end12_059",
+              "type": "choice",
+              "content": "结束调查",
+              "prefix": "→",
+              "subfix": "OK",
+              "group": "３月１６日"
+            },
+            {
+              "id": "step_end12_060",
+              "type": "choice",
+              "content": "[书架柜子右门]×２回",
+              "group": "３月１６日"
+            },
+            {
+              "id": "step_end12_061",
+              "type": "choice",
+              "content": "结束调查",
+              "prefix": "→",
+              "subfix": "OK",
+              "group": "３月１６日"
+            },
+            {
+              "id": "step_end12_062",
+              "type": "choice",
+              "content": "西园唯的照片",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "３月１６日"
+            },
+            {
+              "id": "step_end12_063",
+              "type": "choice",
+              "content": "西园唯",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "３月１６日"
+            },
+            {
+              "id": "step_end12_064",
+              "type": "choice",
+              "content": "日下达彦",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "３月１６日"
+            },
+            {
+              "id": "step_end12_065",
+              "type": "choice",
+              "content": "月世界",
+              "prefix": "●",
+              "group": "３月１６日"
+            },
+            {
+              "id": "step_end12_066",
+              "type": "choice",
+              "content": "我去找",
+              "subfix": "初音+1",
+              "group": "３月１６日"
+            },
+            {
+              "id": "step_end12_067",
+              "type": "choice",
+              "content": "新宿站前",
+              "prefix": "●",
+              "group": "３月１６日"
+            },
+            {
+              "id": "step_end12_068",
+              "type": "choice",
+              "content": "拥抱冬子",
+              "group": "３月１７日"
+            },
+            {
+              "id": "step_end12_069",
+              "type": "choice",
+              "content": "涅尼斯之蛋",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "３月１７日"
+            },
+            {
+              "id": "step_end12_070",
+              "type": "choice",
+              "content": "西园唯",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "３月１７日"
+            },
+            {
+              "id": "step_end12_071",
+              "type": "choice",
+              "content": "‘离教’成员",
+              "group": "３月１７日"
+            },
+            {
+              "id": "step_end12_072",
+              "type": "choice",
+              "content": "麦音组织",
+              "group": "３月１７日"
+            },
+            {
+              "id": "step_end12_073",
+              "type": "choice",
+              "content": "月岛织姫",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "３月１７日"
+            },
+            {
+              "id": "step_end12_074",
+              "type": "choice",
+              "content": "模仿‘涅尼斯之蛋’",
+              "group": "３月１７日"
+            },
+            {
+              "id": "step_end12_075",
+              "type": "choice",
+              "content": "日下达彦",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "３月１７日"
+            },
+            {
+              "id": "step_end12_076",
+              "type": "choice",
+              "content": "什么上的纸片",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "３月１７日"
+            },
+            {
+              "id": "step_end12_077",
+              "type": "choice",
+              "content": "去日下家询问",
+              "group": "３月１７日"
+            },
+            {
+              "id": "step_end12_082",
+              "type": "choice",
+              "content": "叫出租车",
+              "subfix": "选择 叫警车 收集CG（初音好感度达８）",
+              "group": "３月１７日"
+            },
+            {
+              "id": "step_end12_083",
+              "type": "choice",
+              "content": "[书架正中间的笔记本]",
+              "group": "３月１７日"
+            },
+            {
+              "id": "step_end12_084",
+              "type": "choice",
+              "content": "结束调查",
+              "prefix": "→",
+              "subfix": "OK",
+              "group": "３月１７日"
+            },
+            {
+              "id": "step_end12_085",
+              "type": "choice",
+              "content": "追踪日下",
+              "group": "３月１７日"
+            },
+            {
+              "id": "step_end12_086",
+              "type": "choice",
+              "content": "外面",
+              "group": "３月２６日"
+            },
+            {
+              "id": "step_end12_087",
+              "type": "choice",
+              "content": "月世界",
+              "prefix": "●",
+              "group": "３月２９日"
+            },
+            {
+              "id": "step_end12_088",
+              "type": "choice",
+              "content": "观察睡脸",
+              "subfix": "初音+1",
+              "group": "３月２９日"
+            },
+            {
+              "id": "step_end12_089",
+              "type": "choice",
+              "content": "时坂侦探事务所",
+              "prefix": "●",
+              "group": "３月２９日"
+            },
+            {
+              "id": "step_end12_090",
+              "type": "choice",
+              "content": "不打开",
+              "subfix": "紫+1",
+              "group": "３月２９日"
+            },
+            {
+              "id": "step_end12_091",
+              "type": "choice",
+              "content": "不干涉",
+              "group": "３月３０日"
+            },
+            {
+              "id": "step_end12_092",
+              "type": "choice",
+              "content": "离开",
+              "group": "３月３０日"
+            },
+            {
+              "id": "step_end12_093",
+              "type": "choice",
+              "content": "月世界",
+              "prefix": "●",
+              "group": "３月３０日"
+            },
+            {
+              "id": "step_end12_094",
+              "type": "choice",
+              "content": "收下",
+              "subfix": "初音+1",
+              "group": "３月３０日"
+            },
+            {
+              "id": "step_end12_095",
+              "type": "choice",
+              "content": "高城医院",
+              "prefix": "●",
+              "group": "３月３０日"
+            },
+            {
+              "id": "step_end12_096",
+              "type": "choice",
+              "content": "月世界",
+              "prefix": "●",
+              "subfix": "初音+1",
+              "group": "３月３１日"
+            },
+            {
+              "id": "step_end12_097",
+              "type": "note",
+              "content": "CG收集（初音好感度达10）",
+              "prefix": "※",
+              "group": "３月３１日"
+            },
+            {
+              "id": "step_end12_106",
+              "type": "choice",
+              "content": "去帮紫",
+              "subfix": "紫+1",
+              "group": "４月１日"
+            },
+            {
+              "id": "step_end12_107",
+              "type": "choice",
+              "content": "月世界",
+              "prefix": "●",
+              "group": "４月１日"
+            },
+            {
+              "id": "step_end12_108",
+              "type": "choice",
+              "content": "尝尝",
+              "subfix": "初音+1",
+              "group": "４月１日"
+            },
+            {
+              "id": "step_end12_109",
+              "type": "choice",
+              "content": "井之头公园",
+              "prefix": "●",
+              "subfix": "紫+1",
+              "group": "４月１日"
+            },
+            {
+              "id": "step_end12_110",
+              "type": "choice",
+              "content": "什么都不问",
+              "group": "４月２日"
+            },
+            {
+              "id": "step_end12_111",
+              "type": "choice",
+              "content": "月世界",
+              "prefix": "●",
+              "group": "４月２日"
+            },
+            {
+              "id": "step_end12_112",
+              "type": "choice",
+              "content": "朽木病理学研究所",
+              "prefix": "●",
+              "group": "４月２日"
+            },
+            {
+              "id": "step_end12_113",
+              "type": "choice",
+              "content": "放任不理",
+              "group": "４月４日"
+            },
+            {
+              "id": "step_end12_114",
+              "type": "choice",
+              "content": "尝尝",
+              "group": "４月４日"
+            },
+            {
+              "id": "step_end12_115",
+              "type": "choice",
+              "content": "朽木病理学研究所",
+              "prefix": "●",
+              "group": "４月４日"
+            },
+            {
+              "id": "step_end12_116",
+              "type": "choice",
+              "content": "月世界",
+              "prefix": "●",
+              "group": "４月４日"
+            },
+            {
+              "id": "step_end12_117",
+              "type": "choice",
+              "content": "月世界",
+              "prefix": "●",
+              "group": "４月５日"
+            },
+            {
+              "id": "step_end12_118",
+              "type": "choice",
+              "content": "好的",
+              "subfix": "初音+1",
+              "group": "４月５日"
+            },
+            {
+              "id": "step_end12_119",
+              "type": "choice",
+              "content": "私立樱羽女学院",
+              "prefix": "●",
+              "group": "４月５日"
+            },
+            {
+              "id": "step_end12_120",
+              "type": "choice",
+              "content": "私立樱羽女学院",
+              "prefix": "●",
+              "group": "４月６日"
+            },
+            {
+              "id": "step_end12_121",
+              "type": "choice",
+              "content": "井之头公园",
+              "prefix": "●",
+              "group": "４月６日"
+            },
+            {
+              "id": "step_end12_122",
+              "type": "choice",
+              "content": "新宿站前",
+              "prefix": "●",
+              "group": "４月６日"
+            },
+            {
+              "id": "step_end12_123",
+              "type": "choice",
+              "content": "高城侦探事务所",
+              "prefix": "●",
+              "group": "４月６日"
+            },
+            {
+              "id": "step_end12_124",
+              "type": "choice",
+              "content": "井之头公园",
+              "prefix": "●",
+              "group": "４月７日"
+            },
+            {
+              "id": "step_end12_125",
+              "type": "choice",
+              "content": "月世界",
+              "prefix": "●",
+              "group": "４月７日"
+            },
+            {
+              "id": "step_end12_126",
+              "type": "choice",
+              "content": "高城医院",
+              "prefix": "●",
+              "group": "４月８日"
+            },
+            {
+              "id": "step_end12_127",
+              "type": "choice",
+              "content": "新宿站前",
+              "prefix": "●",
+              "group": "４月８日"
+            },
+            {
+              "id": "step_end12_128",
+              "type": "choice",
+              "content": "去月世界",
+              "group": "４月８日"
+            },
+            {
+              "id": "step_end12_129",
+              "type": "choice",
+              "content": "无关",
+              "group": "４月１０日"
+            },
+            {
+              "id": "step_end12_130",
+              "type": "choice",
+              "content": "抛尸手法",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "４月１０日"
+            },
+            {
+              "id": "step_end12_131",
+              "type": "choice",
+              "content": "月世界",
+              "prefix": "●",
+              "subfix": "初音+1",
+              "group": "４月１０日"
+            },
+            {
+              "id": "step_end12_132",
+              "type": "choice",
+              "content": "东京都美术馆",
+              "prefix": "●",
+              "group": "４月１０日"
+            },
+            {
+              "id": "step_end12_133",
+              "type": "choice",
+              "content": "美术室",
+              "group": "４月１１日"
+            },
+            {
+              "id": "step_end12_134",
+              "type": "choice",
+              "content": "教室",
+              "group": "４月１１日"
+            },
+            {
+              "id": "step_end12_135",
+              "type": "choice",
+              "content": "保健室",
+              "group": "４月１１日"
+            },
+            {
+              "id": "step_end12_136",
+              "type": "choice",
+              "content": "操场",
+              "group": "４月１１日"
+            },
+            {
+              "id": "step_end12_137",
+              "type": "choice",
+              "content": "[桌子上的小书架]",
+              "group": "４月１２日"
+            },
+            {
+              "id": "step_end12_138",
+              "type": "choice",
+              "content": "[大书架]×3 回",
+              "group": "４月１２日"
+            },
+            {
+              "id": "step_end12_139",
+              "type": "note",
+              "content": "获得葛城心的照片",
+              "prefix": "※",
+              "group": "４月１２日"
+            },
+            {
+              "id": "step_end12_140",
+              "type": "choice",
+              "content": "结束调查",
+              "prefix": "→",
+              "subfix": "OK",
+              "group": "４月１２日"
+            },
+            {
+              "id": "step_end12_141",
+              "type": "choice",
+              "content": "都是同凶犯罪",
+              "group": "４月１２日"
+            },
+            {
+              "id": "step_end12_142",
+              "type": "choice",
+              "content": "被遗弃的只有四肢",
+              "group": "４月１２日"
+            },
+            {
+              "id": "step_end12_143",
+              "type": "choice",
+              "content": "合理",
+              "group": "４月１２日"
+            },
+            {
+              "id": "step_end12_144",
+              "type": "choice",
+              "content": "间宫心尔",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "４月１２日"
+            },
+            {
+              "id": "step_end12_145",
+              "type": "choice",
+              "content": "葛城心的照片",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "４月１２日"
+            },
+            {
+              "id": "step_end12_146",
+              "type": "choice",
+              "content": "间宫心像的工作室",
+              "group": "４月１２日"
+            },
+            {
+              "id": "step_end12_147",
+              "type": "choice",
+              "content": "朽木文弥",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end12_148",
+              "type": "choice",
+              "content": "朽木靖匡",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end12_149",
+              "type": "choice",
+              "content": "村濑直己",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end12_150",
+              "type": "choice",
+              "content": "山之内小春",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end12_151",
+              "type": "choice",
+              "content": "西藤环",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end12_152",
+              "type": "choice",
+              "content": "布草房",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end12_153",
+              "type": "choice",
+              "content": "村濑直己",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end12_154",
+              "type": "choice",
+              "content": "朱崎宁宁",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end12_155",
+              "type": "choice",
+              "content": "[右下：带血的刀]×２回",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end12_156",
+              "type": "choice",
+              "content": "[右下：带血的电源线]×２回",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end12_157",
+              "type": "choice",
+              "content": "[遗体]×２回",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end12_158",
+              "type": "choice",
+              "content": "[脸]×２回",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end12_159",
+              "type": "choice",
+              "content": "[脖颈]×２回",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end12_160",
+              "type": "choice",
+              "content": "[衣服]×２回",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end12_161",
+              "type": "choice",
+              "content": "结束调查",
+              "prefix": "→",
+              "subfix": "OK",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end12_162",
+              "type": "choice",
+              "content": "[桌子上的稿纸]",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end12_163",
+              "type": "choice",
+              "content": "[桌子上的书架]",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end12_164",
+              "type": "choice",
+              "content": "[桌子上的书架-高个书右侧第二本]",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end12_165",
+              "type": "note",
+              "content": "获得明信片",
+              "prefix": "※",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end12_166",
+              "type": "choice",
+              "content": "[书桌抽屉：左]",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end12_167",
+              "type": "choice",
+              "content": "[书桌抽屉：中央]",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end12_168",
+              "type": "choice",
+              "content": "[书桌抽屉：右]",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end12_169",
+              "type": "choice",
+              "content": "[左下：左书架抽屉]",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end12_170",
+              "type": "choice",
+              "content": "结束调查",
+              "prefix": "→",
+              "subfix": "OK",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end12_171",
+              "type": "choice",
+              "content": "独自行动",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end12_172",
+              "type": "choice",
+              "content": "前往仓敷",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end12_173",
+              "type": "choice",
+              "content": "如实回答",
+              "group": "４月１４日"
+            },
+            {
+              "id": "step_end12_174",
+              "type": "choice",
+              "content": "间宫心尔",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "４月１６日"
+            },
+            {
+              "id": "step_end12_175",
+              "type": "choice",
+              "content": "眼睛",
+              "group": "４月１７日"
+            },
+            {
+              "id": "step_end12_176",
+              "type": "choice",
+              "content": "双胞胎",
+              "group": "４月１７日"
+            },
+            {
+              "id": "step_end12_177",
+              "type": "choice",
+              "content": "朽木文弥",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "４月１７日"
+            },
+            {
+              "id": "step_end12_178",
+              "type": "choice",
+              "content": "朽木靖匡",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "４月１７日"
+            },
+            {
+              "id": "step_end12_179",
+              "type": "choice",
+              "content": "村濑直己",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "４月１７日"
+            },
+            {
+              "id": "step_end12_180",
+              "type": "choice",
+              "content": "西藤环",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "４月１７日"
+            },
+            {
+              "id": "step_end12_182",
+              "type": "choice",
+              "content": "不扣动扳机",
+              "group": "４月１８日"
+            },
+            {
+              "id": "step_end12_183",
+              "type": "note",
+              "content": "CG收集（紫好感度达最大值）",
+              "prefix": "※",
+              "group": "４月１８日"
+            },
+            {
+              "id": "step_end12_184",
+              "type": "note",
+              "content": "CG收集（初音好感度达最大值）",
+              "prefix": "※",
+              "group": "４月１８日"
+            }
+          ]
+        },
+        {
+          "id": "ending_1776064490173",
+          "name": "CG回收2",
+          "type": "normal",
+          "requirements": "本段流程中：收集步的好感度达最大值并收集彩蛋cg；收集缀子的好感度达最大值并收集cg；收集夏目的好感度达最大值并收集cg",
+          "steps": [
+            {
+              "id": "step_end12_001_1",
+              "type": "load",
+              "content": "LOAD 15",
+              "group": "３月９日"
+            },
+            {
+              "id": "step_end12_002_1",
+              "type": "choice",
+              "content": "高城医院",
+              "prefix": "●",
+              "subfix": "夏目+1",
+              "group": "３月９日"
+            },
+            {
+              "id": "step_end12_003_1",
+              "type": "note",
+              "content": "CG收集（夏目好感度达1）",
+              "prefix": "※",
+              "group": "３月９日"
+            },
+            {
+              "id": "step_end12_005_1",
+              "type": "choice",
+              "content": "嘴里/脸上",
+              "group": "３月９日"
+            },
+            {
+              "id": "step_end12_008_1",
+              "type": "choice",
+              "content": "看情况吧",
+              "group": "３月１０日"
+            },
+            {
+              "id": "step_end12_009_1",
+              "type": "choice",
+              "content": "设法蒙混过关",
+              "group": "３月１０日"
+            },
+            {
+              "id": "step_end12_010_1",
+              "type": "choice",
+              "content": "高城医院",
+              "prefix": "●",
+              "group": "３月１０日"
+            },
+            {
+              "id": "step_end12_011_1",
+              "type": "choice",
+              "content": "虽然害怕但还是想听",
+              "subfix": "夏目+1",
+              "group": "３月１０日"
+            },
+            {
+              "id": "step_end12_012_1",
+              "type": "choice",
+              "content": "东京都美术馆",
+              "prefix": "●",
+              "group": "３月１０日"
+            },
+            {
+              "id": "step_end12_013_1",
+              "type": "choice",
+              "content": "[女性的遗体]×２回",
+              "group": "３月１２日"
+            },
+            {
+              "id": "step_end12_014_1",
+              "type": "choice",
+              "content": "[上半身]×２回",
+              "group": "３月１２日"
+            },
+            {
+              "id": "step_end12_015_1",
+              "type": "choice",
+              "content": "[下半身]×２回",
+              "group": "３月１２日"
+            },
+            {
+              "id": "step_end12_016_1",
+              "type": "choice",
+              "content": "[黑布]",
+              "group": "３月１２日"
+            },
+            {
+              "id": "step_end12_017_1",
+              "type": "choice",
+              "content": "[脸]×２回",
+              "group": "３月１２日"
+            },
+            {
+              "id": "step_end12_018_1",
+              "type": "choice",
+              "content": "结束调查",
+              "prefix": "→",
+              "subfix": "OK",
+              "group": "３月１２日"
+            },
+            {
+              "id": "step_end12_019_1",
+              "type": "choice",
+              "content": "自己指定样本",
+              "group": "３月１２日"
+            },
+            {
+              "id": "step_end12_020_1",
+              "type": "choice",
+              "content": "朽木冬子",
+              "prefix": "▼",
+              "group": "３月１２日"
+            },
+            {
+              "id": "step_end12_021_1",
+              "type": "choice",
+              "content": "西园唯",
+              "prefix": "▼",
+              "group": "３月１２日"
+            },
+            {
+              "id": "step_end12_022_1",
+              "type": "choice",
+              "content": "四十宫缀子",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "３月１２日"
+            },
+            {
+              "id": "step_end12_023_1",
+              "type": "choice",
+              "content": "西园唯",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "３月１２日"
+            },
+            {
+              "id": "step_end12_024_1",
+              "type": "choice",
+              "content": "黑布",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "３月１２日"
+            },
+            {
+              "id": "step_end12_025_1",
+              "type": "choice",
+              "content": "黑色圣母",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "３月１２日"
+            },
+            {
+              "id": "step_end12_026_1",
+              "type": "choice",
+              "content": "私立樱羽女学院",
+              "prefix": "●",
+              "subfix": "缀子+1",
+              "group": "３月１２日"
+            },
+            {
+              "id": "step_end12_027_1",
+              "type": "choice",
+              "content": "高城医院",
+              "prefix": "●",
+              "group": "３月１２日"
+            },
+            {
+              "id": "step_end12_028_1",
+              "type": "choice",
+              "content": "歌德的『浮士德』",
+              "group": "３月１２日"
+            },
+            {
+              "id": "step_end12_029_1",
+              "type": "choice",
+              "content": "涌现的蛆虫",
+              "group": "３月１２日"
+            },
+            {
+              "id": "step_end12_030_1",
+              "type": "choice",
+              "content": "高城医院",
+              "prefix": "●",
+              "subfix": "夏目+1",
+              "group": "３月１３日"
+            },
+            {
+              "id": "step_end12_031_1",
+              "type": "choice",
+              "content": "东京都美术馆",
+              "prefix": "●",
+              "group": "３月１３日"
+            },
+            {
+              "id": "step_end12_032_1",
+              "type": "choice",
+              "content": "高城医院",
+              "prefix": "●",
+              "group": "３月１４日"
+            },
+            {
+              "id": "step_end12_033_1",
+              "type": "choice",
+              "content": "进去",
+              "subfix": "夏目+1",
+              "group": "３月１４日"
+            },
+            {
+              "id": "step_end12_034_1",
+              "type": "choice",
+              "content": "东京都美术馆",
+              "prefix": "●",
+              "group": "３月１４日"
+            },
+            {
+              "id": "step_end12_035_1",
+              "type": "choice",
+              "content": "拜托缀子",
+              "subfix": "缀子+1",
+              "group": "３月１４日"
+            },
+            {
+              "id": "step_end12_036_1",
+              "type": "choice",
+              "content": "高城医院",
+              "prefix": "●",
+              "subfix": "夏目+1",
+              "group": "３月１５日"
+            },
+            {
+              "id": "step_end12_037_1",
+              "type": "choice",
+              "content": "高城侦探事务所",
+              "prefix": "●",
+              "group": "３月１５日"
+            },
+            {
+              "id": "step_end12_038_1",
+              "type": "choice",
+              "content": "[女性的遗体]×３回",
+              "group": "３月１６日"
+            },
+            {
+              "id": "step_end12_039_1",
+              "type": "choice",
+              "content": "[上半身]",
+              "group": "３月１６日"
+            },
+            {
+              "id": "step_end12_040_1",
+              "type": "choice",
+              "content": "[足]",
+              "group": "３月１６日"
+            },
+            {
+              "id": "step_end12_041_1",
+              "type": "choice",
+              "content": "[头发]",
+              "group": "３月１６日"
+            },
+            {
+              "id": "step_end12_042_1",
+              "type": "choice",
+              "content": "[裙子]×２回",
+              "group": "３月１６日"
+            },
+            {
+              "id": "step_end12_043_1",
+              "type": "note",
+              "content": "获得什么上的纸片",
+              "prefix": "※",
+              "group": "３月１６日"
+            },
+            {
+              "id": "step_end12_044_1",
+              "type": "choice",
+              "content": "[口]×２回",
+              "group": "３月１６日"
+            },
+            {
+              "id": "step_end12_045_1",
+              "type": "choice",
+              "content": "结束调查",
+              "prefix": "→",
+              "subfix": "OK",
+              "group": "３月１６日"
+            },
+            {
+              "id": "step_end12_046_1",
+              "type": "choice",
+              "content": "[书架柜子右门]×２回",
+              "group": "３月１６日"
+            },
+            {
+              "id": "step_end12_047_1",
+              "type": "choice",
+              "content": "结束调查",
+              "prefix": "→",
+              "subfix": "OK",
+              "group": "３月１６日"
+            },
+            {
+              "id": "step_end12_048_1",
+              "type": "choice",
+              "content": "西园唯的照片",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "３月１６日"
+            },
+            {
+              "id": "step_end12_049_1",
+              "type": "choice",
+              "content": "西园唯",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "３月１６日"
+            },
+            {
+              "id": "step_end12_050_1",
+              "type": "choice",
+              "content": "日下达彦",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "３月１６日"
+            },
+            {
+              "id": "step_end12_051_1",
+              "type": "choice",
+              "content": "高城医院",
+              "prefix": "●",
+              "subfix": "夏目+1",
+              "group": "３月１６日"
+            },
+            {
+              "id": "step_end12_052_1",
+              "type": "choice",
+              "content": "井之头公园",
+              "prefix": "●",
+              "subfix": "缀子+1",
+              "group": "３月１６日"
+            },
+            {
+              "id": "step_end12_053_1",
+              "type": "choice",
+              "content": "拥抱冬子",
+              "group": "３月１７日"
+            },
+            {
+              "id": "step_end12_054_1",
+              "type": "choice",
+              "content": "涅尼斯之蛋",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "３月１７日"
+            },
+            {
+              "id": "step_end12_055_1",
+              "type": "choice",
+              "content": "西园唯",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "３月１７日"
+            },
+            {
+              "id": "step_end12_056_1",
+              "type": "choice",
+              "content": "‘离教’成员",
+              "group": "３月１７日"
+            },
+            {
+              "id": "step_end12_057_1",
+              "type": "choice",
+              "content": "麦音组织",
+              "group": "３月１７日"
+            },
+            {
+              "id": "step_end12_058_1",
+              "type": "choice",
+              "content": "月岛织姫",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "３月１７日"
+            },
+            {
+              "id": "step_end12_059_1",
+              "type": "choice",
+              "content": "模仿‘涅尼斯之蛋’",
+              "group": "３月１７日"
+            },
+            {
+              "id": "step_end12_060_1",
+              "type": "choice",
+              "content": "日下达彦",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "３月１７日"
+            },
+            {
+              "id": "step_end12_061_1",
+              "type": "choice",
+              "content": "什么上的纸片",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "３月１７日"
+            },
+            {
+              "id": "step_end12_062_1",
+              "type": "choice",
+              "content": "去日下家询问",
+              "group": "３月１７日"
+            },
+            {
+              "id": "step_end12_063_1",
+              "type": "choice",
+              "content": "叫出租车",
+              "group": "３月１７日"
+            },
+            {
+              "id": "step_end12_064_1",
+              "type": "choice",
+              "content": "[书架正中间的笔记本]",
+              "group": "３月１７日"
+            },
+            {
+              "id": "step_end12_065_1",
+              "type": "choice",
+              "content": "结束调查",
+              "prefix": "→",
+              "subfix": "OK",
+              "group": "３月１７日"
+            },
+            {
+              "id": "step_end12_066_1",
+              "type": "choice",
+              "content": "追踪日下",
+              "group": "３月１７日"
+            },
+            {
+              "id": "step_end12_067_1",
+              "type": "choice",
+              "content": "射在外面",
+              "group": "３月２６日"
+            },
+            {
+              "id": "step_end12_068_1",
+              "type": "choice",
+              "content": "井之头公园",
+              "prefix": "●",
+              "subfix": "缀子+1",
+              "group": "３月２９日"
+            },
+            {
+              "id": "step_end12_069_1",
+              "type": "choice",
+              "content": "高城医院",
+              "prefix": "●",
+              "group": "３月２９日"
+            },
+            {
+              "id": "step_end12_070_1",
+              "type": "choice",
+              "content": "不干涉",
+              "group": "３月３０日"
+            },
+            {
+              "id": "step_end12_071_1",
+              "type": "choice",
+              "content": "离开",
+              "group": "３月３０日"
+            },
+            {
+              "id": "step_end12_072_1",
+              "type": "choice",
+              "content": "新宿站前",
+              "prefix": "●",
+              "subfix": "缀子+1",
+              "group": "３月３０日"
+            },
+            {
+              "id": "step_end12_073_1",
+              "type": "choice",
+              "content": "高城医院",
+              "prefix": "●",
+              "group": "３月３０日"
+            },
+            {
+              "id": "step_end12_074_1",
+              "type": "choice",
+              "content": "新宿站前",
+              "prefix": "●",
+              "subfix": "步+1",
+              "group": "３月３１日"
+            },
+            {
+              "id": "step_end12_075_1",
+              "type": "choice",
+              "content": "东京都美术馆",
+              "prefix": "●",
+              "group": "３月３１日"
+            },
+            {
+              "id": "step_end12_076_1",
+              "type": "choice",
+              "content": "去帮缀子",
+              "subfix": "缀子+1",
+              "group": "４月１日"
+            },
+            {
+              "id": "step_end12_077_1",
+              "type": "choice",
+              "content": "私立樱羽女学院",
+              "prefix": "●",
+              "subfix": "缀子+1",
+              "group": "４月１日"
+            },
+            {
+              "id": "step_end12_078",
+              "type": "choice",
+              "content": "高城医院",
+              "prefix": "●",
+              "group": "４月１日"
+            },
+            {
+              "id": "step_end12_079",
+              "type": "choice",
+              "content": "什么都不问",
+              "group": "４月２日"
+            },
+            {
+              "id": "step_end12_080",
+              "type": "choice",
+              "content": "高城医院",
+              "prefix": "●",
+              "subfix": "夏目+1",
+              "group": "４月２日"
+            },
+            {
+              "id": "step_end12_081",
+              "type": "choice",
+              "content": "新宿站前",
+              "prefix": "●",
+              "group": "４月２日"
+            },
+            {
+              "id": "step_end12_082_1",
+              "type": "note",
+              "content": "CG收集（缀子好感度达最大值）",
+              "prefix": "※",
+              "group": "４月３日"
+            },
+            {
+              "id": "step_end12_083_1",
+              "type": "choice",
+              "content": "拥抱缀子",
+              "group": "４月３日"
+            },
+            {
+              "id": "step_end12_085_1",
+              "type": "choice",
+              "content": "让她躺到地上/坐到沙发上",
+              "group": "４月３日"
+            },
+            {
+              "id": "step_end12_088_1",
+              "type": "choice",
+              "content": "放任不理",
+              "group": "４月４日"
+            },
+            {
+              "id": "step_end12_089_1",
+              "type": "choice",
+              "content": "拒绝",
+              "group": "４月４日"
+            },
+            {
+              "id": "step_end12_090_1",
+              "type": "choice",
+              "content": "高城医院",
+              "prefix": "●",
+              "subfix": "夏目+1",
+              "group": "４月４日"
+            },
+            {
+              "id": "step_end12_091_1",
+              "type": "choice",
+              "content": "私立樱羽女学院",
+              "prefix": "●",
+              "group": "４月４日"
+            },
+            {
+              "id": "step_end12_092_1",
+              "type": "choice",
+              "content": "高城医院",
+              "prefix": "●",
+              "group": "４月５日"
+            },
+            {
+              "id": "step_end12_093_1",
+              "type": "choice",
+              "content": "朽木病理学研究所",
+              "prefix": "●",
+              "group": "４月５日"
+            },
+            {
+              "id": "step_end12_094_1",
+              "type": "choice",
+              "content": "私立樱羽女学院",
+              "prefix": "●",
+              "group": "４月６日"
+            },
+            {
+              "id": "step_end12_095_1",
+              "type": "choice",
+              "content": "井之头公园",
+              "prefix": "●",
+              "group": "４月６日"
+            },
+            {
+              "id": "step_end12_096_1",
+              "type": "choice",
+              "content": "新宿站前",
+              "prefix": "●",
+              "group": "４月６日"
+            },
+            {
+              "id": "step_end12_097_1",
+              "type": "choice",
+              "content": "高城侦探事务所",
+              "prefix": "●",
+              "group": "４月６日"
+            },
+            {
+              "id": "step_end12_098",
+              "type": "choice",
+              "content": "高城医院",
+              "prefix": "●",
+              "subfix": "夏目+1",
+              "group": "４月７日"
+            },
+            {
+              "id": "step_end12_099",
+              "type": "choice",
+              "content": "新宿站前",
+              "prefix": "●",
+              "subfix": "步+1",
+              "group": "４月７日"
+            },
+            {
+              "id": "step_end12_100",
+              "type": "choice",
+              "content": "高城医院",
+              "prefix": "●",
+              "subfix": "夏目+1",
+              "group": "４月８日"
+            },
+            {
+              "id": "step_end12_101",
+              "type": "choice",
+              "content": "上野站",
+              "prefix": "●",
+              "group": "４月８日"
+            },
+            {
+              "id": "step_end12_102",
+              "type": "choice",
+              "content": "去井之头公园",
+              "group": "４月８日"
+            },
+            {
+              "id": "step_end12_103",
+              "type": "choice",
+              "content": "有关",
+              "group": "４月１０日"
+            },
+            {
+              "id": "step_end12_104",
+              "type": "choice",
+              "content": "案件的受害者",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "４月１０日"
+            },
+            {
+              "id": "step_end12_105",
+              "type": "choice",
+              "content": "案件的遗体",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "４月１０日"
+            },
+            {
+              "id": "step_end12_106_1",
+              "type": "choice",
+              "content": "高城医院",
+              "prefix": "●",
+              "subfix": "夏目+1",
+              "group": "４月１０日"
+            },
+            {
+              "id": "step_end12_107_1",
+              "type": "choice",
+              "content": "东京都美术馆",
+              "prefix": "●",
+              "group": "４月１０日"
+            },
+            {
+              "id": "step_end12_108_1",
+              "type": "choice",
+              "content": "美术室",
+              "group": "４月１１日"
+            },
+            {
+              "id": "step_end12_109_1",
+              "type": "choice",
+              "content": "教室",
+              "group": "４月１１日"
+            },
+            {
+              "id": "step_end12_110_1",
+              "type": "choice",
+              "content": "保健室",
+              "group": "４月１１日"
+            },
+            {
+              "id": "step_end12_111_1",
+              "type": "choice",
+              "content": "操场",
+              "group": "４月１１日"
+            },
+            {
+              "id": "step_end12_112_1",
+              "type": "choice",
+              "content": "[桌子上的小书架]",
+              "group": "４月１２日"
+            },
+            {
+              "id": "step_end12_113_1",
+              "type": "choice",
+              "content": "[大书架]×3 回",
+              "group": "４月１２日"
+            },
+            {
+              "id": "step_end12_114_1",
+              "type": "note",
+              "content": "获得葛城心的照片",
+              "prefix": "※",
+              "group": "４月１２日"
+            },
+            {
+              "id": "step_end12_115_1",
+              "type": "choice",
+              "content": "结束调查",
+              "prefix": "→",
+              "subfix": "OK",
+              "group": "４月１２日"
+            },
+            {
+              "id": "step_end12_116_1",
+              "type": "choice",
+              "content": "都是同凶犯罪",
+              "group": "４月１２日"
+            },
+            {
+              "id": "step_end12_117_1",
+              "type": "choice",
+              "content": "被遗弃的只有四肢",
+              "group": "４月１２日"
+            },
+            {
+              "id": "step_end12_118_1",
+              "type": "choice",
+              "content": "合理",
+              "group": "４月１２日"
+            },
+            {
+              "id": "step_end12_119_1",
+              "type": "choice",
+              "content": "间宫心尔",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "４月１２日"
+            },
+            {
+              "id": "step_end12_120_1",
+              "type": "choice",
+              "content": "葛城心的照片",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "４月１２日"
+            },
+            {
+              "id": "step_end12_121_1",
+              "type": "choice",
+              "content": "间宫心像的工作室",
+              "group": "４月１２日"
+            },
+            {
+              "id": "step_end12_122_1",
+              "type": "choice",
+              "content": "朽木文弥",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end12_123_1",
+              "type": "choice",
+              "content": "朽木靖匡",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end12_124_1",
+              "type": "choice",
+              "content": "村濑直己",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end12_125_1",
+              "type": "choice",
+              "content": "山之内小春",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end12_126_1",
+              "type": "choice",
+              "content": "西藤环",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end12_127_1",
+              "type": "choice",
+              "content": "布草房",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end12_128_1",
+              "type": "choice",
+              "content": "村濑直己",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end12_129_1",
+              "type": "choice",
+              "content": "朱崎宁宁",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end12_130_1",
+              "type": "choice",
+              "content": "[右下：带血的刀]×２回",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end12_131_1",
+              "type": "choice",
+              "content": "[右下：带血的电源线]×２回",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end12_132_1",
+              "type": "choice",
+              "content": "[遗体]×２回",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end12_133_1",
+              "type": "choice",
+              "content": "[脸]×２回",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end12_134_1",
+              "type": "choice",
+              "content": "[脖颈]×２回",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end12_135_1",
+              "type": "choice",
+              "content": "[衣服]×２回",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end12_136_1",
+              "type": "choice",
+              "content": "结束调查",
+              "prefix": "→",
+              "subfix": "OK",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end12_137_1",
+              "type": "choice",
+              "content": "[桌子上的稿纸]",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end12_138_1",
+              "type": "choice",
+              "content": "[桌子上的书架]",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end12_139_1",
+              "type": "choice",
+              "content": "[桌子上的书架-高个书右侧第二本]",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end12_140_1",
+              "type": "note",
+              "content": "获得明信片",
+              "prefix": "※",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end12_141_1",
+              "type": "choice",
+              "content": "[书桌抽屉：左]",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end12_142_1",
+              "type": "choice",
+              "content": "[书桌抽屉：中央]",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end12_143_1",
+              "type": "choice",
+              "content": "[书桌抽屉：右]",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end12_144_1",
+              "type": "choice",
+              "content": "[左下：左书架抽屉]",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end12_145_1",
+              "type": "choice",
+              "content": "结束调查",
+              "prefix": "→",
+              "subfix": "OK",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end12_146_1",
+              "type": "choice",
+              "content": "独自行动",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end12_147_1",
+              "type": "choice",
+              "content": "前往仓敷",
+              "group": "４月１３日"
+            },
+            {
+              "id": "step_end12_148_1",
+              "type": "choice",
+              "content": "如实回答",
+              "group": "４月１４日"
+            },
+            {
+              "id": "step_end12_149_1",
+              "type": "choice",
+              "content": "间宫心尔",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "４月１６日"
+            },
+            {
+              "id": "step_end12_150_1",
+              "type": "choice",
+              "content": "眼睛",
+              "group": "４月１７日"
+            },
+            {
+              "id": "step_end12_151_1",
+              "type": "choice",
+              "content": "姐妹",
+              "group": "４月１７日"
+            },
+            {
+              "id": "step_end12_152_1",
+              "type": "choice",
+              "content": "朽木文弥",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "４月１７日"
+            },
+            {
+              "id": "step_end12_153_1",
+              "type": "choice",
+              "content": "朽木靖匡",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "４月１７日"
+            },
+            {
+              "id": "step_end12_154_1",
+              "type": "choice",
+              "content": "村濑直己",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "４月１７日"
+            },
+            {
+              "id": "step_end12_155_1",
+              "type": "choice",
+              "content": "西藤环",
+              "prefix": "▼",
+              "subfix": "决定",
+              "group": "４月１７日"
+            },
+            {
+              "id": "step_end12_157_1",
+              "type": "choice",
+              "content": "不扣动扳机",
+              "group": "４月１８日"
+            },
+            {
+              "id": "step_end12_158_1",
+              "type": "note",
+              "content": "CG收集（夏目好感度达最大值）",
+              "prefix": "※",
+              "group": "４月１８日"
+            },
+            {
+              "id": "step_end12_159_1",
+              "type": "note",
+              "content": "CG收集（步好感度达最大值）",
+              "prefix": "※",
+              "group": "４月１８日"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

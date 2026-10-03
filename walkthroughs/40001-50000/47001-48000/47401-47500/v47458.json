@@ -1,0 +1,223 @@
+{
+  "vid": "v47458",
+  "name": {
+    "zh-cn": "创造世界的空想理论",
+    "ja-jp": "はじめるセカイの理想論 -goodbye world index-",
+    "ja-Latn": "hajimeru-sekai-no-risouron"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-15",
+  "routes": [
+    {
+      "id": "route_game_guide",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_common",
+          "name": "赫尔米莉亚 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_common_01",
+              "type": "choice",
+              "content": "保密"
+            },
+            {
+              "id": "step_common_02",
+              "type": "choice",
+              "content": "拒绝"
+            },
+            {
+              "id": "step_common_03",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_common_04",
+              "type": "choice",
+              "content": "去赫尔米莉亚的房间"
+            },
+            {
+              "id": "step_common_05",
+              "type": "choice",
+              "content": "还是不强求了"
+            },
+            {
+              "id": "step_common_06",
+              "type": "note",
+              "content": "滤镜已被打破"
+            },
+            {
+              "id": "step_common_07",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_hermilia_01",
+              "type": "choice",
+              "content": "赫尔米莉亚"
+            }
+          ]
+        },
+        {
+          "id": "ending_daisy",
+          "name": "雏菊 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_daisy_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_daisy_02",
+              "type": "choice",
+              "content": "雏菊"
+            }
+          ]
+        },
+        {
+          "id": "ending_haruka",
+          "name": "遥 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_haruka_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_haruka_02",
+              "type": "choice",
+              "content": "遥"
+            }
+          ]
+        },
+        {
+          "id": "ending_tia",
+          "name": "缇娅 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_tia_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_tia_02",
+              "type": "choice",
+              "content": "缇娅"
+            }
+          ]
+        },
+        {
+          "id": "ending_special",
+          "name": "希末 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_special_02",
+              "type": "note",
+              "content": "任意1人结局后"
+            },
+            {
+              "id": "step_special_03",
+              "type": "choice",
+              "content": "【场景跳跃】⇒《白色暗影中的抉择》"
+            },
+            {
+              "id": "step_special_05",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_1778208369885",
+              "type": "choice",
+              "content": "想希末老师"
+            }
+          ]
+        },
+        {
+          "id": "ending_night",
+          "name": "夜 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_night_01",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_night_02",
+              "type": "choice",
+              "content": "我想起了夜"
+            }
+          ]
+        },
+        {
+          "id": "ending_true",
+          "name": "TRUE END",
+          "type": "true",
+          "requirements": "全员END后【场景跳跃】⇒Ture",
+          "steps": [
+            {
+              "type": "choice",
+              "content": "（源站步骤均为空）"
+            }
+          ]
+        },
+        {
+          "id": "ending_daisy_extra",
+          "name": "雏菊 未读事件",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_daisy_extra_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_daisy_extra_02",
+              "type": "choice",
+              "content": "看看雏菊在做什么"
+            }
+          ]
+        },
+        {
+          "id": "ending_haruka_extra",
+          "name": "遥 未读事件",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_haruka_extra_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_haruka_extra_02",
+              "type": "choice",
+              "content": "去找遥"
+            }
+          ]
+        },
+        {
+          "id": "ending_tia_extra",
+          "name": "缇娅 未读事件",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_tia_extra_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_tia_extra_02",
+              "type": "choice",
+              "content": "想到缇娅"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

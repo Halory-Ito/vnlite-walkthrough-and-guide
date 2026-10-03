@@ -1,0 +1,286 @@
+{
+  "vid": "v10680",
+  "name": {
+    "zh-cn": "近月少女的礼仪",
+    "ja-jp": "月に寄りそう乙女の作法",
+    "ja-Latn": "tsuki-ni-yorisou-otome-no-sahou"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-14",
+  "routes": [
+    {
+      "id": "route_luna",
+      "name": "樱小路 露娜",
+      "endings": [
+        {
+          "id": "ending_luna_end",
+          "name": "露娜 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_luna_01",
+              "type": "choice",
+              "content": "给尤希尔量尺寸"
+            },
+            {
+              "id": "step_luna_02",
+              "type": "choice",
+              "content": "和露娜在一起"
+            },
+            {
+              "id": "step_luna_03",
+              "type": "choice",
+              "content": "让露娜给自己画"
+            },
+            {
+              "id": "step_luna_04",
+              "type": "choice",
+              "content": "在家照顾露娜"
+            },
+            {
+              "id": "step_luna_05",
+              "type": "choice",
+              "content": "今天和凑在一起"
+            },
+            {
+              "id": "step_luna_06",
+              "type": "choice",
+              "content": "对偶像没有兴趣"
+            },
+            {
+              "id": "step_luna_07",
+              "type": "choice",
+              "content": "陪伴在露娜身边"
+            }
+          ]
+        },
+        {
+          "id": "ending_luna_lover",
+          "name": "AfterStory（恋人END）",
+          "type": "good",
+          "steps": [
+            {
+              "id": "step_luna_lover_01",
+              "type": "choice",
+              "content": "选择恋人关系"
+            },
+            {
+              "id": "step_luna_lover_02",
+              "type": "choice",
+              "content": "我是朝日"
+            }
+          ]
+        },
+        {
+          "id": "ending_luna_master",
+          "name": "AfterStory（主仆END）",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_luna_master_01",
+              "type": "choice",
+              "content": "选择主仆关系"
+            },
+            {
+              "id": "step_luna_master_02",
+              "type": "choice",
+              "content": "绝对是主仆关系没错"
+            },
+            {
+              "id": "step_luna_master_03",
+              "type": "choice",
+              "content": "我记得一清二楚，肯定是主仆关系"
+            },
+            {
+              "id": "step_luna_master_04",
+              "type": "choice",
+              "content": "我绝对不可能记错，我们是主仆关系"
+            },
+            {
+              "id": "step_luna_master_05",
+              "type": "choice",
+              "content": "我是游星"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_minato",
+      "name": "柳之濑 凑",
+      "endings": [
+        {
+          "id": "ending_minato_end",
+          "name": "湊 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_minato_01",
+              "type": "choice",
+              "content": "给瑞穗量尺寸"
+            },
+            {
+              "id": "step_minato_02",
+              "type": "choice",
+              "content": "拜托凑带自己上街"
+            },
+            {
+              "id": "step_minato_03",
+              "type": "choice",
+              "content": "与尤希尔合作"
+            },
+            {
+              "id": "step_minato_04",
+              "type": "choice",
+              "content": "带其他人参观东京"
+            },
+            {
+              "id": "step_minato_05",
+              "type": "choice",
+              "content": "今天和凑在一起"
+            },
+            {
+              "id": "step_minato_06",
+              "type": "choice",
+              "content": "对偶像没有兴趣"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_eushier",
+      "name": "尤希尔",
+      "endings": [
+        {
+          "id": "ending_eushier_end",
+          "name": "尤希尔 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_eushier_01",
+              "type": "choice",
+              "content": "给尤希尔量尺寸"
+            },
+            {
+              "id": "step_eushier_02",
+              "type": "choice",
+              "content": "和露娜在一起"
+            },
+            {
+              "id": "step_eushier_03",
+              "type": "choice",
+              "content": "与尤希尔合作"
+            },
+            {
+              "id": "step_eushier_04",
+              "type": "choice",
+              "content": "带其他人参观东京"
+            },
+            {
+              "id": "step_eushier_05",
+              "type": "choice",
+              "content": "今天和尤希尔在一起"
+            },
+            {
+              "id": "step_eushier_06",
+              "type": "choice",
+              "content": "对偶像没有兴趣"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_mizuhho",
+      "name": "花之宫 瑞穗",
+      "endings": [
+        {
+          "id": "ending_mizuhho_end",
+          "name": "瑞穗 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_mizuhho_01",
+              "type": "choice",
+              "content": "给瑞穗量尺寸"
+            },
+            {
+              "id": "step_mizuhho_02",
+              "type": "choice",
+              "content": "拜托凑带自己上街"
+            },
+            {
+              "id": "step_mizuhho_03",
+              "type": "choice",
+              "content": "与尤希尔合作"
+            },
+            {
+              "id": "step_mizuhho_04",
+              "type": "choice",
+              "content": "带其他人参观东京"
+            },
+            {
+              "id": "step_mizuhho_05",
+              "type": "choice",
+              "content": "今天和凑在一起"
+            },
+            {
+              "id": "step_mizuhho_06",
+              "type": "choice",
+              "content": "对偶像有兴趣"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_bad_end",
+      "name": "BAD END",
+      "endings": [
+        {
+          "id": "ending_bad_1",
+          "name": "BAD END 1",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_bad1_01",
+              "type": "choice",
+              "content": "给尤希尔量尺寸"
+            },
+            {
+              "id": "step_bad1_02",
+              "type": "choice",
+              "content": "和露娜在一起"
+            },
+            {
+              "id": "step_bad1_03",
+              "type": "choice",
+              "content": "让露娜给自己画"
+            },
+            {
+              "id": "step_bad1_04",
+              "type": "choice",
+              "content": "在家照顾露娜"
+            },
+            {
+              "id": "step_bad1_05",
+              "type": "choice",
+              "content": "今天和凑在一起"
+            },
+            {
+              "id": "step_bad1_06",
+              "type": "choice",
+              "content": "对偶像没有兴趣"
+            },
+            {
+              "id": "step_bad1_07",
+              "type": "choice",
+              "content": "和其他人去泳池玩"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

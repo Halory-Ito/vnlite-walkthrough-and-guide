@@ -1,0 +1,839 @@
+{
+  "vid": "v1152",
+  "name": {
+    "zh-cn": "秋之回忆",
+    "ja-jp": "メモリーズオフ",
+    "ja-Latn": "memories-off-1"
+  },
+  "level": 1,
+  "updatedAt": "2026-07-14",
+  "routes": [
+    {
+      "id": "route_imasaka_yuemi",
+      "name": "今坂 唯笑",
+      "endings": [
+        {
+          "id": "ending_imasaka_yuemi_end",
+          "name": "唯笑 END",
+          "type": "good",
+          "steps": [
+            {
+              "id": "step_imasaka_yuemi_001",
+              "type": "note",
+              "content": "唯笑的CG11、12、13于True Ending路线、CG14于Pure篇中取得。"
+            },
+            {
+              "id": "step_imasaka_yuemi_002",
+              "type": "choice",
+              "content": "不方便",
+              "group": "10/1"
+            },
+            {
+              "id": "step_imasaka_yuemi_003",
+              "type": "choice",
+              "content": "不能聊……",
+              "group": "10/1"
+            },
+            {
+              "id": "step_imasaka_yuemi_004",
+              "type": "choice",
+              "content": "咦？是吗？",
+              "group": "10/1"
+            },
+            {
+              "id": "step_imasaka_yuemi_005",
+              "type": "choice",
+              "content": "回应一句",
+              "group": "10/2"
+            },
+            {
+              "id": "step_imasaka_yuemi_006",
+              "type": "choice",
+              "content": "这事是信干的？",
+              "group": "10/2"
+            },
+            {
+              "id": "step_imasaka_yuemi_007",
+              "type": "choice",
+              "content": "喊一声",
+              "group": "10/2"
+            },
+            {
+              "id": "step_imasaka_yuemi_008",
+              "type": "choice",
+              "content": "出去买",
+              "group": "10/2"
+            },
+            {
+              "id": "step_imasaka_yuemi_009",
+              "type": "choice",
+              "content": "向她道歉说『对不起，是我不好』",
+              "group": "10/2"
+            },
+            {
+              "id": "step_imasaka_yuemi_010",
+              "type": "choice",
+              "content": "嗯，的确是长进了不少",
+              "group": "10/2"
+            },
+            {
+              "id": "step_imasaka_yuemi_011",
+              "type": "choice",
+              "content": "不！坚决再睡一会",
+              "group": "10/3"
+            },
+            {
+              "id": "step_imasaka_yuemi_012",
+              "type": "choice",
+              "content": "去敲谁一顿便当呢",
+              "group": "10/3"
+            },
+            {
+              "id": "step_imasaka_yuemi_013",
+              "type": "choice",
+              "content": "也不一定",
+              "group": "10/3"
+            },
+            {
+              "id": "step_imasaka_yuemi_014",
+              "type": "choice",
+              "content": "回教室",
+              "group": "10/3"
+            },
+            {
+              "id": "step_imasaka_yuemi_015",
+              "type": "choice",
+              "content": "是吗？",
+              "group": "10/3"
+            },
+            {
+              "id": "step_imasaka_yuemi_016",
+              "type": "choice",
+              "content": "很想听",
+              "group": "10/3"
+            },
+            {
+              "id": "step_imasaka_yuemi_017",
+              "type": "choice",
+              "content": "去唯笑家",
+              "group": "10/4"
+            },
+            {
+              "id": "step_imasaka_yuemi_018",
+              "type": "choice",
+              "content": "唯笑",
+              "group": "10/4"
+            },
+            {
+              "id": "step_imasaka_yuemi_019",
+              "type": "choice",
+              "content": "还是出去吃吧",
+              "group": "10/4"
+            },
+            {
+              "id": "step_imasaka_yuemi_020",
+              "type": "choice",
+              "content": "去买面包",
+              "group": "10/5"
+            },
+            {
+              "id": "step_imasaka_yuemi_021",
+              "type": "choice",
+              "content": "还是回教室吧",
+              "group": "10/5"
+            },
+            {
+              "id": "step_imasaka_yuemi_022",
+              "type": "choice",
+              "content": "去学校餐厅吃",
+              "group": "10/5"
+            },
+            {
+              "id": "step_imasaka_yuemi_023",
+              "type": "choice",
+              "content": "轻描淡写的打发她",
+              "group": "10/5"
+            },
+            {
+              "id": "step_imasaka_yuemi_024",
+              "type": "choice",
+              "content": "嗨，回去吧，没事的",
+              "group": "10/6"
+            },
+            {
+              "id": "step_imasaka_yuemi_025",
+              "type": "choice",
+              "content": "不、想看看是谁",
+              "group": "10/6"
+            },
+            {
+              "id": "step_imasaka_yuemi_026",
+              "type": "choice",
+              "content": "还是答应她的要求吧",
+              "group": "10/6"
+            },
+            {
+              "id": "step_imasaka_yuemi_027",
+              "type": "choice",
+              "content": "是穿着？",
+              "group": "10/6"
+            },
+            {
+              "id": "step_imasaka_yuemi_028",
+              "type": "choice",
+              "content": "从前就一直这样吧……",
+              "group": "10/6"
+            },
+            {
+              "id": "step_imasaka_yuemi_029",
+              "type": "choice",
+              "content": "到公园转转",
+              "group": "10/6"
+            },
+            {
+              "id": "step_imasaka_yuemi_030",
+              "type": "choice",
+              "content": "我知道啦，还是一起回去吧",
+              "group": "10/6"
+            },
+            {
+              "id": "step_imasaka_yuemi_031",
+              "type": "choice",
+              "content": "特别在意",
+              "group": "10/8"
+            },
+            {
+              "id": "step_imasaka_yuemi_032",
+              "type": "choice",
+              "content": "上课",
+              "subfix": "选〖跷课〗回收CG03",
+              "group": "10/8"
+            },
+            {
+              "id": "step_imasaka_yuemi_033",
+              "type": "choice",
+              "content": "照老样子在教室里吃",
+              "group": "10/8"
+            },
+            {
+              "id": "step_imasaka_yuemi_034",
+              "type": "choice",
+              "content": "……会坏肚子哟",
+              "group": "10/8"
+            },
+            {
+              "id": "step_imasaka_yuemi_035",
+              "type": "choice",
+              "content": "不教",
+              "group": "10/8"
+            },
+            {
+              "id": "step_imasaka_yuemi_036",
+              "type": "choice",
+              "content": "这么暖和，还是去屋顶吧",
+              "group": "10/9"
+            },
+            {
+              "id": "step_imasaka_yuemi_037",
+              "type": "choice",
+              "content": "不好意思，我还有点事",
+              "group": "10/11"
+            },
+            {
+              "id": "step_imasaka_yuemi_038",
+              "type": "choice",
+              "content": "在家学习",
+              "group": "10/11"
+            },
+            {
+              "id": "step_imasaka_yuemi_039",
+              "type": "choice",
+              "content": "不好意思，我还有点事",
+              "group": "10/12"
+            },
+            {
+              "id": "step_imasaka_yuemi_040",
+              "type": "choice",
+              "content": "鼓励她",
+              "group": "10/12"
+            },
+            {
+              "id": "step_imasaka_yuemi_041",
+              "type": "choice",
+              "content": "有吗！！",
+              "group": "10/13"
+            },
+            {
+              "id": "step_imasaka_yuemi_042",
+              "type": "choice",
+              "content": "向音羽借",
+              "group": "10/13"
+            },
+            {
+              "id": "step_imasaka_yuemi_043",
+              "type": "choice",
+              "content": "在教室里念",
+              "group": "10/13"
+            },
+            {
+              "id": "step_imasaka_yuemi_044",
+              "type": "choice",
+              "content": "一起去",
+              "group": "10/14"
+            },
+            {
+              "id": "step_imasaka_yuemi_045",
+              "type": "choice",
+              "content": "是符咒？",
+              "group": "10/14"
+            },
+            {
+              "id": "step_imasaka_yuemi_046",
+              "type": "choice",
+              "content": "你把笔记本给弄丢了？",
+              "group": "10/15"
+            },
+            {
+              "id": "step_imasaka_yuemi_047",
+              "type": "choice",
+              "content": "在中国的韵书中，是用来增订『切韵』的/是所属某一党派的人",
+              "group": "10/15"
+            },
+            {
+              "id": "step_imasaka_yuemi_048",
+              "type": "choice",
+              "content": "是『隐藏』的文语形式",
+              "group": "10/15"
+            },
+            {
+              "id": "step_imasaka_yuemi_049",
+              "type": "choice",
+              "content": "未定/假定",
+              "group": "10/15"
+            },
+            {
+              "id": "step_imasaka_yuemi_050",
+              "type": "choice",
+              "content": "要是能一直在一起就好啰",
+              "group": "10/15"
+            },
+            {
+              "id": "step_imasaka_yuemi_051",
+              "type": "choice",
+              "content": "问问唯笑还有没有多余的字典/找一找教室里剩余的字典→问问唯笑还有没有多余的字典",
+              "group": "10/16"
+            },
+            {
+              "id": "step_imasaka_yuemi_052",
+              "type": "choice",
+              "content": "嗨，不去也没事",
+              "group": "10/18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_otowa_kaoru",
+      "name": "音羽 香",
+      "endings": [
+        {
+          "id": "ending_otowa_kaoru_end",
+          "name": "香 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_otowa_kaoru_001",
+              "type": "choice",
+              "content": "一起去",
+              "group": "10/1"
+            },
+            {
+              "id": "step_otowa_kaoru_002",
+              "type": "choice",
+              "content": "聊聊……",
+              "group": "10/1"
+            },
+            {
+              "id": "step_otowa_kaoru_003",
+              "type": "choice",
+              "content": "啊，是啊。",
+              "group": "10/1"
+            },
+            {
+              "id": "step_otowa_kaoru_004",
+              "type": "choice",
+              "content": "故意不理",
+              "group": "10/2"
+            },
+            {
+              "id": "step_otowa_kaoru_005",
+              "type": "choice",
+              "content": "难道是唯笑……？",
+              "group": "10/2"
+            },
+            {
+              "id": "step_otowa_kaoru_006",
+              "type": "choice",
+              "content": "喊一声",
+              "group": "10/2"
+            },
+            {
+              "id": "step_otowa_kaoru_007",
+              "type": "choice",
+              "content": "算了",
+              "group": "10/2"
+            },
+            {
+              "id": "step_otowa_kaoru_008",
+              "type": "choice",
+              "content": "说谢谢……",
+              "group": "10/2"
+            },
+            {
+              "id": "step_otowa_kaoru_009",
+              "type": "choice",
+              "content": "不习惯向别人道歉",
+              "group": "10/2"
+            },
+            {
+              "id": "step_otowa_kaoru_010",
+              "type": "choice",
+              "content": "啊啊，是啊",
+              "group": "10/2"
+            },
+            {
+              "id": "step_otowa_kaoru_011",
+              "type": "choice",
+              "content": "不！坚决再睡一会",
+              "group": "10/3"
+            },
+            {
+              "id": "step_otowa_kaoru_012",
+              "type": "choice",
+              "content": "还是去外面呢",
+              "group": "10/3"
+            },
+            {
+              "id": "step_otowa_kaoru_013",
+              "type": "choice",
+              "content": "去屋顶上吃",
+              "group": "10/3"
+            },
+            {
+              "id": "step_otowa_kaoru_014",
+              "type": "choice",
+              "content": "去唯笑家",
+              "group": "10/4"
+            },
+            {
+              "id": "step_otowa_kaoru_015",
+              "type": "choice",
+              "content": "音羽",
+              "group": "10/4"
+            },
+            {
+              "id": "step_otowa_kaoru_016",
+              "type": "choice",
+              "content": "买点算了",
+              "group": "10/4"
+            },
+            {
+              "id": "step_otowa_kaoru_017",
+              "type": "choice",
+              "content": "在屋顶上吃",
+              "group": "10/4"
+            },
+            {
+              "id": "step_otowa_kaoru_018",
+              "type": "choice",
+              "content": "去买面包",
+              "group": "10/5"
+            },
+            {
+              "id": "step_otowa_kaoru_019",
+              "type": "choice",
+              "content": "天气不错，去屋顶上吃吧",
+              "group": "10/5"
+            },
+            {
+              "id": "step_otowa_kaoru_020",
+              "type": "choice",
+              "content": "嗨，回去吧，没事的",
+              "group": "10/6"
+            },
+            {
+              "id": "step_otowa_kaoru_021",
+              "type": "choice",
+              "content": "逃跑吧……",
+              "group": "10/6"
+            },
+            {
+              "id": "step_otowa_kaoru_022",
+              "type": "choice",
+              "content": "就算这样也不去",
+              "group": "10/6"
+            },
+            {
+              "id": "step_otowa_kaoru_023",
+              "type": "choice",
+              "content": "不怎么在意",
+              "group": "10/8"
+            },
+            {
+              "id": "step_otowa_kaoru_024",
+              "type": "choice",
+              "content": "还有别的事吗？",
+              "group": "10/8"
+            },
+            {
+              "id": "step_otowa_kaoru_025",
+              "type": "choice",
+              "content": "不教",
+              "group": "10/8"
+            },
+            {
+              "id": "step_otowa_kaoru_026",
+              "type": "choice",
+              "content": "这么暖和，还是去屋顶吧",
+              "group": "10/9"
+            },
+            {
+              "id": "step_otowa_kaoru_027",
+              "type": "choice",
+              "content": "不好意思，我还有点事",
+              "group": "10/11"
+            },
+            {
+              "id": "step_otowa_kaoru_028",
+              "type": "choice",
+              "content": "在家学习",
+              "group": "10/11"
+            },
+            {
+              "id": "step_otowa_kaoru_029",
+              "type": "choice",
+              "content": "不好意思，我还有点事",
+              "group": "10/12"
+            },
+            {
+              "id": "step_otowa_kaoru_030",
+              "type": "choice",
+              "content": "教她",
+              "group": "10/12"
+            },
+            {
+              "id": "step_otowa_kaoru_031",
+              "type": "choice",
+              "content": "真麻烦",
+              "group": "10/14"
+            },
+            {
+              "id": "step_otowa_kaoru_032",
+              "type": "choice",
+              "content": "难道是项链？",
+              "group": "10/14"
+            },
+            {
+              "id": "step_otowa_kaoru_033",
+              "type": "choice",
+              "content": "怎么了？",
+              "group": "10/15"
+            },
+            {
+              "id": "step_otowa_kaoru_034",
+              "type": "choice",
+              "content": "在中国的韵书中，是用来增订『切韵』的/是所属某一党派的人",
+              "group": "10/15"
+            },
+            {
+              "id": "step_otowa_kaoru_035",
+              "type": "choice",
+              "content": "是『隐藏』的文语形式",
+              "group": "10/15"
+            },
+            {
+              "id": "step_otowa_kaoru_036",
+              "type": "choice",
+              "content": "未定/假定",
+              "group": "10/15"
+            },
+            {
+              "id": "step_otowa_kaoru_037",
+              "type": "choice",
+              "content": "要是能一直在一起就好啰",
+              "group": "10/15"
+            },
+            {
+              "id": "step_otowa_kaoru_038",
+              "type": "choice",
+              "content": "一起念书",
+              "group": "10/16"
+            },
+            {
+              "id": "step_otowa_kaoru_039",
+              "type": "choice",
+              "content": "巧妙地蒙混过去",
+              "group": "10/21"
+            },
+            {
+              "id": "step_otowa_kaoru_040",
+              "type": "choice",
+              "content": "怎么会有那种事",
+              "group": "10/21"
+            },
+            {
+              "id": "step_otowa_kaoru_041",
+              "type": "choice",
+              "content": "收下",
+              "subfix": "选〖不要〗→彩花Ending",
+              "group": "10/26（核心）"
+            },
+            {
+              "id": "step_otowa_kaoru_042",
+              "type": "choice",
+              "content": "约会",
+              "subfix": "选〖不约会〗→彩花Ending",
+              "group": "11/1"
+            },
+            {
+              "id": "step_otowa_kaoru_043",
+              "type": "choice",
+              "content": "和香一起去玩",
+              "subfix": "选〖三个人一起去什么地方〗（回收CG10）or〖回家〗→彩花Ending",
+              "group": "11/1"
+            },
+            {
+              "id": "step_otowa_kaoru_044",
+              "type": "choice",
+              "content": "香？",
+              "group": "11/8"
+            },
+            {
+              "id": "step_otowa_kaoru_045",
+              "type": "choice",
+              "content": "帮忙找一找",
+              "subfix": "〖找到了的话就告诉她〗→彩花Ending",
+              "group": "11/8"
+            },
+            {
+              "id": "step_otowa_kaoru_046",
+              "type": "choice",
+              "content": "去图书馆帮忙",
+              "subfix": "〖去保健室帮忙〗→彩花Ending",
+              "group": "11/9"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_futami_shion",
+      "name": "双海 诗音",
+      "endings": [
+        {
+          "id": "ending_futami_shion_end",
+          "name": "诗音 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_futami_shion_001",
+              "type": "choice",
+              "content": "一起去",
+              "group": "10/1"
+            },
+            {
+              "id": "step_futami_shion_002",
+              "type": "choice",
+              "content": "不能聊……",
+              "group": "10/1"
+            },
+            {
+              "id": "step_futami_shion_003",
+              "type": "choice",
+              "content": "啊，是啊。",
+              "group": "10/1"
+            },
+            {
+              "id": "step_futami_shion_004",
+              "type": "choice",
+              "content": "故意不理",
+              "group": "10/2"
+            },
+            {
+              "id": "step_futami_shion_005",
+              "type": "choice",
+              "content": "难道是唯笑……？",
+              "group": "10/2"
+            },
+            {
+              "id": "step_futami_shion_006",
+              "type": "choice",
+              "content": "喊一声",
+              "group": "10/2"
+            },
+            {
+              "id": "step_futami_shion_007",
+              "type": "choice",
+              "content": "出去买",
+              "group": "10/2"
+            },
+            {
+              "id": "step_futami_shion_008",
+              "type": "choice",
+              "content": "不习惯向别人道歉",
+              "group": "10/2"
+            },
+            {
+              "id": "step_futami_shion_009",
+              "type": "choice",
+              "content": "啊啊，是啊",
+              "group": "10/2"
+            },
+            {
+              "id": "step_futami_shion_010",
+              "type": "choice",
+              "content": "再睡一会？",
+              "group": "10/3"
+            },
+            {
+              "id": "step_futami_shion_011",
+              "type": "choice",
+              "content": "大声地喊",
+              "group": "10/3"
+            },
+            {
+              "id": "step_futami_shion_012",
+              "type": "choice",
+              "content": "我是同班的三上智也",
+              "group": "10/3"
+            },
+            {
+              "id": "step_futami_shion_013",
+              "type": "choice",
+              "content": "还是去外面吧",
+              "group": "10/3"
+            },
+            {
+              "id": "step_futami_shion_014",
+              "type": "choice",
+              "content": "回教室（→是吗？→虽然很在意，但还是不放在心上）/去保健室吃",
+              "group": "10/3"
+            },
+            {
+              "id": "step_futami_shion_015",
+              "type": "choice",
+              "content": "去唯笑家",
+              "group": "10/4"
+            },
+            {
+              "id": "step_futami_shion_016",
+              "type": "choice",
+              "content": "双海",
+              "group": "10/4"
+            },
+            {
+              "id": "step_futami_shion_017",
+              "type": "choice",
+              "content": "还是出去吃吧",
+              "group": "10/4"
+            },
+            {
+              "id": "step_futami_shion_018",
+              "type": "choice",
+              "content": "准备下节课的内容",
+              "group": "10/5"
+            },
+            {
+              "id": "step_futami_shion_019",
+              "type": "choice",
+              "content": "去操场吧/去保健室吧",
+              "group": "10/5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_pure",
+      "name": "Pure",
+      "endings": [
+        {
+          "id": "ending_pure_ayaka",
+          "name": "彩花篇 END1",
+          "type": "normal",
+          "requirements": "把全部6个角色的Ending都看过后，就会在出现PURE这个模式。在开始时（Pure共同篇）通过选项来确定彩花与唯笑的好感度哪个较高，然后在选择“去追的人”时决定是进入Pure彩花篇（eternalheart）还是Pure唯笑篇（light-blue tulip），并且确定是用谁的视点来演绎故事。提升了攻略对象的好感度后，在选择是追彩花还是唯笑的选项中，选择了另一个的话，就会以被追的人的视点来继续游戏（比如攻略彩花却选择“去追唯笑”，就会以唯笑的视点来演绎Pure唯笑篇）。而正常情况下是以智也的视点来的。如果已经以智也和彩花/唯笑的视点进行过Pure彩花/唯笑篇后，那不论好感度的高低，在选择要追的人后，会出现是以智也还是对方的视点来进行游戏的选项。如果只是完成了其中一人的Pure篇（两种视点），那么就只会在选择去追该角色后出现选项。",
+          "steps": [
+            {
+              "id": "step_pure_006",
+              "type": "choice",
+              "content": "知道了",
+              "group": "彩花篇"
+            },
+            {
+              "id": "step_pure_007",
+              "type": "choice",
+              "content": "不知道",
+              "group": "彩花篇"
+            },
+            {
+              "id": "step_pure_008",
+              "type": "choice",
+              "content": "算啦，就这样吧",
+              "group": "彩花篇"
+            },
+            {
+              "id": "step_pure_009",
+              "type": "choice",
+              "content": "去追彩花→eternal heart，以智也的视点来演绎Pure彩花篇",
+              "group": "彩花篇"
+            }
+          ]
+        },
+        {
+          "id": "ending_pure_yuemi",
+          "name": "唯笑篇 END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_pure_010",
+              "type": "choice",
+              "content": "去追唯笑→light-blue tulip，以唯笑的视点来演绎Pure唯笑篇",
+              "group": "彩花篇"
+            },
+            {
+              "id": "step_pure_011",
+              "type": "choice",
+              "content": "不起床",
+              "group": "唯笑篇"
+            },
+            {
+              "id": "step_pure_012",
+              "type": "choice",
+              "content": "知道",
+              "group": "唯笑篇"
+            },
+            {
+              "id": "step_pure_013",
+              "type": "choice",
+              "content": "想避开",
+              "group": "唯笑篇"
+            },
+            {
+              "id": "step_pure_014",
+              "type": "choice",
+              "content": "去追彩花→eternal heart，以彩花的视点来演绎Pure彩花篇",
+              "group": "唯笑篇"
+            },
+            {
+              "id": "step_pure_015",
+              "type": "choice",
+              "content": "去追唯笑→light-blue tulip，以智也的视点来演绎Pure唯笑篇",
+              "group": "唯笑篇"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

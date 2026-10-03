@@ -1,0 +1,3373 @@
+{
+  "vid": "v36131",
+  "name": {
+    "zh-cn": "放学后的灰姑娘2",
+    "ja-jp": "放課後シンデレラ２",
+    "ja-Latn": "houkago-cinderella-2"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-14",
+  "routes": [
+    {
+      "id": "route_game",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_hazuki",
+          "name": "小濑 叶月 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_hz_002",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_hz_003",
+              "type": "note",
+              "content": "回家路线选择01",
+              "group": "日常 01"
+            },
+            {
+              "id": "step_hz_004",
+              "type": "choice",
+              "content": "和叶月回家⇒是的",
+              "prefix": "★",
+              "group": "日常 01"
+            },
+            {
+              "id": "step_hz_005",
+              "type": "note",
+              "content": "水上乐园前│",
+              "prefix": "■",
+              "group": "日常 01"
+            },
+            {
+              "id": "step_hz_006",
+              "type": "note",
+              "content": "住宅区2│",
+              "prefix": "■",
+              "group": "日常 01"
+            },
+            {
+              "id": "step_hz_007",
+              "type": "note",
+              "content": "高层公寓前│",
+              "prefix": "■",
+              "group": "日常 01"
+            },
+            {
+              "id": "step_hz_008",
+              "type": "note",
+              "content": "商业街│",
+              "prefix": "■",
+              "group": "日常 01"
+            },
+            {
+              "id": "step_hz_009",
+              "type": "note",
+              "content": "车站⇒是的",
+              "prefix": "■",
+              "group": "日常 01"
+            },
+            {
+              "id": "step_hz_010",
+              "type": "choice",
+              "content": "打招呼│叶月",
+              "group": "日常 01"
+            },
+            {
+              "id": "step_hz_011",
+              "type": "choice",
+              "content": "校服",
+              "group": "日常 01"
+            },
+            {
+              "id": "step_hz_012",
+              "type": "choice",
+              "content": "超大份蛋包饭",
+              "group": "日常 01"
+            },
+            {
+              "id": "step_hz_013",
+              "type": "choice",
+              "content": "鸡蛋",
+              "group": "日常 01"
+            },
+            {
+              "id": "step_hz_014",
+              "type": "choice",
+              "content": "找她占卜│1",
+              "group": "日常 02"
+            },
+            {
+              "id": "step_hz_015",
+              "type": "note",
+              "content": "回家路线选择02",
+              "group": "日常 02"
+            },
+            {
+              "id": "step_hz_016",
+              "type": "choice",
+              "content": "和叶月回家⇒是的",
+              "prefix": "★",
+              "group": "日常 02"
+            },
+            {
+              "id": "step_hz_017",
+              "type": "note",
+              "content": "自然公园1│",
+              "prefix": "■",
+              "group": "日常 02"
+            },
+            {
+              "id": "step_hz_018",
+              "type": "note",
+              "content": "自然公园2│",
+              "prefix": "■",
+              "group": "日常 02"
+            },
+            {
+              "id": "step_hz_019",
+              "type": "note",
+              "content": "林荫路│",
+              "prefix": "■",
+              "group": "日常 02"
+            },
+            {
+              "id": "step_hz_020",
+              "type": "note",
+              "content": "小吃街│",
+              "prefix": "■",
+              "group": "日常 02"
+            },
+            {
+              "id": "step_hz_021",
+              "type": "note",
+              "content": "车站⇒是的",
+              "prefix": "■",
+              "group": "日常 02"
+            },
+            {
+              "id": "step_hz_022",
+              "type": "choice",
+              "content": "不打招呼(车井)",
+              "prefix": "☆",
+              "group": "日常 02"
+            },
+            {
+              "id": "step_hz_023",
+              "type": "choice",
+              "content": "打招呼│叶月",
+              "group": "日常 02"
+            },
+            {
+              "id": "step_hz_024",
+              "type": "choice",
+              "content": "找她占卜│2",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_hz_025",
+              "type": "note",
+              "content": "回家路线选择03",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_hz_026",
+              "type": "choice",
+              "content": "和叶月回家⇒是的",
+              "prefix": "★",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_hz_027",
+              "type": "note",
+              "content": "自然公园1│",
+              "prefix": "■",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_hz_028",
+              "type": "note",
+              "content": "自然公园2│",
+              "prefix": "■",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_hz_029",
+              "type": "note",
+              "content": "林荫路│",
+              "prefix": "■",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_hz_030",
+              "type": "note",
+              "content": "小吃街│",
+              "prefix": "■",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_hz_031",
+              "type": "note",
+              "content": "车站⇒是的",
+              "prefix": "■",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_hz_032",
+              "type": "choice",
+              "content": "不打招呼(车井)",
+              "prefix": "☆",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_hz_033",
+              "type": "choice",
+              "content": "当作没看见",
+              "prefix": "☆",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_hz_034",
+              "type": "choice",
+              "content": "一起回去│叶月",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_hz_035",
+              "type": "choice",
+              "content": "蒙混过去",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_hz_036",
+              "type": "choice",
+              "content": "打圆场",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_hz_037",
+              "type": "choice",
+              "content": "土豆炖肉",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_hz_038",
+              "type": "choice",
+              "content": "找她占卜│3",
+              "group": "日常 04"
+            },
+            {
+              "id": "step_hz_039",
+              "type": "note",
+              "content": "回家路线选择04",
+              "group": "日常 04"
+            },
+            {
+              "id": "step_hz_040",
+              "type": "choice",
+              "content": "和叶月回家⇒是的",
+              "prefix": "★",
+              "group": "日常 04"
+            },
+            {
+              "id": "step_hz_041",
+              "type": "note",
+              "content": "自然公园1│",
+              "prefix": "■",
+              "group": "日常 04"
+            },
+            {
+              "id": "step_hz_042",
+              "type": "note",
+              "content": "奥特莱斯商场│",
+              "prefix": "■",
+              "group": "日常 04"
+            },
+            {
+              "id": "step_hz_043",
+              "type": "note",
+              "content": "十字路口│",
+              "prefix": "■",
+              "group": "日常 04"
+            },
+            {
+              "id": "step_hz_044",
+              "type": "note",
+              "content": "繁华街│",
+              "prefix": "■",
+              "group": "日常 04"
+            },
+            {
+              "id": "step_hz_045",
+              "type": "note",
+              "content": "车站⇒是的",
+              "prefix": "■",
+              "group": "日常 04"
+            },
+            {
+              "id": "step_hz_046",
+              "type": "choice",
+              "content": "陪叶月│叶月",
+              "group": "日常 04"
+            },
+            {
+              "id": "step_hz_047",
+              "type": "choice",
+              "content": "找她占卜│4",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_hz_048",
+              "type": "note",
+              "content": "回家路线选择05",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_hz_049",
+              "type": "choice",
+              "content": "和叶月回家⇒是的",
+              "prefix": "★",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_hz_050",
+              "type": "note",
+              "content": "自然公园1│",
+              "prefix": "■",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_hz_051",
+              "type": "note",
+              "content": "自然公园2│",
+              "prefix": "■",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_hz_052",
+              "type": "note",
+              "content": "观景台│",
+              "prefix": "■",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_hz_053",
+              "type": "note",
+              "content": "河岸│",
+              "prefix": "■",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_hz_054",
+              "type": "note",
+              "content": "车站⇒是的",
+              "prefix": "■",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_hz_055",
+              "type": "choice",
+              "content": "直接回家",
+              "prefix": "☆",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_hz_056",
+              "type": "choice",
+              "content": "不打招呼(车井)",
+              "prefix": "☆",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_hz_057",
+              "type": "choice",
+              "content": "打招呼│叶月",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_hz_058",
+              "type": "choice",
+              "content": "认真回答",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_hz_059",
+              "type": "choice",
+              "content": "饱含学姐的爱",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_hz_060",
+              "type": "choice",
+              "content": "同感",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_hz_061",
+              "type": "choice",
+              "content": "称赞她",
+              "group": "进展 小濑叶月02"
+            },
+            {
+              "id": "step_hz_062",
+              "type": "choice",
+              "content": "找她占卜│5",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_hz_063",
+              "type": "note",
+              "content": "回家路线选择06",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_hz_064",
+              "type": "choice",
+              "content": "和叶月回家⇒是的",
+              "prefix": "★",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_hz_065",
+              "type": "note",
+              "content": "水上乐园前│",
+              "prefix": "■",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_hz_066",
+              "type": "note",
+              "content": "奥特莱斯商场│",
+              "prefix": "■",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_hz_067",
+              "type": "note",
+              "content": "十字路口│",
+              "prefix": "■",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_hz_068",
+              "type": "note",
+              "content": "商业街│",
+              "prefix": "■",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_hz_069",
+              "type": "note",
+              "content": "车站⇒是的",
+              "prefix": "■",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_hz_070",
+              "type": "choice",
+              "content": "陪叶月│叶月",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_hz_071",
+              "type": "choice",
+              "content": "找她占卜│6",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_hz_072",
+              "type": "save",
+              "content": "SAVE 2",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_hz_073",
+              "type": "note",
+              "content": "回家路线选择07",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_hz_074",
+              "type": "choice",
+              "content": "和叶月回家⇒是的",
+              "prefix": "★",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_hz_075",
+              "type": "note",
+              "content": "自然公园1│",
+              "prefix": "■",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_hz_076",
+              "type": "note",
+              "content": "自然公园2│",
+              "prefix": "■",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_hz_077",
+              "type": "note",
+              "content": "观景台│",
+              "prefix": "■",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_hz_078",
+              "type": "note",
+              "content": "河岸│",
+              "prefix": "■",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_hz_079",
+              "type": "note",
+              "content": "车站⇒是的",
+              "prefix": "■",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_hz_080",
+              "type": "choice",
+              "content": "不打招呼(车井)",
+              "prefix": "☆",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_hz_081",
+              "type": "choice",
+              "content": "打招呼│叶月",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_hz_082",
+              "type": "choice",
+              "content": "我当时心跳不止",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_hz_083",
+              "type": "choice",
+              "content": "主动提出话题",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_hz_084",
+              "type": "choice",
+              "content": "哭了",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_hz_085",
+              "type": "choice",
+              "content": "找她占卜",
+              "group": "日常 08"
+            },
+            {
+              "id": "step_hz_086",
+              "type": "note",
+              "content": "回家路线选择08",
+              "group": "日常 08"
+            },
+            {
+              "id": "step_hz_087",
+              "type": "choice",
+              "content": "打招呼│叶月",
+              "group": "日常 08"
+            },
+            {
+              "id": "step_hz_088",
+              "type": "choice",
+              "content": "开心",
+              "group": "日常 08"
+            },
+            {
+              "id": "step_hz_089",
+              "type": "choice",
+              "content": "想听",
+              "group": "日常 08"
+            },
+            {
+              "id": "step_hz_090",
+              "type": "choice",
+              "content": "牵手",
+              "group": "日常 08"
+            },
+            {
+              "id": "step_hz_091",
+              "type": "choice",
+              "content": "找她占卜",
+              "group": "日常 09"
+            },
+            {
+              "id": "step_hz_092",
+              "type": "note",
+              "content": "回家路线选择09",
+              "group": "日常 09"
+            },
+            {
+              "id": "step_hz_093",
+              "type": "choice",
+              "content": "和叶月回家⇒是的",
+              "prefix": "★",
+              "group": "日常 09"
+            },
+            {
+              "id": "step_hz_094",
+              "type": "note",
+              "content": "水上乐园前│",
+              "prefix": "■",
+              "group": "日常 09"
+            },
+            {
+              "id": "step_hz_095",
+              "type": "note",
+              "content": "奥特莱斯商场│",
+              "prefix": "■",
+              "group": "日常 09"
+            },
+            {
+              "id": "step_hz_096",
+              "type": "note",
+              "content": "十字路口│",
+              "prefix": "■",
+              "group": "日常 09"
+            },
+            {
+              "id": "step_hz_097",
+              "type": "note",
+              "content": "商业街│",
+              "prefix": "■",
+              "group": "日常 09"
+            },
+            {
+              "id": "step_hz_098",
+              "type": "note",
+              "content": "车站⇒是的",
+              "prefix": "■",
+              "group": "日常 09"
+            },
+            {
+              "id": "step_hz_099",
+              "type": "choice",
+              "content": "拒绝邀请(千穂)",
+              "prefix": "☆",
+              "group": "日常 09"
+            },
+            {
+              "id": "step_hz_100",
+              "type": "choice",
+              "content": "不打招呼(宁宁)",
+              "prefix": "☆",
+              "group": "日常 09"
+            },
+            {
+              "id": "step_hz_101",
+              "type": "choice",
+              "content": "打招呼│叶月",
+              "group": "日常 09"
+            },
+            {
+              "id": "step_hz_102",
+              "type": "choice",
+              "content": "追究下去",
+              "group": "日常 09"
+            }
+          ]
+        },
+        {
+          "id": "ending_chiho",
+          "name": "夏越 千穂 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_ch_001",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_ch_002",
+              "type": "note",
+              "content": "回家路线选择01",
+              "group": "日常 01"
+            },
+            {
+              "id": "step_ch_003",
+              "type": "choice",
+              "content": "和千穂回家⇒是的",
+              "prefix": "★",
+              "group": "日常 01"
+            },
+            {
+              "id": "step_ch_004",
+              "type": "note",
+              "content": "水上乐园前│",
+              "prefix": "■",
+              "group": "日常 01"
+            },
+            {
+              "id": "step_ch_005",
+              "type": "note",
+              "content": "奥特莱斯商场│",
+              "prefix": "■",
+              "group": "日常 01"
+            },
+            {
+              "id": "step_ch_006",
+              "type": "note",
+              "content": "十字路口│",
+              "prefix": "■",
+              "group": "日常 01"
+            },
+            {
+              "id": "step_ch_007",
+              "type": "note",
+              "content": "商业街│",
+              "prefix": "■",
+              "group": "日常 01"
+            },
+            {
+              "id": "step_ch_008",
+              "type": "note",
+              "content": "车站⇒是的",
+              "prefix": "■",
+              "group": "日常 01"
+            },
+            {
+              "id": "step_ch_009",
+              "type": "choice",
+              "content": "一起逛逛│千穂",
+              "group": "日常 01"
+            },
+            {
+              "id": "step_ch_010",
+              "type": "choice",
+              "content": "找她占卜",
+              "group": "日常 02"
+            },
+            {
+              "id": "step_ch_011",
+              "type": "note",
+              "content": "回家路线选择02",
+              "group": "日常 02"
+            },
+            {
+              "id": "step_ch_012",
+              "type": "choice",
+              "content": "和千穂回家⇒是的",
+              "prefix": "★",
+              "group": "日常 02"
+            },
+            {
+              "id": "step_ch_013",
+              "type": "note",
+              "content": "水上乐园前│",
+              "prefix": "■",
+              "group": "日常 02"
+            },
+            {
+              "id": "step_ch_014",
+              "type": "note",
+              "content": "奥特莱斯商场│",
+              "prefix": "■",
+              "group": "日常 02"
+            },
+            {
+              "id": "step_ch_015",
+              "type": "note",
+              "content": "十字路口│",
+              "prefix": "■",
+              "group": "日常 02"
+            },
+            {
+              "id": "step_ch_016",
+              "type": "note",
+              "content": "商业街│",
+              "prefix": "■",
+              "group": "日常 02"
+            },
+            {
+              "id": "step_ch_017",
+              "type": "note",
+              "content": "车站⇒是的",
+              "prefix": "■",
+              "group": "日常 02"
+            },
+            {
+              "id": "step_ch_018",
+              "type": "choice",
+              "content": "她认错人了吧",
+              "prefix": "☆",
+              "group": "日常 02"
+            },
+            {
+              "id": "step_ch_019",
+              "type": "choice",
+              "content": "不打招呼(宁宁)",
+              "prefix": "☆",
+              "group": "日常 02"
+            },
+            {
+              "id": "step_ch_020",
+              "type": "choice",
+              "content": "打招呼│千穂",
+              "group": "日常 02"
+            },
+            {
+              "id": "step_ch_021",
+              "type": "choice",
+              "content": "找她占卜",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_ch_022",
+              "type": "note",
+              "content": "回家路线选择03",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_ch_023",
+              "type": "choice",
+              "content": "和千穂回家⇒是的",
+              "prefix": "★",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_ch_024",
+              "type": "note",
+              "content": "水上乐园前│",
+              "prefix": "■",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_ch_025",
+              "type": "note",
+              "content": "奥特莱斯商场│",
+              "prefix": "■",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_ch_026",
+              "type": "note",
+              "content": "十字路口│",
+              "prefix": "■",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_ch_027",
+              "type": "note",
+              "content": "商业街│",
+              "prefix": "■",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_ch_028",
+              "type": "note",
+              "content": "车站⇒是的",
+              "prefix": "■",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_ch_029",
+              "type": "choice",
+              "content": "打招呼│千穂",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_ch_030",
+              "type": "choice",
+              "content": "正常回答",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_ch_031",
+              "type": "choice",
+              "content": "老实回答",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_ch_032",
+              "type": "choice",
+              "content": "饰品ー",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_ch_033",
+              "type": "choice",
+              "content": "找她占卜",
+              "group": "日常 04"
+            },
+            {
+              "id": "step_ch_034",
+              "type": "note",
+              "content": "回家路线选择04",
+              "group": "日常 04"
+            },
+            {
+              "id": "step_ch_035",
+              "type": "choice",
+              "content": "和千穂回家⇒是的",
+              "prefix": "★",
+              "group": "日常 04"
+            },
+            {
+              "id": "step_ch_036",
+              "type": "note",
+              "content": "住宅区1│",
+              "prefix": "■",
+              "group": "日常 04"
+            },
+            {
+              "id": "step_ch_037",
+              "type": "note",
+              "content": "住宅区2│",
+              "prefix": "■",
+              "group": "日常 04"
+            },
+            {
+              "id": "step_ch_038",
+              "type": "note",
+              "content": "高层公寓前│",
+              "prefix": "■",
+              "group": "日常 04"
+            },
+            {
+              "id": "step_ch_039",
+              "type": "note",
+              "content": "商业街│",
+              "prefix": "■",
+              "group": "日常 04"
+            },
+            {
+              "id": "step_ch_040",
+              "type": "note",
+              "content": "车站⇒是的",
+              "prefix": "■",
+              "group": "日常 04"
+            },
+            {
+              "id": "step_ch_041",
+              "type": "choice",
+              "content": "继续聊天│千穂",
+              "group": "日常 04"
+            },
+            {
+              "id": "step_ch_042",
+              "type": "choice",
+              "content": "找她占卜",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_ch_043",
+              "type": "note",
+              "content": "回家路线选择05",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_ch_044",
+              "type": "choice",
+              "content": "和千穂回家⇒是的",
+              "prefix": "★",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_ch_045",
+              "type": "note",
+              "content": "自然公园1│",
+              "prefix": "■",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_ch_046",
+              "type": "note",
+              "content": "自然公园2│",
+              "prefix": "■",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_ch_047",
+              "type": "note",
+              "content": "林荫路│",
+              "prefix": "■",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_ch_048",
+              "type": "note",
+              "content": "小吃街│",
+              "prefix": "■",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_ch_049",
+              "type": "note",
+              "content": "车站⇒是的",
+              "prefix": "■",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_ch_050",
+              "type": "choice",
+              "content": "直接回家",
+              "prefix": "☆",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_ch_051",
+              "type": "choice",
+              "content": "不打招呼(车井)",
+              "prefix": "☆",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_ch_052",
+              "type": "choice",
+              "content": "不打招呼(伊吹)",
+              "prefix": "☆",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_ch_053",
+              "type": "choice",
+              "content": "一起回去│千穂",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_ch_054",
+              "type": "choice",
+              "content": "甜",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_ch_055",
+              "type": "choice",
+              "content": "实话实说",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_ch_056",
+              "type": "choice",
+              "content": "正常回答",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_ch_057",
+              "type": "choice",
+              "content": "找她占卜",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_ch_058",
+              "type": "note",
+              "content": "回家路线选择06",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_ch_059",
+              "type": "choice",
+              "content": "和千穂回家⇒是的",
+              "prefix": "★",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_ch_060",
+              "type": "note",
+              "content": "住宅区1│",
+              "prefix": "■",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_ch_061",
+              "type": "note",
+              "content": "住宅区2│",
+              "prefix": "■",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_ch_062",
+              "type": "note",
+              "content": "高层公寓前│",
+              "prefix": "■",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_ch_063",
+              "type": "note",
+              "content": "商业街│",
+              "prefix": "■",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_ch_064",
+              "type": "note",
+              "content": "车站⇒是的",
+              "prefix": "■",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_ch_065",
+              "type": "choice",
+              "content": "打招呼│千穂",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_ch_066",
+              "type": "choice",
+              "content": "正常回答",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_ch_067",
+              "type": "choice",
+              "content": "保龄球",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_ch_068",
+              "type": "choice",
+              "content": "我很高兴",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_ch_069",
+              "type": "choice",
+              "content": "找她占卜",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_ch_070",
+              "type": "note",
+              "content": "回家路线选择07",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_ch_071",
+              "type": "choice",
+              "content": "和千穂回家⇒是的",
+              "prefix": "★",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_ch_072",
+              "type": "note",
+              "content": "水上乐园前│",
+              "prefix": "■",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_ch_073",
+              "type": "note",
+              "content": "住宅区2│",
+              "prefix": "■",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_ch_074",
+              "type": "note",
+              "content": "高层公寓前│",
+              "prefix": "■",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_ch_075",
+              "type": "note",
+              "content": "商业街│",
+              "prefix": "■",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_ch_076",
+              "type": "note",
+              "content": "车站⇒是的",
+              "prefix": "■",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_ch_077",
+              "type": "choice",
+              "content": "一起回去│千穂",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_ch_078",
+              "type": "choice",
+              "content": "自己提出话题",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_ch_079",
+              "type": "choice",
+              "content": "看回去",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_ch_080",
+              "type": "choice",
+              "content": "糊弄过去",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_ch_081",
+              "type": "choice",
+              "content": "找她占卜",
+              "group": "日常 08"
+            },
+            {
+              "id": "step_ch_082",
+              "type": "note",
+              "content": "回家路线选择08",
+              "group": "日常 08"
+            },
+            {
+              "id": "step_ch_083",
+              "type": "choice",
+              "content": "打招呼│千穂",
+              "group": "日常 08"
+            },
+            {
+              "id": "step_ch_084",
+              "type": "choice",
+              "content": "提出话题",
+              "group": "日常 08"
+            },
+            {
+              "id": "step_ch_085",
+              "type": "choice",
+              "content": "帮她接话",
+              "group": "日常 08"
+            },
+            {
+              "id": "step_ch_086",
+              "type": "choice",
+              "content": "牵手",
+              "group": "日常 08"
+            },
+            {
+              "id": "step_ch_087",
+              "type": "choice",
+              "content": "找她占卜",
+              "group": "日常 09"
+            },
+            {
+              "id": "step_ch_088",
+              "type": "note",
+              "content": "回家路线选择09",
+              "group": "日常 09"
+            },
+            {
+              "id": "step_ch_089",
+              "type": "choice",
+              "content": "和千穂回家⇒是的",
+              "prefix": "★",
+              "group": "日常 09"
+            },
+            {
+              "id": "step_ch_090",
+              "type": "note",
+              "content": "自然公园1│",
+              "prefix": "■",
+              "group": "日常 09"
+            },
+            {
+              "id": "step_ch_091",
+              "type": "note",
+              "content": "自然公园2│",
+              "prefix": "■",
+              "group": "日常 09"
+            },
+            {
+              "id": "step_ch_092",
+              "type": "note",
+              "content": "观景台│",
+              "prefix": "■",
+              "group": "日常 09"
+            },
+            {
+              "id": "step_ch_093",
+              "type": "note",
+              "content": "河岸│",
+              "prefix": "■",
+              "group": "日常 09"
+            },
+            {
+              "id": "step_ch_094",
+              "type": "note",
+              "content": "车站⇒是的",
+              "prefix": "■",
+              "group": "日常 09"
+            },
+            {
+              "id": "step_ch_095",
+              "type": "choice",
+              "content": "不打招呼(车井)",
+              "prefix": "☆",
+              "group": "日常 09"
+            },
+            {
+              "id": "step_ch_096",
+              "type": "choice",
+              "content": "坚定自己的想法│千穂",
+              "group": "日常 09"
+            },
+            {
+              "id": "step_ch_097",
+              "type": "choice",
+              "content": "由我开口",
+              "group": "日常 09"
+            }
+          ]
+        },
+        {
+          "id": "ending_mikuru",
+          "name": "车井 美玖瑠 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_mk_001",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_mk_002",
+              "type": "note",
+              "content": "回家路线选择01",
+              "group": "日常 01"
+            },
+            {
+              "id": "step_mk_003",
+              "type": "choice",
+              "content": "和美玖瑠回家⇒是的",
+              "prefix": "★",
+              "group": "日常 01"
+            },
+            {
+              "id": "step_mk_004",
+              "type": "note",
+              "content": "自然公园1│",
+              "prefix": "■",
+              "group": "日常 01"
+            },
+            {
+              "id": "step_mk_005",
+              "type": "note",
+              "content": "自然公园2│",
+              "prefix": "■",
+              "group": "日常 01"
+            },
+            {
+              "id": "step_mk_006",
+              "type": "note",
+              "content": "林荫路│",
+              "prefix": "■",
+              "group": "日常 01"
+            },
+            {
+              "id": "step_mk_007",
+              "type": "note",
+              "content": "小吃街│",
+              "prefix": "■",
+              "group": "日常 01"
+            },
+            {
+              "id": "step_mk_008",
+              "type": "note",
+              "content": "车站⇒是的",
+              "prefix": "■",
+              "group": "日常 01"
+            },
+            {
+              "id": "step_mk_009",
+              "type": "choice",
+              "content": "打招呼│美玖瑠",
+              "group": "日常 01"
+            },
+            {
+              "id": "step_mk_010",
+              "type": "choice",
+              "content": "漫画",
+              "group": "日常 01"
+            },
+            {
+              "id": "step_mk_011",
+              "type": "choice",
+              "content": "继续听她讲",
+              "group": "日常 01"
+            },
+            {
+              "id": "step_mk_012",
+              "type": "choice",
+              "content": "我很开心",
+              "group": "日常 01"
+            },
+            {
+              "id": "step_mk_013",
+              "type": "choice",
+              "content": "找她占卜",
+              "group": "日常 02"
+            },
+            {
+              "id": "step_mk_014",
+              "type": "note",
+              "content": "回家路线选择02",
+              "group": "日常 02"
+            },
+            {
+              "id": "step_mk_015",
+              "type": "choice",
+              "content": "和美玖瑠回家⇒是的",
+              "prefix": "★",
+              "group": "日常 02"
+            },
+            {
+              "id": "step_mk_016",
+              "type": "note",
+              "content": "自然公园1│",
+              "prefix": "■",
+              "group": "日常 02"
+            },
+            {
+              "id": "step_mk_017",
+              "type": "note",
+              "content": "自然公园2│",
+              "prefix": "■",
+              "group": "日常 02"
+            },
+            {
+              "id": "step_mk_018",
+              "type": "note",
+              "content": "林荫路│",
+              "prefix": "■",
+              "group": "日常 02"
+            },
+            {
+              "id": "step_mk_019",
+              "type": "note",
+              "content": "小吃街│",
+              "prefix": "■",
+              "group": "日常 02"
+            },
+            {
+              "id": "step_mk_020",
+              "type": "note",
+              "content": "车站⇒是的",
+              "prefix": "■",
+              "group": "日常 02"
+            },
+            {
+              "id": "step_mk_021",
+              "type": "choice",
+              "content": "打招呼│美玖瑠",
+              "group": "日常 02"
+            },
+            {
+              "id": "step_mk_022",
+              "type": "choice",
+              "content": "聊起学校",
+              "group": "日常 02"
+            },
+            {
+              "id": "step_mk_023",
+              "type": "choice",
+              "content": "色色的东西",
+              "group": "日常 02"
+            },
+            {
+              "id": "step_mk_024",
+              "type": "choice",
+              "content": "酸的东西",
+              "group": "日常 02"
+            },
+            {
+              "id": "step_mk_025",
+              "type": "choice",
+              "content": "找她占卜",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_mk_026",
+              "type": "note",
+              "content": "回家路线选择03",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_mk_027",
+              "type": "choice",
+              "content": "和美玖瑠回家⇒是的",
+              "prefix": "★",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_mk_028",
+              "type": "note",
+              "content": "自然公园1│",
+              "prefix": "■",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_mk_029",
+              "type": "note",
+              "content": "自然公园2│",
+              "prefix": "■",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_mk_030",
+              "type": "note",
+              "content": "观景台│",
+              "prefix": "■",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_mk_031",
+              "type": "note",
+              "content": "河岸│",
+              "prefix": "■",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_mk_032",
+              "type": "note",
+              "content": "车站⇒是的",
+              "prefix": "■",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_mk_033",
+              "type": "choice",
+              "content": "不帮他",
+              "prefix": "☆",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_mk_034",
+              "type": "choice",
+              "content": "打招呼│美玖瑠",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_mk_035",
+              "type": "choice",
+              "content": "找她占卜",
+              "group": "日常 04"
+            },
+            {
+              "id": "step_mk_036",
+              "type": "note",
+              "content": "回家路线选择04",
+              "group": "日常 04"
+            },
+            {
+              "id": "step_mk_037",
+              "type": "choice",
+              "content": "和美玖瑠回家⇒是的",
+              "prefix": "★",
+              "group": "日常 04"
+            },
+            {
+              "id": "step_mk_038",
+              "type": "note",
+              "content": "自然公园1│",
+              "prefix": "■",
+              "group": "日常 04"
+            },
+            {
+              "id": "step_mk_039",
+              "type": "note",
+              "content": "自然公园2│",
+              "prefix": "■",
+              "group": "日常 04"
+            },
+            {
+              "id": "step_mk_040",
+              "type": "note",
+              "content": "林荫路│",
+              "prefix": "■",
+              "group": "日常 04"
+            },
+            {
+              "id": "step_mk_041",
+              "type": "note",
+              "content": "小吃街│",
+              "prefix": "■",
+              "group": "日常 04"
+            },
+            {
+              "id": "step_mk_042",
+              "type": "note",
+              "content": "车站⇒是的",
+              "prefix": "■",
+              "group": "日常 04"
+            },
+            {
+              "id": "step_mk_043",
+              "type": "choice",
+              "content": "打招呼│美玖瑠",
+              "group": "日常 04"
+            },
+            {
+              "id": "step_mk_044",
+              "type": "choice",
+              "content": "找她占卜",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_mk_045",
+              "type": "note",
+              "content": "回家路线选择05",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_mk_046",
+              "type": "choice",
+              "content": "和美玖瑠回家⇒是的",
+              "prefix": "★",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_mk_047",
+              "type": "note",
+              "content": "自然公园1│",
+              "prefix": "■",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_mk_048",
+              "type": "note",
+              "content": "自然公园2│",
+              "prefix": "■",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_mk_049",
+              "type": "note",
+              "content": "观景台│",
+              "prefix": "■",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_mk_050",
+              "type": "note",
+              "content": "河岸│",
+              "prefix": "■",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_mk_051",
+              "type": "note",
+              "content": "车站⇒是的",
+              "prefix": "■",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_mk_052",
+              "type": "choice",
+              "content": "直接回家",
+              "prefix": "☆",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_mk_053",
+              "type": "choice",
+              "content": "打招呼│美玖瑠",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_mk_054",
+              "type": "choice",
+              "content": "烟花棒",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_mk_055",
+              "type": "choice",
+              "content": "光头",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_mk_056",
+              "type": "choice",
+              "content": "单马尾",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_mk_057",
+              "type": "choice",
+              "content": "找她占卜",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_mk_058",
+              "type": "note",
+              "content": "回家路线选择06",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_mk_059",
+              "type": "choice",
+              "content": "和美玖瑠回家⇒是的",
+              "prefix": "★",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_mk_060",
+              "type": "note",
+              "content": "自然公园1│",
+              "prefix": "■",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_mk_061",
+              "type": "note",
+              "content": "自然公园2│",
+              "prefix": "■",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_mk_062",
+              "type": "note",
+              "content": "林荫路│",
+              "prefix": "■",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_mk_063",
+              "type": "note",
+              "content": "小吃街│",
+              "prefix": "■",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_mk_064",
+              "type": "note",
+              "content": "车站⇒是的",
+              "prefix": "■",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_mk_065",
+              "type": "choice",
+              "content": "直接回家",
+              "prefix": "☆",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_mk_066",
+              "type": "choice",
+              "content": "一起回去│美玖瑠",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_mk_067",
+              "type": "choice",
+              "content": "蜜瓜包",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_mk_068",
+              "type": "choice",
+              "content": "西班牙海鲜饭",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_mk_069",
+              "type": "choice",
+              "content": "我很开心",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_mk_070",
+              "type": "choice",
+              "content": "找她占卜",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_mk_071",
+              "type": "note",
+              "content": "回家路线选择07",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_mk_072",
+              "type": "choice",
+              "content": "和美玖瑠回家⇒是的",
+              "prefix": "★",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_mk_073",
+              "type": "note",
+              "content": "自然公园1│",
+              "prefix": "■",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_mk_074",
+              "type": "note",
+              "content": "自然公园2│",
+              "prefix": "■",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_mk_075",
+              "type": "note",
+              "content": "林荫路│",
+              "prefix": "■",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_mk_076",
+              "type": "note",
+              "content": "小吃街│",
+              "prefix": "■",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_mk_077",
+              "type": "note",
+              "content": "车站⇒是的",
+              "prefix": "■",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_mk_078",
+              "type": "choice",
+              "content": "一起回去│美玖瑠",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_mk_079",
+              "type": "choice",
+              "content": "修行篇章",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_mk_080",
+              "type": "choice",
+              "content": "恋爱喜剧",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_mk_081",
+              "type": "choice",
+              "content": "牵手",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_mk_082",
+              "type": "choice",
+              "content": "找她占卜",
+              "group": "日常 08"
+            },
+            {
+              "id": "step_mk_083",
+              "type": "note",
+              "content": "回家路线选择08",
+              "group": "日常 08"
+            },
+            {
+              "id": "step_mk_084",
+              "type": "choice",
+              "content": "看看情况│美玖瑠",
+              "group": "日常 08"
+            },
+            {
+              "id": "step_mk_085",
+              "type": "choice",
+              "content": "找她占卜",
+              "group": "日常 09"
+            },
+            {
+              "id": "step_mk_086",
+              "type": "note",
+              "content": "回家路线选择09",
+              "group": "日常 09"
+            },
+            {
+              "id": "step_mk_087",
+              "type": "choice",
+              "content": "和美玖瑠回家⇒是的",
+              "prefix": "★",
+              "group": "日常 09"
+            },
+            {
+              "id": "step_mk_088",
+              "type": "note",
+              "content": "自然公园1│",
+              "prefix": "■",
+              "group": "日常 09"
+            },
+            {
+              "id": "step_mk_089",
+              "type": "note",
+              "content": "自然公园2│",
+              "prefix": "■",
+              "group": "日常 09"
+            },
+            {
+              "id": "step_mk_090",
+              "type": "note",
+              "content": "林荫路│",
+              "prefix": "■",
+              "group": "日常 09"
+            },
+            {
+              "id": "step_mk_091",
+              "type": "note",
+              "content": "小吃街│",
+              "prefix": "■",
+              "group": "日常 09"
+            },
+            {
+              "id": "step_mk_092",
+              "type": "note",
+              "content": "车站⇒是的",
+              "prefix": "■",
+              "group": "日常 09"
+            },
+            {
+              "id": "step_mk_093",
+              "type": "choice",
+              "content": "打招呼│美玖瑠",
+              "group": "日常 09"
+            },
+            {
+              "id": "step_mk_094",
+              "type": "choice",
+              "content": "追究下去",
+              "group": "日常 09"
+            }
+          ]
+        },
+        {
+          "id": "ending_nene",
+          "name": "渡良濑 宁宁 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_nn_001",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_nn_002",
+              "type": "note",
+              "content": "回家路线选择01",
+              "group": "日常 01"
+            },
+            {
+              "id": "step_nn_003",
+              "type": "choice",
+              "content": "和宁宁回家⇒是的",
+              "prefix": "★",
+              "group": "日常 01"
+            },
+            {
+              "id": "step_nn_004",
+              "type": "note",
+              "content": "水上乐园前│",
+              "prefix": "■",
+              "group": "日常 01"
+            },
+            {
+              "id": "step_nn_005",
+              "type": "note",
+              "content": "奥特莱斯商场│",
+              "prefix": "■",
+              "group": "日常 01"
+            },
+            {
+              "id": "step_nn_006",
+              "type": "note",
+              "content": "十字路口│",
+              "prefix": "■",
+              "group": "日常 01"
+            },
+            {
+              "id": "step_nn_007",
+              "type": "note",
+              "content": "商业街│",
+              "prefix": "■",
+              "group": "日常 01"
+            },
+            {
+              "id": "step_nn_008",
+              "type": "note",
+              "content": "车站⇒是的",
+              "prefix": "■",
+              "group": "日常 01"
+            },
+            {
+              "id": "step_nn_009",
+              "type": "choice",
+              "content": "拒绝邀请",
+              "prefix": "☆",
+              "group": "日常 01"
+            },
+            {
+              "id": "step_nn_010",
+              "type": "choice",
+              "content": "打招呼│宁宁",
+              "group": "日常 01"
+            },
+            {
+              "id": "step_nn_011",
+              "type": "choice",
+              "content": "道谢",
+              "group": "日常 01"
+            },
+            {
+              "id": "step_nn_012",
+              "type": "choice",
+              "content": "高兴",
+              "group": "日常 01"
+            },
+            {
+              "id": "step_nn_013",
+              "type": "choice",
+              "content": "同感",
+              "group": "日常 01"
+            },
+            {
+              "id": "step_nn_014",
+              "type": "choice",
+              "content": "找她占卜",
+              "group": "日常 02"
+            },
+            {
+              "id": "step_nn_015",
+              "type": "note",
+              "content": "回家路线选择02",
+              "group": "日常 02"
+            },
+            {
+              "id": "step_nn_016",
+              "type": "choice",
+              "content": "和宁宁回家⇒是的",
+              "prefix": "★",
+              "group": "日常 02"
+            },
+            {
+              "id": "step_nn_017",
+              "type": "note",
+              "content": "水上乐园前│",
+              "prefix": "■",
+              "group": "日常 02"
+            },
+            {
+              "id": "step_nn_018",
+              "type": "note",
+              "content": "奥特莱斯商场│",
+              "prefix": "■",
+              "group": "日常 02"
+            },
+            {
+              "id": "step_nn_019",
+              "type": "note",
+              "content": "十字路口│",
+              "prefix": "■",
+              "group": "日常 02"
+            },
+            {
+              "id": "step_nn_020",
+              "type": "note",
+              "content": "繁华街│",
+              "prefix": "■",
+              "group": "日常 02"
+            },
+            {
+              "id": "step_nn_021",
+              "type": "note",
+              "content": "车站⇒是的",
+              "prefix": "■",
+              "group": "日常 02"
+            },
+            {
+              "id": "step_nn_022",
+              "type": "choice",
+              "content": "拒绝邀请",
+              "prefix": "☆",
+              "group": "日常 02"
+            },
+            {
+              "id": "step_nn_023",
+              "type": "choice",
+              "content": "打招呼│宁宁",
+              "group": "日常 02"
+            },
+            {
+              "id": "step_nn_024",
+              "type": "choice",
+              "content": "找她占卜",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_nn_025",
+              "type": "note",
+              "content": "回家路线选择03",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_nn_026",
+              "type": "choice",
+              "content": "和宁宁回家⇒是的",
+              "prefix": "★",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_nn_027",
+              "type": "note",
+              "content": "自然公园1│",
+              "prefix": "■",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_nn_028",
+              "type": "note",
+              "content": "自然公园2│",
+              "prefix": "■",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_nn_029",
+              "type": "note",
+              "content": "林荫路│",
+              "prefix": "■",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_nn_030",
+              "type": "note",
+              "content": "小吃街│",
+              "prefix": "■",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_nn_031",
+              "type": "note",
+              "content": "车站⇒是的",
+              "prefix": "■",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_nn_032",
+              "type": "choice",
+              "content": "不打招呼(车井)",
+              "prefix": "☆",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_nn_033",
+              "type": "choice",
+              "content": "当作没看见",
+              "prefix": "☆",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_nn_034",
+              "type": "choice",
+              "content": "打招呼│宁宁",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_nn_035",
+              "type": "choice",
+              "content": "认真回答",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_nn_036",
+              "type": "choice",
+              "content": "直接回家去了",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_nn_037",
+              "type": "choice",
+              "content": "安慰",
+              "group": "日常 03"
+            },
+            {
+              "id": "step_nn_038",
+              "type": "choice",
+              "content": "找她占卜",
+              "group": "日常 04"
+            },
+            {
+              "id": "step_nn_039",
+              "type": "note",
+              "content": "回家路线选择04",
+              "group": "日常 04"
+            },
+            {
+              "id": "step_nn_040",
+              "type": "choice",
+              "content": "和宁宁回家⇒是的",
+              "prefix": "★",
+              "group": "日常 04"
+            },
+            {
+              "id": "step_nn_041",
+              "type": "note",
+              "content": "水上乐园前│",
+              "prefix": "■",
+              "group": "日常 04"
+            },
+            {
+              "id": "step_nn_042",
+              "type": "note",
+              "content": "奥特莱斯商场│",
+              "prefix": "■",
+              "group": "日常 04"
+            },
+            {
+              "id": "step_nn_043",
+              "type": "note",
+              "content": "十字路口│",
+              "prefix": "■",
+              "group": "日常 04"
+            },
+            {
+              "id": "step_nn_044",
+              "type": "note",
+              "content": "商业街│",
+              "prefix": "■",
+              "group": "日常 04"
+            },
+            {
+              "id": "step_nn_045",
+              "type": "note",
+              "content": "车站⇒是的",
+              "prefix": "■",
+              "group": "日常 04"
+            },
+            {
+              "id": "step_nn_046",
+              "type": "choice",
+              "content": "拒绝邀请",
+              "prefix": "☆",
+              "group": "日常 04"
+            },
+            {
+              "id": "step_nn_047",
+              "type": "choice",
+              "content": "打招呼│宁宁",
+              "group": "日常 04"
+            },
+            {
+              "id": "step_nn_048",
+              "type": "choice",
+              "content": "找她占卜",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_nn_049",
+              "type": "note",
+              "content": "回家路线选择05",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_nn_050",
+              "type": "choice",
+              "content": "和宁宁回家⇒是的",
+              "prefix": "★",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_nn_051",
+              "type": "note",
+              "content": "水上乐园前│",
+              "prefix": "■",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_nn_052",
+              "type": "note",
+              "content": "奥特莱斯商场│",
+              "prefix": "■",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_nn_053",
+              "type": "note",
+              "content": "十字路口│",
+              "prefix": "■",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_nn_054",
+              "type": "note",
+              "content": "繁华街│",
+              "prefix": "■",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_nn_055",
+              "type": "note",
+              "content": "车站⇒是的",
+              "prefix": "■",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_nn_056",
+              "type": "choice",
+              "content": "振作起来回家",
+              "prefix": "☆",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_nn_057",
+              "type": "choice",
+              "content": "一起回去│宁宁",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_nn_058",
+              "type": "choice",
+              "content": "正常回答",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_nn_059",
+              "type": "choice",
+              "content": "往死里夸",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_nn_060",
+              "type": "choice",
+              "content": "我很高兴",
+              "group": "日常 05"
+            },
+            {
+              "id": "step_nn_061",
+              "type": "choice",
+              "content": "找她占卜",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_nn_062",
+              "type": "note",
+              "content": "回家路线选择06",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_nn_063",
+              "type": "choice",
+              "content": "和宁宁回家⇒是的",
+              "prefix": "★",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_nn_064",
+              "type": "note",
+              "content": "住宅区1│",
+              "prefix": "■",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_nn_065",
+              "type": "note",
+              "content": "住宅区2│",
+              "prefix": "■",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_nn_066",
+              "type": "note",
+              "content": "高层公寓前│",
+              "prefix": "■",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_nn_067",
+              "type": "note",
+              "content": "商业街│",
+              "prefix": "■",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_nn_068",
+              "type": "note",
+              "content": "车站⇒是的",
+              "prefix": "■",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_nn_069",
+              "type": "choice",
+              "content": "一起回家│宁宁",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_nn_070",
+              "type": "choice",
+              "content": "夸夸她",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_nn_071",
+              "type": "choice",
+              "content": "中式",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_nn_072",
+              "type": "choice",
+              "content": "答应",
+              "group": "日常 06"
+            },
+            {
+              "id": "step_nn_073",
+              "type": "choice",
+              "content": "找她占卜",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_nn_074",
+              "type": "note",
+              "content": "回家路线选择07",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_nn_075",
+              "type": "choice",
+              "content": "和宁宁回家⇒是的",
+              "prefix": "★",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_nn_076",
+              "type": "note",
+              "content": "水上乐园前│",
+              "prefix": "■",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_nn_077",
+              "type": "note",
+              "content": "住宅区2│",
+              "prefix": "■",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_nn_078",
+              "type": "note",
+              "content": "高层公寓前│",
+              "prefix": "■",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_nn_079",
+              "type": "note",
+              "content": "商业街│",
+              "prefix": "■",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_nn_080",
+              "type": "note",
+              "content": "车站⇒是的",
+              "prefix": "■",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_nn_081",
+              "type": "choice",
+              "content": "打招呼│宁宁",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_nn_082",
+              "type": "choice",
+              "content": "正常回答",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_nn_083",
+              "type": "choice",
+              "content": "认真回答",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_nn_084",
+              "type": "choice",
+              "content": "由自己开口",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_nn_085",
+              "type": "choice",
+              "content": "找她占卜",
+              "group": "日常 08"
+            },
+            {
+              "id": "step_nn_086",
+              "type": "note",
+              "content": "回家路线选择08",
+              "group": "日常 08"
+            },
+            {
+              "id": "step_nn_087",
+              "type": "choice",
+              "content": "观察观察│宁宁",
+              "group": "日常 08"
+            },
+            {
+              "id": "step_nn_088",
+              "type": "choice",
+              "content": "正常回答",
+              "group": "日常 08"
+            },
+            {
+              "id": "step_nn_089",
+              "type": "choice",
+              "content": "有(3次元)",
+              "group": "日常 08"
+            },
+            {
+              "id": "step_nn_090",
+              "type": "choice",
+              "content": "牵手",
+              "group": "日常 08"
+            },
+            {
+              "id": "step_nn_091",
+              "type": "choice",
+              "content": "找她占卜",
+              "group": "日常 09"
+            },
+            {
+              "id": "step_nn_092",
+              "type": "note",
+              "content": "回家路线选择09",
+              "group": "日常 09"
+            },
+            {
+              "id": "step_nn_093",
+              "type": "choice",
+              "content": "和宁宁回家⇒是的",
+              "prefix": "★",
+              "group": "日常 09"
+            },
+            {
+              "id": "step_nn_094",
+              "type": "note",
+              "content": "水上乐园前│",
+              "prefix": "■",
+              "group": "日常 09"
+            },
+            {
+              "id": "step_nn_095",
+              "type": "note",
+              "content": "住宅区2│",
+              "prefix": "■",
+              "group": "日常 09"
+            },
+            {
+              "id": "step_nn_096",
+              "type": "note",
+              "content": "高层公寓前│",
+              "prefix": "■",
+              "group": "日常 09"
+            },
+            {
+              "id": "step_nn_097",
+              "type": "note",
+              "content": "商业街│",
+              "prefix": "■",
+              "group": "日常 09"
+            },
+            {
+              "id": "step_nn_098",
+              "type": "note",
+              "content": "车站⇒是的",
+              "prefix": "■",
+              "group": "日常 09"
+            },
+            {
+              "id": "step_nn_099",
+              "type": "choice",
+              "content": "追究下去",
+              "group": "日常 09"
+            }
+          ]
+        },
+        {
+          "id": "ending_serika",
+          "name": "窓川 芹香 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_sk_001",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_sk_002",
+              "type": "note",
+              "content": "回家路线选择07",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_sk_003",
+              "type": "choice",
+              "content": "和芹香回家⇒是的",
+              "prefix": "★",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_sk_004",
+              "type": "note",
+              "content": "公交车站",
+              "prefix": "■",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_sk_005",
+              "type": "note",
+              "content": "车站⇒是的",
+              "prefix": "■",
+              "group": "日常 07"
+            },
+            {
+              "id": "step_sk_006",
+              "type": "choice",
+              "content": "找她占卜│7",
+              "group": "日常 08"
+            },
+            {
+              "id": "step_sk_007",
+              "type": "note",
+              "content": "回家路线选择08",
+              "group": "日常 08"
+            },
+            {
+              "id": "step_sk_008",
+              "type": "choice",
+              "content": "和芹香回家⇒是的",
+              "prefix": "★",
+              "group": "日常 08"
+            },
+            {
+              "id": "step_sk_009",
+              "type": "note",
+              "content": "公交车站",
+              "prefix": "■",
+              "group": "日常 08"
+            },
+            {
+              "id": "step_sk_010",
+              "type": "note",
+              "content": "车站⇒是的",
+              "prefix": "■",
+              "group": "日常 08"
+            },
+            {
+              "id": "step_sk_011",
+              "type": "choice",
+              "content": "找她占卜│8",
+              "group": "日常 09"
+            },
+            {
+              "id": "step_sk_012",
+              "type": "note",
+              "content": "回家路线选择09",
+              "group": "日常 09"
+            },
+            {
+              "id": "step_sk_013",
+              "type": "choice",
+              "content": "和芹香回家⇒是的",
+              "prefix": "★",
+              "group": "日常 09"
+            },
+            {
+              "id": "step_sk_014",
+              "type": "note",
+              "content": "公交车站",
+              "prefix": "■",
+              "group": "日常 09"
+            },
+            {
+              "id": "step_sk_015",
+              "type": "note",
+              "content": "车站⇒是的",
+              "prefix": "■",
+              "group": "日常 09"
+            },
+            {
+              "id": "step_sk_016",
+              "type": "choice",
+              "content": "打招呼│芹香",
+              "group": "日常 09"
+            },
+            {
+              "id": "step_sk_017",
+              "type": "choice",
+              "content": "家庭餐厅",
+              "group": "日常 09"
+            },
+            {
+              "id": "step_sk_018",
+              "type": "choice",
+              "content": "奶茶",
+              "group": "日常 09"
+            },
+            {
+              "id": "step_sk_019",
+              "type": "choice",
+              "content": "两样都吃",
+              "group": "日常 09"
+            },
+            {
+              "id": "step_sk_020",
+              "type": "choice",
+              "content": "找她占卜│9",
+              "group": "日常 10"
+            },
+            {
+              "id": "step_sk_021",
+              "type": "note",
+              "content": "回家路线选择10",
+              "group": "日常 10"
+            },
+            {
+              "id": "step_sk_022",
+              "type": "choice",
+              "content": "和芹香回家⇒是的",
+              "prefix": "★",
+              "group": "日常 10"
+            },
+            {
+              "id": "step_sk_023",
+              "type": "note",
+              "content": "住宅区1│",
+              "prefix": "■",
+              "group": "日常 10"
+            },
+            {
+              "id": "step_sk_024",
+              "type": "note",
+              "content": "住宅区2│",
+              "prefix": "■",
+              "group": "日常 10"
+            },
+            {
+              "id": "step_sk_025",
+              "type": "note",
+              "content": "十字路口│",
+              "prefix": "■",
+              "group": "日常 10"
+            },
+            {
+              "id": "step_sk_026",
+              "type": "note",
+              "content": "商业街│",
+              "prefix": "■",
+              "group": "日常 10"
+            },
+            {
+              "id": "step_sk_027",
+              "type": "note",
+              "content": "车站⇒是的",
+              "prefix": "■",
+              "group": "日常 10"
+            },
+            {
+              "id": "step_sk_028",
+              "type": "choice",
+              "content": "享受独处",
+              "prefix": "☆",
+              "group": "日常 10"
+            },
+            {
+              "id": "step_sk_029",
+              "type": "choice",
+              "content": "打招呼│芹香",
+              "group": "日常 10"
+            },
+            {
+              "id": "step_sk_030",
+              "type": "choice",
+              "content": "美术",
+              "group": "日常 10"
+            },
+            {
+              "id": "step_sk_031",
+              "type": "choice",
+              "content": "接她的话",
+              "group": "日常 10"
+            },
+            {
+              "id": "step_sk_032",
+              "type": "choice",
+              "content": "茶点",
+              "group": "日常 10"
+            },
+            {
+              "id": "step_sk_033",
+              "type": "choice",
+              "content": "找她占卜│10",
+              "group": "日常 11"
+            },
+            {
+              "id": "step_sk_034",
+              "type": "note",
+              "content": "回家路线选择11",
+              "group": "日常 11"
+            },
+            {
+              "id": "step_sk_035",
+              "type": "choice",
+              "content": "和芹香回家⇒是的",
+              "prefix": "★",
+              "group": "日常 11"
+            },
+            {
+              "id": "step_sk_036",
+              "type": "note",
+              "content": "公交车站",
+              "prefix": "■",
+              "group": "日常 11"
+            },
+            {
+              "id": "step_sk_037",
+              "type": "note",
+              "content": "车站⇒是的",
+              "prefix": "■",
+              "group": "日常 11"
+            },
+            {
+              "id": "step_sk_038",
+              "type": "choice",
+              "content": "打招呼│芹香",
+              "group": "日常 11"
+            },
+            {
+              "id": "step_sk_039",
+              "type": "choice",
+              "content": "喜欢",
+              "group": "日常 11"
+            },
+            {
+              "id": "step_sk_040",
+              "type": "choice",
+              "content": "注视着她的眼睛",
+              "group": "日常 11"
+            },
+            {
+              "id": "step_sk_041",
+              "type": "choice",
+              "content": "闭上眼睛",
+              "group": "日常 11"
+            },
+            {
+              "id": "step_sk_042",
+              "type": "choice",
+              "content": "找她占卜│11",
+              "group": "日常 12"
+            },
+            {
+              "id": "step_sk_043",
+              "type": "note",
+              "content": "回家路线选择12",
+              "group": "日常 12"
+            },
+            {
+              "id": "step_sk_044",
+              "type": "choice",
+              "content": "和芹香回家⇒是的",
+              "prefix": "★",
+              "group": "日常 12"
+            },
+            {
+              "id": "step_sk_045",
+              "type": "note",
+              "content": "住宅区1│",
+              "prefix": "■",
+              "group": "日常 12"
+            },
+            {
+              "id": "step_sk_046",
+              "type": "note",
+              "content": "住宅区2│",
+              "prefix": "■",
+              "group": "日常 12"
+            },
+            {
+              "id": "step_sk_047",
+              "type": "note",
+              "content": "十字路口│",
+              "prefix": "■",
+              "group": "日常 12"
+            },
+            {
+              "id": "step_sk_048",
+              "type": "note",
+              "content": "商业街│",
+              "prefix": "■",
+              "group": "日常 12"
+            },
+            {
+              "id": "step_sk_049",
+              "type": "note",
+              "content": "车站⇒是的",
+              "prefix": "■",
+              "group": "日常 12"
+            },
+            {
+              "id": "step_sk_050",
+              "type": "choice",
+              "content": "远离他们",
+              "prefix": "☆",
+              "group": "日常 12"
+            },
+            {
+              "id": "step_sk_051",
+              "type": "choice",
+              "content": "陪芹香│芹香",
+              "group": "日常 12"
+            },
+            {
+              "id": "step_sk_052",
+              "type": "choice",
+              "content": "找她占卜│12",
+              "group": "日常 13"
+            },
+            {
+              "id": "step_sk_053",
+              "type": "note",
+              "content": "回家路线选择13",
+              "group": "日常 13"
+            },
+            {
+              "id": "step_sk_054",
+              "type": "choice",
+              "content": "和芹香回家⇒是的",
+              "prefix": "★",
+              "group": "日常 13"
+            },
+            {
+              "id": "step_sk_055",
+              "type": "note",
+              "content": "住宅区1│",
+              "prefix": "■",
+              "group": "日常 13"
+            },
+            {
+              "id": "step_sk_056",
+              "type": "note",
+              "content": "住宅区2│",
+              "prefix": "■",
+              "group": "日常 13"
+            },
+            {
+              "id": "step_sk_057",
+              "type": "note",
+              "content": "十字路口│",
+              "prefix": "■",
+              "group": "日常 13"
+            },
+            {
+              "id": "step_sk_058",
+              "type": "note",
+              "content": "商业街│",
+              "prefix": "■",
+              "group": "日常 13"
+            },
+            {
+              "id": "step_sk_059",
+              "type": "note",
+              "content": "车站⇒是的",
+              "prefix": "■",
+              "group": "日常 13"
+            },
+            {
+              "id": "step_sk_060",
+              "type": "choice",
+              "content": "带他去派出所",
+              "prefix": "☆",
+              "group": "日常 13"
+            },
+            {
+              "id": "step_sk_061",
+              "type": "choice",
+              "content": "打招呼│芹香",
+              "group": "日常 13"
+            },
+            {
+              "id": "step_sk_062",
+              "type": "choice",
+              "content": "担心了",
+              "group": "日常 13"
+            },
+            {
+              "id": "step_sk_063",
+              "type": "choice",
+              "content": "网咖",
+              "group": "日常 13"
+            },
+            {
+              "id": "step_sk_064",
+              "type": "choice",
+              "content": "只去过家庭餐厅",
+              "group": "日常 13"
+            },
+            {
+              "id": "step_sk_065",
+              "type": "choice",
+              "content": "找她占卜│13",
+              "group": "日常 14"
+            },
+            {
+              "id": "step_sk_066",
+              "type": "note",
+              "content": "回家路线选择14",
+              "group": "日常 14"
+            },
+            {
+              "id": "step_sk_067",
+              "type": "choice",
+              "content": "打招呼│芹香",
+              "group": "日常 14"
+            },
+            {
+              "id": "step_sk_068",
+              "type": "choice",
+              "content": "强硬地接近",
+              "group": "日常 14"
+            },
+            {
+              "id": "step_sk_069",
+              "type": "choice",
+              "content": "接吻",
+              "group": "日常 14"
+            },
+            {
+              "id": "step_sk_070",
+              "type": "choice",
+              "content": "牵着她的手",
+              "group": "日常 14"
+            },
+            {
+              "id": "step_sk_071",
+              "type": "choice",
+              "content": "找她占卜│14",
+              "group": "日常 15"
+            },
+            {
+              "id": "step_sk_072",
+              "type": "save",
+              "content": "SAVE 3",
+              "group": "日常 15"
+            },
+            {
+              "id": "step_sk_073",
+              "type": "note",
+              "content": "回家路线选择15",
+              "group": "日常 15"
+            },
+            {
+              "id": "step_sk_074",
+              "type": "choice",
+              "content": "和芹香回家⇒是的",
+              "prefix": "★",
+              "group": "日常 15"
+            },
+            {
+              "id": "step_sk_075",
+              "type": "note",
+              "content": "住宅区1│",
+              "prefix": "■",
+              "group": "日常 15"
+            },
+            {
+              "id": "step_sk_076",
+              "type": "note",
+              "content": "住宅区2│",
+              "prefix": "■",
+              "group": "日常 15"
+            },
+            {
+              "id": "step_sk_077",
+              "type": "note",
+              "content": "十字路口│",
+              "prefix": "■",
+              "group": "日常 15"
+            },
+            {
+              "id": "step_sk_078",
+              "type": "note",
+              "content": "商业街│",
+              "prefix": "■",
+              "group": "日常 15"
+            },
+            {
+              "id": "step_sk_079",
+              "type": "note",
+              "content": "车站⇒是的",
+              "prefix": "■",
+              "group": "日常 15"
+            },
+            {
+              "id": "step_sk_080",
+              "type": "choice",
+              "content": "打招呼│芹香",
+              "group": "日常 15"
+            },
+            {
+              "id": "step_sk_081",
+              "type": "choice",
+              "content": "在意下去",
+              "group": "日常 15"
+            },
+            {
+              "id": "step_sk_082",
+              "type": "choice",
+              "content": "传达给她",
+              "group": "日常 15"
+            },
+            {
+              "id": "step_sk_083",
+              "type": "choice",
+              "content": "夸她",
+              "group": "窓川芹香 02"
+            },
+            {
+              "id": "step_sk_087",
+              "type": "choice",
+              "content": "烦恼",
+              "group": "窓川芹香 08"
+            },
+            {
+              "id": "step_sk_088",
+              "type": "choice",
+              "content": "回忆起芹香的话语",
+              "group": "窓川芹香 08"
+            }
+          ]
+        },
+        {
+          "id": "ending_tomoko",
+          "name": "下吹 友子 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_tk_001",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_tk_002",
+              "type": "note",
+              "content": "回家路线选择15",
+              "group": "回家路线选择15"
+            },
+            {
+              "id": "step_tk_003",
+              "type": "note",
+              "content": "水上乐园前│",
+              "prefix": "■",
+              "group": "回家路线选择15"
+            },
+            {
+              "id": "step_tk_004",
+              "type": "note",
+              "content": "自然公园2│",
+              "prefix": "■",
+              "group": "回家路线选择15"
+            },
+            {
+              "id": "step_tk_005",
+              "type": "note",
+              "content": "林荫路│",
+              "prefix": "■",
+              "group": "回家路线选择15"
+            },
+            {
+              "id": "step_tk_006",
+              "type": "note",
+              "content": "繁华街│",
+              "prefix": "■",
+              "group": "回家路线选择15"
+            },
+            {
+              "id": "step_tk_007",
+              "type": "note",
+              "content": "车站⇒是的",
+              "prefix": "■",
+              "group": "回家路线选择15"
+            },
+            {
+              "id": "step_tk_008",
+              "type": "choice",
+              "content": "拒绝",
+              "group": "回家路线选择15"
+            },
+            {
+              "id": "step_tk_009",
+              "type": "choice",
+              "content": "不打招呼",
+              "group": "回家路线选择15"
+            },
+            {
+              "id": "step_tk_010",
+              "type": "save",
+              "content": "SAVE 4",
+              "group": "日常 16"
+            },
+            {
+              "id": "step_tk_011",
+              "type": "choice",
+              "content": "找她占卜│15",
+              "group": "日常 16"
+            },
+            {
+              "id": "step_tk_012",
+              "type": "note",
+              "content": "回家路线选择16",
+              "group": "日常 16"
+            },
+            {
+              "id": "step_tk_013",
+              "type": "note",
+              "content": "水上乐园前│",
+              "prefix": "■",
+              "group": "日常 16"
+            },
+            {
+              "id": "step_tk_014",
+              "type": "note",
+              "content": "自然公园2│",
+              "prefix": "■",
+              "group": "日常 16"
+            },
+            {
+              "id": "step_tk_015",
+              "type": "note",
+              "content": "林荫路│",
+              "prefix": "■",
+              "group": "日常 16"
+            },
+            {
+              "id": "step_tk_016",
+              "type": "note",
+              "content": "繁华街│",
+              "prefix": "■",
+              "group": "日常 16"
+            },
+            {
+              "id": "step_tk_017",
+              "type": "note",
+              "content": "车站⇒是的",
+              "prefix": "■",
+              "group": "日常 16"
+            },
+            {
+              "id": "step_tk_018",
+              "type": "choice",
+              "content": "就这样回家",
+              "prefix": "☆",
+              "group": "日常 16"
+            },
+            {
+              "id": "step_tk_019",
+              "type": "choice",
+              "content": "不打招呼",
+              "group": "日常 16"
+            },
+            {
+              "id": "step_tk_020",
+              "type": "choice",
+              "content": "忍着不买",
+              "group": "日常 16"
+            }
+          ]
+        },
+        {
+          "id": "ending_normal",
+          "name": "通常 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_nm_001",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_nm_002",
+              "type": "choice",
+              "content": "不找她占卜",
+              "group": "日常 16"
+            },
+            {
+              "id": "step_nm_003",
+              "type": "note",
+              "content": "回家路线选择16",
+              "group": "日常 16"
+            },
+            {
+              "id": "step_nm_004",
+              "type": "note",
+              "content": "水上乐园前│",
+              "prefix": "■",
+              "group": "日常 16"
+            },
+            {
+              "id": "step_nm_005",
+              "type": "note",
+              "content": "自然公园2│",
+              "prefix": "■",
+              "group": "日常 16"
+            },
+            {
+              "id": "step_nm_006",
+              "type": "note",
+              "content": "林荫路│",
+              "prefix": "■",
+              "group": "日常 16"
+            },
+            {
+              "id": "step_nm_007",
+              "type": "note",
+              "content": "繁华街│",
+              "prefix": "■",
+              "group": "日常 16"
+            },
+            {
+              "id": "step_nm_008",
+              "type": "note",
+              "content": "车站⇒是的",
+              "prefix": "■",
+              "group": "日常 16"
+            },
+            {
+              "id": "step_nm_009",
+              "type": "choice",
+              "content": "就这样回家",
+              "prefix": "☆",
+              "group": "日常 16"
+            },
+            {
+              "id": "step_nm_010",
+              "type": "choice",
+              "content": "不打招呼",
+              "group": "日常 16"
+            },
+            {
+              "id": "step_nm_011",
+              "type": "choice",
+              "content": "忍着不买",
+              "group": "日常 16"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

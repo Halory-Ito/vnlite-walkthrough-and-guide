@@ -1,0 +1,311 @@
+{
+  "vid": "v19841",
+  "name": {
+    "zh-cn": "野良与皇女与流浪猫之心2",
+    "en-us": "The Princess, the Stray Cat, and Matters of the Heart 2",
+    "ja-jp": "ノラと皇女と野良猫ハート2",
+    "ja-Latn": "nora-to-oujo-to-noraneko-heart-2"
+  },
+  "level": 2,
+  "updatedAt": "2026-03-03",
+  "tips": [
+    "开始攻略前请先下载并安装游戏的修正补丁",
+    "本编角色攻略完毕后，■Extra⇒Extra Story中会追加附赠剧情",
+    "( )标记的选项请自行选择，回收CG"
+  ],
+  "routes": [
+    {
+      "id": "route_1767431296446",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1767431320691",
+          "name": "爱丽丝",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1767431726101",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1767431729006",
+              "type": "choice",
+              "content": "皇女大人的备考"
+            },
+            {
+              "id": "step_1767431729165",
+              "type": "choice",
+              "content": "猫的视角『大会』"
+            },
+            {
+              "id": "step_1767431729464",
+              "type": "choice",
+              "content": "(猫的视角『美容』)"
+            },
+            {
+              "id": "step_1767431730177",
+              "type": "choice",
+              "content": "猫的视角『无人岛』"
+            },
+            {
+              "id": "step_1767431730350",
+              "type": "choice",
+              "content": "(猫的视角『拒绝入境』)"
+            },
+            {
+              "id": "step_1767431730554",
+              "type": "choice",
+              "content": "猫的视角『吃得下电风扇的男人』"
+            },
+            {
+              "id": "step_1767431774730",
+              "type": "choice",
+              "content": "(猫的视角『钻石』)"
+            },
+            {
+              "id": "step_1767431775049",
+              "type": "choice",
+              "content": "(猫的视角『难以启齿』)"
+            }
+          ]
+        },
+        {
+          "id": "ending_1767431837444",
+          "name": "信千奈",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1767431850971",
+              "type": "note",
+              "content": "Extra⇒Extra Story"
+            },
+            {
+              "id": "step_1767431851966",
+              "type": "choice",
+              "content": "爱丽丝・冬季・安库莱"
+            },
+            {
+              "id": "step_1767431852315",
+              "type": "choice",
+              "content": "诺艾尔・扎・奈克斯希登"
+            },
+            {
+              "id": "step_1767431853487",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1767431854421",
+              "type": "choice",
+              "content": "红发的少女"
+            },
+            {
+              "id": "step_1767431855358",
+              "type": "choice",
+              "content": "亲自开车到小镇(看着帕特里夏开车)"
+            },
+            {
+              "id": "step_1767431855936",
+              "type": "choice",
+              "content": "※小游戏(观看时自动操作)"
+            }
+          ]
+        },
+        {
+          "id": "ending_1767431968277",
+          "name": "露西亚",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1767431979461",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1767431985917",
+              "type": "choice",
+              "content": "朱红色的沙漠"
+            },
+            {
+              "id": "step_1767431986087",
+              "type": "choice",
+              "content": "猫的视角『节食』"
+            },
+            {
+              "id": "step_1767431986348",
+              "type": "choice",
+              "content": "(猫的视角『第8个加尔姆』)"
+            }
+          ]
+        },
+        {
+          "id": "ending_1767432004971",
+          "name": "尤菈夏",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1767432023999",
+              "type": "note",
+              "content": "Extra⇒Extra Story"
+            },
+            {
+              "id": "step_1767432036858",
+              "type": "choice",
+              "content": "帕特里夏・奥夫・恩德"
+            },
+            {
+              "id": "step_1767432056566",
+              "type": "choice",
+              "content": "猫的视角『击球员』"
+            },
+            {
+              "id": "step_1767432056758",
+              "type": "choice",
+              "content": "(猫的视角『石头』)"
+            },
+            {
+              "id": "step_1767432056948",
+              "type": "choice",
+              "content": "(猫的视角『诗歌』)"
+            },
+            {
+              "id": "step_1767432057211",
+              "type": "choice",
+              "content": "夕莉夏琪"
+            },
+            {
+              "id": "step_1767432096399",
+              "type": "choice",
+              "content": "猫的视角『奥露佳与墙』"
+            },
+            {
+              "id": "step_1767432096724",
+              "type": "choice",
+              "content": "(猫的视角『吃饭』)"
+            },
+            {
+              "id": "step_1767432136079",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1767432138932",
+              "type": "choice",
+              "content": "手机和歌都喜欢"
+            }
+          ]
+        },
+        {
+          "id": "ending_1767432179482",
+          "name": "Extra⇒Extra Story",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1767432202166",
+              "type": "choice",
+              "content": "黒木未知"
+            },
+            {
+              "id": "step_1767432202318",
+              "type": "choice",
+              "content": "猫的视角『像素』"
+            },
+            {
+              "id": "step_1767432202515",
+              "type": "choice",
+              "content": "(猫的视角『违反校规』)"
+            },
+            {
+              "id": "step_1767432202699",
+              "type": "choice",
+              "content": "(猫的视角『诗歌』)"
+            },
+            {
+              "id": "step_1767432202933",
+              "type": "choice",
+              "content": "明日原优纪"
+            },
+            {
+              "id": "step_1767432203274",
+              "type": "choice",
+              "content": "猫的视角『乐观』"
+            },
+            {
+              "id": "step_1767432203648",
+              "type": "choice",
+              "content": "(猫的视角『双陆棋』)"
+            }
+          ]
+        },
+        {
+          "id": "ending_1767432242527",
+          "name": "Extra⇒Cat Thinking",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1767432257048",
+              "type": "choice",
+              "content": "小辣椒勇者信千奈"
+            },
+            {
+              "id": "step_1767432257235",
+              "type": "choice",
+              "content": "极寒皇女爱丽丝 １.旅行"
+            },
+            {
+              "id": "step_1767432257383",
+              "type": "choice",
+              "content": "极寒皇女爱丽丝 ２.相遇"
+            },
+            {
+              "id": "step_1767432257522",
+              "type": "choice",
+              "content": "极寒皇女爱丽丝 ３.行军"
+            },
+            {
+              "id": "step_1767432257709",
+              "type": "choice",
+              "content": "极寒皇女爱丽丝 ４.拾得物"
+            },
+            {
+              "id": "step_1767432257855",
+              "type": "choice",
+              "content": "极寒皇女爱丽丝 ５.突发奇想"
+            },
+            {
+              "id": "step_1767432258030",
+              "type": "choice",
+              "content": "极寒皇女爱丽丝 ６.一个时代"
+            },
+            {
+              "id": "step_1767432258207",
+              "type": "choice",
+              "content": "极寒皇女爱丽丝 ７.余命七日"
+            },
+            {
+              "id": "step_1767432258331",
+              "type": "choice",
+              "content": "极寒皇女爱丽丝 ８.四则运算"
+            },
+            {
+              "id": "step_1767432303865",
+              "type": "choice",
+              "content": "极寒皇女爱丽丝 ９.反对建设"
+            },
+            {
+              "id": "step_1767432304077",
+              "type": "choice",
+              "content": "极寒皇女爱丽丝 10.直白的真相"
+            },
+            {
+              "id": "step_1767432304287",
+              "type": "choice",
+              "content": "极寒皇女爱丽丝 11.同窗聚会"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

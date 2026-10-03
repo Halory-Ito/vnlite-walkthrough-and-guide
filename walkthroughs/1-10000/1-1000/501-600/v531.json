@@ -1,0 +1,575 @@
+{
+  "vid": "v531",
+  "name": {
+    "zh-cn": "夏色小町",
+    "ja-jp": "夏色小町",
+    "ja-Latn": "natsuiro-komachi"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-14",
+  "routes": [
+    {
+      "id": "route_game_walkthrough",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_mikoto_bad_end",
+          "name": "有贺美琴 END1",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_mikoto_bad_01",
+              "type": "note",
+              "content": "有贺美琴"
+            },
+            {
+              "id": "step_mikoto_bad_02",
+              "type": "choice",
+              "content": "不在意，直接去校舍",
+              "group": "7月23日"
+            },
+            {
+              "id": "step_mikoto_bad_03",
+              "type": "choice",
+              "content": "太可惜了，不分给她",
+              "group": "7月23日"
+            },
+            {
+              "id": "step_mikoto_bad_04",
+              "type": "choice",
+              "content": "赶紧去弓道部",
+              "group": "7月23日"
+            },
+            {
+              "id": "step_mikoto_bad_05",
+              "type": "choice",
+              "content": "试着邀请她一起回家",
+              "group": "7月23日"
+            },
+            {
+              "id": "step_mikoto_bad_06",
+              "type": "choice",
+              "content": "起床",
+              "group": "7月24日"
+            },
+            {
+              "id": "step_mikoto_bad_07",
+              "type": "choice",
+              "content": "和纮司一起去",
+              "group": "7月24日"
+            },
+            {
+              "id": "step_mikoto_bad_08",
+              "type": "choice",
+              "content": "拿母机",
+              "group": "7月24日"
+            },
+            {
+              "id": "step_mikoto_bad_09",
+              "type": "choice",
+              "content": "告诉她路线",
+              "group": "7月25日"
+            },
+            {
+              "id": "step_mikoto_bad_10",
+              "type": "choice",
+              "content": "拿拖把轻松搞定，负责走廊",
+              "group": "7月25日"
+            },
+            {
+              "id": "step_mikoto_bad_11",
+              "type": "choice",
+              "content": "在教室吃",
+              "group": "7月26日"
+            },
+            {
+              "id": "step_mikoto_bad_12",
+              "type": "choice",
+              "content": "一直睡到晚饭时间",
+              "group": "7月26日"
+            },
+            {
+              "id": "step_mikoto_bad_13",
+              "type": "save",
+              "content": "SAVE 1",
+              "group": "7月27日"
+            },
+            {
+              "id": "step_mikoto_bad_14",
+              "type": "choice",
+              "content": "其他选项",
+              "group": "7月27日"
+            },
+            {
+              "id": "step_mikoto_bad_15",
+              "type": "choice",
+              "content": "和渚一起玩",
+              "group": "7月27日"
+            },
+            {
+              "id": "step_mikoto_bad_16",
+              "type": "choice",
+              "content": "隐形眼镜那边",
+              "group": "7月27日"
+            },
+            {
+              "id": "step_mikoto_bad_17",
+              "type": "choice",
+              "content": "其他选项",
+              "group": "7月28日"
+            },
+            {
+              "id": "step_mikoto_bad_18",
+              "type": "choice",
+              "content": "铃爱的旁边",
+              "group": "7月28日"
+            },
+            {
+              "id": "step_mikoto_bad_19",
+              "type": "choice",
+              "content": "按铃爱说的去学生食堂",
+              "group": "7月30日"
+            },
+            {
+              "id": "step_mikoto_bad_20",
+              "type": "choice",
+              "content": "决定选右边",
+              "group": "7月30日"
+            },
+            {
+              "id": "step_mikoto_bad_21",
+              "type": "choice",
+              "content": "再慢一点再出门吧",
+              "group": "8月14日"
+            }
+          ]
+        },
+        {
+          "id": "ending_mikoto_end",
+          "name": "有贺美琴 END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_mikoto_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_mikoto_02",
+              "type": "choice",
+              "content": "和美琴一起玩",
+              "group": "7月27日"
+            },
+            {
+              "id": "step_mikoto_03",
+              "type": "choice",
+              "content": "美琴的旁边",
+              "group": "7月28日"
+            },
+            {
+              "id": "step_mikoto_04",
+              "type": "choice",
+              "content": "按铃爱说的去学生食堂",
+              "group": "7月30日"
+            },
+            {
+              "id": "step_mikoto_05",
+              "type": "choice",
+              "content": "决定选右边",
+              "group": "7月30日"
+            },
+            {
+              "id": "step_mikoto_06",
+              "type": "choice",
+              "content": "留出充裕时间再出门",
+              "group": "8月14日"
+            }
+          ]
+        },
+        {
+          "id": "ending_miki_bad_end",
+          "name": "有贺美树 END1",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_miki_bad_01",
+              "type": "note",
+              "content": "有贺美树"
+            },
+            {
+              "id": "step_miki_bad_02",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_miki_bad_03",
+              "type": "choice",
+              "content": "其他选项",
+              "group": "7月27日"
+            },
+            {
+              "id": "step_miki_bad_04",
+              "type": "choice",
+              "content": "和美树一起玩",
+              "group": "7月27日"
+            },
+            {
+              "id": "step_miki_bad_05",
+              "type": "choice",
+              "content": "其他选项",
+              "group": "7月28日"
+            },
+            {
+              "id": "step_miki_bad_06",
+              "type": "choice",
+              "content": "美树的旁边",
+              "group": "7月28日"
+            },
+            {
+              "id": "step_miki_bad_07",
+              "type": "choice",
+              "content": "采纳美树的提议去小卖部",
+              "group": "7月30日"
+            },
+            {
+              "id": "step_miki_bad_08",
+              "type": "choice",
+              "content": "决定选右边",
+              "group": "7月30日"
+            }
+          ]
+        },
+        {
+          "id": "ending_miki_end",
+          "name": "有贺美树 END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_miki_01",
+              "type": "note",
+              "content": "从最初开始"
+            },
+            {
+              "id": "step_miki_02",
+              "type": "choice",
+              "content": "稍微偷看一下",
+              "group": "7月23日"
+            },
+            {
+              "id": "step_miki_03",
+              "type": "choice",
+              "content": "没办法，只好分给她",
+              "group": "7月23日"
+            },
+            {
+              "id": "step_miki_04",
+              "type": "choice",
+              "content": "不慌不忙地过去",
+              "group": "7月23日"
+            },
+            {
+              "id": "step_miki_05",
+              "type": "choice",
+              "content": "有人在等我，先走一步",
+              "group": "7月23日"
+            },
+            {
+              "id": "step_miki_06",
+              "type": "choice",
+              "content": "再稍微眯一会儿",
+              "group": "7月24日"
+            },
+            {
+              "id": "step_miki_07",
+              "type": "choice",
+              "content": "还困，继续睡",
+              "group": "7月24日"
+            },
+            {
+              "id": "step_miki_08",
+              "type": "choice",
+              "content": "交给铃爱",
+              "group": "7月24日"
+            },
+            {
+              "id": "step_miki_09",
+              "type": "choice",
+              "content": "一起去",
+              "group": "7月25日"
+            },
+            {
+              "id": "step_miki_10",
+              "type": "choice",
+              "content": "意外地很好玩的校舍外面",
+              "group": "7月25日"
+            },
+            {
+              "id": "step_miki_11",
+              "type": "choice",
+              "content": "在泳池吃",
+              "group": "7月26日"
+            },
+            {
+              "id": "step_miki_12",
+              "type": "choice",
+              "content": "去外面闲逛",
+              "group": "7月26日"
+            },
+            {
+              "id": "step_miki_13",
+              "type": "save",
+              "content": "SAVE 2",
+              "group": "7月27日"
+            },
+            {
+              "id": "step_miki_14",
+              "type": "note",
+              "content": "该存档会使用 3 次",
+              "group": "7月27日"
+            },
+            {
+              "id": "step_miki_15",
+              "type": "choice",
+              "content": "其他选项",
+              "group": "7月27日"
+            },
+            {
+              "id": "step_miki_16",
+              "type": "choice",
+              "content": "和美树一起玩",
+              "group": "7月27日"
+            },
+            {
+              "id": "step_miki_17",
+              "type": "choice",
+              "content": "其他选项",
+              "group": "7月28日"
+            },
+            {
+              "id": "step_miki_18",
+              "type": "choice",
+              "content": "美树的旁边",
+              "group": "7月28日"
+            },
+            {
+              "id": "step_miki_19",
+              "type": "choice",
+              "content": "采纳美树的提议去小卖部",
+              "group": "7月30日"
+            },
+            {
+              "id": "step_miki_20",
+              "type": "choice",
+              "content": "决定选右边",
+              "group": "7月30日"
+            }
+          ]
+        },
+        {
+          "id": "ending_suzuna_end",
+          "name": "中田铃爱 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_suzuna_02",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_suzuna_03",
+              "type": "choice",
+              "content": "其他选项",
+              "group": "7月27日"
+            },
+            {
+              "id": "step_suzuna_04",
+              "type": "choice",
+              "content": "和铃爱一起玩",
+              "group": "7月27日"
+            },
+            {
+              "id": "step_suzuna_05",
+              "type": "choice",
+              "content": "其他选项",
+              "group": "7月28日"
+            },
+            {
+              "id": "step_suzuna_06",
+              "type": "choice",
+              "content": "铃爱的旁边",
+              "group": "7月28日"
+            },
+            {
+              "id": "step_suzuna_07",
+              "type": "choice",
+              "content": "按铃爱说的去学生食堂",
+              "group": "7月30日"
+            },
+            {
+              "id": "step_suzuna_08",
+              "type": "choice",
+              "content": "决定选右边",
+              "group": "7月30日"
+            },
+            {
+              "id": "step_suzuna_09",
+              "type": "choice",
+              "content": "在铃爱的房间睡",
+              "group": "8月7日"
+            },
+            {
+              "id": "step_suzuna_10",
+              "type": "choice",
+              "content": "让她在电话里转达内容",
+              "group": "8月8日"
+            }
+          ]
+        },
+        {
+          "id": "ending_nagisa_glasses_end",
+          "name": "柊渚 END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_nagisa_glasses_02",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_nagisa_glasses_03",
+              "type": "choice",
+              "content": "其他选项",
+              "group": "7月27日"
+            },
+            {
+              "id": "step_nagisa_glasses_04",
+              "type": "choice",
+              "content": "和渚一起玩",
+              "group": "7月27日"
+            },
+            {
+              "id": "step_nagisa_glasses_05",
+              "type": "save",
+              "content": "SAVE 3",
+              "group": "7月27日"
+            },
+            {
+              "id": "step_nagisa_glasses_06",
+              "type": "choice",
+              "content": "戴眼镜的那边",
+              "group": "7月27日"
+            },
+            {
+              "id": "step_nagisa_glasses_07",
+              "type": "choice",
+              "content": "美琴的旁边",
+              "group": "7月28日"
+            },
+            {
+              "id": "step_nagisa_glasses_08",
+              "type": "choice",
+              "content": "采纳美树的提议去小卖部",
+              "group": "7月30日"
+            },
+            {
+              "id": "step_nagisa_glasses_09",
+              "type": "choice",
+              "content": "决定选右边",
+              "group": "7月30日"
+            }
+          ]
+        },
+        {
+          "id": "ending_nagisa_contact_end",
+          "name": "柊渚 END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_nagisa_contact_01",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_nagisa_contact_02",
+              "type": "choice",
+              "content": "隐形眼镜那边",
+              "group": "7月27日"
+            },
+            {
+              "id": "step_nagisa_contact_03",
+              "type": "choice",
+              "content": "美琴的旁边",
+              "group": "7月28日"
+            },
+            {
+              "id": "step_nagisa_contact_04",
+              "type": "choice",
+              "content": "采纳美树的提议去小卖部",
+              "group": "7月30日"
+            },
+            {
+              "id": "step_nagisa_contact_05",
+              "type": "choice",
+              "content": "决定选右边",
+              "group": "7月30日"
+            }
+          ]
+        },
+        {
+          "id": "ending_shizune_end",
+          "name": "护国静音 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_shizune_02",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_shizune_03",
+              "type": "choice",
+              "content": "其他选项",
+              "group": "7月27日"
+            },
+            {
+              "id": "step_shizune_04",
+              "type": "choice",
+              "content": "大家一起玩",
+              "group": "7月27日"
+            },
+            {
+              "id": "step_shizune_05",
+              "type": "choice",
+              "content": "其他选项",
+              "group": "7月28日"
+            },
+            {
+              "id": "step_shizune_06",
+              "type": "choice",
+              "content": "铃爱的旁边",
+              "group": "7月28日"
+            },
+            {
+              "id": "step_shizune_07",
+              "type": "choice",
+              "content": "采纳美树的提议去小卖部",
+              "group": "7月30日"
+            },
+            {
+              "id": "step_shizune_08",
+              "type": "choice",
+              "content": "不不，决定选左边",
+              "group": "7月30日"
+            },
+            {
+              "id": "step_shizune_09",
+              "type": "choice",
+              "content": "出声搭话",
+              "group": "8月9日"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,258 @@
+{
+  "vid": "v11110",
+  "name": {
+    "zh-cn": "赠与你的空之花",
+    "ja-jp": "キミへ贈る、ソラの花",
+    "ja-Latn": "kimi-e-okuru-sora-no-hana"
+  },
+  "level": 2,
+  "updatedAt": "2026-05-12",
+  "routes": [
+    {
+      "id": "route_game",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_yuki_end1",
+          "name": "雪花 END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1",
+              "type": "choice",
+              "content": "试着去吧"
+            },
+            {
+              "id": "step_2",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_3",
+              "type": "choice",
+              "content": "有在意的事情因此拒绝吧"
+            },
+            {
+              "id": "step_4",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_5",
+              "type": "choice",
+              "content": "奇怪……虽然不知道哪里奇怪"
+            }
+          ]
+        },
+        {
+          "id": "ending_yuki_end2",
+          "name": "雪花 END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_6",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_7",
+              "type": "choice",
+              "content": "是错觉吗？是不是累了啊……"
+            }
+          ]
+        },
+        {
+          "id": "ending_sona_end1",
+          "name": "奏菜 END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_8",
+              "type": "choice",
+              "content": "还是算了"
+            },
+            {
+              "id": "step_9",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_10",
+              "type": "choice",
+              "content": "有在意的事情因此拒绝吧"
+            },
+            {
+              "id": "step_11",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_12",
+              "type": "choice",
+              "content": "帮助奏菜酱"
+            },
+            {
+              "id": "step_13",
+              "type": "save",
+              "content": "SAVE 5"
+            },
+            {
+              "id": "step_14",
+              "type": "choice",
+              "content": "已经够了……想要帮助奏菜"
+            }
+          ]
+        },
+        {
+          "id": "ending_sona_end2",
+          "name": "奏菜 END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_15",
+              "type": "load",
+              "content": "LOAD 5"
+            },
+            {
+              "id": "step_16",
+              "type": "choice",
+              "content": "不\"帮助\"奏菜"
+            }
+          ]
+        },
+        {
+          "id": "ending_an_end",
+          "name": "杏 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_17",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_18",
+              "type": "choice",
+              "content": "这次就在一边看着"
+            },
+            {
+              "id": "step_19",
+              "type": "save",
+              "content": "SAVE 6"
+            },
+            {
+              "id": "step_20",
+              "type": "choice",
+              "content": "和杏约好"
+            }
+          ]
+        },
+        {
+          "id": "ending_matsuri_end1",
+          "name": "茉莉 END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_21",
+              "type": "load",
+              "content": "LOAD 6"
+            },
+            {
+              "id": "step_22",
+              "type": "choice",
+              "content": "和茉莉约好"
+            },
+            {
+              "id": "step_23",
+              "type": "save",
+              "content": "SAVE 7"
+            },
+            {
+              "id": "step_24",
+              "type": "choice",
+              "content": "告诉老师"
+            },
+            {
+              "id": "step_25",
+              "type": "save",
+              "content": "SAVE 8"
+            },
+            {
+              "id": "step_26",
+              "type": "choice",
+              "content": "果然是很悲伤的事情……"
+            }
+          ]
+        },
+        {
+          "id": "ending_matsuri_end2",
+          "name": "茉莉 END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_27",
+              "type": "load",
+              "content": "LOAD 7"
+            },
+            {
+              "id": "step_28",
+              "type": "choice",
+              "content": "瞒着老师"
+            }
+          ]
+        },
+        {
+          "id": "ending_matsuri_end3",
+          "name": "茉莉 END3",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_29",
+              "type": "load",
+              "content": "LOAD 8"
+            },
+            {
+              "id": "step_30",
+              "type": "choice",
+              "content": "不，并不是那样……"
+            }
+          ]
+        },
+        {
+          "id": "ending_hinagiku_end1",
+          "name": "雏菊 END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_31",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_32",
+              "type": "choice",
+              "content": "没什么要紧事也没有拒绝的理由"
+            }
+          ]
+        },
+        {
+          "id": "ending_hinagiku_end2",
+          "name": "雏菊 END2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_33",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_34",
+              "type": "choice",
+              "content": "没什么要紧事也没有拒绝的理由"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

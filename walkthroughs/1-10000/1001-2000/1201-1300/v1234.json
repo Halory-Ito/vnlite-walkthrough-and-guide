@@ -1,0 +1,514 @@
+{
+  "vid": "v1234",
+  "name": {
+    "zh-cn": "夏少女",
+    "ja-jp": "夏少女",
+    "ja-Latn": "natsu-shoujo"
+  },
+  "level": 2,
+  "updatedAt": "2026-04-09",
+  "routes": [
+    {
+      "id": "route_serizawa_aki",
+      "name": "芹沢 明希",
+      "endings": [
+        {
+          "id": "ending_serizawa_aki_end",
+          "name": "明希 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_serizawa_aki_01",
+              "type": "choice",
+              "content": "决定走右边",
+              "group": "The First Year"
+            },
+            {
+              "id": "step_serizawa_aki_02",
+              "type": "choice",
+              "content": "默默地吃饭",
+              "prefix": "*",
+              "group": "The First Year"
+            },
+            {
+              "id": "step_serizawa_aki_03",
+              "type": "choice",
+              "content": "从容地回答她",
+              "prefix": "**",
+              "group": "The First Year"
+            },
+            {
+              "id": "step_serizawa_aki_04",
+              "type": "choice",
+              "content": "到『树荫』吃",
+              "group": "The First Year"
+            },
+            {
+              "id": "step_serizawa_aki_05",
+              "type": "choice",
+              "content": "选绚水想玩的二十一点",
+              "group": "The First Year"
+            },
+            {
+              "id": "step_serizawa_aki_06",
+              "type": "choice",
+              "content": "自己想办法",
+              "group": "The First Year"
+            },
+            {
+              "id": "step_serizawa_aki_07",
+              "type": "choice",
+              "content": "全部只买一种口味",
+              "group": "The First Year"
+            },
+            {
+              "id": "step_serizawa_aki_08",
+              "type": "choice",
+              "content": "全部都买柳橙冰沙",
+              "group": "The First Year"
+            },
+            {
+              "id": "step_serizawa_aki_09",
+              "type": "choice",
+              "content": "这是游戏中一定要有的读者服务",
+              "prefix": "*",
+              "group": "The First Year"
+            },
+            {
+              "id": "step_serizawa_aki_10",
+              "type": "choice",
+              "content": "今天已经很晚了，回家吧!",
+              "group": "The second year"
+            },
+            {
+              "id": "step_serizawa_aki_11",
+              "type": "choice",
+              "content": "留下来陪明希抓虫",
+              "group": "The second year"
+            },
+            {
+              "id": "step_serizawa_aki_12",
+              "type": "choice",
+              "content": "先设法称赞树一郎再说",
+              "prefix": "**",
+              "group": "The second year"
+            },
+            {
+              "id": "step_serizawa_aki_13",
+              "type": "choice",
+              "content": "静静的不发出声音",
+              "prefix": "*",
+              "group": "The second year"
+            },
+            {
+              "id": "step_serizawa_aki_14",
+              "type": "choice",
+              "content": "去吃午餐",
+              "group": "The second year"
+            },
+            {
+              "id": "step_serizawa_aki_15",
+              "type": "choice",
+              "content": "听从建议独自去散步",
+              "group": "The second year"
+            },
+            {
+              "id": "step_serizawa_aki_16",
+              "type": "choice",
+              "content": "稍微出去走走应该没关系吧",
+              "group": "8月17日（二）"
+            },
+            {
+              "id": "step_serizawa_aki_17",
+              "type": "choice",
+              "content": "不行，这样身体会不舒服",
+              "group": "8月17日（二）"
+            },
+            {
+              "id": "step_serizawa_aki_18",
+              "type": "choice",
+              "content": "机会难得，当然要看守着",
+              "group": "8月17日（二）"
+            },
+            {
+              "id": "step_serizawa_aki_19",
+              "type": "choice",
+              "content": "在被发现之前快回房间吧！",
+              "group": "8月17日（二）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_yuuki_kyou",
+      "name": "结城 京",
+      "endings": [
+        {
+          "id": "ending_yuuki_kyou_end",
+          "name": "京 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_yuuki_kyou_01",
+              "type": "choice",
+              "content": "决定走中间",
+              "group": "The First Year"
+            },
+            {
+              "id": "step_yuuki_kyou_02",
+              "type": "choice",
+              "content": "跟小京说话",
+              "group": "The First Year"
+            },
+            {
+              "id": "step_yuuki_kyou_03",
+              "type": "choice",
+              "content": "从容地回答她",
+              "group": "The First Year"
+            },
+            {
+              "id": "step_yuuki_kyou_04",
+              "type": "choice",
+              "content": "到『树荫』吃",
+              "prefix": "**",
+              "group": "The First Year"
+            },
+            {
+              "id": "step_yuuki_kyou_05",
+              "type": "choice",
+              "content": "选京想玩的神经衰弱",
+              "group": "The First Year"
+            },
+            {
+              "id": "step_yuuki_kyou_06",
+              "type": "choice",
+              "content": "自己想办法",
+              "group": "The First Year"
+            },
+            {
+              "id": "step_yuuki_kyou_07",
+              "type": "choice",
+              "content": "全部只买一种口味",
+              "group": "The First Year"
+            },
+            {
+              "id": "step_yuuki_kyou_08",
+              "type": "choice",
+              "content": "全部都买香草冰淇淋",
+              "group": "The First Year"
+            },
+            {
+              "id": "step_yuuki_kyou_09",
+              "type": "choice",
+              "content": "这是游戏中一定要有的读者服务",
+              "prefix": "*",
+              "group": "The First Year"
+            },
+            {
+              "id": "step_yuuki_kyou_10",
+              "type": "choice",
+              "content": "今天已经很晚了，回家吧!",
+              "group": "The First Year"
+            },
+            {
+              "id": "step_yuuki_kyou_11",
+              "type": "choice",
+              "content": "照计划，往旅馆京的方向走",
+              "group": "The First Year"
+            },
+            {
+              "id": "step_yuuki_kyou_12",
+              "type": "choice",
+              "content": "先设法称赞树一郎再说",
+              "prefix": "**",
+              "group": "The First Year"
+            },
+            {
+              "id": "step_yuuki_kyou_13",
+              "type": "choice",
+              "content": "静静的不发出声音",
+              "prefix": "*",
+              "group": "The First Year"
+            },
+            {
+              "id": "step_yuuki_kyou_14",
+              "type": "choice",
+              "content": "回到旅馆里",
+              "group": "The First Year"
+            },
+            {
+              "id": "step_yuuki_kyou_15",
+              "type": "choice",
+              "content": "跟奏芽一起到旅馆帮忙",
+              "group": "The First Year"
+            },
+            {
+              "id": "step_yuuki_kyou_16",
+              "type": "choice",
+              "content": "继续发呆下去吧！",
+              "group": "8月16日（一）"
+            },
+            {
+              "id": "step_yuuki_kyou_17",
+              "type": "choice",
+              "content": "跟鬼魂一样四处游荡",
+              "group": "8月16日（一）"
+            },
+            {
+              "id": "step_yuuki_kyou_18",
+              "type": "choice",
+              "content": "向右边的道路前进",
+              "group": "8月11日（四）"
+            },
+            {
+              "id": "step_yuuki_kyou_19",
+              "type": "choice",
+              "content": "走中间的岔路 走进左边的小路",
+              "group": "8月11日（四）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_azuma_ayami",
+      "name": "东绚 水",
+      "endings": [
+        {
+          "id": "ending_azuma_ayami_end",
+          "name": "东绚 水 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_azuma_ayami_01",
+              "type": "choice",
+              "content": "决定走左边",
+              "group": "The First Year"
+            },
+            {
+              "id": "step_azuma_ayami_02",
+              "type": "choice",
+              "content": "默默地吃饭",
+              "prefix": "*",
+              "group": "The First Year"
+            },
+            {
+              "id": "step_azuma_ayami_03",
+              "type": "choice",
+              "content": "全力反驳她",
+              "group": "The First Year"
+            },
+            {
+              "id": "step_azuma_ayami_04",
+              "type": "choice",
+              "content": "到商店街去找其他店家",
+              "group": "The First Year"
+            },
+            {
+              "id": "step_azuma_ayami_05",
+              "type": "choice",
+              "content": "选明希想玩的抽鬼牌",
+              "group": "The First Year"
+            },
+            {
+              "id": "step_azuma_ayami_06",
+              "type": "choice",
+              "content": "自己想办法",
+              "group": "The First Year"
+            },
+            {
+              "id": "step_azuma_ayami_07",
+              "type": "choice",
+              "content": "全部只买一种口味",
+              "group": "The First Year"
+            },
+            {
+              "id": "step_azuma_ayami_08",
+              "type": "choice",
+              "content": "全部都买兰姆葡萄冰淇淋",
+              "group": "The First Year"
+            },
+            {
+              "id": "step_azuma_ayami_09",
+              "type": "choice",
+              "content": "这是游戏中一定要有的读者服务",
+              "prefix": "*",
+              "group": "The First Year"
+            },
+            {
+              "id": "step_azuma_ayami_10",
+              "type": "choice",
+              "content": "接受雪江姐的好意",
+              "group": "The second year"
+            },
+            {
+              "id": "step_azuma_ayami_11",
+              "type": "choice",
+              "content": "先设法称赞树一郎再说",
+              "prefix": "**",
+              "group": "The second year"
+            },
+            {
+              "id": "step_azuma_ayami_12",
+              "type": "choice",
+              "content": "到她身边打声招呼",
+              "group": "The second year"
+            },
+            {
+              "id": "step_azuma_ayami_13",
+              "type": "choice",
+              "content": "就这样待在这里",
+              "group": "The second year"
+            },
+            {
+              "id": "step_azuma_ayami_14",
+              "type": "choice",
+              "content": "无论如何先去树荫看看吧",
+              "group": "The second year"
+            },
+            {
+              "id": "step_azuma_ayami_15",
+              "type": "choice",
+              "content": "想知道绚水你有什么样的浴衣啊！",
+              "group": "8月17日（二）"
+            },
+            {
+              "id": "step_azuma_ayami_16",
+              "type": "choice",
+              "content": "因为绚水你很适合穿浴衣",
+              "group": "8月17日（二）"
+            },
+            {
+              "id": "step_azuma_ayami_17",
+              "type": "choice",
+              "content": "请让我把它当成是绚水来清洗一番",
+              "group": "8月16日（一）"
+            },
+            {
+              "id": "step_azuma_ayami_18",
+              "type": "choice",
+              "content": "请让我把它当成是雪江姐来清洗一番",
+              "group": "8月16日（一）"
+            },
+            {
+              "id": "step_azuma_ayami_19",
+              "type": "choice",
+              "content": "酒还是要成年以后才能喝",
+              "group": "8月18日（三）"
+            },
+            {
+              "id": "step_azuma_ayami_20",
+              "type": "choice",
+              "content": "喝一点应该是没关系吧",
+              "group": "8月18日（三）"
+            },
+            {
+              "id": "step_azuma_ayami_21",
+              "type": "choice",
+              "content": "刚刚应试合格的绚水",
+              "group": "8月8日（一）"
+            },
+            {
+              "id": "step_azuma_ayami_22",
+              "type": "choice",
+              "content": "举办个展的雪江姐",
+              "group": "8月8日（一）"
+            },
+            {
+              "id": "step_azuma_ayami_23",
+              "type": "choice",
+              "content": "这里对绚水你来说也是个重要场所呢",
+              "group": "8月9日（二）"
+            },
+            {
+              "id": "step_azuma_ayami_24",
+              "type": "choice",
+              "content": "话说回来，绚水你的爸爸呢？",
+              "group": "8月9日（二）"
+            },
+            {
+              "id": "step_azuma_ayami_25",
+              "type": "choice",
+              "content": "那个事故，是交通事故还是什么的吗？",
+              "group": "8月10日（三）"
+            },
+            {
+              "id": "step_azuma_ayami_26",
+              "type": "choice",
+              "content": "由于那次事故，所以你就住院了？",
+              "group": "8月10日（三）"
+            },
+            {
+              "id": "step_azuma_ayami_27",
+              "type": "choice",
+              "content": "那与绚水发生的事故，应该会有些关系吧",
+              "group": "8月10日（三）"
+            },
+            {
+              "id": "step_azuma_ayami_28",
+              "type": "choice",
+              "content": "关于绚水的事情，我总是耿耿于怀……",
+              "group": "8月10日（三）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_shirayama_kaname",
+      "name": "白山 奏芽",
+      "endings": [
+        {
+          "id": "ending_shirayama_kaname_end",
+          "name": "奏芽 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_shirayama_kaname_01",
+              "type": "choice",
+              "content": "决定走右边",
+              "group": "8月4日（一）"
+            },
+            {
+              "id": "step_1775733655938",
+              "type": "choice",
+              "content": "默默地吃饭",
+              "group": "8月5日（二）"
+            },
+            {
+              "id": "step_1775733655449",
+              "type": "choice",
+              "content": "从容地回答她",
+              "group": "8月6日（三）"
+            },
+            {
+              "id": "step_1775733717846",
+              "type": "choice",
+              "content": "到商店街去找其他店家",
+              "group": "8月7日（四）"
+            },
+            {
+              "id": "step_1775733734909",
+              "type": "choice",
+              "content": "选神经衰弱",
+              "group": "8月8日（五）"
+            },
+            {
+              "id": "step_1775733764227",
+              "type": "choice",
+              "content": "丢给树一郎去解决",
+              "group": "8月9日（六）"
+            },
+            {
+              "id": "step_1775733838167",
+              "type": "choice",
+              "content": "把责任全部推给树一郎",
+              "group": "8月9日（六）"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

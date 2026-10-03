@@ -1,0 +1,454 @@
+{
+  "vid": "v5575",
+  "name": {
+    "zh-cn": "Flyable CandyHeart",
+    "ja-Latn": "flyable-candy-heart"
+  },
+  "level": 2,
+  "updatedAt": "2026-05-18",
+  "routes": [
+    {
+      "id": "route_flyableheart_review",
+      "name": "FlyableHeartおさらい",
+      "endings": [
+        {
+          "id": "ending_flyableheart_review_end",
+          "name": "FlyableHeartおさらい END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_flyableheart_01",
+              "type": "choice",
+              "content": "ストーリーセレクト"
+            },
+            {
+              "id": "step_flyableheart_02",
+              "type": "choice",
+              "content": "八重野ブラザーズのおさらいFlyableHeart"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_tenon",
+      "name": "天音",
+      "endings": [
+        {
+          "id": "ending_tenon_end",
+          "name": "天音 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_tenon_01",
+              "type": "choice",
+              "content": "はじめから"
+            },
+            {
+              "id": "step_tenon_02",
+              "type": "choice",
+              "content": "皇 天音"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_sakurako",
+      "name": "桜子",
+      "endings": [
+        {
+          "id": "ending_sakurako_end",
+          "name": "桜子 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_sakurako_01",
+              "type": "choice",
+              "content": "ストーリーセレクト"
+            },
+            {
+              "id": "step_sakurako_02",
+              "type": "choice",
+              "content": "水無瀬 桜子"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_kururi",
+      "name": "くるり",
+      "endings": [
+        {
+          "id": "ending_kururi_end",
+          "name": "くるり END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_kururi_01",
+              "type": "choice",
+              "content": "ストーリーセレクト"
+            },
+            {
+              "id": "step_kururi_02",
+              "type": "choice",
+              "content": "九条くるり"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_momohana",
+      "name": "茉百合",
+      "endings": [
+        {
+          "id": "ending_momohana_end",
+          "name": "茉百合 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_momohana_01",
+              "type": "choice",
+              "content": "ストーリーセレクト"
+            },
+            {
+              "id": "step_momohana_02",
+              "type": "choice",
+              "content": "白鷺 茉百合"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_megumi",
+      "name": "恵",
+      "endings": [
+        {
+          "id": "ending_megumi_end",
+          "name": "恵 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_megumi_01",
+              "type": "choice",
+              "content": "ストーリーセレクト"
+            },
+            {
+              "id": "step_megumi_02",
+              "type": "choice",
+              "content": "早河 恵"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_akira",
+      "name": "あきら",
+      "endings": [
+        {
+          "id": "ending_akira_end",
+          "name": "あきら END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_akira_01",
+              "type": "choice",
+              "content": "ストーリーセレクト"
+            },
+            {
+              "id": "step_akira_02",
+              "type": "choice",
+              "content": "電堂 あきら"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_lovelove_flyable_hazard",
+      "name": "らぶらぶフライアブルハザード",
+      "endings": [
+        {
+          "id": "ending_lovelove_flyable_hazard_end",
+          "name": "らぶらぶフライアブルハザード END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_lovelove_01",
+              "type": "choice",
+              "content": "ストーリーセレクト"
+            },
+            {
+              "id": "step_lovelove_02",
+              "type": "choice",
+              "content": "らぶらぶフライアブルハザード"
+            },
+            {
+              "id": "step_lovelove_03",
+              "type": "choice",
+              "content": "どうするか考える"
+            },
+            {
+              "id": "step_lovelove_04",
+              "type": "choice",
+              "content": "繚蘭会室へ向かう"
+            },
+            {
+              "id": "step_lovelove_05",
+              "type": "choice",
+              "content": "出張limelightへ向かう"
+            },
+            {
+              "id": "step_lovelove_06",
+              "type": "choice",
+              "content": "校舎外へ出る"
+            },
+            {
+              "id": "step_lovelove_07",
+              "type": "choice",
+              "content": "生徒会室へ向かう"
+            },
+            {
+              "id": "step_lovelove_08",
+              "type": "choice",
+              "content": "どこかに避難する"
+            },
+            {
+              "id": "step_lovelove_09",
+              "type": "choice",
+              "content": "どこに行くか考える"
+            },
+            {
+              "id": "step_lovelove_10",
+              "type": "choice",
+              "content": "廊下を進む"
+            },
+            {
+              "id": "step_lovelove_11",
+              "type": "choice",
+              "content": "途方に暮れる"
+            },
+            {
+              "id": "step_lovelove_12",
+              "type": "choice",
+              "content": "校舎内を進む"
+            },
+            {
+              "id": "step_lovelove_13",
+              "type": "choice",
+              "content": "どこかで休憩する"
+            },
+            {
+              "id": "step_lovelove_14",
+              "type": "choice",
+              "content": "ユキちゃんの持ち主を探す"
+            },
+            {
+              "id": "step_lovelove_15",
+              "type": "choice",
+              "content": "どこかに避難する"
+            },
+            {
+              "id": "step_lovelove_16",
+              "type": "choice",
+              "content": "中庭へ向かう"
+            },
+            {
+              "id": "step_lovelove_17",
+              "type": "choice",
+              "content": "校舎外へ出る"
+            },
+            {
+              "id": "step_lovelove_18",
+              "type": "choice",
+              "content": "昇降口へ向かう"
+            },
+            {
+              "id": "step_lovelove_19",
+              "type": "choice",
+              "content": "校舎から離れる"
+            },
+            {
+              "id": "step_lovelove_20",
+              "type": "choice",
+              "content": "正門へ向かう"
+            },
+            {
+              "id": "step_lovelove_21",
+              "type": "choice",
+              "content": "解決方法を探す"
+            },
+            {
+              "id": "step_lovelove_22",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_lovelove_23",
+              "type": "choice",
+              "content": "食堂へ向かう"
+            },
+            {
+              "id": "step_lovelove_24",
+              "type": "choice",
+              "content": "出張limelightへ向かう"
+            },
+            {
+              "id": "step_lovelove_25",
+              "type": "choice",
+              "content": "教室へ向かう"
+            },
+            {
+              "id": "step_lovelove_26",
+              "type": "choice",
+              "content": "タイムマシン展示コーナーへ"
+            },
+            {
+              "id": "step_lovelove_27",
+              "type": "choice",
+              "content": "講堂へ向かう"
+            },
+            {
+              "id": "step_lovelove_28",
+              "type": "choice",
+              "content": "もう一度食堂へ向かう"
+            },
+            {
+              "id": "step_lovelove_29",
+              "type": "choice",
+              "content": "廊下を進む"
+            },
+            {
+              "id": "step_lovelove_30",
+              "type": "choice",
+              "content": "隠れてやり過ごす"
+            },
+            {
+              "id": "step_lovelove_31",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_lovelove_32",
+              "type": "choice",
+              "content": "ところで二人は仲良しですねと話題を変える"
+            },
+            {
+              "id": "step_lovelove_33",
+              "type": "choice",
+              "content": "もう少し様子を見る"
+            },
+            {
+              "id": "step_lovelove_34",
+              "type": "note",
+              "content": "SAVE1开始"
+            },
+            {
+              "id": "step_lovelove_35",
+              "type": "choice",
+              "content": "何も言わずに様子を見る"
+            },
+            {
+              "id": "step_lovelove_36",
+              "type": "note",
+              "content": "SAVE1开始"
+            },
+            {
+              "id": "step_lovelove_37",
+              "type": "choice",
+              "content": "ところで二人は仲良しですねと話題を変える"
+            },
+            {
+              "id": "step_lovelove_38",
+              "type": "choice",
+              "content": "会長を連れて逃げる"
+            },
+            {
+              "id": "step_lovelove_39",
+              "type": "choice",
+              "content": "感染していない人を探す"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_cg_recovery",
+      "name": "CG回收",
+      "endings": [
+        {
+          "id": "ending_cg_recovery_end",
+          "name": "CG回收 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_cg_01",
+              "type": "note",
+              "content": "SAVE1开始"
+            },
+            {
+              "id": "step_cg_02",
+              "type": "choice",
+              "content": "屋上へ向かう"
+            },
+            {
+              "id": "step_cg_03",
+              "type": "note",
+              "content": "到下一选项出现为止"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_yui",
+      "name": "結衣",
+      "endings": [
+        {
+          "id": "ending_yui_end",
+          "name": "結衣 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_yui_01",
+              "type": "choice",
+              "content": "ストーリーセレクト"
+            },
+            {
+              "id": "step_yui_02",
+              "type": "choice",
+              "content": "稲羽 結衣"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_suzuno",
+      "name": "すずの",
+      "endings": [
+        {
+          "id": "ending_suzuno_end",
+          "name": "すずの END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_suzuno_01",
+              "type": "choice",
+              "content": "ストーリーセレクト"
+            },
+            {
+              "id": "step_suzuno_02",
+              "type": "choice",
+              "content": "雪代 すずの"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

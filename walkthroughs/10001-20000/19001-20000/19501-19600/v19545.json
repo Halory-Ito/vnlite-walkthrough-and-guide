@@ -1,0 +1,820 @@
+{
+  "vid": "v19545",
+  "name": {
+    "zh-cn": "FLOWERS 冬篇",
+    "en-us": "Flowers -Le volume sur hiver-",
+    "ja-jp": "FLOWERS 冬篇",
+    "ja-Latn": "flowers-le-volume-sur-hiver"
+  },
+  "level": 1,
+  "updatedAt": "2026-05-07",
+  "tips": [
+    "GRAND FINALE须预先达成真由理END，GOOD END和立花END"
+  ],
+  "routes": [
+    {
+      "id": "route_game",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_mayuri",
+          "name": "真由理 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_m_01",
+              "type": "choice",
+              "content": "艾丽卡同学更适合"
+            },
+            {
+              "id": "step_m_02",
+              "type": "choice",
+              "content": "可能更喜欢红茶吧"
+            },
+            {
+              "id": "step_m_03",
+              "type": "choice",
+              "content": "询问她有关幻人的事"
+            },
+            {
+              "id": "step_m_04",
+              "type": "choice",
+              "content": "告诉她这是鬼故事所以没找她"
+            },
+            {
+              "id": "step_m_05",
+              "type": "choice",
+              "content": "是啊，很适合"
+            },
+            {
+              "id": "step_m_06",
+              "type": "choice",
+              "content": "身体确实有点不舒服"
+            },
+            {
+              "id": "step_m_07",
+              "type": "choice",
+              "content": "两个都收下吧"
+            },
+            {
+              "id": "step_m_08",
+              "type": "choice",
+              "content": "假装是没法见人的书搪塞过去"
+            },
+            {
+              "id": "step_m_09",
+              "type": "choice",
+              "content": "爱憎纠葛"
+            },
+            {
+              "id": "step_m_10",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_m_11",
+              "type": "choice",
+              "content": "从石塚教谕和外间前辈那里借来的照片"
+            },
+            {
+              "id": "step_m_12",
+              "type": "choice",
+              "content": "围裙带子的打结方式 (2 人中选一 )"
+            },
+            {
+              "id": "step_m_13",
+              "type": "choice",
+              "content": "头上或者手腕上的发圈"
+            },
+            {
+              "id": "step_m_14",
+              "type": "choice",
+              "content": "可以了"
+            },
+            {
+              "id": "step_m_15",
+              "type": "choice",
+              "content": "我想起了自己的失败……"
+            },
+            {
+              "id": "step_m_16",
+              "type": "choice",
+              "content": "还是想稍微放松一点"
+            },
+            {
+              "id": "step_m_17",
+              "type": "choice",
+              "content": "我喜欢整个人泡进热水里"
+            },
+            {
+              "id": "step_m_18",
+              "type": "choice",
+              "content": "难道和石蕗同学有关？"
+            },
+            {
+              "id": "step_m_19",
+              "type": "choice",
+              "content": "我对情书可没有好的回忆"
+            },
+            {
+              "id": "step_m_20",
+              "type": "choice",
+              "content": "不是这样……"
+            },
+            {
+              "id": "step_m_21",
+              "type": "choice",
+              "content": "张开嘴"
+            },
+            {
+              "id": "step_m_22",
+              "type": "choice",
+              "content": "我认为考崎千鸟同学比我更合适"
+            },
+            {
+              "id": "step_m_23",
+              "type": "choice",
+              "content": "摸摸她的头"
+            },
+            {
+              "id": "step_m_24",
+              "type": "choice",
+              "content": "信上的部分描述若非在极近距离下是不可能看到的"
+            },
+            {
+              "id": "step_m_25",
+              "type": "choice",
+              "content": "尼西亚会代代相传的话"
+            },
+            {
+              "id": "step_m_26",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_m_27",
+              "type": "choice",
+              "content": "八代让叶"
+            },
+            {
+              "id": "step_m_28",
+              "type": "choice",
+              "content": "把在一起的原因告诉她"
+            },
+            {
+              "id": "step_m_29",
+              "type": "choice",
+              "content": "现代剧怎么样？"
+            },
+            {
+              "id": "step_m_30",
+              "type": "choice",
+              "content": "能联想到驱蛇的植物"
+            },
+            {
+              "id": "step_m_31",
+              "type": "choice",
+              "content": "感觉《闪灵》里的双胞胎随时会冒出来"
+            },
+            {
+              "id": "step_m_32",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_m_33",
+              "type": "choice",
+              "content": "不能说出真由理的秘密"
+            },
+            {
+              "id": "step_m_34",
+              "type": "choice",
+              "content": "鼓励她们打起精神"
+            },
+            {
+              "id": "step_m_35",
+              "type": "choice",
+              "content": "我能帮什么吗？"
+            },
+            {
+              "id": "step_m_36",
+              "type": "choice",
+              "content": "希望读信人能从墓志铭中推测出她的意思"
+            },
+            {
+              "id": "step_m_37",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_m_38",
+              "type": "choice",
+              "content": "指圣经里的诗篇"
+            }
+          ]
+        },
+        {
+          "id": "ending_bad1",
+          "name": "BAD END 1",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_b1_01",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_b1_02",
+              "type": "note",
+              "content": "任意一个错误选项"
+            }
+          ]
+        },
+        {
+          "id": "ending_bad2",
+          "name": "BAD END 2",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_b2_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_b2_02",
+              "type": "note",
+              "content": "任意一个错误选项"
+            }
+          ]
+        },
+        {
+          "id": "ending_bad3",
+          "name": "BAD END 3",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_b3_01",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_b3_02",
+              "type": "note",
+              "content": "任意一个错误选项"
+            }
+          ]
+        },
+        {
+          "id": "ending_bad4",
+          "name": "BAD END 4",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_b4_01",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_b4_02",
+              "type": "choice",
+              "content": "听说她和母亲关系不好……"
+            },
+            {
+              "id": "step_b4_03",
+              "type": "choice",
+              "content": "一定很失落吧……"
+            },
+            {
+              "id": "step_b4_04",
+              "type": "choice",
+              "content": "还要花很久吗？"
+            }
+          ]
+        },
+        {
+          "id": "ending_happy",
+          "name": "HAPPY ENDING(2周目)",
+          "type": "good",
+          "steps": [
+            {
+              "id": "step_h_01",
+              "type": "note",
+              "content": "获得真由理 END后从头开始(2 周目)",
+              "prefix": "※"
+            },
+            {
+              "id": "step_h_02",
+              "type": "choice",
+              "content": "艾莉卡同学更适合"
+            },
+            {
+              "id": "step_h_03",
+              "type": "choice",
+              "content": "可能更喜欢红茶吧"
+            },
+            {
+              "id": "step_h_04",
+              "type": "choice",
+              "content": "询问她有关幻人的事"
+            },
+            {
+              "id": "step_h_05",
+              "type": "choice",
+              "content": "告诉她是鬼故事所以没找她"
+            },
+            {
+              "id": "step_h_06",
+              "type": "choice",
+              "content": "是啊，很合适"
+            },
+            {
+              "id": "step_h_07",
+              "type": "choice",
+              "content": "身体确实有点不舒服……"
+            },
+            {
+              "id": "step_h_08",
+              "type": "choice",
+              "content": "两个都收下吧"
+            },
+            {
+              "id": "step_h_09",
+              "type": "choice",
+              "content": "假装是没法见人的书搪塞过去"
+            },
+            {
+              "id": "step_h_10",
+              "type": "choice",
+              "content": "爱憎纠葛"
+            },
+            {
+              "id": "step_h_11",
+              "type": "choice",
+              "content": "从石塚教谕和外间前辈那里借来的照片"
+            },
+            {
+              "id": "step_h_12",
+              "type": "choice",
+              "content": "围裙带子的打结方式 (2人中选一)"
+            },
+            {
+              "id": "step_h_13",
+              "type": "choice",
+              "content": "头上或者手腕上的发圈"
+            },
+            {
+              "id": "step_h_14",
+              "type": "choice",
+              "content": "可以了"
+            },
+            {
+              "id": "step_h_15",
+              "type": "choice",
+              "content": "我想起了自己的失败……"
+            },
+            {
+              "id": "step_h_16",
+              "type": "choice",
+              "content": "还是想稍微放松一点"
+            },
+            {
+              "id": "step_h_17",
+              "type": "choice",
+              "content": "我喜欢整个人泡进热水里"
+            },
+            {
+              "id": "step_h_18",
+              "type": "choice",
+              "content": "难道和石蕗同学有关？"
+            },
+            {
+              "id": "step_h_19",
+              "type": "choice",
+              "content": "我对情书可没有好的回忆"
+            },
+            {
+              "id": "step_h_20",
+              "type": "choice",
+              "content": "不是这样……"
+            },
+            {
+              "id": "step_h_21",
+              "type": "choice",
+              "content": "张开嘴"
+            },
+            {
+              "id": "step_h_22",
+              "type": "choice",
+              "content": "我认为考崎千鸟同学比我更合适"
+            },
+            {
+              "id": "step_h_23",
+              "type": "choice",
+              "content": "摸摸她的头"
+            },
+            {
+              "id": "step_h_24",
+              "type": "choice",
+              "content": "信上的部分描述若非在极近距离下是不可能看到的"
+            },
+            {
+              "id": "step_h_25",
+              "type": "choice",
+              "content": "尼西亚会代代相传的话"
+            },
+            {
+              "id": "step_h_26",
+              "type": "choice",
+              "content": "八代让叶"
+            },
+            {
+              "id": "step_h_27",
+              "type": "choice",
+              "content": "把在一起的原因告诉她"
+            },
+            {
+              "id": "step_h_28",
+              "type": "choice",
+              "content": "现代剧怎么样？"
+            },
+            {
+              "id": "step_h_29",
+              "type": "choice",
+              "content": "能联想到驱蛇的植物"
+            },
+            {
+              "id": "step_h_30",
+              "type": "choice",
+              "content": "感觉《闪灵》里的双胞胎随时会冒出来"
+            },
+            {
+              "id": "step_h_31",
+              "type": "choice",
+              "content": "不能说出真由理的秘密"
+            },
+            {
+              "id": "step_h_32",
+              "type": "choice",
+              "content": "鼓励她们打起精神"
+            },
+            {
+              "id": "step_h_33",
+              "type": "choice",
+              "content": "我能帮什么吗？"
+            },
+            {
+              "id": "step_h_34",
+              "type": "choice",
+              "content": "希望读信人能从墓志铭中推测出她的意思"
+            },
+            {
+              "id": "step_h_35",
+              "type": "save",
+              "content": "SAVE 5"
+            },
+            {
+              "id": "step_h_36",
+              "type": "choice",
+              "content": "指圣经里的诗篇"
+            }
+          ]
+        },
+        {
+          "id": "ending_tachibana",
+          "name": "立花 END(3周目)",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_t_01",
+              "type": "note",
+              "content": "获得 GOOD END后从头开始(3 周目)",
+              "prefix": "※"
+            },
+            {
+              "id": "step_t_02",
+              "type": "choice",
+              "content": "还是立花同学更适合……"
+            },
+            {
+              "id": "step_t_03",
+              "type": "choice",
+              "content": "都喜欢"
+            },
+            {
+              "id": "step_t_04",
+              "type": "choice",
+              "content": "糊弄过去"
+            },
+            {
+              "id": "step_t_05",
+              "type": "choice",
+              "content": "说奉承话"
+            },
+            {
+              "id": "step_t_06",
+              "type": "choice",
+              "content": "先不睡",
+              "prefix": "★"
+            },
+            {
+              "id": "step_t_07",
+              "type": "choice",
+              "content": "感觉还是考崎同学你更合身……"
+            },
+            {
+              "id": "step_t_08",
+              "type": "choice",
+              "content": "我没事，谢谢你"
+            },
+            {
+              "id": "step_t_09",
+              "type": "choice",
+              "content": "我现在不太舒服……"
+            },
+            {
+              "id": "step_t_10",
+              "type": "choice",
+              "content": "诚实地回答"
+            },
+            {
+              "id": "step_t_11",
+              "type": "choice",
+              "content": "先不睡",
+              "prefix": "★"
+            },
+            {
+              "id": "step_t_12",
+              "type": "choice",
+              "content": "爱憎纠葛"
+            },
+            {
+              "id": "step_t_13",
+              "type": "choice",
+              "content": "从石塚教谕和外间前辈那里借来的照片"
+            },
+            {
+              "id": "step_t_14",
+              "type": "choice",
+              "content": "围裙带子的打结方式 (2人中选一 )"
+            },
+            {
+              "id": "step_t_15",
+              "type": "choice",
+              "content": "头上或者手腕上的发圈"
+            },
+            {
+              "id": "step_t_16",
+              "type": "choice",
+              "content": "可以了"
+            },
+            {
+              "id": "step_t_17",
+              "type": "save",
+              "content": "SAVE 6"
+            },
+            {
+              "id": "step_t_18",
+              "type": "choice",
+              "content": "我想起了自己的失败……"
+            },
+            {
+              "id": "step_t_19",
+              "type": "choice",
+              "content": "还是想稍微放松一点"
+            },
+            {
+              "id": "step_t_20",
+              "type": "choice",
+              "content": "我喜欢整个人泡进热水里"
+            },
+            {
+              "id": "step_t_21",
+              "type": "choice",
+              "content": "难道和石蕗同学有关？"
+            },
+            {
+              "id": "step_t_22",
+              "type": "choice",
+              "content": "先不睡",
+              "prefix": "★"
+            },
+            {
+              "id": "step_t_23",
+              "type": "choice",
+              "content": "送礼物",
+              "prefix": "★"
+            },
+            {
+              "id": "step_t_24",
+              "type": "choice",
+              "content": "我对情书可没有好的回忆"
+            },
+            {
+              "id": "step_t_25",
+              "type": "choice",
+              "content": "不是这样……"
+            },
+            {
+              "id": "step_t_26",
+              "type": "choice",
+              "content": "张开嘴"
+            },
+            {
+              "id": "step_t_27",
+              "type": "choice",
+              "content": "我认为考崎千鸟同学比我更合适"
+            },
+            {
+              "id": "step_t_28",
+              "type": "choice",
+              "content": "摸摸她的头"
+            },
+            {
+              "id": "step_t_29",
+              "type": "choice",
+              "content": "信上的部分描述若非在极近距离下是不可能看到的"
+            },
+            {
+              "id": "step_t_30",
+              "type": "choice",
+              "content": "尼西亚会代代相传的话"
+            },
+            {
+              "id": "step_t_31",
+              "type": "choice",
+              "content": "八代让叶"
+            },
+            {
+              "id": "step_t_32",
+              "type": "save",
+              "content": "SAVE 7"
+            },
+            {
+              "id": "step_t_33",
+              "type": "choice",
+              "content": "把在一起的原因告诉她"
+            },
+            {
+              "id": "step_t_34",
+              "type": "choice",
+              "content": "现代剧怎么样？"
+            },
+            {
+              "id": "step_t_35",
+              "type": "choice",
+              "content": "能联想到驱蛇的植物"
+            },
+            {
+              "id": "step_t_36",
+              "type": "choice",
+              "content": "感觉《闪灵》里的双胞胎随时会冒出来"
+            },
+            {
+              "id": "step_t_37",
+              "type": "choice",
+              "content": "不能说出真由理的秘密"
+            },
+            {
+              "id": "step_t_38",
+              "type": "choice",
+              "content": "鼓励她们打起精神"
+            },
+            {
+              "id": "step_t_39",
+              "type": "choice",
+              "content": "我能帮什么吗？"
+            },
+            {
+              "id": "step_t_40",
+              "type": "choice",
+              "content": "希望读信人能从墓志铭中推测出她的意思"
+            },
+            {
+              "id": "step_t_41",
+              "type": "choice",
+              "content": "指圣经里的诗篇"
+            }
+          ]
+        },
+        {
+          "id": "ending_grand",
+          "name": "GRAND FINALE(4周目)",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_g_01",
+              "type": "note",
+              "content": "立花 END 后(4周目)",
+              "prefix": "※"
+            },
+            {
+              "id": "step_g_02",
+              "type": "load",
+              "content": "LOAD 5"
+            },
+            {
+              "id": "step_g_03",
+              "type": "choice",
+              "content": "指圣经里的诗篇"
+            }
+          ]
+        },
+        {
+          "id": "ending_events",
+          "name": "回收事件",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_e_01",
+              "type": "load",
+              "content": "LOAD 6"
+            },
+            {
+              "id": "step_e_02",
+              "type": "choice",
+              "content": "糊弄过去"
+            },
+            {
+              "id": "step_e_03",
+              "type": "choice",
+              "content": "如果能和大家搞好关系……"
+            },
+            {
+              "id": "step_e_04",
+              "type": "choice",
+              "content": "淋浴比较多吧"
+            },
+            {
+              "id": "step_e_05",
+              "type": "choice",
+              "content": "难道是生病了？"
+            },
+            {
+              "id": "step_e_06",
+              "type": "choice",
+              "content": "睡觉",
+              "prefix": "★"
+            },
+            {
+              "id": "step_e_07",
+              "type": "choice",
+              "content": "因为天气难得放晴"
+            },
+            {
+              "id": "step_e_08",
+              "type": "choice",
+              "content": "不是的！"
+            },
+            {
+              "id": "step_e_09",
+              "type": "choice",
+              "content": "谢谢"
+            },
+            {
+              "id": "step_e_10",
+              "type": "choice",
+              "content": "我认为八重垣艾莉卡同学比我更合适"
+            },
+            {
+              "id": "step_e_11",
+              "type": "choice",
+              "content": "握住她的手"
+            }
+          ]
+        },
+        {
+          "id": "ending_cg",
+          "name": "回收 CG",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_c_01",
+              "type": "load",
+              "content": "LOAD 7"
+            },
+            {
+              "id": "step_c_02",
+              "type": "choice",
+              "content": "说谎"
+            },
+            {
+              "id": "step_c_03",
+              "type": "choice",
+              "content": "没什么想法"
+            },
+            {
+              "id": "step_c_04",
+              "type": "choice",
+              "content": "我也说不好……"
+            },
+            {
+              "id": "step_c_05",
+              "type": "choice",
+              "content": "其实也没那么喜欢……"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

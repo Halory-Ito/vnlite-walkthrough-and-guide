@@ -1,0 +1,244 @@
+{
+  "vid": "v18635",
+  "name": {
+    "zh-cn": "有少女涂彩的爱之芬芳",
+    "ja-jp": "乙女が彩る恋のエッセンス",
+    "ja-Latn": "otome-ga-irodoru-koi-no-essence"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-13",
+  "tips": [
+    "SAVE04以前的选项对路线分歧没有影响，可以自行随意选择",
+    "任意一人攻略完毕后，おまけ的Secret中会追加■Secret Story。各角色攻略完毕后，Secret中会追加■After Story"
+  ],
+  "routes": [
+    {
+      "id": "route_1762679203930",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1762679333667",
+          "name": "咲夜",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762679470048",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1762679470645",
+              "type": "choice",
+              "content": "先到走廊里看看吧"
+            },
+            {
+              "id": "step_1762679471321",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1762679471827",
+              "type": "choice",
+              "content": "果然还是继续在宿舍里待会儿吧"
+            },
+            {
+              "id": "step_1762679479583",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_1762679480119",
+              "type": "choice",
+              "content": "果然还是继续在宿舍里转悠吧"
+            },
+            {
+              "id": "step_1762679480565",
+              "type": "save",
+              "content": "SAVE 4"
+            },
+            {
+              "id": "step_1762679481042",
+              "type": "choice",
+              "content": "去帮忙准备欢迎会吧"
+            },
+            {
+              "id": "step_1762679481685",
+              "type": "save",
+              "content": "SAVE 5"
+            },
+            {
+              "id": "step_1762679482140",
+              "type": "choice",
+              "content": "和小乃一起给咲夜大人帮忙吧"
+            },
+            {
+              "id": "step_1762679482635",
+              "type": "save",
+              "content": "SAVE 6"
+            },
+            {
+              "id": "step_1762679483182",
+              "type": "choice",
+              "content": "还是先去帮咲夜大人的忙吧"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762679910654",
+          "name": "朱里",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762680122297",
+              "type": "load",
+              "content": "LOAD 5"
+            },
+            {
+              "id": "step_1762680125825",
+              "type": "choice",
+              "content": "和朱里一起做现场的工作吧"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762679911483",
+          "name": "乃亚",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762680139665",
+              "type": "load",
+              "content": "LOAD 6"
+            },
+            {
+              "id": "step_1762680143061",
+              "type": "choice",
+              "content": "和小乃一起去接待客人好了"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762679918688",
+          "name": "皐月",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762680158487",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_1762680175015",
+              "type": "choice",
+              "content": "去帮忙准备舞会吧"
+            },
+            {
+              "id": "step_1762680548313",
+              "type": "save",
+              "content": "SAVE 7"
+            },
+            {
+              "id": "step_1762680552187",
+              "type": "choice",
+              "content": "和皐月一起"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762679918980",
+          "name": "芹香",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762680565105",
+              "type": "load",
+              "content": "LOAD 7"
+            },
+            {
+              "id": "step_1762680568809",
+              "type": "choice",
+              "content": "和芹香一起"
+            }
+          ]
+        },
+        {
+          "id": "ending_1762680598625",
+          "name": "Secret的Story",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1762680941592",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1762680943209",
+              "type": "choice",
+              "content": "今天就在宿舍里慢慢呆着吧"
+            },
+            {
+              "id": "step_1762680944093",
+              "type": "note",
+              "content": "(皐月)事件CG回收后结束"
+            },
+            {
+              "id": "step_1762680951410",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1762680954854",
+              "type": "choice",
+              "content": "那就去宿舍外面转转吧"
+            },
+            {
+              "id": "step_1762680960310",
+              "type": "save",
+              "content": "SAVE 8"
+            },
+            {
+              "id": "step_1762681010736",
+              "type": "choice",
+              "content": "稍微偷看下院子里的情形吧"
+            },
+            {
+              "id": "step_1762681011309",
+              "type": "note",
+              "content": "(朱里)事件CG回收后结束"
+            },
+            {
+              "id": "step_1762681018265",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_1762681021966",
+              "type": "choice",
+              "content": "果断点的 去休息室里逛一圈好了"
+            },
+            {
+              "id": "step_1762681022657",
+              "type": "note",
+              "content": "（乃亚）事件CG回收后结束"
+            },
+            {
+              "id": "step_1762681030550",
+              "type": "load",
+              "content": "LOAD 8"
+            },
+            {
+              "id": "step_1762681036634",
+              "type": "choice",
+              "content": "先从做点心开始好了"
+            },
+            {
+              "id": "step_1762681037257",
+              "type": "note",
+              "content": "（芹香）事件CG回收后结束"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "vid": "v22847",
+  "name": {
+    "zh-cn": "树莓立方体",
+    "ja-jp": "ラズベリーキューブ",
+    "ja-Latn": "raspberry-cube"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-14",
+  "routes": [
+    {
+      "id": "route_1772365935827",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1772365952233",
+          "name": "樱庭·维多利亚·瑠莉",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1772365977515",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1772365979933",
+              "type": "choice",
+              "content": "瑠莉：走廊"
+            },
+            {
+              "id": "step_1772365980424",
+              "type": "choice",
+              "content": "瑠莉：商店街"
+            }
+          ]
+        },
+        {
+          "id": "ending_1772365952828",
+          "name": "海道美琴",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1772366017096",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1772366018315",
+              "type": "choice",
+              "content": "美琴：校门前"
+            },
+            {
+              "id": "step_1772366018497",
+              "type": "choice",
+              "content": "美琴：公寓"
+            },
+            {
+              "id": "step_1772366018707",
+              "type": "choice",
+              "content": "美琴：校门前"
+            },
+            {
+              "id": "step_1772366027110",
+              "type": "choice",
+              "content": "交谈"
+            }
+          ]
+        },
+        {
+          "id": "ending_1772365953154",
+          "name": "结月悠",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1772366056939",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1772366058506",
+              "type": "choice",
+              "content": "悠：教室"
+            },
+            {
+              "id": "step_1772366058667",
+              "type": "choice",
+              "content": "悠：悠之店"
+            },
+            {
+              "id": "step_1772366058909",
+              "type": "choice",
+              "content": "悠：屋顶"
+            },
+            {
+              "id": "step_1772366059232",
+              "type": "choice",
+              "content": "因为在这里打工所以不行"
+            }
+          ]
+        },
+        {
+          "id": "ending_1772366085062",
+          "name": "狩野凑",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1772366094173",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1772366095713",
+              "type": "choice",
+              "content": "港湾：凑"
+            },
+            {
+              "id": "step_1772366104839",
+              "type": "choice",
+              "content": "失败"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

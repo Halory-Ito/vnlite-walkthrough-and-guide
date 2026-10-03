@@ -1,0 +1,63 @@
+{
+  "vid": "v21668",
+  "name": {
+    "zh-cn": "9-nine-天色天歌天籁音",
+    "en-us": "9-nine-:Episode 2",
+    "ja-jp": "9-nine-そらいろそらうたそらのおと",
+    "ja-Latn": "9-nine-2"
+  },
+  "level": 2,
+  "updatedAt": "2026-05-12",
+  "routes": [
+    {
+      "id": "route_memory",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_end1",
+          "name": "END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_0",
+              "type": "choice",
+              "content": "回忆"
+            },
+            {
+              "id": "step_1",
+              "type": "choice",
+              "content": "无可奈何同意"
+            },
+            {
+              "id": "step_1778549233558",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_2",
+              "type": "choice",
+              "content": "接受"
+            }
+          ]
+        },
+        {
+          "id": "ending_end2",
+          "name": "END2",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_1778549239495",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_4",
+              "type": "choice",
+              "content": "不接受"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

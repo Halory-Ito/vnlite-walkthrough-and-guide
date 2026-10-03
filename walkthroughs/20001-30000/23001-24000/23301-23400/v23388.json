@@ -1,0 +1,251 @@
+{
+  "vid": "v23388",
+  "name": {
+    "zh-cn": "5分钟的邂逅！时间停止与不可避免的命运",
+    "ja-jp": "出会って5分は俺のもの！ 時間停止と不可避な運命",
+    "ja-Latn": "deatte-5-fun-wa-ore-no-mono"
+  },
+  "level": 2,
+  "updatedAt": "2026-03-09",
+  "tips": [
+    "★标注的选项为追加选项，不出现的话无视即可"
+  ],
+  "routes": [
+    {
+      "id": "route_1773045711225",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1773045715084",
+          "name": "瑠璃 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1773045729594",
+              "type": "choice",
+              "content": "当然是在看你呀"
+            },
+            {
+              "id": "step_1773045729701",
+              "type": "choice",
+              "content": "你可别太勉强了啊"
+            },
+            {
+              "id": "step_1773045729834",
+              "type": "choice",
+              "content": "估计即使是想了也无济于事吧",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1773045729984",
+              "type": "choice",
+              "content": "向她稍稍说明一下"
+            },
+            {
+              "id": "step_1773045747645",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1773045748650",
+              "type": "choice",
+              "content": "赶忙否定掉"
+            },
+            {
+              "id": "step_1773045753272",
+              "type": "choice",
+              "content": "看她有没有发烧"
+            },
+            {
+              "id": "step_1773045753422",
+              "type": "choice",
+              "content": "挑衅她"
+            },
+            {
+              "id": "step_1773045753572",
+              "type": "choice",
+              "content": "打听花音前辈的事",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1773045753664",
+              "type": "choice",
+              "content": "那就帮她吧"
+            },
+            {
+              "id": "step_1773045787480",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_1773045789740",
+              "type": "choice",
+              "content": "到光井和安部她们那里"
+            }
+          ]
+        },
+        {
+          "id": "ending_1773045793689",
+          "name": "花音 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1773045799805",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1773045800326",
+              "type": "choice",
+              "content": "向她吹嘘一下"
+            },
+            {
+              "id": "step_1773045800477",
+              "type": "choice",
+              "content": "观察她"
+            },
+            {
+              "id": "step_1773045800630",
+              "type": "choice",
+              "content": "温柔的问她"
+            },
+            {
+              "id": "step_1773045800753",
+              "type": "choice",
+              "content": "打听花音前辈的事",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1773045800827",
+              "type": "choice",
+              "content": "还是不要随意插话了"
+            },
+            {
+              "id": "step_1773045833056",
+              "type": "choice",
+              "content": "去泳池边樱良和花音前辈那放松下"
+            }
+          ]
+        },
+        {
+          "id": "ending_1773045840668",
+          "name": "樱良 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1773045851665",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1773045853480",
+              "type": "choice",
+              "content": "去泳池边樱良和花音前辈那放松下"
+            }
+          ]
+        },
+        {
+          "id": "ending_1773045856808",
+          "name": "诺亚 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1773045869386",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_1773045871320",
+              "type": "choice",
+              "content": "去白亚和山吹那和她们滑水道"
+            }
+          ]
+        },
+        {
+          "id": "ending_1773045874734",
+          "name": "白亚 END",
+          "type": "normal",
+          "requirements": "以上4人END后从最初开始",
+          "steps": [
+            {
+              "id": "step_1773045892511",
+              "type": "choice",
+              "content": "确实是"
+            },
+            {
+              "id": "step_1773045892635",
+              "type": "choice",
+              "content": "哼,还真是辛苦啊"
+            },
+            {
+              "id": "step_1773045892769",
+              "type": "choice",
+              "content": "你不会受到时停的影响吗？",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1773045908745",
+              "type": "choice",
+              "content": "就交给前辈推荐了"
+            },
+            {
+              "id": "step_1773045908924",
+              "type": "choice",
+              "content": "向她吹嘘一下"
+            },
+            {
+              "id": "step_1773045920674",
+              "type": "choice",
+              "content": "观察她"
+            },
+            {
+              "id": "step_1773045920806",
+              "type": "choice",
+              "content": "温柔的问她"
+            },
+            {
+              "id": "step_1773045921007",
+              "type": "choice",
+              "content": "想到白亚的事",
+              "prefix": "★"
+            },
+            {
+              "id": "step_1773045921096",
+              "type": "choice",
+              "content": "还是不要随意插话了"
+            },
+            {
+              "id": "step_1773045941240",
+              "type": "choice",
+              "content": "去白亚和山吹那和她们滑水道"
+            }
+          ]
+        },
+        {
+          "id": "ending_1773045950827",
+          "name": "梓 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1773045963171",
+              "type": "note",
+              "content": "选择【梓Story】开始"
+            }
+          ]
+        },
+        {
+          "id": "ending_1773045968501",
+          "name": "胡桃 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1773045975610",
+              "type": "note",
+              "content": "选择【胡桃Story】开始"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
