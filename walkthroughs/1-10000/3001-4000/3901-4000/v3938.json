@@ -492,6 +492,7 @@
     {
       "id": "route_forbidden_medicine",
       "name": "禁忌之药",
+      "description": "银子END、伊吕波END2、翔子END2、沙久耶END2四个结局中达成两个，会追加片段「降临～初会～」；达成三个会追加片段「回乡～离别～」；全部达成会追加片段「诅咒～祝福～」。完成上述片段后，会追加最终片段「萌芽～开端～」。完成后进入最终章。",
       "endings": [
         {
           "id": "ending_forbidden_true",

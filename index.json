@@ -138,11 +138,11 @@
       "path": "walkthroughs/1-10000/1-1000/1-100/v28.json",
       "updatedAt": "2026-07-14",
       "routesCount": 1,
-      "endingsCount": 7,
-      "stepsCount": 54,
+      "endingsCount": 5,
+      "stepsCount": 49,
       "name": {
-        "zh-cn": "shuffle！",
-        "ja-Latn": "shuffle"
+        "zh-cn": "SPIRAL!!",
+        "ja-Latn": "spiral-navel"
       },
       "level": 2
     },
@@ -792,14 +792,14 @@
     {
       "vid": "v564",
       "path": "walkthroughs/1-10000/1-1000/501-600/v564.json",
-      "updatedAt": "2026-05-07",
+      "updatedAt": "2026-04-13",
       "routesCount": 1,
       "endingsCount": 14,
-      "stepsCount": 142,
+      "stepsCount": 143,
       "name": {
-        "zh-cn": "PP 提线木偶的轮舞",
+        "zh-cn": "PP -Pianissimo- 提线木偶的轮舞",
         "ja-jp": "PP -ピアニッシモ- 操リ人形ノ輪舞",
-        "ja-Latn": "pp-pianissimo"
+        "ja-Latn": "pp-pianissimo-ayatsuri-ningyou-no-rinbu"
       },
       "level": 2
     },
@@ -3269,14 +3269,14 @@
     {
       "vid": "v13325",
       "path": "walkthroughs/10001-20000/13001-14000/13301-13400/v13325.json",
-      "updatedAt": "2026-07-12",
-      "routesCount": 5,
+      "updatedAt": "2026-07-14",
+      "routesCount": 1,
       "endingsCount": 5,
       "stepsCount": 16,
       "name": {
         "zh-cn": "幸运草的约定",
-        "en-us": "Clover Day's",
-        "ja-Latn": "clover-days"
+        "en-us": "Clover Day's Plus",
+        "ja-Latn": "clover-days-plus"
       },
       "level": 2
     },

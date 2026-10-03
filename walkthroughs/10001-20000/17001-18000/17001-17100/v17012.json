@@ -12,6 +12,7 @@
     {
       "id": "route_tenshi_no_shoujo_prequel",
       "name": "前日谭",
+      "description": "天之少女 前日谭剧情",
       "endings": [
         {
           "id": "ending_prequel",
@@ -101,6 +102,7 @@
     {
       "id": "route_tenshi_no_shoujo",
       "name": "游戏攻略",
+      "description": "按 1周目、2周目、3周目整理，前日谭单独成 route",
       "endings": [
         {
           "id": "ending_one",

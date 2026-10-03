@@ -10,7 +10,7 @@ export const STEP_TYPES = ['choice', 'save', 'load', 'note'];
 export const ENDING_TYPES = ['normal', 'bad', 'good', 'true'];
 
 export const TOP_KEYS = ['vid', 'name', 'level', 'author', 'contact', 'updatedAt', 'tips', 'routes'];
-export const ROUTE_KEYS = ['id', 'name', 'endings'];
+export const ROUTE_KEYS = ['id', 'name', 'description', 'endings'];
 export const ENDING_KEYS = ['id', 'name', 'type', 'requirements', 'steps'];
 export const STEP_KEYS = ['id', 'type', 'content', 'prefix', 'subfix', 'group'];
 
@@ -163,6 +163,10 @@ function validateRoute(c, route, where, seenRouteIds, seenEndingIds, seenStepIds
 
   if (!isNonEmptyString(route.name)) {
     c.error(`${where}.name`, 'name 必填，且必须是非空字符串');
+  }
+
+  if (route.description !== undefined && !isNonEmptyString(route.description)) {
+    c.error(`${where}.description`, 'description 若提供则必须是非空字符串');
   }
 
   if (!Array.isArray(route.endings)) {

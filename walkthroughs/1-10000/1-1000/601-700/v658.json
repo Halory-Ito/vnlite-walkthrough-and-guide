@@ -12,6 +12,7 @@
     {
       "id": "route_game",
       "name": "游戏攻略",
+      "description": "注：标有★的地方请全部选择以回收CG。达成ゆめ的 TRUE END以及其他角色 END 后开启 Afterstory。为回收CG，相关选项需全部选择。",
       "endings": [
         {
           "id": "ending_tierra_end",

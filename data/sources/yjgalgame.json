@@ -92,15 +92,15 @@
       "stepsCount": 11
     },
     "v28": {
-      "slug": "shuffle-essence",
-      "url": "https://www.yjgalgame.com/gal/shuffle-essence",
+      "slug": "spiral-navel",
+      "url": "https://www.yjgalgame.com/gal/spiral-navel",
       "vndbIds": [
         "v28"
       ],
       "updatedAt": "2026-07-14",
-      "routesCount": 12,
-      "endingsCount": 19,
-      "stepsCount": 156
+      "routesCount": 1,
+      "endingsCount": 5,
+      "stepsCount": 49
     },
     "v33": {
       "slug": "kanon",
@@ -598,15 +598,15 @@
       "stepsCount": 58
     },
     "v564": {
-      "slug": "pp-pianissimo",
-      "url": "https://www.yjgalgame.com/gal/pp-pianissimo",
+      "slug": "pp-pianissimo-ayatsuri-ningyou-no-rinbu",
+      "url": "https://www.yjgalgame.com/gal/pp-pianissimo-ayatsuri-ningyou-no-rinbu",
       "vndbIds": [
         "v564"
       ],
-      "updatedAt": "2026-05-07",
+      "updatedAt": "2026-04-13",
       "routesCount": 1,
       "endingsCount": 14,
-      "stepsCount": 142
+      "stepsCount": 143
     },
     "v599": {
       "slug": "forest",
@@ -2512,13 +2512,13 @@
       "stepsCount": 32
     },
     "v13325": {
-      "slug": "clover-days",
-      "url": "https://www.yjgalgame.com/gal/clover-days",
+      "slug": "clover-days-plus",
+      "url": "https://www.yjgalgame.com/gal/clover-days-plus",
       "vndbIds": [
         "v13325"
       ],
-      "updatedAt": "2026-07-12",
-      "routesCount": 5,
+      "updatedAt": "2026-07-14",
+      "routesCount": 1,
       "endingsCount": 5,
       "stepsCount": 16
     },

@@ -17,6 +17,7 @@
     {
       "id": "route_remember11",
       "name": "游戏攻略",
+      "description": "心篇GOOD END达成后解锁悟篇。",
       "endings": [
         {
           "id": "ending_01",

@@ -11,6 +11,7 @@
     {
       "id": "route_kanade",
       "name": "游戏攻略",
+      "description": "包含5个角色结局的路线",
       "endings": [
         {
           "id": "ending_kanade",

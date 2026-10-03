@@ -2,152 +2,128 @@
   "vid": "v13325",
   "name": {
     "zh-cn": "幸运草的约定",
-    "en-us": "Clover Day's",
-    "ja-Latn": "clover-days"
+    "en-us": "Clover Day's Plus",
+    "ja-Latn": "clover-days-plus"
   },
   "level": 2,
-  "updatedAt": "2026-07-12",
+  "updatedAt": "2026-07-14",
   "routes": [
     {
-      "id": "route_1757079347667",
-      "name": "鹰仓 杏铃",
+      "id": "route_1778152896921",
+      "name": "游戏攻略",
       "endings": [
         {
-          "id": "ending_1757079375037",
-          "name": "杏铃 END",
+          "id": "ending_1778152980409",
+          "name": "鹰仓杏鈴 END",
           "type": "normal",
           "steps": [
             {
-              "id": "step_1757079377940",
-              "type": "save",
-              "content": "SAVE 1"
-            },
-            {
-              "id": "step_1757079379014",
+              "id": "step_1778152994194",
               "type": "choice",
               "content": "让我再想想"
             },
             {
-              "id": "step_1757079380909",
-              "type": "save",
-              "content": "SAVE 2"
-            },
-            {
-              "id": "step_1757079382033",
+              "id": "step_1778152994360",
               "type": "choice",
               "content": "脑海中浮现出家人们的面容"
             },
             {
-              "id": "step_1757079382599",
-              "type": "save",
-              "content": "SAVE 3"
-            },
-            {
-              "id": "step_1757079383377",
+              "id": "step_1778152994534",
               "type": "choice",
               "content": "得在日落之前去玩"
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "route_1757080910095",
-      "name": "鹰仓 杏璃",
-      "endings": [
+        },
         {
-          "id": "ending_1757080913067",
-          "name": "杏璃 END",
+          "id": "ending_1778153042632",
+          "name": "鹰仓杏璃 END",
           "type": "normal",
           "steps": [
             {
-              "id": "step_1757080916375",
-              "type": "load",
-              "content": "LOAD 3"
+              "id": "step_1778153213334",
+              "type": "choice",
+              "content": "让我再想想"
             },
             {
-              "id": "step_1757080920470",
+              "id": "step_1778153213495",
+              "type": "choice",
+              "content": "脑海中浮现出家人们的面容"
+            },
+            {
+              "id": "step_1778153213657",
               "type": "choice",
               "content": "应该先学习再去玩"
+            },
+            {
+              "id": "step_1778153213981",
+              "type": "choice",
+              "content": "要夺取杏璃的全部"
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "route_1757080960903",
-      "name": "加贺美 碧瑠&加贺美 光瑠",
-      "endings": [
+        },
         {
-          "id": "ending_1757080976204",
-          "name": "碧瑠&光瑠 END",
+          "id": "ending_1778153239396",
+          "name": "加贺美 ヘキル 加贺美 ヒカル END",
           "type": "normal",
           "steps": [
             {
-              "id": "step_1757080979923",
-              "type": "load",
-              "content": "LOAD 1"
-            },
-            {
-              "id": "step_1757080981230",
+              "id": "step_1778153276075",
               "type": "choice",
               "content": "嗯，明白了"
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "route_1757081346211",
-      "name": "龙胆 燕",
-      "endings": [
+        },
         {
-          "id": "ending_1757081349014",
-          "name": "燕 END",
+          "id": "ending_1778153301498",
+          "name": "龙胆燕子 END",
           "type": "normal",
           "steps": [
             {
-              "id": "step_1757081354667",
-              "type": "load",
-              "content": "LOAD 2"
+              "id": "step_1778153327601",
+              "type": "choice",
+              "content": "让我再想想"
             },
             {
-              "id": "step_1757081393832",
+              "id": "step_1778153327772",
               "type": "choice",
               "content": "脑海中浮现出朋友们的面容"
             },
             {
-              "id": "step_1757081395423",
-              "type": "save",
-              "content": "SAVE 4"
-            },
-            {
-              "id": "step_1757081403044",
+              "id": "step_1778153327938",
               "type": "choice",
               "content": "想要去守护的孩子"
+            },
+            {
+              "id": "step_1778153328809",
+              "type": "choice",
+              "content": "想教燕！"
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "route_1757081557473",
-      "name": "结桥 泉",
-      "endings": [
+        },
         {
-          "id": "ending_1757081559702",
-          "name": "泉 END",
+          "id": "ending_1778153377579",
+          "name": "结桥泉 END",
           "type": "normal",
           "steps": [
             {
-              "id": "step_1757081562225",
-              "type": "load",
-              "content": "LOAD 4"
+              "id": "step_1778153388950",
+              "type": "choice",
+              "content": "让我再想想"
             },
             {
-              "id": "step_1757081566347",
+              "id": "step_1778153389170",
+              "type": "choice",
+              "content": "脑海中浮现出朋友们的面容"
+            },
+            {
+              "id": "step_1778153389405",
               "type": "choice",
               "content": "能够并肩作战的孩子"
+            },
+            {
+              "id": "step_1778153389956",
+              "type": "choice",
+              "content": "三个人一起"
             }
           ]
         }

@@ -210,6 +210,9 @@ function mapRoute(raw, ctx, index) {
   const id = claimId(source.id, ctx.ids.route, 'route', ctx.renamedIds);
   if (id) route.id = id;
   route.name = name;
+  // 路线说明（如「二周目，需前面任意一位女主通关后」）——源站只有 route 层级有此字段
+  const description = cleanContent(source.description, true);
+  if (description) route.description = description;
   route.endings = endings;
   return route;
 }

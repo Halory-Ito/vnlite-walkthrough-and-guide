@@ -12,6 +12,7 @@
     {
       "id": "route_utsuro_no_shoujo",
       "name": "游戏攻略",
+      "description": "按虚.txt顺序整理，共11个结局。地点项只保留地点名，日期统一写入 group。",
       "endings": [
         {
           "id": "ending_end1",

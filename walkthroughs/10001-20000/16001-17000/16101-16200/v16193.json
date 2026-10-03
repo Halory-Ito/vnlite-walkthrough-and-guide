@@ -11,6 +11,7 @@
     {
       "id": "route_game",
       "name": "游戏攻略",
+      "description": "全角色攻略总表",
       "endings": [
         {
           "id": "ending_ryoko",

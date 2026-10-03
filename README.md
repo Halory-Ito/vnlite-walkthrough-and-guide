@@ -91,6 +91,7 @@ v18437 -> walkthroughs/10001-20000/18001-19000/18401-18500/v18437.json
 | --- | --- | --- |
 | `id` | | 路线唯一标识 |
 | `name` | ✅ | 路线名称，通常是角色名或章节名 |
+| `description` | | 路线说明，如通关条件、特殊规则、注意事项 |
 | `endings` | ✅ | 结局数组，不能为空 |
 
 ### `endings[]`
@@ -130,6 +131,7 @@ v18437 -> walkthroughs/10001-20000/18001-19000/18401-18500/v18437.json
   "routes": [
     {
       "name": "由岐视点",
+      "description": "二周目，需前面任意一位女主通关后才会出现",
       "endings": [
         {
           "name": "由岐视点 END2",
@@ -265,10 +267,11 @@ npm run check && git add walkthroughs index.json
 | `level` | `level` | 保留原值 |
 | `tips` | `tips` | 逐行清理空行，全空则省略 |
 | `routes[].id/name` | `routes[].id/name` | 原样保留；缺名时用「未命名路线 N」占位并记警告 |
+| `routes[].description` | `routes[].description` | 路线说明原样保留（源站只有 route 层级有此字段，39 个游戏有） |
 | `routes[].endings[]` | `routes[].endings[]` | `id`/`name`/`type`/`requirements` 原样保留；非法 `type` 回落 `normal` |
 | `endings[].steps[]` | `endings[].steps[]` | `id`/`type`/`content`/`prefix`/`subfix`/`group` 原样保留；空内容步骤丢弃；非法 `type` 回落 `choice` |
 | `updated_at` | `updatedAt` | 取日期部分；缺失时依次回退 `updatedAt` → `created_at` → sitemap `lastmod` |
-| `uid` `cover` `developer` `releaseDate` `tags` `show` `nsfw_content` `views` `seoName` `created_at` `routes[].description` … | — | 全部丢弃（`show=false` 的页面直接跳过） |
+| `uid` `cover` `developer` `releaseDate` `tags` `show` `nsfw_content` `views` `seoName` `created_at` … | — | 全部丢弃（`show=false` 的页面直接跳过） |
 
 **关于 id 重复**：源站的 `id` 只是行内序号，并不唯一——常见情况是每个结局都从 `step_01` 重新编号，同一结局内也可能出现两个 `step_end12_001`。本库要求同级 id 唯一，因此抓取时会给重复 id 追加**确定性后缀**（`step_01` → `step_01_1`），既保留可追溯性，也保证多次抓取结果完全一致；被改写的数量会记入运行报告的 `字段提示`。
 

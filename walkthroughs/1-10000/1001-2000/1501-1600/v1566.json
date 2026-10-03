@@ -597,6 +597,7 @@
     {
       "id": "route_hinamizu",
       "name": "雏水",
+      "description": "游羽ルートの分岐セーブから開始。",
       "endings": [
         {
           "id": "ending_hinamizu_1",
@@ -804,6 +805,7 @@
     {
       "id": "route_risa",
       "name": "梨沙",
+      "description": "游羽ルートの分岐セーブから開始。",
       "endings": [
         {
           "id": "ending_risa_1",

@@ -14,6 +14,7 @@
     {
       "id": "route_memories_off",
       "name": "游戏攻略",
+      "description": "整作总攻略，整理为单个 route，并已去除 CG 获取说明。",
       "endings": [
         {
           "id": "ending_01",

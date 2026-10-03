@@ -55,6 +55,11 @@
       "properties": {
         "id": { "$ref": "#/$defs/id" },
         "name": { "description": "路线名称，通常是角色名或章节名", "type": "string", "minLength": 1 },
+        "description": {
+          "description": "路线说明，如通关条件、特殊规则、注意事项",
+          "type": "string",
+          "minLength": 1
+        },
         "endings": {
           "type": "array",
           "minItems": 1,

@@ -2271,6 +2271,7 @@
     {
       "id": "route_extra_yuka",
       "name": "附加剧情——优夏篇",
+      "description": "没有S/L功能，2个End",
       "endings": [
         {
           "id": "ending_extra_yuka_end1",

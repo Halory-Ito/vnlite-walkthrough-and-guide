@@ -209,6 +209,7 @@
     {
       "id": "route_1755270978785",
       "name": "BAD END",
+      "description": "(个人线结束后,流程图末尾追加新Hs)",
       "endings": [
         {
           "id": "ending_1755270990705",
