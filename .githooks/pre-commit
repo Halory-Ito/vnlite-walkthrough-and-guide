@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+# 提交前校验：字段规范 + index.json 是否与 walkthroughs/ 同步。
+# 启用：npm run hooks:install（或 git config core.hooksPath .githooks）
+set -euo pipefail
+
+repo_root="$(git rev-parse --show-toplevel)"
+cd "$repo_root"
+
+node scripts/validate.mjs
+node scripts/build-index.mjs --check

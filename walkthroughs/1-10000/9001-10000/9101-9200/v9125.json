@@ -1,0 +1,105 @@
+{
+  "vid": "v9125",
+  "name": {
+    "zh-cn": "1/2 summer",
+    "ja-Latn": "1-2summer"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-13",
+  "routes": [
+    {
+      "id": "route_1769605917995",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_1769606112990",
+          "name": "神木 汐 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1769606133554",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_1769606134501",
+              "type": "choice",
+              "content": "汐"
+            },
+            {
+              "id": "step_1769606145677",
+              "type": "choice",
+              "content": "嘴里/脸上"
+            },
+            {
+              "id": "step_1769606145829",
+              "type": "choice",
+              "content": "汐"
+            }
+          ]
+        },
+        {
+          "id": "ending_1769606113193",
+          "name": "忍坂 鸫 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1769606192715",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1769606195014",
+              "type": "choice",
+              "content": "鸫"
+            }
+          ]
+        },
+        {
+          "id": "ending_1769606113470",
+          "name": "久遠寺 澄空 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1769606212497",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1769606213555",
+              "type": "choice",
+              "content": "澄空"
+            },
+            {
+              "id": "step_1769606215169",
+              "type": "choice",
+              "content": "嘴里/脸上"
+            },
+            {
+              "id": "step_1769606215694",
+              "type": "choice",
+              "content": "澄空"
+            }
+          ]
+        },
+        {
+          "id": "ending_1769606113796",
+          "name": "詩代 叶 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1769606274020",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_1769606275372",
+              "type": "choice",
+              "content": "叶"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2059 @@
+{
+  "vid": "v4",
+  "name": {
+    "zh-cn": "CLANNAD",
+    "en-us": "CLANNAD",
+    "ja-Latn": "clannad"
+  },
+  "level": 1,
+  "updatedAt": "2026-03-24",
+  "routes": [
+    {
+      "id": "route_clannad_full_guide",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_spring_hara",
+          "name": "春原阳平 END",
+          "type": "bad",
+          "requirements": "※故意避开所有女主角flag，疯狂跟春原互动",
+          "steps": [
+            {
+              "id": "step_001",
+              "type": "save",
+              "content": "SAVE 1",
+              "subfix": "初期"
+            },
+            {
+              "id": "step_002",
+              "type": "choice",
+              "content": "算了"
+            },
+            {
+              "id": "step_003",
+              "type": "choice",
+              "content": "无视"
+            },
+            {
+              "id": "step_004",
+              "type": "choice",
+              "content": "逃课"
+            },
+            {
+              "id": "step_005",
+              "type": "choice",
+              "content": "接受"
+            },
+            {
+              "id": "step_006",
+              "type": "choice",
+              "content": "到庭院去"
+            },
+            {
+              "id": "step_007",
+              "type": "choice",
+              "content": "再继续谈话"
+            },
+            {
+              "id": "step_008",
+              "type": "choice",
+              "content": "继续看下去"
+            },
+            {
+              "id": "step_009",
+              "type": "choice",
+              "content": "我对此也颇感兴趣"
+            },
+            {
+              "id": "step_010",
+              "type": "choice",
+              "content": "在意"
+            },
+            {
+              "id": "step_011",
+              "type": "choice",
+              "content": "向她搭话"
+            },
+            {
+              "id": "step_012",
+              "type": "choice",
+              "content": "去"
+            },
+            {
+              "id": "step_013",
+              "type": "choice",
+              "content": "跑去买"
+            },
+            {
+              "id": "step_014",
+              "type": "save",
+              "content": "SAVE 2",
+              "subfix": "中期"
+            },
+            {
+              "id": "step_015",
+              "type": "choice",
+              "content": "让她一个人做"
+            },
+            {
+              "id": "step_016",
+              "type": "choice",
+              "content": "跟去看看"
+            },
+            {
+              "id": "step_017",
+              "type": "choice",
+              "content": "跟着他去"
+            },
+            {
+              "id": "step_019",
+              "type": "choice",
+              "content": "逃课"
+            },
+            {
+              "id": "step_020",
+              "type": "choice",
+              "content": "跟着她去"
+            },
+            {
+              "id": "step_021",
+              "type": "choice",
+              "content": "看看这些书有没有被剪过"
+            },
+            {
+              "id": "step_022",
+              "type": "choice",
+              "content": "在校内闲逛"
+            },
+            {
+              "id": "step_023",
+              "type": "choice",
+              "content": "睡一觉"
+            },
+            {
+              "id": "step_024",
+              "type": "choice",
+              "content": "向她搭话"
+            },
+            {
+              "id": "step_025",
+              "type": "choice",
+              "content": "目送她离去"
+            },
+            {
+              "id": "step_026",
+              "type": "choice",
+              "content": "接受"
+            },
+            {
+              "id": "step_027",
+              "type": "choice",
+              "content": "踢回去"
+            },
+            {
+              "id": "step_028",
+              "type": "choice",
+              "content": "让春原去占卜"
+            },
+            {
+              "id": "step_029",
+              "type": "choice",
+              "content": "抓住她"
+            },
+            {
+              "id": "step_030",
+              "type": "save",
+              "content": "SAVE 3",
+              "subfix": "后期"
+            },
+            {
+              "id": "step_031",
+              "type": "choice",
+              "content": "空教室"
+            },
+            {
+              "id": "step_032",
+              "type": "choice",
+              "content": "再看一会"
+            },
+            {
+              "id": "step_033",
+              "type": "choice",
+              "content": "到那里去睡"
+            },
+            {
+              "id": "step_034",
+              "type": "choice",
+              "content": "再说几句话"
+            },
+            {
+              "id": "step_035",
+              "type": "choice",
+              "content": "睡觉"
+            },
+            {
+              "id": "step_036",
+              "type": "choice",
+              "content": "帮忙"
+            },
+            {
+              "id": "step_037",
+              "type": "choice",
+              "content": "不管他"
+            },
+            {
+              "id": "step_038",
+              "type": "choice",
+              "content": "去旧校舍"
+            },
+            {
+              "id": "step_039",
+              "type": "choice",
+              "content": "去资料室"
+            },
+            {
+              "id": "step_040",
+              "type": "choice",
+              "content": "不理他"
+            },
+            {
+              "id": "step_041",
+              "type": "choice",
+              "content": "迟点再去吧"
+            },
+            {
+              "id": "step_042",
+              "type": "choice",
+              "content": "向左跳"
+            },
+            {
+              "id": "step_043",
+              "type": "choice",
+              "content": "一直等下去"
+            },
+            {
+              "id": "step_044",
+              "type": "choice",
+              "content": "问候说：你好"
+            },
+            {
+              "id": "step_045",
+              "type": "choice",
+              "content": "去"
+            },
+            {
+              "id": "step_046",
+              "type": "choice",
+              "content": "杏"
+            },
+            {
+              "id": "step_047",
+              "type": "choice",
+              "content": "耐心等下去"
+            },
+            {
+              "id": "step_048",
+              "type": "choice",
+              "content": "把它丢掉"
+            },
+            {
+              "id": "step_049",
+              "type": "choice",
+              "content": "没有什么多余的东西吧"
+            },
+            {
+              "id": "step_050",
+              "type": "choice",
+              "content": "学一石堂那样说话"
+            },
+            {
+              "id": "step_051",
+              "type": "choice",
+              "content": "试试看"
+            },
+            {
+              "id": "step_052",
+              "type": "choice",
+              "content": "睡觉"
+            },
+            {
+              "id": "step_053",
+              "type": "choice",
+              "content": "代春原接听"
+            },
+            {
+              "id": "step_054",
+              "type": "save",
+              "content": "SAVE 4",
+              "subfix": "最终"
+            },
+            {
+              "id": "step_055",
+              "type": "choice",
+              "content": "受理"
+            },
+            {
+              "id": "step_056",
+              "type": "choice",
+              "content": "藤林姐妹"
+            },
+            {
+              "id": "step_057",
+              "type": "choice",
+              "content": "姐姐"
+            },
+            {
+              "id": "step_058",
+              "type": "choice",
+              "content": "春原 END"
+            }
+          ]
+        },
+        {
+          "id": "ending_miyazawa",
+          "name": "宫泽有纪宁 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_101",
+              "type": "load",
+              "content": "LOAD 4"
+            },
+            {
+              "id": "step_102",
+              "type": "choice",
+              "content": "逃掉"
+            },
+            {
+              "id": "step_103",
+              "type": "choice",
+              "content": "玩"
+            },
+            {
+              "id": "step_104",
+              "type": "choice",
+              "content": "试试看"
+            },
+            {
+              "id": "step_105",
+              "type": "save",
+              "content": "SAVE 5"
+            },
+            {
+              "id": "step_106",
+              "type": "choice",
+              "content": "古河……"
+            },
+            {
+              "id": "step_107",
+              "type": "choice",
+              "content": "就这样吧"
+            },
+            {
+              "id": "step_108",
+              "type": "choice",
+              "content": "好"
+            },
+            {
+              "id": "step_109",
+              "type": "choice",
+              "content": "让她继续睡下去"
+            },
+            {
+              "id": "step_110",
+              "type": "choice",
+              "content": "有纪宁 END"
+            }
+          ]
+        },
+        {
+          "id": "ending_ichinose",
+          "name": "一之濑琴美 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_201",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_202",
+              "type": "choice",
+              "content": "图书室"
+            },
+            {
+              "id": "step_203",
+              "type": "choice",
+              "content": "藏起来看看再说"
+            },
+            {
+              "id": "step_204",
+              "type": "choice",
+              "content": "进入图书室"
+            },
+            {
+              "id": "step_205",
+              "type": "choice",
+              "content": "叫名字"
+            },
+            {
+              "id": "step_206",
+              "type": "choice",
+              "content": "不能就这样不理她"
+            },
+            {
+              "id": "step_207",
+              "type": "choice",
+              "content": "帮忙"
+            },
+            {
+              "id": "step_208",
+              "type": "choice",
+              "content": "不管他"
+            },
+            {
+              "id": "step_209",
+              "type": "choice",
+              "content": "去旧校舍"
+            },
+            {
+              "id": "step_210",
+              "type": "choice",
+              "content": "去图书室"
+            },
+            {
+              "id": "step_211",
+              "type": "choice",
+              "content": "跟在她身后进入书店"
+            },
+            {
+              "id": "step_212",
+              "type": "choice",
+              "content": "送她回家"
+            },
+            {
+              "id": "step_213",
+              "type": "choice",
+              "content": "问“我能待在这里吗？”"
+            },
+            {
+              "id": "step_214",
+              "type": "choice",
+              "content": "看"
+            },
+            {
+              "id": "step_215",
+              "type": "choice",
+              "content": "认认真真地起床上学"
+            },
+            {
+              "id": "step_216",
+              "type": "choice",
+              "content": "回答说“不是”"
+            },
+            {
+              "id": "step_217",
+              "type": "choice",
+              "content": "去办公室看看"
+            },
+            {
+              "id": "step_218",
+              "type": "choice",
+              "content": "老老实实等着"
+            },
+            {
+              "id": "step_219",
+              "type": "choice",
+              "content": "出门走走"
+            },
+            {
+              "id": "step_220",
+              "type": "choice",
+              "content": "帮助琴美"
+            },
+            {
+              "id": "step_221",
+              "type": "choice",
+              "content": "现在还不是那样……"
+            },
+            {
+              "id": "step_222",
+              "type": "choice",
+              "content": "算了，这样也好……"
+            },
+            {
+              "id": "step_223",
+              "type": "choice",
+              "content": "告白"
+            },
+            {
+              "id": "step_224",
+              "type": "choice",
+              "content": "为什么要问这种问题？"
+            },
+            {
+              "id": "step_225",
+              "type": "choice",
+              "content": "继续"
+            },
+            {
+              "id": "step_226",
+              "type": "choice",
+              "content": "说“不要放弃”"
+            },
+            {
+              "id": "step_227",
+              "type": "choice",
+              "content": "继续"
+            },
+            {
+              "id": "step_228",
+              "type": "choice",
+              "content": "琴美 END"
+            }
+          ]
+        },
+        {
+          "id": "ending_fujibayashi_kyo",
+          "name": "藤林杏 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_301",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_302",
+              "type": "choice",
+              "content": "道歉"
+            },
+            {
+              "id": "step_303",
+              "type": "choice",
+              "content": "逃课"
+            },
+            {
+              "id": "step_304",
+              "type": "choice",
+              "content": "接受"
+            },
+            {
+              "id": "step_305",
+              "type": "choice",
+              "content": "到庭院去"
+            },
+            {
+              "id": "step_306",
+              "type": "save",
+              "content": "SAVE 6"
+            },
+            {
+              "id": "step_307",
+              "type": "choice",
+              "content": "再继续谈话"
+            },
+            {
+              "id": "step_308",
+              "type": "choice",
+              "content": "继续看下去"
+            },
+            {
+              "id": "step_309",
+              "type": "choice",
+              "content": "我对此也颇感兴趣"
+            },
+            {
+              "id": "step_310",
+              "type": "choice",
+              "content": "在意"
+            },
+            {
+              "id": "step_311",
+              "type": "choice",
+              "content": "向她搭话"
+            },
+            {
+              "id": "step_312",
+              "type": "choice",
+              "content": "和老婆婆打个招呼"
+            },
+            {
+              "id": "step_313",
+              "type": "choice",
+              "content": "试着追问下去"
+            },
+            {
+              "id": "step_314",
+              "type": "choice",
+              "content": "昨天的女孩…"
+            },
+            {
+              "id": "step_315",
+              "type": "choice",
+              "content": "去"
+            },
+            {
+              "id": "step_316",
+              "type": "choice",
+              "content": "让她一个人做"
+            },
+            {
+              "id": "step_317",
+              "type": "choice",
+              "content": "跟去看看"
+            },
+            {
+              "id": "step_318",
+              "type": "choice",
+              "content": "跟着他去"
+            },
+            {
+              "id": "step_320",
+              "type": "choice",
+              "content": "还是算了吧"
+            },
+            {
+              "id": "step_321",
+              "type": "choice",
+              "content": "在校内闲逛"
+            },
+            {
+              "id": "step_322",
+              "type": "choice",
+              "content": "睡一觉"
+            },
+            {
+              "id": "step_323",
+              "type": "choice",
+              "content": "向她搭话"
+            },
+            {
+              "id": "step_325",
+              "type": "choice",
+              "content": "接受"
+            },
+            {
+              "id": "step_326",
+              "type": "choice",
+              "content": "踢回去"
+            },
+            {
+              "id": "step_327",
+              "type": "save",
+              "content": "SAVE 7"
+            },
+            {
+              "id": "step_328",
+              "type": "choice",
+              "content": "扑克占卜"
+            },
+            {
+              "id": "step_329",
+              "type": "choice",
+              "content": "抓住她"
+            },
+            {
+              "id": "step_330",
+              "type": "choice",
+              "content": "空教室"
+            },
+            {
+              "id": "step_331",
+              "type": "choice",
+              "content": "再看一会"
+            },
+            {
+              "id": "step_332",
+              "type": "choice",
+              "content": "到那里去睡"
+            },
+            {
+              "id": "step_333",
+              "type": "choice",
+              "content": "离开"
+            },
+            {
+              "id": "step_334",
+              "type": "choice",
+              "content": "帮忙"
+            },
+            {
+              "id": "step_335",
+              "type": "choice",
+              "content": "向她搭话"
+            },
+            {
+              "id": "step_336",
+              "type": "choice",
+              "content": "劝他放弃"
+            },
+            {
+              "id": "step_337",
+              "type": "choice",
+              "content": "直接回家"
+            },
+            {
+              "id": "step_338",
+              "type": "choice",
+              "content": "跟他去"
+            },
+            {
+              "id": "step_339",
+              "type": "save",
+              "content": "SAVE 8"
+            },
+            {
+              "id": "step_340",
+              "type": "choice",
+              "content": "再看一会儿"
+            },
+            {
+              "id": "step_341",
+              "type": "choice",
+              "content": "帮忙"
+            },
+            {
+              "id": "step_342",
+              "type": "choice",
+              "content": "迟点再去吧"
+            },
+            {
+              "id": "step_343",
+              "type": "save",
+              "content": "SAVE 9"
+            },
+            {
+              "id": "step_344",
+              "type": "choice",
+              "content": "站稳等着它"
+            },
+            {
+              "id": "step_345",
+              "type": "choice",
+              "content": "一直等下去"
+            },
+            {
+              "id": "step_346",
+              "type": "choice",
+              "content": "先作自我介绍"
+            },
+            {
+              "id": "step_347",
+              "type": "choice",
+              "content": "拿回去好了"
+            },
+            {
+              "id": "step_348",
+              "type": "choice",
+              "content": "耐心等下去"
+            },
+            {
+              "id": "step_349",
+              "type": "choice",
+              "content": "把它丢掉"
+            },
+            {
+              "id": "step_350",
+              "type": "choice",
+              "content": "昨晚又哭了一夜吧？"
+            },
+            {
+              "id": "step_351",
+              "type": "choice",
+              "content": "跟着去"
+            },
+            {
+              "id": "step_352",
+              "type": "choice",
+              "content": "就像被回想场面占掉了好几卷的漫画那样"
+            },
+            {
+              "id": "step_353",
+              "type": "choice",
+              "content": "睡觉"
+            },
+            {
+              "id": "step_354",
+              "type": "choice",
+              "content": "不代他接听"
+            },
+            {
+              "id": "step_355",
+              "type": "choice",
+              "content": "真的？真的可以吗？"
+            },
+            {
+              "id": "step_356",
+              "type": "choice",
+              "content": "老老实实地去校门口"
+            },
+            {
+              "id": "step_357",
+              "type": "choice",
+              "content": "恋人"
+            },
+            {
+              "id": "step_358",
+              "type": "choice",
+              "content": "如果这样也没关系的话…"
+            },
+            {
+              "id": "step_359",
+              "type": "choice",
+              "content": "还是抱到学校去吧"
+            },
+            {
+              "id": "step_360",
+              "type": "save",
+              "content": "SAVE 10"
+            },
+            {
+              "id": "step_361",
+              "type": "choice",
+              "content": "喜欢长头发"
+            },
+            {
+              "id": "step_362",
+              "type": "choice",
+              "content": "很好吃啊…"
+            },
+            {
+              "id": "step_363",
+              "type": "choice",
+              "content": "练习试试看"
+            },
+            {
+              "id": "step_364",
+              "type": "choice",
+              "content": "紫水晶"
+            },
+            {
+              "id": "step_365",
+              "type": "choice",
+              "content": "恋人"
+            },
+            {
+              "id": "step_366",
+              "type": "choice",
+              "content": "接吻"
+            },
+            {
+              "id": "step_367",
+              "type": "choice",
+              "content": "飞奔出去"
+            },
+            {
+              "id": "step_368",
+              "type": "choice",
+              "content": "杏 END"
+            }
+          ]
+        },
+        {
+          "id": "ending_fujibayashi_ryo",
+          "name": "藤林椋 END",
+          "type": "normal",
+          "requirements": "※需先完成杏线或有杏flag",
+          "steps": [
+            {
+              "id": "step_401",
+              "type": "load",
+              "content": "LOAD 10"
+            },
+            {
+              "id": "step_402",
+              "type": "choice",
+              "content": "喜欢短头发"
+            },
+            {
+              "id": "step_403",
+              "type": "choice",
+              "content": "很好吃啊…"
+            },
+            {
+              "id": "step_404",
+              "type": "choice",
+              "content": "默不作声地看着杏"
+            },
+            {
+              "id": "step_405",
+              "type": "choice",
+              "content": "坦桑蓝"
+            },
+            {
+              "id": "step_406",
+              "type": "choice",
+              "content": "恋人"
+            },
+            {
+              "id": "step_407",
+              "type": "choice",
+              "content": "接吻"
+            },
+            {
+              "id": "step_408",
+              "type": "choice",
+              "content": "椋 END"
+            }
+          ]
+        },
+        {
+          "id": "ending_hiiragi",
+          "name": "柊胜平 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_501",
+              "type": "load",
+              "content": "LOAD 9"
+            },
+            {
+              "id": "step_502",
+              "type": "choice",
+              "content": "向右跳"
+            },
+            {
+              "id": "step_503",
+              "type": "choice",
+              "content": "摇一摇他"
+            },
+            {
+              "id": "step_504",
+              "type": "choice",
+              "content": "查清住址后送给他"
+            },
+            {
+              "id": "step_505",
+              "type": "choice",
+              "content": "一直等下去"
+            },
+            {
+              "id": "step_506",
+              "type": "choice",
+              "content": "问候说:你好"
+            },
+            {
+              "id": "step_507",
+              "type": "choice",
+              "content": "把牡丹丢还给杏"
+            },
+            {
+              "id": "step_508",
+              "type": "choice",
+              "content": "耐心等下去"
+            },
+            {
+              "id": "step_509",
+              "type": "choice",
+              "content": "把它丢掉"
+            },
+            {
+              "id": "step_510",
+              "type": "choice",
+              "content": "不帮忙"
+            },
+            {
+              "id": "step_511",
+              "type": "choice",
+              "content": "没有什么多余的东西吧"
+            },
+            {
+              "id": "step_512",
+              "type": "choice",
+              "content": "每句话句尾都加上句“还有马桶盖”"
+            },
+            {
+              "id": "step_513",
+              "type": "choice",
+              "content": "睡觉"
+            },
+            {
+              "id": "step_514",
+              "type": "choice",
+              "content": "不代他接听"
+            },
+            {
+              "id": "step_515",
+              "type": "save",
+              "content": "SAVE 11"
+            },
+            {
+              "id": "step_516",
+              "type": "choice",
+              "content": "不参加"
+            },
+            {
+              "id": "step_517",
+              "type": "choice",
+              "content": "给他介绍住处"
+            },
+            {
+              "id": "step_518",
+              "type": "choice",
+              "content": "胜平 END"
+            }
+          ]
+        },
+        {
+          "id": "ending_sagano",
+          "name": "相乐美佐枝 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_601",
+              "type": "load",
+              "content": "LOAD 8"
+            },
+            {
+              "id": "step_602",
+              "type": "choice",
+              "content": "离开"
+            },
+            {
+              "id": "step_603",
+              "type": "choice",
+              "content": "问她还可以再来吗"
+            },
+            {
+              "id": "step_604",
+              "type": "choice",
+              "content": "认认真真得起床上学"
+            },
+            {
+              "id": "step_605",
+              "type": "choice",
+              "content": "打招呼"
+            },
+            {
+              "id": "step_606",
+              "type": "choice",
+              "content": "一直等下去"
+            },
+            {
+              "id": "step_607",
+              "type": "choice",
+              "content": "的确不错"
+            },
+            {
+              "id": "step_608",
+              "type": "choice",
+              "content": "忍耐"
+            },
+            {
+              "id": "step_609",
+              "type": "save",
+              "content": "SAVE 12"
+            },
+            {
+              "id": "step_610",
+              "type": "choice",
+              "content": "还是去美佐枝的房间"
+            },
+            {
+              "id": "step_611",
+              "type": "choice",
+              "content": "严厉"
+            },
+            {
+              "id": "step_612",
+              "type": "choice",
+              "content": "为我操心"
+            },
+            {
+              "id": "step_613",
+              "type": "choice",
+              "content": "被窝里的味道很香"
+            },
+            {
+              "id": "step_614",
+              "type": "choice",
+              "content": "美佐枝 END"
+            }
+          ]
+        },
+        {
+          "id": "ending_sakagami",
+          "name": "坂上智代 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_701",
+              "type": "load",
+              "content": "LOAD 12"
+            },
+            {
+              "id": "step_702",
+              "type": "choice",
+              "content": "不去了"
+            },
+            {
+              "id": "step_703",
+              "type": "choice",
+              "content": "现在正准备回去"
+            },
+            {
+              "id": "step_704",
+              "type": "choice",
+              "content": "不，不是这个意思…"
+            },
+            {
+              "id": "step_705",
+              "type": "choice",
+              "content": "把牡丹丢还给杏"
+            },
+            {
+              "id": "step_706",
+              "type": "choice",
+              "content": "该阻止他了"
+            },
+            {
+              "id": "step_707",
+              "type": "choice",
+              "content": "一天二十四小时连着说我爱你"
+            },
+            {
+              "id": "step_708",
+              "type": "choice",
+              "content": "先摆出一副找到了我的样子"
+            },
+            {
+              "id": "step_709",
+              "type": "choice",
+              "content": "睡觉"
+            },
+            {
+              "id": "step_710",
+              "type": "choice",
+              "content": "那家伙以话剧社为目标"
+            },
+            {
+              "id": "step_711",
+              "type": "choice",
+              "content": "说不定只是想和智代在一起"
+            },
+            {
+              "id": "step_712",
+              "type": "choice",
+              "content": "坚持要求接吻"
+            },
+            {
+              "id": "step_713",
+              "type": "choice",
+              "content": "去食堂里吃"
+            },
+            {
+              "id": "step_714",
+              "type": "choice",
+              "content": "那么，不如现在…"
+            },
+            {
+              "id": "step_715",
+              "type": "choice",
+              "content": "做色色的事情"
+            },
+            {
+              "id": "step_716",
+              "type": "choice",
+              "content": "幻想一下"
+            },
+            {
+              "id": "step_718",
+              "type": "choice",
+              "content": "嗯…差不多吧"
+            },
+            {
+              "id": "step_719",
+              "type": "choice",
+              "content": "开始过分的妄想"
+            },
+            {
+              "id": "step_720",
+              "type": "choice",
+              "content": "这样下去是不行的"
+            },
+            {
+              "id": "step_721",
+              "type": "choice",
+              "content": "插嘴说话"
+            },
+            {
+              "id": "step_722",
+              "type": "choice",
+              "content": "不行"
+            },
+            {
+              "id": "step_723",
+              "type": "choice",
+              "content": "踢回去"
+            },
+            {
+              "id": "step_724",
+              "type": "choice",
+              "content": "帮忙"
+            },
+            {
+              "id": "step_725",
+              "type": "choice",
+              "content": "智代 END"
+            }
+          ]
+        },
+        {
+          "id": "ending_ibuki",
+          "name": "伊吹风子 END1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_801",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_802",
+              "type": "choice",
+              "content": "帮忙"
+            },
+            {
+              "id": "step_803",
+              "type": "choice",
+              "content": "想那样做"
+            },
+            {
+              "id": "step_804",
+              "type": "choice",
+              "content": "跟去看看"
+            },
+            {
+              "id": "step_805",
+              "type": "choice",
+              "content": "跟着他去"
+            },
+            {
+              "id": "step_807",
+              "type": "choice",
+              "content": "逃课"
+            },
+            {
+              "id": "step_808",
+              "type": "choice",
+              "content": "跟着她去"
+            },
+            {
+              "id": "step_809",
+              "type": "choice",
+              "content": "看看这些书有没有被剪过"
+            },
+            {
+              "id": "step_810",
+              "type": "choice",
+              "content": "插图"
+            },
+            {
+              "id": "step_811",
+              "type": "choice",
+              "content": "出去找找她"
+            },
+            {
+              "id": "step_812",
+              "type": "choice",
+              "content": "去隔壁的教室看一下"
+            },
+            {
+              "id": "step_813",
+              "type": "choice",
+              "content": "向她搭话"
+            },
+            {
+              "id": "step_814",
+              "type": "choice",
+              "content": "接受"
+            },
+            {
+              "id": "step_815",
+              "type": "choice",
+              "content": "踢回去"
+            },
+            {
+              "id": "step_816",
+              "type": "choice",
+              "content": "自己去占卜"
+            },
+            {
+              "id": "step_817",
+              "type": "choice",
+              "content": "放走她"
+            },
+            {
+              "id": "step_818",
+              "type": "choice",
+              "content": "空教室"
+            },
+            {
+              "id": "step_819",
+              "type": "choice",
+              "content": "再看一会"
+            },
+            {
+              "id": "step_820",
+              "type": "choice",
+              "content": "到那里去睡"
+            },
+            {
+              "id": "step_821",
+              "type": "choice",
+              "content": "再说几句话"
+            },
+            {
+              "id": "step_822",
+              "type": "choice",
+              "content": "睡觉"
+            },
+            {
+              "id": "step_823",
+              "type": "choice",
+              "content": "帮忙"
+            },
+            {
+              "id": "step_824",
+              "type": "choice",
+              "content": "你喜欢哪种类型的男生？"
+            },
+            {
+              "id": "step_825",
+              "type": "choice",
+              "content": "拉着古河的手，快步跑掉"
+            },
+            {
+              "id": "step_826",
+              "type": "choice",
+              "content": "劝他放弃"
+            },
+            {
+              "id": "step_827",
+              "type": "choice",
+              "content": "去看看情况"
+            },
+            {
+              "id": "step_828",
+              "type": "choice",
+              "content": "早苗呢？"
+            },
+            {
+              "id": "step_829",
+              "type": "choice",
+              "content": "跟他去"
+            },
+            {
+              "id": "step_830",
+              "type": "choice",
+              "content": "再看一会儿"
+            },
+            {
+              "id": "step_831",
+              "type": "choice",
+              "content": "帮忙"
+            },
+            {
+              "id": "step_832",
+              "type": "choice",
+              "content": "看看窗外"
+            },
+            {
+              "id": "step_833",
+              "type": "choice",
+              "content": "太无聊了，让她用鼻子喝果汁玩玩"
+            },
+            {
+              "id": "step_834",
+              "type": "choice",
+              "content": "代替她去谈判"
+            },
+            {
+              "id": "step_835",
+              "type": "choice",
+              "content": "和智代搭话"
+            },
+            {
+              "id": "step_836",
+              "type": "choice",
+              "content": "偷窃"
+            },
+            {
+              "id": "step_837",
+              "type": "choice",
+              "content": "和风子商量一下"
+            },
+            {
+              "id": "step_838",
+              "type": "choice",
+              "content": "和藤林姐妹商量"
+            },
+            {
+              "id": "step_839",
+              "type": "choice",
+              "content": "恶作剧"
+            },
+            {
+              "id": "step_840",
+              "type": "choice",
+              "content": "把她放到某个地方Lv1"
+            },
+            {
+              "id": "step_841",
+              "type": "choice",
+              "content": "带回家去"
+            },
+            {
+              "id": "step_842",
+              "type": "choice",
+              "content": "帮忙"
+            },
+            {
+              "id": "step_843",
+              "type": "choice",
+              "content": "不是"
+            },
+            {
+              "id": "step_844",
+              "type": "choice",
+              "content": "昨晚又哭了一夜吧？"
+            },
+            {
+              "id": "step_845",
+              "type": "choice",
+              "content": "不是的"
+            },
+            {
+              "id": "step_846",
+              "type": "choice",
+              "content": "转换心情"
+            },
+            {
+              "id": "step_847",
+              "type": "choice",
+              "content": "叫住她"
+            },
+            {
+              "id": "step_848",
+              "type": "choice",
+              "content": "恶作剧"
+            },
+            {
+              "id": "step_849",
+              "type": "choice",
+              "content": "偷换掉说话的对象Lv1"
+            },
+            {
+              "id": "step_850",
+              "type": "choice",
+              "content": "代春原接听"
+            },
+            {
+              "id": "step_851",
+              "type": "choice",
+              "content": "叫住她"
+            },
+            {
+              "id": "step_852",
+              "type": "choice",
+              "content": "恶作剧"
+            },
+            {
+              "id": "step_853",
+              "type": "choice",
+              "content": "偷换掉抱着的海星Lv1"
+            },
+            {
+              "id": "step_854",
+              "type": "save",
+              "content": "SAVE 13"
+            },
+            {
+              "id": "step_855",
+              "type": "choice",
+              "content": "就这样注视着她"
+            },
+            {
+              "id": "step_856",
+              "type": "choice",
+              "content": "叫住她"
+            },
+            {
+              "id": "step_857",
+              "type": "choice",
+              "content": "偷换掉说话的对象Lv2"
+            },
+            {
+              "id": "step_858",
+              "type": "choice",
+              "content": "问问看他们"
+            },
+            {
+              "id": "step_859",
+              "type": "choice",
+              "content": "把她硬拉去"
+            },
+            {
+              "id": "step_860",
+              "type": "choice",
+              "content": "决定帮助她"
+            },
+            {
+              "id": "step_861",
+              "type": "choice",
+              "content": "把她放到某个地方Lv2"
+            },
+            {
+              "id": "step_862",
+              "type": "choice",
+              "content": "老老实实地告诉她"
+            },
+            {
+              "id": "step_863",
+              "type": "choice",
+              "content": "慢慢掐住她的鼻子"
+            },
+            {
+              "id": "step_864",
+              "type": "choice",
+              "content": "是啊…"
+            },
+            {
+              "id": "step_865",
+              "type": "choice",
+              "content": "不求人"
+            },
+            {
+              "id": "step_866",
+              "type": "choice",
+              "content": "让她也来参加讨论"
+            },
+            {
+              "id": "step_867",
+              "type": "choice",
+              "content": "恶作剧"
+            },
+            {
+              "id": "step_868",
+              "type": "choice",
+              "content": "偷换掉抱着的海星Lv2"
+            },
+            {
+              "id": "step_869",
+              "type": "choice",
+              "content": "跟着渚一起去"
+            },
+            {
+              "id": "step_870",
+              "type": "choice",
+              "content": "恶作剧"
+            },
+            {
+              "id": "step_871",
+              "type": "choice",
+              "content": "让她用鼻子喝果汁Lv2"
+            },
+            {
+              "id": "step_872",
+              "type": "choice",
+              "content": "新校舍的一楼走廊"
+            },
+            {
+              "id": "step_873",
+              "type": "choice",
+              "content": "揉鼻子"
+            },
+            {
+              "id": "step_874",
+              "type": "choice",
+              "content": "继续说服"
+            },
+            {
+              "id": "step_875",
+              "type": "choice",
+              "content": "接替他"
+            },
+            {
+              "id": "step_876",
+              "type": "save",
+              "content": "SAVE 14"
+            },
+            {
+              "id": "step_877",
+              "type": "choice",
+              "content": "可以继续这么待着吗？"
+            },
+            {
+              "id": "step_878",
+              "type": "choice",
+              "content": "风子 END1"
+            }
+          ]
+        },
+        {
+          "id": "ending_ibuki_kiss",
+          "name": "风子 END2",
+          "type": "normal",
+          "requirements": "※需完成风子 END1",
+          "steps": [
+            {
+              "id": "step_901",
+              "type": "load",
+              "content": "LOAD 14"
+            },
+            {
+              "id": "step_902",
+              "type": "choice",
+              "content": "可以接吻吗？"
+            },
+            {
+              "id": "step_903",
+              "type": "choice",
+              "content": "风子 END2"
+            }
+          ]
+        },
+        {
+          "id": "ending_yukimura",
+          "name": "幸村俊夫 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1001",
+              "type": "load",
+              "content": "LOAD 13"
+            },
+            {
+              "id": "step_1002",
+              "type": "choice",
+              "content": "紧紧抱住她"
+            },
+            {
+              "id": "step_1003",
+              "type": "choice",
+              "content": "赶路要紧"
+            },
+            {
+              "id": "step_1004",
+              "type": "save",
+              "content": "SAVE 15"
+            },
+            {
+              "id": "step_1005",
+              "type": "choice",
+              "content": "去找找看"
+            },
+            {
+              "id": "step_1006",
+              "type": "choice",
+              "content": "让幸村加入队伍"
+            },
+            {
+              "id": "step_1007",
+              "type": "choice",
+              "content": "好的"
+            },
+            {
+              "id": "step_1008",
+              "type": "choice",
+              "content": "可以"
+            },
+            {
+              "id": "step_1009",
+              "type": "save",
+              "content": "SAVE 16"
+            },
+            {
+              "id": "step_1010",
+              "type": "choice",
+              "content": "去新校舍寻找"
+            },
+            {
+              "id": "step_1011",
+              "type": "choice",
+              "content": "去二楼寻找"
+            },
+            {
+              "id": "step_1012",
+              "type": "choice",
+              "content": "能行"
+            },
+            {
+              "id": "step_1013",
+              "type": "choice",
+              "content": "最后做一次蠢事"
+            },
+            {
+              "id": "step_1014",
+              "type": "choice",
+              "content": "随便她"
+            },
+            {
+              "id": "step_1015",
+              "type": "choice",
+              "content": "问她到底怎么回事"
+            },
+            {
+              "id": "step_1016",
+              "type": "save",
+              "content": "SAVE 17"
+            },
+            {
+              "id": "step_1017",
+              "type": "choice",
+              "content": "最后一球给智代"
+            },
+            {
+              "id": "step_1018",
+              "type": "choice",
+              "content": "幸村 END"
+            }
+          ]
+        },
+        {
+          "id": "ending_nagisa",
+          "name": "古河渚 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1101",
+              "type": "load",
+              "content": "LOAD 17"
+            },
+            {
+              "id": "step_1102",
+              "type": "choice",
+              "content": "最后一球给我"
+            },
+            {
+              "id": "step_1103",
+              "type": "choice",
+              "content": "邀请她约会"
+            },
+            {
+              "id": "step_1104",
+              "type": "choice",
+              "content": "喜欢"
+            },
+            {
+              "id": "step_1105",
+              "type": "choice",
+              "content": "夺走双唇"
+            },
+            {
+              "id": "step_1106",
+              "type": "choice",
+              "content": "你是个很棒的父亲"
+            },
+            {
+              "id": "step_1107",
+              "type": "choice",
+              "content": "呼喊"
+            },
+            {
+              "id": "step_1108",
+              "type": "choice",
+              "content": "渚 END"
+            }
+          ]
+        },
+        {
+          "id": "ending_usagawa",
+          "name": "冈崎汐 END",
+          "type": "normal",
+          "requirements": "※After Story部分",
+          "steps": [
+            {
+              "id": "step_1201",
+              "type": "choice",
+              "content": "自己冷静下来"
+            },
+            {
+              "id": "step_1202",
+              "type": "choice",
+              "content": "可以"
+            },
+            {
+              "id": "step_1203",
+              "type": "choice",
+              "content": "让他们去想象好了"
+            },
+            {
+              "id": "step_1204",
+              "type": "choice",
+              "content": "拒绝"
+            },
+            {
+              "id": "step_1205",
+              "type": "choice",
+              "content": "看电视"
+            },
+            {
+              "id": "step_1206",
+              "type": "choice",
+              "content": "校庆"
+            },
+            {
+              "id": "step_1207",
+              "type": "choice",
+              "content": "模拟考试"
+            },
+            {
+              "id": "step_1208",
+              "type": "choice",
+              "content": "反对"
+            },
+            {
+              "id": "step_1209",
+              "type": "save",
+              "content": "SAVE 18"
+            },
+            {
+              "id": "step_1210",
+              "type": "choice",
+              "content": "不是不愿意，是根本就办不到"
+            },
+            {
+              "id": "step_1211",
+              "type": "choice",
+              "content": "喜欢"
+            },
+            {
+              "id": "step_1212",
+              "type": "choice",
+              "content": "说实话"
+            },
+            {
+              "id": "step_1213",
+              "type": "choice",
+              "content": "唱歌"
+            },
+            {
+              "id": "step_1214",
+              "type": "choice",
+              "content": "询问后情"
+            },
+            {
+              "id": "step_1215",
+              "type": "choice",
+              "content": "要不等到后天再一起去吧"
+            },
+            {
+              "id": "step_1216",
+              "type": "choice",
+              "content": "……"
+            },
+            {
+              "id": "step_1217",
+              "type": "choice",
+              "content": "忍耐"
+            },
+            {
+              "id": "step_1218",
+              "type": "choice",
+              "content": "继续老实看电视"
+            },
+            {
+              "id": "step_1219",
+              "type": "choice",
+              "content": "都不要"
+            },
+            {
+              "id": "step_1220",
+              "type": "choice",
+              "content": "是时候制止了"
+            },
+            {
+              "id": "step_1221",
+              "type": "choice",
+              "content": "偷跑"
+            },
+            {
+              "id": "step_1222",
+              "type": "choice",
+              "content": "去看看"
+            },
+            {
+              "id": "step_1223",
+              "type": "choice",
+              "content": "汐 END"
+            }
+          ]
+        },
+        {
+          "id": "ending_akio",
+          "name": "古河秋生 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1301",
+              "type": "load",
+              "content": "LOAD 18"
+            },
+            {
+              "id": "step_1302",
+              "type": "choice",
+              "content": "真是拿你没办法啊……"
+            },
+            {
+              "id": "step_1303",
+              "type": "choice",
+              "content": "大叔的事"
+            },
+            {
+              "id": "step_1304",
+              "type": "choice",
+              "content": "抱住渚"
+            },
+            {
+              "id": "step_1305",
+              "type": "choice",
+              "content": "秋生 END"
+            }
+          ]
+        },
+        {
+          "id": "ending_true",
+          "name": "TRUE END",
+          "type": "true",
+          "requirements": "※完成所有主要角色线 + After Story特定条件",
+          "steps": [
+            {
+              "id": "step_1401",
+              "type": "load",
+              "content": "LOAD 18"
+            },
+            {
+              "id": "step_1402",
+              "type": "choice",
+              "content": "不是不愿意，是根本就办不到"
+            },
+            {
+              "id": "step_1403",
+              "type": "choice",
+              "content": "喜欢"
+            },
+            {
+              "id": "step_1404",
+              "type": "choice",
+              "content": "说实话"
+            },
+            {
+              "id": "step_1405",
+              "type": "choice",
+              "content": "唱歌"
+            },
+            {
+              "id": "step_1406",
+              "type": "choice",
+              "content": "询问后情"
+            },
+            {
+              "id": "step_1407",
+              "type": "choice",
+              "content": "要不等到后天再一起去吧"
+            },
+            {
+              "id": "step_1408",
+              "type": "choice",
+              "content": "……"
+            },
+            {
+              "id": "step_1409",
+              "type": "choice",
+              "content": "忍耐"
+            },
+            {
+              "id": "step_1410",
+              "type": "choice",
+              "content": "继续老实看电视"
+            },
+            {
+              "id": "step_1411",
+              "type": "choice",
+              "content": "都不要"
+            },
+            {
+              "id": "step_1412",
+              "type": "choice",
+              "content": "是时候制止了"
+            },
+            {
+              "id": "step_1413",
+              "type": "choice",
+              "content": "偷跑"
+            },
+            {
+              "id": "step_1414",
+              "type": "choice",
+              "content": "TRUE END"
+            }
+          ]
+        },
+        {
+          "id": "ending_daily",
+          "name": "日常 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1501",
+              "type": "load",
+              "content": "LOAD 11"
+            },
+            {
+              "id": "step_1502",
+              "type": "choice",
+              "content": "参加"
+            },
+            {
+              "id": "step_1503",
+              "type": "choice",
+              "content": "提出了忠告"
+            },
+            {
+              "id": "step_1504",
+              "type": "choice",
+              "content": "真可怜，去阻止春原吧"
+            },
+            {
+              "id": "step_1505",
+              "type": "choice",
+              "content": "让春原去买饭"
+            },
+            {
+              "id": "step_1506",
+              "type": "choice",
+              "content": "操场"
+            },
+            {
+              "id": "step_1507",
+              "type": "choice",
+              "content": "问问看"
+            },
+            {
+              "id": "step_1508",
+              "type": "choice",
+              "content": "能行"
+            },
+            {
+              "id": "step_1509",
+              "type": "choice",
+              "content": "阻止他"
+            },
+            {
+              "id": "step_1510",
+              "type": "choice",
+              "content": "骗他加入"
+            },
+            {
+              "id": "step_1511",
+              "type": "choice",
+              "content": "日常 END"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

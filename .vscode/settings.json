@@ -1,0 +1,19 @@
+{
+  "json.validate.enable": true,
+  "files.eol": "\n",
+  "files.insertFinalNewline": true,
+  "files.trimTrailingWhitespace": true,
+  "files.associations": {
+    "index.json": "jsonc"
+  },
+  "json.schemas": [
+    {
+      "fileMatch": ["walkthroughs/**/*.json"],
+      "url": "./schema/walkthrough.schema.json"
+    },
+    {
+      "fileMatch": ["index.json"],
+      "url": "./schema/index.schema.json"
+    }
+  ]
+}

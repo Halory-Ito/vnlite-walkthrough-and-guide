@@ -1,0 +1,208 @@
+{
+  "vid": "v792",
+  "name": {
+    "zh-cn": "かみぱに！",
+    "ja-jp": "かみぱに！",
+    "ja-Latn": "kamipani"
+  },
+  "level": 2,
+  "updatedAt": "2026-04-13",
+  "tips": [
+    "◆选项为2周目选项"
+  ],
+  "routes": [
+    {
+      "id": "route_game_guide",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_nonoka_end",
+          "name": "乃乃香 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_nonoka_01",
+              "type": "choice",
+              "content": "捉迷藏",
+              "prefix": "◆"
+            },
+            {
+              "id": "step_1776046743621",
+              "type": "choice",
+              "content": "从开头开始",
+              "prefix": "◆"
+            },
+            {
+              "id": "step_nonoka_03",
+              "type": "save",
+              "content": "SAVE 1"
+            },
+            {
+              "id": "step_nonoka_04",
+              "type": "choice",
+              "content": "屋顶",
+              "subfix": "CG 回收"
+            },
+            {
+              "id": "step_nonoka_06",
+              "type": "load",
+              "content": "LOAD 1"
+            },
+            {
+              "id": "step_nonoka_07",
+              "type": "choice",
+              "content": "学生会室"
+            },
+            {
+              "id": "step_nonoka_08",
+              "type": "choice",
+              "content": "啧，没办法啊"
+            },
+            {
+              "id": "step_nonoka_09",
+              "type": "save",
+              "content": "SAVE 2"
+            },
+            {
+              "id": "step_nonoka_10",
+              "type": "choice",
+              "content": "不，当然还是乃乃香小姐更好"
+            },
+            {
+              "id": "step_nonoka_11",
+              "type": "choice",
+              "content": "大家一起做会更快吧"
+            },
+            {
+              "id": "step_nonoka_12",
+              "type": "choice",
+              "content": "看得见海的山丘"
+            },
+            {
+              "id": "step_nonoka_13",
+              "type": "choice",
+              "content": "乃乃香"
+            }
+          ]
+        },
+        {
+          "id": "ending_amane_end",
+          "name": "天音 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_amane_01",
+              "type": "load",
+              "content": "LOAD 2"
+            },
+            {
+              "id": "step_amane_02",
+              "type": "choice",
+              "content": "那么，就让惠去乃乃香小姐那边"
+            },
+            {
+              "id": "step_amane_03",
+              "type": "save",
+              "content": "SAVE 3"
+            },
+            {
+              "id": "step_amane_04",
+              "type": "choice",
+              "content": "知道了，我来接下"
+            },
+            {
+              "id": "step_amane_05",
+              "type": "choice",
+              "content": "购物中心"
+            },
+            {
+              "id": "step_amane_06",
+              "type": "choice",
+              "content": "天音"
+            }
+          ]
+        },
+        {
+          "id": "ending_mizuki_end",
+          "name": "瑞希 END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_mizuki_01",
+              "type": "load",
+              "content": "LOAD 3"
+            },
+            {
+              "id": "step_mizuki_02",
+              "type": "choice",
+              "content": "大家一起做会更快吧"
+            },
+            {
+              "id": "step_mizuki_03",
+              "type": "choice",
+              "content": "天水公园"
+            },
+            {
+              "id": "step_mizuki_04",
+              "type": "choice",
+              "content": "为了你我会离开"
+            },
+            {
+              "id": "step_mizuki_05",
+              "type": "choice",
+              "content": "瑞希"
+            }
+          ]
+        },
+        {
+          "id": "ending_megumi_end",
+          "name": "惠 END",
+          "type": "normal",
+          "requirements": "完成以上 END 后从最初开始",
+          "steps": [
+            {
+              "id": "step_megumi_02",
+              "type": "choice",
+              "content": "捉迷藏",
+              "prefix": "◆"
+            },
+            {
+              "id": "step_megumi_03",
+              "type": "note",
+              "content": "前往路线选择画面"
+            },
+            {
+              "id": "step_megumi_04",
+              "type": "choice",
+              "content": "惠"
+            }
+          ]
+        },
+        {
+          "id": "ending_koi_end",
+          "name": "古依 END",
+          "type": "normal",
+          "requirements": "惠 END 后从最初开始",
+          "steps": [
+            {
+              "id": "step_koi_02",
+              "type": "choice",
+              "content": "捉迷藏",
+              "prefix": "◆"
+            },
+            {
+              "id": "step_koi_03",
+              "type": "note",
+              "content": "前往路线选择画面"
+            },
+            {
+              "id": "step_koi_04",
+              "type": "choice",
+              "content": "古依"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

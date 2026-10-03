@@ -1,0 +1,1078 @@
+{
+  "vid": "v7",
+  "name": {
+    "zh-cn": "月姫",
+    "ja-jp": "月姫",
+    "ja-Latn": "tsukihime"
+  },
+  "level": 2,
+  "updatedAt": "2026-07-12",
+  "tips": [
+    "★选项为通关一次后才会出现的选项"
+  ],
+  "routes": [
+    {
+      "id": "route_1758367927239",
+      "name": "爱尔奎特·布伦史塔德",
+      "endings": [
+        {
+          "id": "ending_1758367934658",
+          "name": "月姬",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_1758367948998",
+              "type": "choice",
+              "content": "还差几分钟班会就开始了，直接去教室吧",
+              "group": "第一章　反转冲动 I"
+            },
+            {
+              "id": "step_1758367949173",
+              "type": "choice",
+              "content": "到走廊再考虑吧",
+              "group": "第一章　反转冲动 I"
+            },
+            {
+              "id": "step_1758367949319",
+              "type": "choice",
+              "content": "差不多也该做好心理准备了，回宅邸去吧",
+              "group": "第一章　反转冲动 I"
+            },
+            {
+              "id": "step_1758367949621",
+              "type": "choice",
+              "content": "妹妹秋叶的事",
+              "prefix": "★",
+              "group": "第一章　反转冲动 I"
+            },
+            {
+              "id": "step_1758367949919",
+              "type": "choice",
+              "content": "去起居室和秋叶说说话吧",
+              "group": "第一章　反转冲动 I"
+            },
+            {
+              "id": "step_1758367950103",
+              "type": "choice",
+              "content": "去看看情形",
+              "group": "第一章　反转冲动 I"
+            },
+            {
+              "id": "step_1758367950280",
+              "type": "choice",
+              "content": "跟秋叶打招呼",
+              "group": "第二章　反转冲动 II"
+            },
+            {
+              "id": "step_1758367950464",
+              "type": "choice",
+              "content": "留在教室吧",
+              "group": "第二章　反转冲动 II"
+            },
+            {
+              "id": "step_1758367950655",
+              "type": "choice",
+              "content": "这是，多么可怕的噩梦啊",
+              "group": "第二章　反转冲动 II"
+            },
+            {
+              "id": "step_1758367950819",
+              "type": "choice",
+              "content": "还是聊聊秋叶的事吧",
+              "group": "第三章　黑之兽 I"
+            },
+            {
+              "id": "step_1758367951011",
+              "type": "choice",
+              "content": ".……帮她吧",
+              "group": "第三章　黑之兽 I"
+            },
+            {
+              "id": "step_1758367951186",
+              "type": "choice",
+              "content": ".……到底还是，放心不下这家伙",
+              "group": "第三章　黑之兽 I"
+            },
+            {
+              "id": "step_1758367951379",
+              "type": "choice",
+              "content": ".……没办法，稍微让你看看吧",
+              "group": "第三章　黑之兽 I"
+            },
+            {
+              "id": "step_1758367951551",
+              "type": "choice",
+              "content": "——我去外面看看",
+              "group": "第三章　黑之兽 I"
+            },
+            {
+              "id": "step_1758367951754",
+              "type": "choice",
+              "content": "可能的话，我还是想拒绝.但——",
+              "group": "第四章　黑之兽 II"
+            },
+            {
+              "id": "step_1758367951967",
+              "type": "choice",
+              "content": ".……不，时机未到",
+              "group": "第四章　黑之兽 II"
+            },
+            {
+              "id": "step_1758367952124",
+              "type": "choice",
+              "content": "向Nero冲过去",
+              "group": "第四章　黑之兽 II"
+            },
+            {
+              "id": "step_1758369108883",
+              "type": "choice",
+              "content": "既然这样就只能摧毁本体了",
+              "group": "第四章　黑之兽 II"
+            },
+            {
+              "id": "step_1758369109084",
+              "type": "choice",
+              "content": "不能说出这件事，那么就老实的道歉吧",
+              "group": "第五章　苍之咎迹"
+            },
+            {
+              "id": "step_1758369109277",
+              "type": "choice",
+              "content": ".……去街上转转看",
+              "group": "第五章　苍之咎迹"
+            },
+            {
+              "id": "step_1758369109448",
+              "type": "choice",
+              "content": "可能是爱尔奎特",
+              "group": "第五章　苍之咎迹"
+            },
+            {
+              "id": "step_1758369109601",
+              "type": "choice",
+              "content": "出去走廊和她说话",
+              "group": "第六章　直死之眼 I"
+            },
+            {
+              "id": "step_1758369109767",
+              "type": "choice",
+              "content": "只好回大宅了",
+              "group": "第六章　直死之眼 I"
+            },
+            {
+              "id": "step_1758369110120",
+              "type": "choice",
+              "content": "很高兴地打招呼来缓和气氛",
+              "group": "第七章　直死之眼 II"
+            },
+            {
+              "id": "step_1758369110307",
+              "type": "choice",
+              "content": "立刻向中庭进发",
+              "group": "第七章　直死之眼 II"
+            },
+            {
+              "id": "step_1758369110506",
+              "type": "choice",
+              "content": "不管怎样，也要对翡翠老实说",
+              "group": "第七章　直死之眼 II"
+            },
+            {
+              "id": "step_1758369206047",
+              "type": "choice",
+              "content": ".……按秋叶说的做吧",
+              "group": "第八章　死"
+            },
+            {
+              "id": "step_1758369206223",
+              "type": "choice",
+              "content": "……没辙，和Arcueid一起吧",
+              "group": "第九章　朱之红月 I"
+            },
+            {
+              "id": "step_1758369206368",
+              "type": "choice",
+              "content": "那是因为你任性吧",
+              "group": "第九章　朱之红月 I"
+            },
+            {
+              "id": "step_1758369206511",
+              "type": "choice",
+              "content": "固定流程吧，带她去电影院",
+              "group": "第九章　朱之红月 I"
+            },
+            {
+              "id": "step_1758369206638",
+              "type": "choice",
+              "content": "好，和她说说昨夜发生的事",
+              "group": "第九章　朱之红月 I"
+            },
+            {
+              "id": "step_1758369206896",
+              "type": "choice",
+              "content": "去闹市区搜寻",
+              "group": "第九章　朱之红月 I"
+            },
+            {
+              "id": "step_1758369207067",
+              "type": "choice",
+              "content": "她一定讨厌这样，我不能这么做",
+              "group": "第九章　朱之红月 I"
+            },
+            {
+              "id": "step_1758369207397",
+              "type": "choice",
+              "content": "……再等一会",
+              "group": "第十章　朱之红月 II"
+            },
+            {
+              "id": "step_1758369276410",
+              "type": "choice",
+              "content": "……就这样留在公园这里",
+              "group": "第十章　朱之红月 II"
+            },
+            {
+              "id": "step_1758369276570",
+              "type": "choice",
+              "content": "徒劳地寻找爱尔奎特",
+              "group": "第十一章　凶夜"
+            },
+            {
+              "id": "step_1758369276731",
+              "type": "choice",
+              "content": "坚守约定",
+              "group": "第十二章　月世界"
+            }
+          ]
+        },
+        {
+          "id": "ending_1758371171247",
+          "name": "黎明之月",
+          "type": "good",
+          "requirements": "通关一次后追加",
+          "steps": [
+            {
+              "id": "step_1758371182951",
+              "type": "choice",
+              "content": "不能忘了爱尔奎特"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1758371203134",
+      "name": "希耶尔",
+      "endings": [
+        {
+          "id": "ending_1758371216976",
+          "name": "太阳",
+          "type": "good",
+          "steps": [
+            {
+              "id": "step_1758371221764",
+              "type": "choice",
+              "content": ".……有点在意，去看看吧",
+              "group": "第一章　反转冲动 I"
+            },
+            {
+              "id": "step_1758371221917",
+              "type": "choice",
+              "content": "到走廊再考虑吧",
+              "group": "第一章　反转冲动 I"
+            },
+            {
+              "id": "step_1758371222070",
+              "type": "choice",
+              "content": "再留在学校里一会吧",
+              "group": "第一章　反转冲动 I"
+            },
+            {
+              "id": "step_1758371222229",
+              "type": "choice",
+              "content": "妹妹秋叶的事",
+              "prefix": "★",
+              "group": "第一章　反转冲动 I"
+            },
+            {
+              "id": "step_1758371222395",
+              "type": "choice",
+              "content": "去起居室和秋叶说说话吧",
+              "group": "第一章　反转冲动 I"
+            },
+            {
+              "id": "step_1758371222570",
+              "type": "choice",
+              "content": "和她俩都打招呼吧",
+              "group": "第二章　反转冲动 II"
+            },
+            {
+              "id": "step_1758371222730",
+              "type": "choice",
+              "content": "去茶道部露个面吧",
+              "group": "第二章　反转冲动 II"
+            },
+            {
+              "id": "step_1758371222907",
+              "type": "choice",
+              "content": "不对，我的确是在现实中",
+              "group": "第二章　反转冲动 II"
+            },
+            {
+              "id": "step_1758371223075",
+              "type": "choice",
+              "content": "不要，绝对不要帮她",
+              "group": "第三章　黒之兽 I"
+            },
+            {
+              "id": "step_1758371223252",
+              "type": "choice",
+              "content": "果然还是逃了比较好",
+              "group": "第三章　黒之兽 I"
+            },
+            {
+              "id": "step_1758371223440",
+              "type": "choice",
+              "content": "想想还是回宾馆去吧",
+              "group": "第三章　黒之兽 I"
+            },
+            {
+              "id": "step_1758371223613",
+              "type": "choice",
+              "content": "——我去外面看看",
+              "group": "第三章　黒之兽 I"
+            },
+            {
+              "id": "step_1758371225419",
+              "type": "choice",
+              "content": "不干.那种和怪物干架的事我办不来",
+              "group": "第四章　黒之兽 II"
+            },
+            {
+              "id": "step_1758371225597",
+              "type": "choice",
+              "content": "……不，时机未到",
+              "group": "第四章　黒之兽 II"
+            },
+            {
+              "id": "step_1758371225767",
+              "type": "choice",
+              "content": "向Nero冲过去",
+              "group": "第四章　黒之兽 II"
+            },
+            {
+              "id": "step_1758371225916",
+              "type": "choice",
+              "content": "既然这样就只能摧毁本体了",
+              "group": "第四章　黒之兽 II"
+            },
+            {
+              "id": "step_1758371226084",
+              "type": "choice",
+              "content": "坦率地道歉吧",
+              "group": "第五章　朱色残渣 I"
+            },
+            {
+              "id": "step_1758371226251",
+              "type": "choice",
+              "content": "问问昨晚的事",
+              "group": "第五章　朱色残渣 I"
+            },
+            {
+              "id": "step_1758371226400",
+              "type": "choice",
+              "content": "好，不吃了",
+              "group": "第五章　朱色残渣 I"
+            },
+            {
+              "id": "step_1758371226562",
+              "type": "choice",
+              "content": "点头同意",
+              "group": "第五章　朱色残渣 I"
+            },
+            {
+              "id": "step_1758371851423",
+              "type": "choice",
+              "content": "可能是Ciel学姐",
+              "group": "第五章　朱色残渣 I"
+            },
+            {
+              "id": "step_1758371851640",
+              "type": "choice",
+              "content": "偷偷的走到她的后面吓她一跳吧",
+              "group": "第六章　空之弓 I"
+            },
+            {
+              "id": "step_1758371851802",
+              "type": "choice",
+              "content": "虽然学姐讨厌我，我倒是想去问个清楚",
+              "group": "第六章　空之弓 I"
+            },
+            {
+              "id": "step_1758371852013",
+              "type": "choice",
+              "content": "去茶道室休息一下",
+              "group": "第六章　空之弓 I"
+            },
+            {
+              "id": "step_1758371852196",
+              "type": "choice",
+              "content": "那个人是重要的学姐啊",
+              "group": "第六章　空之弓 I"
+            },
+            {
+              "id": "step_1758371852643",
+              "type": "choice",
+              "content": "比起那种事来应该去学校",
+              "group": "第七章　空之弓 II"
+            },
+            {
+              "id": "step_1758371852804",
+              "type": "choice",
+              "content": "冷静地回答",
+              "group": "第七章　空之弓 II"
+            },
+            {
+              "id": "step_1758371852953",
+              "type": "choice",
+              "content": "无",
+              "group": "第八章　死"
+            },
+            {
+              "id": "step_1758371853103",
+              "type": "choice",
+              "content": "去学校后院看看",
+              "group": "第九章　空蝉"
+            },
+            {
+              "id": "step_1758371853247",
+              "type": "choice",
+              "content": "……去吃午饭吧",
+              "group": "第九章　空蝉"
+            },
+            {
+              "id": "step_1758371853428",
+              "type": "choice",
+              "content": "……不.当然是不好了",
+              "group": "第九章　空蝉"
+            },
+            {
+              "id": "step_1758371959626",
+              "type": "choice",
+              "content": "琥珀说的有道理",
+              "group": "第十章　朱色残渣 II"
+            },
+            {
+              "id": "step_1758371959799",
+              "type": "choice",
+              "content": "不行 不立即阻止琥珀的话",
+              "group": "第十一章　海市蜃楼"
+            },
+            {
+              "id": "step_1758371960692",
+              "type": "choice",
+              "content": "……就算是这样，我也想听听她的声音",
+              "group": "第十一章　海市蜃楼"
+            },
+            {
+              "id": "step_1758371960838",
+              "type": "choice",
+              "content": "向前跳开",
+              "group": "第十一章　海市蜃楼"
+            },
+            {
+              "id": "step_1758371960978",
+              "type": "choice",
+              "content": "不取下眼镜",
+              "group": "第十一章　海市蜃楼"
+            },
+            {
+              "id": "step_1758371961128",
+              "type": "choice",
+              "content": "喜欢素颜的学姐",
+              "subfix": "选2则可看到戴眼镜的图",
+              "group": "第十一章　海市蜃楼"
+            },
+            {
+              "id": "step_1758372067392",
+              "type": "choice",
+              "content": "顺从爱尔奎特",
+              "group": "第十二章　无果之石"
+            }
+          ]
+        },
+        {
+          "id": "ending_1758372174879",
+          "name": "白日碧玉",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_1758372197212",
+              "type": "choice",
+              "content": "不顺从爱尔奎特"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1758372212832",
+      "name": "远野秋叶",
+      "endings": [
+        {
+          "id": "ending_1758372225800",
+          "name": "温暖的午睡",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_1758372245904",
+              "type": "choice",
+              "content": "还差几分钟班会就开始了，直接去教室吧",
+              "group": "第一章　反转冲动 I"
+            },
+            {
+              "id": "step_1758372246770",
+              "type": "choice",
+              "content": "留在教室里吃午饭",
+              "group": "第一章　反转冲动 I"
+            },
+            {
+              "id": "step_1758372246935",
+              "type": "choice",
+              "content": "差不多也该做好心理准备了，回宅邸去吧",
+              "group": "第一章　反转冲动 I"
+            },
+            {
+              "id": "step_1758372247087",
+              "type": "choice",
+              "content": "妹妹秋叶的事",
+              "prefix": "★",
+              "group": "第一章　反转冲动 I"
+            },
+            {
+              "id": "step_1758372247238",
+              "type": "choice",
+              "content": "去起居室和秋叶说说话吧",
+              "group": "第一章　反转冲动 I"
+            },
+            {
+              "id": "step_1758372247399",
+              "type": "choice",
+              "content": "老老实实睡觉",
+              "group": "第一章　反转冲动 I"
+            },
+            {
+              "id": "step_1758372247561",
+              "type": "choice",
+              "content": "向秋叶打招呼",
+              "group": "第二章　反转冲动 II"
+            },
+            {
+              "id": "step_1758372247725",
+              "type": "choice",
+              "content": "询问弓冢五月的事",
+              "group": "第二章　反转冲动 II"
+            },
+            {
+              "id": "step_1758372247887",
+              "type": "choice",
+              "content": "去看看",
+              "group": "第二章　反转冲动 II"
+            },
+            {
+              "id": "step_1758372248065",
+              "type": "choice",
+              "content": "去寻找弓冢",
+              "group": "第三章　反转冲动 III"
+            },
+            {
+              "id": "step_1758372250664",
+              "type": "choice",
+              "content": "喜欢",
+              "group": "第三章　反转冲动 III"
+            },
+            {
+              "id": "step_1758372250823",
+              "type": "choice",
+              "content": "当然是赞成了",
+              "group": "第四章 昏之伤痕"
+            },
+            {
+              "id": "step_1758372250995",
+              "type": "choice",
+              "content": "问她为什么转校",
+              "group": "第五章　静梦"
+            },
+            {
+              "id": "step_1758372251151",
+              "type": "choice",
+              "content": "去秋叶的教室",
+              "group": "第五章　静梦"
+            },
+            {
+              "id": "step_1758372251322",
+              "type": "choice",
+              "content": "去客厅",
+              "group": "第五章　静梦"
+            },
+            {
+              "id": "step_1758372251485",
+              "type": "choice",
+              "content": "去别馆看看",
+              "group": "第五章　静梦"
+            },
+            {
+              "id": "step_1758372251635",
+              "type": "choice",
+              "content": "没关系所以直接去客厅吧",
+              "group": "第六章　沉梦"
+            },
+            {
+              "id": "step_1758372251812",
+              "type": "choice",
+              "content": "现在这件制服比较适合秋叶",
+              "group": "第六章　沉梦"
+            },
+            {
+              "id": "step_1758372460052",
+              "type": "choice",
+              "content": "帮翡翠的忙",
+              "group": "第六章　沉梦"
+            },
+            {
+              "id": "step_1758372460216",
+              "type": "choice",
+              "content": "就算如此，我想也能和秋叶打招呼问候",
+              "group": "第七章　昏之伤痕 II"
+            },
+            {
+              "id": "step_1758372460949",
+              "type": "choice",
+              "content": "去秋叶的教室",
+              "group": "第七章　昏之伤痕 II"
+            },
+            {
+              "id": "step_1758372461074",
+              "type": "choice",
+              "content": "和学姐商量昨天的事",
+              "group": "第七章　昏之伤痕 II"
+            },
+            {
+              "id": "step_1758372461790",
+              "type": "choice",
+              "content": "无",
+              "group": "第八章　午睡之梦"
+            },
+            {
+              "id": "step_1758372461970",
+              "type": "choice",
+              "content": "——自己去终结这件事",
+              "group": "第九章 吸血之鬼"
+            },
+            {
+              "id": "step_1758372462129",
+              "type": "choice",
+              "content": "……我，做不到",
+              "group": "第九章 吸血之鬼"
+            },
+            {
+              "id": "step_1758372462286",
+              "type": "choice",
+              "content": "东馆的二层",
+              "group": "第十章　热帯夜"
+            },
+            {
+              "id": "step_1758372462450",
+              "type": "choice",
+              "content": "首先应该离开秋叶的房间",
+              "group": "第十章　热帯夜"
+            },
+            {
+              "id": "step_1758372462801",
+              "type": "choice",
+              "content": "无",
+              "group": "第十一章　望远镜"
+            },
+            {
+              "id": "step_1758372462960",
+              "type": "choice",
+              "content": "休息一下，缓过气来再追上去",
+              "group": "第十二章 某剧告终"
+            },
+            {
+              "id": "step_1758372463129",
+              "type": "choice",
+              "content": "……停下脚步",
+              "group": "第十二章 某剧告终"
+            },
+            {
+              "id": "step_1758372647759",
+              "type": "choice",
+              "content": "去追秋叶",
+              "group": "第十二章 某剧告终"
+            },
+            {
+              "id": "step_1758372647928",
+              "type": "choice",
+              "content": "……只有这件事，我做不到",
+              "group": "第十二章 某剧告终"
+            },
+            {
+              "id": "step_1758372648079",
+              "type": "choice",
+              "content": "……把这条命，还给秋叶",
+              "group": "第十二章 某剧告终"
+            }
+          ]
+        },
+        {
+          "id": "ending_1758372765745",
+          "name": "远方的苇莺",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_1758372785651",
+              "type": "choice",
+              "content": "……这种事，我做不到"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1758372855888",
+      "name": "翡翠",
+      "endings": [
+        {
+          "id": "ending_1758372940330",
+          "name": "真昼之月",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_1758373101067",
+              "type": "choice",
+              "content": "还差几分钟班会就开始了，直接去教室吧",
+              "group": "第一章　反转冲动 I"
+            },
+            {
+              "id": "step_1758373104353",
+              "type": "choice",
+              "content": "留在教室里吃午饭",
+              "group": "第一章　反转冲动 I"
+            },
+            {
+              "id": "step_1758373104533",
+              "type": "choice",
+              "content": "差不多也该做好心理准备了，回宅邸去吧",
+              "group": "第一章　反转冲动 I"
+            },
+            {
+              "id": "step_1758373104677",
+              "type": "choice",
+              "content": "很有精神的女孩子的事",
+              "prefix": "★",
+              "group": "第一章　反转冲动 I"
+            },
+            {
+              "id": "step_1758373104862",
+              "type": "choice",
+              "content": "在自己的房间老老实实待着好了",
+              "group": "第一章　反转冲动 I"
+            },
+            {
+              "id": "step_1758373105015",
+              "type": "choice",
+              "content": "老老实实睡觉",
+              "group": "第一章　反转冲动 I"
+            },
+            {
+              "id": "step_1758373105342",
+              "type": "choice",
+              "content": "向两人打招呼",
+              "group": "第二章　反转冲动 II"
+            },
+            {
+              "id": "step_1758373105536",
+              "type": "choice",
+              "content": "……默默地看着情况",
+              "group": "第二章　反转冲动 II"
+            },
+            {
+              "id": "step_1758373105684",
+              "type": "choice",
+              "content": "……不行，果然身体不好",
+              "group": "第二章　反转冲动 II"
+            },
+            {
+              "id": "step_1758373241735",
+              "type": "choice",
+              "content": "去见翡翠吧",
+              "group": "第二章　反转冲动 II"
+            },
+            {
+              "id": "step_1758373241870",
+              "type": "choice",
+              "content": "去看看",
+              "group": "第二章　反转冲动 II"
+            },
+            {
+              "id": "step_1758373242124",
+              "type": "choice",
+              "content": "无法回答",
+              "group": "第三章　反转冲动 III"
+            },
+            {
+              "id": "step_1758373242274",
+              "type": "choice",
+              "content": "当然是赞成了",
+              "group": "第四章　揺篮之庭"
+            },
+            {
+              "id": "step_1758373242517",
+              "type": "choice",
+              "content": "去给翡翠帮帮忙吧",
+              "group": "第四章　揺篮之庭"
+            },
+            {
+              "id": "step_1758373242691",
+              "type": "choice",
+              "content": "去见见翡翠",
+              "group": "第五章　杀人鬼 I"
+            },
+            {
+              "id": "step_1758373270823",
+              "type": "choice",
+              "content": "商量一下",
+              "group": "第六章　杀人鬼 II"
+            },
+            {
+              "id": "step_1758373271016",
+              "type": "choice",
+              "content": "去父亲的房间",
+              "group": "第六章　杀人鬼 II"
+            },
+            {
+              "id": "step_1758373271159",
+              "type": "choice",
+              "content": "去夜晚的城镇上",
+              "group": "第六章　杀人鬼 II"
+            },
+            {
+              "id": "step_1758373271323",
+              "type": "choice",
+              "content": "拜托翡翠试试看",
+              "group": "第七章 透明爪痕"
+            },
+            {
+              "id": "step_1758373271477",
+              "type": "choice",
+              "content": "无",
+              "group": "第八章 死"
+            },
+            {
+              "id": "step_1758373271633",
+              "type": "choice",
+              "content": "无",
+              "group": "第九章　硝之躯 I"
+            },
+            {
+              "id": "step_1758373271798",
+              "type": "choice",
+              "content": "无",
+              "group": "第十章　硝之躯 II"
+            },
+            {
+              "id": "step_1758373271950",
+              "type": "choice",
+              "content": "无",
+              "group": "第十一章　硝之躯 III"
+            },
+            {
+              "id": "step_1758373503947",
+              "type": "choice",
+              "content": "……这种事情一点都不感到满足",
+              "group": "第十二章　白昼梦"
+            },
+            {
+              "id": "step_1758373504119",
+              "type": "choice",
+              "content": "打开门锁",
+              "group": "第十二章　白昼梦"
+            },
+            {
+              "id": "step_1758373504280",
+              "type": "choice",
+              "content": "叫秋叶的名字",
+              "group": "第十三章　金钱之茧"
+            }
+          ]
+        },
+        {
+          "id": "ending_1758373833175",
+          "name": "日向之梦",
+          "type": "good",
+          "requirements": "通关一次后追加",
+          "steps": [
+            {
+              "id": "step_1758373877345",
+              "type": "choice",
+              "content": "叫琥珀的名字"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_1758373908610",
+      "name": "琥珀",
+      "endings": [
+        {
+          "id": "ending_1758373975174",
+          "name": "日向之梦",
+          "type": "true",
+          "steps": [
+            {
+              "id": "step_1758373984864",
+              "type": "choice",
+              "content": "还差几分钟班会就开始了，直接去教室吧",
+              "group": "第一章　反转冲动 I"
+            },
+            {
+              "id": "step_1758373985053",
+              "type": "choice",
+              "content": "留在教室里吃午饭",
+              "group": "第一章　反转冲动 I"
+            },
+            {
+              "id": "step_1758373985224",
+              "type": "choice",
+              "content": "差不多也该做好心理准备了，回宅邸去吧",
+              "group": "第一章　反转冲动 I"
+            },
+            {
+              "id": "step_1758373986105",
+              "type": "choice",
+              "content": "窗边少女的事",
+              "prefix": "★",
+              "group": "第一章　反转冲动 I"
+            },
+            {
+              "id": "step_1758373986286",
+              "type": "choice",
+              "content": "去琥珀的房间看电视吧",
+              "group": "第一章　反转冲动 I"
+            },
+            {
+              "id": "step_1758373986475",
+              "type": "choice",
+              "content": "老老实实睡觉",
+              "group": "第一章　反转冲动 I"
+            },
+            {
+              "id": "step_1758373986640",
+              "type": "choice",
+              "content": "向琥珀打招呼",
+              "group": "第二章　反转冲动 II"
+            },
+            {
+              "id": "step_1758373986833",
+              "type": "choice",
+              "content": "……默默地看着情况",
+              "group": "第二章　反转冲动 II"
+            },
+            {
+              "id": "step_1758373988648",
+              "type": "choice",
+              "content": "……不行，果然身体不好",
+              "group": "第二章　反转冲动 II"
+            },
+            {
+              "id": "step_1758373988911",
+              "type": "choice",
+              "content": "去帮琥珀吧",
+              "group": "第二章　反转冲动 II"
+            },
+            {
+              "id": "step_1758373989069",
+              "type": "choice",
+              "content": "去看看",
+              "group": "第二章　反转冲动 II"
+            },
+            {
+              "id": "step_1758373989258",
+              "type": "choice",
+              "content": "讨厌",
+              "group": "第三章　反转冲动 III"
+            },
+            {
+              "id": "step_1758373989401",
+              "type": "choice",
+              "content": "去给琥珀帮帮忙吧",
+              "group": "第四章 摇篮之庭"
+            },
+            {
+              "id": "step_1758373989566",
+              "type": "choice",
+              "content": "无",
+              "group": "第五章 祸根I"
+            },
+            {
+              "id": "step_1758373989720",
+              "type": "choice",
+              "content": "无",
+              "group": "第六章　未来视　未来死"
+            },
+            {
+              "id": "step_1758373990030",
+              "type": "choice",
+              "content": "去会会琥珀",
+              "group": "第七章 祸根II"
+            },
+            {
+              "id": "step_1758373990262",
+              "type": "choice",
+              "content": "无",
+              "group": "第八章　逢魔街头 I"
+            },
+            {
+              "id": "step_1758373990634",
+              "type": "choice",
+              "content": "……试着外出",
+              "group": "第九章　逢魔街头　II"
+            },
+            {
+              "id": "step_1758373991041",
+              "type": "choice",
+              "content": "乖乖回房去",
+              "group": "第九章　逢魔街头　II"
+            },
+            {
+              "id": "step_1758373991222",
+              "type": "choice",
+              "content": "无",
+              "group": "第十章　折纸"
+            },
+            {
+              "id": "step_1758373991406",
+              "type": "choice",
+              "content": "无",
+              "group": "第十一章　槛发"
+            },
+            {
+              "id": "step_1758374240030",
+              "type": "choice",
+              "content": "先后退",
+              "group": "第十二章　七夜"
+            },
+            {
+              "id": "step_1758374240189",
+              "type": "choice",
+              "content": "……在被注意到之前狙击",
+              "group": "第十二章　七夜"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

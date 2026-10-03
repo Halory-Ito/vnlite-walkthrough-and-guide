@@ -1,0 +1,104 @@
+{
+  "schemaVersion": 1,
+  "count": 7,
+  "latestUpdatedAt": "2026-10-03",
+  "walkthroughs": [
+    {
+      "vid": "v4",
+      "path": "walkthroughs/1-10000/1-1000/1-100/v4.json",
+      "updatedAt": "2026-03-24",
+      "routesCount": 1,
+      "endingsCount": 16,
+      "stepsCount": 384,
+      "name": {
+        "zh-cn": "CLANNAD",
+        "en-us": "CLANNAD",
+        "ja-Latn": "clannad"
+      },
+      "level": 1
+    },
+    {
+      "vid": "v7",
+      "path": "walkthroughs/1-10000/1-1000/1-100/v7.json",
+      "updatedAt": "2026-07-12",
+      "routesCount": 5,
+      "endingsCount": 9,
+      "stepsCount": 161,
+      "name": {
+        "zh-cn": "月姫",
+        "ja-jp": "月姫",
+        "ja-Latn": "tsukihime"
+      },
+      "level": 2
+    },
+    {
+      "vid": "v11",
+      "path": "walkthroughs/1-10000/1-1000/1-100/v11.json",
+      "updatedAt": "2026-10-03",
+      "routesCount": 1,
+      "endingsCount": 1,
+      "stepsCount": 4,
+      "name": {
+        "zh-cn": "美好的每一天～不连续存在～",
+        "ja": "キミのナワ。"
+      },
+      "level": 0,
+      "author": "example"
+    },
+    {
+      "vid": "v792",
+      "path": "walkthroughs/1-10000/1-1000/701-800/v792.json",
+      "updatedAt": "2026-04-13",
+      "routesCount": 1,
+      "endingsCount": 5,
+      "stepsCount": 29,
+      "name": {
+        "zh-cn": "かみぱに！",
+        "ja-jp": "かみぱに！",
+        "ja-Latn": "kamipani"
+      },
+      "level": 2
+    },
+    {
+      "vid": "v1085",
+      "path": "walkthroughs/1-10000/1001-2000/1001-1100/v1085.json",
+      "updatedAt": "2026-03-31",
+      "routesCount": 1,
+      "endingsCount": 24,
+      "stepsCount": 181,
+      "name": {
+        "zh-cn": "3days～在逝去时间的另一端～",
+        "ja-jp": "3days～満ちてゆく刻の彼方で～",
+        "ja-Latn": "3days"
+      },
+      "level": 2
+    },
+    {
+      "vid": "v9125",
+      "path": "walkthroughs/1-10000/9001-10000/9101-9200/v9125.json",
+      "updatedAt": "2026-07-13",
+      "routesCount": 1,
+      "endingsCount": 4,
+      "stepsCount": 12,
+      "name": {
+        "zh-cn": "1/2 summer",
+        "ja-Latn": "1-2summer"
+      },
+      "level": 2
+    },
+    {
+      "vid": "v13325",
+      "path": "walkthroughs/10001-20000/13001-14000/13301-13400/v13325.json",
+      "updatedAt": "2026-07-12",
+      "routesCount": 5,
+      "endingsCount": 5,
+      "stepsCount": 16,
+      "name": {
+        "zh-cn": "幸运草的约定",
+        "en-us": "Clover Day's",
+        "ja-Latn": "clover-days"
+      },
+      "level": 2
+    }
+  ]
+}

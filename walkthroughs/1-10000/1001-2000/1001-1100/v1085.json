@@ -1,0 +1,1211 @@
+{
+  "vid": "v1085",
+  "name": {
+    "zh-cn": "3days～在逝去时间的另一端～",
+    "ja-jp": "3days～満ちてゆく刻の彼方で～",
+    "ja-Latn": "3days"
+  },
+  "level": 2,
+  "updatedAt": "2026-03-31",
+  "tips": [
+    "BL=Blood Limiter功能。并列选项的地方请自行存储，全部选择，回收CG",
+    "攻略时出现的时钟声和右下角转动的时钟是在提醒出现临时选项了，需要点一下时钟",
+    "按攻略完成八次死亡，到达真实之门后按攻略避开几个BE走到个人结局或后宫结局"
+  ],
+  "routes": [
+    {
+      "id": "route_game",
+      "name": "游戏攻略",
+      "endings": [
+        {
+          "id": "ending_01",
+          "name": "END0 过场",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_01_001",
+              "type": "note",
+              "content": "提示：BLOOD LIMIT ON 下有 BLCG 2张。打开真实之门后将无法回到无限的3日，最好提前保存记录。",
+              "group": "死亡次数0"
+            },
+            {
+              "id": "step_01_002",
+              "type": "note",
+              "content": "一周目默认死亡",
+              "group": "死亡次数0"
+            }
+          ]
+        },
+        {
+          "id": "ending_02",
+          "name": "END1 悲剧再临",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_02_002",
+              "type": "choice",
+              "content": "不吃便当",
+              "group": "死亡次数1 环"
+            },
+            {
+              "id": "step_02_003",
+              "type": "choice",
+              "content": "通往上级生教室的台阶",
+              "group": "死亡次数1 环"
+            },
+            {
+              "id": "step_02_004",
+              "type": "choice",
+              "content": "和环一起行动",
+              "group": "死亡次数1 环"
+            },
+            {
+              "id": "step_02_005",
+              "type": "choice",
+              "content": "去公园",
+              "group": "死亡次数1 环"
+            },
+            {
+              "id": "step_02_006",
+              "type": "choice",
+              "content": "和瑠花玩",
+              "group": "死亡次数1 环"
+            },
+            {
+              "id": "step_02_007",
+              "type": "choice",
+              "content": "不能呆在这里",
+              "group": "死亡次数1 环"
+            },
+            {
+              "id": "step_02_008",
+              "type": "choice",
+              "content": "OK",
+              "group": "死亡次数1 环"
+            }
+          ]
+        },
+        {
+          "id": "ending_03",
+          "name": "END2 为了环的未来",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_03_002",
+              "type": "choice",
+              "content": "不吃便当",
+              "group": "死亡次数2 环"
+            },
+            {
+              "id": "step_03_003",
+              "type": "choice",
+              "content": "购买部",
+              "group": "死亡次数2 环"
+            },
+            {
+              "id": "step_03_004",
+              "type": "choice",
+              "content": "和环一起行动",
+              "group": "死亡次数2 环"
+            },
+            {
+              "id": "step_03_005",
+              "type": "choice",
+              "content": "留在学校",
+              "group": "死亡次数2 环"
+            },
+            {
+              "id": "step_03_006",
+              "type": "choice",
+              "content": "普通对话",
+              "subfix": "即时选项",
+              "group": "死亡次数2 环"
+            },
+            {
+              "id": "step_03_007",
+              "type": "choice",
+              "content": "不知道",
+              "subfix": "即时选项",
+              "group": "死亡次数2 环"
+            },
+            {
+              "id": "step_03_008",
+              "type": "choice",
+              "content": "通往上级生教室的台阶",
+              "subfix": "即时选项",
+              "group": "死亡次数2 环"
+            },
+            {
+              "id": "step_03_009",
+              "type": "choice",
+              "content": "不能呆在这里",
+              "group": "死亡次数2 环"
+            },
+            {
+              "id": "step_03_010",
+              "type": "choice",
+              "content": "离开学校",
+              "subfix": "即时选项",
+              "group": "死亡次数2 环"
+            },
+            {
+              "id": "step_03_011",
+              "type": "choice",
+              "content": "去车站前",
+              "group": "死亡次数2 环"
+            }
+          ]
+        },
+        {
+          "id": "ending_04",
+          "name": "END3 杀戮者",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_04_002",
+              "type": "choice",
+              "content": "吃便当",
+              "group": "死亡次数3 环"
+            },
+            {
+              "id": "step_04_003",
+              "type": "choice",
+              "content": "和环一起行动",
+              "group": "死亡次数3 环"
+            },
+            {
+              "id": "step_04_004",
+              "type": "choice",
+              "content": "留在学校",
+              "group": "死亡次数3 环"
+            },
+            {
+              "id": "step_04_005",
+              "type": "choice",
+              "content": "从精神病院逃脱的杀人者",
+              "group": "死亡次数3 环"
+            },
+            {
+              "id": "step_04_006",
+              "type": "choice",
+              "content": "普通对话",
+              "group": "死亡次数3 环"
+            },
+            {
+              "id": "step_04_007",
+              "type": "choice",
+              "content": "不知道",
+              "group": "死亡次数3 环"
+            },
+            {
+              "id": "step_04_008",
+              "type": "choice",
+              "content": "屋上",
+              "group": "死亡次数3 环"
+            },
+            {
+              "id": "step_04_009",
+              "type": "choice",
+              "content": "去学校",
+              "group": "死亡次数3 环"
+            }
+          ]
+        },
+        {
+          "id": "ending_05",
+          "name": "END4 夫妻恩爱之后",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_05_002",
+              "type": "choice",
+              "content": "吃便当",
+              "group": "死亡次数4 环"
+            },
+            {
+              "id": "step_05_003",
+              "type": "choice",
+              "content": "和环一起行动",
+              "group": "死亡次数4 环"
+            },
+            {
+              "id": "step_05_004",
+              "type": "choice",
+              "content": "去公园",
+              "group": "死亡次数4 环"
+            },
+            {
+              "id": "step_05_005",
+              "type": "choice",
+              "content": "和瑠花玩",
+              "group": "死亡次数4 环"
+            },
+            {
+              "id": "step_05_006",
+              "type": "choice",
+              "content": "普通对话",
+              "group": "死亡次数4 环"
+            },
+            {
+              "id": "step_05_007",
+              "type": "choice",
+              "content": "好像是...环的生日",
+              "group": "死亡次数4 环"
+            },
+            {
+              "id": "step_05_008",
+              "type": "choice",
+              "content": "离开学校",
+              "group": "死亡次数4 环"
+            },
+            {
+              "id": "step_05_009",
+              "type": "choice",
+              "content": "去公园",
+              "group": "死亡次数4 环"
+            },
+            {
+              "id": "step_05_010",
+              "type": "choice",
+              "content": "放弃",
+              "group": "死亡次数4 环"
+            }
+          ]
+        },
+        {
+          "id": "ending_06",
+          "name": "END5 面具之下",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_06_002",
+              "type": "choice",
+              "content": "吃便当",
+              "group": "死亡次数5 吾妻姐妹"
+            },
+            {
+              "id": "step_06_003",
+              "type": "choice",
+              "content": "和环一起行动",
+              "group": "死亡次数5 吾妻姐妹"
+            },
+            {
+              "id": "step_06_004",
+              "type": "choice",
+              "content": "去公园",
+              "group": "死亡次数5 吾妻姐妹"
+            },
+            {
+              "id": "step_06_005",
+              "type": "choice",
+              "content": "和瑠花玩",
+              "group": "死亡次数5 吾妻姐妹"
+            },
+            {
+              "id": "step_06_006",
+              "type": "choice",
+              "content": "普通对话",
+              "group": "死亡次数5 吾妻姐妹"
+            },
+            {
+              "id": "step_06_007",
+              "type": "choice",
+              "content": "好像是...环的生日",
+              "group": "死亡次数5 吾妻姐妹"
+            },
+            {
+              "id": "step_06_008",
+              "type": "choice",
+              "content": "留在学校",
+              "group": "死亡次数5 吾妻姐妹"
+            },
+            {
+              "id": "step_06_009",
+              "type": "choice",
+              "content": "公园",
+              "group": "死亡次数5 吾妻姐妹"
+            }
+          ]
+        },
+        {
+          "id": "ending_07",
+          "name": "END6 应战",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_07_002",
+              "type": "choice",
+              "content": "吃便当",
+              "group": "死亡次数6 吾妻姐妹"
+            },
+            {
+              "id": "step_07_003",
+              "type": "choice",
+              "content": "单独行动",
+              "group": "死亡次数6 吾妻姐妹"
+            },
+            {
+              "id": "step_07_004",
+              "type": "choice",
+              "content": "去公园",
+              "group": "死亡次数6 吾妻姐妹"
+            },
+            {
+              "id": "step_07_005",
+              "type": "choice",
+              "content": "强行带去保健室",
+              "group": "死亡次数6 吾妻姐妹"
+            }
+          ]
+        },
+        {
+          "id": "ending_08",
+          "name": "END7 恶魔转移",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_08_002",
+              "type": "choice",
+              "content": "吃便当",
+              "group": "死亡次数7 吾妻姐妹"
+            },
+            {
+              "id": "step_08_003",
+              "type": "choice",
+              "content": "单独行动",
+              "group": "死亡次数7 吾妻姐妹"
+            },
+            {
+              "id": "step_08_004",
+              "type": "choice",
+              "content": "去公园",
+              "group": "死亡次数7 吾妻姐妹"
+            },
+            {
+              "id": "step_08_005",
+              "type": "choice",
+              "content": "强行带去保健室",
+              "group": "死亡次数7 吾妻姐妹"
+            },
+            {
+              "id": "step_08_006",
+              "type": "choice",
+              "content": "大喊",
+              "subfix": "即时选项",
+              "group": "死亡次数7 吾妻姐妹"
+            },
+            {
+              "id": "step_08_007",
+              "type": "choice",
+              "content": "不去",
+              "subfix": "即时选项",
+              "group": "死亡次数7 吾妻姐妹"
+            },
+            {
+              "id": "step_08_008",
+              "type": "choice",
+              "content": "战斗",
+              "group": "死亡次数7 吾妻姐妹"
+            }
+          ]
+        },
+        {
+          "id": "ending_09",
+          "name": "END8 断末魔",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_09_002",
+              "type": "choice",
+              "content": "吃便当",
+              "group": "死亡次数8 吾妻姐妹"
+            },
+            {
+              "id": "step_09_003",
+              "type": "choice",
+              "content": "单独行动",
+              "group": "死亡次数8 吾妻姐妹"
+            },
+            {
+              "id": "step_09_004",
+              "type": "choice",
+              "content": "去公园",
+              "group": "死亡次数8 吾妻姐妹"
+            },
+            {
+              "id": "step_09_005",
+              "type": "choice",
+              "content": "强行带去保健室",
+              "group": "死亡次数8 吾妻姐妹"
+            },
+            {
+              "id": "step_09_006",
+              "type": "choice",
+              "content": "大喊",
+              "group": "死亡次数8 吾妻姐妹"
+            },
+            {
+              "id": "step_09_007",
+              "type": "choice",
+              "content": "不去",
+              "group": "死亡次数8 吾妻姐妹"
+            },
+            {
+              "id": "step_09_008",
+              "type": "choice",
+              "content": "战斗",
+              "group": "死亡次数8 吾妻姐妹"
+            },
+            {
+              "id": "step_09_009",
+              "type": "choice",
+              "content": "避开刀刃后撞击",
+              "subfix": "即时选项",
+              "group": "死亡次数8 吾妻姐妹"
+            },
+            {
+              "id": "step_09_010",
+              "type": "choice",
+              "content": "侵犯不足",
+              "group": "死亡次数8 吾妻姐妹"
+            }
+          ]
+        },
+        {
+          "id": "ending_10",
+          "name": "END9 死亡的先驱",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_10_001",
+              "type": "note",
+              "content": "真实之扉打开后将无法回到无限的3日，最好提前保存记录。"
+            },
+            {
+              "id": "step_10_002",
+              "type": "choice",
+              "content": "打开真实之门"
+            },
+            {
+              "id": "step_10_003",
+              "type": "choice",
+              "content": "和环逃跑",
+              "subfix": "BE(选择)"
+            },
+            {
+              "id": "step_10_004",
+              "type": "choice",
+              "content": "只有杀死梨花"
+            }
+          ]
+        },
+        {
+          "id": "ending_11",
+          "name": "END10 美柚END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_11_001",
+              "type": "note",
+              "content": "真实之扉打开后将无法回到无限的3日，最好提前保存记录。"
+            },
+            {
+              "id": "step_11_002",
+              "type": "choice",
+              "content": "打开真实之门"
+            },
+            {
+              "id": "step_11_003",
+              "type": "choice",
+              "content": "不忍杀死"
+            },
+            {
+              "id": "step_11_004",
+              "type": "choice",
+              "content": "草壁 辽一"
+            },
+            {
+              "id": "step_11_005",
+              "type": "choice",
+              "content": "抱美柚"
+            },
+            {
+              "id": "step_11_006",
+              "type": "choice",
+              "content": "战斗"
+            }
+          ]
+        },
+        {
+          "id": "ending_12",
+          "name": "END11 牺牲和背叛",
+          "type": "bad",
+          "steps": [
+            {
+              "id": "step_12_001",
+              "type": "note",
+              "content": "真实之扉打开后将无法回到无限的3日，最好提前保存记录。"
+            },
+            {
+              "id": "step_12_002",
+              "type": "choice",
+              "content": "打开真实之门"
+            },
+            {
+              "id": "step_12_003",
+              "type": "choice",
+              "content": "不忍杀死"
+            },
+            {
+              "id": "step_12_004",
+              "type": "choice",
+              "content": "草壁 辽一"
+            },
+            {
+              "id": "step_12_005",
+              "type": "choice",
+              "content": "抱美柚"
+            },
+            {
+              "id": "step_12_006",
+              "type": "choice",
+              "content": "不战斗"
+            }
+          ]
+        },
+        {
+          "id": "ending_13",
+          "name": "END12 后宫END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_13_001",
+              "type": "note",
+              "content": "真实之扉打开后将无法回到无限的3日，最好提前保存记录。"
+            },
+            {
+              "id": "step_13_002",
+              "type": "choice",
+              "content": "打开真实之门"
+            },
+            {
+              "id": "step_13_003",
+              "type": "choice",
+              "content": "不忍杀死"
+            },
+            {
+              "id": "step_13_004",
+              "type": "choice",
+              "content": "草壁 辽一"
+            },
+            {
+              "id": "step_13_005",
+              "type": "choice",
+              "content": "不抱美柚"
+            },
+            {
+              "id": "step_13_006",
+              "type": "choice",
+              "content": "战斗"
+            }
+          ]
+        },
+        {
+          "id": "ending_14",
+          "name": "END13 环END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_14_001",
+              "type": "note",
+              "content": "真实之扉打开后将无法回到无限的3日，最好提前保存记录。"
+            },
+            {
+              "id": "step_14_002",
+              "type": "choice",
+              "content": "打开真实之门"
+            },
+            {
+              "id": "step_14_003",
+              "type": "choice",
+              "content": "不忍杀死"
+            },
+            {
+              "id": "step_14_004",
+              "type": "choice",
+              "content": "高梨 亮"
+            },
+            {
+              "id": "step_14_005",
+              "type": "choice",
+              "content": "不抱美柚"
+            },
+            {
+              "id": "step_14_006",
+              "type": "choice",
+              "content": "战斗"
+            }
+          ]
+        },
+        {
+          "id": "ending_15",
+          "name": "END14 梨花END",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_15_002",
+              "type": "choice",
+              "content": "吃便当",
+              "group": "死亡次数9 梨花"
+            },
+            {
+              "id": "step_15_003",
+              "type": "choice",
+              "content": "单独行动",
+              "group": "死亡次数9 梨花"
+            },
+            {
+              "id": "step_15_004",
+              "type": "choice",
+              "content": "留在学校",
+              "group": "死亡次数9 梨花"
+            },
+            {
+              "id": "step_15_005",
+              "type": "choice",
+              "content": "我来应急处理",
+              "group": "死亡次数9 梨花"
+            },
+            {
+              "id": "step_15_006",
+              "type": "choice",
+              "content": "抚摸",
+              "group": "死亡次数9 梨花"
+            },
+            {
+              "id": "step_15_007",
+              "type": "choice",
+              "content": "以后再找",
+              "group": "死亡次数9 梨花"
+            },
+            {
+              "id": "step_15_008",
+              "type": "choice",
+              "content": "打开真实之门",
+              "group": "死亡次数9 梨花"
+            },
+            {
+              "id": "step_15_009",
+              "type": "choice",
+              "content": "吾妻 友哉",
+              "group": "死亡次数9 梨花"
+            },
+            {
+              "id": "step_15_010",
+              "type": "choice",
+              "content": "不抱美柚",
+              "group": "死亡次数9 梨花"
+            },
+            {
+              "id": "step_15_011",
+              "type": "choice",
+              "content": "战斗",
+              "group": "死亡次数9 梨花"
+            }
+          ]
+        },
+        {
+          "id": "ending_16",
+          "name": "END15 杀戮者",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_16_002",
+              "type": "choice",
+              "content": "吃便当",
+              "group": "死亡次数10 瑠花"
+            },
+            {
+              "id": "step_16_003",
+              "type": "choice",
+              "content": "和环一起行动",
+              "group": "死亡次数10 瑠花"
+            },
+            {
+              "id": "step_16_004",
+              "type": "choice",
+              "content": "去公园",
+              "group": "死亡次数10 瑠花"
+            },
+            {
+              "id": "step_16_005",
+              "type": "choice",
+              "content": "和瑠花玩",
+              "group": "死亡次数10 瑠花"
+            },
+            {
+              "id": "step_16_006",
+              "type": "choice",
+              "content": "惊吓环",
+              "group": "死亡次数10 瑠花"
+            },
+            {
+              "id": "step_16_007",
+              "type": "choice",
+              "content": "不知道",
+              "group": "死亡次数10 瑠花"
+            },
+            {
+              "id": "step_16_008",
+              "type": "choice",
+              "content": "上级生的教室",
+              "group": "死亡次数10 瑠花"
+            },
+            {
+              "id": "step_16_009",
+              "type": "choice",
+              "content": "不能呆在这里",
+              "group": "死亡次数10 瑠花"
+            },
+            {
+              "id": "step_16_010",
+              "type": "choice",
+              "content": "离开学校",
+              "group": "死亡次数10 瑠花"
+            },
+            {
+              "id": "step_16_011",
+              "type": "choice",
+              "content": "去公园",
+              "group": "死亡次数10 瑠花"
+            },
+            {
+              "id": "step_16_012",
+              "type": "choice",
+              "content": "做H的事情",
+              "subfix": "即时选项",
+              "group": "死亡次数10 瑠花"
+            }
+          ]
+        },
+        {
+          "id": "ending_17",
+          "name": "END16 胡同里的约定",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_17_002",
+              "type": "choice",
+              "content": "不吃便当",
+              "group": "死亡次数11 奈奈子"
+            },
+            {
+              "id": "step_17_003",
+              "type": "choice",
+              "content": "购买部",
+              "group": "死亡次数11 奈奈子"
+            },
+            {
+              "id": "step_17_004",
+              "type": "choice",
+              "content": "单独行动",
+              "group": "死亡次数11 奈奈子"
+            },
+            {
+              "id": "step_17_005",
+              "type": "choice",
+              "content": "留在学校",
+              "group": "死亡次数11 奈奈子"
+            },
+            {
+              "id": "step_17_006",
+              "type": "choice",
+              "content": "我来应急处理",
+              "group": "死亡次数11 奈奈子"
+            },
+            {
+              "id": "step_17_007",
+              "type": "choice",
+              "content": "追",
+              "group": "死亡次数11 奈奈子"
+            },
+            {
+              "id": "step_17_008",
+              "type": "choice",
+              "content": "屋上搜索",
+              "group": "死亡次数11 奈奈子"
+            }
+          ]
+        },
+        {
+          "id": "ending_18",
+          "name": "END17 杀戮者",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_18_002",
+              "type": "choice",
+              "content": "不吃便当",
+              "group": "死亡次数12 奈奈子"
+            },
+            {
+              "id": "step_18_003",
+              "type": "choice",
+              "content": "购买部",
+              "group": "死亡次数12 奈奈子"
+            },
+            {
+              "id": "step_18_004",
+              "type": "choice",
+              "content": "和环一起行动",
+              "group": "死亡次数12 奈奈子"
+            },
+            {
+              "id": "step_18_005",
+              "type": "choice",
+              "content": "留在学校",
+              "group": "死亡次数12 奈奈子"
+            },
+            {
+              "id": "step_18_006",
+              "type": "choice",
+              "content": "普通对话",
+              "group": "死亡次数12 奈奈子"
+            },
+            {
+              "id": "step_18_007",
+              "type": "choice",
+              "content": "不知道",
+              "group": "死亡次数12 奈奈子"
+            },
+            {
+              "id": "step_18_008",
+              "type": "choice",
+              "content": "上级生教室",
+              "group": "死亡次数12 奈奈子"
+            },
+            {
+              "id": "step_18_009",
+              "type": "choice",
+              "content": "不能呆在这里",
+              "group": "死亡次数12 奈奈子"
+            },
+            {
+              "id": "step_18_010",
+              "type": "choice",
+              "content": "离开学校",
+              "group": "死亡次数12 奈奈子"
+            },
+            {
+              "id": "step_18_011",
+              "type": "choice",
+              "content": "去学校",
+              "group": "死亡次数12 奈奈子"
+            },
+            {
+              "id": "step_18_012",
+              "type": "choice",
+              "content": "抱住",
+              "subfix": "即时选择",
+              "group": "死亡次数12 奈奈子"
+            }
+          ]
+        },
+        {
+          "id": "ending_19",
+          "name": "END18 月子剧情",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_19_001",
+              "type": "note",
+              "content": "通关后从 START 进入；若想走全路线图，也可中途读取开始此路线。"
+            },
+            {
+              "id": "step_19_002",
+              "type": "choice",
+              "content": "不看开头"
+            },
+            {
+              "id": "step_19_003",
+              "type": "choice",
+              "content": "吃便当"
+            },
+            {
+              "id": "step_19_004",
+              "type": "choice",
+              "content": "和环一起"
+            },
+            {
+              "id": "step_19_005",
+              "type": "choice",
+              "content": "留在学校"
+            },
+            {
+              "id": "step_19_006",
+              "type": "choice",
+              "content": "可怕的家伙"
+            }
+          ]
+        },
+        {
+          "id": "ending_20",
+          "name": "CG回收1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_20_001",
+              "type": "note",
+              "content": "继死亡次数12的情况下。"
+            },
+            {
+              "id": "step_20_002",
+              "type": "choice",
+              "content": "吃便当"
+            },
+            {
+              "id": "step_20_003",
+              "type": "choice",
+              "content": "和环一起行动"
+            },
+            {
+              "id": "step_20_004",
+              "type": "choice",
+              "content": "留在学校"
+            },
+            {
+              "id": "step_20_005",
+              "type": "choice",
+              "content": "街上出现的黑衣男子"
+            },
+            {
+              "id": "step_20_006",
+              "type": "choice",
+              "content": "普通对话"
+            },
+            {
+              "id": "step_20_007",
+              "type": "choice",
+              "content": "好像是...环的生日"
+            },
+            {
+              "id": "step_20_008",
+              "type": "choice",
+              "content": "离开学校"
+            },
+            {
+              "id": "step_20_009",
+              "type": "choice",
+              "content": "去车站前"
+            },
+            {
+              "id": "step_20_010",
+              "type": "note",
+              "content": "之后可回收3种录象的图片。"
+            }
+          ]
+        },
+        {
+          "id": "ending_21",
+          "name": "CG回收2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_21_001",
+              "type": "choice",
+              "content": "吃便当"
+            },
+            {
+              "id": "step_21_002",
+              "type": "choice",
+              "content": "一起行动"
+            },
+            {
+              "id": "step_21_003",
+              "type": "choice",
+              "content": "去公园"
+            },
+            {
+              "id": "step_21_004",
+              "type": "choice",
+              "content": "和瑠花一起玩"
+            },
+            {
+              "id": "step_21_005",
+              "type": "choice",
+              "content": "普通对话"
+            },
+            {
+              "id": "step_21_006",
+              "type": "choice",
+              "content": "好像是...环的生日"
+            },
+            {
+              "id": "step_21_007",
+              "type": "choice",
+              "content": "离开学校"
+            },
+            {
+              "id": "step_21_008",
+              "type": "choice",
+              "content": "去公园"
+            },
+            {
+              "id": "step_21_009",
+              "type": "choice",
+              "content": "强行",
+              "subfix": "人渣"
+            }
+          ]
+        },
+        {
+          "id": "ending_22",
+          "name": "BLCG回收1",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_22_001",
+              "type": "choice",
+              "content": "吃便当"
+            },
+            {
+              "id": "step_22_002",
+              "type": "choice",
+              "content": "单独行动"
+            },
+            {
+              "id": "step_22_003",
+              "type": "choice",
+              "content": "去公园"
+            },
+            {
+              "id": "step_22_004",
+              "type": "choice",
+              "content": "玩",
+              "subfix": "即时选项"
+            },
+            {
+              "id": "step_22_005",
+              "type": "choice",
+              "content": "保健室"
+            },
+            {
+              "id": "step_22_006",
+              "type": "choice",
+              "content": "叫住"
+            },
+            {
+              "id": "step_22_007",
+              "type": "choice",
+              "content": "去"
+            }
+          ]
+        },
+        {
+          "id": "ending_23",
+          "name": "BLCG回收2",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_23_001",
+              "type": "choice",
+              "content": "吃便当"
+            },
+            {
+              "id": "step_23_002",
+              "type": "choice",
+              "content": "一起行动"
+            },
+            {
+              "id": "step_23_003",
+              "type": "choice",
+              "content": "去公园"
+            },
+            {
+              "id": "step_23_004",
+              "type": "choice",
+              "content": "和瑠花玩"
+            },
+            {
+              "id": "step_23_005",
+              "type": "choice",
+              "content": "惊吓环"
+            },
+            {
+              "id": "step_23_006",
+              "type": "choice",
+              "content": "不知道"
+            },
+            {
+              "id": "step_23_007",
+              "type": "choice",
+              "content": "上级生教室"
+            },
+            {
+              "id": "step_23_008",
+              "type": "choice",
+              "content": "无视不安"
+            },
+            {
+              "id": "step_23_009",
+              "type": "choice",
+              "content": "说没用"
+            }
+          ]
+        },
+        {
+          "id": "ending_24",
+          "name": "BLCG回收3",
+          "type": "normal",
+          "steps": [
+            {
+              "id": "step_24_001",
+              "type": "choice",
+              "content": "吃便当"
+            },
+            {
+              "id": "step_24_002",
+              "type": "choice",
+              "content": "一起行动"
+            },
+            {
+              "id": "step_24_003",
+              "type": "choice",
+              "content": "去公园"
+            },
+            {
+              "id": "step_24_004",
+              "type": "choice",
+              "content": "和瑠花玩"
+            },
+            {
+              "id": "step_24_005",
+              "type": "choice",
+              "content": "惊吓环"
+            },
+            {
+              "id": "step_24_006",
+              "type": "choice",
+              "content": "好像是...环的生日"
+            },
+            {
+              "id": "step_24_007",
+              "type": "choice",
+              "content": "留在学校"
+            },
+            {
+              "id": "step_24_008",
+              "type": "choice",
+              "content": "沿线的道路"
+            },
+            {
+              "id": "step_24_009",
+              "type": "note",
+              "content": "ON、OFF 各有一张。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

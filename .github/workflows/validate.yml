@@ -1,0 +1,31 @@
+name: validate
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: validate-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      # 无第三方依赖，无需 npm ci；直接跑校验 + 索引一致性检查
+      - name: 校验攻略数据
+        run: node scripts/validate.mjs
+
+      - name: 校验 index.json 与数据是否同步
+        run: node scripts/build-index.mjs --check

@@ -1,0 +1,19 @@
+{
+  "name": "vn-walkthrough-db",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "静态视觉小说攻略数据库：所有数据以 JSON 存放于 walkthroughs/，由 index.json 统一导出，可直接通过 raw.githubusercontent.com 访问",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "build": "node scripts/build-index.mjs",
+    "check": "node scripts/validate.mjs && node scripts/build-index.mjs --check",
+    "validate": "node scripts/validate.mjs",
+    "scaffold": "node scripts/scaffold.mjs",
+    "crawl": "node scripts/crawl/crawl.mjs",
+    "crawl:probe": "node scripts/crawl/crawl.mjs --slug clannad --dry-run --no-index --no-sources --no-cache",
+    "hooks:install": "git config core.hooksPath .githooks"
+  }
+}

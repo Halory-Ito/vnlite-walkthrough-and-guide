@@ -1,0 +1,29 @@
+{
+  "source": "https://www.yjgalgame.com",
+  "sitemap": "https://www.yjgalgame.com/sitemap.xml",
+  "note": "抓取溯源清单：vid -> 源页面。仅用于署名与核对，攻略内容以 walkthroughs/ 内的文件为准。",
+  "games": {
+    "v792": {
+      "slug": "kamipani",
+      "url": "https://www.yjgalgame.com/gal/kamipani",
+      "vndbIds": [
+        "v792"
+      ],
+      "updatedAt": "2026-04-13",
+      "routesCount": 1,
+      "endingsCount": 5,
+      "stepsCount": 29
+    },
+    "v13325": {
+      "slug": "clover-days",
+      "url": "https://www.yjgalgame.com/gal/clover-days",
+      "vndbIds": [
+        "v13325"
+      ],
+      "updatedAt": "2026-07-12",
+      "routesCount": 5,
+      "endingsCount": 5,
+      "stepsCount": 16
+    }
+  }
+}
