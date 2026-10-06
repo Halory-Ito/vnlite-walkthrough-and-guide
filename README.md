@@ -43,7 +43,7 @@
 ├── data/
 │   ├── sources/yjgalgame.json     # 抓取溯源清单：vid -> 源页面
 │   └── yjgalgame-vid-map.json     # 手动指定 slug -> vid 的补丁
-├── .github/workflows/validate.yml # CI：校验数据 + 索引一致性
+├── .github/workflows/validate.yml # CI：校验数据 + 自动同步索引（GitHub Actions）
 └── .githooks/pre-commit           # 本地提交前校验（npm run hooks:install）
 ```
 
@@ -233,6 +233,8 @@ npm run crawl      # 抓取 yjgalgame 攻略（见下）
 
 编辑器已内置 schema（`.vscode/settings.json`），保存 `walkthroughs/**/*.json` 时会实时提示字段错误。
 
+CI 由 **GitHub Actions** 运行，配置见 `.github/workflows/validate.yml`：推送到 `main` 或向 `main` 发起 / 更新 PR 时，先 `node scripts/validate.mjs` 校验攻略数据。**推送到 `main`** 时再用 `node scripts/build-index.mjs` 重新生成 `index.json`，有变化就由机器人自动回提交（用内置 `GITHUB_TOKEN`，无需配置密钥），贡献者只需推攻略 JSON；**PR** 时只做严格校验（`build-index --check`），索引不同步则失败。若 `main` 开启了分支保护，需允许 GitHub Actions 直接推送（或改为通过 PR 合入）。
+
 ### 新增一份攻略
 
 ```bash
@@ -242,9 +244,15 @@ mkdir -p walkthroughs/1-10000/1-1000/101-200
 
 # 2. 写入 walkthroughs/1-10000/1-1000/101-200/v184.json（可参考 schema/walkthrough.schema.json）
 
-# 3. 校验 + 刷新索引，然后一起提交
-npm run check && git add walkthroughs index.json
+# 3. 刷新索引 + 校验，然后一起提交
+npm run build && npm run check && git add walkthroughs index.json
 ```
+
+> 推送到 `main` 时 CI 会自动生成并回提交 `index.json`，所以通常只提交 `walkthroughs/` 下的新攻略即可；若你通过 PR 贡献，或仓库未启用自动同步，请先 `npm run build` 再提交 `index.json`。
+
+不想手写 JSON？可以把原始攻略文字交给 LLM 自动转换：见 [docs/walkthrough-generation-prompt.md](docs/walkthrough-generation-prompt.md)（提示词会要求你提供 `vid` 与**非格式化**的攻略正文，输出可直接入库的 JSON）。
+
+完整的贡献流程、格式要求、常见错误与提交流程见 **[CONTRIBUTING.md](CONTRIBUTING.md)**。
 
 ## 抓取攻略
 
@@ -336,7 +344,7 @@ npm run crawl -- --concurrency 1 --delay 2000
 ### 溯源与合规
 
 - `data/sources/yjgalgame.json` 记录 `vid → 源页面 URL / slug / 源站更新时间`，用于署名与核对；攻略正文仍以 `walkthroughs/` 内的文件为准。
-- 抓取内容版权归原作者与源站所有。公开发布前请自行确认源站条款与授权范围，仓库根目录也建议补上 `LICENSE` 与数据来源声明。
+- 抓取内容版权归原作者与源站所有。公开发布前请自行确认源站条款与授权范围；本仓库的授权范围见 [`LICENSE`](LICENSE)（代码）与 [`DATA-LICENSE.md`](DATA-LICENSE.md)（数据）。
 - 若源站改版（payload 结构变化），解码器需要同步调整：`scripts/crawl/lib/payload.mjs`。解析失败会被记为失败并打印原因，不会写入半成品文件。
 
 ## 常见问题
@@ -348,3 +356,10 @@ npm run crawl -- --concurrency 1 --delay 2000
 **可以只索引不改正文吗？** 可以，`index.json` 只存元数据与路径，正文按需拉取；`--no-index` 可让爬虫不自动刷新索引。
 
 **Windows 终端里中文输出乱码？** 脚本输出是 UTF-8，若终端代码页不是 UTF-8 会显示乱码，不影响写出的 JSON 内容。先执行 `chcp 65001` 或在 Windows Terminal / PowerShell 7 里运行即可。
+
+## 许可证
+
+- **代码**（`scripts/`、`schema/`、`.github/` 等）：[MIT](LICENSE)。
+- **数据与文档内容**（`walkthroughs/`、`index.json`、`data/`、README 等）：见 [DATA-LICENSE.md](DATA-LICENSE.md)。攻略正文版权归原作者与源站所有，本仓库仅作整理与索引。
+
+欢迎参与贡献，请先阅读 [CONTRIBUTING.md](CONTRIBUTING.md)。

@@ -6,8 +6,10 @@ on:
   pull_request:
   workflow_dispatch:
 
+# 回提交 index.json 需要写权限；GitHub 会自动提供内置 GITHUB_TOKEN，无需手动配置密钥。
+# fork 发起的 PR 权限会被降级为只读，但下面只在 push 事件里回提交，不受影响。
 permissions:
-  contents: read
+  contents: write
 
 concurrency:
   group: validate-${{ github.ref }}
@@ -18,14 +20,35 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          # 回提交需要完整历史，避免浅克隆 push 被拒
+          fetch-depth: 0
 
       - uses: actions/setup-node@v4
         with:
           node-version: '20'
 
-      # 无第三方依赖，无需 npm ci；直接跑校验 + 索引一致性检查
+      # 无第三方依赖，无需 npm ci；直接跑校验脚本
       - name: 校验攻略数据
         run: node scripts/validate.mjs
 
-      - name: 校验 index.json 与数据是否同步
+      # PR：只严格校验 index.json 是否与数据同步，失败则让贡献者在本地生成
+      - name: 校验索引一致性（PR）
+        if: github.event_name == 'pull_request'
         run: node scripts/build-index.mjs --check
+
+      # push：重新生成 index.json，有变化就由机器人回提交
+      - name: 生成并回提交 index.json
+        if: github.event_name == 'push'
+        run: |
+          node scripts/build-index.mjs
+          if git diff --quiet -- index.json; then
+            echo "index.json 已是最新，无需回提交。"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add index.json
+          # [skip ci]：即使由 GITHUB_TOKEN 触发的 push 本就不会再触发 workflow，这里再上一道保险
+          git commit -m "chore: 自动同步 index.json [skip ci]"
+          git push
