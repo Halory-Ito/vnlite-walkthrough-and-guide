@@ -32,19 +32,13 @@
       "level": 2
     },
     {
-      "vid": "v11",
-      "path": "walkthroughs/1-10000/1-1000/1-100/v11.json",
-      "updatedAt": "2026-10-03",
-      "routesCount": 1,
-      "endingsCount": 1,
-      "stepsCount": 4,
-      "name": {
-        "zh-cn": "美好的每一天～不连续存在～",
-        "ja": "キミのナワ。"
-      },
-      "level": 0,
-      "author": "example"
-    },
+"vid": "v11",
+"path": "walkthroughs/1-10000/1-1000/1-100/v11.json",
+"updatedAt": "2026-10-06",
+"routesCount": 5,
+"endingsCount": 46,
+"stepsCount": 278
+},
     {
       "vid": "v12",
       "path": "walkthroughs/1-10000/1-1000/1-100/v12.json",
