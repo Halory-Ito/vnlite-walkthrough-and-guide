@@ -1,0 +1,602 @@
+{
+  "vid": "v11",
+  "updatedAt": "2026-10-06",
+  "tips": [
+    "Fate/stay night REMASTERED has three main routes: Saber, Rin, and Sakura.",
+    "Rin has True and Good endings, while Sakura has True and Normal endings.",
+    "Completing the main routes also unlocks Last Episode.",
+    "The walkthrough below also covers all 40 Bad Ends/Tiger Dojos. You’ll need 42 saves for the complete walkthrough."
+  ],
+  "routes": [
+    {
+      "name": "Saber Route",
+      "endings": [
+        {
+          "name": "Saber Route",
+          "type": "normal",
+          "steps": [
+            { "type": "note", "content": "Start" },
+            { "type": "choice", "content": "I’ll go help Sakra." },
+            { "type": "choice", "content": "I’ll help the student council." },
+            { "type": "choice", "content": "I’ll hang out with Fuji-nee." },
+            { "type": "note", "content": "(Don’t stop)" },
+            { "type": "save", "content": "SAVE 1" },
+            { "type": "choice", "content": "…Fight." },
+            { "type": "save", "content": "SAVE 2" },
+            { "type": "choice", "content": "I’ll help Saber!" },
+            { "type": "choice", "content": "Let’s talk about yesterday." },
+            { "type": "save", "content": "SAVE 3" },
+            { "type": "choice", "content": "Got it. Let’s team up." },
+            { "type": "choice", "content": "What hero is Saber?" },
+            { "type": "choice", "content": "Explain everything to Sakura." },
+            { "type": "choice", "content": "About Lancer." },
+            { "type": "choice", "content": "Talk to Rider" },
+            { "type": "save", "content": "SAVE 4" },
+            { "type": "choice", "content": "Don’t fight." },
+            { "type": "choice", "content": "The reason to fight…I want to know why she seeks the Holy Grail." },
+            { "type": "choice", "content": "I want to know more about Saber before she became a Servant." },
+            { "type": "choice", "content": "Swing by the park." },
+            { "type": "choice", "content": "Fuji-nee, where’s my gift?" },
+            { "type": "choice", "content": "I’ll go call Tohsaka" },
+            { "type": "choice", "content": "I can’t prevent it on my own!" },
+            { "type": "save", "content": "SAVE 5" },
+            { "type": "choice", "content": "This isn’t going to be a battle." },
+            { "type": "save", "content": "SAVE 6" },
+            { "type": "choice", "content": "I need Saber to come save me!" },
+            { "type": "save", "content": "SAVE 7" },
+            { "type": "choice", "content": "I need to follow Saber!" },
+            { "type": "choice", "content": "Rush up to Saber" },
+            { "type": "save", "content": "SAVE 8" },
+            { "type": "choice", "content": "I can’t do that." },
+            { "type": "save", "content": "SAVE 9" },
+            { "type": "choice", "content": "I just have to fight. The moment the door opens, I make the first move." },
+            { "type": "choice", "content": "I’m worried about Saber" },
+            { "type": "choice", "content": "Provide backup with my bow!" },
+            { "type": "save", "content": "SAVE 10" },
+            { "type": "choice", "content": "Don’t use it!" },
+            { "type": "choice", "content": "Shelter Illya" },
+            { "type": "choice", "content": "Okay, let’s have lunch." },
+            { "type": "choice", "content": "Ask about Projection in more detail." },
+            { "type": "save", "content": "SAVE 11" },
+            { "type": "choice", "content": "Saber and I will both head out." },
+            { "type": "choice", "content": "Believe in Tohsaka." },
+            { "type": "save", "content": "SAVE 12" },
+            { "type": "choice", "content": "No, Saber!" },
+            { "type": "save", "content": "SAVE 13" },
+            { "type": "choice", "content": "I stand up." },
+            { "type": "save", "content": "SAVE 14" },
+            { "type": "choice", "content": "Go down to the basement." },
+            { "type": "save", "content": "SAVE 15" },
+            { "type": "choice", "content": "Is there a method?" },
+            { "type": "choice", "content": "Have a strategy meeting." },
+            { "type": "choice", "content": "Return the sheath to Saber." }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rin Route",
+      "endings": [
+        {
+          "name": "Rin Route — True End",
+          "type": "true",
+          "requirements": "Complete the Rin Route with the choices listed below.",
+          "steps": [
+            { "type": "note", "content": "New Game" },
+            { "type": "choice", "content": "I’ll take care of my daily tasks." },
+            { "type": "choice", "content": "I’ll help student council." },
+            { "type": "choice", "content": "I’ll rest" },
+            { "type": "choice", "content": "Stop." },
+            { "type": "save", "content": "SAVE 16" },
+            { "type": "choice", "content": "…Go after them." },
+            { "type": "choice", "content": "Bring Saber back." },
+            { "type": "choice", "content": "Show Saber around school." },
+            { "type": "choice", "content": "I’ll go see how Saber’s doing." },
+            { "type": "save", "content": "SAVE 17" },
+            { "type": "choice", "content": "Jump back to the hallway…!" },
+            { "type": "choice", "content": "Can I hand her my Command Spells…?" },
+            { "type": "save", "content": "SAVE 18" },
+            { "type": "choice", "content": "Fight with my remaining left aim…!" },
+            { "type": "choice", "content": "I can’t say for sure." },
+            { "type": "choice", "content": "I’ll go tell Saber that I’m home before the sun sets and it’s dinnertime." },
+            { "type": "choice", "content": "…She’s after me. I’ll obediently go outside." },
+            { "type": "choice", "content": "Use my Commander Spell to call for Saber." },
+            { "type": "save", "content": "SAVE 19" },
+            { "type": "choice", "content": "…It’ll be pointless, so I won’t ask." },
+            { "type": "choice", "content": "I’m worried about Sakura. I’ll go to the Matou household." },
+            { "type": "choice", "content": "…That’s the only option." },
+            { "type": "save", "content": "SAVE 20" },
+            { "type": "choice", "content": "Protect Tohsaka…!" },
+            { "type": "save", "content": "SAVE 21" },
+            { "type": "choice", "content": "I have to talk to Tohsaka." },
+            { "type": "choice", "content": "I’ll make Japanese cuisine since there’s no bread. Actually, I’ll teach the culprit a lesson." },
+            { "type": "choice", "content": "Look inside." },
+            { "type": "save", "content": "SAVE 22" },
+            { "type": "choice", "content": "Refuse." },
+            { "type": "save", "content": "SAVE 23" },
+            { "type": "choice", "content": "Meet up with Tohsaka." },
+            { "type": "save", "content": "SAVE 24" },
+            { "type": "choice", "content": "…Not yet. I can’t act so recklessly." },
+            { "type": "choice", "content": "I’ll go help her." },
+            { "type": "choice", "content": "It’s impossible with just the two of us. We’ll cooperate with the other Masters." },
+            { "type": "save", "content": "SAVE 25" },
+            { "type": "choice", "content": "…Stop the man…!" },
+            { "type": "choice", "content": "…I don’t mind, but under one condition." },
+            { "type": "choice", "content": "…If I can stop them, why shouldn’t I try?" },
+            { "type": "choice", "content": "Strategize with Tohsaka." },
+            { "type": "save", "content": "SAVE 26" },
+            { "type": "choice", "content": "Bullshit, I’m not going that easily…!" }
+          ]
+        },
+        {
+          "name": "Rin Route — Good End",
+          "type": "good",
+          "steps": [
+            { "type": "load", "content": "LOAD 21" },
+            { "type": "choice", "content": "I’ll go talk to Saber at the dojo." },
+            { "type": "choice", "content": "I’ll make Japanese cuisine since there’s no bread. Actually, I’ll teach the culprit a lesson." },
+            { "type": "choice", "content": "Look inside." },
+            { "type": "choice", "content": "Refuse." },
+            { "type": "choice", "content": "Meet up with Tohsaka." },
+            { "type": "choice", "content": "…Not yet. I can’t act so recklessly." },
+            { "type": "choice", "content": "I’ll go help her." },
+            { "type": "choice", "content": "There’s no such thing. The only thing is to break through from the front." },
+            { "type": "choice", "content": "…Stop the man…!" },
+            { "type": "choice", "content": "…All right." },
+            { "type": "choice", "content": "…If I can stop them, why shouldn’t I try?" },
+            { "type": "choice", "content": "Go to the dojo and check on Saber." },
+            { "type": "choice", "content": "Bullshit, I’m not going that easily…!" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sakura Route",
+      "endings": [
+        {
+          "name": "Sakura Route — True End",
+          "type": "true",
+          "requirements": "Complete the Sakura Route with the choices listed below.",
+          "steps": [
+            { "type": "note", "content": "New Game" },
+            { "type": "choice", "content": "I’ll help the student council." },
+            { "type": "choice", "content": "I’ll walk Sakura home." },
+            { "type": "choice", "content": "Sakura’s coming, so I should add another dish." },
+            { "type": "choice", "content": "I’m worried about Sakura." },
+            { "type": "choice", "content": "…Fight." },
+            { "type": "choice", "content": "I’ll help Saber…!" },
+            { "type": "choice", "content": "We’ll go to Shinto." },
+            { "type": "choice", "content": "Consult her about Sakura." },
+            { "type": "choice", "content": "I don’t hate you." },
+            { "type": "choice", "content": "Tell Sakura myself." },
+            { "type": "choice", "content": "Should I go check on Sakura…?" },
+            { "type": "choice", "content": "I’ll play it off somehow." },
+            { "type": "choice", "content": "I’ll go out shopping." },
+            { "type": "choice", "content": "Punch Shinji." },
+            { "type": "save", "content": "SAVE 27" },
+            { "type": "choice", "content": "…No, I’m worried for Sakura." },
+            { "type": "save", "content": "SAVE 28" },
+            { "type": "choice", "content": "Invite her over as a guest." },
+            { "type": "choice", "content": "Investigate Ryudou Temple." },
+            { "type": "save", "content": "SAVE 29" },
+            { "type": "choice", "content": "Trust Saber and wait!" },
+            { "type": "choice", "content": "Because he was on guard for my counterattack?" },
+            { "type": "save", "content": "SAVE 30" },
+            { "type": "choice", "content": "I can’t do this alone. I need Tohsaka’s help." },
+            { "type": "choice", "content": "Yes" },
+            { "type": "choice", "content": "Yes" },
+            { "type": "save", "content": "SAVE 31" },
+            { "type": "choice", "content": "Like hell I will!" },
+            { "type": "choice", "content": "I can’t leave Sakura alone any longer." },
+            { "type": "save", "content": "SAVE 32" },
+            { "type": "choice", "content": "I pull Tohsaka back." },
+            { "type": "save", "content": "SAVE 33" },
+            { "type": "choice", "content": "I want to be on Sakura’s side." },
+            { "type": "choice", "content": "More importantly, aren’t you going to eat Rider?" },
+            { "type": "save", "content": "SAVE 34" },
+            { "type": "choice", "content": "I should hurry up and see what’s going on." },
+            { "type": "save", "content": "SAVE 35" },
+            { "type": "choice", "content": "Protect Illya…!" },
+            { "type": "choice", "content": "Illya, I guess?" },
+            { "type": "choice", "content": "Take it off." },
+            { "type": "choice", "content": "I’ll check on Tohsaka and Illya." },
+            { "type": "choice", "content": "…I nod." },
+            { "type": "save", "content": "SAVE 36" },
+            { "type": "choice", "content": "Accept." },
+            { "type": "save", "content": "SAVE 37" },
+            { "type": "choice", "content": "…I just can’t do it." },
+            { "type": "choice", "content": "Rush home." },
+            { "type": "save", "content": "SAVE 38" },
+            { "type": "choice", "content": "I’ll save Sakura. I’ll take Illya back." },
+            { "type": "save", "content": "SAVE 39" },
+            { "type": "choice", "content": "Nod." },
+            { "type": "choice", "content": "Bring Illya home." },
+            { "type": "save", "content": "SAVE 40" },
+            { "type": "choice", "content": "Tell her the answer she’s waited for." },
+            { "type": "choice", "content": "“Will you be on Sakura’s side until the end?”" },
+            { "type": "save", "content": "SAVE 41" },
+            { "type": "choice", "content": "Wait for my change…!" },
+            { "type": "save", "content": "SAVE 42" },
+            { "type": "choice", "content": "…Bring my arm down." },
+            { "type": "note", "content": "(…Is that really ok?)" }
+          ]
+        },
+        {
+          "name": "Sakura Route — Normal End",
+          "type": "normal",
+          "steps": [
+            { "type": "load", "content": "LOAD 42" },
+            { "type": "choice", "content": "…Bring my arm down." },
+            { "type": "choice", "content": "Do it." }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Last Episode",
+      "endings": [
+        {
+          "name": "Last Episode",
+          "type": "true",
+          "requirements": "Completing the main routes also unlocks Last Episode.",
+          "steps": [
+            { "type": "note", "content": "Main Menu" },
+            { "type": "note", "content": "Last Episode" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bad Ends/Tiger Dojos",
+      "endings": [
+        {
+          "name": "Bad End 1",
+          "type": "bad",
+          "steps": [
+            { "type": "load", "content": "LOAD 1" },
+            { "type": "choice", "content": "…Destroy the seal." }
+          ]
+        },
+        {
+          "name": "Bad End 2",
+          "type": "bad",
+          "steps": [
+            { "type": "load", "content": "LOAD 2" },
+            { "type": "choice", "content": "I’ll take Tohsaka and run…!" }
+          ]
+        },
+        {
+          "name": "Bad End 16 — Saber Route",
+          "type": "bad",
+          "steps": [
+            { "type": "load", "content": "LOAD 3" },
+            { "type": "choice", "content": "Sorry, but we can’t team up." },
+            { "type": "choice", "content": "Go to the student council room." },
+            { "type": "choice", "content": "I’ll go wake Fuji-nee up." }
+          ]
+        },
+        {
+          "name": "Bad End 3",
+          "type": "bad",
+          "steps": [
+            { "type": "load", "content": "LOAD 4" },
+            { "type": "choice", "content": "Fight." }
+          ]
+        },
+        {
+          "name": "Bad End 4",
+          "type": "bad",
+          "steps": [
+            { "type": "load", "content": "LOAD 5" },
+            { "type": "choice", "content": "I’ll defeat it before I get defeated…!" }
+          ]
+        },
+        {
+          "name": "Bad End 5",
+          "type": "bad",
+          "steps": [
+            { "type": "load", "content": "LOAD 6" },
+            { "type": "choice", "content": "I can’t! I can’t waste my Commander Spells!" }
+          ]
+        },
+        {
+          "name": "Bad End 6",
+          "type": "bad",
+          "steps": [
+            { "type": "load", "content": "LOAD 7" },
+            { "type": "choice", "content": "Wait here." }
+          ]
+        },
+        {
+          "name": "Bad End 7",
+          "type": "bad",
+          "steps": [
+            { "type": "load", "content": "LOAD 8" },
+            { "type": "choice", "content": "I’ll have to agree for now." }
+          ]
+        },
+        {
+          "name": "Bad End 8",
+          "type": "bad",
+          "steps": [
+            { "type": "load", "content": "LOAD 10" },
+            { "type": "choice", "content": "Is that really our choice?" }
+          ]
+        },
+        {
+          "name": "Bad End 9",
+          "type": "bad",
+          "steps": [
+            { "type": "load", "content": "LOAD 11" },
+            { "type": "choice", "content": "I’ll leave Caster to Saber and protect the two here." }
+          ]
+        },
+        {
+          "name": "Bad End 10",
+          "type": "bad",
+          "steps": [
+            { "type": "load", "content": "LOAD 12" },
+            { "type": "choice", "content": "You’re in range, Saber!" }
+          ]
+        },
+        {
+          "name": "Bad End 11",
+          "type": "bad",
+          "steps": [
+            { "type": "load", "content": "LOAD 13" },
+            { "type": "choice", "content": "I don’t get up." }
+          ]
+        },
+        {
+          "name": "Bad End 12",
+          "type": "bad",
+          "steps": [
+            { "type": "load", "content": "LOAD 14" },
+            { "type": "choice", "content": "Go back home." }
+          ]
+        },
+        {
+          "name": "Bad End 13",
+          "type": "bad",
+          "steps": [
+            { "type": "load", "content": "LOAD 9" },
+            { "type": "choice", "content": "…What about that bed over there?" },
+            { "type": "choice", "content": "I’m worried about Tohsaka." },
+            { "type": "choice", "content": "What will that do?" },
+            { "type": "choice", "content": "Don’t use it!" },
+            { "type": "choice", "content": "Shelter Illya." },
+            { "type": "choice", "content": "No can do. We’ll be fasting today." },
+            { "type": "choice", "content": "Question one." },
+            { "type": "choice", "content": "Saber and I will both head out." },
+            { "type": "choice", "content": "Believe in Tohsaka." },
+            { "type": "choice", "content": "No, Saber!" },
+            { "type": "choice", "content": "I stand up." },
+            { "type": "choice", "content": "Go down to the basement." }
+          ]
+        },
+        {
+          "name": "Bad End 14",
+          "type": "bad",
+          "steps": [
+            { "type": "load", "content": "LOAD 15" },
+            { "type": "choice", "content": "But still, Tohsaka." },
+            { "type": "choice", "content": "Report to Kiritsugu." }
+          ]
+        },
+        {
+          "name": "Bad End 15",
+          "type": "bad",
+          "steps": [
+            { "type": "load", "content": "LOAD 16" },
+            { "type": "choice", "content": "…Stay here." },
+            { "type": "choice", "content": "…Stay here." }
+          ]
+        },
+        {
+          "name": "Bad End 16 — Rin Route",
+          "type": "bad",
+          "steps": [
+            { "type": "load", "content": "LOAD 17" },
+            { "type": "choice", "content": "Jump to the stairs…!" }
+          ]
+        },
+        {
+          "name": "Bad End 17",
+          "type": "bad",
+          "steps": [
+            { "type": "load", "content": "LOAD 18" },
+            { "type": "choice", "content": "Use my Command Spell." }
+          ]
+        },
+        {
+          "name": "Bad End 18",
+          "type": "bad",
+          "steps": [
+            { "type": "load", "content": "LOAD 19" },
+            { "type": "choice", "content": "I’ll try asking him." }
+          ]
+        },
+        {
+          "name": "Bad End 19",
+          "type": "bad",
+          "steps": [
+            { "type": "load", "content": "LOAD 20" },
+            { "type": "choice", "content": "Go helo Saber…!" }
+          ]
+        },
+        {
+          "name": "Bad End 20",
+          "type": "bad",
+          "steps": [
+            { "type": "load", "content": "LOAD 22" },
+            { "type": "choice", "content": "Obey." }
+          ]
+        },
+        {
+          "name": "Bad End 21",
+          "type": "bad",
+          "steps": [
+            { "type": "load", "content": "LOAD 23" },
+            { "type": "choice", "content": "Go to church for advice." },
+            { "type": "choice", "content": "Run away." }
+          ]
+        },
+        {
+          "name": "Bad End 22",
+          "type": "bad",
+          "steps": [
+            { "type": "load", "content": "LOAD 24" },
+            { "type": "choice", "content": "…I’ll go out. I can give Tohsaka an opening now…!" }
+          ]
+        },
+        {
+          "name": "Bad End 23",
+          "type": "bad",
+          "steps": [
+            { "type": "load", "content": "LOAD 25" },
+            { "type": "choice", "content": "…Restrain myself." }
+          ]
+        },
+        {
+          "name": "Bad End 24",
+          "type": "bad",
+          "steps": [
+            { "type": "load", "content": "LOAD 26" },
+            { "type": "choice", "content": "…Then I’ll take you with me…!" }
+          ]
+        },
+        {
+          "name": "Bad End 25",
+          "type": "bad",
+          "steps": [
+            { "type": "load", "content": "LOAD 27" },
+            { "type": "choice", "content": "Patrol Miyama" },
+            { "type": "choice", "content": "Do what she wants to make it up to her." }
+          ]
+        },
+        {
+          "name": "Bad End 26",
+          "type": "bad",
+          "steps": [
+            { "type": "load", "content": "LOAD 28" },
+            { "type": "choice", "content": "Convince her to let it slide." }
+          ]
+        },
+        {
+          "name": "Bad End 27",
+          "type": "bad",
+          "steps": [
+            { "type": "load", "content": "LOAD 29" },
+            { "type": "choice", "content": "Cut Zouken down!" }
+          ]
+        },
+        {
+          "name": "Bad End 28",
+          "type": "bad",
+          "steps": [
+            { "type": "load", "content": "LOAD 30" },
+            { "type": "choice", "content": "…No this is my own problem." }
+          ]
+        },
+        {
+          "name": "Bad End 29",
+          "type": "bad",
+          "steps": [
+            { "type": "load", "content": "LOAD 32" },
+            { "type": "choice", "content": "I close my eyes and attack Rider." }
+          ]
+        },
+        {
+          "name": "Bad End 30",
+          "type": "bad",
+          "steps": [
+            { "type": "load", "content": "LOAD 33" },
+            { "type": "choice", "content": "…I’ll keep doing the right thing." }
+          ]
+        },
+        {
+          "name": "Bad End 31",
+          "type": "bad",
+          "steps": [
+            { "type": "load", "content": "LOAD 31" },
+            { "type": "choice", "content": "…I have no choice." },
+            { "type": "choice", "content": "There’s nothing I can do." },
+            { "type": "choice", "content": "I want to be on Sakura’s side." }
+          ]
+        },
+        {
+          "name": "Bad End 32",
+          "type": "bad",
+          "steps": [
+            { "type": "load", "content": "LOAD 34" },
+            { "type": "choice", "content": "…I should stay here." }
+          ]
+        },
+        {
+          "name": "Bad End 33",
+          "type": "bad",
+          "steps": [
+            { "type": "load", "content": "LOAD 35" },
+            { "type": "choice", "content": "Bring Tohsaka back…!" }
+          ]
+        },
+        {
+          "name": "Bad End 34",
+          "type": "bad",
+          "steps": [
+            { "type": "load", "content": "LOAD 36" },
+            { "type": "choice", "content": "Don’t accept." }
+          ]
+        },
+        {
+          "name": "Bad End 35",
+          "type": "bad",
+          "steps": [
+            { "type": "load", "content": "LOAD 37" },
+            { "type": "choice", "content": "Kill her myself." }
+          ]
+        },
+        {
+          "name": "Bad End 36",
+          "type": "bad",
+          "steps": [
+            { "type": "load", "content": "LOAD 38" },
+            { "type": "choice", "content": "We lose." }
+          ]
+        },
+        {
+          "name": "Bad End 37",
+          "type": "bad",
+          "steps": [
+            { "type": "load", "content": "LOAD 39" },
+            { "type": "choice", "content": "Refuse." }
+          ]
+        },
+        {
+          "name": "Bad End 38",
+          "type": "bad",
+          "steps": [
+            { "type": "load", "content": "LOAD 40" },
+            { "type": "choice", "content": "Run out of the shed…!" }
+          ]
+        },
+        {
+          "name": "Bad End 39",
+          "type": "bad",
+          "steps": [
+            { "type": "load", "content": "LOAD 41" },
+            { "type": "choice", "content": "Clash with Saber…!" }
+          ]
+        },
+        {
+          "name": "Bad End 40",
+          "type": "bad",
+          "steps": [
+            { "type": "load", "content": "LOAD 42" },
+            { "type": "choice", "content": "…Help Saber." }
+          ]
+        }
+      ]
+    }
+  ]
+}
