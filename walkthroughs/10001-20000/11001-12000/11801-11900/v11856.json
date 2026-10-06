@@ -1,0 +1,680 @@
+{
+  "vid": "v11856",
+  "name": {
+    "en-us": "Fureraba ~Friend to Lover~"
+  },
+  "updatedAt": "2026-10-06",
+  "routes": [
+    {
+      "name": "Himari Route",
+      "endings": [
+        {
+          "name": "Himari Confess",
+          "steps": [
+            {
+              "content": "Around when do you get up every day? / Drinking fresh water right after waking up is supposed to help.",
+              "subfix": "Himari - Small Talk"
+            },
+            {
+              "content": "The ventilation in the second-year classrooms is seriously great, don’t you think? / Yeah, we gotta plan ahead for that.",
+              "subfix": "Himari - School Life"
+            },
+            {
+              "content": "What do you do when we don’t have school? / Better rest when you can.",
+              "subfix": "Himari - Weekends and Holidays"
+            },
+            {
+              "type": "note",
+              "content": "So… what are your thoughts on us getting in the same class?",
+              "subfix": "Himari - Small Talk"
+            },
+            {
+              "content": "I’ve decided I’m gonna become a good student. / I’ll correct the school’s moral values.",
+              "subfix": "Rina - Small Talk"
+            },
+            {
+              "content": "How’s your outside of school club thing? / Maybe I’ll start a Meteor Strike Club.",
+              "subfix": "Rina - School Life"
+            },
+            {
+              "content": "Oh yeah, did you hear we’re supposedly getting more vending machines this month? / I’d personally love to see strawberry milk.",
+              "subfix": "Himari - School Life"
+            },
+            {
+              "content": "Is it just me, or does this town get like really crowded / Yeah, too many people can be a problem in and of itself.",
+              "subfix": "Himari - Weekends and Holidays"
+            },
+            {
+              "content": "Dang nice weather we’ve been having recently, don’t you think? / But if you think about, we’d run out of water without rain.",
+              "subfix": "Himari - Small Talk"
+            },
+            {
+              "content": "So yeah, we’re upperclassman. How’s it feel to have kids younger than us here now? / You sound pretty worked up over it. Don’t worry yourself to death over it, okay?",
+              "subfix": "Himari - School Life"
+            },
+            {
+              "content": "It’s pretty amazing how convenient cell phones are today, don’t you think? / Oh, I could help you out with yours sometime if you want?",
+              "subfix": "Himari - Small Talk"
+            },
+            {
+              "content": "You know, I don’t think I’ve ever seen you come late to school. / Yeah, you’re just kinda hurting yourself by coming in late.",
+              "subfix": "Himari - School Life"
+            },
+            {
+              "content": "What kinda books you like reading these days? / Yeah, thought I’d see what the experience is like compared to manga.",
+              "subfix": "Himari - Hobbies"
+            },
+            {
+              "content": "When do you usually go to sleep? / You’ve got my respect. It’s not easy to keep up a well-regulated schedule like that.",
+              "subfix": "Himari - Private Life"
+            },
+            {
+              "content": "Goals for this year? / You’ve got a taste tester right here.",
+              "subfix": "Himari - Future"
+            },
+            {
+              "content": "What’s your dream guy like? / Oh, so it’s not looks for you, huh.",
+              "subfix": "Himari - Romance"
+            },
+            {
+              "content": "I read ‘Love’s Worst Enemy.’ / I really need the next update.",
+              "subfix": "Himari - Hobbies 2"
+            },
+            {
+              "content": "Long-distance relationships seem difficult. / Yeah, you’d have to truly love that person.",
+              "subfix": "Himari - Romance 2"
+            },
+            { "content": "Ask me something about my hobbies. / You?", "subfix": "Himari - Ask Me" },
+            {
+              "content": "Smile at her. / Yeah, I get to spend time with you.",
+              "subfix": "Himari - Do Something"
+            },
+            {
+              "content": "Do you believe that aliens exist? / You know what, I think I agree.",
+              "subfix": "Himari - Supernatural"
+            },
+            {
+              "content": "I’d like to try aromatherapy myself. / Maybe something that’d make me relax.",
+              "subfix": "Himari - Hobbies 2"
+            },
+            {
+              "content": "Have you heard of that gelato store around here? / I really liked the strawberry.",
+              "subfix": "Himari - Chatting"
+            },
+            {
+              "content": "Ask me something about my private life. / I drink warm milk, so I can fall asleep easier.",
+              "subfix": "Himari - Ask Me"
+            },
+            {
+              "content": "Do you believe in love at first sight? / Isn’t it an instinctual kinda thing?",
+              "subfix": "Himari - Romance 2"
+            },
+            {
+              "content": "You ever notice that we have a lot of ‘gals’ around here? / Have you ever thought about trying and talking to one of them?",
+              "subfix": "Himari - Chatting"
+            },
+            {
+              "content": "What’s the girls’ impression of me? / Wow, thanks! Hearing that from you really boosts my self-confidence.",
+              "subfix": "Himari - Romance 2"
+            },
+            {
+              "content": "What’s your opinion on Japanese motion pictures? / Like they’re all cookie cutter stories, and full of clichés? / Yeah, it’s been on my mind. / How come you never told me?",
+              "subfix": "Himari - Hobbies 2"
+            },
+            {
+              "content": "What committee were you in last year? / Is it fun?",
+              "subfix": "Himari - Committee"
+            },
+            { "content": "Kisses. Give or receive? / Same here.", "subfix": "Himari - Romance 3" },
+            { "content": "Don’t see anyone / Don’t see anyone", "subfix": "Himari Route" },
+            {
+              "content": "Do you use perfume? / That explains why you smell so good.",
+              "subfix": "Himari - Looks"
+            },
+            {
+              "content": "Ask about candles’ soothing effects. / Whatever you think’s good.",
+              "subfix": "Himari - Hobbies 3"
+            },
+            {
+              "content": "Convenience store desserts rock. / Some of the sweet ones are tolerable for us guys.",
+              "subfix": "Himari - Chatting 2"
+            },
+            {
+              "content": "Stare at her. / That’s just the reaction I wanted to see!",
+              "subfix": "Himari - Do Something 2"
+            },
+            {
+              "content": "Confessions are best done in person? / Like the sincerity of your feelings?",
+              "subfix": "Himari - Romance 3"
+            },
+            {
+              "content": "Where do you usually buy your clothes? / Very cute. And it complements your personality too.",
+              "subfix": "Himari - Looks"
+            },
+            {
+              "content": "First thing you do with your new boyfriend? / That sounds nice to me too.",
+              "subfix": "Himari - Romance 3"
+            },
+            {
+              "content": "Seems like even guys are using makeup nowadays. / If it’ll make you fall me, let’s do it.",
+              "subfix": "Himari - Looks"
+            },
+            {
+              "content": "If you could go on a trip to any country, which would it be? / It’d be really cool to reenact movie scenes.",
+              "subfix": "Himari - Chatting 2"
+            },
+            {
+              "content": "What are your thoughts on cheating? / I would definitely be faithful to the girl I love.",
+              "subfix": "Himari - Romance 3"
+            },
+            {
+              "content": "I see you being a healer or support class. / Leave the attacking to me! / Sure. I was thinking the same. / You know how to communicate what you want, Himari. / Take her hand.",
+              "subfix": "Himari - Chatting 2"
+            },
+            { "content": "I’d wanna be controlling towards you.", "subfix": "Himari - Confess" },
+            { "content": "I won’t talk to other girls too.", "subfix": "Himari - Confess" },
+            { "content": "I’d love you both equally", "subfix": "Himari - Confess" },
+            { "content": "What’s the problem if you’re both Himari?", "subfix": "Himari - Confess" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rina Route",
+      "endings": [
+        {
+          "name": "Rina Confess",
+          "steps": [
+            {
+              "content": "I’ve decided I’m gonna become a good student. / I’ll correct the school’s moral values.",
+              "subfix": "Rina - Small Talk"
+            },
+            {
+              "content": "How’s your outside of school club thing? / Maybe I’ll start a Meteor Strike Club.",
+              "subfix": "Rina - School Life"
+            },
+            {
+              "content": "Around when do you get up every day? / Drinking fresh water right after waking up is supposed to help.",
+              "subfix": "Himari - Small Talk"
+            },
+            {
+              "content": "The ventilation in the second-year classrooms is seriously great, don’t you think? / Yeah, we gotta plan ahead for that.",
+              "subfix": "Himari - School Life"
+            },
+            {
+              "content": "Isn’t it tough working a part time job on the weekends? / I wish I could have a job where they paid me to play games!",
+              "subfix": "Rina - Weekends and Holidays"
+            },
+            {
+              "content": "Thoughts on all the cute new first years? / I must talk to them nevertheless!",
+              "subfix": "Rina - Small Talk"
+            },
+            {
+              "content": "I get so sleepy during afternoon classes. / I think it’s classes being so boring that’s the problem.",
+              "subfix": "Rina - School Life"
+            },
+            {
+              "content": "Don’t you just hate doing nothing on weekends? / I’m gonna change myself into the guy with plans every Sunday.",
+              "subfix": "Rina - Weekends and Holidays"
+            },
+            {
+              "content": "Any things you’ve been really into lately? / Since you like it maybe I will.",
+              "subfix": "Rina - Hobbies"
+            },
+            {
+              "content": "How many times do you clean your room per week? / You’re a clean freak! You’re a legit clean freak!",
+              "subfix": "Rina - Private Life"
+            },
+            {
+              "content": "Do you play any sports other than tennis? / Does lacrosse get that messy…?",
+              "subfix": "Rina - Fitness"
+            },
+            {
+              "content": "Anything you wanna achieve before you graduate? / That’s the kinda answer I’d expect from you.",
+              "subfix": "Rina - Future"
+            },
+            {
+              "content": "Tell me what girls think of love / Is that the suspension bridge effect?",
+              "subfix": "Rina - Romance"
+            },
+            {
+              "content": "Do you ever think about getting really good at one type of game? / There definitely are collectors.",
+              "subfix": "Rina - Hobbies"
+            },
+            {
+              "content": "What’s your plan for the scholarship test? / If only there was a test on having fun…",
+              "subfix": "Rina - Future"
+            },
+            {
+              "content": "How much money do you spend on your hobbies? / The people who mess with motorcycles must spend like a fortune every month.",
+              "subfix": "Rina - Hobbies"
+            },
+            {
+              "content": "Do you have any surprising hobbies? / That’s not surprising…",
+              "subfix": "Rina - Hobbies 2"
+            },
+            {
+              "content": "Too many commercials can legit ruin any show, don’t you feel like? / Alright, gimme one million yen and I’ll get to work.",
+              "subfix": "Rina - Chatting"
+            },
+            {
+              "content": "What advice do you give a man after he gets rejected? / If I were in that situation I’d level up and try again.",
+              "subfix": "Rina - Romance 2"
+            },
+            {
+              "content": "Ask me something about my hobbies. / Probably fun songs.",
+              "subfix": "Rina - Ask Me"
+            },
+            {
+              "content": "Stare at her. / Mind if I give you a hug?",
+              "subfix": "Rina - Do Something"
+            },
+            {
+              "content": "Can being a hard worker get you a raise? / Someone as great as the noble Rina must only get the highest of wages.",
+              "subfix": "Rina - Work"
+            },
+            {
+              "content": "Does bathing powder really work? / You know what bathing powders are effective? / ‘Me too.’ / ‘Talk about Ayabe.’",
+              "subfix": "Rina - Hobbies 2"
+            },
+            {
+              "content": "I’ve been having a lotta fun talking to this certain someone lately. / I was thinking it so I figured I’d say it.",
+              "subfix": "Rina - Romance 3"
+            },
+            {
+              "content": "Appearance is just a matter of luck when you think about it? / You’re really convincing, Mochizuki.",
+              "subfix": "Rina - Looks"
+            },
+            {
+              "content": "Can you make homemade soap? / Lemme be your model next time you’re making me some soap.",
+              "subfix": "Rina - Hobbies 3"
+            },
+            {
+              "content": "I really wish they wouldn’t rank everyone in our grade level with test scores. / So, we can say we did better than our peers?",
+              "subfix": "Rina - Chatting 2"
+            },
+            { "content": "Smile at her. / You could say that.", "subfix": "Rina - Do Something 2" },
+            {
+              "content": "What do you do to keep up on fashion? / At that point why not just create your own fashion trend?",
+              "subfix": "Rina - Trends"
+            },
+            {
+              "content": "What do you think of controlling girlfriends? / I wish people had more confidence to just say no to stuff like that.",
+              "subfix": "Rina - Romance 3"
+            },
+            {
+              "content": "Ever thought about getting plastic surgery? / Your body is something like a gift from your parents.",
+              "subfix": "Rina - Looks"
+            },
+            {
+              "content": "Have you ever had pickled celery? / Same here.",
+              "subfix": "Rina - Hobbies 3"
+            },
+            {
+              "content": "I feel like you worry about what you wear when you start crushing on someone. / I’m gonna start wearing suits to school from now on.",
+              "subfix": "Rina - Romance 3"
+            },
+            {
+              "content": "What’s this whole ‘cool-cute’ thing? / I feel like they should just pick cool or cute, one or the other.",
+              "subfix": "Rina - Looks"
+            },
+            {
+              "content": "What rice cookies would you recommend? / Very refined.",
+              "subfix": "Rina - Hobbies 3"
+            },
+            { "content": "Stare at her. / S-Say something…", "subfix": "Rina - Do Something 2" },
+            {
+              "content": "Gimme an example of the type of guy girls would see as a ‘slob’. / I bath regularly I swear!",
+              "subfix": "Rina - Romance 3"
+            },
+            {
+              "content": "Don’t see anyone / I was really worried you were gonna say yes. / You aren’t. / Take her hand.",
+              "subfix": "Rina Route"
+            },
+            { "content": "‘It was kinda exciting.’", "subfix": "Rina - Confess" },
+            { "content": "‘I’ll give you everything you want.’", "subfix": "Rina - Confess" },
+            { "content": "‘You mean the world to me too.’", "subfix": "Rina - Confess" },
+            {
+              "content": "‘You don’t have to. I just enjoy eating out with my girlfriend.’",
+              "subfix": "Rina - Confess"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Yuzuyu Route",
+      "endings": [
+        {
+          "name": "Yuzuyu Confess",
+          "steps": [
+            {
+              "content": "Do you prefer red or white miso in your soup? / How could you?! Miso must be red!",
+              "subfix": "Yuzuyu - Small Talk"
+            },
+            {
+              "content": "Isn’t it a crime that the cafeteria doesn’t have salted ramen?! / Tsukemen is the cuisine of heaven.",
+              "subfix": "Yuzuyu - School Life"
+            },
+            {
+              "content": "Do you ever go to the sports center? / You know how men get laughed at if they’re by themselves?",
+              "subfix": "Yuzuyu - Weekends and Holidays"
+            },
+            {
+              "content": "Do you like fizzy drinks? / You can make it a lot better putting in snow cone syrup.",
+              "subfix": "Yuzuyu - Small Talk"
+            },
+            {
+              "content": "You look like you’d enjoy scuba diving, Hiiragi. / Don’t you wanna try scuba diving though?",
+              "subfix": "Yuzuyu - Hobbies"
+            },
+            {
+              "content": "Do you have any stuffed toys, Hiiragi? / Take out Ribbity McRibbiter.",
+              "subfix": "Yuzuyu - Private Life"
+            },
+            {
+              "content": "How’d you do on last year’s sports test? / Top of the class at the jumping test. Pretty cool, huh?",
+              "subfix": "Yuzuyu - Fitness"
+            },
+            {
+              "content": "What would you do if you could time travel to the future? / Man, you’re pretty childish, Hiiragi.",
+              "subfix": "Yuzuyu - Future"
+            },
+            {
+              "content": "Did you hear they put out new flavors of lollipops? / Soybean.",
+              "subfix": "Yuzuyu - Hobbies 2"
+            },
+            {
+              "content": "How’s Pom-Pom doing? / Make me your pet, Hiiragi!",
+              "subfix": "Yuzuyu - Chatting"
+            },
+            {
+              "content": "What do you think of me? / Aww, you know me so well, Hiiragi.",
+              "subfix": "Yuzuyu - Romance 2"
+            },
+            {
+              "content": "Ask me about my hobbies. / I’m a Hiiragi teaser.",
+              "subfix": "Yuzuyu - Ask Me"
+            },
+            {
+              "content": "Stare at her. / You have some really pretty eyelashes.",
+              "subfix": "Yuzuyu - Do Something"
+            },
+            {
+              "content": "Did you know you can legally own a giraffe in Japan? / You think giraffes eat rice and bread?",
+              "subfix": "Yuzuyu - Pets"
+            },
+            {
+              "content": "Have you played any fighting games since that one time? / We gotta have an online match together!",
+              "subfix": "Yuzuyu - Hobbies 2"
+            },
+            {
+              "content": "Do you think star-crossed lovers are still a thing? / What would you do if I was a king?",
+              "subfix": "Yuzuyu - Romance 2"
+            },
+            {
+              "content": "Smile at her. / I don’t have to shit, okay!",
+              "subfix": "Yuzuyu - Do Something"
+            },
+            {
+              "content": "Do you like insects? / Do you like praying mantises?",
+              "subfix": "Yuzuyu - Pets"
+            },
+            {
+              "content": "Don’t marriage interviews just sound like hell? / Maybe if we made ’em like pro-wrestling matches.",
+              "subfix": "Yuzuyu - Romance 2"
+            },
+            {
+              "content": "Around when do you get up every day? / Drinking fresh water right after waking up is supposed to help.",
+              "subfix": "Himari - Small Talk"
+            },
+            {
+              "content": "The ventilation in the second-year classrooms is seriously great, don’t you think? / Yeah, we gotta plan ahead for that.",
+              "subfix": "Himari - School Life"
+            },
+            {
+              "content": "Ask me about my private life. / At midnight.",
+              "subfix": "Yuzuyu - Ask Me"
+            },
+            {
+              "content": "Don’t you think it’d kinda difficult to keep a tropical fish? / Reminds me of you. / Just surprised that you’re speaking your feelings so honestly. / Ask if she has a crush on anyone / Don’t see anyone",
+              "subfix": "Yuzuyu - Pets"
+            },
+            {
+              "content": "What kinda things should I do if I get a girlfriend? / I’d love to sleep together.",
+              "subfix": "Yuzuyu - Romance 3"
+            },
+            {
+              "content": "Isn’t it interesting how a person’s hair can change your impression of them? / Hm, maybe I should shave my head!",
+              "subfix": "Yuzuyu - Looks"
+            },
+            {
+              "content": "Did you know that hippos are apparently super strong? / You don’t wanna piss a hippo off, ’cause they get mad.",
+              "subfix": "Yuzuyu - Hobbies 3"
+            },
+            {
+              "content": "Are racing swimsuits as expensive as they seem? / That must suck for girls.",
+              "subfix": "Yuzuyu - Chatting 2"
+            },
+            {
+              "content": "Stare at her. / N-Nevermind, it’s nothing…",
+              "subfix": "Yuzuyu - Do Something 2"
+            },
+            {
+              "content": "Is the breaststroke good for conserving stamina like they say? / The breaststroke kinda reminds me of a frog.",
+              "subfix": "Yuzuyu - Swimming"
+            },
+            {
+              "content": "Kisses. Give or receive? / I’m a kisser.",
+              "subfix": "Yuzuyu - Romance 3"
+            },
+            {
+              "content": "Don’t you just wish you had all the perks that hot people do? / Wow, I’m glad I’m not hot!",
+              "subfix": "Yuzuyu - Looks"
+            },
+            {
+              "content": "Do you use earphones when listening to music? / Don’t you hate the ones that go into your ears?",
+              "subfix": "Yuzuyu - Chatting 2"
+            },
+            {
+              "content": "Around what age do you plan on getting married, Hiiragi? / You know how people say marriage is the biggest mistake you can make?",
+              "subfix": "Yuzuyu - Romance 3"
+            },
+            { "content": "Do you not like me? / Never. / Hold her hand", "subfix": "Yuzuyu Route" },
+            { "content": "‘Yep, today was our first kiss.’", "subfix": "Yuzuyu - Confess" },
+            {
+              "content": "‘Wait, wait! Nobody ever said that wasn’t my first!’",
+              "subfix": "Yuzuyu - Confess"
+            },
+            {
+              "content": "‘How about the beach? We can go ahead and conquer one fear of yours’",
+              "subfix": "Yuzuyu - Confess"
+            },
+            { "content": "‘I love you too.’", "subfix": "Yuzuyu - Confess" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Misaki Route",
+      "endings": [
+        {
+          "name": "Misaki Confess",
+          "steps": [
+            { "content": "Don’t see anyone", "subfix": "??? Route" },
+            { "content": "Approach her.", "subfix": "??? Route" },
+            { "content": "Don’t see anyone", "subfix": "??? Route" },
+            { "content": "Don’t see anyone", "subfix": "??? Route" },
+            { "content": "Be tenacious and go up to her.", "subfix": "??? Route" },
+            { "content": "Don’t see anyone", "subfix": "??? Route" },
+            {
+              "content": "Do you know some unusual tea? / Are you sure this tea exists?",
+              "subfix": "Misaki - Hobbies"
+            },
+            {
+              "content": "Do you have a blog, or anything similar? / I just can’t keep one up for more than three days.",
+              "subfix": "Misaki - Private Life"
+            },
+            {
+              "content": "Do you like sports players? / Guess it’s time for me to pick up a sport.",
+              "subfix": "Misaki - Fitness"
+            },
+            {
+              "content": "I can’t really picture myself in ten years. / Don’t worry. I’m gonna be the savior of the planet.",
+              "subfix": "Misaki - Future"
+            },
+            {
+              "content": "Do you have any TV show recommendations? / Classes at school would be fun if they were in a quiz format.",
+              "subfix": "Misaki - Hobbies 2"
+            },
+            {
+              "content": "What kind of sweets do you like? / Gummies are so addictive.",
+              "subfix": "Misaki - Chatting"
+            },
+            {
+              "content": "Love can make people do bold things. / I’m doing it right now as we speak.",
+              "subfix": "Misaki - Romance 2"
+            },
+            {
+              "content": "Ask me something about my hobbies. / Yep. Most of them are indoors stuff.",
+              "subfix": "Misaki - Ask Me"
+            },
+            {
+              "content": "Stare at her. / You’re pretty good, Senpai.",
+              "subfix": "Misaki - Do Something"
+            },
+            {
+              "content": "Have you heard of ceramic knives? / There’s so many cute design out there for knives.",
+              "subfix": "Misaki - Cooking"
+            },
+            {
+              "content": "Do you have any book recommendation? / Some books even have 3-D.",
+              "subfix": "Misaki - Hobbies 2"
+            },
+            {
+              "content": "Bread from the bakery is delicious, isn’t it? / Croissants are also pretty great, aren’t they?",
+              "subfix": "Misaki - Chatting"
+            },
+            {
+              "content": "Ask me something about my personal life. / If I have homework, I’ll do that instead of reading manga.",
+              "subfix": "Misaki - Ask Me"
+            },
+            {
+              "content": "Smile at her. / I’ll make you feel better with a little demonstration.",
+              "subfix": "Misaki - Do Something"
+            },
+            {
+              "content": "Do you ever just get this irresistible urge to hop on a swing? / Let’s get on a swing together some time!",
+              "subfix": "Misaki - Hobbies 2"
+            },
+            {
+              "content": "You get so sleepy after lunch. / Japan should implement that too!",
+              "subfix": "Misaki - Chatting"
+            },
+            {
+              "content": "Do you know any easy-to-prepare breakfast dishes? / Do you like veggies?",
+              "subfix": "Misaki - Cooking"
+            },
+            {
+              "type": "note",
+              "content": "What kinda guys do you think are prone to get rejected?",
+              "subfix": "Misaki - Romance 2"
+            },
+            {
+              "content": "Wonder what they base the ‘luck in love’ fortune off of. / Fortune-telling is all about the excitement and mystery.",
+              "subfix": "Misaki - Romance 2"
+            },
+            {
+              "content": "Ask me something about my school life. / I like classes.",
+              "subfix": "Misaki - Ask Me"
+            },
+            {
+              "type": "note",
+              "content": "Ask her if she enjoyed herself today",
+              "subfix": "Misaki Route"
+            },
+            {
+              "content": "Isn’t the red thread of fate just so romantic? / I say no thanks to a thread of fate",
+              "subfix": "Misaki - Romance 3"
+            },
+            {
+              "content": "I find buying fashion magazines embarrassing. / I dunno, it’s like I’m overstepping my bounds.",
+              "subfix": "Misaki - Looks"
+            },
+            {
+              "content": "Do you watch that ranger series show? / I always wanted to be the red ranger.",
+              "subfix": "Misaki - Hobbies 3"
+            },
+            {
+              "content": "Ever just end up randomly watching home shopping programs? / Those long reach pruning shears really leave an impression.",
+              "subfix": "Misaki - Chatting 2"
+            },
+            {
+              "content": "Stare at her. / Look at me, Senpai.",
+              "subfix": "Misaki - Do Something 2"
+            },
+            {
+              "content": "Feel like there’s been an increase in commercials lately. / I just can’t stand commercials.",
+              "subfix": "Misaki - TV"
+            },
+            {
+              "content": "My dream is to go on a trip with my girlfriend. / Good food is definitely the biggest factor.",
+              "subfix": "Misaki - Romance 3"
+            },
+            {
+              "content": "You look great in our school’s uniform. / I honestly wanted to wear the girls’ uniform.",
+              "subfix": "Misaki - Looks"
+            },
+            {
+              "content": "I picture you as being able to play the piano. / I’m a virtuoso on the triangle!!",
+              "subfix": "Misaki - Hobbies 3"
+            },
+            {
+              "content": "Collecting cards and stickers is so addictive. / Did you now it’s now common to RUB card packs at stores?",
+              "subfix": "Misaki - Hobbies 3"
+            },
+            {
+              "content": "I’ve been having tons of fun hanging out with you lately. / Guess I’ll disappear",
+              "subfix": "Misaki - Romance 3"
+            },
+            {
+              "content": "Personality is pretty important when it comes to appearance. / I’ll start by trying to act more confident.",
+              "subfix": "Misaki - Looks"
+            },
+            {
+              "content": "Libraries are surprisingly fun places to go to. / I know what you mean.",
+              "subfix": "Misaki - Hobbies 3"
+            },
+            {
+              "content": "TV resolutions really went up with digital television. / Well there’s no going back to analogue.",
+              "subfix": "Misaki - TV"
+            },
+            {
+              "content": "Is it good to go pricey on clothes? / Yeah, I’ve been trying to recently.",
+              "subfix": "Misaki - Looks"
+            },
+            {
+              "content": "Have you ever tried balloon art? / But when finished they look amazing",
+              "subfix": "Misaki - Hobbies 3"
+            },
+            {
+              "content": "Thank you again for the lunch. / I’d rather go home with you, Senpai. / Hold her hand",
+              "subfix": "Misaki Route"
+            },
+            { "content": "Hanpen shield!!", "subfix": "Misaki - Confess" },
+            {
+              "content": "I see you really liked our game during lunch.",
+              "subfix": "Misaki - Confess"
+            },
+            {
+              "content": "Oh no, thank you! You looked absolutely dazzling in that bikini!",
+              "subfix": "Misaki - Confess"
+            },
+            { "content": "I was waiting for your text", "subfix": "Misaki - Confess" },
+            { "content": "Man, that sounds like fun", "subfix": "Misaki - Confess" }
+          ]
+        }
+      ]
+    }
+  ]
+}

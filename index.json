@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "count": 484,
+  "count": 485,
   "latestUpdatedAt": "2026-10-06",
   "walkthroughs": [
     {
@@ -2973,6 +2973,17 @@
         "ja-Latn": "ojou-sama-wa-gokigen-naname"
       },
       "level": 2
+    },
+    {
+      "vid": "v11856",
+      "path": "walkthroughs/10001-20000/11001-12000/11801-11900/v11856.json",
+      "updatedAt": "2026-10-06",
+      "routesCount": 4,
+      "endingsCount": 4,
+      "stepsCount": 175,
+      "name": {
+        "en-us": "Fureraba ~Friend to Lover~"
+      }
     },
     {
       "vid": "v12072",
