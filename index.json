@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "count": 484,
-  "latestUpdatedAt": "2026-10-03",
+  "latestUpdatedAt": "2026-10-06",
   "walkthroughs": [
     {
       "vid": "v4",
@@ -32,13 +32,13 @@
       "level": 2
     },
     {
-"vid": "v11",
-"path": "walkthroughs/1-10000/1-1000/1-100/v11.json",
-"updatedAt": "2026-10-06",
-"routesCount": 5,
-"endingsCount": 46,
-"stepsCount": 278
-},
+      "vid": "v11",
+      "path": "walkthroughs/1-10000/1-1000/1-100/v11.json",
+      "updatedAt": "2026-10-06",
+      "routesCount": 5,
+      "endingsCount": 47,
+      "stepsCount": 280
+    },
     {
       "vid": "v12",
       "path": "walkthroughs/1-10000/1-1000/1-100/v12.json",
